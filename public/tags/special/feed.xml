@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>special on La vista cansada</title>
+    <link>https://carlesbellver.github.io/blog/tags/special/</link>
+    <description>La vista cansada (special)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-es</language>
+    
+    <atom:link href="https://carlesbellver.github.io/blog/tags/special/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cercar</title>
+      <link>https://carlesbellver.github.io/blog/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/search/</guid>
+      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;https://carlesbellver.github.io/blog/scripts/search.css&#34; /&gt;
+&lt;script src=&#34;https://carlesbellver.github.io/blog/scripts/search.js&#34;&gt;&lt;/script&gt;
+&lt;form class=&#34;search&#34; onSubmit=&#34;return false;&#34;&gt;
+	&lt;input class=&#34;field&#34; type=&#34;text&#34; name=&#34;q&#34; id=&#34;input_search&#34; placeholder=&#34;Paraules clau&#34; onChange=&#34;runSearch(this.value.toLowerCase());&#34; /&gt;&lt;input class=&#34;submit&#34; type=&#34;submit&#34; value=&#34;cerca&#34; /&gt;
+&lt;/form&gt;
+&lt;div id=&#34;list_results&#34;&gt;
+   &lt;p style=&#34;text-align: center;&#34;&gt;S&#39;està carregant l&#39;índex de paraules…&lt;/p&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fotos</title>
+      <link>https://carlesbellver.github.io/blog/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/photos/</guid>
+      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;https://carlesbellver.github.io/blog/scripts/microgram.css&#34; /&gt;
+&lt;div id=&#34;microgram&#34;&gt;
+  S&#39;estan carregant les fotos…
+&lt;/div&gt;
+&lt;script src=&#34;https://carlesbellver.github.io/blog/scripts/microgram.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Informació i contacte</title>
+      <link>https://carlesbellver.github.io/blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/about/</guid>
+      <description>&lt;p&gt;Analista de tecnologia educativa del Centre d&amp;rsquo;Educació i Noves Tecnologies (CENT) de la Universitat Jaume I de Castelló.&lt;/p&gt;
+&lt;p&gt;Escriptor amateur.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:carles@carlesbellver.net&#34;&gt;carles@carlesbellver.net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tal dia com avui</title>
+      <link>https://carlesbellver.github.io/blog/onthisday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/onthisday/</guid>
+      <description>&lt;div id=&#34;onthisday&#34;&gt;
+  S&#39;estan carregant els textos…
+&lt;/div&gt;
+&lt;script src=&#34;https://carlesbellver.github.io/blog/scripts/micromemories.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

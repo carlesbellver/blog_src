@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intl on La vista cansada</title>
+    <link>https://carlesbellver.github.io/blog/tags/intl/</link>
+    <description>La vista cansada (intl)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-es</language>
+    <lastBuildDate>Wed, 14 Oct 2020 16:30:01 +0000</lastBuildDate>
+    
+    <atom:link href="https://carlesbellver.github.io/blog/tags/intl/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      
+      <link>https://carlesbellver.github.io/blog/2020/10/14/170449/</link>
+      <pubDate>Wed, 14 Oct 2020 16:30:01 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/2020/10/14/170449/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.uji.es&#34;&gt;Universitat Jaume I&lt;/a&gt; de Castelló. October 14th 16:30 CEST (UTC+2). &lt;a href=&#34;http://micro.blog/discover/adayinthelife&#34;&gt;#adayinthelife&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://carlesbellver.github.io/blog/uploads/2020/qkk95zepbe.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://carlesbellver.github.io/blog/2020/05/23/publicitat.html</link>
+      <pubDate>Sat, 23 May 2020 20:16:48 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/2020/05/23/publicitat.html</guid>
+      <description>&lt;p&gt;PUBLICITAT&lt;/p&gt;
+&lt;img src=&#34;https://carlesbellver.github.io/blog/uploads/2020/570ba9d7e6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://carlesbellver.github.io/blog/2020/02/11/this-scrips-intends.html</link>
+      <pubDate>Tue, 11 Feb 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/2020/02/11/this-scrips-intends.html</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://github.com/simonthum/git-sync&#34;&gt;GitHub - simonthum/git-sync: Safe and simple one-script git synchronization&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This scrips intends to sync near-automatically via git in &amp;ldquo;tracking&amp;rdquo; repositories where a nice history is not as crucial as having one.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://carlesbellver.github.io/blog/2020/02/04/philip-k-dick.html</link>
+      <pubDate>Tue, 04 Feb 2020 19:03:00 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/2020/02/04/philip-k-dick.html</guid>
+      <description>&lt;p&gt;Philip K. Dick used to query the I Ching. The thing is, I prefer the &lt;a href=&#34;https://en.wikipedia.org/wiki/Oblique_Strategies&#34;&gt;Oblique Strategies&lt;/a&gt; by Brian Eno and Peter Schmidt, so I&amp;rsquo;ve spent some time implementing them &lt;a href=&#34;https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479&#34;&gt;on this handheld microconsole&lt;/a&gt;. It&amp;rsquo;s like carrying on a small oracle.&lt;/p&gt;
+&lt;img alt=&#34;Arduboy handheld microconsole&#34; style=&#34;width:600px;height:600px;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2020/a3b9424db8.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://carlesbellver.github.io/blog/2019/06/07/miskatonic-university-digital.html</link>
+      <pubDate>Fri, 07 Jun 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://carlesbellver.github.io/blog/2019/06/07/miskatonic-university-digital.html</guid>
+      <description>&lt;p&gt;Miskatonic University Digital Strategy Plan. Main themes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cryptography&lt;/li&gt;
+&lt;li&gt;Deep Web &amp;amp; Dark Web&lt;/li&gt;
+&lt;li&gt;Quantum Computing&lt;/li&gt;
+&lt;li&gt;Viruses &amp;amp; Malware&lt;/li&gt;
+&lt;li&gt;Esoteric Programming Languages&lt;/li&gt;
+&lt;li&gt;InterPlanetary File System&lt;/li&gt;
+&lt;li&gt;Internet of Evil Things&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

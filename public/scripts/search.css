@@ -1,0 +1,35 @@
+#search {
+	display: none;
+}
+
+form.search {
+  text-align: center;  
+}
+
+form input {
+}
+
+.field {
+	width: 240px;
+	height: 24px;
+	font-size: 13px;
+	font-weight: 400;
+	border: 2px solid #eee;
+	padding-left: 12px;
+	margin-top: 20px;
+	background-color: #fff;
+	margin-bottom: 0;
+	-webkit-appearance: none;
+}
+
+.submit {
+	width: 60px;
+	height: 24px;
+	font-size: 12px;
+	font-weight: 400;
+	margin-left: 1em;
+	border: 2px solid #eee;
+	background-color: #fff;
+	margin-bottom: 0;
+	-webkit-appearance: none;
+}

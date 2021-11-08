@@ -1,0 +1,184 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "La vista cansada",
+	"icon": "https://carlesbellver.github.io/blog/",
+	"home_page_url": "https://carlesbellver.github.io/blog/",
+	"feed_url": "https://carlesbellver.github.io/blog/feed.json",
+	"items": [
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/11/07/antonin-artaud/",
+				
+				"content_html": "<blockquote>\n<p>A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.</p>\n</blockquote>\n<img alt=\"Coberta del llibre “Carta a los poderes”, d'Antonin Artaud. 40a Fira del Llibre Antic i d'Ocasió a Castelló de la Plana.\" src=\"/uploads/2021/2021-11-07-antonin-artaud.jpg\">\n",
+				"date_published": "2021-11-07T12:25:28+01:00",
+				"url": "https://carlesbellver.github.io/blog/2021/11/07/antonin-artaud/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/11/06/arqueologia-aigua/",
+				
+				"content_html": "<p>Arqueologia de l&rsquo;aigua.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-11-06-arqueologia-aigua.jpg\">\n",
+				"date_published": "2021-11-06T14:02:05+01:00",
+				"url": "https://carlesbellver.github.io/blog/2021/11/06/arqueologia-aigua/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/11/04/n-est-pas-un-livre/",
+				
+				"content_html": "<p>Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d&rsquo;aquesta imatge.</p>\n<img alt=\"Una imatge en format PNG que conté un fitxer de text\" src=\"/uploads/2021/2021-11-04-unicorns.png\">\n<pre><code>$ unzip 2021-11-04-unicorns.png\nArchive:  2021-11-04-unicorns.png\ninflating: unicorns.txt\n</code></pre>\n<p>Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP al final del PNG o JPEG i obtenir una mena de fitxer 2×1.</p>\n<p>Més detalls tècnics ací 👉 <a href=\"https://github.com/DavidBuchanan314/tweetable-polyglot-png\">tweetable-polyglot-png</a></p>\n",
+				"date_published": "2021-11-04T18:30:00+01:00",
+				"url": "https://carlesbellver.github.io/blog/2021/11/04/n-est-pas-un-livre/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/11/01/tots-sants/",
+				
+				"content_html": "<p>Tots Sants.</p>\n<img alt=\"Plaça de Santa Clara a Castelló\" src=\"/uploads/2021/2021-11-01-tots-sants.jpg\">\n",
+				"date_published": "2021-11-01T19:37:18+01:00",
+				"url": "https://carlesbellver.github.io/blog/2021/11/01/tots-sants/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/30/carr-fix-social-media/",
+				
+				"content_html": "<p>📎 Nicholas Carr: <a href=\"https://www.thenewatlantis.com/publications/how-to-fix-social-media\">How to Fix Social Media</a></p>\n<blockquote>\n<p>Desenredar el discurs personal del discurs públic és clarificador. Revela el doble paper que juguen les empreses de xarxes socials. Transmeten missatges personals en nom d&rsquo;individus i emeten una varietat de continguts al públic en general. Els dos negocis tenen característiques molt diferents, com hem vist, i exigeixen diferents tipus de supervisió.</p>\n</blockquote>\n",
+				"date_published": "2021-10-30T09:56:55+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/30/carr-fix-social-media/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/27/dune-ms-dos/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos\">The ‘Dune’ Screenplay Was Written in MS-DOS</a></p>\n<blockquote>\n<p>“És meitat superstició i meitat por al canvi.”<br>\n[…]<br>\nRes elimina les distraccions com un programa senzill sense accés a Internet. Roth també va dir que el límit de quaranta pàgines l&rsquo;ajuda a estructurar els seus guions. &ldquo;M&rsquo;agrada perquè separa els actes&rdquo;, va dir. &ldquo;M&rsquo;adone que si no ho he explicat en quaranta pàgines, comence a tenir problemes&rdquo;.</p>\n<p>Roth no és l&rsquo;únic escriptor que utilitza programes antics. George RR Martin ha escrit pausadament tots els seus llibres de <em>Joc de trons</em> amb el <a href=\"https://www.vice.com/en/article/53dwb3/it-makes-no-sense-that-word-processors-are-still-designed-for-the-printed-page\">WordStar</a> de MS-DOS.</p>\n</blockquote>\n",
+				"date_published": "2021-10-27T20:19:36+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/27/dune-ms-dos/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/27/medicamentos-fabulosos/",
+				
+				"content_html": "<p>📎 <a href=\"https://theconversation.com/carne-de-momia-y-cuerno-de-unicornio-los-magicos-origenes-de-la-farmacia-167683\">Carne de momia y cuerno de unicornio: los mágicos orígenes de la farmacia</a></p>\n<p>L&rsquo;article inclou una “Guía de medicamentos fabulosos”.</p>\n<blockquote>\n<p>La pezuña de la Gran Bestia, el cuerno de unicornio, la piedra bezoar, el almizcle, el cuerno de ciervo, la carne de momia, la enjundia humana, la triaca magna, el mitridato, el hueso de corazón de ciervo, el espodio, el escorpión, el castóreo, las esmeraldas, las perlas, el oro, la plata, el ajenjo. Estos y muchos otros remedios son los que conformaban la botica del misticismo, apoteca peregrina e insólita, también de inmundicias, y que han formado parte de la historia del arte de curar. Es decir, de la farmacia.</p>\n</blockquote>\n",
+				"date_published": "2021-10-27T18:35:15+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/27/medicamentos-fabulosos/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/24/premi-sambori-uji/",
+				
+				"content_html": "<p>Premi Sambori #UJI</p>\n<img alt=\"Premi Sambori 2004. Menció d'honor Universitat Jaume I.\" src=\"/uploads/2021/2021-10-24-premi-sambori-uji.jpg\">\n",
+				"date_published": "2021-10-24T18:35:46+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/24/premi-sambori-uji/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/22/meteorite-crashes-through-ceiling/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-meteorite-womans-bed-20211014-24gluwkodfa7rbxth346nv7w5e-story.html\">Meteorite crashes through ceiling and lands on woman’s bed</a></p>\n<blockquote>\n<p>Ruth Hamilton dormia profundament a casa seva a la Colúmbia Britànica quan la van despertar els lladrucs del seu gos, seguits d&rsquo;una “explosió”. Va saltar, va encendre el llum i va veure un forat al sostre. El rellotge marcava les 23:35.</p>\n<p>Primer va pensar que havia caigut un arbre damunt de la casa. Però tots els arbres hi eren. Va trucar al 911 i, mentre parlava amb un operador, va veure un gran objecte gris carbó entre els seus dos coixins florals.</p>\n</blockquote>\n",
+				"date_published": "2021-10-22T18:25:38+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/22/meteorite-crashes-through-ceiling/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/20/eixida/",
+				
+				"content_html": "<p>Eixida #UJI</p>\n<img alt=\"Eixida ampliació Biblioteca UJI nivell 0\" src=\"/uploads/2021/2021-10-20-eixida.jpg\">\n",
+				"date_published": "2021-10-20T20:38:10+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/20/eixida/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/13/imitation-life/",
+				
+				"content_html": "<p>Imitació de la vida.</p>\n<img alt=\"Planta artificial\" src=\"/uploads/2021/2021-10-13-imitation-life.jpg\">\n",
+				"date_published": "2021-10-13T18:20:27+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/13/imitation-life/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/10/nobel-borges/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/cultura/nobel-literatura-no-mejor-escritor-mundo_1_8374262.html\">¿Por qué (casi) nunca conocemos al Nobel de Literatura?</a></p>\n<blockquote>\n<p>…según reveló en 2018 el periódico sueco Svenska Dagbladet al desclasificar un informe de Academia realizado en la etapa en la que Borges fue nominado varias veces, el presidente del Comité del premio, Anders Osterling, rechazó a Borges porque resultaba &ldquo;demasiado exclusivo o artificial en su ingenioso arte en miniatura&rdquo;.</p>\n</blockquote>\n",
+				"date_published": "2021-10-10T10:41:31+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/10/nobel-borges/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/10/07/cavall/",
+				
+				"content_html": "<p>La cavalleria de l'#UJI.</p>\n<img alt=\"Escultura d'un cavall al Jardí dels Sentits de l'UJI\" src=\"/uploads/2021/2021-10-07-cavall.jpg\">\n",
+				"date_published": "2021-10-07T20:19:36+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/10/07/cavall/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/09/26/oscar-alzaga/",
+				
+				"content_html": "<p>📎 Óscar Alzaga: <a href=\"https://www.elconfidencial.com/espana/2021-09-26/oscar-alzaga-destruccion-archivos-policiales-franquismo_3296108/\">&ldquo;La destrucción de los archivos policiales del franquismo fue un disparate de Martín Villa y Suárez&rdquo;</a></p>\n<blockquote>\n<p>Mi impresión es que quienes vienen del franquismo y no de la oposición democrática están muy satisfechos con la falsa tesis que flota en nuestro país sobre que la democracia nos la donaron los últimos hombres del franquismo, a la muerte de su caudillo. Para poder sostener esta falacia quemaron millones de documentos policiales sobre la sistemática represión que durante más de treinta años se aplicó a la oposición democrática al franquismo, que con el apoyo importantísimo de las potencias europeas —que narro en este libro— fue cambiando la visión de nuestra población sobre qué tipo de vida pública debíamos gozar los españoles. A quien lea esta obra le van a quedar pocas dudas de que la labor de la oposición democrática fue determinante del final de un franquismo incompatible con ser uno de los estados de Derecho que integran la Unión Europa de la que felizmente somos miembros.</p>\n</blockquote>\n",
+				"date_published": "2021-09-26T18:15:00+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/09/26/oscar-alzaga/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/09/17/clive-sinclair/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81\">S&rsquo;ha mort Clive Sinclair</a>, inventor del ZX Spectrum amb què vaig aprendre a programar i amb què vaig guanyar els meus primers dinerets com a programador (ampliació del BASIC de l&rsquo;Spectrum, <em>Microhobby especial</em> núm. 4, octubre de 1986). I de l&rsquo;anterior ZX81 —MacGuffin i trava dels meus contes d'<a href=\"https://carlesbellver.net/contes/unicorns\">Unicorns</a>— entre més invents. DEP 😢</p>\n<img alt=\"\" src=\"/uploads/2021/2021-09-17-basic.jpg\">\n",
+				"date_published": "2021-09-17T09:30:00+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/09/17/clive-sinclair/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/09/15/asia/",
+				
+				"content_html": "<p>Àsia comença a l&rsquo;avinguda d&rsquo;Alcora.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-09-15-asia.jpg\">\n",
+				"date_published": "2021-09-15T19:14:39+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/09/15/asia/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/28/vacances/",
+				
+				"content_html": "<p>Les vacances.</p>\n<img alt=\"Passeig de l'Albereda. Morella\" src=\"/uploads/2021/2021-08-28-vacances.jpg\">\n",
+				"date_published": "2021-08-28T15:03:39+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/28/vacances/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/24/companys-de-viatge/",
+				
+				"content_html": "<p>Fan campanyes de foment de la lectura perquè volen <em>vendre</em> llibres. Però els molesta que la gent vulga escriure i sempre se n&rsquo;estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!</p>\n<blockquote>\n<p>Hi ha una pau meravellosa en no publicar.</p>\n</blockquote>\n<p>—<a href=\"/2018/04/17/the-new-york.html\">J. D. Salinger, 1974</a>.</p>\n",
+				"date_published": "2021-08-24T12:53:14+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/24/companys-de-viatge/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/23/wikipedia-gender-bias/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.cbc.ca/news/science/wikipedia-bias-1.6129073\">Canadian Nobel scientist&rsquo;s deletion from Wikipedia points to wider bias, study finds</a></p>\n<blockquote>\n<p>Un estudi de la sociòloga nord-americana Francesca Tripodi mostra que els editors voluntaris de la Wikipedia proposen l&rsquo;eliminació de pàgines referents a dones en una proporció superior a les pàgines sobre homes. Ha comprovat que les dones només representen el 19% de totes les pàgines, però sumen una quarta part de les recomanacions de supressió de pàgines.</p>\n<p>Un exemple ben conegut és el que va passar amb la científica canadenca Donna Strickland, que no apareixia a la Wikipedia immediatament després de guanyar el premi Nobel de física el 2018.</p>\n</blockquote>\n<p>El cas és que Strickland sí que havia tingut una pàgina a la Wikipedia, però havia estat esborrada. L&rsquo;explicació habitual en aquests casos és que els editors de la Wikipedia exigeixen que el tema sigui rellevant i que les dades es puguin verificar en publicacions independents i fiables: llibres i articles de premsa, per exemple. El problema, diuen, és que es troben menys publicacions sobre dones. El peix que es mossega la cua, doncs. Resulta, però, difícil de creure que algú no la considerés rellevant i que no hi haguessin prou referències disponibles, atès el currículum previ de <a href=\"https://en.wikipedia.org/wiki/Donna_Strickland\">Donna Strickland</a>.</p>\n<p>Potser el problema és que la gran majoria d&rsquo;editors de la Wikipedia són homes? Fins al 90% del total de col·laboradors, segons un informe de 2018. I segurament hi ha altres biaixos. Al cap i la fi, estem parlant de comunitats d&rsquo;editors, configurades de manera contingent i amb les típiques dinàmiques de grup i de <a href=\"https://en.wikipedia.org/wiki/Groupthink\">pensament de grup</a>.</p>\n",
+				"date_published": "2021-08-23T22:41:03+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/23/wikipedia-gender-bias/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/21/sudoku/",
+				
+				"content_html": "<p>📎 Ousama Bouiss: <a href=\"https://www.vilaweb.cat/noticies/les-cinc-llicons-del-sodoku-que-ensenyen-a-resoldre-problemes-complexos/\">Les cinc lliçons del Sudoku que ensenyen a resoldre problemes complexos</a></p>\n<ol>\n<li><strong>Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals.</strong> Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse.</li>\n<li><strong>“No pensis, mira!”</strong> —Ludwig Wittgenstein.</li>\n<li><strong>Construeix la teva estratègia sobre la marxa i basa’t en la informació que tens.</strong> Com tot art, la intel·ligència no pot obeir a receptes o programes. —Edgar Morin.</li>\n<li><strong>Sigues conscient del teu nivell per a aprendre sense rendir-te.</strong> “Psicològicament, no hi ha veritat sense error rectificat. Una psicologia de l’actitud objectiva és una història dels nostres errors personals.” —Gaston Bachelard.</li>\n<li><strong>Sigues prudent i rigorós per a evitar que els errors s’agreugin</strong>. Humilitat, cautela i rigor.</li>\n</ol>\n<blockquote>\n<p>“El concepte de joc és d’un ordre superior al de la seriositat. Perquè la seriositat pretén excloure el joc, mentre que el joc pot incloure la seriositat dins seu.”</p>\n</blockquote>\n<p>—Joseph Huizinga, <em>Homo Ludens</em>.</p>\n<p>Cfr. Julio Cortázar: <a href=\"/2014/03/14/julio-cortzar-jugbamos.html\">“jugábamos en serio”</a>.</p>\n",
+				"date_published": "2021-08-21T14:12:12+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/21/sudoku/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/21/mascareta/",
+				
+				"content_html": "<img src=\"/uploads/2021/2021-08-21-memoji-mask.png\" width=\"100\" height=\"100\">\n<p>Amb desescalades <a href=\"https://www.elperiodicomediterraneo.com/castello-provincia/2021/08/16/coronavirus-castellon-puig-anuncia-desescalada-septiembre-56275128.html\">“robustes”</a> (?) o no, jo crec que a la majoria ens afavoreix d’allò més la mascareta. Estèticament també.</p>\n",
+				"date_published": "2021-08-21T09:46:28+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/21/mascareta/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/20/futurecrunch/",
+				
+				"content_html": "<p>Moltes vegades que entre a Twitter acabe pensant que més gent hauria de llegir <a href=\"https://futurecrunch.com/\">Future Crunch</a>, &ldquo;bones notícies d&rsquo;arreu del món&rdquo;, recollides i redactades des d&rsquo;un punt de vista científic i tècnic &ldquo;en un esforç per contrarestar el bombardeig continuat de mort i destrucció les 24 hores des de mitjans tradicionals i xarxes socials&rdquo;.</p>\n",
+				"date_published": "2021-08-20T10:56:40+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/20/futurecrunch/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/15/31193/",
+				
+				"content_html": "<p>Gàrgola sufocada. Santa Maria de Morella. 35,9 ºC.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-08-15-31156.jpg\">\n",
+				"date_published": "2021-08-15T13:35:53+00:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/15/31193/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/11/caffeine/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up\">The invisible addiction: is it time to give up caffeine?</a></p>\n<blockquote>\n<p>Els psicòlegs cognitius parlen de vegades en termes de dos tipus de consciència diferents: la consciència de focus, que il·lumina un únic punt focal d’atenció, cosa que la fa molt bona per al raonament, i la consciència de llanterna, en què l’atenció està menys enfocada, però il·lumina un camp d’atenció més ampli. Els nens petits tendeixen a mostrar consciència de llanterna; també ho fan moltes persones mitjançant drogues psicodèliques. Aquesta forma d’atenció més difusa es presta a la ment errant, a la lliure associació i a la creació de noves connexions, que poden alimentar la creativitat. En comparació, la gran contribució de la cafeïna al progrés humà ha estat intensificar la consciència de focus: el processament cognitiu centrat, lineal, abstracte i eficient més relacionat amb el treball mental que el joc. Això, més que res, és el que va fer de la cafeïna la droga perfecta no només per l’època de la raó i la Il·lustració, sinó també per a l’auge del capitalisme.</p>\n</blockquote>\n",
+				"date_published": "2021-08-11T18:17:03+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/11/caffeine/"
+			},
+			{
+				"id": "https://carlesbellver.github.io/blog/2021/08/09/ideologia-esfuerzo/",
+				
+				"content_html": "<p>📎 José Moya Otero: <a href=\"https://elpais.com/sociedad/2014/01/12/actualidad/1389560466_742504.html\">La ideología del esfuerzo</a> (2014)</p>\n<p>Que l&rsquo;esforç és essencial ho sap qualsevol que no hagi tingut la sort de nàixer en una família rica. Per això, paradoxalment, pregonen “la cultura de l&rsquo;esforç” aquelles persones a qui tot el que és necessari els ha estat regalat. Necessiten el <em>nostre</em> esforç per a mantenir els seus privilegis, i que ens creguem que el <em>fracàs</em> serà culpa nostra, per no esforçar-nos prou. L&rsquo;esforç a què apel·len és sempre l&rsquo;esforç dels altres. N&rsquo;hauríem de dir <em>cultura de l&rsquo;esforç aliè</em>.</p>\n<blockquote>\n<p>La ideología del esfuerzo es el caballo de Troya utilizado por las elites económicas, sociales y políticas en su rebelión contra cualquier forma de Estado o de gobierno comprometida con el bienestar de las personas. Una reacción frente a la hegemonía de la cultura de los derechos que, a su juicio, es la ideología de los perdedores.</p>\n</blockquote>\n",
+				"date_published": "2021-08-09T10:56:41+02:00",
+				"url": "https://carlesbellver.github.io/blog/2021/08/09/ideologia-esfuerzo/"
+			}
+	]
+}
