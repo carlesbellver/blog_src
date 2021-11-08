@@ -1,4 +1,4 @@
-baseURL = "http://blog.carlesbellver.net/"
+baseURL = "https://blog.l0fi.net/"
 canonifyURLs = true
 languageCode = "ca-es"
 title = "La vista cansada"
@@ -10,7 +10,7 @@ DefaultContentLanguage = "ca"
 
 [params]
   author = "Carles Bellver Torlà"
-  website = "https://carlesbellver.net"
+  website = "https://blog.l0fi.net"
   avatar =  "/uploads/avatar.jpg"
   description = ""
   TwitterUser = "carlesbellver"
