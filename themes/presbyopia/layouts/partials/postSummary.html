@@ -1,0 +1,25 @@
+<article class="post-list">
+    {{ if .Title }}
+      <header class="post-header">
+        <h1 class="post-title{{ if .Params.favorite }} favorite{{end}}{{ if .Params.draft }} draft{{end}}"><a href="{{ .RelPermalink }}">{{ trim .Title " " }}</a></h1>
+      </header>
+      <div class="content post-summary">
+        {{ if .Site.Params.readMore }}
+          {{ .Summary | safeHTML }}
+        {{ else }}
+          {{ .Content | safeHTML }}
+        {{ end }}
+      </div>      
+    {{ else }}
+      <div class="content post-summary">
+        {{ partial "ht_content.html" . }}
+      </div>
+    {{ end }}
+    {{ if and (.Truncated) (.Site.Params.readMore) }}
+        <div class="read-more">
+            <a href="{{ .RelPermalink }}">{{ i18n "readMore" | humanize }}</a>
+        </div>
+    {{ end }}
+    
+    {{ partial "postInfo.html" . }}
+</article>

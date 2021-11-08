@@ -1,0 +1,82 @@
+baseURL = "https://carlesbellver.github.io/blog/"
+canonifyURLs = true
+languageCode = "ca-es"
+title = "La vista cansada"
+theme = "presbyopia"
+publishDir = "../blog_public"
+uglyurls = false
+summaryLength = 100
+DefaultContentLanguage = "ca"
+
+[params]
+  author = "Carles Bellver Torlà"
+  website = "https://carlesbellver.net"
+  avatar =  "/uploads/avatar.jpg"
+  description = ""
+  TwitterUser = "carlesbellver"
+  GitHubUser = "carlesbellver"
+  paginationSinglePost = false
+  style = "light"
+  readMore = false
+  
+[permalinks]
+  posts = "/:year/:month/:day/:slug"
+
+[markup.goldmark.renderer]
+  unsafe = true
+  
+[menu]
+
+  [[menu.main]]
+    identifier = "onthisday"
+    name = "Tal dia com avui"
+    url = "/onthisday/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "photos"
+    name = "Fotos"
+    url = "/photos/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Cercar"
+    url = "/search/"
+    weight = 4
+    
+[outputFormats]
+
+  [outputFormats.RSS]
+    baseName = "feed"
+  [outputFormats.JSON]
+    baseName = "feed"
+  [outputFormats.ArchiveHTML]
+		mediaType = "text/html"
+		path = "archive"
+		baseName = "index"
+		isPlainText = false
+		notAlternative = true
+	[outputFormats.ArchiveJSON]
+		mediaType = "application/json"
+		path = "archive"
+		baseName = "index"
+		isPlainText = true
+		notAlternative = true
+	[outputFormats.PhotosHTML]
+		mediaType = "text/html"
+		path = "photos"
+		baseName = "index"
+		isPlainText = false
+		notAlternative = true
+	[outputFormats.PhotosJSON]
+		mediaType = "application/json"
+		path = "photos"
+		baseName = "index"
+		isPlainText = true
+		notAlternative = true
+
+	[outputs]
+	  home = [ "HTML", "RSS", "JSON", "ArchiveHTML", "ArchiveJSON", "PhotosJSON" ]
+		page = [ "HTML" ]
+		section = [ "HTML" ]

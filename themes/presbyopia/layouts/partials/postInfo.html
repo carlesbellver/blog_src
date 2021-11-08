@@ -1,0 +1,10 @@
+{{ $dateFormat := "2006-01-02" }}
+{{ if .Site.Params.dateFormat }}
+    {{ $dateFormat = .Site.Params.dateFormat }}
+{{ end }}
+
+<div class="post-info">
+    {{ if .Params.date }}
+        # <a class="u-url" href="{{ .RelPermalink }}"><div class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</div></a>
+    {{ end }}
+</div>

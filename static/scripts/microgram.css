@@ -1,0 +1,24 @@
+#microgram {
+  overflow: hidden;
+}
+#microgram .photo-link {
+  width: 280px;
+  height: 280px;
+  display: inline-block;
+  margin: 10px;
+  border-bottom: 0;
+}
+#microgram div.photo {
+  width: 280px;
+  height: 280px;
+  border-radius: 5px;
+  background-size: cover;
+  background-position: center;
+  transition: all 200ms ease-in-out;
+}
+#microgram div.photo:hover {
+  cursor: pointer;
+  opacity: 0.75;
+  border-bottom: 0 !important;
+  text-decoration: none !important;
+}

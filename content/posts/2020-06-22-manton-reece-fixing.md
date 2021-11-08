@@ -1,0 +1,17 @@
++++
+url = "/2020/06/22/manton-reece-fixing.html"
+title = ""
+date = "2020-06-22T14:43:01+00:00"
+slug = "manton-reece-fixing"
++++
+
+📎 Manton Reece: [Fixing the App Store for developers](https://www.manton.org/2020/06/22/fixing-the-app.html)
+
+> Here are the 4 things Apple should do:
+> 
+> 1. Allow side-loading \[…]
+> 2. Don’t require in-app purchase \[…]
+> 3. Keep curating the App Store \[…]
+> 4. Lower the cut to 15% \[…]
+> 
+> Anything short of all this is a band-aid, not a permanent fix.

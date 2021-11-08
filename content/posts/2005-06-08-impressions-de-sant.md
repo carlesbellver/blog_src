@@ -1,0 +1,51 @@
++++
+url = "/2005/06/08/impressions-de-sant.html"
+title = "Impressions de Sant Cugat"
+date = "2005-06-08T22:00:00+00:00"
+slug = "impressions-de-sant"
++++
+
+<p>Referents a unes jornades sobre <a href="http://10anys.vilaweb.com/dietaris">“El dietarisme i el nou dietarisme dels blocs”</a>.</p>
+
+<p>…</p>
+
+<ol>
+  <li>
+    <p>De la primera època d’<em>El Temps</em>, recordo especialment els articles de Ramon Barnils i els de Biel Mesquida. Fa poc vaig llegir que Mesquida, mallorquí de mena, va néixer “casualment” a Castelló. Com Cortázar, vaig pensar. Deu ser molt literari néixer lluny d’on et tocava. Les biografies de Julio Cortázar solen dir que va néixer a Brussel·les “accidentalmente”, però un dels seus biògrafs, Montes Bradley, ha argumentat d’una manera inapel·lable que ningú neix enlloc accidentalment, sinó perquè la seva mare hi és. Aquests dies he conegut Biel Mesquida, un escriptor d’una presència física, verbal i literària que imposa. Una coneixença d’aquestes –poques– que t’alegren l’esperit. I m’ha confirmat en un apart que va néixer en aquest tros de província perquè la seva mare, mestra rural, hi era. Quan va ser l’hora, un camió la va dur des del Mas d’en Sales, en el terme de Culla, fins a alguna clínica de la capital.</p>
+  </li>
+  <li>
+    <p>Joan Josep Isern diu que aquest invent dels blocs funciona, que hi ha gent a l’altra banda de la pantalla. Que Partal i Maresma, Maresma i Partal, són els darrers representants de la cultura hippie. Jo no crec que siguin els darrers. Moltes vegades ens pensem que el món s’acaba amb nosaltres i els nostres amics. Però, malgrat tot, res bo acaba del tot.</p>
+  </li>
+  <li>
+    <p>Vicenç Villatoro, al meu costat, fa notar que els escriptors de llibres porten ploma i els de blocs gastem boli. Una diferència d’estatus, més que evident en el cas del qui parlava i de qui escriu açò. Que el dia que el facin fora de l’Avui obrirà un bloc. Que a ell només li interessen aquells dietaris els autors dels quals han viscut fets excepcionals, o tenen una intel·ligència excepcional, o una mirada excepcional. Que escriure dietaris és una malaltia. Que ell en té uns d’inèdits que no pensa publicar mai, guardats “en uns discos” perquè no es perdin. Potser sí que sembla una malaltia.</p>
+  </li>
+  <li>
+    <p>Àlex Susanna, tot i declarar-se “un diplodocus”, confessa que ja no escriu cartes, només correus electrònics. Fa cinc anys explicava en l’Avui que la seva dona tenia correu electrònic i que ell el feia servir “molt de tant en tant”, que preferia les cartes. Anem avançant, almenys ell, encara que sigui a poc a poc. (Quan parlem de dinosaures, hauríem de tenir en compte que el seu problema no és que fossin animals antediluvians, sinó que tenien el cervell molt petit.)</p>
+  </li>
+  <li>
+    <p>Això d’Àlex Susanna i l’Avui va ser en l’especial de Sant Jordi de l’any 2000. Preguntaven a una cinquantena d’escriptors com havien viscut “la revolució d’Internet” i obtenien d’alguns respostes antològiques. La setmana següent, Màrius Serra els va dedicar un article titulat “Bartlebys d’Internet”, per aquell Bartleby indolent de Herman Melville que sempre preferia no fer res del que li plantejaven. Ara i ací, a Sant Cugat, Màrius Serra, entre moltes altres diferències amb els mitjans tradicionals, remarca que els blocs manquen de “filtres consensuats”, com els que diu que funcionen per exemple en la premsa. Caldria veure qui ha consensuat amb qui aqueixos filtres.</p>
+  </li>
+  <li>
+    <p>Pere Rovira creu que la llibertat que diem que representen els blocs és “la llibertat de dir la primera xuminada que se t’acut”. Afirma també que llegir és llegir un llibre. Em sorprèn que ho digui, perquè el seu dietari es va publicar primer en un periòdic en forma d’articles. En conjunt, trobo que parla massa d’allò que no coneix. I que de vegades encerta el blanc, quan parla del que sap, que és escriure. Li pregunten què és escriure bé i al cap d’una estona, després de pensar-s’ho, respon que és no escriure malament (em recorda allò d’Aristòtil, i de Davidson, sobre la veritat: aquestes nocions tan bàsiques són indefinibles, tothom sap necessàriament què signifiquen i no cal encaparrar-s’hi).</p>
+  </li>
+  <li>
+    <p>Carles Miró protesta perquè ací no hi ha blocs que facin rectificar els periòdics. No explica per què ha tancat el seu bloc i ningú li ho pregunta. Potser ja saben, tots i totes, les raons. Jo no les sé.</p>
+  </li>
+  <li>
+    <p>A molts dels escriptors que coneixen el tema més superficialment, que hi estan menys familiaritzats, els blocs els provoquen una sensació de velocitat. I això els pareix incompatible amb la literatura de debò, que exigeix repòs i reescriure molt. Diversa gent intenta explicar que una entrada d’un bloc es pot deixar madurar tant de temps com calgui i que es pot editar i reescriure sempre que es vulgui. Un mecanisme àgil de publicació no implica que hom escrigui necessàriament a rajaploma. Altres han defensat les possibilitats literàries de l’escriptura ràpida.</p>
+  </li>
+  <li>
+    <p>Xavier Pla diu que Josep Pla li va dir això a Néstor Luján l’any 1947: “Tingui paciència, llegeixi els escèptics, obri un dietari.”</p>
+  </li>
+  <li>
+    <p>Teresa Amat diu que això de “blocs literaris” li fa angúnia. A Robert William Chambers li feia angúnia la paraula “literatura”. A mi em fa angúnia que alguns parlin d’“escriptors professionals”, com si el fet de cobrar per escriure tingués cap relació més que circumstancial amb la qualitat d’allò escrit: amb la literatura. L’angúnia és una cosa molt personal.</p>
+  </li>
+  <li>
+    <p>Molts estem d’acord que els blocs donen satisfacció a la necessitat d’expressar-se, de dir la teva, d’aviar les dèries de cadascú. La malaltia que diu Villatoro. Jo crec que la pateix tothom. Màrius Serra ens recorda les barres dels bars (jo em recordo, però no ho dic, d’un passatge de <em>Si això és un home</em> en què els infrahabitants del barracó pensaven contra tota esperança com ho contarien, allò).</p>
+  </li>
+  <li>
+    <p>Alguns dels autors esmentats tenen enllaç web, altres no. Els que sí que en tenen, em fa observar algú, són més o menys els mateixos que agraeixen a Vilaweb i a la Institució de les Lletres Catalanes que els hagin convidat a participar en les jornades. Els altres, els que no tenen pàgina web, fan l’agraïment només a la Institució.</p>
+  </li>
+</ol>
+
+<p>…</p>

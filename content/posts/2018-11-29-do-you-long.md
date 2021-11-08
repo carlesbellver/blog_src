@@ -1,0 +1,15 @@
++++
+url = "/2018/11/29/do-you-long.html"
+title = "Do you long for her, or for the way you were?"
+date = "2018-11-29T18:30:00+00:00"
+slug = "do-you-long"
+tags = ["contes"]
++++
+
+<p>Per comptes de viatge de fi de curs, vam passar un cap de setmana en el xalet dels pares d’un company que, ells sí, eren a l’estranger i no s’havien d’assabentar de l’ús que fèiem de la seva segona residència. Jo era més gran que els altres i guardava certes distàncies. La darrera nit vam escoltar elapés de Llach, de Leonard Cohen i de Jonathan Richman, mentre un dormitori romania ocupat i ella s’havia assegut davant de l’Olivetti, indiferent a les protestes pel soroll del tecleig.</p>
+
+<p>En un sol full, em va traçar un perfil psicològic més acurat que el que m’hagués pogut fer cap professional fins llavors. L’endemà me’l vaig endur dins la bossa i ens vam acomiadar amb un bes a la galta i paraules dolces.</p>
+
+<p>A València vam seguir especialitats diferents i no ens vèiem gaire. Vaig portar el full a emmarcar —em va costar quatre-centes pessetes— i així va presidir els meus darrers anys de llicenciatura.</p>
+
+<p>Quan ens creuem, encara intercanviem salutacions i educats somriures.</p>

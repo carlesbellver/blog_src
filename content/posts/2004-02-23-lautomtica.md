@@ -1,0 +1,10 @@
++++
+url = "/2004/02/23/lautomtica.html"
+title = "L'automàtica"
+date = "2004-02-23T23:00:00+00:00"
+slug = "lautomtica"
+tags = ["contes"]
++++
+
+Entre els tiquets de les compres que vaig fer el mes passat amb la targeta de crèdit, n’hi ha un que no puc recordar de cap manera a què correspon. No reconec el nom del comerç, ni l’adreça, i la data tampoc no em diu pas res. Vaig a donar-hi una ullada. Jo no he estat mai en aquest establiment, una botiga petita sense cap senyal que mostri clarament a quina activitat es dedica. Però quan entro a preguntar, la dependenta em fa bona cara, com si em conegués, i em lliura un paquet. “Vet aquí, ja l’hem rebut”. Me l’emporto i l’obro a casa. Dins hi ha una pistola automàtica.
+
