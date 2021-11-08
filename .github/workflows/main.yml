@@ -26,5 +26,5 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: carlesbellver/blog
           publish_branch: master
-          keep_files: true
+          #keep_files: true
 
