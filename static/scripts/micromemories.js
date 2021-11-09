@@ -14,7 +14,8 @@ function renderPost(post) {
   var d = Date.parse(post.date_published)
   var date_s = new Date(d).toISOString().substr(0, 10);
   ElHTML += '<p><a href="'+post.url+'">'+date_s+'</a>'
-  if (post.photos[0]) {
+  /* if (post.photos[0]) { */
+  if (post.tags.includes("fotos")) {
     ElHTML += " &#x1F5BC;"
   }
   if (post.title != '') {

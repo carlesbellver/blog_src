@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "2021-07-11T18:58:26+02:00"
-tags = []
+tags = ["fotos"]
 photos = ["/uploads/2021/2021-07-11-silence-delirium-lies.jpg"]
 slug = "silence-delirium-lies"
 +++

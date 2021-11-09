@@ -3,7 +3,7 @@ url = "/2019/12/11/ajuntament-de-morella.html"
 title = ""
 date = "2019-12-11T18:03:17+00:00"
 slug = "ajuntament-de-morella"
-tags = ["fotos"]
+tags = ["fotos", "fotos"]
 photos = ["/uploads/2019/219dd26117.jpg"]
 +++
 

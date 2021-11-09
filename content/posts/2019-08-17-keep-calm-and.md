@@ -3,7 +3,7 @@ url = "/2019/08/17/keep-calm-and.html"
 title = ""
 date = "2019-08-17T10:10:53+00:00"
 slug = "keep-calm-and"
-tags = ["morella"]
+tags = ["fotos", "morella"]
 photos = ["/uploads/2019/7df4271651.jpg"]
 +++
 

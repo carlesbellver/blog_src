@@ -3,7 +3,7 @@ url = "/2020/02/27/els-llibres-invisibles.html"
 title = "Els llibres invisibles"
 date = "2020-02-27T17:48:00+00:00"
 slug = "els-llibres-invisibles"
-tags = ["fotos","ressenyes"]
+tags = ["fotos", "fotos","ressenyes"]
 photos = ["/uploads/2020/42d892e469.jpg"]
 +++
 

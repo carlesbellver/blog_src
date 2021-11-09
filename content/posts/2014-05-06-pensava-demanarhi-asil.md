@@ -3,7 +3,7 @@ url = "/2014/05/06/pensava-demanarhi-asil.html"
 title = "Pensava demanar-hi asil"
 date = "2014-05-06T22:00:00+00:00"
 slug = "pensava-demanarhi-asil"
-tags = ["contes"]
+tags = ["fotos", "contes"]
 photos = ["/uploads/2019/5ae3e0ccfe.jpg"]
 +++
 

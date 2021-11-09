@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "2021-08-02T20:06:05+02:00"
-tags = []
+tags = ["fotos"]
 photos = ["/uploads/2021/2021-08-02-atzucac-unicorn.jpg"]
 slug = "atzucac-unicorn"
 +++

@@ -3,7 +3,7 @@ url = "/2020/02/04/philip-k-dick.html"
 title = ""
 date = "2020-02-04T19:03:00+00:00"
 slug = "philip-k-dick"
-tags = ["fotos","intl"]
+tags = ["fotos", "fotos","intl"]
 photos = ["/uploads/2020/a3b9424db8.jpg"]
 +++
 

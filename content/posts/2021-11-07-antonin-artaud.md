@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "2021-11-07T12:25:28+01:00"
-tags = ["citacions"]
+tags = ["fotos", "citacions"]
 photos = ["/uploads/2021/2021-11-07-antonin-artaud.jpg"]
 slug = "antonin-artaud"
 +++

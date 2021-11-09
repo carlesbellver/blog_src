@@ -3,7 +3,7 @@ url = "/2020/01/26/we-dont-need.html"
 title = ""
 date = "2020-01-26T17:19:58+00:00"
 slug = "we-dont-need"
-tags = ["fotos"]
+tags = ["fotos", "fotos"]
 photos = ["/uploads/2020/d67afc64d0.jpg"]
 +++
 

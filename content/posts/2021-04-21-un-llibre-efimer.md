@@ -1,7 +1,7 @@
 +++
 title = "Un llibre efímer"
 date = "2021-04-21T18:30:00+02:00"
-tags = []
+tags = ["fotos"]
 photos = ["/uploads/2021/2021-04-21-unicorns-vanish.jpg"]
 slug = "un-llibre-efimer"
 +++

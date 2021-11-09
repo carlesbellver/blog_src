@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "2021-06-12T12:17:04+02:00"
-tags = []
+tags = ["fotos"]
 photos = ["/uploads/2021/2021-06-12-orxata-boisei.jpg"]
 slug = "orxata-boisei"
 +++

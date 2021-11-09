@@ -4,7 +4,7 @@ title = ""
 date = "2019-04-10T16:21:30+00:00"
 slug = "aquest-mat-uji"
 photos = ["/uploads/2019/0d21468e58.jpg"]
-tags = ["UJI", "fotos"]
+tags = ["fotos", "UJI", "fotos"]
 +++
 
 Aquest matí #UJI

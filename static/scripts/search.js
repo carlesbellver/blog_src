@@ -42,7 +42,8 @@ function runSearch(q) {
 				if (s.length > 200) {
 					s = s.substr(0, 200) + "…";
 				}
-                if (item.photos[0]) {
+                /* if (item.photos[0]) { */
+                if (tags_lower.includes("fotos")) {
                   s = "&#x1F5BC; " + s
                 }
               	var text_node = document.createElement("span");
