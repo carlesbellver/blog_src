@@ -14,15 +14,15 @@ function renderPost(post) {
   var d = Date.parse(post.date_published)
   var date_s = new Date(d).toISOString().substr(0, 10);
   ElHTML += '<p><a href="'+post.url+'">'+date_s+'</a>'
+  if (post.photos[0]) {
+    ElHTML += " &#x1F5BC;"
+  }
   if (post.title != '') {
-    ElHTML += ' <b>'+post.title+'</b>'
+    ElHTML += ' <a href="'+post.url+'">'+post.title+'</a>'
   }
   var s = post.content_text;
   if (s.length > 200) {
     s = s.substr(0, 200) + "…"
-  }
-  if (post.photos[0]) {
-    s = s + " &#x1F5BC;"
   }
   ElHTML += ' <span>'+s+'</span></p>'
   return ElHTML

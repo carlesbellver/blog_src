@@ -35,7 +35,7 @@ function runSearch(q) {
               	var title_node = null;
 				if (item.title.length > 0) {
               		title_node = document.createElement("span");
-                  	title_node.innerHTML = " <b>" + item.title + "</b>"
+                  	title_node.innerHTML = ' <a href="'+item.url+'">' + item.title + "</a>"
 					s = item.title + " " + item.content_text;
 				}
 				var s = item.content_text;
@@ -43,7 +43,7 @@ function runSearch(q) {
 					s = s.substr(0, 200) + "…";
 				}
                 if (item.photos[0]) {
-                  s = s + " &#x1F5BC;"
+                  s = "&#x1F5BC; " + s
                 }
               	var text_node = document.createElement("span");
              	text_node.innerHTML = " " + s
