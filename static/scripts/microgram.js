@@ -1,18 +1,13 @@
-var max = 200;
+var max = 100;
 
-var microgram = document.getElementById('microgram');
-var container = document.createElement('div');
-container.className = 'photogrid';
+var container = document.getElementById('microgram');
 
 function renderImage(image) {
-    var contEl = document.createElement('div');
-    contEl.className = 'frame';
-    container.appendChild(contEl);
-    
+
     var linkEl = document.createElement('a');
     linkEl.href = image['url'];
     linkEl.className = 'photo-link';
-    contEl.appendChild(linkEl);
+    container.appendChild(linkEl);
 
     var imageEl = document.createElement('div');
     imageEl.className = 'photo';

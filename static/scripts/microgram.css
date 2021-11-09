@@ -6,20 +6,13 @@
   overflow: hidden;
 }
 
-#microgram div.photogrid {
-  display: block;
-  width: 100%;
-  margin: 0 auto;
-  padding: 0;
-}
-
 #microgram a {
   text-decoration: none;
 }
 
 #microgram div.frame {
   display: block;
-  margin: 0;
+  margin: 0 auto;
   text-align: center;
 }
 
@@ -29,6 +22,7 @@
   height: 400px;
   margin: 20px auto;
   border-bottom: 0;
+  text-align: center;
 }
 
 #microgram div.photo {
