@@ -42,6 +42,9 @@ function runSearch(q) {
 				if (s.length > 200) {
 					s = s.substr(0, 200) + "…";
 				}
+                if (item.photos[0]) {
+                  s = s + " &#x1F5BC;"
+                }
               	var text_node = document.createElement("span");
              	text_node.innerHTML = " " + s
 				p_node.appendChild(link_node);
