@@ -3,10 +3,14 @@ var max = 200;
 var container = document.getElementById('microgram');
 
 function renderImage(image) {
+    var contEl = document.createElement('div');
+    contEl.className = 'frame';
+    container.appendChild(contEl);
+    
     var linkEl = document.createElement('a');
     linkEl.href = image['url'];
     linkEl.className = 'photo-link';
-    container.appendChild(linkEl);
+    contEl.appendChild(linkEl);
 
     var imageEl = document.createElement('div');
     imageEl.className = 'photo';

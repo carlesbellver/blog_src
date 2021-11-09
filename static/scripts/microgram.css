@@ -1,6 +1,10 @@
 #microgram {
   overflow: hidden;
 }
+#microgram div.frame {
+  margin: 0 auto;
+  text-align: center;
+}
 #microgram .photo-link {
   width: 280px;
   height: 280px;
