@@ -32,26 +32,28 @@ function runSearch(q) {
 				var date_node = document.createTextNode(date_s); 
 				link_node.appendChild(date_node);
 				link_node.href = item.url;
-              	var title_node = null;
+        var title_node = null;
 				if (item.title.length > 0) {
-              		title_node = document.createElement("span");
-                  	title_node.innerHTML = ' <a href="'+item.url+'">' + item.title + "</a>"
+          title_node = document.createElement("span");
+          title_node.innerHTML = ' <a href="'+item.url+'">' + item.title + "</a>"
 					s = item.title + " " + item.content_text;
 				}
 				var s = item.content_text;
 				if (s.length > 200) {
 					s = s.substr(0, 200) + "…";
 				}
-                /* if (item.photos[0]) { */
-                if (tags_lower.includes("fotos")) {
-                  s = "&#x1F5BC; " + s
-                }
-              	var text_node = document.createElement("span");
-             	text_node.innerHTML = " " + s
+        var text_node = document.createElement("span");
+        text_node.innerHTML = " " + s
 				p_node.appendChild(link_node);
-              	if (title_node != null) {
+        /* if (item.photos[0]) { */
+        if (tags_lower.includes("fotos")) {
+          var pic_node = document.createElement("span");
+          pic_node.innerHTML = " &#x1F5BC;"
+          p_node.appendChild(pic_node)
+        }
+        if (title_node != null) {
 					p_node.appendChild(title_node);
-                }
+        }
 				p_node.appendChild(text_node);
 				results_node.appendChild(p_node);
 			}

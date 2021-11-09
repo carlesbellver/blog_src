@@ -1,6 +1,8 @@
 var max = 200;
 
-var container = document.getElementById('microgram');
+var microgram = document.getElementById('microgram');
+var container = document.createElement('div');
+container.className = 'photogrid';
 
 function renderImage(image) {
     var contEl = document.createElement('div');
@@ -66,3 +68,6 @@ xhr.onreadystatechange = function(e) {
         }
     }
 }
+
+microgram.innerHTML = '';
+microgram.appendChild(container);

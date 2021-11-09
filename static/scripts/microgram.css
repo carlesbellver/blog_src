@@ -1,35 +1,36 @@
 #microgram {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
 }
+
+#microgram div.photogrid {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
 #microgram a {
   text-decoration: none;
 }
+
 #microgram div.frame {
   display: block;
-  margin: 0 auto;
+  margin: 0;
   text-align: center;
 }
+
 #microgram .photo-link {
   display: block;
-  position: relative;
   max-width: 400px;
   height: 400px;
   margin: 20px auto;
   border-bottom: 0;
 }
-#microgram .photo-text {
-  position: absolute;
-  width: 100%;
-  top: 0;
-  right: 0;
-  margin: 0;
-  padding: 0;
-  background-color: rgba(51, 51, 51, 0.25);
-  font-size: 13px;
-  color: #ccc;
-  text-align: center;
-  text-transform: uppercase;
-}
+
 #microgram div.photo {
   display: block;
   max-width: 400px;
