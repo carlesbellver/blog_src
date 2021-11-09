@@ -18,8 +18,10 @@
 
 #microgram .photo-link {
   display: block;
+  aspect-ratio: 1 / 1;
   max-width: 400px;
   height: 400px;
+  aspect-ratio: 1 / 1;
   margin: 20px auto;
   border-bottom: 0;
   text-align: center;
@@ -27,6 +29,7 @@
 
 #microgram div.photo {
   display: block;
+  aspect-ratio: 1 / 1;
   max-width: 400px;
   height: 400px;
   margin 0 auto;
