@@ -10,6 +10,6 @@ slug = "museum-forgeries-andy-warhol"
 Museum of Forgeries: el museu de les falsificacions oferia la possibilitat d'adquirir un original de Warhol per només 250 $, amb una probabilitat 1/1000. Una extrapolació de la loteria que, segurament, hauria complagut l'artista.
 
 > **1000 MSCHF ARTWORKS FOR SALE:**  
-> <span style="border-bottom: 1px solid red;">One original</span> Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF <span style="border-bottom: 1px solid red;">forgeries</span>.
+> <span style="border-bottom: 1px solid #990000;">One original</span> Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF <span style="border-bottom: 1px solid #990000;">forgeries</span>.
 
 <img src="https://moforgeries.org/images/fairies-sold.png" />
