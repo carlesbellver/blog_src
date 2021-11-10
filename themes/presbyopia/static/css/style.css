@@ -471,12 +471,12 @@ article iframe {
 
 /* Article tags */
 
-article.citacions blockquote {
+.citacions blockquote {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 1.25em;
 }
 
-article.citacions blockquote:before {
+.citacions blockquote:before {
     display: block;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 500%;
