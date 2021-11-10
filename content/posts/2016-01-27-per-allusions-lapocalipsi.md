@@ -4,6 +4,7 @@ title = "Per al·lusions: l’apocalipsi i València"
 date = "2016-01-27T23:00:00+00:00"
 slug = "per-allusions-lapocalipsi"
 photos = ["/uploads/2019/37645c09de.jpg"]
+tags = ["fotos"]
 +++
 
 <a title="Se prohíbe ensuciarse" href="http://www.flickr.com/photos/carlesbellver/12090678396/"><img alt="Foto: Se prohíbe ensuciarse" src="/uploads/2019/37645c09de.jpg" /></a>

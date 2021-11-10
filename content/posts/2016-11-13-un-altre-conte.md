@@ -4,6 +4,7 @@ title = "Un altre conte xinès"
 date = "2016-11-13T23:00:00+00:00"
 slug = "un-altre-conte"
 photos = ["/uploads/2019/f2c49a5821.jpg"]
+tags = ["fotos"]
 +++
 
 He somniat que contractava uns xinesos per baixar l’UJI del núvol. Ho feien un dia de festa, quan el rector i el gerent estaven despistats. Deixaven la base de dades a la consergeria de serveis centrals, en un USB amb logo personalitzat, i les aplicacions en GitCafé. Aturaven les instàncies d’EC2, etc. I a mi em regalaven un cupó de descompte d’AliExpress.

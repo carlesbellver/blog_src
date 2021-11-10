@@ -4,6 +4,7 @@ title = "Una qüestió de mètrica"
 date = "2013-02-07T23:00:00+00:00"
 slug = "una-qesti-de"
 photos = ["/uploads/2019/fb9ebfd41f.jpg"]
+tags = ["fotos"]
 +++
 
 <a href="http://www.flickr.com/photos/carlesbellver/8452185785/" title="Criatura dolcíssima by Carles Bellver, on Flickr"><img src="/uploads/2019/fb9ebfd41f.jpg" alt="Criatura dolcíssima" /></a>

@@ -4,6 +4,7 @@ title = "Definició d'àngel"
 date = "2013-12-08T23:00:00+00:00"
 slug = "definici-dngel"
 photos = ["/uploads/2019/9df7696f2e.jpg"]
+tags = ["fotos"]
 +++
 
 <img src="/uploads/2019/9df7696f2e.jpg" alt="Definició d'àngel" />
