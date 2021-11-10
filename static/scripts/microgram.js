@@ -1,4 +1,4 @@
-var max = 100;
+var max = 120;
 
 var container = document.getElementById('microgram');
 
