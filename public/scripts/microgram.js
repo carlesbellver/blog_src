@@ -1,8 +1,9 @@
-var max = 200;
+var max = 100;
 
 var container = document.getElementById('microgram');
 
 function renderImage(image) {
+
     var linkEl = document.createElement('a');
     linkEl.href = image['url'];
     linkEl.className = 'photo-link';
@@ -10,9 +11,14 @@ function renderImage(image) {
 
     var imageEl = document.createElement('div');
     imageEl.className = 'photo';
-    //var url = image['_microblog']['thumbnail_url'];
     var url = image['image'];
     imageEl.style.backgroundImage = 'url(' + url + ')';
+    
+    /* var textEl = document.createElement('div');
+    textEl.innerHTML = image['content_text'];
+    textEl.className = 'photo-text';
+    imageEl.appendChild(textEl); */
+    
     linkEl.appendChild(imageEl);
 }
 
@@ -57,3 +63,6 @@ xhr.onreadystatechange = function(e) {
         }
     }
 }
+
+microgram.innerHTML = '';
+microgram.appendChild(container);

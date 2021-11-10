@@ -6,5 +6,5 @@ slug = "configuring-wordpress-for"
 tags = ["retalls"]
 +++
 
-<p>&#128206; <a href="https://www.chrisreedtech.com/configuring-wordpress-micro-blog/">Configuring WordPress for Micro.blog</a></p>
+&#128206; [Configuring WordPress for Micro.blog](https://www.chrisreedtech.com/configuring-wordpress-micro-blog/)
 

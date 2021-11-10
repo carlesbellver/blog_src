@@ -6,5 +6,7 @@ slug = "teletype-for-atom"
 tags = ["retalls"]
 +++
 
-<p>📎 <a href="https://teletype.atom.io/">Teletype for Atom</a></p>
-<p>Compartir l'espai de treball amb membres de l'equip de desenvolupament i col·laborar en el codi en temps real.</p>
+📎 [Teletype for Atom](https://teletype.atom.io/)
+
+Compartir l'espai de treball amb membres de l'equip de desenvolupament i col·laborar en el codi en temps real.
+

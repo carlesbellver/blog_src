@@ -6,5 +6,7 @@ slug = "the-wikipedia-competitor"
 tags = ["retalls"]
 +++
 
-<p>📎 <a href="https://www.wired.com/story/everipedia-blockchain/">The Wikipedia Competitor That's Harnessing Blockchain For Epistemological Supremacy</a></p>
-<p>Everipedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia database i una moneda de fitxes.</p>
+📎 [The Wikipedia Competitor That's Harnessing Blockchain For Epistemological Supremacy](https://www.wired.com/story/everipedia-blockchain/)
+
+Everipedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia database i una moneda de fitxes.
+

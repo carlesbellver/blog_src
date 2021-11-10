@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/",
+				
+				"content_html": "<p>📎 <a href=\"https://moforgeries.org/?mc_cid=cf06f5ec38&amp;mc_eid=ba93faa1c4\">&ldquo;Possibly Real Copy Of &lsquo;Fairies&rsquo; by Andy Warhol&rdquo; BY MSCHF, 2021</a></p>\n<p>Museum of Forgeries: el museu de les falsificacions oferia la possibilitat d&rsquo;adquirir un original de Warhol per només 250 $, amb una probabilitat 1/1000. Una extrapolació de la loteria que, segurament, hauria complagut l&rsquo;artista.</p>\n<blockquote>\n<p><strong>1000 MSCHF ARTWORKS FOR SALE:</strong><br>\n<span style=\"border-bottom: 1px solid #990000;\">One original</span> Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF <span style=\"border-bottom: 1px solid #990000;\">forgeries</span>.</p>\n</blockquote>\n<img src=\"https://moforgeries.org/images/fairies-sold.png\" />",
+				"date_published": "2021-11-09T18:48:13+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/07/antonin-artaud/",
 				
 				"content_html": "<blockquote>\n<p>A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.</p>\n</blockquote>\n<img alt=\"Coberta del llibre “Carta a los poderes”, d'Antonin Artaud. 40a Fira del Llibre Antic i d'Ocasió a Castelló de la Plana.\" src=\"/uploads/2021/2021-11-07-antonin-artaud.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up\">The invisible addiction: is it time to give up caffeine?</a></p>\n<blockquote>\n<p>Els psicòlegs cognitius parlen de vegades en termes de dos tipus de consciència diferents: la consciència de focus, que il·lumina un únic punt focal d’atenció, cosa que la fa molt bona per al raonament, i la consciència de llanterna, en què l’atenció està menys enfocada, però il·lumina un camp d’atenció més ampli. Els nens petits tendeixen a mostrar consciència de llanterna; també ho fan moltes persones mitjançant drogues psicodèliques. Aquesta forma d’atenció més difusa es presta a la ment errant, a la lliure associació i a la creació de noves connexions, que poden alimentar la creativitat. En comparació, la gran contribució de la cafeïna al progrés humà ha estat intensificar la consciència de focus: el processament cognitiu centrat, lineal, abstracte i eficient més relacionat amb el treball mental que el joc. Això, més que res, és el que va fer de la cafeïna la droga perfecta no només per l’època de la raó i la Il·lustració, sinó també per a l’auge del capitalisme.</p>\n</blockquote>\n",
 				"date_published": "2021-08-11T18:17:03+02:00",
 				"url": "https://blog.carlesbellver.net/2021/08/11/caffeine/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/09/ideologia-esfuerzo/",
-				
-				"content_html": "<p>📎 José Moya Otero: <a href=\"https://elpais.com/sociedad/2014/01/12/actualidad/1389560466_742504.html\">La ideología del esfuerzo</a> (2014)</p>\n<p>Que l&rsquo;esforç és essencial ho sap qualsevol que no hagi tingut la sort de nàixer en una família rica. Per això, paradoxalment, pregonen “la cultura de l&rsquo;esforç” aquelles persones a qui tot el que és necessari els ha estat regalat. Necessiten el <em>nostre</em> esforç per a mantenir els seus privilegis, i que ens creguem que el <em>fracàs</em> serà culpa nostra, per no esforçar-nos prou. L&rsquo;esforç a què apel·len és sempre l&rsquo;esforç dels altres. N&rsquo;hauríem de dir <em>cultura de l&rsquo;esforç aliè</em>.</p>\n<blockquote>\n<p>La ideología del esfuerzo es el caballo de Troya utilizado por las elites económicas, sociales y políticas en su rebelión contra cualquier forma de Estado o de gobierno comprometida con el bienestar de las personas. Una reacción frente a la hegemonía de la cultura de los derechos que, a su juicio, es la ideología de los perdedores.</p>\n</blockquote>\n",
-				"date_published": "2021-08-09T10:56:41+02:00",
-				"url": "https://blog.carlesbellver.net/2021/08/09/ideologia-esfuerzo/"
 			}
 	]
 }

@@ -3,13 +3,17 @@ url = "/2018/12/17/la-histria-secreta.html"
 title = "La història secreta del món"
 date = "2018-12-17T18:30:00+00:00"
 slug = "la-histria-secreta"
-tags = ["contes"]
 +++
 
-<p>S’havien acabat les diapositives i ningú no es decidia a parlar-ne.</p>
+S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 
-<p>—D’on penseu que ens deu venir, aquesta fascinació pels relats sobre civilitzacions desaparegudes?</p>
-<p>—No tinc cap dubte que es tracta d’un tema freudià: la pregunta pels orígens. El títol del quadre de Courbet expressa succintament l’associació d’idees a què em referisc.</p>
-<p>—Però llavors ens valdrien la història o la prehistòria més convencionals, o l’evolució de les espècies. No necessitaríem anar a buscar cap mena d’explicació insòlita o alternativa.</p>
-<p>—No ho has entès? Necessàriament cal que hi hagi un secret, que no ens hagin contat com és de debò que hem vingut a parar ací. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teva repugnant concepció.</p>
-<p>—Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz vingui a penetrar-la i se n’emporti el tresor més ben guardat.</p>
+—D’on penseu que ens deu venir, aquesta fascinació pels relats sobre civilitzacions desaparegudes?
+
+—No tinc cap dubte que es tracta d’un tema freudià: la pregunta pels orígens. El títol del quadre de Courbet expressa succintament l’associació d’idees a què em referisc.
+
+—Però llavors ens valdrien la història o la prehistòria més convencionals, o l’evolució de les espècies. No necessitaríem anar a buscar cap mena d’explicació insòlita o alternativa.
+
+—No ho has entès? Necessàriament cal que hi hagi un secret, que no ens hagin contat com és de debò que hem vingut a parar ací. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teva repugnant concepció.
+
+—Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz vingui a penetrar-la i se n’emporti el tresor més ben guardat.
+

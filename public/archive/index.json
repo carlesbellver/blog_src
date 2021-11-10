@@ -6,6 +6,15 @@
 	"feed_url": "https://blog.carlesbellver.net/archive/index.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/",
+				"title": "",
+				"date_published": "2021-11-09T18:48:13+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/",
+				"tags": "retalls",
+				"photos": "",
+				"content_text": "📎 \u0026ldquo;Possibly Real Copy Of \u0026lsquo;Fairies\u0026rsquo; by Andy Warhol\u0026rdquo; BY MSCHF, 2021\nMuseum of Forgeries: el museu de les falsificacions oferia la possibilitat d\u0026rsquo;adquirir un original de Warhol per només 250 $, amb una probabilitat 1/1000. Una extrapolació de la loteria que, segurament, hauria complagut l\u0026rsquo;artista.\n 1000 MSCHF ARTWORKS FOR SALE:\nOne original Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF forgeries.\n "
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/07/antonin-artaud/",
 				"title": "",
 				"date_published": "2021-11-07T12:25:28+01:00",
@@ -1252,7 +1261,7 @@
 				"title": "",
 				"date_published": "2020-03-18T19:17:00+00:00",
 				"url": "https://blog.carlesbellver.net/2020/03/18/avui-fa-dos.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Avui fa dos anys que vaig publicar aquest conte (potser infantil, però no molt) inspirat en el refugi antiaeri de la plaça Tetuan de Castelló:\n📖 Una història subterrània\n"
 			},
@@ -2197,7 +2206,7 @@
 				"title": "",
 				"date_published": "2019-08-04T15:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/08/04/la-prdua-de.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "La pèrdua de la gràcia: final.\n"
 			},
@@ -2206,7 +2215,7 @@
 				"title": "",
 				"date_published": "2019-08-03T15:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/08/03/la-prdua-de.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "La pèrdua de la gràcia: segona part.\n"
 			},
@@ -2224,7 +2233,7 @@
 				"title": "",
 				"date_published": "2019-08-02T15:00:21+00:00",
 				"url": "https://blog.carlesbellver.net/2019/08/02/una-nit-destiu.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Una nit d\u0026rsquo;estiu vaig albirar un argument de ciència-ficció i el resultat és aquest esborrany. Un conte que admet que em recorda Philip K. Dick, tant en el fons com —i això seria més greu— en la forma.\nEl publicaré en tres parts, d\u0026rsquo;avui a diumenge. No és que sigui un relat molt extens, però diuen que els smartphones ens han fet malbé la capacitat de concentració. I la publicació serial té una llarguíssima tradició que ve de molt abans.\nEspere els vostres comentaris.\n"
 			},
@@ -3376,7 +3385,7 @@
 				"title": "Del Déu de Berkeley a la cadena de blocs i viceversa",
 				"date_published": "2019-02-10T17:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/02/10/del-du-de.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Notes per al segment central d’un conte o novel·la curta que segurament no escriuré.\n1710 Esse est percipi, ser és ser percebut. Berkeley esmola la navalla d’Occam. En A Treatise Concerning the Principles of Human Knowledge, el bisbe irlandès rebutja la realitat de la matèria i abraça l’idealisme: les coses només existeixen com a percepcions d’alguna ment. No és que un arbre que cau en un bosc solitari, sense testimonis, no faci cap soroll, sinó que ni tan sols no es podria dir que hi hagi cap arbre… si no fos que Déu sempre hi és per prendre nota i alçar acta de cada arbre que cau o es manté dret, a qualsevol lloc, quan nosaltres no hi som. La seva ment infinita és l’inventari complet del món.\n1875 Fundació de la Societat Teosòfica a Nova York. En els seus llibres, Helena Blavatsky, Henry Steel Olcott, Charles Webster Leadbeater o Rudolf Steiner elucubren sobre uns “registres akàixics” —ākāśa és el mot sànscrit equivalent a l\u0026rsquo;èter dels grecs, o de la física del segle XIX: el cinquè element subtil que hom creia que emplenava l\u0026rsquo;univers— on restaria l’empremta de totes les experiències humanes pels segles dels segles. Cada esdeveniment gran o petit, des l’enfonsament de l’Atlàntida al teu esmorzar d’aquest matí: res no es perdria, però només els iniciats podrien tenir-hi accés.\n1972 Pellegrino Ernetti —frare benedictí, exorcista oficial de la diòcesi de Venècia i afeccionat a la física i a l\u0026rsquo;electrònica— revela en unes declaracions a La Domenica del Corriere (2 de maig) que ha participat amb un grup de científics selectes —entre ells Enrico Fermi i Wernher von Braun— en la invenció del cronovisore, una complicadíssima màquina capaç de recrear qualsevol esdeveniment del passat a partir de la traça energètica que van deixar les seves ones visuals i sonores. Per corroborar les seves paraules, aporta una fotografia de la cara de Jesucrist en la creu (que resultarà ser sospitosament semblant a una escultura d’un cert santuari de Perusa).\n1998 Sergey Brin i Larry Page afirmen que la missió de Google és organitzar tota la informació del món. En aquell moment, gairebé tothom entén que la companyia del cercador es refereix a la informació de les pàgines web. La nostra ingenuïtat ens impedeix copsar l’abast de la seva ambició. Encara no sospitarem res quan enviïn cotxes, equipats amb múltiples càmeres, per tots els carrers i carreteres del planeta.\n2007 A partir d’aquest punt els esdeveniments s’acceleren. Steve Jobs presenta el primer model d’iPhone i comença a persuadir-nos que és bona idea portar damunt un petit comunicador, farcit de sensors que registren tota mena de dades referents a l’entorn, i a nosaltres mateixos, i les transmet. Res no s’escaparà a les seves càmeres minituaritzades, micròfon, GPS… Samsung i tants altres fabricants copiaran de seguida l’invent, amb gran èxit comercial.\n2008 Satoshi Nakamoto —pseudònim d’un enigmàtic personatge o grup– dissenya una moneda electrònica, el bitcoin, i un llibre comptable o registre de transaccions inalterable, anomenat blockchain o cadena de blocs, del qual existiran a cada moment múltiples còpies en una xarxa distribuïda sense cap autoritat central. El funcionament de Bitcoin inspira plans per a utilitzar la cadena de blocs en altres camps, amb la intenció de de registrar tota mena de transaccions, no sols monetàries.\n2013 L’adolescent russo-canadenc Vitalik Buterin idea Ethereum —una altra vegada l\u0026rsquo;èter: ākāśa—, una plataforma de computació distribuïda basada en una cadena de blocs similar a la de Bitcoin, però molt més potent: funcionaria com una màquina virtual capaç d’executar tota mena d’aplicacions informàtiques sense servidors centrals.\n2016 Nick Foster mostra en un vídeo intern de Google —que més endavant es filtrarà— el Selfish Ledger, un registre de transaccions que acumularia les dades personals de successives generacions humanes i, al cap del temps, aplicant-hi les noves tècniques d’intel·ligència artificial —l’aprenentatge automàtic o machine learning— permetria calcular-ho absolutament tot sobre els desitjos, objectius i necessitats, presents i futurs, individuals i col·lectius— de la nostra espècie.\n2018 Arran de l’escàndol de Cambridge Analytica, ens assabentem que amb unes dotzenes de likes de Facebook, i una mica d’intel·ligència artificial, n’hi ha prou per a deduir les preferències sexuals o electorals de qualsevol individu. Amb més likes es podria conèixer una persona millor que la seva parella, o millor que ella mateixa. Quantes més dades, més se’n podria saber. Amb totes les dades, es podria saber tot.\n2020 L’abolició del Reglament General de Protecció de Dades de la Unió Europea, i la posterior ratificació del Tractat de Lliure Comerç de la Informació pels parlaments nacionals, engeguen una reacció en cadena al voltant del món. Un país rere l’altre s’afanyen a promoure la venda i la cessió gratuïta de dades personals en nom de l’avenç de la humanitat. La cadena de blocs fumeja amb les desenes d’exabytes que s’hi aboquen diàriament. Un nou motor, basat en el darrer paradigma d’aprenentatge automàtic, és finalment capaç de reconstruir tot el que s’ha esdevingut i d’inferir tot el que s’esdevindrà. Com en el conte de Fredric Brown, podrà contestar que sí, ara el Déu de Berkeley existeix, encarnat en una aplicació d’intel·ligència artificial que s’autoexecuta en la màquina virtual d’Ethereum.\n"
 			},
@@ -3745,9 +3754,9 @@
 				"title": "Coda",
 				"date_published": "2018-12-31T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/31/coda.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
-				"content_text": "No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap— d’aquestes proses: si és que algú es molestava a llegir-les. Fóra en va, per tant, precisar que la memòria lliure d’un ZX81 era a penes d’uns centenars de bytes; o que el codi ASCII ni tan sols era compatible amb les vocals accentuades del català; i que els codis més moderns, com l’UTF-8, dediquen més d’un byte a cadascun d'aquests caràcters estranys.\nFóra en va, també, perquè aquest joc amb els nombres i els mots, que convertia l'escriptura en una mena de puzzle o mecano, només m’interessava a mi mentre escrivia. Els 1.024 caràcters conformaven el marc, els límits autoimposats. Qui en pogués llegir el resultat —si algú el llegia—, només caldria que jutgés —o, tant de bo, que gaudís— el resultat. I el seu judici, conforme a la brevetat, hauria de ser ràpid, i la sentència executada a l'instant.\n(A mi, si més no, m'ha servit per posar fre a la necessitat d’autocorregir-me indefinidament. Ha estat, en aquest sentit, una prova.)\n"
+				"content_text": "No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap— d’aquestes proses: si és que algú es molestava a llegir-les. Fóra en va, per tant, precisar que la memòria lliure d’un ZX81 era a penes d’uns centenars de bytes; o que el codi ASCII ni tan sols era compatible amb les vocals accentuades del català; i que els codis més moderns, com l’UTF-8, dediquen més d’un byte a cadascun d\u0026rsquo;aquests caràcters estranys.\nFóra en va, també, perquè aquest joc amb els nombres i els mots, que convertia l\u0026rsquo;escriptura en una mena de puzzle o mecano, només m’interessava a mi mentre escrivia. Els 1.024 caràcters conformaven el marc, els límits autoimposats. Qui en pogués llegir el resultat —si algú el llegia—, només caldria que jutgés —o, tant de bo, que gaudís— el resultat. I el seu judici, conforme a la brevetat, hauria de ser ràpid, i la sentència executada a l\u0026rsquo;instant.\n(A mi, si més no, m\u0026rsquo;ha servit per posar fre a la necessitat d’autocorregir-me indefinidament. Ha estat, en aquest sentit, una prova.)\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/12/31/how-much-of.html",
@@ -3763,7 +3772,7 @@
 				"title": "Les ciutats perdudes",
 				"date_published": "2018-12-30T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/30/les-ciutats-perdudes.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Buscàvem una ciutat perduda a la selva tropical. Acampàvem en tendes a la penombra del sotabosc, damunt d’un fang primordial. L’ambient era xafogós. De tot s’emparava la floridura.\nCarter parlava de muralles ciclòpies, blocs de basalt ocults per segles de lianes i galeries subterrànies més antigues encara. Dels reports d’un explorador llegendari i dels mites dels indis. Del déu absent i la guerra funesta, armadures i renills, el foc que feia esclatar la pedra. De la devastació i l’exili en el regne enfonsat. De l’avenc i un horror palpitant. De ritus secrets, jeroglígics sagrats, un anell màgic i l’espill que retornava un esguard espantable, un somriure sinistre, una muda declamació. De versos coneguts només dels iniciats, mil vegades recercats, que ningú no gosava pronunciar.\nPotser Carter parla massa. La seva facúndia m’atabalava. Ha estat en aquest punt que m’he despertat. Eren quarts de cinc del matí i he entès que les ciutats perdudes, com els amors perduts, no es retroben ja mai.\n"
 			},
@@ -3781,7 +3790,7 @@
 				"title": "Je ne sais pas si vous vous souvenez de moi",
 				"date_published": "2018-12-29T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/29/je-ne-sais.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom. El bloc de pisos on vivia ha sofert una certa degradació. La façana necessitaria una bona mà de pintura. I el pati que li donava un aire de Place des Vosges per a rendes modestes agrairia l’atenció d’un jardiner. He entrat al vestíbul. En la bústia que va ser seva —i de la seva amiga Clémentine— hi ha uns altres noms que han estat ratllats. Però sobretot volia donar una ullada a aquells dos ascensors, un més ampli del que era habitual i l’altre estranyament angost. Això sempre ens feia riure.\nÉs dilluns, acabe d’arribar a París i tinc la resta del matí lliure. Per què hi he vingut? De sobte, entre les males herbes del pati, em fa l’efecte que veig Valérie asseguda en un dels bancs de formigó, pàl·lida com una morta, amb un espill a la mà com si continués esperant l’unicorn. Aquesta visió m’espanta i haig de marxar corrents.\n(El seu cognom era Kléber.)\n"
 			},
@@ -3799,7 +3808,7 @@
 				"title": "Darrera defensa",
 				"date_published": "2018-12-28T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/28/darrera-defensa.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "La vaig veure al monestir de Strahov, en una petita Wunderkammer annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres. En vam parlar a la nit, en tornar a l’hotel.\n—Però era una dent de narval —em va dir—. Totes les banyes d’unicorn que es venien a l’edat mitjana eren dents de narval.\n—Sí, fins i tot la de l’esquelet gairebé complet que va fer reconstruir el batle de Magdeburg. Això diuen.\n—Que no t’ho creus?\n—Vaig llegir que Leibiniz no n’estava molt convençut… Saps qui va ser el primer a sospitar l’origen de tanta banya d’unicorn? Olaus Wormius. El mateix Olaus Wormius que va traduir el Necronomicon al llatí.\n—I què em vols dir amb això?\n—Res. No he vist mai un narval. Tu n’has vist algun? Trobes que és un animal menys fantàstic que l’unicorn? Ni tan sols es coneix quina funció pot tenir exactament aqueix ullal tan llarg.\n—De vegades em desconcertes. De debò que no veig on vols anar a parar.\nEnlloc, sens dubte. Només es tractava d’una maniobra de distracció desesperada.\n"
 			},
@@ -3808,7 +3817,7 @@
 				"title": "Una eternitat",
 				"date_published": "2018-12-27T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/27/una-eternitat.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.\n—Us en recordeu, d’aquell sergent que et deixava triar amb quina porra t’apallissaria?\n—A mi no m’han deixat triar quina bala em matava.\n—Ni a mi tampoc.\n—Amunt els cors. Ens n’anem al cel. He vist uns angelets entre els tarongers.\n—Devien ser dimonis. El cel no existeix, però l’infern sí.\n—M’han foradat la jaqueta, m’han fet malbé tota la roba…\n—Si només t’haguessin foradat la jaqueta…\nEl trontolleig del carro els assossegava. Gairebé com si els engronsessin. Com si tornessin al claustre matern. Els dipositaven formant rengleres, el cap d’un amb els peus del següent, perquè en cabessin més. Quan en completaven una, en començaven una altra.\n—Quin ordre!\n—Això s’ha de reconèixer.\n—Quina pau!\n—I durarà anys, ja ho veureu.\nComptava mentalment. Com voleu que compti un mort? Amb els dits no pot.\n—Quaranta, si més no.\n—Una eternitat.\n"
 			},
@@ -3835,7 +3844,7 @@
 				"title": "I remember Spain",
 				"date_published": "2018-12-26T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/26/i-remember-spain.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Va tornar a elogiar l’heroisme dels marines —en aquesta nova operació imperalista que divulgava la premsa— i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència. Vaig tocar l’ase. M’emprenyava el seu patrioterisme i ell se sentia ofès quan jo defensava el no a la guerra. No era la primera vegada que xocàvem.\n—Si els joves nord-americans de la meva generació haguessin fet com vós, la democràcia s’hauria ensorrat a Europa per molt anys. Potser per sempre. —Els únics joves nord-americans que van venir al meu país van ser els voluntaris de la Brigada Lincoln. Comunistes i companys de viatge. Els vostres governs van preferir sacrificar la nostra democràcia i deixar que s’hi perpetués el feixisme.\nM’adverteixen que no és segur per a mi, estudiant estranger, parlar amb tanta vehemència. Però no em preocupa el que em pogués passar, perquè beca i visat venceran prompte. Mentre tramitaven la meva democràtica expulsió, jo ja seria a l’aeroport.\n"
 			},
@@ -3844,7 +3853,7 @@
 				"title": "Viatge a Espanya",
 				"date_published": "2018-12-25T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/25/viatge-a-espanya.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Ateses les circumstàncies, era normal que s’estenguessin els rumors sobre delators o agents infiltrats. Danvers no va ser aliè a aquesta mena de sospites. Cridaven l’atenció la seva llibertat de moviments i les destinacions dels seus viatges, tan exòtiques com problemàtiques: el Tibet —incorporat a la República Popular de la Xina—, Armènia —Unió Soviètica— i l’Espanya de Franco. No podem esbrinar tot el que buscava en aquests llocs, però hem llegit les seves notes sobre la visita a una ubicació imprecisa de la costa mediterrània, on es conservava el crani d’un ciclop. Esperà tres dies a entrevistar-se amb l’autoritat local. La resposta el sorprengué. Es tractava de les restes d’un avantpassat seu, li digué el capitost. Se les estimava, però s’avindria a lliurar-les a canvi d’una certa suma de diners.\nDanvers maleí tricorns, sotanes i sevillanes. L’esborronava el que va qualificar de “primitivisme africà”. El posseïa, sens dubte, un racisme de classe après com a White Anglo-Saxon Protestant.\n"
 			},
@@ -3862,7 +3871,7 @@
 				"title": "Com va guanyar Danvers una plaça a Miskatonic",
 				"date_published": "2018-12-24T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/24/com-va-guanyar.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Mentre l’esperava, la secretària del seu tutor li va demanar si podia ajudar-lo amb unes notes que calia mecanografiar. Càndidament va accedir a dictar-li-les i a la segona frase es va adonar del sentit i la procedència reals d’aquell fragment. Però —per això mateix?— no va poder aturar-se i va continuar recitant el full en veu alta, vocalitzant la lletania d’abominables perversions.\nL’havien ben ensarronat. El tutor va aparèixer al llindar al cap d’un lapse de temps que podia haver durat uns minuts o llarguíssimes hores. El despatx, mentrestant, s’havia entenebrat.\n—Felicitacions —li va dir—. Ara ja ets un dels nostres.\nVa deixar anar una riota sinistra. La secretària es va aixecar i se li va arrambar. Reia ella també —com una hiena— quan van marxar ambdós plegats, passadís enllà. Danvers va restar sol amb el seu pànic. Es va passar la nit udolant, fins a la matinada. Al rompent de l’alba es va assossegar prou per agafar l’estilogràfica i signar el contracte.\n"
 			},
@@ -3880,7 +3889,7 @@
 				"title": "Una mòmia és una mòmia",
 				"date_published": "2018-12-23T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/23/una-mmia-s.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "M’he aturat davant de l’única mòmia nord-americana de la col·lecció. Arkham, Massachusetts, n’informava exiguament la fitxa. Un exemplar, entenc, valuós, potser un indi Pennacook, tot i que el rictus i els parracs em suggerien més aviat una bubota.\n—…una de les adquisicions més recents del museu. La van localitzar l’any passat al despatx del director, quan es va morir d’un infart. Quina desgràcia! La tenia dins de l’armari i van suposar que l’havia presa temporalment, per estudiar-la amb més comoditat. Ja sap com en són, d’excèntrics, els savis d’aquests verals. Va tocar revisar inventaris i vitrines. El cas és que no trobàvem que en faltés cap. Al final van decidir exhibir-la amb les altres, mentre en treien l’entrellat. Quan la col·locàvem, algú va fer un comentari i em vaig adonar que era clavada a aquell professor visitant amb qui va tenir diferències i que es va fer fonedís. Però això a mi rai. Un cadàver [stiff] és un cadàver. Tant se val que tingui quaranta anys com quatre mil.\n"
 			},
@@ -3889,7 +3898,7 @@
 				"title": "Arqueologia informàtica",
 				"date_published": "2018-12-22T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/22/arqueologia-informtica.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Aquest tros de plàstic que prove a fer servir com a màquina d’escriure electrònica es connecta a un televisor vell, menut, on esforçant-me puc veure què teclege; a una gravadora de cintes de casset, on se suposa que es desen els textos; i a una impressora tèrmica que només s’engega els dies senars.\nAvui m’avorria. M’enervava el writer’s block —la síndrome de la pantalla en blanc— i he preferit lliurar-me a una recerca en l’hemeroteca. Segons la revista Byte (vol. 8, núm. 1), açò no seria exactament un Sinclair ZX 81, com em pensava, sinó la seva versió nord-americana: el Timex Sinclair 1000, que va començar a vendre’s per 99,95 dòlars el juliol de 1982.\nHe explicat el descobriment a Ismael, becari senegalès, que en sabia altres coses i m’ha aportat detalls addicionals sobre la motivació del meu projecte.\n—Rice va comprar tot el paquet als encants, de tercera mà. Era un regal per al besnet, però el xaval el va rebutjar, perquè ja tenia un PC, i llavors se li va acudir portar-ho ací.\n"
 			},
@@ -3898,7 +3907,7 @@
 				"title": "Creuer pel Yann",
 				"date_published": "2018-12-21T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/21/creuer-pel-yann.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "No sóc gens afeccionat a viatjar —malgrat que aquesta vegada hagi travessat l’Atlàntic—, però l’anunci en aquell aparador va fer que m’hi aturés.\nEra una agència petita amb una sola oficinista, una dona de mitjana edat. Es va treure les ulleres i el somriure li va canviar la cara. De sobte pareixia una d’aquestes joves americanes de galtes rosades —com si l’haguessin treta d’un anunci dels anys seixanta—, llesta per a tenir fills i tirar endavant una casa.\nEm va dir, amb veu melosa, que guardava els fullets a dalt i va insistir que pugéssim per l’escala de caragol a un entresolat penombrós, una cambra dels mals endreços on no s’havia fet neteja en els darrers mil anys. Contra la gelosia del fons —darrere d’un frigorífic vell, arxivadors, una gàbia, un matalàs polsós— refulgia una filera d’ídols pagans.\nPerò l’embruix era efímer. Es mostrava com era quan em va cridar amb els braços estesos. Crec que vaig fer cara d’espant, no de fàstic.\n—Tu tampoc no ets tan jove, ni tens més futur que jo!\n"
 			},
@@ -3916,7 +3925,7 @@
 				"title": "La pell pintada",
 				"date_published": "2018-12-20T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/20/la-pell-pintada.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Abans de marxar em va explicar un altre conte xinès recollit per Kuhn. En una província al sud del riu Groc, un ric comerciant va comprar una esclava nova per fer-li de concubina. Era jove i submissa, però l’endemà, per alguna raó, va desobeir l’ordre de no abandonar la seva cambra i va fer un descobriment espaterrant. Al taller, un dimoni pintava amb un pinzell molt fi una pell humana estesa damunt d’un bastidor. Minuciosament hi perfilava els ulls, la boca, el nas, els mugrons, el melic… Aterrida, l’observava pel badall de la porta. Quan es va adonar que eren els trets del seu amo, no va poder evitar d’amollar un crit. Enmig d’un greu tumult, els criats van aconseguir retenir la bèstia amb bastons i una forca fins que s’hi va presentar un destacament armat.\n—El van decapitar i el van cremar. Més tard van trobar els ossos del comerciant enterrats al jardí, davall d’un àlber. Devia fer setmanes que el dimoni l’havia suplantat.\n—I què se’n va fer, d’ella?\n—D’ella, el llibre no en diu res més.\n"
 			},
@@ -3943,9 +3952,9 @@
 				"title": "Empori celestial",
 				"date_published": "2018-12-19T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/19/empori-celestial.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
-				"content_text": "—El llibre era, no en tingueu cap dubte, aquell famós Empori celestial de coneixements benèvols que tants rius de tinta ha fet córrer.\n—Però diuen que se’l va inventar un escriptor argentí, més aviat excèntric i a sobre cec. —Em pareix que això és cercar cinc peus al gat.\n—Que només n’hi hagués una traducció a l’alemany, anterior a la guerra, va a favor dels escèptics. Allò que no és escrit en anglès no existeix.\n—A més a més, els nazis van proscriure Franz Kuhn pels contes xinesos verds del Jin Ping Mei. I després, els seus arxius es van cremar en algun bombardeig aliat.\n—No tothom té accés a una biblioteca com la nostra, o com la de Buenos Aires.\n—A mi em va fer l’efecte que en aqueixes pàgines llegia la història d’un altre planeta.\n—La llegendària fantasia oriental.\n—Hi ha altres mons, però són en aquest.\n–Una altra citació dubtosa.\n(Els hauria pogut explicar que així em sentia exactament cada dia, com si la resta de la gent i jo —o cadascú— visquéssim en mons diferents. I cap fos real.)\n"
+				"content_text": "—El llibre era, no en tingueu cap dubte, aquell famós Empori celestial de coneixements benèvols que tants rius de tinta ha fet córrer.\n—Però diuen que se’l va inventar un escriptor argentí, més aviat excèntric i a sobre cec.\n—Em pareix que això és cercar cinc peus al gat.\n—Que només n’hi hagués una traducció a l’alemany, anterior a la guerra, va a favor dels escèptics. Allò que no és escrit en anglès no existeix.\n—A més a més, els nazis van proscriure Franz Kuhn pels contes xinesos verds del Jin Ping Mei. I després, els seus arxius es van cremar en algun bombardeig aliat.\n—No tothom té accés a una biblioteca com la nostra, o com la de Buenos Aires.\n—A mi em va fer l’efecte que en aqueixes pàgines llegia la història d’un altre planeta.\n—La llegendària fantasia oriental.\n—Hi ha altres mons, però són en aquest.\n–Una altra citació dubtosa.\n(Els hauria pogut explicar que així em sentia exactament cada dia, com si la resta de la gent i jo —o cadascú— visquéssim en mons diferents. I cap fos real.)\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/12/19/as-facebook-raised.html",
@@ -3970,7 +3979,7 @@
 				"title": "Le diable me suit de jour et de nuit car il a peur d’être seul",
 				"date_published": "2018-12-18T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/18/le-diable-me.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "M’inspirava un tendre amor platònic. Però el torrent dels somnis, brusc i impetuós, tendia a ser d’un to molt més lúbric que els meus sentiments.\nLlavors, un dia d’estiu, em vaig adonar que seia en una altra taula a la plaça de la Pau, amb dues amigues. Li vaig adreçar un somriure i una salutació amistosa amb la mà. Em va contestar amb un gest d’enuig i una evident incomoditat.\n—Preferiria que no ho tornessis a fer.\nEstrafeia tan bé la seva veu que m’ho hauria cregut, però no l’havia vista moure els llavis. Una altra vegada el meu dimoni, al meu costat.\n—No hi pots tenir somnis bruts sense que ho sàpiguen —va murmurar sardònic—. És una mena de sisè sentit.\nEl resol del vespre m’enlluernava. No sabia on mirar. Ell les mirava a elles de fit a fit, especialment a ella. En els seus ulls, m’hi veia a mi a la nit. Vaig voler marxar, però em va fer la traveta i vaig caure arrossegant la cadira. El xerric, les rialles, la vergonya. Ell ja no hi era.\n"
 			},
@@ -4006,7 +4015,7 @@
 				"title": "La història secreta del món",
 				"date_published": "2018-12-17T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/17/la-histria-secreta.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "S’havien acabat les diapositives i ningú no es decidia a parlar-ne.\n—D’on penseu que ens deu venir, aquesta fascinació pels relats sobre civilitzacions desaparegudes?\n—No tinc cap dubte que es tracta d’un tema freudià: la pregunta pels orígens. El títol del quadre de Courbet expressa succintament l’associació d’idees a què em referisc.\n—Però llavors ens valdrien la història o la prehistòria més convencionals, o l’evolució de les espècies. No necessitaríem anar a buscar cap mena d’explicació insòlita o alternativa.\n—No ho has entès? Necessàriament cal que hi hagi un secret, que no ens hagin contat com és de debò que hem vingut a parar ací. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teva repugnant concepció.\n—Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz vingui a penetrar-la i se n’emporti el tresor més ben guardat.\n"
 			},
@@ -4042,7 +4051,7 @@
 				"title": "Fins que la mort ens separi, xaval",
 				"date_published": "2018-12-16T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/16/fins-que-la.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Tot just una frase —set mots— en un tros de paper estripat i rebregat. El fet que no entengués l’idioma, li suposava algun problema? Em va contestar que no, que ell desxifrava símbols universals, inherents a l’escriptura.\nAl matí ens havia impartit un seminari sobre grafologia que jo havia trobat còmic, absurd. Al vespre havia anat a buscar-lo a casa seva.\nLa lletra gran, em va explicar, i els traços verticals ferms, denotaven seguretat, control. Els angles marcats assenyalaven l’hegemonia de la raó sobre els sentiments, el lideratge. Els traços superiors elevats: metes altes. La corba completa dels traços descendents: energia, habilitat en els negocis. Les línies separades: calma, temps. La rúbrica remetia d’alguna manera a l’antic Egipte. Un home, sens dubte, molt vell, però mentalment àgil, d’una intel·ligència superior. Una ment lògica i freda, impassible i despietada.\nVaig veure com suava. Em va demanar que marxés i que m’emportés la nota. No va voler cobrar-me res.\n"
 			},
@@ -4051,7 +4060,7 @@
 				"title": "Segon conte de fades",
 				"date_published": "2018-12-15T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/15/segon-conte-de.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Eufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa. Deien que sabia fabricar or. O que havia trobat monedes antigues dins d’una olla. Un misteri tan gran, doncs, com la desaparició del Quim, el seu proxeneta. Però estaven acostumades que els passessin coses inexplicables.\nPrimer va continuar vivint a la cambra de dalt, al costat de la meva, envoltada d’imatges de sants i marededéus. A l’estiu se’n va anar a un xalet a la Costa Brava. Els va dir que estalviessin i que busquessin un altre ofici. S’ho van prendre com un consell. El Quim els cobrava un cinquanta per cent més el lloguer. Ella només el lloguer. Solia fer jo l’ingrés una vegada per setmana. I molts més encàrrecs. El consideraven inofensiu.\nVivien un somni autogestionari que només va durar un trimestre. Al setembre van rebre l’avís d’una immobiliària. Eufrosina havia venut la casa i l’enderrocarien per construir pisos dúplex. Va ser una desbandada. Totes van acabar malament.\n"
 			},
@@ -4069,7 +4078,7 @@
 				"title": "Primer conte de fades",
 				"date_published": "2018-12-14T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/14/primer-conte-de.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un noiet. La van fer desfilar cap a ell entre els convidats, gairebé nua, lligada amb una corretja ben cenyida al coll. Li van dir entre rialles: és teva, pots fer-li el que vulguis. I això va fer, a partir d’aquella nit.\nEn general la tractava bé.\nA l’abril, amb el canvi d’estació, es va sentir deprimit i se la va emportar a un creuer per la Mediterrània. En una escala, ella va aprofitar la seva ressaca —el xampany francès— per a robar-li i subornar uns mariners que el van apallissar. Va fugir i va agafar un tren i un avió, ambdós a l’atzar. Un any més tard, una companya va contar una història que coincidia punt per punt amb la seva. No es va creure, però, que ell la busqués, que un detectiu es passegés pel barri xino amb un contracte matrimonial com a esquer. Era tard per a empassar-se el primer conte de fades, o de prínceps i cortesanes, amb què la volguessin entabanar.\n"
 			},
@@ -4089,7 +4098,7 @@
 				"url": "https://blog.carlesbellver.net/2018/12/14/evelyn-berezin-dies.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 Evelyn Berezin, 93, Dies; Built the First True Word Processor\nMatthew G. Kirschenbaum, autor de Track Changes —una interessantíssima història dels processadors de textos en la creació literària— enllaça l'obituari d’Evelyn Berezin en el NY Times i el matisa. Sobretot el titular: “…això dels primers sempre és complicat”. Al cap i a la fi, el Redactron Data Secretary dissenyat per Berezin es basava en l’IBM MT/ST. Cap dels dos tenia pantalla, tots dos feien servir una màquina d'escriure Selectric com a mecanisme d'entrada i sortida i desaven els textos en cinta magnètica. Però el Redactron utilitzava circuits integrats, cosa que l'apropava als posteriors ordinadors.\n"
+				"content_text": "📎 Evelyn Berezin, 93, Dies; Built the First True Word Processor\nMatthew G. Kirschenbaum, autor de Track Changes —una interessantíssima història dels processadors de textos en la creació literària— enllaça l'obituari d’Evelyn Berezin en el NY Times i el matisa. Sobretot el titular: “…això dels primers sempre és complicat”. Al cap i a la fi, el Redactron Data Secretary dissenyat per Berezin es basava en l’IBM MT/ST. Cap dels dos tenia pantalla, tots dos feien servir una màquina d\u0026rsquo;escriure Selectric com a mecanisme d\u0026rsquo;entrada i sortida i desaven els textos en cinta magnètica. Però el Redactron utilitzava circuits integrats, cosa que l\u0026rsquo;apropava als posteriors ordinadors.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/12/14/perhaps-you-would.html",
@@ -4105,7 +4114,7 @@
 				"title": "Reverse-charge call",
 				"date_published": "2018-12-13T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/13/reversecharge-call.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Una vesprada d’estiu, un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar. Digueu?\n—Vol acceptar una trucada de cobrament a destinació?\nLa màquina de tubs d’èter s’havia engegat de nou, però aquesta vegada la comunicació s’iniciava des de l’altre extrem. Una veu melosa va anar taral·lejant la cançoneta preferida de Harry fins a vocalitzar una variació inquietant d’aquella línia: “Over you I cast a spell…”\nI en aquest punt es va aturar un instant etern.\n“Believe”, va xiuxiuejar sibil·linament abans de penjar.\nA l’altre extrem, ara lluïa un riure sardònic el mateix cavaller alt, bru, que uns anys enrere havia executat demostracions d’electromagnetisme i de projecció d’imatges, el mateix que el trenta-u d’octubre anterior va persuadir un estudiant de Mont-real perquè preguntés a Houdini si no creia en els miracles i en les sagrades escriptures i provés si era de debò que aguantava tres bons colps de puny a l’estómac sense parpellejar.\n"
 			},
@@ -4123,7 +4132,7 @@
 				"title": "Longer distance calling",
 				"date_published": "2018-12-12T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/12/longer-distance-calling.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "—Setembre de 1926. Un any abans que AT\u0026amp;T inauguri la connexió transatlàntica amb Londres, un mes abans que Houdini mori d’una peritonitis i al mateix temps que Lovecraft començava a escriure “La crida de Cthulhu” a la seva casa de Providence, on s’havia tornat a instal·lar. Un emprenedor anònim va obrir a Nova York un servei telefònic de comunicació amb el més enllà. “Torni a escoltar la seva veu”, incitava la publicitat. “Continuï parlant amb els seus éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en cercles de classe alta.\n—Per què has esmentat Houdini? Va ser un dels fraus que va destapar?\n—Un dels darrers de què es va ocupar. Va provar que espiaven la clientela potencial i que atresoraven un bon arxiu de dades privades, així que era versemblant que haguessin suplantat alguns difunts. Això no explicava la funció d’una estranya maquina de tubs d’èter que hom va trobar després, però la reputació de l’empresa va resultar danyada irremeiablement i va haver de plegar.\n"
 			},
@@ -4132,7 +4141,7 @@
 				"title": "Un ornitorinc a l’armari",
 				"date_published": "2018-12-11T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/11/un-ornitorinc-a.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "La companya de pis de Valérie —no li agradava que li digués només Valérie: massa concís, massa ordinari, massa jo?— tenia una amiga que estudiava psicologia. Una vegada els va deixar un test d’empatia i me’l van fer emplenar amb elles. Una altra vegada va ser una prova per a detectar risc de depressió. La lletra menuda em suggeria buscar ajuda: no hi havia pensat. S’ho passaven bomba fent conya amb les meves respostes i amb els resultats que treia. Es va convertir en un costum, una distracció fàcil i barata. Els vaig dir que era una llàstima que la seva amiga no fos biòloga. Si em practiquessin una anàlisi d’ADN, descobririen, per exemple, que tenia el codi genètic d’un ornitorinc. No se m’acudia un animal més rar. Els vaig fer riure. No m’havien pres mai molt seriosament.\nPerò la nostra relació s’estava tibant. Havia fumat haixix i vaig dir-li Valia. Em va mirar amb tant d’odi que no sabia on amagar-me. Després em va trobar dins d’un armari i em va pegar, però era ella qui plorava.\n"
 			},
@@ -4168,7 +4177,7 @@
 				"title": "Et date illi honorem",
 				"date_published": "2018-12-10T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/10/et-date-illi.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Eixint de l’estació, el company de viatge irlandès es va deixar caure de genolls a terra davant meu i el vaig rodejar, però en adonar-me que assenyalava amb l’índex el cel fosc, vaig alçar el cap jo també per admirar plegats la visió del caos estenent-se pel firmament. Un caos reptant que infectava l’ordre incipient de les constel·lacions i impedia que prosperés aquell cosmos embrionari, migrat, que hem cregut copsar des dels pitagòrics i des d’abans dels pitagòrics, des dels astrònoms egipcis i babilònics si més no. Un cosmos que ara, en aquest instant prodigiós, se’ns revelava com un engany: una mentida piadosa, una il·lusió infantil.\n”Timete Deus…”, va començar a recitar, embarbussant-se, però la nàusea l’aturà i perbocà estrepitosament. Si aquesta agonia era el preu a pagar, jo preferia ignorar el caos i abraçar l’engany. Vaig buscar la petaca, tot confiant que el whisky atenuaria l’empremta indeleble i avui podria tornar a contemplar els estels en pau, com si no hagués canviat res.\n"
 			},
@@ -4186,7 +4195,7 @@
 				"title": "Contra els escèptics",
 				"date_published": "2018-12-09T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/09/contra-els-escptics.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "M’explicava el concepte tibetà de tulpa: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.\n—Tu mateix n’has conegut un.\nEs referia al seu criat oriental. Ningú sabia d’on l’havia tret, i darrerament l’havíem perdut de vista.\n—M’ha passat com a Alexandra David-Néel. Va agafar vida pròpia i ara s’ha tornat maligne. M’agradaria que l’examinessis abans que l’hagi de destruir.\nNo hauria calgut, però, que l’enviés al meu apartament dins d’una caixa de fusta. Les escletxes entre els taulons, havien estat disposades perquè pogués respirar, o perquè jo observés la seva esquena peluda, incòmodament corbada, no menys esfereïdora que els seus grunys? Es regirava, era evident que maldava per escapar d’aquella gàbia inclement. Vaig telefonar a Danvers. Ara no podia venir, em va dir, però si tenia pressa em podia dictar la fórmula —ell va usar una altra paraula— que el faria esvanir-se.\nEm trobava tan alterat que vaig necessitar tres intents.\n"
 			},
@@ -4204,7 +4213,7 @@
 				"title": "Bibliografia",
 				"date_published": "2018-12-08T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/08/bibliografia.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Examinàvem sota el flexo la seva darrera adquisició: un exemplar d’Il newtonianismo per le dame, col·lecció de diàlegs amb què el savi venecià Francesco Algarotti va contribuir a divulgar la Philosophiæ naturalis d’Isaac Newton. A mi em feia recordar, és clar, les lliçons epistolars de Leibniz a Sophie de Hannover i a la seva filla Sophie-Charlotte, publicades recentment amb el títol Filosofia per a princeses.\n—El que ens hauria calgut —va remugar Atwood, regirant-se en la butaca— és un Quantum Mechanics for Old Men. Almenys així no hauríem fet tant el ridícul.\nSón tots, en efecte, vells, i cap dona forma part del claustre d’aquesta venerable institució. La primera persona del plural es podia interpretar, en el seu cas, com un acte de modèstia, però l’exabrupte era abans que res el reconeixement d’un fracàs col·lectiu, la constatació que havien arribat al final del trajecte i es trobaven en una via morta. De sobte, em vaig adonar de les volves de pols suspeses en l’aire, com àtoms de Demòcrit.\n"
 			},
@@ -4213,7 +4222,7 @@
 				"title": "Gramàtica teòrica",
 				"date_published": "2018-12-07T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/07/gramtica-terica.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "—T’ensenyaré un llenguatge secret. —L’has inventat tu? —No. L’he après amb un llibre vell.\nRecorde que la idea em va parèixer massa infantil, impròpia de la seva edat, fins i tot comptant que tenia un any menys que jo.\nVa portar el llibre i me’l va ensenyar. L’havia agafat a casa del seu oncle, llaurador i lletraferit. Era una gramàtica teòrica, sense molts exemples. Ens vam distreure tota la vesprada amb allò. I les vesprades següents també. Ella pensava estudiar filologia anglesa. Jo preferia el llatí i el grec.\nAquesta nit, va dir, compondrem cadascun un missatge i demà l’altre intentarà entendre’l.\nCrec que dubtava que jo m’estigués prenent l’estudi prou seriosament i em posava a prova. Li vaig escriure una carta d’amor. Ella va redactar una convocatòria d’una cèl·lula clandestina. El seu germà, aleshores, pertanyia a una organització comunista. Més endavant va ser confident de la policia. Nosaltres, en fi.\nAmb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.\n"
 			},
@@ -4222,7 +4231,7 @@
 				"title": "Records del Tibet",
 				"date_published": "2018-12-06T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/06/records-del-tibet.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Wernher von Braun va ser reclutat per l’exèrcit nord-americà i va impulsar el programa espacial de la NASA, però els lames tibetans que els nazis s’havien emportat a Berlín van ser captats per la Miskatonic University —gràcies a les gestions discretes de Randolph Carter, que treballava aleshores a l’Oficina de Serveis Estratègics—, amb la intenció que dirigissin una altra mena de travessia, no cap a l’espai exterior sinó cap al cosmos interior de la ment humana.\nMalauradament, després del parèntesi forçós del maccarthisme ja no s’hi van reincoporar. S’havien instal·lat a Califòrnia al començament de la dècada dels seixanta i allà van conformar la competència més notable del budisme zen entre els hippies d’inclinació religiosa.\nHe pogut comprovar, en tot cas, que perdura al campus el record del seu magisteri i de la seva personalitat. A la botiga oficial de merchandising, hi resten encara uns pocs exemplars de Tintín al Tibet amb les seves dedicatòries apòcrifes, bellament cal·ligrafiades.\n"
 			},
@@ -4258,7 +4267,7 @@
 				"title": "Rue d’Auseil",
 				"date_published": "2018-12-05T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/05/rue-dauseil.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada americana. El tiratge, escàs, es va difondre en els cercles habituals, fins que algú es va esquinçar les vestidures. Es van aixecar sospites sobre l’autenticitat d’algunes escenes i sobre la identitat dels subjectes implicats. Jenkin va tocar el dos, mentre que el seu traductor francès, aclaparat per l’oprobi, es va suïcidar.\nQuan el propietari d’un edifici ruïnós de la rue d’Auseil, a la vora de l’Halle aux Cuirs, va delatar el seu darrer llogater, potser aquell comissari es va precipitar a enviar-hi els dos agents més propers. Jenkin s’hi va lliurar sense resistència, en un estat d’aparent —fingida— letargia. Un el va lligar en una cadira i s’hi va quedar vigilant-lo. L’altre va anar a buscar reforços. Qui van trobar, després, lligat —i nu— va ser el primer agent. No es va saber res més de Jenkin en molt de temps.\nEntretant, al pis de dalt hi sonava una música que pareixia d’un altre món.\n"
 			},
@@ -4276,7 +4285,7 @@
 				"title": "Dades sobre la localització de l’altiplà de Leng",
 				"date_published": "2018-12-04T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/04/dades-sobre-la.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Estudiaven un informe de l’Oficina de Serveis Estratègics que havia format part de l’arxiu Danvers. Vint i tants fulls mecanografiats, més una extensió similar d’esbossos de mapes. Era material original, autenticat. Portava segell d’abril de 1945. L’autor —identificat amb un codi— despatxava a corre-cuita la “hipòtesi antàrtica” per discutir in extenso diverses opcions a l’Àsia Central, en un arc traçat des de la vall del Caixmir fins als deserts de sorra i de glaç de Mongòlia.\nPensava que aquest era un debat ja resolt. Una vegada em van contar que algú havia encarregat una nòvia per catàleg en un entresol del carrer de Colom. Li van ensenyar fotos de dones sud-americanes, eslaves i asiàtiques. L’única que s’ajustava al seu pressupost era oriünda, precisament, d’una certa República de Leng. Els amics d’ell la van conèixer i feien comentaris grollers sobre la seva olor i les robes bigarrades. Em vaig estimar més no explicar-ho per no aigualir la festa a ningú.\n"
 			},
@@ -4285,7 +4294,7 @@
 				"title": "El futur del món",
 				"date_published": "2018-12-03T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/03/el-futur-del.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Era l’única dona en tota la festa i l’única que he vist mai al campus. Abans, entre els vells, m’havia paregut una nena de tretze o catorze anys, possiblement la neta d’alguna eminència xaruga. Ara li’n feia tres o quatre més, prou per estar al primer curs d’universitat. Si no ací, potser a Harvard o a Brown.\nSe celebrava l’aniversari de la institució en el vestíbul de la Biblioteca. Cambrers amb esmòquing servien el còctel. L’orquestra interpretava el Quatuor pour la fin du temps. El discurs d’Armitage, des de l’escalinata, abundava de preocupació per les perspectives del món. Ella es va girar i em va parlar en veu baixa. El posat circumspecte i la fermesa tranquil·la de les seves paraules contrastaven amb la seva joventut. Enmig d’aquella assemblea de folls, les raons que m’exposava infonien esperança a un pessimista com jo, que es limitava a escoltar-la.\nAvui m’he despertat amb migranya. No recorde res del que em va dir, només la seva veu, la capacitat de persuasió i el meu esbalaïment.\n"
 			},
@@ -4296,14 +4305,14 @@
 				"url": "https://blog.carlesbellver.net/2018/12/03/nigerias-buhari-denies.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 Nigeria's Buhari denies dying and being replaced by lookalike\nEl president d'un país desapareix durant mesos, per una malaltia no especificada, i posteriorment reapareix negant que sigui un impostor. El secretisme de les altes esferes s'enreda amb l'afecció a crear o a creure en conspiracions. Els casos de suplantació de la personalitat, real o imaginada, els dubtes sobre la identitat, pròpia o aliena, resulten fascinants. Desvetlen la imaginació filosòfica i literària.\n"
+				"content_text": "📎 Nigeria\u0026rsquo;s Buhari denies dying and being replaced by lookalike\nEl president d\u0026rsquo;un país desapareix durant mesos, per una malaltia no especificada, i posteriorment reapareix negant que sigui un impostor. El secretisme de les altes esferes s\u0026rsquo;enreda amb l\u0026rsquo;afecció a crear o a creure en conspiracions. Els casos de suplantació de la personalitat, real o imaginada, els dubtes sobre la identitat, pròpia o aliena, resulten fascinants. Desvetlen la imaginació filosòfica i literària.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/12/02/das-schnurren.html",
 				"title": "Das Schnurren",
 				"date_published": "2018-12-02T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/02/das-schnurren.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Vaig guanyar el premi de narrativa amb un recull inspirat en l’estada al psiquiàtric, però ara trobe que La vida canina és un títol massa subtil: ningú no podrà evitar que el llibre, quan es publiqui, vagi a parar a la secció d’animals de companyia.\nAquesta nit he somniat que anava a la Fira de Frankfurt —en substitució d’algú, un canvi d’última hora sense temps per a pensar-s’hi— i m’entrevistava un repòrter d’una revista alemanya de gossos, Mein Hund \u0026amp; Ich. Més tard, una agent d’una editorial vienesa em feia una oferta increïble: redactar els guions d’una sèrie de contes per a gossos. Me n’ensenyava un prototip —el disseny, pensat perquè poguessin passar full amb les grapes, em pareixia enginyós, encara que no l’entengués— i em convidava a vi blanc per animar-me a signar el contracte. Jèiem, després d’uns quants brindis, a la seva cambra. Els seus roncs suaus, arraulida contra mi, em sonaven a gata més aviat, però llavors m’he despertat sol a casa i he hagut d’admetre que era jo qui alenava.\n"
 			},
@@ -4321,7 +4330,7 @@
 				"title": "L’ultimo appello è da dimenticare",
 				"date_published": "2018-12-01T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/01/lultimo-appello-da.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Era dia de festa major. Marieta i Fabrizio em van presentar a les autoritats locals com a professore: el poble italià és respectuós amb els tributs acadèmics, i justament per això em va saber greu, atès que jo no he passat mai de becari. La recepció oficial se celebrava a la planta baixa de l’ajuntament. Per no saber dir que no, vaig acabar involucrat en la representació d’una escena medieval. No n’entenia la trama, però vaig assumir el meu paper. En una cambra tancada, dos homes d’aire greu em van ensenyar l’ús del punyal retràctil amb què simularia la mort de l’emissari d’un senyoriu rival.\nEn arribar el moment, les coloraines de robes i banderoles, el guirigall, els esbufecs dels cavalls, m’impressionaren. Algú m’agarrà el braç amb més força que no havia transmès jo a l’estocada. L’emissari va empal·lidir. Tothom buscava els dos homes. A mi em van pregar que marxés i que oblidés el que havia passat. En el cotxe, en el viatge de tornada, ningú no va mencionar l’incident.\n"
 			},
@@ -4330,7 +4339,7 @@
 				"title": "Logisch-Philosophische Abhandlung",
 				"date_published": "2018-11-30T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/30/logischphilosophische-abhandlung.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Aquest deu ser l’únic departament de filosofia del món en què es comença l’estudi del Tractatus pel final. És a dir, per la carta de Wittgenstein a Ludwig Von Ficker, en què declarava que el sentit de l’obra és ètic i que la part més important és la que no podia escriure.\nTambé deu ser l’únic que utilitza com a font la separata dels Annalen der Naturphilosophie de 1921, prèvia a la primera edició en forma de llibre. Ni tan sols havia rebut encara el títol definitiu en llatí, suggerit per Moore al cap d’uns mesos. Quan vaig fullejar les fotocòpies en alemany vaig restar esbalaït.\n—Això sí que és un llibre rar i no aquella fotesa del Necronomicon.\nNo va ser res més que un pensament dit en veu alta, un exabrupte. Però, com si hagués esmentat el dimoni o el secretari d’estat, tothom va callar, es van girar cap a mi i arrufant les celles em van fulminar. Silly young man, va remugar O’Brien. I havent pronunciat la sentència, es van aixecar, van recollir els estris i van marxar.\n"
 			},
@@ -4339,7 +4348,7 @@
 				"title": "Do you long for her, or for the way you were?",
 				"date_published": "2018-11-29T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/29/do-you-long.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Per comptes de viatge de fi de curs, vam passar un cap de setmana en el xalet dels pares d’un company que, ells sí, eren a l’estranger i no s’havien d’assabentar de l’ús que fèiem de la seva segona residència. Jo era més gran que els altres i guardava certes distàncies. La darrera nit vam escoltar elapés de Llach, de Leonard Cohen i de Jonathan Richman, mentre un dormitori romania ocupat i ella s’havia assegut davant de l’Olivetti, indiferent a les protestes pel soroll del tecleig.\nEn un sol full, em va traçar un perfil psicològic més acurat que el que m’hagués pogut fer cap professional fins llavors. L’endemà me’l vaig endur dins la bossa i ens vam acomiadar amb un bes a la galta i paraules dolces.\nA València vam seguir especialitats diferents i no ens vèiem gaire. Vaig portar el full a emmarcar —em va costar quatre-centes pessetes— i així va presidir els meus darrers anys de llicenciatura.\nQuan ens creuem, encara intercanviem salutacions i educats somriures.\n"
 			},
@@ -4359,7 +4368,7 @@
 				"url": "https://blog.carlesbellver.net/2018/11/29/youtube-and-the.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 YouTube and the music industry are both wrong on Article 13\nJulia Reda, eurodiputada pel Partit Pirata d'Alemanya, esciu un nou article sobre els perills de l'infame article 13 de la directiva europea sobre drets d'autor. Considera dos possibles escenaris, ambdós inacceptables: A) que només les \"empreses fiables\" puguin penjar vídeos (el web com a \"televisió per cable 2.0\") i B) que s'acceptin com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar). En tots dos casos, els principals perjudicats seran els usuaris i creadors individuals.\n"
+				"content_text": "📎 YouTube and the music industry are both wrong on Article 13\nJulia Reda, eurodiputada pel Partit Pirata d\u0026rsquo;Alemanya, esciu un nou article sobre els perills de l\u0026rsquo;infame article 13 de la directiva europea sobre drets d\u0026rsquo;autor. Considera dos possibles escenaris, ambdós inacceptables: A) que només les \u0026ldquo;empreses fiables\u0026rdquo; puguin penjar vídeos (el web com a \u0026ldquo;televisió per cable 2.0\u0026rdquo;) i B) que s\u0026rsquo;acceptin com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar). En tots dos casos, els principals perjudicats seran els usuaris i creadors individuals.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/11/29/nike-and-boeing.html",
@@ -4384,7 +4393,7 @@
 				"title": "Eudoxia era rossa i es pentinava amb llargues trenes",
 				"date_published": "2018-11-28T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/28/eudoxia-era-rossa.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Em va demanar què pensava d’ella. Li vaig dir que era rossa, apassionada i irreflexiva. Era evident que no m’ho hauria d’haver preguntat i jo no li hauria d’haver contestat. Qualsevol altre dia no hauria emprat aquests adjectius per definir-la. Hauria procurat no fer mal a ningú amb l’elecció de les paraules.\nSonava una melodia apegalosa de Neil Diamond i les gerres eren pràcticament plenes. Ens urgia canviar de tema. Va esmentar una pel·lícula de Rohmer i jo li vaig explicar el llibre que acabava de llegir, evocador i enigmàtic, de Constantin Zoubichryn.\nAl carrer, quan ja ens havíem acomiadat, em digué:\n—Per això no escriuràs mai una novel·la, perquè no entens res, no entens el que fa la gent ni per què ho fa. Seria molt millor que et dediquessis a la filosofia. O a la poesia.\nTenia raó. No hauria de parlar del que no entenc. No solc fer-ho. I, tanmateix, m’hi llance tan bon punt em posen una cervesa o em deixen sol davant d’un processador de textos.\n"
 			},
@@ -4402,7 +4411,7 @@
 				"title": "Jo era d’anís",
 				"date_published": "2018-11-27T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/27/jo-era-dans.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "M’enviaven al bar de baix amb els diners comptats i jo pujava amb les dues botelles —perquè n’hi havia que eren de conyac i n’hi havia que eren d’anís— i el cartó de tabac americà. Elles m’ho regraciaven amb un gotet —jo era d’anís— i una nova tanda d’històries: variacions sobre els tràngols que havien passat i els viaranys pels quals van pervenir en aquell casalot del carreró, el mateix en què d’un temps ençà residia jo també.\nTot d’una, un truc a la porta ens interrompia. Esperàvem a saber a quina cridava el proxeneta. Jo n’admirava —n’envejava— unes quantes coses: el coratge, la solidaritat de grup i, encara més, la facilitat per a ordir relats amb sentit. No n’hi veia cap, de sentit, en la meva vida. En aquells anys —en fa disset o divuit, d’això— la meva imaginació restava adormida. Se’m despertaria al cap d’un temps.\n(L’asma em feia xiular els bronquis a mesura que el fum s’espessia. Tan bon punt alguna se n’adonava, s’afanyaven totes a apagar les cigarretes i a ventar-me amb les mans.)\n"
 			},
@@ -4447,9 +4456,9 @@
 				"title": "Un drac",
 				"date_published": "2018-11-26T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/26/un-drac.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
-				"content_text": "La seva tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín. M’ho explicava a la seva biblioteca, mentre jo fullejava una primera edició de The Analysis of Mind (George Allen \u0026 Unwin, 1921), excel·lentment conservada, i assaboria la copa de scotch que m’havia ofert. Ell, tanmateix, preferia com sempre el vi de Porto.\nAra i adés, jo mirava a través de la finestra cap a les altes muntanyes que s’albiraven urbs enllà.\nEm contà el seu viatge. Tingué accés a documentació molt valuosa. Apunts microfilmats d’alumnes de Russell i llibres que li havien pertangut. Entre d’altres, un del qual només recordava —o només recorde jo ara aquest detall— que en una nota al peu s’indicava que encara hi havia dracs a la Xina en temps històrics, mentre que el text principal afirmava que s’extingiren abans.\nPer la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però, la presencià ell, anys enrere, a la Xina, o tots dos plegats a la seva biblioteca? Ja no ho sabrem mai?\n"
+				"content_text": "La seva tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín. M’ho explicava a la seva biblioteca, mentre jo fullejava una primera edició de The Analysis of Mind (George Allen \u0026amp; Unwin, 1921), excel·lentment conservada, i assaboria la copa de scotch que m’havia ofert. Ell, tanmateix, preferia com sempre el vi de Porto.\nAra i adés, jo mirava a través de la finestra cap a les altes muntanyes que s’albiraven urbs enllà.\nEm contà el seu viatge. Tingué accés a documentació molt valuosa. Apunts microfilmats d’alumnes de Russell i llibres que li havien pertangut. Entre d’altres, un del qual només recordava —o només recorde jo ara aquest detall— que en una nota al peu s’indicava que encara hi havia dracs a la Xina en temps històrics, mentre que el text principal afirmava que s’extingiren abans.\nPer la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però, la presencià ell, anys enrere, a la Xina, o tots dos plegats a la seva biblioteca? Ja no ho sabrem mai?\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/11/26/una-vindicacin-del.html",
@@ -4465,7 +4474,7 @@
 				"title": "Notes per a la memòria final de la beca",
 				"date_published": "2018-11-25T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/25/notes-per-a.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Un dels moments crítics en la història de la Miskatonic University seria sens subte la seva clausura el dilluns 7 de juliol de 1958, just quan, paradoxalment, la voràgine maccarthista arribava a la seva fi. Bona part del professorat va patir presó preventiva, llargues i feixugues investigacions i la prohibició temporal de treballar en cap altra institució educativa.\n(Ensems, a Pamplona, la premsa local observava que d’uns anys ençà era moda celebrar amb xampany l’esclat del coet anunciador de les festes de Sant Fermí.)\nL’activitat acadèmica es va reprendre a mitjan anys seixanta. Primer de forma clandestina. Més endavant, durant l’administració Carter, ja amb el permís dels organismes oficials i la convalidació de títols. Sorprèn constatar que molts dels docents en exercici, encara avui, continuen essent els mateixos que abans de l’episodi repressiu. La seva extraordinària longevitat invitaria a pensar que algú, en algun moment, va culminar les recerques de Paracels.\n"
 			},
@@ -4492,7 +4501,7 @@
 				"title": "A l’oficina de correus",
 				"date_published": "2018-11-24T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/24/a-loficina-de.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "S’apropava l’hora de tancar i la cua avançava amb una lentitud exasperant, però no podia deixar l’enviament per l’endemà perquè no estava segur que les còpies arribessin a temps i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.\nEls funcionaris, de fet, pareixien més encantats que mai, menys diligents, i vés que són, de costum, parsimoniosos. Tenien una visita, un home assegut en una cadira al darrere, i s’entretenien xerrant-hi. Algú d’aspecte poc saludable, amb la cara demacrada i una llangor que feien sospitar la convalescència d’una greu malaltia. Parlava amb un fil de veu. Constanment es giraven per escoltar-lo i aturaven el tràmit que portessin entre mans.\nWarren, més tard, m’ha aclarit el cas.\n—Es diu Nahum i va morir fa poc d’unes febres d’origen desconegut. Deu haver passat per acomiadar-se dels companys i comprovar com s’apanyen sense ell.\n"
 			},
@@ -4510,7 +4519,7 @@
 				"title": "El cau de la bèstia",
 				"date_published": "2018-11-23T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/23/el-cau-de.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "—El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston vaig veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York va detenir un individu que acabava de treure de casa, en el Village, un cocodril nan.\n—No ens hauríem d’estranyar, doncs, que Dexter vulgui tenir per mascota una aranya gegant?\n—Un cranc pelut.\n—Per l’amor de Déu… d’on ha tret aquest monstre?\n—El va trobar en una batuda en algun bosc perdut i inexplicablement va decidir quedar-se’l, en lloc de portar-lo al laboratori.\n—Però algú de vosaltres l’ha vist?\n—Jo vaig poder veure l’estat en què té sa casa. Em van encomanar que hi anés per demanar-li el vot en les eleccions departamentals…\n—No crec que tingueu cap possibilitat de guanyar.\n—La dona de fer feines va marxar i no pot aconseguir una substituta. El passadís, darrere del vestíbul, era ple d’immundícia. No caldrà que us digui que no vaig passar del llindar.\n—Algú hauria de fer alguna cosa, senyors.\n"
 			},
@@ -4546,7 +4555,7 @@
 				"title": "Llegendes urbanes",
 				"date_published": "2018-11-22T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/22/llegendes-urbanes.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Hi havia dubtes, o més aviat versions diferents, sobre l’origen de la contaminació: podia ser un fragment del meteorit que va caure prop d’Arkham l’any 1882 —el que va desaparèixer del Museu de Ciències Naturals mentre la universitat romangué tancada, durant la caça de bruixes—, o el tros de motlura d’una balustrada que Walter Gilman, estudiant de matemàtiques, va trobar al seu llit —després d’un somni en què s’havia sentit transportat a un altre món— i que ningú més no havia vist mai. Fos el que fos, algú va enviar-ho per correu a un professor de Miskatonic i aquest va morir de manera fulminant en obrir el paquet. Ningú no sabia el nom del professor, ni a quin departament pertanyia, però pareixia que tothom conegués algú que tenia un amic que n’havia estat alumne, anys enrere.\nFins i tot, es deia, més endavant havia mort també el funcionari que va gestionar el lliurament en l’oficina de correus. La psicosi va durar unes setmanes, el temps just perquè comencés a aflorar un nou report fals.\n"
 			},
@@ -4557,7 +4566,7 @@
 				"url": "https://blog.carlesbellver.net/2018/11/22/configuring-wordpress-for.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "\u0026#128206; Configuring WordPress for Micro.blog\n"
+				"content_text": "📎 Configuring WordPress for Micro.blog\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/11/22/an-artist-bought.html",
@@ -4573,7 +4582,7 @@
 				"title": "La presència del mal",
 				"date_published": "2018-11-21T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/21/la-presncia-del.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "L’alcohol etílic és, segons els llibres de text, dissolvent, combustible i psicoactiu. Qualsevol d’aquestes propietats valdria per explicar, amb rigor científic variable, que se m’hagi malmès —dissolt, incendiat, trastocat— la memòria d’aquells pocs anys en què vaig consumir-ne més assíduament.\nDe tant en tant, un record retorna i fereix. Dins d’un somni o en acabant d’una sessió de meditació. (Em pregunte si deu ser inevitable que l’abús de les drogues condueixi a pràctiques orientalistes, de racionalitat escassa; sempre que no et dugui directament al cementeri, és clar.) Una casa vella, en un carreró quasi tan fosc de dia com de nit. L’interior és encara més sòrdid. Una porquera on arrela el dimoni. Les deixalles acumulades als racons, el greixum, l’olor agra, de primer moment insuportable. Una porta oberta, la darrera, al final del passadís. Algú que marxa plorant i algú que perboca.\nNo puc saber amb seguretat quina d’aquestes dues persones sóc. No voldria saber-ho, però ho sospite.\n"
 			},
@@ -4600,7 +4609,7 @@
 				"title": "L’enfer, c’est les autres",
 				"date_published": "2018-11-20T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/20/lenfer-cest-les.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Els cabells esbullats, els llavis pintats i un gran somriure. Feia vent, aquell matí. Aquesta foto seva, una mica borrosa, l’única que tenia i que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li. La va examinar amb interès i em va demanar qui era.\n—Reconeixeràs —em va dir— que l’has buscada en totes les altres.\nEra evident que només es podia referir a les dues —o tres— posteriors, a qui potser coneixia de vista, no pas a l’única anterior, de qui ho ignorava tot. Però en aquell moment vaig sentir que el pànic i la paranoia s’apoderaven de mi una altra vegada.\n—Només els afeccionats a la psicologia podeu arribar a ser tan ridículs com la mateixa psicologia acadèmica.\nLi vaig arrabassar la foto i vaig marxar, ho sé, amb un excés de teatralitat. Un parell de carrers més enllà, abans del riu, em vaig adonar que també li havia pres el llibre i el vaig llençar en una paperera. Adéu-siau, Jean Paul Sartre.\nI bé, doncs, continuem.\n"
 			},
@@ -4636,7 +4645,7 @@
 				"title": "Hi ha unicorns?",
 				"date_published": "2018-11-19T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/19/hi-ha-unicorns.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "La vaig conèixer en una sala d’estudi de l’antiga Facultat de Lletres de la Universitat de París. Ens vam mirar i al cap d’uns minuts vaig veure que eixia. Va ser una conversa breu, una mica incòmoda i tendra. Bevíem glops d’un cafè de màquina que pareixia metzinós.\nDevia tenir dos o tres anys més que jo. Més tard, quan va marxar, va fer com si es descuidés una de les seves carpetes. A dins vaig trobar l’anunci d’un col·loqui —“Hommage à la Licorne”— il·lustrat amb un detall dels cèlebres tapissos del Museu de Cluny. En un full en blanc havia escrit les seves dades. Em va sorprendre que tingués tres noms: Marie Valérie Mathilde. Em preguntava com li devien dir les seves amigues o la seva família.\nAl vespre vaig anar a buscar-la. La seva companya de pis em va comunicar que no hi era. Li vaig lliurar la carpeta i li vaig demanar que li digués que ens podíem veure dissabte en la conferència del professor canadenc. “Are There Unicorns? Towards A (Neo)-Kantian Answer”: un enfocament interessant.\n"
 			},
@@ -4654,7 +4663,7 @@
 				"title": "",
 				"date_published": "2018-11-18T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/18/193000.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Els textos que componen aquest recull van ser redactats l’estiu de 1992 a la Miskatonic University (estada d’investigació sufragada per una beca de la Pickman Foundation). Els vaig teclejar amb un ordinador Sinclair ZX81, relíquia tecnològica contemporània del primer IBM PC, però molt més rudimentària. Misteriosament, no disposaven de cap equip actual per provar “The effects of the word processor in writing”.\nL’article amb la justificació del projecte i l’esbós dels resultats va ser rebutjat per l’Arkham Science. Potser el comitè editorial degué jutjar el tema excessivament modernista, o merament superflu. No podria estar més d’acord amb aquestes raons.\nUna limitació del ZX81 era la memòria RAM, que permetia treballar amb un màxim d’un kilobyte. Per això aquests textos tenen, exactament, mil vint-i-quatre caràcters, espais inclosos. Els vaig retrobar fa poc dins d’una carpeta. La impressió s’esvaïa, em vaig sentir nostàlgic i vaig pensar a transcriure’ls. No crec que interessin a ningú més que a mi.\nCh. B.\n"
 			},
@@ -5482,7 +5491,7 @@
 				"title": "",
 				"date_published": "2018-08-08T15:44:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/08/08/164437.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "✍🏻 “Deteriorament general de la realitat”, un microconte meu de 2005 —encapçalava el recull La vida canina— recuperat ara per Jordi Masó Rahola en el blog La bona confitura.\n"
 			},
@@ -6978,7 +6987,7 @@
 				"url": "https://blog.carlesbellver.net/2018/03/25/facebook-scraped-call.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 Facebook scraped call, text message data for years from Android phones\nSi vau donar permís a Facebook per a accedir als vostres contactes abans de la versió d'Android 4.1, amb això també vau autoritzar l'accés al registre de trucades i missatges.\n"
+				"content_text": "📎 Facebook scraped call, text message data for years from Android phones\nSi vau donar permís a Facebook per a accedir als vostres contactes abans de la versió d\u0026rsquo;Android 4.1, amb això també vau autoritzar l\u0026rsquo;accés al registre de trucades i missatges.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/03/23/tolkien-sobre-els.html",
@@ -8209,9 +8218,9 @@
 				"title": "",
 				"date_published": "2018-01-05T10:40:30+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/05/114030.html",
-				"tags": "",
+				"tags": "ressenyes",
 				"photos": "",
-				"content_text": "(Re)llegit: Vassili Grossman, Vida i destí. L'estadística predictiva (big data) i el sistema concentracionari com a bases de la societat del futur. Però Hitler temia el llop enmig del bosc. I feia enviar arbrets de Nadal al 6è Exèrcit, encerclat per l'Exèrcit Roig a Stalingrad.\n"
+				"content_text": "📖 (Re)llegit: Vassili Grossman, Vida i destí. L\u0026rsquo;estadística predictiva (big data) i el sistema concentracionari com a bases de la societat del futur. Però Hitler temia el llop enmig del bosc. I feia enviar arbrets de Nadal al 6è Exèrcit, encerclat per l\u0026rsquo;Exèrcit Roig a Stalingrad.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/01/04/derechos-o-torcidos.html",
@@ -8481,7 +8490,7 @@
 				"url": "https://blog.carlesbellver.net/2017/12/16/083942.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 CDC gets list of forbidden words: Fetus, transgender, diversity\nL'administració Trump lliura als Centres de Control i Prevenció de Malalties una llista de —set— termes prohibits: vulnerable, dret, diversitat, transgènere, fetus, basat en l'evidència i basat en la ciència.\n"
+				"content_text": "📎 CDC gets list of forbidden words: Fetus, transgender, diversity\nL\u0026rsquo;administració Trump lliura als Centres de Control i Prevenció de Malalties una llista de —set— termes prohibits: vulnerable, dret, diversitat, transgènere, fetus, basat en l\u0026rsquo;evidència i basat en la ciència.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/12/15/211437.html",
@@ -8517,7 +8526,7 @@
 				"url": "https://blog.carlesbellver.net/2017/12/14/teletype-for-atom.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 Teletype for Atom\nCompartir l'espai de treball amb membres de l'equip de desenvolupament i col·laborar en el codi en temps real.\n"
+				"content_text": "📎 Teletype for Atom\nCompartir l\u0026rsquo;espai de treball amb membres de l\u0026rsquo;equip de desenvolupament i col·laborar en el codi en temps real.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/12/14/la-red-no.html",
@@ -8589,16 +8598,16 @@
 				"url": "https://blog.carlesbellver.net/2017/12/08/234650.html",
 				"tags": "",
 				"photos": "",
-				"content_text": "Android 7 + full QWERTY mechanical keyboard. The new Gemini PDA from Planet Computers is the spiritual successor to the Psion Series 5 organiser from the late 1990s jmcomms.com/2017/11/29…\n"
+				"content_text": "📎 jmcomms.com/2017/11/29…\n Android 7 + full QWERTY mechanical keyboard. The new Gemini PDA from Planet Computers is the spiritual successor to the Psion Series 5 organiser from the late 1990s\n "
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/12/08/204901.html",
 				"title": "",
 				"date_published": "2017-12-08T19:49:01+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/08/204901.html",
-				"tags": "",
+				"tags": "ressenyes",
 				"photos": "",
-				"content_text": "Llegit: Per què Fuster tenia raó, de Pau Viciano. Dit d'una altra manera: per què és tan injust tergiversar Fuster i culpar-lo de les nostres frustracions i fracassos polítics.\n"
+				"content_text": "📖 Llegit: Per què Fuster tenia raó, de Pau Viciano. Dit d\u0026rsquo;una altra manera: per què és tan injust tergiversar Fuster i culpar-lo de les nostres frustracions i fracassos polítics.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/12/08/un-big-data.html",
@@ -8634,7 +8643,7 @@
 				"url": "https://blog.carlesbellver.net/2017/12/07/the-wikipedia-competitor.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 The Wikipedia Competitor That's Harnessing Blockchain For Epistemological Supremacy\nEveripedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia database i una moneda de fitxes.\n"
+				"content_text": "📎 The Wikipedia Competitor That\u0026rsquo;s Harnessing Blockchain For Epistemological Supremacy\nEveripedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia database i una moneda de fitxes.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/12/07/095100.html",
@@ -8686,8 +8695,8 @@
 				"title": "",
 				"date_published": "2017-12-03T19:42:19+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/03/204219.html",
-				"tags": "",
-				"photos": "",
+				"tags": "fotos",
+				"photos": "/wp-content/uploads/2017/12/f6015c5eef6443b0bcedbd8ca89520e0.jpg",
 				"content_text": "La ferotge cavalleria de Nadal\n"
 			},
 			{
@@ -8706,7 +8715,7 @@
 				"url": "https://blog.carlesbellver.net/2017/12/02/153400.html",
 				"tags": "",
 				"photos": "",
-				"content_text": "El powerpoint com a unitat de mesura del desvergonyiment: El Ayuntamiento de València pagó a Laterne 145.000 euros por un 'power point' de 10 hojas.\n"
+				"content_text": "El powerpoint com a unitat de mesura del desvergonyiment: El Ayuntamiento de València pagó a Laterne 145.000 euros por un \u0026lsquo;power point\u0026rsquo; de 10 hojas.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/12/02/study-finds-dark.html",
@@ -8787,7 +8796,7 @@
 				"url": "https://blog.carlesbellver.net/2017/11/25/175911.html",
 				"tags": "",
 				"photos": "",
-				"content_text": "Com és que veus la boina al cap dels altres i no t'adones de la llosa que hi ha damunt del teu?\n"
+				"content_text": "Com és que veus la boina al cap dels altres i no t\u0026rsquo;adones de la llosa pesant damunt del teu?\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/11/25/112430.html",
@@ -8805,7 +8814,7 @@
 				"url": "https://blog.carlesbellver.net/2017/11/24/nuccio-ordine-el.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 Nuccio Ordine: \"El mercado es la estrella polar que orienta todas las leyes\"\nLa universitat en perill i el naufragi d'Europa.\n"
+				"content_text": "📎 Nuccio Ordine: \u0026ldquo;El mercado es la estrella polar que orienta todas las leyes\u0026rdquo;\nLa universitat en perill i el naufragi d\u0026rsquo;Europa.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/11/23/choice-of-alcoholic.html",
@@ -8868,7 +8877,7 @@
 				"url": "https://blog.carlesbellver.net/2017/11/18/210809.html",
 				"tags": "",
 				"photos": "",
-				"content_text": "Ara es parla molt de sèries, però no se n'ha tornat a fer cap com Northern Exposure. Els guions, els personatges, els actors. L'edat que jo tenia.\n"
+				"content_text": "Ara es parla molt de sèries, però no se n\u0026rsquo;ha tornat a fer cap com Northern Exposure. Els guions, els personatges, els actors. L\u0026rsquo;edat que jo tenia.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/11/18/085355.html",
@@ -8904,7 +8913,7 @@
 				"url": "https://blog.carlesbellver.net/2017/11/15/how-facebook-figures.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 How Facebook Figures Out Everyone You've Ever Met\nPerfils a l'ombra, informació de contactes i l'esgarrifós algoritme PYMK (\"persones que potser coneixes\").\n"
+				"content_text": "📎 How Facebook Figures Out Everyone You\u0026rsquo;ve Ever Met\nPerfils a l\u0026rsquo;ombra, informació de contactes i l\u0026rsquo;esgarrifós algoritme PYMK (\u0026ldquo;persones que potser coneixes\u0026rdquo;).\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2017/11/14/the-end-of.html",
@@ -9730,7 +9739,7 @@
 				"title": "",
 				"date_published": "2017-04-12T22:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/04/12/la-meva-prxima.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": " —Us haig d’informar que aquesta conversa quedarà enregistrada en una cadena de blocs per tota l’eternitat i que vós no hi tindreu, mai, cap dret d’accés, rectificació, cancel·lació o oposició, ni res que s’hi assembli.\n—Ho trobo just. Vol que li deixi la meva gravadora? Però no sé si la bateria deu estar prou carregada…\n—No us hi amoïneu. Disposem de mitjans propis, infinitament lluny de les vostres limitadíssimes capacitats de comprensió.\n—D’acord.\n—Comencem, doncs.\n Això podria ser el preàmbul del meu pròxim conte, si és que algun dia l’escric.\n"
 			},
@@ -9865,7 +9874,7 @@
 				"title": "Un dimoni en pràctiques",
 				"date_published": "2016-12-24T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2016/12/24/un-dimoni-en.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "\nPhoto by Tomascastelazo CC BY-SA 3.0 via Wikimedia Commons\nD’aquest fals fabliau, se’n coneixen diverses variants, separades unes d’altres per decennis, per fronteres d’antics regnes medievals i pels idiomes en què es contaven o van ser escrites.\nUn dimoni de poca categoria ha de fer mèrits per ascendir en l’escalafó. Li direm Anaphalantus. Tan baix era el seu rang que no li solien donar nom els rondallaires. Rebia instruccions d’un superior i era despatxat, just a trenc d’alba, cap als afores d’un petit poble de la Picardia, la Toscana, o el Maestrat. Havia de superar tres proves, tres reptes, cometre tres maldats: escampar un ramat, contaminar un riu —altres vegades era una bassa de reg, o una sèquia— i induir un sant baró a fornicar. Les dues primeres resultaven senzilles. Embrutava l’aigua amb el fem de les vaques i les espantava amb un foc que encenia fent petar els dits. La tercera se li havia de resistir. Triava malament la víctima, o la tàctica; o ambdues. S’aixecava les faldetes i el pobre pagès que s’acabava de llevar, un bon cristià que s’havia trobat el corral buit, es demanava per què li ensenyava les vergonyes aquesta noieta idèntica en tot a la verge Maria. Per que a ell, mare de Déu santíssima, si no ho féu ni amb Sant Josep, que era el seu marit?\nÉs clar que alguna aparença havia d’imitar l’Anaphalantus: no en coneixia cap, de dona, ni en sabia res tret de les nocions anatòmiques bàsiques i, a aquesta hora de la matinada, els únics models que va ensopegar eren les imatges de l’ermita o esglesieta local. Hagué de decidir-se entre una màrtir greument mutilada i la madona d’ulls llangorosos i túnica blau cel. Va considerar també, però només un moment, l’opció del jove quasi nu lligat en un arbre, amb qui feia punteria una colla d’arquers sarraïns.\nEl pagès, llavors, gira cua, fuig i torna al cap d’un minut amb el capellà. L’Anaphalantus els havia esperat sense immutar-se. Vade retro me satana, balbuceja el mossèn mentre se senya. Un descuit delatava el maligne: els peus descalços, la peülla partida. Però la fórmula clàssica, que ja va emprar Jesús per renyar Pere (Marc, 8, 33), estava massa gastada i no feia efecte en un dimoni de debò, ni que fos com aquest un soldat ras de la host de Belzebú, senyor de les mosques. El mossèn, esverat, obria un llibre petit i el fullejava nerviosament. Provava un llatinòrum i un altre, se li travava la llengua. A la tercera l’encertava. L’enganyosa noieta s’esvaïa i, on eren abans els seus horribles unglots, ara s’hi bellugava desorientada una rata cellarda. Sense pensar-s’ho dues vegades, aprofitaven el desconcert del rosegador per ficar-lo en una gàbia, en l’interior de la qual penjaven un crucifix.\nLa història, en aquest punt, pot embolicar-se. El capellà podia emportar-se la presa a cavall d’un mul fins al bisbat, en un viatge que era un periple amb parades i entrebancs successius. Podia ser el bisbe, doncs, o podia ser el mateix capellà, sense haver marxat del poble, qui proposava un tracte al dimoni en la intimitat del seu dormitori: retiraré la creu, t’obriré la porta perquè surtis i desfaré l’encanteri si tornes a mostrar-te com una dona. Al pagès sempre li tocava mitja dotzena —o més— de fuetades, castigat preventivament com a sospitós de provocar l’aparició d’un súcube. L’Anaphalantus i el bisbe —o el capellà— jeien per a satisfacció d’ambdós i en acabant el primer tornava a l’avern, deixant enrere la seva riota cabruna, una fumaguera espessa i l’olor de sofre preceptiva. El religiós s’arreglava la sotana i s’afanyava a ventilar l’estança. En presentar-se de nou a l’inframon, tanmateix, serà d’Anaphalantus que es riuran els altres dimonis, sorollosament, escarnint-lo, anota al marge el copista en una de les poques versions escrites que es conserven d’aquesta contalla: la que Joan Perucho, en Roses, diables i somriures, situava en la biblioteca del monestir de Benifassà. No ha fet fornicar cap sant baró, l’assabentaven a crits, sinó un com ells. Tot plegat, ai las, no ha estat més que una broma, la quintada que és costum fer passar als novençans, així a la terra com en l’infern.\n—S’ha deixat follar per un capellà! —repetien insistentment, brunzint al seu voltant com un eixam de taves—.\n"
 			},
@@ -10811,7 +10820,7 @@
 				"date_published": "2013-12-19T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2013/12/19/tensin-de-muerte.html",
 				"tags": "fotos",
-				"photos": "",
+				"photos": "/uploads/2019/7c080aeb41.jpg",
 				"content_text": "Tensión de muerte. Sometimes you may feel like that.\n"
 			},
 			{
@@ -11136,7 +11145,7 @@
 				"url": "https://blog.carlesbellver.net/2012/12/21/063334.html",
 				"tags": "",
 				"photos": "",
-				"content_text": "Troben erroni el còmput del calendari maia. La fi del món s'esdevingué dècades enrere. Des de llavors vivim en un no-futur postapocalíptic.\n"
+				"content_text": "Troben erroni el còmput del calendari maia. La fi del món s\u0026rsquo;esdevingué dècades enrere. Des de llavors vivim en un no-futur postapocalíptic.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/20/the-perfect-storm.html",
@@ -11152,34 +11161,34 @@
 				"title": "",
 				"date_published": "2012-12-20T19:58:00+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/20/205806.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Guanya en un sorteig un creuer pel Yann per a dues persones. Encoratjat per la sort, proposa a una desconeguda en un bar que l'hi acompanyi.\n"
+				"content_text": "Guanya en un sorteig un creuer pel Yann per a dues persones. Encoratjat per la sort, proposa a una desconeguda en un bar que l\u0026rsquo;hi acompanyi.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/20/191633.html",
 				"title": "",
 				"date_published": "2012-12-20T18:16:33+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/20/191633.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "El drac i el tigre en l'escut d'un mas. A desgrat dels llibres d'història, aquest país va ser governat antigament per invasors xinesos.\n"
+				"content_text": "El drac i el tigre en l\u0026rsquo;escut d\u0026rsquo;un mas. A desgrat dels llibres d\u0026rsquo;història, aquest país va ser governat antigament per invasors xinesos.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/20/160256.html",
 				"title": "",
 				"date_published": "2012-12-20T15:02:56+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/20/160256.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Xin: delicatessen mística, fong gegant, s'escampa pel subsol i aflora en forma de cucs o bolets individuals, narcòtics, cal engolir sencers.\n"
+				"content_text": "Xin: delicatessen mística, fong gegant, s\u0026rsquo;escampa pel subsol i aflora en forma de cucs o bolets individuals, narcòtics, cal engolir sencers.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/20/150820.html",
 				"title": "",
 				"date_published": "2012-12-20T14:08:20+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/20/150820.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Matrimoni mixt. Lluna de mel en Westonburg. Turisme marcià. Ruïnes circulars. Somnis reminiscents. Una sospita.\n"
 			},
@@ -11188,7 +11197,7 @@
 				"title": "",
 				"date_published": "2012-12-20T06:01:22+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/20/070122.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Després de dedicar sa vida a desxifrar-lo, el contingut del manuscrit Voynich li sembla banal. Coi de sexualitat hipertrofiada.\n"
 			},
@@ -11206,7 +11215,7 @@
 				"title": "",
 				"date_published": "2012-12-19T18:18:24+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/19/191824.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Úrsula enroscava el coll per besar tendrament Borís en la nuca i ell li prometia que un dia marxarien a Àfrica tots dos junts\n"
 			},
@@ -11215,16 +11224,16 @@
 				"title": "",
 				"date_published": "2012-12-19T17:57:04+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/19/185704.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Obres, volen fer passar tots els túnels per refugis de la darrera guerra civil, però criden l'atenció certs baixos relleus i inscripcions.\n"
+				"content_text": "Obres, volen fer passar tots els túnels per refugis de la darrera guerra civil, però criden l\u0026rsquo;atenció certs baixos relleus i inscripcions.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/19/182945.html",
 				"title": "",
 				"date_published": "2012-12-19T17:29:45+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/19/182945.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Una altra guerra secreta -contra la triada Tian Di Hui- va ocasionar la migració de Tristero a les xarxes digitals encriptades, cap a 1999.\n"
 			},
@@ -11233,7 +11242,7 @@
 				"title": "",
 				"date_published": "2012-12-19T15:26:14+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/19/162614.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "La tortuga és un animal infernal. En compren una partida per poblar un estany i es fiquen pertot, la casa, el cotxe. Provoquen un accident.\n"
 			},
@@ -11242,79 +11251,79 @@
 				"title": "",
 				"date_published": "2012-12-19T05:58:28+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/19/065828.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Obre per error un sobre adreçat al seu veí, una mena d'informe sobre tortures que l'horroritza. No gosa conservar-lo, ni desfer-se'n.\n"
+				"content_text": "Obre per error un sobre adreçat al seu veí, una mena d\u0026rsquo;informe sobre tortures que l\u0026rsquo;horroritza. No gosa conservar-lo, ni desfer-se\u0026rsquo;n.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/18/230442.html",
 				"title": "",
 				"date_published": "2012-12-18T22:04:42+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/18/230442.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Milionari malalt d'avorriment inspirat en llibre d'O. Sacks es fa practicar una lobectomia temporal bilateral i deixa de reconèixer sa mare.\n"
+				"content_text": "Milionari malalt d\u0026rsquo;avorriment inspirat en llibre d'O. Sacks es fa practicar una lobectomia temporal bilateral i deixa de reconèixer sa mare.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/18/172637.html",
 				"title": "",
 				"date_published": "2012-12-18T16:26:37+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/18/172637.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Milionari compra única còpia de Llibre de Soyga en Sotheby's, l'oblida en tauleta del saló amb National Geographic i Sports Illustrated.\n"
+				"content_text": "Milionari compra única còpia de Llibre de Soyga en Sotheby\u0026rsquo;s, l\u0026rsquo;oblida en tauleta del saló amb National Geographic i Sports Illustrated.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/18/172356.html",
 				"title": "",
 				"date_published": "2012-12-18T16:23:56+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/18/172356.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Científics NASA incapaços d'explicar falses \"ruïnes\" i anomalies marcianes, tenen malsons, lamenten haver llegit Solaris, maleixen S. Lem.\n"
+				"content_text": "Científics NASA incapaços d\u0026rsquo;explicar falses \u0026ldquo;ruïnes\u0026rdquo; i anomalies marcianes, tenen malsons, lamenten haver llegit Solaris, maleeixen S. Lem.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/18/160816.html",
 				"title": "",
 				"date_published": "2012-12-18T15:08:16+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/18/160816.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Renill monstruós i per dalt del campanar plana un drac o un shantak: l'ocellot cavallí, espantós i cruel, descrit en llegendes sumèries.\n"
+				"content_text": "Renill monstruós i per dalt del campanar plana un drac o un shantak: l\u0026rsquo;ocellot cavallí, espantós i cruel, descrit en llegendes sumèries.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/18/070224.html",
 				"title": "",
 				"date_published": "2012-12-18T06:02:24+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/18/070224.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Macacos escriuen fragment Shakespeare amb PCW 8256, però d'obra apòcrifa (Locrine). 25 anys, laboratori cancel·la projecte, sacrifica micos.\n"
+				"content_text": "Macacos escriuen fragment Shakespeare amb PCW 8256, però d\u0026rsquo;obra apòcrifa (Locrine). 25 anys, laboratori cancel·la projecte, sacrifica micos.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/17/191805.html",
 				"title": "",
 				"date_published": "2012-12-17T18:18:05+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/17/191805.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Nou intent francès d'assaig atòmic, prop d'on s'han trobat indicis arqueològics de R'lyeh, just abans de conjunció estel·lar, terratrèmol.\n"
+				"content_text": "Nou intent francès d\u0026rsquo;assaig atòmic, prop d\u0026rsquo;on s\u0026rsquo;han trobat indicis arqueològics de R\u0026rsquo;lyeh, just abans de conjunció estel·lar, terratrèmol.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/17/191727.html",
 				"title": "",
 				"date_published": "2012-12-17T18:17:27+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/17/191727.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Li ofereixen una caixa de fusta, li diuen que conté l'ànima perduda del seu avi. Per esnobisme, per curiositat, per avorriment, la compra.\n"
+				"content_text": "Li ofereixen una caixa de fusta, li diuen que conté l\u0026rsquo;ànima perduda del seu avi. Per esnobisme, per curiositat, per avorriment, la compra.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/17/163653.html",
 				"title": "",
 				"date_published": "2012-12-17T15:36:53+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/17/163653.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Plagues, Carib delmat. Rebels de Costaguana ocupen terres, base de llançament europea. Primera potència espacial sense estat.\n"
 			},
@@ -11323,25 +11332,25 @@
 				"title": "",
 				"date_published": "2012-12-17T15:36:32+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/17/163632.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Dr. Ransom, advocat del \"solar antic\", reconeix q és una invenció, \"com l'esperanto\". Esperantistes destaquen diferències, se'n desvinculen.\n"
+				"content_text": "Dr. Ransom, advocat del \u0026ldquo;solar antic\u0026rdquo;, reconeix q és una invenció, \u0026ldquo;com l\u0026rsquo;esperanto\u0026rdquo;. Esperantistes destaquen diferències, se\u0026rsquo;n desvinculen.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/17/070155.html",
 				"title": "",
 				"date_published": "2012-12-17T06:01:55+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/17/070155.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Trobada casual amb R. L. Stevenson en una carnisseria de Samoa, evita que compri carn humana. Nadius caníbals en diuen \"porc llarg\".\n"
+				"content_text": "Trobada casual amb R. L. Stevenson en una carnisseria de Samoa, evita que compri carn humana. Nadius caníbals en diuen \u0026ldquo;porc llarg\u0026rdquo;.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/16/000652.html",
 				"title": "",
 				"date_published": "2012-12-16T23:06:52+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/16/000652.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Malauradament per a ell, la hiperòsmia induïda per les anfetamines cedí aviat i degenerà en una clara osmàlgia.\n"
 			},
@@ -11350,43 +11359,43 @@
 				"title": "",
 				"date_published": "2012-12-16T22:16:31+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/16/231631.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Em desperten els trucs i la pesanta que s'esmunyeix sota el llit, com sempre que es materialitzen els malsons que em provoca.\n"
+				"content_text": "Em desperten els trucs i la pesanta que s\u0026rsquo;esmunyeix sota el llit, com sempre que es materialitzen els malsons que em provoca.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/16/200238.html",
 				"title": "",
 				"date_published": "2012-12-16T19:02:38+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/16/200238.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Descobreixen antigues mines d'indis algonquins a Vermont. Gent amb caretes estranyes als pobles del voltant. Se senten veus als boscos.\n"
+				"content_text": "Descobreixen antigues mines d\u0026rsquo;indis algonquins a Vermont. Gent amb caretes estranyes als pobles del voltant. Se senten veus als boscos.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/16/200134.html",
 				"title": "",
 				"date_published": "2012-12-16T19:01:34+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/16/200134.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Agressió salvatge en una partida de pòquer. Dos dels participants n'acusen un 3r. El 4t declara la irrupció d'un 5è d'aparença bestial.\n"
+				"content_text": "Agressió salvatge en una partida de pòquer. Dos dels participants n\u0026rsquo;acusen un 3r. El 4t declara la irrupció d\u0026rsquo;un 5è d\u0026rsquo;aparença bestial.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/16/125519.html",
 				"title": "",
 				"date_published": "2012-12-16T11:55:19+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/16/125519.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Tu i jo ens trobàvem sempre en palauets romàntics, davant d'estanys en tardors de somnis vagues. Te m'apropaves de gairell inadvertida.\n"
+				"content_text": "Tu i jo ens trobàvem sempre en palauets romàntics, davant d\u0026rsquo;estanys en tardors de somnis vagues. Te m\u0026rsquo;apropaves de gairell inadvertida.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/16/115404.html",
 				"title": "",
 				"date_published": "2012-12-16T10:54:04+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/16/115404.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Lord Oxmore no va ser rescatat al Serengeti. Els trets dels caçadors el van matar i el va suplantar un lleó al qual havia ensenyat a parlar.\n"
 			},
@@ -11395,16 +11404,16 @@
 				"title": "",
 				"date_published": "2012-12-15T14:32:48+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/15/153248.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Xarxa de botigues de compra d'or, vinculada a experiments financers de govern regional. Mafiosos apallissen vicepresident segon.\n"
+				"content_text": "Xarxa de botigues de compra d\u0026rsquo;or, vinculada a experiments financers de govern regional. Mafiosos apallissen vicepresident segon.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/15/113533.html",
 				"title": "",
 				"date_published": "2012-12-15T10:35:33+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/15/113533.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Oppenheimer desitja secretament que Teller tingui raó, esdevenir Xiva, destruir el món per una reacció en cadena en el primer assaig atòmic.\n"
 			},
@@ -11413,52 +11422,52 @@
 				"title": "",
 				"date_published": "2012-12-15T08:20:35+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/15/092035.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Em rendisc. Accepte, a condició que em feu passar pel mort i em doneu una plaça en l'estranger.\n"
+				"content_text": "Em rendisc. Accepte, a condició que em feu passar pel mort i em doneu una plaça en l\u0026rsquo;estranger.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/15/085313.html",
 				"title": "",
 				"date_published": "2012-12-15T07:53:13+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/15/085313.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Núvia per correu. Dins d'una caixa, des de Corea. Cara agradable, però anatomia inusual. Veu metàl·lica causa mal de cap. No retornable.\n"
+				"content_text": "Núvia per correu. Dins d\u0026rsquo;una caixa, des de Corea. Cara agradable, però anatomia inusual. Veu metàl·lica causa mal de cap. No retornable.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/14/200045.html",
 				"title": "",
 				"date_published": "2012-12-14T19:00:45+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/14/200045.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Una ampolla 15 cc d'elixir de l'oblit (Non Remember Fluid) robada a l'Institut Pavlov costa 20.000 RUB mercat negre Sant Petersburg.\n"
+				"content_text": "Una ampolla 15 cc d\u0026rsquo;elixir de l\u0026rsquo;oblit (Non Remember Fluid) robada a l\u0026rsquo;Institut Pavlov costa 20.000 RUB mercat negre Sant Petersburg.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/14/181511.html",
 				"title": "",
 				"date_published": "2012-12-14T17:15:11+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/14/181511.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Un home de mitjana edat, sent nostàlgia de l'infinit després de contemplar el famós quadre de De Chirico. Una còpia, de fet. Es deprimeix.\n"
+				"content_text": "Un home de mitjana edat, sent nostàlgia de l\u0026rsquo;infinit després de contemplar el famós quadre de De Chirico. Una còpia, de fet. Es deprimeix.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/14/153633.html",
 				"title": "",
 				"date_published": "2012-12-14T14:36:33+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/14/153633.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Cerquen quelcom valuós en el subsòl d'una comarca muntanyosa. Al nord de Castelló? El porc negre que els acompanya, un animal diabòlic.\n"
+				"content_text": "Cerquen quelcom valuós en el subsòl d\u0026rsquo;una comarca muntanyosa. Al nord de Castelló? El porc negre que els acompanya, un animal diabòlic.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/14/070222.html",
 				"title": "",
 				"date_published": "2012-12-14T06:02:22+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/14/070222.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Biblioteca Strahov: Necronomicon entre Dissertació sobre el sexe de les plantes de Linné i Assaig sobre visions de fantasmes de Schopenhauer.\n"
 			},
@@ -11467,25 +11476,25 @@
 				"title": "",
 				"date_published": "2012-12-14T06:00:58+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/14/070058.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Naufragi 1921 davant de Sulaco, vaixell emergeix espontàniament 1996. Recerques, recuperen objectes. De nou s'enfonsa. Misteri inexplicat.\n"
+				"content_text": "Naufragi 1921 davant de Sulaco, vaixell emergeix espontàniament 1996. Recerques, recuperen objectes. De nou s\u0026rsquo;enfonsa. Misteri inexplicat.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/13/225126.html",
 				"title": "",
 				"date_published": "2012-12-13T21:51:26+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/13/225126.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "El menú, frugal però exquisit: sopa d'ossos de cavall i saltat d'alfals amb llagosts. Després, esperant el cafè, vam calar foc als havans.\n"
+				"content_text": "El menú, frugal però exquisit: sopa d\u0026rsquo;ossos de cavall i saltat d\u0026rsquo;alfals amb llagosts. Després, esperant el cafè, vam calar foc als havans.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/13/194547.html",
 				"title": "",
 				"date_published": "2012-12-13T18:45:47+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/13/194547.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Bon esperit Xin de les prades i els boscos de bambú a la vora del Mekong, tant de bo que restis sempre amb mi, gola avall.\n"
 			},
@@ -11494,25 +11503,25 @@
 				"title": "",
 				"date_published": "2012-12-13T13:12:44+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/13/141244.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "L'acusació era exagerada, els McCoy no devoraven els bebès: els raptaven per dur-los a l'orfenat i que els adoptessin famílies catòliques.\n"
+				"content_text": "L\u0026rsquo;acusació era exagerada, els McCoy no devoraven els bebès: els raptaven per dur-los a l\u0026rsquo;orfenat i que els adoptessin famílies catòliques.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/13/072832.html",
 				"title": "",
 				"date_published": "2012-12-13T06:28:32+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/13/072832.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Pregunta en una llibreria i descobreix amb estupor que no s'imprimeixen ja mapes, perquè no cal que ningú vagi enlloc.\n"
+				"content_text": "Pregunta en una llibreria i descobreix amb estupor que no s\u0026rsquo;imprimeixen ja mapes, perquè no cal que ningú vagi enlloc.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/13/070252.html",
 				"title": "",
 				"date_published": "2012-12-13T06:02:52+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/13/070252.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Mancúspia: ecològicament innòcua, però criança massiva en granges augmenta símptomes difusos en la població propera: cefalees, urticàries.\n"
 			},
@@ -11521,25 +11530,25 @@
 				"title": "",
 				"date_published": "2012-12-12T21:26:43+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/12/222643.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Que et bellugui una dent en un somni vol dir que tens por d'envellir o de fracassar, li diu el dentista. Li mossega un turmell.\n"
+				"content_text": "Que et bellugui una dent en un somni vol dir que tens por d\u0026rsquo;envellir o de fracassar, li diu el dentista. Li mossega un turmell.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/12/213834.html",
 				"title": "",
 				"date_published": "2012-12-12T20:38:34+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/12/213834.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Un mag mai explica els trucs, li digué. El féu desaparèixer, i quan aconseguí tornar a casa l'hi trobà casat amb la seva dona, i amb fills.\n"
+				"content_text": "Un mag mai explica els trucs, li digué. El féu desaparèixer, i quan aconseguí tornar a casa l\u0026rsquo;hi trobà casat amb la seva dona, i amb fills.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/12/201017.html",
 				"title": "",
 				"date_published": "2012-12-12T19:10:17+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/12/201017.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Es desperta en llit estrany i dubta que pugui tornar a casa: la ciutat canvia constantment i no hi ha plànols vàlids. Resignat a restar-hi.\n"
 			},
@@ -11548,16 +11557,16 @@
 				"title": "",
 				"date_published": "2012-12-12T18:58:52+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/12/195852.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Ràdio Vaticana entrevista C. S. Lewis, nunci de Sa Santedat en l'Espai Exterior. Emissió es talla, expedició de rescat. Satèl·lit assolat.\n"
+				"content_text": "Ràdio Vaticana entrevista C. S. Lewis, nunci de Sa Santedat en l\u0026rsquo;Espai Exterior. Emissió es talla, expedició de rescat. Satèl·lit assolat.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/12/065743.html",
 				"title": "",
 				"date_published": "2012-12-12T05:57:43+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/12/065743.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Capítol local de la Societat Teosòfica. Seraphim Karelly entre nosaltres. Demostració de levitació, histèria col·lèctiva, colps, espentes.\n"
 			},
@@ -11566,7 +11575,7 @@
 				"title": "",
 				"date_published": "2012-12-11T19:37:11+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/11/203711.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Enviaments postals amb mosques tse-tse en distints punts del país. CIA segueix rastre fins República de Leng. Embargament. Setge. Horror.\n"
 			},
@@ -11575,25 +11584,25 @@
 				"title": "",
 				"date_published": "2012-12-11T18:22:47+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/11/192247.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Quan va començar a tenir lapsus de memòria va contractar un detectiu perquè el seguís i l'informés. Dama enigmàtica. Píndoles. Engranatges.\n"
+				"content_text": "Quan va començar a tenir lapsus de memòria va contractar un detectiu perquè el seguís i l\u0026rsquo;informés. Dama enigmàtica. Píndoles. Engranatges.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/11/190239.html",
 				"title": "",
 				"date_published": "2012-12-11T18:02:39+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/11/190239.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Dupin va trobar Brown Jenkin en la rue d'Auseil, però s'esfumà de nou, fins la Semaine sanglante. 1848 i 1871. Deportat a Nova Caledònia.\n"
+				"content_text": "Dupin va trobar Brown Jenkin en la rue d\u0026rsquo;Auseil, però s\u0026rsquo;esfumà de nou, fins la Semaine sanglante. 1848 i 1871. Deportat a Nova Caledònia.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/11/163435.html",
 				"title": "",
 				"date_published": "2012-12-11T15:34:35+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/11/163435.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Els híbrids humà-ximpanzè criats per I. I. Ivanov a Guinea-Conakry rendien força bé en les plantacions de tabac i en les mines de bauxita\n"
 			},
@@ -11602,25 +11611,25 @@
 				"title": "",
 				"date_published": "2012-12-11T06:29:44+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/11/072944.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Lestrígons i ciclops, m'advertí, Posidó no trobaràs, si no els portes dins de tu. Doncs millor, vaig pensar, que no emprengui el viatge.\n"
+				"content_text": "Lestrígons i ciclops, m\u0026rsquo;advertí, Posidó no trobaràs, si no els portes dins de tu. Doncs millor, vaig pensar, que no emprengui el viatge.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/10/195833.html",
 				"title": "",
 				"date_published": "2012-12-10T18:58:33+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/10/195833.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Periodista La Vanguardia troba Ivan Istòixnikov i gos Kloka en una masia de l'Empordà. No recorda res de Soyuz 2. Desapareixen.\n"
+				"content_text": "Periodista La Vanguardia troba Ivan Istòixnikov i gos Kloka en una masia de l\u0026rsquo;Empordà. No recorda res de Soyuz 2. Desapareixen.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/10/195516.html",
 				"title": "",
 				"date_published": "2012-12-10T18:55:16+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/10/195516.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Xiquet ingúix capta emissió extraterrestre 25m anys llum amb ràdio àvia, sintonitza cada nit i aprèn idioma, estranyament semblant al seu.\n"
 			},
@@ -11629,25 +11638,25 @@
 				"title": "",
 				"date_published": "2012-12-10T17:40:28+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/10/184028.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "\"Es lloga pis. Criat malgaix inclòs.\" L'adreça era la meva. Bru, mala sort, devia tres mesos. Vaig fugir.\n"
+				"content_text": "\u0026ldquo;Es lloga pis. Criat malgaix inclòs.\u0026rdquo; L\u0026rsquo;adreça era la meva. Bru, mala sort, devia tres mesos. Vaig fugir.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/10/181907.html",
 				"title": "",
 				"date_published": "2012-12-10T17:19:07+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/10/181907.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Dr. Jekyll escriu biografia del Sr. Hyde, el qual reclama judicialment que se'n canviï el títol per \"Oda al Corpus Callosum\".\n"
+				"content_text": "Dr. Jekyll escriu biografia del Sr. Hyde, el qual reclama judicialment que se\u0026rsquo;n canviï el títol per \u0026ldquo;Oda al Corpus Callosum\u0026rdquo;.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/10/065924.html",
 				"title": "",
 				"date_published": "2012-12-10T05:59:24+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/10/065924.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "HPL no mor 15 març 1937, se salva miraculosament i viu una segona vida secreta, en parella amb infermera. Escriu almanacs científics.\n"
 			},
@@ -11656,61 +11665,61 @@
 				"title": "",
 				"date_published": "2012-12-09T16:27:04+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/09/172704.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Conta Conrad que un nàufrag negre és l'únic a bord que sap desfer-se d'un horlà. Una segona vegada, a port, l'horlà el mata.\n"
+				"content_text": "Conta Conrad que un nàufrag negre és l\u0026rsquo;únic a bord que sap desfer-se d\u0026rsquo;un horlà. Una segona vegada, a port, l\u0026rsquo;horlà el mata.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/09/172636.html",
 				"title": "",
 				"date_published": "2012-12-09T16:26:36+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/09/172636.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "F. Gehry construeix búnquer en els fonaments del rectorat de la VIU. Després d'enllestir-lo, l'obra s'atura per caiguda de pressupost.\n"
+				"content_text": "F. Gehry construeix búnquer en els fonaments del rectorat de la VIU. Després d\u0026rsquo;enllestir-lo, l\u0026rsquo;obra s\u0026rsquo;atura per caiguda de pressupost.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/09/172442.html",
 				"title": "",
 				"date_published": "2012-12-09T16:24:42+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/09/172442.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Gavina morta en eixir de la feina. O era un corb? Ara bufa una mica d'aire des de qui sap on. Benvinguda sigui, em dic, aquesta salabror.\n"
+				"content_text": "Gavina morta en eixir de la feina. O era un corb? Ara bufa una mica d\u0026rsquo;aire des de qui sap on. Benvinguda sigui, em dic, aquesta salabror.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/09/161244.html",
 				"title": "",
 				"date_published": "2012-12-09T15:12:44+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/09/161244.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Gasolinera abandonada carretera d'Alcora convertida per extremistes templers en dipòsit clandestí 17 kl àcid bòric, dia D més prop.\n"
+				"content_text": "Gasolinera abandonada carretera d\u0026rsquo;Alcora convertida per extremistes templers en dipòsit clandestí 17 kl àcid bòric, dia D més prop.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/09/100801.html",
 				"title": "",
 				"date_published": "2012-12-09T09:08:01+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/09/100801.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Folklore mites de Cthulhu s'apropa perillosament a abisme de desil·lusió en el cicle de sobreexpectació de Gartner. Reunió secreta Pentàgon.\n"
+				"content_text": "Folklore mites de Cthulhu s\u0026rsquo;apropa perillosament a abisme de desil·lusió en el cicle de sobreexpectació de Gartner. Reunió secreta Pentàgon.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/08/223249.html",
 				"title": "",
 				"date_published": "2012-12-08T21:32:49+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/08/223249.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Cada vegada que Iuri Gagarin superava els 2 g/l alcohol en sang afloraven records del viatge teòricament suprimits en l'Institut Pavlov.\n"
+				"content_text": "Cada vegada que Iuri Gagarin superava els 2 g/l alcohol en sang afloraven records del viatge teòricament suprimits en l\u0026rsquo;Institut Pavlov.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/08/223104.html",
 				"title": "",
 				"date_published": "2012-12-08T21:31:04+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/08/223104.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Cultiu de fongs microscòpics trobats en una roca lunar. Al·lucinògens, escala Hofmann triplica LSD. Onada de suïcidis en el KSC.\n"
 			},
@@ -11719,7 +11728,7 @@
 				"title": "",
 				"date_published": "2012-12-08T21:10:26+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/08/221026.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Els carrers cremaven, la calçada amb resplendor blavosa, les voreres amb foc roig viu. Per a eixir em posaria calcer de sola gruixuda.\n"
 			},
@@ -11728,16 +11737,16 @@
 				"title": "",
 				"date_published": "2012-12-08T11:22:09+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/08/122209.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Abans d'aterrar sobrevolem bocabadats els canals de Schiaparelli. La guia és baixeta, bruna-oliva, té la peculiar dicció marciana.\n"
+				"content_text": "Abans d\u0026rsquo;aterrar sobrevolem bocabadats els canals de Schiaparelli. La guia és baixeta, bruna-oliva, té la peculiar dicció marciana.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/08/105350.html",
 				"title": "",
 				"date_published": "2012-12-08T09:53:50+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/08/105350.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "El que compta és la grandesa de l\u0026rsquo;esperit. Però el seu era menut —li passava entre les cames— i malvat. I sobretot molt malparlat.\n"
 			},
@@ -11746,34 +11755,34 @@
 				"title": "",
 				"date_published": "2012-12-07T18:57:23+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/07/195723.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Faune descobrint una dona; estampeta de Sant Josep Mengele. Perversió de l'Església: dinàmica interna o obra d'ateus infiltrats?\n"
+				"content_text": "Faune descobrint una dona; estampeta de Sant Josep Mengele. Perversió de l\u0026rsquo;Església: dinàmica interna o obra d\u0026rsquo;ateus infiltrats?\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/07/195510.html",
 				"title": "",
 				"date_published": "2012-12-07T18:55:10+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/07/195510.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Les vendes d'unitats domèstiques d'electroxoc augmentaren notablement durant el bienni 2014-15, anys després de l'autorització de la FDA.\n"
+				"content_text": "Les vendes d\u0026rsquo;unitats domèstiques d\u0026rsquo;electroxoc augmentaren notablement durant el bienni 2014-15, anys després de l\u0026rsquo;autorització de la FDA.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/07/152246.html",
 				"title": "",
 				"date_published": "2012-12-07T14:22:46+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/07/152246.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Per més que ho intenta no reïx mai a triar el camí errat en la cruïlla d'Aylesbury després de Dean's Corners per arribar a Dunwich.\n"
+				"content_text": "Per més que ho intenta no reïx mai a triar el camí errat en la cruïlla d\u0026rsquo;Aylesbury després de Dean\u0026rsquo;s Corners per arribar a Dunwich.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/07/070456.html",
 				"title": "",
 				"date_published": "2012-12-07T06:04:56+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/07/070456.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Lord Dunsany a Morella en la primera guerra carlista? Ho va somniar. Cercava la medalla de Cabrera que li donà una garsa i no la trobava.\n"
 			},
@@ -11782,7 +11791,7 @@
 				"title": "",
 				"date_published": "2012-12-07T06:01:16+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/07/070116.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "4 juliol 1958 8AM, FBI clausura la Miskatonic University. 7AM Professor del Departament de Geologia observa que li creixen tentacles al cap.\n"
 			},
@@ -11791,43 +11800,43 @@
 				"title": "",
 				"date_published": "2012-12-06T21:54:45+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/06/225445.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Museu d'Onda, taller del taxidermista. Cadàver recent d'un diable de Tasmània: Diabolus Ursinus. Però a mi em pareixia un homuncle.\n"
+				"content_text": "Museu d\u0026rsquo;Onda, taller del taxidermista. Cadàver recent d\u0026rsquo;un diable de Tasmània: Diabolus Ursinus. Però a mi em pareixia un homuncle.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/06/224753.html",
 				"title": "",
 				"date_published": "2012-12-06T21:47:53+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/06/224753.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Dos mesos en un soterrani de la DGS. Colps, alcohol, aberracions sexuals. El fiquen en un tren, s'adorm i va a parar a una altra ciutat.\n"
+				"content_text": "Dos mesos en un soterrani de la DGS. Colps, alcohol, aberracions sexuals. El fiquen en un tren, s\u0026rsquo;adorm i va a parar a una altra ciutat.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/06/084231.html",
 				"title": "",
 				"date_published": "2012-12-06T07:42:31+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/06/084231.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Escletxes, humitats. Aigua de l'aixeta tèrbola, no renta. La ràdio parla d'un deteriorament general de la realitat, demana prudència.\n"
+				"content_text": "Escletxes, humitats. Aigua de l\u0026rsquo;aixeta tèrbola, no renta. La ràdio parla d\u0026rsquo;un deteriorament general de la realitat, demana prudència.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/06/083839.html",
 				"title": "",
 				"date_published": "2012-12-06T07:38:39+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/06/083839.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Nova autoritat reguladora UE inicia la desinfecció i desinfestació d'oficines bancàries simultàniament a Alemanya i països del sud.\n"
+				"content_text": "Nova autoritat reguladora UE inicia la desinfecció i desinfestació d\u0026rsquo;oficines bancàries simultàniament a Alemanya i països del sud.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/06/083410.html",
 				"title": "",
 				"date_published": "2012-12-06T07:34:10+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/06/083410.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Danvers fou invitat a llegir el Necronomicon en obtenir el doctorat cum laude en la MU. Passà la nit udolant i al matí signà contracte.\n"
 			},
@@ -11836,7 +11845,7 @@
 				"title": "",
 				"date_published": "2012-12-05T21:49:23+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/05/224923.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "25 kg. cucs en llaunes. Vius. Potser tòxics, anàlisis pendents. Destinació restaurants xinesos, ritus exòtics o enverinaments massius?\n"
 			},
@@ -11845,70 +11854,70 @@
 				"title": "",
 				"date_published": "2012-12-05T21:37:32+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/05/223732.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Dictador en fuita. Maleta curulla d'ossos de les seves víctimes. El maten al carreró rebels barbuts. I a aquests, agents amb corbata.\n"
+				"content_text": "Dictador en fuita. Maleta curulla d\u0026rsquo;ossos de les seves víctimes. El maten al carreró rebels barbuts. I a aquests, agents amb corbata.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/05/213543.html",
 				"title": "",
 				"date_published": "2012-12-05T20:35:43+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/05/213543.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Sóc el teu àngel bo, li diu. Li demana que no torni, però no el tira per l'escala, ha obert la porta i han forcejat, ha estat un accident.\n"
+				"content_text": "Sóc el teu àngel bo, li diu. Li demana que no torni, però no el tira per l\u0026rsquo;escala, ha obert la porta i han forcejat, ha estat un accident.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/05/175138.html",
 				"title": "",
 				"date_published": "2012-12-05T16:51:38+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/05/175138.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "M'ha reconegut i ens hem ruboritzat alhora. Era obvi que ella també havia somiat desperta i fantasiejat amb mi últimament.\n"
+				"content_text": "M\u0026rsquo;ha reconegut i ens hem ruboritzat alhora. Era obvi que ella també havia somiat desperta i fantasiejat amb mi últimament.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/05/070223.html",
 				"title": "",
 				"date_published": "2012-12-05T06:02:23+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/05/070223.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Fins que la mort ens separi, xaval, l'acomiadà el comissari en l'estació. El sobre contenia les esqueles de tots els que havia delatat.\n"
+				"content_text": "Fins que la mort ens separi, xaval, l\u0026rsquo;acomiadà el comissari en l\u0026rsquo;estació. El sobre contenia les esqueles de tots els que havia delatat.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/04/230454.html",
 				"title": "",
 				"date_published": "2012-12-04T22:04:54+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/04/230454.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Abaixe la persiana, em fa vergonya que em veges nua. Ell, es resignava al seu cos. El d'ella li semblava perfecte, o delitosament imperfecte.\n"
+				"content_text": "Abaixe la persiana, em fa vergonya que em veges nua. Ell, es resignava al seu cos. El d\u0026rsquo;ella li semblava perfecte, o delitosament imperfecte.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/04/220635.html",
 				"title": "",
 				"date_published": "2012-12-04T21:06:35+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/04/220635.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Població marciana aborigen delmada per E. Coli. Mercat negre d'estreptomicina. Lluita entre faccions. Westonburg alliberada.\n"
+				"content_text": "Població marciana aborigen delmada per E. Coli. Mercat negre d\u0026rsquo;estreptomicina. Lluita entre faccions. Westonburg alliberada.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/04/192459.html",
 				"title": "",
 				"date_published": "2012-12-04T18:24:59+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/04/192459.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "A. B. Danvers fastiguejat Espanya franquista després que no reeixí a adquirir crani d'un ciclop pel preu excessiu exigit pel propietari.\n"
+				"content_text": "A. B. Danvers fastiguejat Espanya franquista després que no reeixí a adquirir crani d\u0026rsquo;un ciclop pel preu excessiu exigit pel propietari.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/04/154612.html",
 				"title": "",
 				"date_published": "2012-12-04T14:46:12+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/04/154612.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Poeta francès escriu una obra mestra i la diposita en un banc del Brasil perquè la descobreixi la posteritat. Agents de la CIA la sostreuen.\n"
 			},
@@ -11917,7 +11926,7 @@
 				"title": "",
 				"date_published": "2012-12-04T06:01:10+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/04/070110.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Estesa de cefalòpods gegants, espècie inconeguda, costa noruega 1882. Repetició cíclica del fenomen, correlació amb tempestes geomagnètiques.\n"
 			},
@@ -11926,34 +11935,34 @@
 				"title": "",
 				"date_published": "2012-12-03T21:45:58+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/03/224558.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Àngels li manen fer coses terribles. Cava túnel, acumula dinamita sota Museu Britànic. Scotland Yard espera, informats de tràfic d'explosius.\n"
+				"content_text": "Àngels li manen fer coses terribles. Cava túnel, acumula dinamita sota Museu Britànic. Scotland Yard espera, informats de tràfic d\u0026rsquo;explosius.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/03/223633.html",
 				"title": "",
 				"date_published": "2012-12-03T21:36:33+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/03/223633.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Adeptes secta porten sempre una caixa sota el braç. Pèrdua d'una sumeix ciutat en el caos. La troba un infant, l'obre. Llavors eclipsi. Fi.\n"
+				"content_text": "Adeptes secta porten sempre una caixa sota el braç. Pèrdua d\u0026rsquo;una sumeix ciutat en el caos. La troba un infant, l\u0026rsquo;obre. Llavors eclipsi. Fi.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/03/175031.html",
 				"title": "",
 				"date_published": "2012-12-03T16:50:31+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/03/175031.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Et devoraré i et rosegaré els ossos, l'amenaça el bou. Ets herbívor, es defèn. La teva carn em fa fàstic, però et menjaré perquè t'odio.\n"
+				"content_text": "Et devoraré i et rosegaré els ossos, l\u0026rsquo;amenaça el bou. Ets herbívor, es defèn. La teva carn em fa fàstic, però et menjaré perquè t\u0026rsquo;odio.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/03/163221.html",
 				"title": "",
 				"date_published": "2012-12-03T15:32:21+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/03/163221.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Contràriament a la llegenda, les bombes instal·lades sota molts edificis de Szohôd per ordre del govern no eren nuclears, sinó convencionals.\n"
 			},
@@ -11962,43 +11971,43 @@
 				"title": "",
 				"date_published": "2012-12-03T06:04:45+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/03/070445.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Benet XVII declara dogmes de fe l'evolució de les espècies i la mecànica quàntica (int. Copenhaguen). Bisbes dubten entre cisma i desdeny.\n"
+				"content_text": "Benet XVII declara dogmes de fe l\u0026rsquo;evolució de les espècies i la mecànica quàntica (int. Copenhaguen). Bisbes dubten entre cisma i desdeny.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/02/210551.html",
 				"title": "",
 				"date_published": "2012-12-02T20:05:51+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/02/210551.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Kant es feia afaitar cada matí per l'ajudant del barber, un simi africà molt capaç amb la navalla i molt llegit i afeccionat a la metafísica.\n"
+				"content_text": "Kant es feia afaitar cada matí per l\u0026rsquo;ajudant del barber, un simi africà molt capaç amb la navalla i molt llegit i afeccionat a la metafísica.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/02/201323.html",
 				"title": "",
 				"date_published": "2012-12-02T19:13:23+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/02/201323.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "\"Ja tenim la seva comanda.\" Però ell no havia demanat res. Torna a casa amb la caixa. L'obre. Dins hi ha una pistola automàtica.\n"
+				"content_text": "\u0026ldquo;Ja tenim la seva comanda.\u0026rdquo; Però ell no havia demanat res. Torna a casa amb la caixa. L\u0026rsquo;obre. Dins hi ha una pistola automàtica.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/02/180430.html",
 				"title": "",
 				"date_published": "2012-12-02T17:04:30+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/02/180430.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Un costum atàvic, tampoc no calia fer-se'n creus. Eren les festes patronals i les celebraven així, estovant el primer foraster que passava.\n"
+				"content_text": "Un costum atàvic, tampoc no calia fer-se\u0026rsquo;n creus. Eren les festes patronals i les celebraven així, estovant el primer foraster que passava.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/02/084540.html",
 				"title": "",
 				"date_published": "2012-12-02T07:45:40+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/02/084540.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
 				"content_text": "Rep un paquet postal remès pel seu marit mort. Un fetitxe arumbaia, amb instruccions escrites per ell per a usar-lo per establir comunicació.\n"
 			},
@@ -12007,54 +12016,54 @@
 				"title": "",
 				"date_published": "2012-12-02T07:36:14+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/02/083614.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Li explica les virtuts terapèutiques de l'arsènic, avui sovint oblidades, i en acabat li'n proporciona un flascó. Dos colpets a l'esquena.\n"
+				"content_text": "Li explica les virtuts terapèutiques de l\u0026rsquo;arsènic, avui sovint oblidades, i en acabat li\u0026rsquo;n proporciona un flascó. Dos colpets a l\u0026rsquo;esquena.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/01/215045.html",
 				"title": "",
 				"date_published": "2012-12-01T20:50:45+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/01/215045.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Una operació ritual, mil vegades més cruenta que la perforació del tercer ull. Però ningú no s'ha mort mai perquè li hagin arrencat el cor.\n"
+				"content_text": "Una operació ritual, mil vegades més cruenta que la perforació del tercer ull. Però ningú no s\u0026rsquo;ha mort mai perquè li hagin arrencat el cor.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/01/194316.html",
 				"title": "",
 				"date_published": "2012-12-01T18:43:16+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/01/194316.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Laboratori de robòtica. Una aranya mecànica. El mateix dia, diverses persones, en les seves cases, s'han sentit observades.\n"
+				"content_text": "Laboratori de robòtica. Una aranya mecànica. El mateix dia, diverses persones, en les seves cases, s\u0026rsquo;han sentit observades.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/01/174218.html",
 				"title": "",
 				"date_published": "2012-12-01T16:42:18+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/01/174218.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Fórmula Bensington \u0026amp; Redwood filtrada mercat bordurià. Alteracions físiques i malestar. Agents secrets britànics. S'hi entremet francès inepte.\n"
+				"content_text": "Fórmula Bensington \u0026amp; Redwood filtrada mercat bordurià. Alteracions físiques i malestar. Agents secrets britànics. S\u0026rsquo;hi entremet francès inepte.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/01/092044.html",
 				"title": "",
 				"date_published": "2012-12-01T08:20:44+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/01/092044.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "Divorcis en vacances. A l'aeroport, cridà al taxista. Allà, amb tantes maletes, no gosaven dir-li que mai no s'hi havia enlairat un avió.\n"
+				"content_text": "Divorcis en vacances. A l\u0026rsquo;aeroport, cridà al taxista. Allà, amb tantes maletes, no gosaven dir-li que mai no s\u0026rsquo;hi havia enlairat un avió.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/12/01/084735.html",
 				"title": "",
 				"date_published": "2012-12-01T07:47:35+00:00",
 				"url": "https://blog.carlesbellver.net/2012/12/01/084735.html",
-				"tags": "",
+				"tags": "contes",
 				"photos": "",
-				"content_text": "La meva mili: tres mesos de servei civil com a renovador d'adhesions. Tenir la cartilla en regla era ineludible. Nosaltres facilitàvem el tràmit.\n"
+				"content_text": "La meva mili: tres mesos de servei civil com a renovador d\u0026rsquo;adhesions. Tenir la cartilla en regla era ineludible. Nosaltres facilitàvem el tràmit.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2012/11/12/hacia-el-fin.html",
@@ -12144,7 +12153,7 @@
 				"url": "https://blog.carlesbellver.net/2010/12/14/la-veu-de.html",
 				"tags": "",
 				"photos": "/uploads/2019/fbd0f18097.jpg",
-				"content_text": "\nWilbur és un bot nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter @carlesbellver (abans ho feia en el seu propi: @petitwilbur). Molt de tant en tant profereix alguna imprecació a l'estil d'Archibald Haddock.\nWilbur és el guardià del meu son. No sempre sé per què diu el que diu. Schopenhauer va escriure en alguna ocasió que la vigília i els somnis són fulls d'un mateix llibre. De nit el fullegem sense ordre ni concert.\nAl matí em desperta amb el pronòstic del temps.\nEn la seva infantesa, Wilbur funcionava —vivia— en el meu Chumby, un despertador Linux connectat a Internet. Malauradament Chumby és gairebé història. Ara Wilbur viu en un ordinador convencional. Com que és essencialment software es pot transmigrar sense immutar-se.\n"
+				"content_text": "\nWilbur és un bot nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter @carlesbellver (abans ho feia en el seu propi: @petitwilbur). Molt de tant en tant profereix alguna imprecació a l\u0026rsquo;estil d'Archibald Haddock.\nWilbur és el guardià del meu son. No sempre sé per què diu el que diu. Schopenhauer va escriure en alguna ocasió que la vigília i els somnis són fulls d\u0026rsquo;un mateix llibre. De nit el fullegem sense ordre ni concert.\nAl matí em desperta amb el pronòstic del temps.\nEn la seva infantesa, Wilbur funcionava —vivia— en el meu Chumby, un despertador Linux connectat a Internet. Malauradament Chumby és gairebé història. Ara Wilbur viu en un ordinador convencional. Com que és essencialment software es pot transmigrar sense immutar-se.\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2009/08/24/estructures-de-condensaci.html",
@@ -12169,7 +12178,7 @@
 				"title": "Ghost Wilkie",
 				"date_published": "2008-08-21T22:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2008/08/21/ghost-wilkie.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Wilkie Collins va fundar la novel·la policíaca amb La dona de blanc i La pedra lunar. També va escriure relats de misteri i d’intenció social. Una dada que esmenten totes les seves biografies és que va compartir la seva vida amb dues dones alhora durant molt de temps, de fet fins que es va morir l’any 1889. Una altra qüestió ben coneguda és que va prendre grans quantitats d’opi com a pal·liatiu de l’artritis i que s’hi va fer addicte. Com a conseqüència del consum d’aquesta droga, va patir la síndrome del doble subjectiu: sovint creia que l’acompanyava un individu físicament igual que ell. Li deia, tot fent broma, “Ghost Wilkie”: el Wilkie fantasma.\nDe tant en tant, aquest doble seu acostumava a fer-li la guitza. Passava a veure en Charles Dickens i li lliurava un manuscrit fals que havia preparat. Però Dickens, amic i mentor de l’autèntic Wilkie, reconeixia tot d’un plegat l’estil molt més descurat i imperfecte del sòsia i el despatxava sense contemplacions. O bé es presentava amb un ram de flors al domicili de Caroline Graves, quan l’altre, el de debò, era amb Martha Rudd. I viceversa.\nL’any 1886, Wilkie Collins va atendre finalment el consell dels seus amics més íntims i acudí a la consulta d’un metge famós, el doctor Jekyll, a fi de cercar guariment. Però no podem saber de cert si era ell o el seu doble. Sigui com vulgui, es va trobar a la sala d’espera un tal senyor Hyde que marxava, es van caure bé mútuament i es va deixar convèncer per anar tots dos plegats de gresca en algun tuguri dels baixos fons de Londres. L’assistenta de Jekyll se’n feia creus, davant de les seves amigues, de les ganyotes i les grolleries que van dedicar-li en aquella ocasió aquest parell de brètols. Pregava a Déu i al seu amo no tornar-los a veure mai junts.\n"
 			},
@@ -12324,7 +12333,7 @@
 				"url": "https://blog.carlesbellver.net/2005/06/08/impressions-de-sant.html",
 				"tags": "",
 				"photos": "",
-				"content_text": "Referents a unes jornades sobre “El dietarisme i el nou dietarisme dels blocs”.\n…\n  De la primera època d’El Temps, recordo especialment els articles de Ramon Barnils i els de Biel Mesquida. Fa poc vaig llegir que Mesquida, mallorquí de mena, va néixer “casualment” a Castelló. Com Cortázar, vaig pensar. Deu ser molt literari néixer lluny d’on et tocava. Les biografies de Julio Cortázar solen dir que va néixer a Brussel·les “accidentalmente”, però un dels seus biògrafs, Montes Bradley, ha argumentat d’una manera inapel·lable que ningú neix enlloc accidentalment, sinó perquè la seva mare hi és. Aquests dies he conegut Biel Mesquida, un escriptor d’una presència física, verbal i literària que imposa. Una coneixença d’aquestes –poques– que t’alegren l’esperit. I m’ha confirmat en un apart que va néixer en aquest tros de província perquè la seva mare, mestra rural, hi era. Quan va ser l’hora, un camió la va dur des del Mas d’en Sales, en el terme de Culla, fins a alguna clínica de la capital.\n  Joan Josep Isern diu que aquest invent dels blocs funciona, que hi ha gent a l’altra banda de la pantalla. Que Partal i Maresma, Maresma i Partal, són els darrers representants de la cultura hippie. Jo no crec que siguin els darrers. Moltes vegades ens pensem que el món s’acaba amb nosaltres i els nostres amics. Però, malgrat tot, res bo acaba del tot.\n  Vicenç Villatoro, al meu costat, fa notar que els escriptors de llibres porten ploma i els de blocs gastem boli. Una diferència d’estatus, més que evident en el cas del qui parlava i de qui escriu açò. Que el dia que el facin fora de l’Avui obrirà un bloc. Que a ell només li interessen aquells dietaris els autors dels quals han viscut fets excepcionals, o tenen una intel·ligència excepcional, o una mirada excepcional. Que escriure dietaris és una malaltia. Que ell en té uns d’inèdits que no pensa publicar mai, guardats “en uns discos” perquè no es perdin. Potser sí que sembla una malaltia.\n  Àlex Susanna, tot i declarar-se “un diplodocus”, confessa que ja no escriu cartes, només correus electrònics. Fa cinc anys explicava en l’Avui que la seva dona tenia correu electrònic i que ell el feia servir “molt de tant en tant”, que preferia les cartes. Anem avançant, almenys ell, encara que sigui a poc a poc. (Quan parlem de dinosaures, hauríem de tenir en compte que el seu problema no és que fossin animals antediluvians, sinó que tenien el cervell molt petit.)\n  Això d’Àlex Susanna i l’Avui va ser en l’especial de Sant Jordi de l’any 2000. Preguntaven a una cinquantena d’escriptors com havien viscut “la revolució d’Internet” i obtenien d’alguns respostes antològiques. La setmana següent, Màrius Serra els va dedicar un article titulat “Bartlebys d’Internet”, per aquell Bartleby indolent de Herman Melville que sempre preferia no fer res del que li plantejaven. Ara i ací, a Sant Cugat, Màrius Serra, entre moltes altres diferències amb els mitjans tradicionals, remarca que els blocs manquen de “filtres consensuats”, com els que diu que funcionen per exemple en la premsa. Caldria veure qui ha consensuat amb qui aqueixos filtres.\n  Pere Rovira creu que la llibertat que diem que representen els blocs és “la llibertat de dir la primera xuminada que se t’acut”. Afirma també que llegir és llegir un llibre. Em sorprèn que ho digui, perquè el seu dietari es va publicar primer en un periòdic en forma d’articles. En conjunt, trobo que parla massa d’allò que no coneix. I que de vegades encerta el blanc, quan parla del que sap, que és escriure. Li pregunten què és escriure bé i al cap d’una estona, després de pensar-s’ho, respon que és no escriure malament (em recorda allò d’Aristòtil, i de Davidson, sobre la veritat: aquestes nocions tan bàsiques són indefinibles, tothom sap necessàriament què signifiquen i no cal encaparrar-s’hi).\n  Carles Miró protesta perquè ací no hi ha blocs que facin rectificar els periòdics. No explica per què ha tancat el seu bloc i ningú li ho pregunta. Potser ja saben, tots i totes, les raons. Jo no les sé.\n  A molts dels escriptors que coneixen el tema més superficialment, que hi estan menys familiaritzats, els blocs els provoquen una sensació de velocitat. I això els pareix incompatible amb la literatura de debò, que exigeix repòs i reescriure molt. Diversa gent intenta explicar que una entrada d’un bloc es pot deixar madurar tant de temps com calgui i que es pot editar i reescriure sempre que es vulgui. Un mecanisme àgil de publicació no implica que hom escrigui necessàriament a rajaploma. Altres han defensat les possibilitats literàries de l’escriptura ràpida.\n  Xavier Pla diu que Josep Pla li va dir això a Néstor Luján l’any 1947: “Tingui paciència, llegeixi els escèptics, obri un dietari.”\n  Teresa Amat diu que això de “blocs literaris” li fa angúnia. A Robert William Chambers li feia angúnia la paraula “literatura”. A mi em fa angúnia que alguns parlin d’“escriptors professionals”, com si el fet de cobrar per escriure tingués cap relació més que circumstancial amb la qualitat d’allò escrit: amb la literatura. L’angúnia és una cosa molt personal.\n  Molts estem d’acord que els blocs donen satisfacció a la necessitat d’expressar-se, de dir la teva, d’aviar les dèries de cadascú. La malaltia que diu Villatoro. Jo crec que la pateix tothom. Màrius Serra ens recorda les barres dels bars (jo em recordo, però no ho dic, d’un passatge de Si això és un home en què els infrahabitants del barracó pensaven contra tota esperança com ho contarien, allò).\n  Alguns dels autors esmentats tenen enllaç web, altres no. Els que sí que en tenen, em fa observar algú, són més o menys els mateixos que agraeixen a Vilaweb i a la Institució de les Lletres Catalanes que els hagin convidat a participar en les jornades. Els altres, els que no tenen pàgina web, fan l’agraïment només a la Institució.\n  …\n"
+				"content_text": "Referents a unes jornades sobre “El dietarisme i el nou dietarisme dels blocs”.\n…\n De la primera època d’El Temps, recordo especialment els articles de Ramon Barnils i els de Biel Mesquida. Fa poc vaig llegir que Mesquida, mallorquí de mena, va néixer “casualment” a Castelló. Com Cortázar, vaig pensar. Deu ser molt literari néixer lluny d’on et tocava. Les biografies de Julio Cortázar solen dir que va néixer a Brussel·les “accidentalmente”, però un dels seus biògrafs, Montes Bradley, ha argumentat d’una manera inapel·lable que ningú neix enlloc accidentalment, sinó perquè la seva mare hi és. Aquests dies he conegut Biel Mesquida, un escriptor d’una presència física, verbal i literària que imposa. Una coneixença d’aquestes –poques– que t’alegren l’esperit. I m’ha confirmat en un apart que va néixer en aquest tros de província perquè la seva mare, mestra rural, hi era. Quan va ser l’hora, un camió la va dur des del Mas d’en Sales, en el terme de Culla, fins a alguna clínica de la capital. Joan Josep Isern diu que aquest invent dels blocs funciona, que hi ha gent a l’altra banda de la pantalla. Que Partal i Maresma, Maresma i Partal, són els darrers representants de la cultura hippie. Jo no crec que siguin els darrers. Moltes vegades ens pensem que el món s’acaba amb nosaltres i els nostres amics. Però, malgrat tot, res bo acaba del tot. Vicenç Villatoro, al meu costat, fa notar que els escriptors de llibres porten ploma i els de blocs gastem boli. Una diferència d’estatus, més que evident en el cas del qui parlava i de qui escriu açò. Que el dia que el facin fora de l’Avui obrirà un bloc. Que a ell només li interessen aquells dietaris els autors dels quals han viscut fets excepcionals, o tenen una intel·ligència excepcional, o una mirada excepcional. Que escriure dietaris és una malaltia. Que ell en té uns d’inèdits que no pensa publicar mai, guardats “en uns discos” perquè no es perdin. Potser sí que sembla una malaltia. Àlex Susanna, tot i declarar-se “un diplodocus”, confessa que ja no escriu cartes, només correus electrònics. Fa cinc anys explicava en l’Avui que la seva dona tenia correu electrònic i que ell el feia servir “molt de tant en tant”, que preferia les cartes. Anem avançant, almenys ell, encara que sigui a poc a poc. (Quan parlem de dinosaures, hauríem de tenir en compte que el seu problema no és que fossin animals antediluvians, sinó que tenien el cervell molt petit.) Això d’Àlex Susanna i l’Avui va ser en l’especial de Sant Jordi de l’any 2000. Preguntaven a una cinquantena d’escriptors com havien viscut “la revolució d’Internet” i obtenien d’alguns respostes antològiques. La setmana següent, Màrius Serra els va dedicar un article titulat “Bartlebys d’Internet”, per aquell Bartleby indolent de Herman Melville que sempre preferia no fer res del que li plantejaven. Ara i ací, a Sant Cugat, Màrius Serra, entre moltes altres diferències amb els mitjans tradicionals, remarca que els blocs manquen de “filtres consensuats”, com els que diu que funcionen per exemple en la premsa. Caldria veure qui ha consensuat amb qui aqueixos filtres. Pere Rovira creu que la llibertat que diem que representen els blocs és “la llibertat de dir la primera xuminada que se t’acut”. Afirma també que llegir és llegir un llibre. Em sorprèn que ho digui, perquè el seu dietari es va publicar primer en un periòdic en forma d’articles. En conjunt, trobo que parla massa d’allò que no coneix. I que de vegades encerta el blanc, quan parla del que sap, que és escriure. Li pregunten què és escriure bé i al cap d’una estona, després de pensar-s’ho, respon que és no escriure malament (em recorda allò d’Aristòtil, i de Davidson, sobre la veritat: aquestes nocions tan bàsiques són indefinibles, tothom sap necessàriament què signifiquen i no cal encaparrar-s’hi). Carles Miró protesta perquè ací no hi ha blocs que facin rectificar els periòdics. No explica per què ha tancat el seu bloc i ningú li ho pregunta. Potser ja saben, tots i totes, les raons. Jo no les sé. A molts dels escriptors que coneixen el tema més superficialment, que hi estan menys familiaritzats, els blocs els provoquen una sensació de velocitat. I això els pareix incompatible amb la literatura de debò, que exigeix repòs i reescriure molt. Diversa gent intenta explicar que una entrada d’un bloc es pot deixar madurar tant de temps com calgui i que es pot editar i reescriure sempre que es vulgui. Un mecanisme àgil de publicació no implica que hom escrigui necessàriament a rajaploma. Altres han defensat les possibilitats literàries de l’escriptura ràpida. Xavier Pla diu que Josep Pla li va dir això a Néstor Luján l’any 1947: “Tingui paciència, llegeixi els escèptics, obri un dietari.” Teresa Amat diu que això de “blocs literaris” li fa angúnia. A Robert William Chambers li feia angúnia la paraula “literatura”. A mi em fa angúnia que alguns parlin d’“escriptors professionals”, com si el fet de cobrar per escriure tingués cap relació més que circumstancial amb la qualitat d’allò escrit: amb la literatura. L’angúnia és una cosa molt personal. Molts estem d’acord que els blocs donen satisfacció a la necessitat d’expressar-se, de dir la teva, d’aviar les dèries de cadascú. La malaltia que diu Villatoro. Jo crec que la pateix tothom. Màrius Serra ens recorda les barres dels bars (jo em recordo, però no ho dic, d’un passatge de Si això és un home en què els infrahabitants del barracó pensaven contra tota esperança com ho contarien, allò). Alguns dels autors esmentats tenen enllaç web, altres no. Els que sí que en tenen, em fa observar algú, són més o menys els mateixos que agraeixen a Vilaweb i a la Institució de les Lletres Catalanes que els hagin convidat a participar en les jornades. Els altres, els que no tenen pàgina web, fan l’agraïment només a la Institució.  …\n"
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2004/06/28/els-darrers-moments.html",
@@ -12367,7 +12376,7 @@
 				"title": "L'automàtica",
 				"date_published": "2004-02-23T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2004/02/23/lautomtica.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "Entre els tiquets de les compres que vaig fer el mes passat amb la targeta de crèdit, n’hi ha un que no puc recordar de cap manera a què correspon. No reconec el nom del comerç, ni l’adreça, i la data tampoc no em diu pas res. Vaig a donar-hi una ullada. Jo no he estat mai en aquest establiment, una botiga petita sense cap senyal que mostri clarament a quina activitat es dedica. Però quan entro a preguntar, la dependenta em fa bona cara, com si em conegués, i em lliura un paquet. “Vet aquí, ja l’hem rebut”. Me l’emporto i l’obro a casa. Dins hi ha una pistola automàtica.\n"
 			},
@@ -12376,7 +12385,7 @@
 				"title": "La qualitat dels pinsos",
 				"date_published": "2004-02-18T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2004/02/18/la-qualitat-dels.html",
-				"tags": "contes",
+				"tags": "",
 				"photos": "",
 				"content_text": "L’any passat, en una revisió rutinària, els metges de la mútua em van descobrir que tinc l’estructura genètica d’un porc espí. Els resultats de les anàlisis, em deien, són inequívocs, i m’ensenyaven uns llargs llistats de xifres que no podien esperar pas que entengués. Evidentment, vaig demanar una segona opinió, una tercera i encara una altra. Cada especialista que vaig consultar va ratificar el diagnòstic. L’origen del trastorn, tanmateix, els era desconegut. Algun va atribuir-lo a les hormones o a les carns dubtoses que d’un temps ençà s’introdueixen en els pinsos.\nEl pitjor de tot és que ara en la Seguretat Social ja no em volen atendre i he hagut de buscar una clínica veterinària de pagament.\n"
 			},

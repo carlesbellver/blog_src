@@ -3,7 +3,6 @@ url = "/2016/12/24/un-dimoni-en.html"
 title = "Un dimoni en pràctiques"
 date = "2016-12-24T23:00:00+00:00"
 slug = "un-dimoni-en"
-tags = ["contes"]
 +++
 
 <a href="https://commons.wikimedia.org/wiki/File%3ACopulating_flies.jpg" title="By Tomascastelazo (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons"><img src="/uploads/2019/7870cde18e.jpg" alt="Copulating flies" /></a>  

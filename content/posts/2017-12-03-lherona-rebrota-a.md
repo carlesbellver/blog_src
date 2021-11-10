@@ -6,5 +6,7 @@ slug = "lherona-rebrota-a"
 tags = ["retalls"]
 +++
 
-<p>📎 <a href="https://www.vilaweb.cat/noticies/lheroina-rebrota-a-barcelona-i-ja-mata/">L’heroïna rebrota a Barcelona… i ja mata</a></p>
-<p>Un problema global. Addicció als opiacis als EUA, competència de l’heroïna americana, baixada de preus i noves vies de distribució.</p>
+📎 [L’heroïna rebrota a Barcelona… i ja mata](https://www.vilaweb.cat/noticies/lheroina-rebrota-a-barcelona-i-ja-mata/)
+
+Un problema global. Addicció als opiacis als EUA, competència de l’heroïna americana, baixada de preus i noves vies de distribució.
+

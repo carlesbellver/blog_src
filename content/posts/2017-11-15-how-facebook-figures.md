@@ -6,5 +6,7 @@ slug = "how-facebook-figures"
 tags = ["retalls"]
 +++
 
-<p>📎 <a href="https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691">How Facebook Figures Out Everyone You've Ever Met</a></p>
-<p>Perfils a l'ombra, informació de contactes i l'esgarrifós algoritme PYMK ("persones que potser coneixes").</p>
+📎 [How Facebook Figures Out Everyone You've Ever Met](https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691)
+
+Perfils a l'ombra, informació de contactes i l'esgarrifós algoritme PYMK ("persones que potser coneixes").
+

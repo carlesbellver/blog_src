@@ -3,7 +3,6 @@ url = "/2018/11/19/hi-ha-unicorns.html"
 title = "Hi ha unicorns?"
 date = "2018-11-19T18:30:00+00:00"
 slug = "hi-ha-unicorns"
-tags = ["contes"]
 +++
 
 La vaig conèixer en una sala d’estudi de l’antiga Facultat de Lletres de la Universitat de París. Ens vam mirar i al cap d’uns minuts vaig veure que eixia. Va ser una conversa breu, una mica incòmoda i tendra. Bevíem glops d’un cafè de màquina que pareixia metzinós.

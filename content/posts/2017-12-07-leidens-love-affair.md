@@ -6,5 +6,7 @@ slug = "leidens-love-affair"
 tags = ["retalls"]
 +++
 
-<p>📎 <a href="http://www.amusingplanet.com/2017/12/leidens-love-affair-with-poems-and.html">Leiden’s Love Affair With Poems And Equations</a></p>
-<p>Més de cent poemes acuradament pintats a mà a les parets exteriors dels edificis. I ara també algunes fórmules matemàtiques i físiques.</p>
+📎 [Leiden’s Love Affair With Poems And Equations](http://www.amusingplanet.com/2017/12/leidens-love-affair-with-poems-and.html)
+
+Més de cent poemes acuradament pintats a mà a les parets exteriors dels edificis. I ara també algunes fórmules matemàtiques i físiques.
+

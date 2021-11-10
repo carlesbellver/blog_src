@@ -3,7 +3,6 @@ url = "/2018/11/20/lenfer-cest-les.html"
 title = "L’enfer, c’est les autres"
 date = "2018-11-20T18:30:00+00:00"
 slug = "lenfer-cest-les"
-tags = ["contes"]
 +++
 
 Els cabells esbullats, els llavis pintats i un gran somriure. Feia vent, aquell matí. Aquesta foto seva, una mica borrosa, l’única que tenia i que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li. La va examinar amb interès i em va demanar qui era.

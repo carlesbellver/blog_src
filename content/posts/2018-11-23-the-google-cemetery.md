@@ -6,5 +6,6 @@ slug = "the-google-cemetery"
 tags = ["retalls"]
 +++
 
-<p>📎 <a href="https://gcemetery.co/">The Google Cemetery</a></p>
-<p>Llista de productes i serveis retirats per Google.</p>
+📎 [The Google Cemetery](https://gcemetery.co/)
+
+Llista de productes i serveis retirats per Google.

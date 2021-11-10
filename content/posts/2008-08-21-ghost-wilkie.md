@@ -3,7 +3,6 @@ url = "/2008/08/21/ghost-wilkie.html"
 title = "Ghost Wilkie"
 date = "2008-08-21T22:00:00+00:00"
 slug = "ghost-wilkie"
-tags = ["contes"]
 +++
 
 <img src="http://carlesbellver.net/pics/wilkies.jpg" alt="Wilkie Collins" />
