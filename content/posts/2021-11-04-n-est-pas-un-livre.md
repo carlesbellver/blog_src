@@ -17,6 +17,6 @@ Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exem
     Archive:  2021-11-04-unicorns.png
     inflating: unicorns.txt
 
-Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP al final del PNG o JPEG i obtenir una mena de fitxer 2×1.
+Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.
 
 Més detalls tècnics ací 👉 [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png)
