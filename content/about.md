@@ -1,10 +1,8 @@
 +++
 title = "Informació i contacte"
 slug = "about"
-tags= ["special"]
+tags= [""]
 +++
-
-<article>
 
 [La vista cansada](https://blog.carlesbellver.net) és el blog de [Carles Bellver Torlà](https://carlesbellver.net).
 
@@ -21,5 +19,3 @@ Els primers apunts d'aquest blog són de [2002](/2002/09/29/joan-francesc-mira.h
 - [Telegram](http://telegram.me/carlesbellver)
 - [Twitter](http://twitter.com/carlesbellver)
 - [Mastodon](https://mastodon.social/@carlesbellver)
-
-</article>
