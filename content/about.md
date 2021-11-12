@@ -4,6 +4,8 @@ slug = "about"
 tags= ["special"]
 +++
 
+<article>
+
 [La vista cansada](https://blog.carlesbellver.net) és el blog de [Carles Bellver Torlà](https://carlesbellver.net).
 
 - Analista de tecnologia educativa del [Centre d'Educació i Noves Tecnologies](https://cent.uji.es) (CENT) de la [Universitat Jaume I](https://www.uji.es) de [Castelló](https://ca.wikipedia.org/wiki/Castelló_de_la_Plana).
@@ -19,3 +21,5 @@ Els primers apunts d'aquest blog són de [2002](/2002/09/29/joan-francesc-mira.h
 - [Telegram](http://telegram.me/carlesbellver)
 - [Twitter](http://twitter.com/carlesbellver)
 - [Mastodon](https://mastodon.social/@carlesbellver)
+
+</article>
