@@ -14,7 +14,7 @@
             </ul>
         {{ end }}
         <div class="copyright">
-            <p>{{ if isset .Site.Params "author"}}{{ if isset .Site.Params "website"}}<a href="{{ .Site.Params.website }}">{{ end }}{{ .Site.Params.author }}{{ if isset .Site.Params "website"}}</a>{{ end }}{{ end }}</p>  
+            <p>{{ if isset .Site.Params "author"}}<a href="/about/">{{ .Site.Title }} // {{ .Site.Params.author }}</a>{{ end }}</p>  
         </div> 
 
         {{ partial "themeSwitcher.html" . }}   
