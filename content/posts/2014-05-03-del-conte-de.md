@@ -10,7 +10,7 @@ tags = ["ressenyes", "citacions"]
 
 —Lawrence Durrell, *Clea*.
 
-Cada *obra mestra* que llegeixo fa que descregui més en la novel·la. Quin malbaratament de pàgines, a centenars, per a contar tan poc…
+📖 Cada *obra mestra* que llegeixo fa que descregui més en la novel·la. Quin malbaratament de pàgines, a centenars, per a contar tan poc…
 
 I, tanmateix, segurament mai no havia subratllat tants passatges d’un llibre com ara al llarg d’aquest *Quartet d’Alexandria*. Gairebé sempre, però, eren frases que més aviat pareixien, algunes, aforismes, d’altres versos solts. Metàfores brillants, imatges que deixen empremta. Quin malbaratament de pàgines, doncs…
 

@@ -6,4 +6,4 @@ slug = "margaret-atwood-the"
 tags = ["ressenyes"]
 +++
 
-Margaret Atwood, *The Testaments*. La visió atroç d'*El conte de la serventa* deriva en aquest relat juvenil d'iniciació i alliberament.
+📖 Margaret Atwood, *The Testaments*. La visió atroç d'*El conte de la serventa* deriva en aquest relat juvenil d'iniciació i alliberament.
