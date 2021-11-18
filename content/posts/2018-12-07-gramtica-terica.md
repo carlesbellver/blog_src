@@ -3,10 +3,13 @@ url = "/2018/12/07/gramtica-terica.html"
 title = "Gramàtica teòrica"
 date = "2018-12-07T18:30:00+00:00"
 slug = "gramtica-terica"
+tags = ["contes"]
 +++
 
 —T’ensenyaré un llenguatge secret.
+
 —L’has inventat tu?
+
 —No. L’he après amb un llibre vell.
 
 Recorde que la idea em va parèixer massa infantil, impròpia de la seva edat, fins i tot comptant que tenia un any menys que jo.

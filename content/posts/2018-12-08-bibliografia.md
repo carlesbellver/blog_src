@@ -3,6 +3,7 @@ url = "/2018/12/08/bibliografia.html"
 title = "Bibliografia"
 date = "2018-12-08T18:30:00+00:00"
 slug = "bibliografia"
+tags = ["contes"]
 +++
 
 Examinàvem sota el flexo la seva darrera adquisició: un exemplar d’*Il newtonianismo per le dame*, col·lecció de diàlegs amb què el savi venecià Francesco Algarotti va contribuir a divulgar la *Philosophiæ naturalis* d’Isaac Newton. A mi em feia recordar, és clar, les lliçons epistolars de Leibniz a Sophie de Hannover i a la seva filla Sophie-Charlotte, publicades recentment amb el títol *Filosofia per a princeses*.

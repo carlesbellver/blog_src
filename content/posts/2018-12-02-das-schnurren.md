@@ -3,6 +3,7 @@ url = "/2018/12/02/das-schnurren.html"
 title = "Das Schnurren"
 date = "2018-12-02T18:30:00+00:00"
 slug = "das-schnurren"
+tags = ["contes"]
 +++
 
 Vaig guanyar el premi de narrativa amb un recull inspirat en l’estada al psiquiàtric, però ara trobe que *La vida canina* és un títol massa subtil: ningú no podrà evitar que el llibre, quan es publiqui, vagi a parar a la secció d’animals de companyia.

@@ -3,6 +3,7 @@ url = "/2018/12/22/arqueologia-informtica.html"
 title = "Arqueologia informàtica"
 date = "2018-12-22T18:30:00+00:00"
 slug = "arqueologia-informtica"
+tags = ["contes"]
 +++
 
 Aquest tros de plàstic que prove a fer servir com a màquina d’escriure electrònica es connecta a un televisor vell, menut, on esforçant-me puc veure què teclege; a una gravadora de cintes de casset, on se suposa que es desen els textos; i a una impressora tèrmica que només s’engega els dies senars.

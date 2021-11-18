@@ -3,6 +3,7 @@ url = "/2018/12/17/la-histria-secreta.html"
 title = "La història secreta del món"
 date = "2018-12-17T18:30:00+00:00"
 slug = "la-histria-secreta"
+tags = ["contes"]
 +++
 
 S’havien acabat les diapositives i ningú no es decidia a parlar-ne.

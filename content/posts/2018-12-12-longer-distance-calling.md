@@ -3,6 +3,7 @@ url = "/2018/12/12/longer-distance-calling.html"
 title = "Longer distance calling"
 date = "2018-12-12T18:30:00+00:00"
 slug = "longer-distance-calling"
+tags = ["contes"]
 +++
 
 —Setembre de 1926. Un any abans que AT&amp;T inauguri la connexió transatlàntica amb Londres, un mes abans que Houdini mori d’una peritonitis i al mateix temps que Lovecraft començava a escriure “La crida de Cthulhu” a la seva casa de Providence, on s’havia tornat a instal·lar. Un emprenedor anònim va obrir a Nova York un servei telefònic de comunicació amb el més enllà. “Torni a escoltar la seva veu”, incitava la publicitat. “Continuï parlant amb els seus éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en cercles de classe alta.

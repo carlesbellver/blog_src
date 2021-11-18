@@ -3,6 +3,7 @@ url = "/2018/12/16/fins-que-la.html"
 title = "Fins que la mort ens separi, xaval"
 date = "2018-12-16T18:30:00+00:00"
 slug = "fins-que-la"
+tags = ["contes"]
 +++
 
 Tot just una frase —set mots— en un tros de paper estripat i rebregat. El fet que no entengués l’idioma, li suposava algun problema? Em va contestar que no, que ell desxifrava símbols universals, inherents a l’escriptura.

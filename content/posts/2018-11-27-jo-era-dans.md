@@ -3,6 +3,7 @@ url = "/2018/11/27/jo-era-dans.html"
 title = "Jo era d’anís"
 date = "2018-11-27T18:30:00+00:00"
 slug = "jo-era-dans"
+tags = ["contes"]
 +++
 
 M’enviaven al bar de baix amb els diners comptats i jo pujava amb les dues botelles —perquè n’hi havia que eren de conyac i n’hi havia que eren d’anís— i el cartó de tabac americà. Elles m’ho regraciaven amb un gotet —jo era d’anís— i una nova tanda d’històries: variacions sobre els tràngols que havien passat i els viaranys pels quals van pervenir en aquell casalot del carreró, el mateix en què d’un temps ençà residia jo també.

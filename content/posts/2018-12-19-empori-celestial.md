@@ -3,6 +3,7 @@ url = "/2018/12/19/empori-celestial.html"
 title = "Empori celestial"
 date = "2018-12-19T18:30:00+00:00"
 slug = "empori-celestial"
+tags = ["contes"]
 +++
 
 —El llibre era, no en tingueu cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.

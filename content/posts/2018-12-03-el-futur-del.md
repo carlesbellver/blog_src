@@ -3,6 +3,7 @@ url = "/2018/12/03/el-futur-del.html"
 title = "El futur del món"
 date = "2018-12-03T18:30:00+00:00"
 slug = "el-futur-del"
+tags = ["contes"]
 +++
 
 Era l’única dona en tota la festa i l’única que he vist mai al campus. Abans, entre els vells, m’havia paregut una nena de tretze o catorze anys, possiblement la neta d’alguna eminència xaruga. Ara li’n feia tres o quatre més, prou per estar al primer curs d’universitat. Si no ací, potser a Harvard o a Brown.

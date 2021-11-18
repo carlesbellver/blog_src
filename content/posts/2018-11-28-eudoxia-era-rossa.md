@@ -3,6 +3,7 @@ url = "/2018/11/28/eudoxia-era-rossa.html"
 title = "Eudoxia era rossa i es pentinava amb llargues trenes"
 date = "2018-11-28T18:30:00+00:00"
 slug = "eudoxia-era-rossa"
+tags = ["contes"]
 +++
 
 Em va demanar què pensava d’ella. Li vaig dir que era rossa, apassionada i irreflexiva. Era evident que no m’ho hauria d’haver preguntat i jo no li hauria d’haver contestat. Qualsevol altre dia no hauria emprat aquests adjectius per definir-la. Hauria procurat no fer mal a ningú amb l’elecció de les paraules.

@@ -3,6 +3,7 @@ url = "/2018/12/09/contra-els-escptics.html"
 title = "Contra els escèptics"
 date = "2018-12-09T18:30:00+00:00"
 slug = "contra-els-escptics"
+tags = ["contes"]
 +++
 
 M’explicava el concepte tibetà de tulpa: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.

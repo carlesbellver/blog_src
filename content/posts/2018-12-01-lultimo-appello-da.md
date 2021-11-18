@@ -3,6 +3,7 @@ url = "/2018/12/01/lultimo-appello-da.html"
 title = "L’ultimo appello è da dimenticare"
 date = "2018-12-01T18:30:00+00:00"
 slug = "lultimo-appello-da"
+tags = ["contes"]
 +++
 
 Era dia de festa major. Marieta i Fabrizio em van presentar a les autoritats locals com a *professore*: el poble italià és  respectuós amb els tributs acadèmics, i justament per això em va saber greu, atès que jo no he passat mai de becari. La recepció oficial se celebrava a la planta baixa de l’ajuntament. Per no saber dir que no, vaig acabar involucrat en la representació d’una escena medieval. No n’entenia la trama, però vaig assumir el meu paper. En una cambra tancada, dos homes d’aire greu em van ensenyar l’ús del punyal retràctil amb què simularia la mort de l’emissari d’un senyoriu rival.

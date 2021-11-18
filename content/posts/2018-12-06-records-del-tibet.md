@@ -3,6 +3,7 @@ url = "/2018/12/06/records-del-tibet.html"
 title = "Records del Tibet"
 date = "2018-12-06T18:30:00+00:00"
 slug = "records-del-tibet"
+tags = ["contes"]
 +++
 
 Wernher von Braun va ser reclutat per l’exèrcit nord-americà i va impulsar el programa espacial de la NASA, però els lames tibetans que els nazis s’havien emportat a Berlín van ser captats per la Miskatonic University —gràcies a les gestions discretes de Randolph Carter, que treballava aleshores a l’Oficina de Serveis Estratègics—, amb la intenció que dirigissin una altra mena de travessia, no cap a l’espai exterior sinó cap al cosmos interior de la ment humana.

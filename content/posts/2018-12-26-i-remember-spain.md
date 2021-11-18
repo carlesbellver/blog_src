@@ -3,6 +3,7 @@ url = "/2018/12/26/i-remember-spain.html"
 title = "I remember Spain"
 date = "2018-12-26T18:30:00+00:00"
 slug = "i-remember-spain"
+tags = ["contes"]
 +++
 
 Va tornar a elogiar l’heroisme dels *marines* —en aquesta nova operació imperalista que divulgava la premsa— i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència. Vaig tocar l’ase. M’emprenyava el seu patrioterisme i ell se sentia ofès quan jo defensava el no a la guerra. No era la primera vegada que xocàvem.

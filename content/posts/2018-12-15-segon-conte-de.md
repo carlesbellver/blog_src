@@ -3,6 +3,7 @@ url = "/2018/12/15/segon-conte-de.html"
 title = "Segon conte de fades"
 date = "2018-12-15T18:30:00+00:00"
 slug = "segon-conte-de"
+tags = ["contes"]
 +++
 
 Eufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa. Deien que sabia fabricar or. O que havia trobat monedes antigues dins d’una olla. Un misteri tan gran, doncs, com la desaparició del Quim, el seu proxeneta. Però estaven acostumades que els passessin coses inexplicables.

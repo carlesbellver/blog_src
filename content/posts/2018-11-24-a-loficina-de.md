@@ -3,6 +3,7 @@ url = "/2018/11/24/a-loficina-de.html"
 title = "A l’oficina de correus"
 date = "2018-11-24T18:30:00+00:00"
 slug = "a-loficina-de"
+tags = ["contes"]
 +++
 
 S’apropava l’hora de tancar i la cua avançava amb una lentitud exasperant, però no podia deixar l’enviament per l’endemà perquè no estava segur que les còpies arribessin a temps i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.

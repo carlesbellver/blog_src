@@ -3,6 +3,7 @@ url = "/2018/11/30/logischphilosophische-abhandlung.html"
 title = "Logisch-Philosophische Abhandlung"
 date = "2018-11-30T18:30:00+00:00"
 slug = "logischphilosophische-abhandlung"
+tags = ["contes"]
 +++
 
 Aquest deu ser l’únic departament de filosofia del món en què es comença l’estudi del *Tractatus* pel final. És a dir, per la carta de Wittgenstein a Ludwig Von Ficker, en què declarava que el sentit de l’obra és ètic i que la part més important és la que no podia escriure.

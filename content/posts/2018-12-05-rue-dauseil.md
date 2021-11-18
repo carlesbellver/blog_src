@@ -3,6 +3,7 @@ url = "/2018/12/05/rue-dauseil.html"
 title = "Rue d’Auseil"
 date = "2018-12-05T18:30:00+00:00"
 slug = "rue-dauseil"
+tags = ["contes"]
 +++
 
 L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada americana. El tiratge, escàs, es va difondre en els cercles habituals, fins que algú es va esquinçar les vestidures. Es van aixecar sospites sobre l’autenticitat d’algunes escenes i sobre la identitat dels subjectes implicats. Jenkin va tocar el dos, mentre que el seu traductor francès, aclaparat per l’oprobi, es va suïcidar.

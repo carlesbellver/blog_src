@@ -3,6 +3,7 @@ url = "/2018/12/28/darrera-defensa.html"
 title = "Darrera defensa"
 date = "2018-12-28T18:30:00+00:00"
 slug = "darrera-defensa"
+tags = ["contes"]
 +++
 
 La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres. En vam parlar a la nit, en tornar a l’hotel.

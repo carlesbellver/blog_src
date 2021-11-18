@@ -3,6 +3,7 @@ url = "/2018/12/18/le-diable-me.html"
 title = "Le diable me suit de jour et de nuit car il a peur d’être seul"
 date = "2018-12-18T18:30:00+00:00"
 slug = "le-diable-me"
+tags = ["contes"]
 +++
 
 M’inspirava un tendre amor platònic. Però el torrent dels somnis, brusc i impetuós, tendia a ser d’un to molt més lúbric que els meus sentiments.

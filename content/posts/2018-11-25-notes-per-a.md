@@ -3,6 +3,7 @@ url = "/2018/11/25/notes-per-a.html"
 title = "Notes per a la memòria final de la beca"
 date = "2018-11-25T18:30:00+00:00"
 slug = "notes-per-a"
+tags = ["contes"]
 +++
 
 Un dels moments crítics en la història de la Miskatonic University seria sens subte la seva clausura el dilluns 7 de juliol de 1958, just quan, paradoxalment, la voràgine maccarthista arribava a la seva fi. Bona part del professorat va patir presó preventiva, llargues i feixugues investigacions i la prohibició temporal de treballar en cap altra institució educativa.

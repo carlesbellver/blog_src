@@ -3,6 +3,7 @@ url = "/2018/12/27/una-eternitat.html"
 title = "Una eternitat"
 date = "2018-12-27T18:30:00+00:00"
 slug = "una-eternitat"
+tags = ["contes"]
 +++
 
 Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.

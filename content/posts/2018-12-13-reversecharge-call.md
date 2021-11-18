@@ -3,6 +3,7 @@ url = "/2018/12/13/reversecharge-call.html"
 title = "Reverse-charge call"
 date = "2018-12-13T18:30:00+00:00"
 slug = "reversecharge-call"
+tags = ["contes"]
 +++
 
 Una vesprada d’estiu, un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar. Digueu?

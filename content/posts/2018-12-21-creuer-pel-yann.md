@@ -3,6 +3,7 @@ url = "/2018/12/21/creuer-pel-yann.html"
 title = "Creuer pel Yann"
 date = "2018-12-21T18:30:00+00:00"
 slug = "creuer-pel-yann"
+tags = ["contes"]
 +++
 
 No sóc gens afeccionat a viatjar —malgrat que aquesta vegada hagi travessat l’Atlàntic—, però l’anunci en aquell aparador va fer que m’hi aturés.

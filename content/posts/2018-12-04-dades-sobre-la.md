@@ -3,6 +3,7 @@ url = "/2018/12/04/dades-sobre-la.html"
 title = "Dades sobre la localització de l’altiplà de Leng"
 date = "2018-12-04T18:30:00+00:00"
 slug = "dades-sobre-la"
+tags = ["contes"]
 +++
 
 Estudiaven un informe de l’Oficina de Serveis Estratègics que havia format part de l’arxiu Danvers. Vint i tants fulls mecanografiats, més una extensió similar d’esbossos de mapes. Era material original, autenticat. Portava segell d’abril de 1945. L’autor —identificat amb un codi— despatxava a corre-cuita la “hipòtesi antàrtica” per discutir *in extenso* diverses opcions a l’Àsia Central, en un arc traçat des de la vall del Caixmir fins als deserts de sorra i de glaç de Mongòlia.
