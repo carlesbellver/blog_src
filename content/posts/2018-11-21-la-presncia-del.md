@@ -3,7 +3,7 @@ url = "/2018/11/21/la-presncia-del.html"
 title = "La presència del mal"
 date = "2018-11-21T18:30:00+00:00"
 slug = "la-presncia-del"
-tags = ["contes"]
+tags = ["contes", "drogues"]
 +++
 
 L’alcohol etílic és, segons els llibres de text, dissolvent, combustible i psicoactiu. Qualsevol d’aquestes propietats valdria per explicar, amb rigor científic variable, que se m’hagi malmès —dissolt, incendiat, trastocat— la memòria d’aquells pocs anys en què vaig consumir-ne més assíduament.
