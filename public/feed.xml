@@ -6,8 +6,27 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Tue, 09 Nov 2021 18:48:13 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Nov 2021 17:32:42 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/11/13/confinament/</link>
+      <pubDate>Sat, 13 Nov 2021 17:32:42 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/11/13/confinament/</guid>
+      <description>&lt;p&gt;Confinament estricte.&lt;/p&gt;
+&lt;img alt=&#34;Portes d&#39;una botiga i d&#39;una casa a mig paredar.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-13-confinament.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/</link>
+      <pubDate>Wed, 10 Nov 2021 17:31:36 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/</guid>
+      <description>&lt;p&gt;Castelló. Pont del &lt;a href=&#34;https://blog.carlesbellver.net/2019/08/18/it-was-hell.html&#34;&gt;segle XXI&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Cables d&#39;acer del pont del Segle XXI, Castelló de la Plana&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-10-pont-segle-xxi.jpg&#34;&gt;</description>
+    </item>
     
     <item>
       <title></title>
@@ -56,7 +75,7 @@
 Archive:  2021-11-04-unicorns.png
 inflating: unicorns.txt
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP al final del PNG o JPEG i obtenir una mena de fitxer 2×1.&lt;/p&gt;
+&lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.&lt;/p&gt;
 &lt;p&gt;Més detalls tècnics ací 👉 &lt;a href=&#34;https://github.com/DavidBuchanan314/tweetable-polyglot-png&#34;&gt;tweetable-polyglot-png&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -283,28 +302,6 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Fri, 20 Aug 2021 10:56:40 +0200</pubDate>
       <guid>https://blog.carlesbellver.net/2021/08/20/futurecrunch/</guid>
       <description>&lt;p&gt;Moltes vegades que entre a Twitter acabe pensant que més gent hauria de llegir &lt;a href=&#34;https://futurecrunch.com/&#34;&gt;Future Crunch&lt;/a&gt;, &amp;ldquo;bones notícies d&amp;rsquo;arreu del món&amp;rdquo;, recollides i redactades des d&amp;rsquo;un punt de vista científic i tècnic &amp;ldquo;en un esforç per contrarestar el bombardeig continuat de mort i destrucció les 24 hores des de mitjans tradicionals i xarxes socials&amp;rdquo;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/08/15/31193/</link>
-      <pubDate>Sun, 15 Aug 2021 13:35:53 +0000</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/08/15/31193/</guid>
-      <description>&lt;p&gt;Gàrgola sufocada. Santa Maria de Morella. 35,9 ºC.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-08-15-31156.jpg&#34;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/08/11/caffeine/</link>
-      <pubDate>Wed, 11 Aug 2021 18:17:03 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/08/11/caffeine/</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up&#34;&gt;The invisible addiction: is it time to give up caffeine?&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Els psicòlegs cognitius parlen de vegades en termes de dos tipus de consciència diferents: la consciència de focus, que il·lumina un únic punt focal d’atenció, cosa que la fa molt bona per al raonament, i la consciència de llanterna, en què l’atenció està menys enfocada, però il·lumina un camp d’atenció més ampli. Els nens petits tendeixen a mostrar consciència de llanterna; també ho fan moltes persones mitjançant drogues psicodèliques. Aquesta forma d’atenció més difusa es presta a la ment errant, a la lliure associació i a la creació de noves connexions, que poden alimentar la creativitat. En comparació, la gran contribució de la cafeïna al progrés humà ha estat intensificar la consciència de focus: el processament cognitiu centrat, lineal, abstracte i eficient més relacionat amb el treball mental que el joc. Això, més que res, és el que va fer de la cafeïna la droga perfecta no només per l’època de la raó i la Il·lustració, sinó també per a l’auge del capitalisme.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

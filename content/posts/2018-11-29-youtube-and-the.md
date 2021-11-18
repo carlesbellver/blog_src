@@ -4,7 +4,6 @@ title = ""
 date = "2018-11-29T11:43:00+00:00"
 slug = "youtube-and-the"
 tags = ["retalls"]
-tags = ["contes"]
 +++
 
 📎 [YouTube and the music industry are both wrong on Article 13](https://juliareda.eu/2018/11/youtube-article-13/)

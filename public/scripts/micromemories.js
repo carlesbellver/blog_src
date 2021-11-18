@@ -51,7 +51,7 @@ if (preferredDate) {
   }
   else if (preferredDate == 'yesterday') {
     var yesterday = new Date();
-    yesterday.setDate(yesterday.getDate() + 2);
+    yesterday.setDate(yesterday.getDate() - 1);
     preferredDate = formatDate(yesterday)
   }
 }

@@ -6,6 +6,22 @@
 	"feed_url": "https://blog.carlesbellver.net/photos/index.json",
 	"items": [
   			{
+	  			"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
+		  		"title": "",
+			  	"date_published": "2021-11-13T17:32:42+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/11/13/confinament/",
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-11-13-confinament.jpg",
+				  "content_text": "Confinament estricte.\n"
+        },
+  			{
+	  			"id": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
+		  		"title": "",
+			  	"date_published": "2021-11-10T17:31:36+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-11-10-pont-segle-xxi.jpg",
+				  "content_text": "Castelló. Pont del segle XXI.\n"
+        },
+  			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/07/antonin-artaud/",
 		  		"title": "",
 			  	"date_published": "2021-11-07T12:25:28+01:00",
@@ -27,7 +43,7 @@
 			  	"date_published": "2021-11-04T18:30:00+01:00",
 				  "url": "https://blog.carlesbellver.net/2021/11/04/n-est-pas-un-livre/",
 				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-11-04-unicorns.png",
-				  "content_text": "Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d\u0026rsquo;aquesta imatge.\n$ unzip 2021-11-04-unicorns.png Archive: 2021-11-04-unicorns.png inflating: unicorns.txt  Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP al final del PNG o JPEG i obtenir una mena de fitxer 2×1.\nMés detalls tècnics ací 👉 tweetable-polyglot-png\n"
+				  "content_text": "Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d\u0026rsquo;aquesta imatge.\n$ unzip 2021-11-04-unicorns.png Archive: 2021-11-04-unicorns.png inflating: unicorns.txt  Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.\nMés detalls tècnics ací 👉 tweetable-polyglot-png\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/01/tots-sants/",
@@ -146,8 +162,8 @@
 		  		"title": "Un llibre efímer",
 			  	"date_published": "2021-04-21T18:30:00+02:00",
 				  "url": "https://blog.carlesbellver.net/2021/04/21/un-llibre-efimer/",
-				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-04-21-unicorns-vanish.jpg",
-				  "content_text": "\nMalgrat la seva materialitat aparent, més qüestionable que mai, els llibres tendeixen a derivar en una experiència efímera. Generalment, s’esgoten a la primera lectura i ja no hi tornem mai més. La virtualitat dels no tan nous mitjans electrònics, per contra, ens facilita reconèixer aquest fet i plasmar-lo en el disseny mateix de l’objecte llibre. Estendre la fugacitat de l’experiència lectora fins al cor de la publicació.\nDes d’ahir, a manera d’assaig, vaig publicant en el meu compte de Twitter les proses breus d’Unicorns. Una cada dia en un fil, amb el hashtag #hihaunicorns. Seixanta-quatre microconarracions, més un proemi i una coda, en seixanta-sis dies consecutius. I cada nit s’aniran esvaint els fils que hagin romàs al ciberespai més d’una setmana (com la resta dels meus tuits, perquè la durabilitat de les converses de Twitter és un bug, un defecte que caldria esmenar). Qui vegi passar el fil, si vol, podrà llegir-lo. A algú, potser, li agradarà i tot. Bon profit li faci.\nD’ambdós moments del procés —l’aparició i l’extinció dels tuits—, se n’encarrega, per cert, un script, una altra modalitat d’escriptura que fa que passin coses: antic anhel, o retret, que s’ha expressat sovint amb relació a la literatura.\nUn experiment més, doncs. Com sempre, en la línia de les Sis propostes d’Italo Calvino: lleugeresa, rapidesa, exactitud, visibilitat, multiplicitat (i coherència). Per al proper mil·lenni, les va titular ell. Però fem tard, perquè es referia a aquest.\n(Crec que aquest apunt m’ha quedat bé, com si em cregués el que dic. Potser una mica massa i tot. Però en realitat és només un joc.)\n"
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-04-21-unicorns-8bit.jpg",
+				  "content_text": "\nMalgrat la seva materialitat aparent, més qüestionable que mai, els llibres tendeixen a derivar en una experiència efímera. Generalment s’esgoten a la primera lectura i ja no tornem a fer-ne cas mai més. La virtualitat dels no tan nous mitjans electrònics, per contra, ens facilita reconèixer aquest fet i plasmar-lo en el disseny mateix de l’objecte llibre. Es tractaria, així, d\u0026rsquo;estendre la fugacitat de l’experiència lectora fins al cor de la publicació.\nDes d’ahir, a manera d’assaig, vaig publicant en el meu compte de Twitter les proses breus d’Unicorns. Una cada dia en un fil de sis o set missatges curts, amb el hashtag #hihaunicorns. Seixanta-quatre microconarracions, més un proemi i una coda, en seixanta-sis dies consecutius. I cada nit s’aniran esvaint els fils que hagin romàs al ciberespai més d’una setmana (com la resta dels meus tuits, perquè la durabilitat de les converses de Twitter és un bug, un defecte que caldria esmenar). Qui vegi passar el fil, si vol, podrà llegir-lo. A algú, potser, li agradarà i tot. Bon profit li faci.\nD’ambdós moments del procés —l’aparició i l’extinció dels tuits—, se n’encarrega, per cert, un script, una altra modalitat d’escriptura que fa que passin coses: antic anhel, o retret, que s’ha expressat sovint amb relació a la literatura.\nUn experiment més, doncs. Com sempre, en la línia de les Sis propostes d’Italo Calvino: lleugeresa, rapidesa, exactitud, visibilitat, multiplicitat (i coherència). Per al proper mil·lenni, les va titular ell. Però fem tard, perquè es referia a aquest.\n(Crec que aquest apunt m’ha quedat bé, com si em cregués el que dic. Potser una mica massa i tot. Però en realitat és només un joc.)\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2021/03/27/unicorns/",
@@ -1011,7 +1027,7 @@
 			  	"date_published": "2017-11-19T21:26:20+00:00",
 				  "url": "https://blog.carlesbellver.net/2017/11/19/222620.html",
 				  "image": "https://blog.carlesbellver.net/wp-content/uploads/2017/11/44ad342abbc54de0857ae4adb9558feb.jpg",
-				  "content_text": "Open\n"
+				  "content_text": "Open (not so).\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2017/11/11/123517.html",

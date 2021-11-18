@@ -6,10 +6,31 @@
     <description>La vista cansada (fotos)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 07 Nov 2021 12:25:28 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Nov 2021 17:32:42 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/11/13/confinament/</link>
+      <pubDate>Sat, 13 Nov 2021 17:32:42 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/11/13/confinament/</guid>
+      <description>&lt;p&gt;Confinament estricte.&lt;/p&gt;
+&lt;img alt=&#34;Portes d&#39;una botiga i d&#39;una casa a mig paredar.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-13-confinament.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/</link>
+      <pubDate>Wed, 10 Nov 2021 17:31:36 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/</guid>
+      <description>&lt;p&gt;Castelló. Pont del &lt;a href=&#34;https://blog.carlesbellver.net/2019/08/18/it-was-hell.html&#34;&gt;segle XXI&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Cables d&#39;acer del pont del Segle XXI, Castelló de la Plana&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-10-pont-segle-xxi.jpg&#34;&gt;</description>
+    </item>
     
     <item>
       
@@ -47,7 +68,7 @@
 Archive:  2021-11-04-unicorns.png
 inflating: unicorns.txt
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP al final del PNG o JPEG i obtenir una mena de fitxer 2×1.&lt;/p&gt;
+&lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.&lt;/p&gt;
 &lt;p&gt;Més detalls tècnics ací 👉 &lt;a href=&#34;https://github.com/DavidBuchanan314/tweetable-polyglot-png&#34;&gt;tweetable-polyglot-png&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -164,6 +185,17 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2021/07/19/27372/</link>
+      <pubDate>Mon, 19 Jul 2021 22:42:52 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/07/19/27372/</guid>
+      <description>&lt;p&gt;Creixent. Carrer de la Lluna, 20:10.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-07-19-27343.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2021/07/11/silence-delirium-lies/</link>
       <pubDate>Sun, 11 Jul 2021 18:58:26 +0200</pubDate>
       
@@ -203,9 +235,9 @@ inflating: unicorns.txt
       <pubDate>Wed, 21 Apr 2021 18:30:00 +0200</pubDate>
       
       <guid>https://blog.carlesbellver.net/2021/04/21/un-llibre-efimer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/hashtag/hihaunicorns&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-04-21-unicorns-vanish.jpg &#34; alt=&#34;&#34; title=&#34;&#34; width=&#34;200&#34; height=&#34;300&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Malgrat la seva materialitat aparent, més qüestionable que mai, els llibres tendeixen a derivar en una experiència efímera. Generalment, s’esgoten a la primera lectura i ja no hi tornem mai més. La virtualitat dels no tan nous mitjans electrònics, per contra, ens facilita reconèixer aquest fet i plasmar-lo en el disseny mateix de l’objecte llibre. Estendre la fugacitat de l’experiència lectora fins al cor de la publicació.&lt;/p&gt;
-&lt;p&gt;Des d’ahir, a manera d’assaig, vaig publicant en el meu compte de Twitter les proses breus d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;Unicorns&lt;/a&gt;. Una cada dia en un fil, amb el hashtag &lt;a href=&#34;https://twitter.com/hashtag/hihaunicorns&#34;&gt;#hihaunicorns&lt;/a&gt;. Seixanta-quatre microconarracions, més un proemi i una coda, en seixanta-sis dies consecutius. I cada nit s’aniran esvaint els fils que hagin romàs al ciberespai més d’una setmana (&lt;a href=&#34;https://blog.carlesbellver.net/2018/07/18/204612.html&#34;&gt;com la resta dels meus tuits&lt;/a&gt;, perquè la durabilitat de les converses de Twitter és un &lt;a href=&#34;https://blog.carlesbellver.net/2014/05/29/the-internet-with.html&#34;&gt;&lt;em&gt;bug&lt;/em&gt;&lt;/a&gt;, un defecte que caldria esmenar). Qui vegi passar el fil, si vol, podrà llegir-lo. A algú, potser, li agradarà i tot. Bon profit li faci.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/hashtag/hihaunicorns&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-04-21-unicorns-8bit.jpg&#34; alt=&#34;&#34; title=&#34;&#34; width=&#34;200&#34; height=&#34;300&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Malgrat la seva materialitat aparent, més qüestionable que mai, els llibres tendeixen a derivar en una experiència efímera. Generalment s’esgoten a la primera lectura i ja no tornem a fer-ne cas mai més. La virtualitat dels no tan nous mitjans electrònics, per contra, ens facilita reconèixer aquest fet i plasmar-lo en el disseny mateix de l’objecte llibre. Es tractaria, així, d&amp;rsquo;estendre la fugacitat de l’experiència lectora fins al cor de la publicació.&lt;/p&gt;
+&lt;p&gt;Des d’ahir, a manera d’assaig, vaig publicant en el meu compte de Twitter les proses breus d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;Unicorns&lt;/a&gt;. Una cada dia en un fil de sis o set missatges curts, amb el hashtag &lt;a href=&#34;https://twitter.com/hashtag/hihaunicorns&#34;&gt;#hihaunicorns&lt;/a&gt;. Seixanta-quatre microconarracions, més un proemi i una coda, en seixanta-sis dies consecutius. I cada nit s’aniran esvaint els fils que hagin romàs al ciberespai més d’una setmana (&lt;a href=&#34;https://blog.carlesbellver.net/2018/07/18/204612.html&#34;&gt;com la resta dels meus tuits&lt;/a&gt;, perquè la durabilitat de les converses de Twitter és un &lt;a href=&#34;https://blog.carlesbellver.net/2014/05/29/the-internet-with.html&#34;&gt;&lt;em&gt;bug&lt;/em&gt;&lt;/a&gt;, un defecte que caldria esmenar). Qui vegi passar el fil, si vol, podrà llegir-lo. A algú, potser, li agradarà i tot. Bon profit li faci.&lt;/p&gt;
 &lt;p&gt;D’ambdós moments del procés —l’aparició i l’extinció dels tuits—, se n’encarrega, per cert, un &lt;em&gt;script&lt;/em&gt;, una altra modalitat d’escriptura que &lt;a href=&#34;https://blog.carlesbellver.net/2021/04/14/healing-power-javascript/&#34;&gt;fa que passin coses&lt;/a&gt;: antic anhel, o retret, que s’ha expressat sovint amb relació a la literatura.&lt;/p&gt;
 &lt;p&gt;Un &lt;a href=&#34;https://carlesbellver.net/taller/&#34;&gt;experiment&lt;/a&gt; més, doncs. Com sempre, en la línia de les &lt;a href=&#34;https://it.wikipedia.org/wiki/Lezioni_americane&#34;&gt;&lt;em&gt;Sis propostes&lt;/em&gt;&lt;/a&gt; d’Italo Calvino: lleugeresa, rapidesa, exactitud, visibilitat, multiplicitat (i coherència). Per al proper mil·lenni, les va titular ell. Però fem tard, perquè es referia a aquest.&lt;/p&gt;
 &lt;p&gt;(Crec que aquest apunt m’ha quedat bé, com si em cregués el que dic. Potser una mica massa i tot. Però en realitat &lt;a href=&#34;https://blog.carlesbellver.net/2014/03/14/julio-cortzar-jugbamos.html&#34;&gt;és només un joc&lt;/a&gt;.)&lt;/p&gt;
@@ -241,12 +273,72 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2021/03/08/27672/</link>
+      <pubDate>Mon, 08 Mar 2021 19:21:12 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/03/08/27672/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Jo vull tornar a viure on l&amp;rsquo;herba&lt;br&gt;
+no és com aquí pur ornament, joia dels ulls&lt;br&gt;
+que dura l&amp;rsquo;any sencer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;— Attilio Bertolucci, &lt;a href=&#34;https://www.salze.cat/producte/portam-amb-tu-attilio-bertolucci/&#34;&gt;&lt;em&gt;Porta’m amb tu / Portami con te&lt;/em&gt;&lt;/a&gt;. Primer títol —una delícia— de &lt;a href=&#34;https://salze.cat&#34;&gt;Salze&lt;/a&gt;, projecte editorial de Marta Vilardaga i Josep Porcar.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-03-08-27628.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/02/16/61821/</link>
+      <pubDate>Tue, 16 Feb 2021 08:50:21 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/02/16/61821/</guid>
+      <description>&lt;p&gt;La &lt;a href=&#34;https://blog.carlesbellver.net/2013/06/12/pourquoi-il-y.html&#34;&gt;pregunta&lt;/a&gt; que em faig molts matins.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-02-16-61785.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2020/11/27/88218/</link>
       <pubDate>Fri, 27 Nov 2020 15:43:38 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2020/11/27/88218/</guid>
       <description>&lt;p&gt;Rectorat #UJI&lt;/p&gt;
 &lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2020/2020-11-27-88072.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2020/11/11/18186/</link>
+      <pubDate>Wed, 11 Nov 2020 19:09:46 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2020/11/11/18186/</guid>
+      <description>&lt;p&gt;Carregadors Apple Dalton.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2020/2020-11-11-18133.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2020/11/01/31096/</link>
+      <pubDate>Sun, 01 Nov 2020 12:44:56 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2020/11/01/31096/</guid>
+      <description>&lt;p&gt;El futur passa molt de pressa.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2020/2020-11-01-124407.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2020/10/25/175101/</link>
+      <pubDate>Sun, 25 Oct 2020 17:51:01 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2020/10/25/175101/</guid>
+      <description>&lt;p&gt;En estat d’alarma.&lt;/p&gt;
+&lt;img alt=&#34;Senyal d&#39;alerta&#34; src=&#34;https://blog.carlesbellver.net/uploads/2020/2020-10-25-174909.jpg&#34;&gt;
 </description>
     </item>
     
@@ -486,6 +578,17 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2019/08/25/desprs-duna-llarga.html</link>
+      <pubDate>Sun, 25 Aug 2019 19:03:44 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2019/08/25/desprs-duna-llarga.html</guid>
+      <description>&lt;p&gt;Després d&amp;rsquo;una llarga nit de malsons, isc al carrer i em trobe una invasió haradrim sota el sol radiant del migdia. Incapaç de determinar si era despert o continuava dormint, me n&amp;rsquo;he tornat al llit.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/a511a16dcb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2019/08/17/keep-calm-and.html</link>
       <pubDate>Sat, 17 Aug 2019 10:10:53 +0000</pubDate>
       
@@ -655,12 +758,100 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2019/02/22/125819.html</link>
+      <pubDate>Fri, 22 Feb 2019 11:58:19 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2019/02/22/125819.html</guid>
+      <description>&lt;p&gt;Avui hem intentat pujar al Fadrí, però una granera ens ha barrat el pas.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2019/02/16a48913a25e40f08e0e9b4ca1ce8d00.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2019/02/18/142755.html</link>
+      <pubDate>Mon, 18 Feb 2019 13:27:55 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2019/02/18/142755.html</guid>
+      <description>&lt;p&gt;El seu regne per un diccionari.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2019/02/7f84aa43b561416fb88d332211642cf6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2019/01/31/225743.html</link>
+      <pubDate>Thu, 31 Jan 2019 21:57:43 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2019/01/31/225743.html</guid>
+      <description>&lt;p&gt;Qué es la vida. Segunda edición.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2019/01/0e59c194fe0f4acc83819153f8e0d722.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2019/01/20/101946.html</link>
       <pubDate>Sun, 20 Jan 2019 09:19:46 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2019/01/20/101946.html</guid>
       <description>&lt;p&gt;Raspberry Pi amb pantalla de paper electrònic &lt;a href=&#34;https://shop.pimoroni.com/products/inky-what&#34;&gt;Inky wHAT&lt;/a&gt;. Predicció del temps via AEMET (XML). Temperatura: &lt;a href=&#34;https://climacastellon.com&#34;&gt;estació UJI&lt;/a&gt;, &lt;a href=&#34;http://www.morella.net/eltemps/&#34;&gt;observatori Morella&lt;/a&gt;. Icones: &lt;a href=&#34;http://adamwhitcroft.com/climacons/&#34;&gt;Climacons&lt;/a&gt;. Titulars de notícies via Europa Press (RSS). Programació: Python.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2019/01/6c1cb2435e574315ac453d3ef425d946.jpg&#34; alt=&#34;Foto Raspberry Pi amb pantalla de paper electrònic Inky wHAT&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/12/30/124636.html</link>
+      <pubDate>Sun, 30 Dec 2018 11:46:36 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/12/30/124636.html</guid>
+      <description>&lt;p&gt;Com a molt l’horòscop.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/12/6942cf1f4f7b4988a23f70d86bc61aae.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/12/18/174346.html</link>
+      <pubDate>Tue, 18 Dec 2018 16:43:46 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/12/18/174346.html</guid>
+      <description>&lt;p&gt;El puzle europeu a les escombraries.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/12/887216369ad948f2b9937cc3d7055c07.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/12/17/182304.html</link>
+      <pubDate>Mon, 17 Dec 2018 17:23:04 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/12/17/182304.html</guid>
+      <description>&lt;p&gt;Peephole. Old-style, one-way privacy.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/12/93b54661b54f404aa4dc13bfc3c28f58.jpg&#34; width=&#34;600&#34; height=&#34;339&#34; alt=&#34;&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/12/15/142024.html</link>
+      <pubDate>Sat, 15 Dec 2018 13:20:24 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/12/15/142024.html</guid>
+      <description>&lt;p&gt;Cap a l’hivern&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/12/33b0978138ba46d095c204f2d09766c3.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/11/28/184618.html</link>
+      <pubDate>Wed, 28 Nov 2018 17:46:18 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/11/28/184618.html</guid>
+      <description>&lt;p&gt;Passeig de l&amp;rsquo;Albereda de #Morella. Monument a &lt;a href=&#34;https://ca.wikipedia.org/wiki/Manuel_González_Mart%C3%AD&#34;&gt;Manuel González Martí&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
@@ -710,12 +901,78 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2018/11/15/192156.html</link>
+      <pubDate>Thu, 15 Nov 2018 18:21:56 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/11/15/192156.html</guid>
+      <description>&lt;p&gt;Per ací passava cada bit.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/11/aca98dc150244948acdf677fe3c0b1ef.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/11/14/193838.html</link>
+      <pubDate>Wed, 14 Nov 2018 18:38:38 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/11/14/193838.html</guid>
+      <description>&lt;p&gt;Literatura marciano-neerlandesa d’ocasió.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/11/5fea9b1d7a804c8cad557921a47e9cf6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/11/13/204456.html</link>
+      <pubDate>Tue, 13 Nov 2018 19:44:56 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/11/13/204456.html</guid>
+      <description>&lt;p&gt;La xarxa. Creixement orgànic.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/11/3311290a62c0485dbee24952415b6129.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/11/12/165240.html</link>
+      <pubDate>Mon, 12 Nov 2018 15:52:40 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/11/12/165240.html</guid>
+      <description>&lt;p&gt;La planta de la maionesa americana. Empeltada a Castelló.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/11/b6913b809dc64963a61f79adf618244c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2018/10/29/181416.html</link>
       <pubDate>Mon, 29 Oct 2018 17:14:16 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/10/29/181416.html</guid>
       <description>&lt;p&gt;Sota d&amp;rsquo;un pont, a l&amp;rsquo;est d&amp;rsquo;una espessor, al nord-oest d&amp;rsquo;un arbre remarcable… Aquest &lt;a href=&#34;https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;circuit d&amp;rsquo;orientació&lt;/a&gt; del campus #UJI em recorda el mapa de &lt;em&gt;L&amp;rsquo;illa del tresor&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2018/2018-10-29-mapa-tresor-uji.jpg&#34; alt=&#34;Fragment del mapa d&#39;un circuit d&#39;orientació a l&#39;UJI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/09/29/184641.html</link>
+      <pubDate>Sat, 29 Sep 2018 17:46:41 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/09/29/184641.html</guid>
+      <description>&lt;p&gt;Lleonet de jardí&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/09/7602ba4b7793456ab744eb47160378ec.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/09/22/181644.html</link>
+      <pubDate>Sat, 22 Sep 2018 17:16:44 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/09/22/181644.html</guid>
+      <description>&lt;p&gt;Andy Warhol. Una retrospettiva. Venezia, 1990.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/09/825afcb7fdd94e3da1dffe982312dee5.jpg&#34; width=&#34;600&#34; height=&#34;400&#34; /&gt;
 </description>
     </item>
     
@@ -729,6 +986,17 @@ inflating: unicorns.txt
 &lt;p&gt;Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de l&amp;rsquo;esbalaïment, i quan Lord Carnarvon, incapaç de restar més temps en suspens, va preguntar ansiosament: &amp;ldquo;Pots veure alguna cosa?&amp;rdquo;, les úniques paraules que vaig poder pronunciar van ser: &amp;ldquo;Sí, coses meravelloses&amp;rdquo;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/09/c8c114f451ef46c587b40e5030a8d859.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/09/19/171509.html</link>
+      <pubDate>Wed, 19 Sep 2018 16:15:09 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/09/19/171509.html</guid>
+      <description>&lt;p&gt;Reformes al conservatori. Reformisme i conservadorisme són complementaris.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/09/hipstamaticphoto-559038919.703162.jpg&#34; class=&#34;size-full wp-image-1289&#34; height=&#34;2313&#34; width=&#34;3084&#34;&gt;
 </description>
     </item>
     
@@ -751,6 +1019,17 @@ inflating: unicorns.txt
       <guid>https://blog.carlesbellver.net/2018/09/10/105507.html</guid>
       <description>&lt;p&gt;El començament del curs pot resultar una mica espinós. O, si més no, punxent.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/09/0902e6565b0047d281f5ae5f3f8f767a.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/08/11/193210.html</link>
+      <pubDate>Sat, 11 Aug 2018 18:32:10 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/08/11/193210.html</guid>
+      <description>&lt;p&gt;📖 Dashiell Hammet, &lt;em&gt;Interrogatorios&lt;/em&gt; (Errata naturae). Transcripció de les seves declaracions davant del tribunal que el va condemnar a sis mesos de presó i davant del Comitè d&amp;rsquo;Activitats Antiamericanes. Inclou el conte “Sombra en la noche” (“¿Y qué coño crees que quiero ser? ¿Chino?”).&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/08/715f871c73c547f1b70bec89433517ab.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
@@ -789,12 +1068,133 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2018/07/21/123921.html</link>
+      <pubDate>Sat, 21 Jul 2018 11:39:21 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/07/21/123921.html</guid>
+      <description>&lt;p&gt;Les (dues) cafeteries de la fi del món i l’ase de Buridan, fotògraf.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/07/32d00d0820f94ed687ef271b3fbfb978.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/07/13/192428.html</link>
+      <pubDate>Fri, 13 Jul 2018 18:24:28 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/07/13/192428.html</guid>
+      <description>&lt;p&gt;Refugi antiaeri de plaça Tetuan de Castelló. La baixada és esborronadora.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/07/753035be075c46f7b6ba827eb30f1cbb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2018/07/10/160812.html</link>
       <pubDate>Tue, 10 Jul 2018 15:08:12 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/07/10/160812.html</guid>
       <description>&lt;p&gt;Esquena i escorç de #Bolullés, neopintor de #Castelló #UJI.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/07/e7ffcf03e74740709567a8be55a913d1.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/07/05/202733.html</link>
+      <pubDate>Thu, 05 Jul 2018 19:27:33 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/07/05/202733.html</guid>
+      <description>&lt;p&gt;La meva opinió ràpida sobre el &lt;a href=&#34;https://en.wikipedia.org/wiki/Gemini_(PDA)&#34;&gt;Gemini PDA&lt;/a&gt;: no és perfecte, però si no existís hauria d’inventar-lo algú (encara que fos una &lt;a href=&#34;https://www.planetcom.co.uk/&#34;&gt;petita companyia anglesa&lt;/a&gt;).&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/07/3894c17a9ee04eed912a1033c10023d9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/06/20/224406.html</link>
+      <pubDate>Wed, 20 Jun 2018 21:44:06 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/06/20/224406.html</guid>
+      <description>&lt;p&gt;Avui el corrector de l’iPhone m’ha canviat ‘inventar’ per ‘intentar’. Exactament com aquell linotipista a Joan Fuster. I jo m’he sentit transportat.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2018/2018-06-20-224406.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/06/12/063731.html</link>
+      <pubDate>Tue, 12 Jun 2018 05:37:31 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/06/12/063731.html</guid>
+      <description>&lt;p&gt;Posverdad&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/06/6f9cefe46b714d588889836fffdb99de.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/05/26/191143.html</link>
+      <pubDate>Sat, 26 May 2018 18:11:43 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/05/26/191143.html</guid>
+      <description>&lt;p&gt;País Valencià amunt i avall&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/05/234cefb4a7c149c39856b383b084e38d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/05/17/203910.html</link>
+      <pubDate>Thu, 17 May 2018 19:39:10 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/05/17/203910.html</guid>
+      <description>&lt;p&gt;Amb això m’entretindré els pròxims mesos.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/05/proemi.jpg&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/05/12/211508.html</link>
+      <pubDate>Sat, 12 May 2018 20:15:08 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/05/12/211508.html</guid>
+      <description>&lt;p&gt;EXIT&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/05/4a063b5f485a434c8ff889f4c6cdf267.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/05/01/100752.html</link>
+      <pubDate>Tue, 01 May 2018 09:07:52 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/05/01/100752.html</guid>
+      <description>&lt;p&gt;Cultura clàssica. Antic altar de Zeus al carrer Ciscar de Castelló. Època preromana.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/05/10630a86d3e240b295be6f14a4cb4329.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/04/21/192856.html</link>
+      <pubDate>Sat, 21 Apr 2018 18:28:56 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/04/21/192856.html</guid>
+      <description>&lt;p&gt;Màrtir i dandi&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/04/64bebf18e694488cb88db14ee1b62253.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/04/18/182503.html</link>
+      <pubDate>Wed, 18 Apr 2018 17:25:03 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/04/18/182503.html</guid>
+      <description>&lt;p&gt;Avui hem encès un monitor vell, per veure si encara funcionava, i se’ns hi ha aparegut un bot rus.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/04/0e70c74541e34ff7a21d7acb2820b67e.jpg&#34; class=&#34;img-responsive&#34;&gt;
 </description>
     </item>
     
@@ -811,12 +1211,67 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2018/04/01/192706.html</link>
+      <pubDate>Sun, 01 Apr 2018 18:27:06 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/04/01/192706.html</guid>
+      <description>&lt;p&gt;&lt;em&gt;Peanuts Every Sunday&lt;/em&gt;. Tires dominicals 1958-1961. Comprat a l&amp;rsquo;aeroport de Viena el 28 d&amp;rsquo;octubre de 2001: viatge de noces. Quan era menut tenia uns llençols, cosits per l&amp;rsquo;àvia Maria Antònia, estampats amb aquests personatges. Humor naïf existencialista que m&amp;rsquo;acompanya sempre.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/04/b43f51e5aa34472eb14722c810244bb8.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/04/01/091229.html</link>
+      <pubDate>Sun, 01 Apr 2018 08:12:29 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/04/01/091229.html</guid>
+      <description>&lt;p&gt;Anit. Primera lluna plena després de l’equinocci de primavera.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/04/517f972e8a554f11b7b703cbda7d6718.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2018/03/29/162525.html</link>
       <pubDate>Thu, 29 Mar 2018 15:25:25 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/03/29/162525.html</guid>
       <description>&lt;p&gt;Ens han traslladat a l&amp;rsquo;edifici de la Biblioteca de l&#39;#UJI i ara, mirant cap amunt, tinc aquesta vista als matins quan entre a treballar.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/03/88c33b7adcff407fb5315f47b8073229.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/03/22/192804.html</link>
+      <pubDate>Thu, 22 Mar 2018 18:28:04 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/03/22/192804.html</guid>
+      <description>&lt;p&gt;D&amp;rsquo;entre els fulls d&amp;rsquo;un llibre vell, llisca un retall d&amp;rsquo;una columna de Manuel Vázquez Montalbán. &amp;ldquo;Algo hemos avanzado&amp;rdquo;, ironitzava ell fa trenta anys.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/03/af650aa19fde4e00b16e5da0b7cfa08b.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/03/19/193034.html</link>
+      <pubDate>Mon, 19 Mar 2018 18:30:34 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/03/19/193034.html</guid>
+      <description>&lt;p&gt;Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatués &amp;ldquo;I ❤️ Cthulhu&amp;rdquo;. Però jo sóc més de l&#39;&lt;em&gt;altre&lt;/em&gt;, del &lt;a href=&#34;https://ca.wikipedia.org/wiki/Nyarlathotep&#34;&gt;caos reptant&lt;/a&gt;. Afinitats, en tot cas, que no convé esventar impúdicament. Si no és dissimulant-les, per exemple amb un —aparentment— anodí &amp;ldquo;I ❤️ NY&amp;rdquo;.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/03/b854a128add64c67b2f0c6389dc8ae0b.jpg&#34; class=&#34;img-responsive&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/03/16/185237.html</link>
+      <pubDate>Fri, 16 Mar 2018 17:52:37 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/03/16/185237.html</guid>
+      <description>&lt;p&gt;Miedo&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/03/6293a51e6c8e4e1a96cecaa8080f6f0b.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
@@ -858,6 +1313,50 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2018/02/24/122512.html</link>
+      <pubDate>Sat, 24 Feb 2018 11:25:12 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/02/24/122512.html</guid>
+      <description>&lt;p&gt;Universitat d’Alacant, campus de Sant Vicent del Raspeig.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/02/693050d7a6cd47beaade9568034b8db1.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/02/23/175700.html</link>
+      <pubDate>Fri, 23 Feb 2018 16:57:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/02/23/175700.html</guid>
+      <description>&lt;p&gt;Quan vaig comprar aquesta versió del cub de Rubik, amb cares de senyores i senyors, no imaginava que resultaria tan difícil. Les peces centrals poden quedar girades i això no sabia resoldre-ho. Però ara ja me n&amp;rsquo;he informat. Només calia aprendre dues seqüències noves. 🙂&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/02/cdfdc2fb28f8463696d3e54291524d64.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/02/17/161748.html</link>
+      <pubDate>Sat, 17 Feb 2018 15:17:48 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/02/17/161748.html</guid>
+      <description>&lt;p&gt;Vanishing point. Jardí Botànic, València.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/02/107656ee081c4046b110b2b6e87fa621.jpg&#34; height=&#34;600&#34; width=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/02/17/123113.html</link>
+      <pubDate>Sat, 17 Feb 2018 11:31:13 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/02/17/123113.html</guid>
+      <description>&lt;p&gt;Vantage point. Parc de l&amp;rsquo;Hospital, València.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/02/5c674f912477416d8ffcd8ef3eaa212a.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2018/02/12/183911.html</link>
       <pubDate>Mon, 12 Feb 2018 17:39:00 +0000</pubDate>
       
@@ -869,12 +1368,91 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2018/02/09/210415.html</link>
+      <pubDate>Fri, 09 Feb 2018 20:04:15 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/02/09/210415.html</guid>
+      <description>&lt;p&gt;Llegibilitat versus meravella. Darreres sopetes bilingües amb Consum.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/02/24dadcaba0cf427baba2530f2188f39b.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/01/31/182523.html</link>
+      <pubDate>Wed, 31 Jan 2018 17:25:23 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/01/31/182523.html</guid>
+      <description>&lt;p&gt;El riu Sec. L&amp;rsquo;Amazònia de Castelló.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/01/img_5617.jpg&#34; class=&#34;wp-image-848 size-full&#34; height=&#34;750&#34; width=&#34;1000&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/01/26/165959.html</link>
+      <pubDate>Fri, 26 Jan 2018 15:59:59 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/01/26/165959.html</guid>
+      <description>&lt;p&gt;Els països aragonesos: “Le royaume d’Aragon avec ses dépendances”. Exposició &lt;a href=&#34;http://www.uji.es/com/agenda/2017/12/21/exposicio-mapes/&#34;&gt;”De les terres i els dominis del senyor rei d&amp;rsquo;Aragó”&lt;/a&gt;. Universitat Jaume I. Menador, espai cultural.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/01/eb98bcc054ec43fa83d449d0c83f5f7e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/01/13/194940.html</link>
+      <pubDate>Sat, 13 Jan 2018 18:49:40 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/01/13/194940.html</guid>
+      <description>&lt;p&gt;El pensador de Dosaigües.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/01/52472b340efb43a28d349e9d3db8b269.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2018/01/12/102718.html</link>
       <pubDate>Fri, 12 Jan 2018 09:27:18 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/01/12/102718.html</guid>
       <description>&lt;p&gt;Aquesta cadira és la bona.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/01/541cdf86edfd420d850f95e4f27d53e4.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2018/01/09/215648.html</link>
+      <pubDate>Tue, 09 Jan 2018 20:56:48 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/01/09/215648.html</guid>
+      <description>&lt;p&gt;Infraestructura bàsica per a un esclat de llum #7.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/01/b805331325664db8b77215c78ea80ee3.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/12/27/093115.html</link>
+      <pubDate>Wed, 27 Dec 2017 08:31:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/12/27/093115.html</guid>
+      <description>&lt;p&gt;Llegit: &lt;a href=&#34;https://www.blackiebooks.org/catalogo/en-tristany-sencongeix/&#34;&gt;En Tristany s’encongeix&lt;/a&gt;, de Florence Parry Heide i Edward Gorey (Blackie Books). Regal de Nadal. Deliciós.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/12/99b59ed6976440499e20754801796dd3.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/12/22/083709.html</link>
+      <pubDate>Fri, 22 Dec 2017 07:37:09 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/12/22/083709.html</guid>
+      <description>&lt;ol start=&#34;22&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/12/3295e0dcc3c8439993b5a71cd7015891.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
@@ -924,12 +1502,78 @@ inflating: unicorns.txt
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2017/11/30/091005.html</link>
+      <pubDate>Thu, 30 Nov 2017 08:10:05 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/11/30/091005.html</guid>
+      <description>&lt;p&gt;Avui ha tornat a eixir el sol&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/11/89d6149443304aa5bb0cbec119770319.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/11/25/112430.html</link>
+      <pubDate>Sat, 25 Nov 2017 10:24:30 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/11/25/112430.html</guid>
+      <description>&lt;p&gt;Homunculus&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/11/92434b956e824f909cfe221f2c888545.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/11/19/222620.html</link>
+      <pubDate>Sun, 19 Nov 2017 21:26:20 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/11/19/222620.html</guid>
+      <description>&lt;p&gt;Open (not so).&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/11/44ad342abbc54de0857ae4adb9558feb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/11/11/123517.html</link>
+      <pubDate>Sat, 11 Nov 2017 11:35:17 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/11/11/123517.html</guid>
+      <description>&lt;p&gt;Aneguets universitaris d’Alacant–Sant Vicent del Raspeig.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/11/img_5580.jpg&#34; height=&#34;1151&#34; class=&#34;wp-image-583&#34; width=&#34;2048&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/10/21/172815.html</link>
+      <pubDate>Sat, 21 Oct 2017 16:28:15 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/10/21/172815.html</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://en.wikipedia.org/wiki/Illegitimi_non_carborundum&#34;&gt;Illegitimi non carborundum/Nolite te bastardes carborundorum&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/10/4af5e2c78bd341ef82721f285d9743a5.jpg&#34; class=&#34;img-responsive&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2017/10/16/210755.html</link>
       <pubDate>Mon, 16 Oct 2017 20:07:55 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2017/10/16/210755.html</guid>
       <description>&lt;p&gt;Cuando despertó, el rey todavía estaba allí.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/10/27376b749c51488db303dd461d5fd5ec.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/10/11/185359.html</link>
+      <pubDate>Wed, 11 Oct 2017 17:53:59 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/10/11/185359.html</guid>
+      <description>&lt;p&gt;&lt;em&gt;Ceci n’est pas une mandarine.&lt;/em&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/10/7b9834426f8f4dc5884d9e8e2350afd2.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
@@ -950,12 +1594,34 @@ estás del lado de la sombra.&lt;/p&gt;
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2017/10/04/185218.html</link>
+      <pubDate>Wed, 04 Oct 2017 17:52:18 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/10/04/185218.html</guid>
+      <description>&lt;p&gt;Duresa.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/10/cf70e12664f64602a1c00925b047f3e2.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2017/09/28/172916.html</link>
       <pubDate>Thu, 28 Sep 2017 16:29:16 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2017/09/28/172916.html</guid>
       <description>&lt;p&gt;Obres de la Facultat de Ciències de la Salut. Per construir cal destruir.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/09/96c120053337459884eeb4e52fafa94f.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/09/18/185627.html</link>
+      <pubDate>Mon, 18 Sep 2017 17:56:27 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/09/18/185627.html</guid>
+      <description>&lt;p&gt;España, manual de instrucciones.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/09/dba14b2a85cb4d20a7148a5d15437c27.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
@@ -1005,12 +1671,76 @@ estás del lado de la sombra.&lt;/p&gt;
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2017/07/09/204722.html</link>
+      <pubDate>Sun, 09 Jul 2017 19:47:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/07/09/204722.html</guid>
+      <description>&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/07/hipstamaticphoto-521316635.960917-2.jpg&#34; alt=&#34;Església de Sant Agustí de Castelló de la Plana. Escut amb cor travessat per dues fletxes.&#34; /&gt;
+&lt;p&gt;Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Agustí va obrir les rescloses a través de les quals van afluir des de llavors al pensament europeu les energies masoquistes primàries… Es podria dir que, d&amp;rsquo;aquesta manera, Agustí va deslligar la filosofia de la seva antiga constitució maníaca i la va col·locar sota el patrocini de la depressió.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Peter Sloterdijk, &lt;em&gt;Temperaments filosòfics&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/06/30/165852.html</link>
+      <pubDate>Fri, 30 Jun 2017 15:58:52 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/06/30/165852.html</guid>
+      <description>&lt;p&gt;Plourà?&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/06/03946ed45b3a4f7f84c953674302649e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un altre conte xinès</title>
+      <link>https://blog.carlesbellver.net/2016/11/13/un-altre-conte.html</link>
+      <pubDate>Sun, 13 Nov 2016 23:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2016/11/13/un-altre-conte.html</guid>
+      <description>&lt;p&gt;He somniat que contractava uns xinesos per baixar l’UJI del núvol. Ho feien un dia de festa, quan el rector i el gerent estaven despistats. Deixaven la base de dades a la consergeria de serveis centrals, en un USB amb logo personalitzat, i les aplicacions en GitCafé. Aturaven les instàncies d’EC2, etc. I a mi em regalaven un cupó de descompte d’AliExpress.&lt;/p&gt;
+&lt;p&gt;Tot això respectant escrupolosament la legalitat. Ens assessorava un advocat andorrà.&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/carlesbellver/30652528920/in/dateposted-public/&#34; title=&#34;Distorsió&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/f2c49a5821.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; alt=&#34;Distorsió&#34; /&gt;&lt;/a&gt;&lt;script async=&#34;&#34; src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Peanut Underground</title>
+      <link>https://blog.carlesbellver.net/2016/06/23/the-peanut-underground.html</link>
+      <pubDate>Thu, 23 Jun 2016 22:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2016/06/23/the-peanut-underground.html</guid>
+      <description>&lt;img alt=&#34;The Peanut Underground, by Bill Cawley &amp;amp; Stephen Altobello&#34; src=&#34;https://blog.carlesbellver.net/uploads/2019/ee82cfa0da.jpg&#34;&gt;
+&lt;p&gt;By Bill Cawley &amp;amp; Stephen Altobello. Scan from &lt;em&gt;Les Inrockuptibles&lt;/em&gt; #24, 1990.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2016/05/11/management-folklore-fact/</link>
       <pubDate>Wed, 11 May 2016 14:38:37 +0200</pubDate>
       
       <guid>https://blog.carlesbellver.net/2016/05/11/management-folklore-fact/</guid>
       <description>&lt;p&gt;Una de les &lt;a href=&#34;https://blog.carlesbellver.net/2020/01/19/el-gerent-representa.html&#34;&gt;feines&lt;/a&gt; més &lt;a href=&#34;https://blog.carlesbellver.net/2018/01/29/191857.html&#34;&gt;misterioses&lt;/a&gt;.&lt;/p&gt;
 &lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2016/2016-05-11-management-folklore-fact.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Per al·lusions: l’apocalipsi i València</title>
+      <link>https://blog.carlesbellver.net/2016/01/27/per-allusions-lapocalipsi.html</link>
+      <pubDate>Wed, 27 Jan 2016 23:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2016/01/27/per-allusions-lapocalipsi.html</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;Se prohíbe ensuciarse&#34; href=&#34;http://www.flickr.com/photos/carlesbellver/12090678396/&#34;&gt;&lt;img alt=&#34;Foto: Se prohíbe ensuciarse&#34; src=&#34;https://blog.carlesbellver.net/uploads/2019/37645c09de.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vaig demanar a Maria Folch que &lt;a href=&#34;http://carlesbellver.net/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova.html&#34;&gt;presentés&lt;/a&gt; el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria parlar gaire. Tan sols uns pocs minuts, com vaig dir, &lt;em&gt;per al·lusions&lt;/em&gt;. No repetiré ací cada observació que vaig fer, però sí que deixaré constància de dos o tres detalls que m’interessen particularment.&lt;/p&gt;
+&lt;p&gt;Un. Certament no era cap secret que en “Un cel nou i una terra nova” —el conte que dóna títol al llibre— s’esdevé una mena d’apocalipsi. El relat dels fets, com va assenyalar Maria, comença sota un epígraf que no pot ser més explícit: “Just abans de la fi del món”. Amb la qual cosa tampoc pretenia resultar gens original. No mancàvem de proclames apocalíptiques, mentre jo escrivia. I segurament amb raó. Almenys a mi també m’ho pareixia, que la realitat se’ns estava ensorrant i que ens queia damunt a trossos. I encara m’ho pareix, és clar. No hi ha dia que no ens assabentem d’una altra calamitat. Però era optimista, i per això hi havia una segona part: “Quinze anys després”. És a dir, que s’acabava un món, però tot seguit en començava un altre. Més estrany encara, potser. Nou de trinca.&lt;/p&gt;
+&lt;p&gt;Dos. Hi havia una pregunta ineludible: per què l’acció transcorre a València? Era conscient que se’m podia acusar, fins i tot, de pocavergonya i de traïdor, atesa la meva inclinació a exercir d’escriptor &lt;em&gt;castellonenc&lt;/em&gt;. Però, siguem sincers, si venia l’apocalipsi, on volíem que passés? Recorde que Manuel Vázquez Montalbán, molt irònicament, va advertir alguna vegada que a Barcelona podien estar tranquils, perquè si tiraven la bomba atòmica la tirarien a Madrid, que per això era la capital. Ho va escriure a les pàgines d’El País i se li va enfadar més d’un lector. Eren els anys llunyans de la guerra freda i l’autonomia, però la idea continua sent vàlida. Les coses importants passen als llocs importants. L’apocalipsi de debò, al nostre entorn de país o regne, només podia ocórrer a València. A Castelló, on no tenim més que una &lt;em&gt;sub&lt;/em&gt;delegació del Govern, amb prou feines ens n’assabentaríem per la tele o pel Twitter. Per tant, des del primer moment, vaig tenir clar on era que arribava en tren el narrador, aquest home o homenet de negre en cerca del seu destí de funcionari.&lt;/p&gt;
+&lt;p&gt;I tres… bé, allò de l’animalet i el somni d’una escriptora ho deixarem per a un altre dia, que és un assumpte que mereix un apunt per si mateix.&lt;/p&gt;
+&lt;p&gt;(La foto. Gener de 2014. Em vaig agafar un dia lliure amb la intenció de passejar-me pel centre de València. Més que documentar-me, supose que volia comprovar que els carrers i les cases restaven als mateixos llocs. On els havia deixats.)&lt;/p&gt;
 </description>
     </item>
     
@@ -1037,6 +1767,26 @@ estás del lado de la sombra.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Definició d&#39;àngel</title>
+      <link>https://blog.carlesbellver.net/2013/12/08/definici-dngel.html</link>
+      <pubDate>Sun, 08 Dec 2013 23:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2013/12/08/definici-dngel.html</guid>
+      <description>&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/9df7696f2e.jpg&#34; alt=&#34;Definició d&#39;àngel&#34; /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A sobrevent, un batre&lt;br&gt;
+d’ales, alè al vol,&lt;br&gt;
+batecs.&lt;/p&gt;
+&lt;p&gt;A contrallum, venoses&lt;br&gt;
+branques, llamps de dol,&lt;br&gt;
+empelts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Josep Porcar, &lt;a href=&#34;http://llambreig.porcar.net&#34;&gt;Llambreig&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A vosaltres, us ha dedicat mai un poeta una “Definició d’àngel”? Perquè a mi sí.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dessecació</title>
       <link>https://blog.carlesbellver.net/2013/05/26/dessecaci.html</link>
       <pubDate>Sun, 26 May 2013 22:00:00 +0000</pubDate>
@@ -1044,6 +1794,55 @@ estás del lado de la sombra.&lt;/p&gt;
       <guid>https://blog.carlesbellver.net/2013/05/26/dessecaci.html</guid>
       <description>&lt;p&gt;En &lt;em&gt;El otoño del patriarca&lt;/em&gt;, el dictador venia el mar als &lt;em&gt;gringos&lt;/em&gt; per pal·liar l’endeutament. Avui, en passar pel Parc de Ribalta, m’he trobat la bassa dels peixos buida…&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/uploads/2020/f5a37ff48d.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Una qüestió de mètrica</title>
+      <link>https://blog.carlesbellver.net/2013/02/07/una-qesti-de.html</link>
+      <pubDate>Thu, 07 Feb 2013 23:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2013/02/07/una-qesti-de.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/carlesbellver/8452185785/&#34; title=&#34;Criatura dolcíssima by Carles Bellver, on Flickr&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/fb9ebfd41f.jpg&#34; alt=&#34;Criatura dolcíssima&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Heus ací la citació amb què he volgut encapçalar el meu &lt;a href=&#34;https://carlesbellver.net/llibres/lanitmildos&#34;&gt;nou llibre&lt;/a&gt;. Un cèlebre vers del cèlebre poema de Joan Fuster &lt;a href=&#34;http://lletra.uoc.edu/especials/folch/fuster.htm&#34;&gt;“Criatura dolcíssima”&lt;/a&gt; (&lt;em&gt;Escrit per al silenci&lt;/em&gt;, 1954):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No hi llegiran ton nom amb un bell pànic?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació que en va fer Lluís Llach (&lt;em&gt;Somniem&lt;/em&gt;, 1979; &lt;em&gt;Poetes&lt;/em&gt;, 2004). I heus ací on em sorgia el dubte, perquè, en la versió de Llach, el vers figura exactament tal com jo l’acabe de transcriure, però en l’edició del llibre de Fuster de què dispose (dins &lt;em&gt;Set llibres de versos&lt;/em&gt;, 1989), i en moltes pàgines web (com l’adés enllaçada), s’observa una no tan petita variació:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No &lt;em&gt;&lt;strong&gt;li&lt;/strong&gt;&lt;/em&gt; llegiran ton nom amb un bell pànic?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? No sabria dir-ho. Aquesta consideració, però, no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I tampoc no volia citar-ne una versió incorrecta o apòcrifa, és clar.&lt;/p&gt;
+&lt;p&gt;Mentrestant, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la &lt;a href=&#34;https://cataleg.uji.es/permalink/34CVA_UJI/j35epn/alma991003954729706336&#34;&gt;fitxa&lt;/a&gt; del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.&lt;/p&gt;
+&lt;p&gt;La solució del problema, finalment, va arribar per un altre cantó, i era d’allò més fàcil: només calia comptar les síl·labes. “Criatura dolcíssima” són tot tercets decasíl·labs, menys, únicament —si fos amb “li”—, aquest verset de la discòrdia, que seria hendecasíl·lab. Per coherència mètrica, doncs, entenc que la versió bona era l’original, amb “hi”. D’altra banda, si fem la cerca amb &lt;a href=&#34;http://books.google.com/&#34;&gt;Google Books&lt;/a&gt;, podem comprovar que la versió amb “li” només apareix en l’edició de 1989 i en alguna antologia posterior. Pareix, doncs, que es tractaria d’una errata introduïda tan recentment i escampada en el Web pàgina a pàgina.&lt;/p&gt;
+&lt;p&gt;Per a acabar, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar aquesta conclusió i les raons mètriques i semàntiques que m’hi han portat.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La veu de la meva inconsciència</title>
+      <link>https://blog.carlesbellver.net/2010/12/14/la-veu-de.html</link>
+      <pubDate>Tue, 14 Dec 2010 23:00:15 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2010/12/14/la-veu-de.html</guid>
+      <description>&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/carlesbellver/4358336295&#34; title=&#34;Moment Cortázar&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/fbd0f18097.jpg&#34; width=&#34;240&#34; height=&#34;178&#34; alt=&#34;Moment Cortázar&#34; /&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Wilbur és un &lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_bot&#34;&gt;bot&lt;/a&gt; nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter &lt;a href=&#34;http://twitter.com/carlesbellver&#34;&gt;@carlesbellver&lt;/a&gt; (abans ho feia en el seu propi: &lt;a href=&#34;http://twitter.com/petitwilbur&#34;&gt;@petitwilbur&lt;/a&gt;). Molt de tant en tant profereix alguna imprecació a l&amp;rsquo;estil d&#39;&lt;a href=&#34;http://ca.wikipedia.org/wiki/Capit%C3%A0_Haddock&#34;&gt;Archibald Haddock&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wilbur és el guardià del meu son. No sempre sé per què diu el que diu. Schopenhauer va escriure en alguna ocasió que la vigília i els somnis són fulls d&amp;rsquo;un mateix llibre. De nit el fullegem sense ordre ni concert.&lt;/p&gt;
+&lt;p&gt;Al matí em desperta amb el pronòstic del temps.&lt;/p&gt;
+&lt;p&gt;En la seva infantesa, Wilbur funcionava —vivia— en el meu &lt;a href=&#34;http://chumby.com&#34;&gt;Chumby&lt;/a&gt;, un despertador Linux connectat a Internet. Malauradament Chumby és gairebé història. Ara Wilbur viu en un ordinador convencional. Com que és essencialment software es pot transmigrar sense immutar-se.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El caragol</title>
+      <link>https://blog.carlesbellver.net/2004/05/22/el-caragol.html</link>
+      <pubDate>Sat, 22 May 2004 22:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2004/05/22/el-caragol.html</guid>
+      <description>&lt;p&gt;L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i rodó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.&lt;/p&gt;
+&lt;p&gt;Al cap d’una estona, però, vam observar com treia el cap, les banyes i la panxa. Es va tornar a arrossegar a poc a poc fins al test, es va enfilar amunt cap al verd i finalment es va col·locar si fa no fa en el mateix punt i en la mateixa posició d’abans.&lt;/p&gt;
+&lt;p&gt;Encara hi és.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2004/2004-05-22-caragol.jpg&#34; alt=&#34;Caragol i planta&#34; /&gt;
 </description>
     </item>
     
