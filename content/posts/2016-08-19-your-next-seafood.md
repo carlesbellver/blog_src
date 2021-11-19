@@ -3,6 +3,7 @@ url = "/2016/08/19/your-next-seafood.html"
 title = "Your next seafood dinner might come with a QR code"
 date = "2016-08-19T22:00:00+00:00"
 slug = "your-next-seafood"
+tags = ["Morella"]
 +++
 
 Llegit en el *Daily Brief* de Quartz:
