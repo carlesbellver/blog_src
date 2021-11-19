@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "2020-12-31T10:35:37+01:00"
-tags = ["retalls"]
+tags = ["retalls", "educació"]
 slug = "this-year-education"
 +++
 

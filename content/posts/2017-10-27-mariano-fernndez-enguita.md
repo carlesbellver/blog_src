@@ -3,7 +3,7 @@ url = "/2017/10/27/mariano-fernndez-enguita.html"
 title = ""
 date = "2017-10-27T13:57:00+00:00"
 slug = "mariano-fernndez-enguita"
-tags = ["retalls"]
+tags = ["retalls", "educació"]
 +++
 
 📎 Mariano Fernández Enguita: [«S’ha de pacificar l’educació»](https://revistafutura.blogs.uv.es/2017/10/23/mariano-fernandez-enguita/)

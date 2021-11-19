@@ -3,7 +3,7 @@ url = "/2019/03/04/mariano-fernndez-enguita.html"
 title = ""
 date = "2019-03-04T08:36:00+00:00"
 slug = "mariano-fernndez-enguita"
-tags = ["retalls"]
+tags = ["retalls", "educació"]
 +++
 
 📎 Mariano Fernández Enguita: [La escuela como fábrica de disparates —ayer y hoy](https://blog.enguita.info/2019/03/la-escuela-como-fabrica-de-disparates.html)

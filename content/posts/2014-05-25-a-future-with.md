@@ -3,7 +3,7 @@ url = "/2014/05/25/a-future-with.html"
 title = ""
 date = "2014-05-25T22:00:00+00:00"
 slug = "a-future-with"
-tags = ["retalls"]
+tags = ["retalls", "educació"]
 +++
 
 📎 [A Future With Only 10 Universities](http://www.hackeducation.com/2013/10/15/minding-the-future-openva/)
