@@ -1,5 +1,5 @@
 +++
-title = "Recull bibliogràfic d'aquesta setmana"
+title = "Recull bibliogràfic d’aquesta setmana"
 date = "2021-11-21T16:49:59+01:00"
 tags = []
 slug = "social-studies-computing"
