@@ -6,6 +6,14 @@
 	"feed_url": "https://blog.carlesbellver.net/photos/index.json",
 	"items": [
   			{
+	  			"id": "https://blog.carlesbellver.net/2021/11/20/bon-dia/",
+		  		"title": "",
+			  	"date_published": "2021-11-20T08:30:25+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/11/20/bon-dia/",
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-11-20-bon-dia.jpg",
+				  "content_text": "Bon dia.\n"
+        },
+  			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
 		  		"title": "",
 			  	"date_published": "2021-11-13T17:32:42+01:00",
@@ -539,7 +547,7 @@
 			  	"date_published": "2018-11-28T17:46:18+00:00",
 				  "url": "https://blog.carlesbellver.net/2018/11/28/184618.html",
 				  "image": "https://blog.carlesbellver.net/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg",
-				  "content_text": "Passeig de l\u0026rsquo;Albereda de #Morella. Monument a Manuel González Martí.\n"
+				  "content_text": "Passeig de l\u0026rsquo;Albereda de Morella. Monument a Manuel González Martí.\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2018/11/27/104012.html",

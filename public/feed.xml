@@ -6,8 +6,48 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 13 Nov 2021 17:32:42 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 16:49:59 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>Recull bibliogràfic d’aquesta setmana</title>
+      <link>https://blog.carlesbellver.net/2021/11/21/social-studies-computing/</link>
+      <pubDate>Sun, 21 Nov 2021 16:49:59 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/11/21/social-studies-computing/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;“L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats”&lt;/li&gt;
+&lt;li&gt;“El concepte de &lt;em&gt;product ownership&lt;/em&gt; com a estratègia de socialització del sofriment en la governança TI”&lt;/li&gt;
+&lt;li&gt;“El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.”&lt;/li&gt;
+&lt;li&gt;“Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal”&lt;/li&gt;
+&lt;li&gt;“Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans”&lt;/li&gt;
+&lt;li&gt;“De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Selecció de comunicacions presentades en el Segon Congrés d&amp;rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/11/20/dogphone/</link>
+      <pubDate>Sat, 20 Nov 2021 12:34:01 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/11/20/dogphone/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://slashdot.org/story/392961&#34;&gt;DogPhone Lets Pets Ring Their Owners&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Una investigació candidata a l&#39;&lt;a href=&#34;http://ignobel.org&#34;&gt;Ig Nobel&lt;/a&gt;?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;”El gos em va telefonar, però no feia cas de la trucada, estava més interessat en les coses que tenia al jaç.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/11/20/bon-dia/</link>
+      <pubDate>Sat, 20 Nov 2021 08:30:25 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/11/20/bon-dia/</guid>
+      <description>&lt;p&gt;Bon dia.&lt;/p&gt;
+&lt;img alt=&#34;Grafit en un contenidor del fem: bon dia&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-20-bon-dia.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -262,46 +302,6 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
 &lt;/blockquote&gt;
 &lt;p&gt;El cas és que Strickland sí que havia tingut una pàgina a la Wikipedia, però havia estat esborrada. L&amp;rsquo;explicació habitual en aquests casos és que els editors de la Wikipedia exigeixen que el tema sigui rellevant i que les dades es puguin verificar en publicacions independents i fiables: llibres i articles de premsa, per exemple. El problema, diuen, és que es troben menys publicacions sobre dones. El peix que es mossega la cua, doncs. Resulta, però, difícil de creure que algú no la considerés rellevant i que no hi haguessin prou referències disponibles, atès el currículum previ de &lt;a href=&#34;https://en.wikipedia.org/wiki/Donna_Strickland&#34;&gt;Donna Strickland&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Potser el problema és que la gran majoria d&amp;rsquo;editors de la Wikipedia són homes? Fins al 90% del total de col·laboradors, segons un informe de 2018. I segurament hi ha altres biaixos. Al cap i la fi, estem parlant de comunitats d&amp;rsquo;editors, configurades de manera contingent i amb les típiques dinàmiques de grup i de &lt;a href=&#34;https://en.wikipedia.org/wiki/Groupthink&#34;&gt;pensament de grup&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/08/21/sudoku/</link>
-      <pubDate>Sat, 21 Aug 2021 14:12:12 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/08/21/sudoku/</guid>
-      <description>&lt;p&gt;📎 Ousama Bouiss: &lt;a href=&#34;https://www.vilaweb.cat/noticies/les-cinc-llicons-del-sodoku-que-ensenyen-a-resoldre-problemes-complexos/&#34;&gt;Les cinc lliçons del Sudoku que ensenyen a resoldre problemes complexos&lt;/a&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals.&lt;/strong&gt; Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;“No pensis, mira!”&lt;/strong&gt; —Ludwig Wittgenstein.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Construeix la teva estratègia sobre la marxa i basa’t en la informació que tens.&lt;/strong&gt; Com tot art, la intel·ligència no pot obeir a receptes o programes. —Edgar Morin.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sigues conscient del teu nivell per a aprendre sense rendir-te.&lt;/strong&gt; “Psicològicament, no hi ha veritat sense error rectificat. Una psicologia de l’actitud objectiva és una història dels nostres errors personals.” —Gaston Bachelard.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sigues prudent i rigorós per a evitar que els errors s’agreugin&lt;/strong&gt;. Humilitat, cautela i rigor.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“El concepte de joc és d’un ordre superior al de la seriositat. Perquè la seriositat pretén excloure el joc, mentre que el joc pot incloure la seriositat dins seu.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;—Joseph Huizinga, &lt;em&gt;Homo Ludens&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Cfr. Julio Cortázar: &lt;a href=&#34;https://blog.carlesbellver.net/2014/03/14/julio-cortzar-jugbamos.html&#34;&gt;“jugábamos en serio”&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/08/21/mascareta/</link>
-      <pubDate>Sat, 21 Aug 2021 09:46:28 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/08/21/mascareta/</guid>
-      <description>&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-08-21-memoji-mask.png&#34; width=&#34;100&#34; height=&#34;100&#34;&gt;
-&lt;p&gt;Amb desescalades &lt;a href=&#34;https://www.elperiodicomediterraneo.com/castello-provincia/2021/08/16/coronavirus-castellon-puig-anuncia-desescalada-septiembre-56275128.html&#34;&gt;“robustes”&lt;/a&gt; (?) o no, jo crec que a la majoria ens afavoreix d’allò més la mascareta. Estèticament també.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/08/20/futurecrunch/</link>
-      <pubDate>Fri, 20 Aug 2021 10:56:40 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/08/20/futurecrunch/</guid>
-      <description>&lt;p&gt;Moltes vegades que entre a Twitter acabe pensant que més gent hauria de llegir &lt;a href=&#34;https://futurecrunch.com/&#34;&gt;Future Crunch&lt;/a&gt;, &amp;ldquo;bones notícies d&amp;rsquo;arreu del món&amp;rdquo;, recollides i redactades des d&amp;rsquo;un punt de vista científic i tècnic &amp;ldquo;en un esforç per contrarestar el bombardeig continuat de mort i destrucció les 24 hores des de mitjans tradicionals i xarxes socials&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     

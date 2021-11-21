@@ -6,10 +6,24 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Tue, 09 Nov 2021 18:48:13 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Nov 2021 12:34:01 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/11/20/dogphone/</link>
+      <pubDate>Sat, 20 Nov 2021 12:34:01 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/11/20/dogphone/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://slashdot.org/story/392961&#34;&gt;DogPhone Lets Pets Ring Their Owners&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Una investigació candidata a l&#39;&lt;a href=&#34;http://ignobel.org&#34;&gt;Ig Nobel&lt;/a&gt;?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;”El gos em va telefonar, però no feia cas de la trucada, estava més interessat en les coses que tenia al jaç.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       
@@ -3505,8 +3519,11 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2018/11/22/an-artist-bought.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://qz.com/quartzy/1471278/artist-ron-english-bought-a-banksy-piece-just-so-he-could-destroy-it/&#34;&gt;An artist bought a Banksy piece just so he could destroy it&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ron English va comprar &lt;i&gt;Slave Labor&lt;/i&gt;. Aerosol sobre formigó, emmarcat en fusta corrent: una imatge d’un nen inclinat sobre una màquina de cosir, manufacturant banderes britàniques. El seu pla és cobrir-lo amb una capa blanca a fi de protestar pel robatori i la mercantilització de l&amp;rsquo;art de carrer. Però pensa revendre&amp;rsquo;l: &amp;ldquo;Per descomptat, vendré la pintura emblanquinada per un milió de dòlars. Estic boig, però no sóc estúpid ”.&lt;/p&gt;
-</description>
+&lt;p&gt;Ron English va comprar &lt;em&gt;Slave Labor&lt;/em&gt;. Aerosol sobre formigó, emmarcat en fusta corrent: una imatge d’un nen inclinat sobre una màquina de cosir, manufacturant banderes britàniques. El seu pla és cobrir-lo amb una capa blanca a fi de protestar pel robatori i la mercantilització de l&amp;rsquo;art de carrer. Però pensa revendre&amp;rsquo;l.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Per descomptat, vendré la pintura emblanquinada per un milió de dòlars. Estic boig, però no sóc estúpid.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img src=&#34;https://cms.qz.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-20-at-9.40.41-PM.png&#34; alt=&#34;Banksy’s Slave Labour&#34;&gt;</description>
     </item>
     
     <item>
