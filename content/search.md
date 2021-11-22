@@ -14,4 +14,4 @@ tags = ["special"]
 
 <div id="list_results">
    <p style="text-align: center;">S'està carregant l'índex de paraules…</p>
-</ul>
+</div>
