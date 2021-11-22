@@ -1,7 +1,7 @@
 +++
 title = "Recull bibliogràfic d’aquesta setmana"
 date = "2021-11-21T16:49:59+01:00"
-tags = []
+tags = ["contes"]
 slug = "social-studies-computing"
 +++
 
