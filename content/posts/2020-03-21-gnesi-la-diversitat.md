@@ -5,7 +5,7 @@ date = "2020-03-21T16:38:12+00:00"
 slug = "gnesi-la-diversitat"
 +++
 
-<a href="https://www.biblija.net/biblija.cgi?m=Gn+11%2C1-9&id24=1&pos=1&set=15&l=ca">Gènesi 11, 1–9</a>: la diversitat lingüística és una decisió divina. Resulta tan contradictori oposar-s'hi des de posicions nacionalcatòliques!
+[Gènesi 11, 1–9](https://www.biblija.net/biblija.cgi?m=Gn+11%2C1-9&id24=1&pos=1&set=15&l=ca): la diversitat lingüística és una decisió divina. Resulta tan contradictori oposar-s'hi des de posicions nacionalcatòliques!
 
 > En tota la terra es parlava una sola llengua i es feien servir les mateixes paraules. Els homes van emigrar des de l'orient, trobaren una plana al país de Xinar i la van poblar. Llavors parlaren entre ells de fer maons i coure'ls al forn. Així començaren a fer servir maons en lloc de pedra, i asfalt en lloc de morter.
 > 

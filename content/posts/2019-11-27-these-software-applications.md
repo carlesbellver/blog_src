@@ -6,6 +6,6 @@ slug = "these-software-applications"
 tags = ["retalls"]
 +++
 
-📎 Ben Werdmüller: <a href="https://werd.io/2019/the-next-big-thing-the-hybrid-cloud">The next big thing? The hybrid cloud.</a>
+📎 Ben Werdmüller: [The next big thing? The hybrid cloud.](https://werd.io/2019/the-next-big-thing-the-hybrid-cloud)
 
 Dividir les aplicacions: conservar la gestió de dades a casa —per seguretat— i pujar l'API al núvol —per agilitar-ne la gestió i les actualitzacions.

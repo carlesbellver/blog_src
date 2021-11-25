@@ -8,4 +8,4 @@ tags = ["retalls"]
 
 Alternatives ètiques, fàcils d'utilitzar i respectuoses amb la privacitat per als webs i apps socials més populars: Facebook, Twitter, Instagram, YouTube, WhatsApp, Gmail…
 
-📎 <a href="https://switching.social/">switching.social</a>
+📎 [switching.social](https://switching.social/)

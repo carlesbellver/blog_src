@@ -6,4 +6,6 @@ slug = "a-tool-that"
 tags = ["retalls"]
 +++
 
-📎 <a href="https://whocanuse.com/">Who Can Use</a>. Simulació: com funcionaria cada combinació de colors amb les dificultats visuals més comunes?
+📎 [Who Can Use](https://whocanuse.com/)
+
+Simulació: com funcionaria cada combinació de colors amb les dificultats visuals més comunes?

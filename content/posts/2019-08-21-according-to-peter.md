@@ -6,7 +6,7 @@ slug = "according-to-peter"
 tags = ["retalls"]
 +++
 
-📎 <a href="https://singularityhub.com/2019/08/20/these-are-the-meta-trends-shaping-the-future-at-breakneck-speed/">These Are the Meta-Trends Shaping the Future (at Breakneck Speed)</a>
+📎 [These Are the Meta-Trends Shaping the Future (at Breakneck Speed)](https://singularityhub.com/2019/08/20/these-are-the-meta-trends-shaping-the-future-at-breakneck-speed/)
 
 Segons Peter Diamandis, de la Singularity University:
 

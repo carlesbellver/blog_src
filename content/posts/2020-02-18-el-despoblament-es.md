@@ -6,6 +6,6 @@ slug = "el-despoblament-es"
 tags = ["retalls"]
 +++
 
-📎 <a href="https://www.vilaweb.cat/noticies/artur-aparici-la-ciutat-es-el-simbol-de-la-crisi/">Artur Aparici: 'El govern valencià vol evitar el diagnòstic del Fòrum de la Nova Ruralitat'</a>
+📎 [Artur Aparici: 'El govern valencià vol evitar el diagnòstic del Fòrum de la Nova Ruralitat'](https://www.vilaweb.cat/noticies/artur-aparici-la-ciutat-es-el-simbol-de-la-crisi/)
 
 Conscienciació que el despoblament és resultat d'una determinada gestió del territori, i que es pot revertir. Més pla de xoc: transport públic a demanda; serveis bancaris bàsics; marc legislatiu diferenciat; dotació d’habitatge; borses de treball territorialitzades; telecomunicacions ràpides; agricultura i ramaderia de proximitat; diversificació del teixit productiu…

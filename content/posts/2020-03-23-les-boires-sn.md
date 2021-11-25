@@ -8,4 +8,4 @@ tags = ["retalls","citacions"]
 
 > Les boires són ben rares.
 
-Dels “Factors geogràfics que condicionen el dialecte”, en *Vocabulari castellonenc* de Germà Colón Domènech, que <a href="https://www.vilaweb.cat/noticies/sha-mort-el-linguista-germa-colon-victima-de-la-covid-19/">va faltar ahir</a>.
+Dels “Factors geogràfics que condicionen el dialecte”, en *Vocabulari castellonenc* de Germà Colón Domènech, que [va faltar ahir](https://www.vilaweb.cat/noticies/sha-mort-el-linguista-germa-colon-victima-de-la-covid-19/).
