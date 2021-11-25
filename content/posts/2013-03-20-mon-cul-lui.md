@@ -1,6 +1,6 @@
 +++
 url = "/2013/03/20/mon-cul-lui.html"
-title = "Mon cul, lui, est international"
+title = "Un cul internacional"
 date = "2013-03-20T23:00:00+00:00"
 slug = "mon-cul-lui"
 tags = ["citacions"]
