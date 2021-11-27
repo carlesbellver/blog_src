@@ -3,7 +3,7 @@ url = "/2017/11/29/hallan-en-burgos.html"
 title = ""
 date = "2017-11-29T08:52:00+00:00"
 slug = "hallan-en-burgos"
-tags = ["retalls"]
+tags = ["retalls", "citacions"]
 +++
 
 📎 [Hallan en Burgos un mensaje del siglo XVIII oculto en las nalgas de una talla de un Cristo](http://www.20minutos.es/noticia/3198679/0/burgos-mensaje-siglo-xviii-oculto-nalgas-talla-cristo/)
