@@ -8,7 +8,7 @@ photos = ["/uploads/2019/b92f7b4be3.jpg"]
 +++
 
 La famosa/infame ‘e’ d’Internet.<br>
-<i>The famous/infamous Internet ‘e’.</i>
+*The famous/infamous Internet ‘e’*.
 
 
 <img src="/uploads/2019/b92f7b4be3.jpg" width="600" height="337" alt="" />
