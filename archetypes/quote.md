@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "{{ .Date }}"
-tags = ["fotos"]
+tags = ["citacions"]
 photos = []
 slug = ""
 +++
