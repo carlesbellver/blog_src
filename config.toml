@@ -13,6 +13,7 @@ DefaultContentLanguage = "ca"
   website = "https://blog.carlesbellver.net"
   avatar =  "/uploads/avatar.jpg"
   description = ""
+  MastodonUser = "carlesbellver"
   TwitterUser = "carlesbellver"
   GitHubUser = "carlesbellver"
   paginationSinglePost = false

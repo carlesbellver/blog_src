@@ -15,7 +15,7 @@ Els primers apunts d'aquest blog són de [2002](/2002/09/29/joan-francesc-mira.h
 
 ## Contacte
 
-- [Email](mailto:carles@carlesbellver.net)
-- [Telegram](http://telegram.me/carlesbellver)
-- [Twitter](http://twitter.com/carlesbellver)
-- [Mastodon](https://mastodon.social/@carlesbellver)
+- <a rel="me" href="mailto:carles@carlesbellver.net">Email</a>
+- <a rel="me" href="https://telegram.me/carlesbellver">Telegram</a>
+- <a rel="me" href="https://twitter.com/carlesbellver">Twitter</a>
+- <a rel="me" href="https://mastodon.social/@carlesbellver">Mastodon</a>
