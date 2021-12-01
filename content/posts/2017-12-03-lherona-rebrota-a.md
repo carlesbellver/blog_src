@@ -9,4 +9,3 @@ tags = ["retalls"]
 📎 [L’heroïna rebrota a Barcelona… i ja mata](https://www.vilaweb.cat/noticies/lheroina-rebrota-a-barcelona-i-ja-mata/)
 
 Un problema global. Addicció als opiacis als EUA, competència de l’heroïna americana, baixada de preus i noves vies de distribució.
-
