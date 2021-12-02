@@ -8,4 +8,4 @@ tags = ["retalls"]
 
 📎 [Calvin & Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
 
-Full text search.
+Full text search. E. g., [time machine](http://michaelyingling.com/random/calvin_and_hobbes/search.php?phrase=time+machine).
