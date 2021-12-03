@@ -10,4 +10,4 @@ tags = ["retalls", "drogues"]
 					
 > Necessiten narcòtics els artistes, més fins i tot que la gent normal? Richard Davenport-Hines examina els hàbits dels autors.
 
-The Independent ens ofereix una breu introducció històrica a l’ús de les drogues pels escriptors: Wilkie Collins va escriure *La pedra lunar* sota els efectes del làudanum. W. H. Auden esmorzava amfetamines. Allen Ginsberg va veure Déu mentre es masturbava i va decidir potenciar aquest tipus d’experiències per mitjà de l’LSD. Que això millorés la seva ment o la seva poesia, opina l’autor de l’article, resulta dubtós.
+The Independent ens ofereix una breu introducció històrica a l’ús de les drogues pels escriptors. Wilkie Collins va escriure *La pedra lunar* sota els efectes del làudanum. W. H. Auden esmorzava amfetamines. Allen Ginsberg va veure Déu mentre es masturbava i va decidir potenciar aquest tipus d’experiències per mitjà de l’LSD. Que això millorés la seva ment o la seva poesia, opina l’autor de l’article, resulta dubtós.

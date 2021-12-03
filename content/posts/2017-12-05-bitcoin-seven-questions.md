@@ -13,6 +13,6 @@ tags = ["retalls"]
 >  3. Per què hauria d'usar Bitcoin?
 >  4. Com pot valdre cent cinquanta mil milions de dòlars?
 >  5. Com en puc aconseguir?
->  6. Com en bescanvio?
+>  6. Com els bescanvie?
 >  7. Es veritat que gasta tones d'energia?
 
