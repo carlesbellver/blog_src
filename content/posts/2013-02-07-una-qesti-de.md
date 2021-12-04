@@ -17,7 +17,7 @@ Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació
 
 > No ***li*** llegiran ton nom amb un bell pànic?
 
-No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom amb un bell pànic”? No sabria dir-ho. Aquesta consideració, però, no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d'aquest dilema, tampoc no volia citar-ne una versió incorrecta o apòcrifa, és clar.
+No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d'aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.
 
 Mentre hi rumiava, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la [fitxa](https://cataleg.uji.es/permalink/34CVA_UJI/j35epn/alma991003954729706336) del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.
 
