@@ -6,6 +6,41 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/12/04/37220/",
+				
+				"content_html": "<p>Veient la freqüència amb què s&rsquo;associen les vacunes al gènere oví (concretament a l&rsquo;espècie <em>Ovis aries</em>) m&rsquo;adone que Nietzsche tampoc hauria aprovat les campanyes d&rsquo;immunització. Resulta sorprenent amb quina facilitat certes persones es creuen <em>übermenschen</em>, tot i que de lluny no diries que ho semblen.</p>\n<p><a href=\"https://unsplash.com/photos/AJa7S1fjy-I\"><img alt=\"Quatre ovelles mirant la càmera\" src=\"/uploads/2021/2021-12-04-37220.jpg\"></a></p>\n",
+				"date_published": "2021-12-04T19:35:00+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/04/37220/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/11/29/97227/",
+				
+				"content_html": "<p>En companyia d&rsquo;ànecs.</p>\n<img src=\"/uploads/2021/2021-11-29-97227.jpg\" />",
+				"date_published": "2021-11-29T15:47:08+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/29/97227/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/11/27/paella/",
+				"title": "En el futur res serà paella 🥘",
+				"content_html": "<p>Per tal de preservar la puresa de la gastronomia valenciana, i previndre possibles desviacions, per minúscules que siguen o difícils de detectar, propose que no es puga considerar paella cap plat cuinat en cap local de restauració, domicili particular, a l’aire lliure, o enlloc.</p>\n",
+				"date_published": "2021-11-27T09:25:25+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/27/paella/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/11/25/53487/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators\">Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators</a></p>\n<blockquote>\n<p>El consum energètic de la mineria de Bitcoin a Suècia equival a hores d&rsquo;ara al de 200.000 llars… En una carta oberta, els directors dels principals reguladors financers i mediambientals suecs van demanar que es prohibís a tota l&rsquo;UE la mineria de criptomonedes basada en prova de treball, que Suècia impedís noves operacions de mineria criptogràfica i que les empreses que comercialitzen i inverteixen en actius criptogràfics no puguin descriure les seves activitats empresarials com a ambientalment sostenibles.</p>\n</blockquote>\n<p>📎 <a href=\"https://hardware.slashdot.org/story/21/11/19/210228/texas-plans-to-become-the-bitcoin-capital-vulnerable-power-grid-and-all\">Texas Plans To Become the Bitcoin Capital, Vulnerable Power Grid and All</a></p>\n<blockquote>\n<p>Texas, que ja alberga la xarxa elèctrica més vulnerable dels Estats Units, està a punt de patir un augment de la demanda d&rsquo;electricitat que seria el doble de la d&rsquo;Austin. Es preveu que un exèrcit de miners de criptomoneda, atrets per l&rsquo;energia barata i la regulació <em>laissez-faire</em>  d&rsquo;aquest estat, augmenti la demanda fins a 5.000 megawatts durant els propers dos anys.</p>\n</blockquote>\n",
+				"date_published": "2021-11-25T16:18:07+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/25/53487/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/",
+				
+				"content_html": "<p>📎 <a href=\"https://singularityhub.com/2021/11/21/evolution-tells-us-we-might-be-the-only-intelligent-life-in-the-universe/\">Evolution Tells Us We Might Be the Only Intelligent Life in the Universe</a></p>\n<blockquote>\n<p>Diferents <a href=\"https://ca.wikipedia.org/wiki/Eumetazous\">eumetazous</a> van desenvolupar solucions evolutives semblants davant de problemes semblants, però el disseny corporal complex que les fa possibles és únic. Els animals complexos van evolucionar una vegada en la història de la vida, la qual cosa suggereix que són improbables. Sorprenentment, molts esdeveniments crítics en la nostra història evolutiva són únics i, probablement, improbables.</p>\n</blockquote>\n",
+				"date_published": "2021-11-21T19:32:38+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/",
 				"title": "Recull bibliogràfic d’aquesta setmana",
 				"content_html": "<ol>\n<li>“L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats”</li>\n<li>“El concepte de <em>product ownership</em> com a estratègia de socialització del sofriment en la governança TI”</li>\n<li>“El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.”</li>\n<li>“Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal”</li>\n<li>“Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans”</li>\n<li>“De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”</li>\n</ol>\n<p>Selecció de comunicacions presentades en el Segon Congrés d&rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.</p>\n",
@@ -144,41 +179,6 @@
 				"content_html": "<p>📎 Óscar Alzaga: <a href=\"https://www.elconfidencial.com/espana/2021-09-26/oscar-alzaga-destruccion-archivos-policiales-franquismo_3296108/\">&ldquo;La destrucción de los archivos policiales del franquismo fue un disparate de Martín Villa y Suárez&rdquo;</a></p>\n<blockquote>\n<p>Mi impresión es que quienes vienen del franquismo y no de la oposición democrática están muy satisfechos con la falsa tesis que flota en nuestro país sobre que la democracia nos la donaron los últimos hombres del franquismo, a la muerte de su caudillo. Para poder sostener esta falacia quemaron millones de documentos policiales sobre la sistemática represión que durante más de treinta años se aplicó a la oposición democrática al franquismo, que con el apoyo importantísimo de las potencias europeas —que narro en este libro— fue cambiando la visión de nuestra población sobre qué tipo de vida pública debíamos gozar los españoles. A quien lea esta obra le van a quedar pocas dudas de que la labor de la oposición democrática fue determinante del final de un franquismo incompatible con ser uno de los estados de Derecho que integran la Unión Europa de la que felizmente somos miembros.</p>\n</blockquote>\n",
 				"date_published": "2021-09-26T18:15:00+02:00",
 				"url": "https://blog.carlesbellver.net/2021/09/26/oscar-alzaga/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/09/17/clive-sinclair/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81\">S&rsquo;ha mort Clive Sinclair</a>, inventor del ZX Spectrum amb què vaig aprendre a programar i amb què vaig guanyar els meus primers dinerets com a programador (ampliació del BASIC de l&rsquo;Spectrum, <em>Microhobby especial</em> núm. 4, octubre de 1986). I de l&rsquo;anterior ZX81 —MacGuffin i trava dels meus contes d'<a href=\"https://carlesbellver.net/contes/unicorns\">Unicorns</a>— entre més invents. DEP 😢</p>\n<img alt=\"\" src=\"/uploads/2021/2021-09-17-basic.jpg\">\n",
-				"date_published": "2021-09-17T09:30:00+02:00",
-				"url": "https://blog.carlesbellver.net/2021/09/17/clive-sinclair/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/09/15/asia/",
-				
-				"content_html": "<p>Àsia comença a l&rsquo;avinguda d&rsquo;Alcora.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-09-15-asia.jpg\">\n",
-				"date_published": "2021-09-15T19:14:39+02:00",
-				"url": "https://blog.carlesbellver.net/2021/09/15/asia/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/28/vacances/",
-				
-				"content_html": "<p>Les vacances.</p>\n<img alt=\"Passeig de l'Albereda. Morella\" src=\"/uploads/2021/2021-08-28-vacances.jpg\">\n",
-				"date_published": "2021-08-28T15:03:39+02:00",
-				"url": "https://blog.carlesbellver.net/2021/08/28/vacances/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/24/companys-de-viatge/",
-				
-				"content_html": "<p>Fan campanyes de foment de la lectura perquè volen <em>vendre</em> llibres. Però els molesta que la gent vulga escriure i sempre se n&rsquo;estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!</p>\n<blockquote>\n<p>Hi ha una pau meravellosa en no publicar.</p>\n</blockquote>\n<p>—<a href=\"/2018/04/17/the-new-york.html\">J. D. Salinger, 1974</a>.</p>\n",
-				"date_published": "2021-08-24T12:53:14+02:00",
-				"url": "https://blog.carlesbellver.net/2021/08/24/companys-de-viatge/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/23/wikipedia-gender-bias/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.cbc.ca/news/science/wikipedia-bias-1.6129073\">Canadian Nobel scientist&rsquo;s deletion from Wikipedia points to wider bias, study finds</a></p>\n<blockquote>\n<p>Un estudi de la sociòloga nord-americana Francesca Tripodi mostra que els editors voluntaris de la Wikipedia proposen l&rsquo;eliminació de pàgines referents a dones en una proporció superior a les pàgines sobre homes. Ha comprovat que les dones només representen el 19% de totes les pàgines, però sumen una quarta part de les recomanacions de supressió de pàgines.</p>\n<p>Un exemple ben conegut és el que va passar amb la científica canadenca Donna Strickland, que no apareixia a la Wikipedia immediatament després de guanyar el premi Nobel de física el 2018.</p>\n</blockquote>\n<p>El cas és que Strickland sí que havia tingut una pàgina a la Wikipedia, però havia estat esborrada. L&rsquo;explicació habitual en aquests casos és que els editors de la Wikipedia exigeixen que el tema sigui rellevant i que les dades es puguin verificar en publicacions independents i fiables: llibres i articles de premsa, per exemple. El problema, diuen, és que es troben menys publicacions sobre dones. El peix que es mossega la cua, doncs. Resulta, però, difícil de creure que algú no la considerés rellevant i que no hi haguessin prou referències disponibles, atès el currículum previ de <a href=\"https://en.wikipedia.org/wiki/Donna_Strickland\">Donna Strickland</a>.</p>\n<p>Potser el problema és que la gran majoria d&rsquo;editors de la Wikipedia són homes? Fins al 90% del total de col·laboradors, segons un informe de 2018. I segurament hi ha altres biaixos. Al cap i la fi, estem parlant de comunitats d&rsquo;editors, configurades de manera contingent i amb les típiques dinàmiques de grup i de <a href=\"https://en.wikipedia.org/wiki/Groupthink\">pensament de grup</a>.</p>\n",
-				"date_published": "2021-08-23T22:41:03+02:00",
-				"url": "https://blog.carlesbellver.net/2021/08/23/wikipedia-gender-bias/"
 			}
 	]
 }

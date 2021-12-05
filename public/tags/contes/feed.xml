@@ -6,10 +6,28 @@
     <description>La vista cansada (contes)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 06 Oct 2019 07:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 16:49:59 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/contes/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recull bibliogràfic d’aquesta setmana</title>
+      <link>https://blog.carlesbellver.net/2021/11/21/social-studies-computing/</link>
+      <pubDate>Sun, 21 Nov 2021 16:49:59 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/11/21/social-studies-computing/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;“L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats”&lt;/li&gt;
+&lt;li&gt;“El concepte de &lt;em&gt;product ownership&lt;/em&gt; com a estratègia de socialització del sofriment en la governança TI”&lt;/li&gt;
+&lt;li&gt;“El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.”&lt;/li&gt;
+&lt;li&gt;“Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal”&lt;/li&gt;
+&lt;li&gt;“Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans”&lt;/li&gt;
+&lt;li&gt;“De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Selecció de comunicacions presentades en el Segon Congrés d&amp;rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Nova edició 48K d&#39;Unicorns</title>

@@ -6,10 +6,20 @@
     <description>La vista cansada (fotos)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sat, 20 Nov 2021 08:30:25 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Nov 2021 15:47:08 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/11/29/97227/</link>
+      <pubDate>Mon, 29 Nov 2021 15:47:08 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/11/29/97227/</guid>
+      <description>&lt;p&gt;En companyia d&amp;rsquo;ànecs.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-29-97227.jpg&#34; /&gt;</description>
+    </item>
     
     <item>
       
@@ -404,7 +414,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       
       <guid>https://blog.carlesbellver.net/2020/03/23/jo-ja-era.html</guid>
       <description>&lt;p&gt;Jo ja era (una mica) keynesià fa trenta anys.&lt;/p&gt;
-&lt;p&gt;Dit d’una altra manera: &lt;a href=&#34;https://genius.com/Milton-friedman-letter-to-president-augusto-pinochet-annotated&#34; title=&#34;Milton Friedman – Letter to President Augusto Pinochet&#34;&gt;amb qui s’escrivia Milton Friedman&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Dit d’una altra manera: &lt;a href=&#34;https://genius.com/Milton-friedman-letter-to-president-augusto-pinochet-annotated&#34;&gt;amb qui s’escrivia Milton Friedman&lt;/a&gt;?&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/uploads/2020/6d30dfd080.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
@@ -726,7 +736,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       
       <guid>https://blog.carlesbellver.net/2019/04/02/la-famosainfame-e.html</guid>
       <description>&lt;p&gt;La famosa/infame ‘e’ d’Internet.&lt;br&gt;
-&lt;i&gt;The famous/infamous Internet ‘e’.&lt;/i&gt;&lt;/p&gt;
+&lt;em&gt;The famous/infamous Internet ‘e’&lt;/em&gt;.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/b92f7b4be3.jpg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
@@ -861,8 +871,8 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Wed, 28 Nov 2018 17:46:18 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/11/28/184618.html</guid>
-      <description>&lt;p&gt;Passeig de l&amp;rsquo;Albereda de Morella. Monument a &lt;a href=&#34;https://ca.wikipedia.org/wiki/Manuel_González_Mart%C3%AD&#34;&gt;Manuel González Martí&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
+      <description>&lt;p&gt;Passeig de l&amp;rsquo;Albereda de Morella. Monument a &lt;a href=&#34;https://ca.wikipedia.org/wiki/Manuel_Gonz%C3%A1lez_Mart%C3%AD&#34;&gt;Manuel González Martí&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg&#34; /&gt;
 </description>
     </item>
     
@@ -1506,7 +1516,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Sun, 03 Dec 2017 19:42:19 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2017/12/03/204219.html</guid>
-      <description>&lt;p&gt;La ferotge cavalleria de Nadal&lt;/p&gt;
+      <description>&lt;p&gt;La ferotge cavalleria de Nadal.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/12/f6015c5eef6443b0bcedbd8ca89520e0.jpg&#34; class=&#34;img-responsive&#34;&gt;
 </description>
     </item>
@@ -1517,7 +1527,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Thu, 30 Nov 2017 08:10:05 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2017/11/30/091005.html</guid>
-      <description>&lt;p&gt;Avui ha tornat a eixir el sol&lt;/p&gt;
+      <description>&lt;p&gt;Avui ha tornat a eixir el sol.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/11/89d6149443304aa5bb0cbec119770319.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
@@ -1528,7 +1538,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Sat, 25 Nov 2017 10:24:30 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2017/11/25/112430.html</guid>
-      <description>&lt;p&gt;Homunculus&lt;/p&gt;
+      <description>&lt;p&gt;La fórmula magistral de l&#39;&lt;a href=&#34;https://ca.wikipedia.org/wiki/Homuncle&#34;&gt;homuncle&lt;/a&gt;.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/11/92434b956e824f909cfe221f2c888545.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
@@ -1687,7 +1697,7 @@ estás del lado de la sombra.&lt;/p&gt;
       
       <guid>https://blog.carlesbellver.net/2017/07/09/204722.html</guid>
       <description>&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2017/07/hipstamaticphoto-521316635.960917-2.jpg&#34; alt=&#34;Església de Sant Agustí de Castelló de la Plana. Escut amb cor travessat per dues fletxes.&#34; /&gt;
-&lt;p&gt;Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines.&lt;/p&gt;
+&lt;p&gt;Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines (església de Sant Agustí de Castelló).&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Agustí va obrir les rescloses a través de les quals van afluir des de llavors al pensament europeu les energies masoquistes primàries… Es podria dir que, d&amp;rsquo;aquesta manera, Agustí va deslligar la filosofia de la seva antiga constitució maníaca i la va col·locar sota el patrocini de la depressió.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1823,10 +1833,10 @@ empelts.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;No &lt;em&gt;&lt;strong&gt;li&lt;/strong&gt;&lt;/em&gt; llegiran ton nom amb un bell pànic?&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? No sabria dir-ho. Aquesta consideració, però, no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I tampoc no volia citar-ne una versió incorrecta o apòcrifa, és clar.&lt;/p&gt;
-&lt;p&gt;Mentrestant, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la &lt;a href=&#34;https://cataleg.uji.es/permalink/34CVA_UJI/j35epn/alma991003954729706336&#34;&gt;fitxa&lt;/a&gt; del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.&lt;/p&gt;
+&lt;p&gt;No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d&amp;rsquo;aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.&lt;/p&gt;
+&lt;p&gt;Mentre hi rumiava, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la &lt;a href=&#34;https://cataleg.uji.es/permalink/34CVA_UJI/j35epn/alma991003954729706336&#34;&gt;fitxa&lt;/a&gt; del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.&lt;/p&gt;
 &lt;p&gt;La solució del problema, finalment, va arribar per un altre cantó, i era d’allò més fàcil: només calia comptar les síl·labes. “Criatura dolcíssima” són tot tercets decasíl·labs, menys, únicament —si fos amb “li”—, aquest verset de la discòrdia, que seria hendecasíl·lab. Per coherència mètrica, doncs, entenc que la versió bona era l’original, amb “hi”. D’altra banda, si fem la cerca amb &lt;a href=&#34;http://books.google.com/&#34;&gt;Google Books&lt;/a&gt;, podem comprovar que la versió amb “li” només apareix en l’edició de 1989 i en alguna antologia posterior. Pareix, doncs, que es tractaria d’una errata introduïda tan recentment i escampada en el Web pàgina a pàgina.&lt;/p&gt;
-&lt;p&gt;Per a acabar, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar aquesta conclusió i les raons mètriques i semàntiques que m’hi han portat.&lt;/p&gt;
+&lt;p&gt;Per a tancar aquest apunt, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar la meva conclusió i les raons mètriques i semàntiques que m’hi han portat.&lt;/p&gt;
 </description>
     </item>
     

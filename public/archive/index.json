@@ -6,10 +6,45 @@
 	"feed_url": "https://blog.carlesbellver.net/archive/index.json",
 	"items": [
 			{
+				"title": "",
+				"date_published": "2021-12-04T19:35:00+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/04/37220/",
+				"tags": "",
+				"content_text": "Veient la freqüència amb què s\u0026rsquo;associen les vacunes al gènere oví (concretament a l\u0026rsquo;espècie Ovis aries) m\u0026rsquo;adone que Nietzsche tampoc hauria aprovat les campanyes d\u0026rsquo;immunització. Resulta sorprenent amb quina facilitat certes persones es creuen übermenschen, tot i que de lluny no diries que ho semblen.\n\n"
+			},
+			{
+				"title": "",
+				"date_published": "2021-11-29T15:47:08+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/29/97227/",
+				"tags": "fotos, Castelló",
+				"content_text": "En companyia d\u0026rsquo;ànecs.\n"
+			},
+			{
+				"title": "En el futur res serà paella 🥘",
+				"date_published": "2021-11-27T09:25:25+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/27/paella/",
+				"tags": "",
+				"content_text": "Per tal de preservar la puresa de la gastronomia valenciana, i previndre possibles desviacions, per minúscules que siguen o difícils de detectar, propose que no es puga considerar paella cap plat cuinat en cap local de restauració, domicili particular, a l’aire lliure, o enlloc.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2021-11-25T16:18:07+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/25/53487/",
+				"tags": "retalls",
+				"content_text": "📎 Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators\n El consum energètic de la mineria de Bitcoin a Suècia equival a hores d\u0026rsquo;ara al de 200.000 llars… En una carta oberta, els directors dels principals reguladors financers i mediambientals suecs van demanar que es prohibís a tota l\u0026rsquo;UE la mineria de criptomonedes basada en prova de treball, que Suècia impedís noves operacions de mineria criptogràfica i que les empreses que comercialitzen i inverteixen en actius criptogràfics no puguin descriure les seves activitats empresarials com a ambientalment sostenibles.\n 📎 Texas Plans To Become the Bitcoin Capital, Vulnerable Power Grid and All\n Texas, que ja alberga la xarxa elèctrica més vulnerable dels Estats Units, està a punt de patir un augment de la demanda d\u0026rsquo;electricitat que seria el doble de la d\u0026rsquo;Austin. Es preveu que un exèrcit de miners de criptomoneda, atrets per l\u0026rsquo;energia barata i la regulació laissez-faire d\u0026rsquo;aquest estat, augmenti la demanda fins a 5.000 megawatts durant els propers dos anys.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2021-11-21T19:32:38+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/",
+				"tags": "retalls",
+				"content_text": "📎 Evolution Tells Us We Might Be the Only Intelligent Life in the Universe\n Diferents eumetazous van desenvolupar solucions evolutives semblants davant de problemes semblants, però el disseny corporal complex que les fa possibles és únic. Els animals complexos van evolucionar una vegada en la història de la vida, la qual cosa suggereix que són improbables. Sorprenentment, molts esdeveniments crítics en la nostra història evolutiva són únics i, probablement, improbables.\n "
+			},
+			{
 				"title": "Recull bibliogràfic d’aquesta setmana",
 				"date_published": "2021-11-21T16:49:59+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/",
-				"tags": "",
+				"tags": "contes",
 				"content_text": " “L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats” “El concepte de product ownership com a estratègia de socialització del sofriment en la governança TI” “El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.” “Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal” “Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans” “De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”  Selecció de comunicacions presentades en el Segon Congrés d\u0026rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.\n"
 			},
 			{
@@ -1248,7 +1283,7 @@
 				"title": "",
 				"date_published": "2019-12-01T08:50:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/12/01/diu-john-fowles.html",
-				"tags": "citacions",
+				"tags": "",
 				"content_text": "Diu John Fowles, en el pròleg de l’edició revisada de The Magus, que es pot rebutjar la tirania de l\u0026rsquo;adolescent que portem dins, però que el preu serà no poder continuar escrivint.\n La resta del món pot censurar i soterrar el seu passat privat.\n "
 			},
 			{
@@ -1256,7 +1291,7 @@
 				"date_published": "2019-11-30T12:46:33+00:00",
 				"url": "https://blog.carlesbellver.net/2019/11/30/a-tool-that.html",
 				"tags": "retalls",
-				"content_text": "📎 Who Can Use. Simulació: com funcionaria cada combinació de colors amb les dificultats visuals més comunes?\n"
+				"content_text": "📎 Who Can Use\nSimulació: com funcionaria cada combinació de colors amb les dificultats visuals més comunes?\n"
 			},
 			{
 				"title": "",
@@ -3342,14 +3377,14 @@
 				"date_published": "2018-12-05T22:46:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/05/blockchain-study-finds.html",
 				"tags": "retalls",
-				"content_text": "📎 Blockchain study finds 0.00% success rate and vendors don\u0026rsquo;t call back when asked for evidence\n Hem documentat quaranta-tres casos d\u0026rsquo;ús de cadenes de blocs… Hem trobat una proliferació de comunicats de premsa, white papers i articles escrits amb estil persuasiu. Però no hem trobat documentació, ni proves dels resultats que se suposava que s\u0026rsquo;obtenien amb les cadenes de blocs. Tampoc hem trobat les lliçons apreses o els coneixements pràctics que sí que estan disponibles per a altres tecnologies en desenvolupament.\n Mentrestant, com en tota bombolla, els intermediaris intenten fer caixa: per 10.000 €, Fujitsu et dirà si és bona idea utilitzar blockchain en el teu projecte.\n"
+				"content_text": "📎 Blockchain study finds 0.00% success rate and vendors don\u0026rsquo;t call back when asked for evidence\n Hem documentat quaranta-tres casos d\u0026rsquo;ús de cadenes de blocs… Hem trobat una proliferació de comunicats de premsa, white papers i articles escrits amb estil persuasiu. Però no hem trobat documentació, ni proves dels resultats que se suposava que s\u0026rsquo;obtenien amb les cadenes de blocs. Tampoc hem trobat les lliçons apreses o els coneixements pràctics que sí que estan disponibles per a altres tecnologies en desenvolupament.\n Mentrestant, com en tota bombolla, els intermediaris intenten fer caixa: per 10.000 €, Fujitsu et dirà si és bona idea utilitzar blockchain en el teu projecte (resposta ràpida i gratuïta: molt probablement, no).\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-12-05T20:23:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/05/facebook-gave-some.html",
 				"tags": "retalls",
-				"content_text": "📎 Facebook Gave Some Companies Special Access to Users’ Data, Documents Show\nContinua el degoteig d’informació sobre els documents interns de Facebook (PDF, 250 pàgines) requisats pel parlament britànic. ”Com qualsevol negoci, vam tenir moltes converses internes sobre les diferents maneres en què podríem construir un model de negoci sostenible per a la nostra plataforma.” D’ací deu venir el problema: van crear una empresa (no una organització sense ànim de lucre com la Wikipedia o l’Internet Archive) sense cap model de negoci, i aquesta contradicció va generar els monstres que ara van eixint a la llum.\n"
+				"content_text": "📎 Facebook Gave Some Companies Special Access to Users’ Data, Documents Show\nContinua el degoteig d’informació sobre els documents interns de Facebook (PDF, 250 pàgines) requisats pel parlament britànic. ”Com en qualsevol empresa, vam tenir moltes converses internes sobre les diferents maneres en què podríem construir un model de negoci sostenible per a la nostra plataforma.” D’ací deu venir el problema: van crear una empresa (no una organització sense ànim de lucre com la Wikipedia o l’Internet Archive) sense cap model de negoci, i aquesta contradicció va generar els monstres que ara van eixint a la llum.\n"
 			},
 			{
 				"title": "Rue d’Auseil",
@@ -3384,7 +3419,7 @@
 				"date_published": "2018-12-03T12:48:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/03/nigerias-buhari-denies.html",
 				"tags": "retalls",
-				"content_text": "📎 Nigeria\u0026rsquo;s Buhari denies dying and being replaced by lookalike\nEl president d\u0026rsquo;un país desapareix durant mesos, per una malaltia no especificada, i posteriorment reapareix negant que sigui un impostor. El secretisme de les altes esferes s\u0026rsquo;enreda amb l\u0026rsquo;afecció a crear o a creure en conspiracions. Els casos de suplantació de la personalitat, real o imaginada, els dubtes sobre la identitat, pròpia o aliena, resulten fascinants. Desvetlen la imaginació filosòfica i literària.\n"
+				"content_text": "📎 Nigeria\u0026rsquo;s Buhari denies dying and being replaced by lookalike\nEl president d\u0026rsquo;un país desapareix durant mesos, per una malaltia no especificada, i posteriorment reapareix negant que sigui un impostor. El secretisme de les altes esferes s\u0026rsquo;enreda amb l\u0026rsquo;afecció a empescar-se conspiracions o a creure-hi. Els casos de suplantació de la personalitat, reals o ficticis, els dubtes sobre la identitat, pròpia o aliena, resulten fascinants. Desvetlen la imaginació filosòfica i literària.\n"
 			},
 			{
 				"title": "Das Schnurren",
@@ -3426,7 +3461,7 @@
 				"date_published": "2018-11-29T14:31:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/29/a-very-concise.html",
 				"tags": "retalls",
-				"content_text": "📎 A (very) Concise Creative History of Computers\nDe les cartes d\u0026rsquo;amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en Westworld (1973). Amb unes reflexions finals sobre l'arqueologia digital:\n La història de la primera pàgina web és típica: publicada originalment l\u0026rsquo;agost de 1991, es va sobreescriure contínuament fins a març de 1992. Mentre que es coneixen quaranta-vuit còpies de la Bíblia de Gutenberg, impreses fa més de cinc-cents anys, no ha sobreviscut cap mostra de la primera pàgina web, ni tan sols una captura de pantalla [\u0026hellip;] Fins i tot quan s\u0026rsquo;han conservat el codi i els gràfics d\u0026rsquo;algun dels primers videojocs, aquests ja no es poden veure en el seu entorn original. Els arcaics ordinadors centrals i les primeres consoles ja no es poden fer funcionar. Aquí podem fer una distinció entre arqueologia i arxivística: l\u0026rsquo;arqueologia considera el problema de la visualització. Un llibre es mostra per ell mateix, però els gràfics d\u0026rsquo;ordinador, els videojocs i els llocs web són invisibles sense el programari i el maquinari adequats.\n "
+				"content_text": "📎 A (very) Concise Creative History of Computers\nDe les cartes d\u0026rsquo;amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en Westworld (1973). Amb unes reflexions finals sobre l\u0026rsquo;arqueologia digital:\n La història de la primera pàgina web és típica: publicada originalment l\u0026rsquo;agost de 1991, es va sobreescriure contínuament fins a març de 1992. Mentre que es coneixen quaranta-vuit còpies de la Bíblia de Gutenberg, impreses fa més de cinc-cents anys, no ha sobreviscut cap mostra de la primera pàgina web, ni tan sols una captura de pantalla […] Fins i tot quan s\u0026rsquo;han conservat el codi i els gràfics d\u0026rsquo;algun dels primers videojocs, aquests ja no es poden veure en el seu entorn original. Els arcaics ordinadors centrals i les primeres consoles ja no es poden fer funcionar. Aquí podem fer una distinció entre arqueologia i arxivística: l\u0026rsquo;arqueologia considera el problema de la visualització. Un llibre es mostra per ell mateix, però els gràfics d\u0026rsquo;ordinador, els videojocs i els llocs web són invisibles sense el programari i el maquinari adequats.\n "
 			},
 			{
 				"title": "",
@@ -6779,14 +6814,14 @@
 				"date_published": "2017-12-05T08:51:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/05/bitcoin-seven-questions.html",
 				"tags": "retalls",
-				"content_text": "📎 Bitcoin: Seven questions you were too embarrassed to ask\n  Què és un bitcoin? Com ha esdevingut tan valuós? Per què hauria d\u0026rsquo;usar Bitcoin? Com pot valdre cent cinquanta mil milions de dòlars? Com en puc aconseguir? Com en bescanvio? Es veritat que gasta tones d\u0026rsquo;energia?   "
+				"content_text": "📎 Bitcoin: Seven questions you were too embarrassed to ask\n  Què és un bitcoin? Com ha esdevingut tan valuós? Per què hauria d\u0026rsquo;usar Bitcoin? Com pot valdre cent cinquanta mil milions de dòlars? Com en puc aconseguir? Com els bescanvie? Es veritat que gasta tones d\u0026rsquo;energia?   "
 			},
 			{
 				"title": "",
 				"date_published": "2017-12-04T09:21:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/04/calvin-hobbes-search.html",
 				"tags": "retalls",
-				"content_text": "📎 Calvin \u0026amp; Hobbes Search Engine\nFull text search.\n"
+				"content_text": "📎 Calvin \u0026amp; Hobbes Search Engine\nFull text search. E. g., time machine.\n"
 			},
 			{
 				"title": "",
@@ -6800,7 +6835,7 @@
 				"date_published": "2017-12-03T19:42:19+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/03/204219.html",
 				"tags": "fotos",
-				"content_text": "La ferotge cavalleria de Nadal\n"
+				"content_text": "La ferotge cavalleria de Nadal.\n"
 			},
 			{
 				"title": "",
@@ -6813,8 +6848,8 @@
 				"title": "",
 				"date_published": "2017-12-02T14:34:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/02/153400.html",
-				"tags": "",
-				"content_text": "El powerpoint com a unitat de mesura del desvergonyiment: El Ayuntamiento de València pagó a Laterne 145.000 euros por un \u0026lsquo;power point\u0026rsquo; de 10 hojas.\n"
+				"tags": "retalls",
+				"content_text": "El powerpoint com a unitat de mesura del desvergonyiment.\n📎 El Ayuntamiento de València pagó a Laterne 145.000 euros por un \u0026lsquo;power point\u0026rsquo; de 10 hojas\n"
 			},
 			{
 				"title": "",
@@ -6835,20 +6870,20 @@
 				"date_published": "2017-11-30T09:29:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/11/30/one-of-the.html",
 				"tags": "retalls",
-				"content_text": "📎 One of the net\u0026rsquo;s most important freedom canaries died the day the W3C greenlit web-wide DRM\n People who want DRM say that they\u0026rsquo;re just trying to protect their copyrights, but it\u0026rsquo;s obvious to anyone who knows even a little about computer science that DRM is effectively useless for this purpose. But DRM laws allow companies to shut down (and even jail) anyone who breaks DRM for any reason […]\n "
+				"content_text": "📎 One of the net\u0026rsquo;s most important freedom canaries died the day the W3C greenlit web-wide DRM\n La gent a favor del DRM diu que només intenta protegir els seus drets de propietat intel·lectual, però resulta obvi, per a qualsevol persona que entengui només una mica d\u0026rsquo;informàtica, que el DRM és totalment inútil en aquest respecte. Tanmateix, les lleis sobre DRM permeten a les empreses aturar (fins i tot enviar a la presó) a qui per alguna raó viola el DRM…\n "
 			},
 			{
 				"title": "",
 				"date_published": "2017-11-30T08:10:05+00:00",
 				"url": "https://blog.carlesbellver.net/2017/11/30/091005.html",
-				"tags": "fotos",
-				"content_text": "Avui ha tornat a eixir el sol\n"
+				"tags": "fotos, UJI",
+				"content_text": "Avui ha tornat a eixir el sol.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2017-11-29T08:52:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/11/29/hallan-en-burgos.html",
-				"tags": "retalls",
+				"tags": "retalls, citacions",
 				"content_text": "📎 Hallan en Burgos un mensaje del siglo XVIII oculto en las nalgas de una talla de un Cristo\n La Corte está en Madrid. Hay Correo y Gaceta para las noticias. Hay Inquisición, por lo cual no se experimentan errores contra la iglesia de Dios. Se contratan en funciones grandes toreros famosos de Salamanca.\n "
 			},
 			{
@@ -6884,7 +6919,7 @@
 				"date_published": "2017-11-25T10:24:30+00:00",
 				"url": "https://blog.carlesbellver.net/2017/11/25/112430.html",
 				"tags": "fotos",
-				"content_text": "Homunculus\n"
+				"content_text": "La fórmula magistral de l'homuncle.\n"
 			},
 			{
 				"title": "",
@@ -7492,8 +7527,8 @@
 				"title": "",
 				"date_published": "2017-07-09T19:47:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/07/09/204722.html",
-				"tags": "fotos",
-				"content_text": "Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines.\n Agustí va obrir les rescloses a través de les quals van afluir des de llavors al pensament europeu les energies masoquistes primàries… Es podria dir que, d\u0026rsquo;aquesta manera, Agustí va deslligar la filosofia de la seva antiga constitució maníaca i la va col·locar sota el patrocini de la depressió.\n —Peter Sloterdijk, Temperaments filosòfics.\n"
+				"tags": "fotos, Castelló",
+				"content_text": "Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines (església de Sant Agustí de Castelló).\n Agustí va obrir les rescloses a través de les quals van afluir des de llavors al pensament europeu les energies masoquistes primàries… Es podria dir que, d\u0026rsquo;aquesta manera, Agustí va deslligar la filosofia de la seva antiga constitució maníaca i la va col·locar sota el patrocini de la depressió.\n —Peter Sloterdijk, Temperaments filosòfics.\n"
 			},
 			{
 				"title": "",
@@ -8409,8 +8444,8 @@
 				"title": "If you want to get laid, go to college (Frank Zappa?)",
 				"date_published": "2014-01-23T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2014/01/23/if-you-want.html",
-				"tags": "retalls, citacions",
-				"content_text": " If you want to get laid, go to college; if you want an education, go to the library.\n Citació atribuïda a Frank Zappa. Via @ainhoaeus.\n“Si vols follar, vés a la universitat; si vols educació, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.\n\n"
+				"tags": "retalls, citacions, educació",
+				"content_text": " If you want to get laid, go to college; if you want an education, go to the library.\n Citació atribuïda a Frank Zappa. Via @ainhoaeus.\n“Si vols follar, vés a la universitat; si vols educar-te, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt, continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.\n\n"
 			},
 			{
 				"title": "Gestionar la qualitat?",
@@ -8630,7 +8665,7 @@
 				"content_text": " Una manera de minar els monopolis dels mitjans de comunicació social és negar-se a contribuir a l’economia comunicativa en què es basen: no generar senyals explotables, romandre en silenci, i preguntar-se com es podria desenvolupar això com a resposta en comú […] Tenint això en compte, aquest article es demana si es podria generar una política mediàtica basada en les potencialitats del silenci, de parlar en llengües, i de confiar en els recursos del llenguatge metafòric, en lloc d’aprendre a parlar o escriure de maneres més susceptibles de codificar.\n 📎 Caroline Bassett, Silence, delirium, lies?\n"
 			},
 			{
-				"title": "Mon cul, lui, est international",
+				"title": "Un cul internacional",
 				"date_published": "2013-03-20T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2013/03/20/mon-cul-lui.html",
 				"tags": "citacions",
@@ -8661,8 +8696,8 @@
 				"title": "Una qüestió de mètrica",
 				"date_published": "2013-02-07T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2013/02/07/una-qesti-de.html",
-				"tags": "fotos",
-				"content_text": "\nHeus ací la citació amb què he volgut encapçalar el meu nou llibre. Un cèlebre vers del cèlebre poema de Joan Fuster “Criatura dolcíssima” (Escrit per al silenci, 1954):\n No hi llegiran ton nom amb un bell pànic?\n Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació que en va fer Lluís Llach (Somniem, 1979; Poetes, 2004). I heus ací on em sorgia el dubte, perquè, en la versió de Llach, el vers figura exactament tal com jo l’acabe de transcriure, però en l’edició del llibre de Fuster de què dispose (dins Set llibres de versos, 1989), i en moltes pàgines web (com l’adés enllaçada), s’observa una no tan petita variació:\n No li llegiran ton nom amb un bell pànic?\n No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? No sabria dir-ho. Aquesta consideració, però, no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I tampoc no volia citar-ne una versió incorrecta o apòcrifa, és clar.\nMentrestant, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la fitxa del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.\nLa solució del problema, finalment, va arribar per un altre cantó, i era d’allò més fàcil: només calia comptar les síl·labes. “Criatura dolcíssima” són tot tercets decasíl·labs, menys, únicament —si fos amb “li”—, aquest verset de la discòrdia, que seria hendecasíl·lab. Per coherència mètrica, doncs, entenc que la versió bona era l’original, amb “hi”. D’altra banda, si fem la cerca amb Google Books, podem comprovar que la versió amb “li” només apareix en l’edició de 1989 i en alguna antologia posterior. Pareix, doncs, que es tractaria d’una errata introduïda tan recentment i escampada en el Web pàgina a pàgina.\nPer a acabar, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar aquesta conclusió i les raons mètriques i semàntiques que m’hi han portat.\n"
+				"tags": "fotos, citacions",
+				"content_text": "\nHeus ací la citació amb què he volgut encapçalar el meu nou llibre. Un cèlebre vers del cèlebre poema de Joan Fuster “Criatura dolcíssima” (Escrit per al silenci, 1954):\n No hi llegiran ton nom amb un bell pànic?\n Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació que en va fer Lluís Llach (Somniem, 1979; Poetes, 2004). I heus ací on em sorgia el dubte, perquè, en la versió de Llach, el vers figura exactament tal com jo l’acabe de transcriure, però en l’edició del llibre de Fuster de què dispose (dins Set llibres de versos, 1989), i en moltes pàgines web (com l’adés enllaçada), s’observa una no tan petita variació:\n No li llegiran ton nom amb un bell pànic?\n No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d\u0026rsquo;aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.\nMentre hi rumiava, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la fitxa del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.\nLa solució del problema, finalment, va arribar per un altre cantó, i era d’allò més fàcil: només calia comptar les síl·labes. “Criatura dolcíssima” són tot tercets decasíl·labs, menys, únicament —si fos amb “li”—, aquest verset de la discòrdia, que seria hendecasíl·lab. Per coherència mètrica, doncs, entenc que la versió bona era l’original, amb “hi”. D’altra banda, si fem la cerca amb Google Books, podem comprovar que la versió amb “li” només apareix en l’edició de 1989 i en alguna antologia posterior. Pareix, doncs, que es tractaria d’una errata introduïda tan recentment i escampada en el Web pàgina a pàgina.\nPer a tancar aquest apunt, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar la meva conclusió i les raons mètriques i semàntiques que m’hi han portat.\n"
 			},
 			{
 				"title": "",
@@ -9677,7 +9712,7 @@
 				"date_published": "2003-12-05T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2003/12/05/sorted-for-ease.html",
 				"tags": "retalls, drogues",
-				"content_text": "📎 Sorted for ease of scribbling\n Necessiten narcòtics els artistes, més fins i tot que la gent normal? Richard Davenport-Hines examina els hàbits dels autors.\n The Independent ens ofereix una breu introducció històrica a l’ús de les drogues pels escriptors: Wilkie Collins va escriure La pedra lunar sota els efectes del làudanum. W. H. Auden esmorzava amfetamines. Allen Ginsberg va veure Déu mentre es masturbava i va decidir potenciar aquest tipus d’experiències per mitjà de l’LSD. Que això millorés la seva ment o la seva poesia, opina l’autor de l’article, resulta dubtós.\n"
+				"content_text": "📎 Sorted for ease of scribbling\n Necessiten narcòtics els artistes, més fins i tot que la gent normal? Richard Davenport-Hines examina els hàbits dels autors.\n The Independent ens ofereix una breu introducció històrica a l’ús de les drogues pels escriptors. Wilkie Collins va escriure La pedra lunar sota els efectes del làudanum. W. H. Auden esmorzava amfetamines. Allen Ginsberg va veure Déu mentre es masturbava i va decidir potenciar aquest tipus d’experiències per mitjà de l’LSD. Que això millorés la seva ment o la seva poesia, opina l’autor de l’article, resulta dubtós.\n"
 			},
 			{
 				"title": "L'home esventat, o una escletxa en el temps",

@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.carlesbellver.net/2021/12/04/37220/</loc>
+    <lastmod>2021-12-04T19:35:00+01:00</lastmod>
+  </url><url>
     <loc>https://blog.carlesbellver.net/</loc>
-    <lastmod>2021-11-21T16:49:59+01:00</lastmod>
+    <lastmod>2021-12-04T19:35:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/posts/</loc>
+    <lastmod>2021-12-04T19:35:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2021/11/29/97227/</loc>
+    <lastmod>2021-11-29T15:47:08+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/castell%C3%B3/</loc>
+    <lastmod>2021-11-29T15:47:08+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/fotos/</loc>
+    <lastmod>2021-11-29T15:47:08+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/</loc>
+    <lastmod>2021-11-29T15:47:08+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2021/11/27/paella/</loc>
+    <lastmod>2021-11-27T09:25:25+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2021/11/25/53487/</loc>
+    <lastmod>2021-11-25T16:18:07+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/retalls/</loc>
+    <lastmod>2021-11-25T16:18:07+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/</loc>
+    <lastmod>2021-11-21T19:32:38+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/contes/</loc>
     <lastmod>2021-11-21T16:49:59+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2021/11/21/social-studies-computing/</loc>
@@ -14,19 +44,7 @@
     <loc>https://blog.carlesbellver.net/2021/11/20/dogphone/</loc>
     <lastmod>2021-11-20T12:34:01+01:00</lastmod>
   </url><url>
-    <loc>https://blog.carlesbellver.net/tags/retalls/</loc>
-    <lastmod>2021-11-20T12:34:01+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/</loc>
-    <lastmod>2021-11-20T12:34:01+01:00</lastmod>
-  </url><url>
     <loc>https://blog.carlesbellver.net/2021/11/20/bon-dia/</loc>
-    <lastmod>2021-11-20T08:30:25+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/castell%C3%B3/</loc>
-    <lastmod>2021-11-20T08:30:25+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/fotos/</loc>
     <lastmod>2021-11-20T08:30:25+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2021/11/13/confinament/</loc>
@@ -691,9 +709,6 @@
   </url><url>
     <loc>https://blog.carlesbellver.net/2019/10/07/new-in-calibre.html</loc>
     <lastmod>2019-10-07T07:57:44+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/contes/</loc>
-    <lastmod>2019-10-06T07:06:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2019/10/06/nova-edici-k.html</loc>
     <lastmod>2019-10-06T07:06:00+00:00</lastmod>
