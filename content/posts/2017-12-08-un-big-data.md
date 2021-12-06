@@ -8,4 +8,4 @@ tags = ["retalls"]
 
 📎 [Un big data contra el cerdismo dominguero](https://www.yorokobu.es/cerdismo-dominguero/)
 
-> La única forma es decirlo en plata. Hablando de mierda.
+> Para batallar la generación de residuos en la naturaleza, esta iniciativa se ha servido de tres ejes. El primero es quizás el más novedoso: durante tres semanas al año, ‘Libera’ anima a diferentes colectivos a que recojan basura de playas, mares y montes con el objetivo de crear un big data sobre *littering* (abandono de residuos).
