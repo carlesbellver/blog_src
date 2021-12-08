@@ -373,8 +373,8 @@ article header h1 a {
 
 .post-info {
     color: var(--post-info-color);
-    font-size: 0.9em;
-    margin-top: 2em;
+    font-size: 0.8em;
+    margin: 1em 0 0;
 }
 
 .post-info a {
@@ -383,11 +383,6 @@ article header h1 a {
 
 .post-info a:hover {
     color: var(--link-state-color);
-}
-
-.post-short-list .post-info {
-    margin-top: 0;
-    margin-bottom: 1.5em;
 }
 
 .post-taxonomies {
