@@ -137,12 +137,8 @@ pre {
 code,
 pre,
 kbd {
-    margin: 0;
-    background-color: #fff;
-    padding: 0.05em;
     font-family: "Ubuntu Mono", Monaco, Menlo, monospace;
     font-size: 0.9em;
-    color: #993333;
 }
 
 /* Lists */
