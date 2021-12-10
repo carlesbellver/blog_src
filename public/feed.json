@@ -6,9 +6,23 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/12/07/peritext/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.inkandswitch.com/peritext/\">Peritext: A CRDT for Rich-Text Collaboration</a></p>\n<p>Un algorisme per a l&rsquo;edició col·laborativa <em>asíncrona</em> de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&rsquo;edició síncrona). <a href=\"https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type\">CRDT</a> = Conflict-free Replicated Data Type.</p>\n<blockquote>\n<p>Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&rsquo;ús.</p>\n</blockquote>\n",
+				"date_published": "2021-12-07T19:00:44+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/07/peritext/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/12/05/web3/",
+				
+				"content_html": "<p>📎 <a href=\"https://yesterweb.org/no-to-web3/\">Keep the Web Free, Say No to Web3</a></p>\n<p>Una nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?</p>\n",
+				"date_published": "2021-12-05T17:55:03+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/05/web3/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/12/04/37220/",
 				
-				"content_html": "<p>Veient la freqüència amb què s&rsquo;associen les vacunes al gènere oví (concretament a l&rsquo;espècie <em>Ovis aries</em>) m&rsquo;adone que Nietzsche tampoc hauria aprovat les campanyes d&rsquo;immunització. Resulta sorprenent amb quina facilitat certes persones es creuen <em>übermenschen</em>, tot i que de lluny no diries que ho semblen.</p>\n<p><a href=\"https://unsplash.com/photos/AJa7S1fjy-I\"><img alt=\"Quatre ovelles mirant la càmera\" src=\"/uploads/2021/2021-12-04-37220.jpg\"></a></p>\n",
+				"content_html": "<p>Veient la freqüència amb què s&rsquo;associen les vacunes al gènere oví (concretament a l&rsquo;espècie <em>Ovis aries</em>) m&rsquo;adone que Nietzsche tampoc hauria aprovat les campanyes d&rsquo;immunització. Resulta sorprenent amb quina facilitat certes persones es creuen <em>übermenschen</em>, tot i que de lluny no diries que ho semblen.</p>\n<p><a href=\"https://unsplash.com/photos/AJa7S1fjy-I\" title=\"Photo by Judith Prins on Unsplash\"><img alt=\"Quatre ovelles mirant la càmera\" src=\"/uploads/2021/2021-12-04-37220.jpg\"></a></p>\n",
 				"date_published": "2021-12-04T19:35:00+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/04/37220/"
 			},
@@ -165,20 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/cultura/nobel-literatura-no-mejor-escritor-mundo_1_8374262.html\">¿Por qué (casi) nunca conocemos al Nobel de Literatura?</a></p>\n<blockquote>\n<p>…según reveló en 2018 el periódico sueco Svenska Dagbladet al desclasificar un informe de Academia realizado en la etapa en la que Borges fue nominado varias veces, el presidente del Comité del premio, Anders Osterling, rechazó a Borges porque resultaba &ldquo;demasiado exclusivo o artificial en su ingenioso arte en miniatura&rdquo;.</p>\n</blockquote>\n",
 				"date_published": "2021-10-10T10:41:31+02:00",
 				"url": "https://blog.carlesbellver.net/2021/10/10/nobel-borges/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/07/cavall/",
-				
-				"content_html": "<p>La cavalleria de l'#UJI.</p>\n<img alt=\"Escultura d'un cavall al Jardí dels Sentits de l'UJI\" src=\"/uploads/2021/2021-10-07-cavall.jpg\">\n",
-				"date_published": "2021-10-07T20:19:36+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/07/cavall/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/09/26/oscar-alzaga/",
-				
-				"content_html": "<p>📎 Óscar Alzaga: <a href=\"https://www.elconfidencial.com/espana/2021-09-26/oscar-alzaga-destruccion-archivos-policiales-franquismo_3296108/\">&ldquo;La destrucción de los archivos policiales del franquismo fue un disparate de Martín Villa y Suárez&rdquo;</a></p>\n<blockquote>\n<p>Mi impresión es que quienes vienen del franquismo y no de la oposición democrática están muy satisfechos con la falsa tesis que flota en nuestro país sobre que la democracia nos la donaron los últimos hombres del franquismo, a la muerte de su caudillo. Para poder sostener esta falacia quemaron millones de documentos policiales sobre la sistemática represión que durante más de treinta años se aplicó a la oposición democrática al franquismo, que con el apoyo importantísimo de las potencias europeas —que narro en este libro— fue cambiando la visión de nuestra población sobre qué tipo de vida pública debíamos gozar los españoles. A quien lea esta obra le van a quedar pocas dudas de que la labor de la oposición democrática fue determinante del final de un franquismo incompatible con ser uno de los estados de Derecho que integran la Unión Europa de la que felizmente somos miembros.</p>\n</blockquote>\n",
-				"date_published": "2021-09-26T18:15:00+02:00",
-				"url": "https://blog.carlesbellver.net/2021/09/26/oscar-alzaga/"
 			}
 	]
 }

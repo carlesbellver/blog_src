@@ -6,8 +6,31 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 04 Dec 2021 19:35:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 19:00:44 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/12/07/peritext/</link>
+      <pubDate>Tue, 07 Dec 2021 19:00:44 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/12/07/peritext/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.inkandswitch.com/peritext/&#34;&gt;Peritext: A CRDT for Rich-Text Collaboration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un algorisme per a l&amp;rsquo;edició col·laborativa &lt;em&gt;asíncrona&lt;/em&gt; de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&amp;rsquo;edició síncrona). &lt;a href=&#34;https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type&#34;&gt;CRDT&lt;/a&gt; = Conflict-free Replicated Data Type.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&amp;rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&amp;rsquo;ús.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/12/05/web3/</link>
+      <pubDate>Sun, 05 Dec 2021 17:55:03 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/12/05/web3/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://yesterweb.org/no-to-web3/&#34;&gt;Keep the Web Free, Say No to Web3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Una nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -15,7 +38,7 @@
       <pubDate>Sat, 04 Dec 2021 19:35:00 +0100</pubDate>
       <guid>https://blog.carlesbellver.net/2021/12/04/37220/</guid>
       <description>&lt;p&gt;Veient la freqüència amb què s&amp;rsquo;associen les vacunes al gènere oví (concretament a l&amp;rsquo;espècie &lt;em&gt;Ovis aries&lt;/em&gt;) m&amp;rsquo;adone que Nietzsche tampoc hauria aprovat les campanyes d&amp;rsquo;immunització. Resulta sorprenent amb quina facilitat certes persones es creuen &lt;em&gt;übermenschen&lt;/em&gt;, tot i que de lluny no diries que ho semblen.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/AJa7S1fjy-I&#34;&gt;&lt;img alt=&#34;Quatre ovelles mirant la càmera&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-12-04-37220.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/AJa7S1fjy-I&#34; title=&#34;Photo by Judith Prins on Unsplash&#34;&gt;&lt;img alt=&#34;Quatre ovelles mirant la càmera&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-12-04-37220.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -277,28 +300,6 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.eldiario.es/cultura/nobel-literatura-no-mejor-escritor-mundo_1_8374262.html&#34;&gt;¿Por qué (casi) nunca conocemos al Nobel de Literatura?&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;…según reveló en 2018 el periódico sueco Svenska Dagbladet al desclasificar un informe de Academia realizado en la etapa en la que Borges fue nominado varias veces, el presidente del Comité del premio, Anders Osterling, rechazó a Borges porque resultaba &amp;ldquo;demasiado exclusivo o artificial en su ingenioso arte en miniatura&amp;rdquo;.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/10/07/cavall/</link>
-      <pubDate>Thu, 07 Oct 2021 20:19:36 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/10/07/cavall/</guid>
-      <description>&lt;p&gt;La cavalleria de l&#39;#UJI.&lt;/p&gt;
-&lt;img alt=&#34;Escultura d&#39;un cavall al Jardí dels Sentits de l&#39;UJI&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-10-07-cavall.jpg&#34;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/09/26/oscar-alzaga/</link>
-      <pubDate>Sun, 26 Sep 2021 18:15:00 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/09/26/oscar-alzaga/</guid>
-      <description>&lt;p&gt;📎 Óscar Alzaga: &lt;a href=&#34;https://www.elconfidencial.com/espana/2021-09-26/oscar-alzaga-destruccion-archivos-policiales-franquismo_3296108/&#34;&gt;&amp;ldquo;La destrucción de los archivos policiales del franquismo fue un disparate de Martín Villa y Suárez&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Mi impresión es que quienes vienen del franquismo y no de la oposición democrática están muy satisfechos con la falsa tesis que flota en nuestro país sobre que la democracia nos la donaron los últimos hombres del franquismo, a la muerte de su caudillo. Para poder sostener esta falacia quemaron millones de documentos policiales sobre la sistemática represión que durante más de treinta años se aplicó a la oposición democrática al franquismo, que con el apoyo importantísimo de las potencias europeas —que narro en este libro— fue cambiando la visión de nuestra población sobre qué tipo de vida pública debíamos gozar los españoles. A quien lea esta obra le van a quedar pocas dudas de que la labor de la oposición democrática fue determinante del final de un franquismo incompatible con ser uno de los estados de Derecho que integran la Unión Europa de la que felizmente somos miembros.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

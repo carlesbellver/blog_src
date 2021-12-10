@@ -3,7 +3,7 @@ url = "/2019/06/30/encotillament-cos-i.html"
 title = ""
 date = "2019-06-30T17:38:29+00:00"
 slug = "encotillament-cos-i"
-tags = ["fotos", "fotos"]
+tags = ["fotos"]
 photos = ["/uploads/2019/c8162808cb.jpg"]
 +++
 

@@ -6,6 +6,14 @@
 	"feed_url": "https://blog.carlesbellver.net/photos/index.json",
 	"items": [
   			{
+	  			"id": "https://blog.carlesbellver.net/2021/12/05/web3/",
+		  		"title": "",
+			  	"date_published": "2021-12-05T17:55:03+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/12/05/web3/",
+				  ,
+				  "content_text": "📎 Keep the Web Free, Say No to Web3\nUna nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?\n"
+        },
+  			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/29/97227/",
 		  		"title": "",
 			  	"date_published": "2021-11-29T15:47:08+01:00",
@@ -347,7 +355,7 @@
 			  	"date_published": "2019-12-12T08:00:06+00:00",
 				  "url": "https://blog.carlesbellver.net/2019/12/12/unicorns-portada-original.html",
 				  "image": "https://blog.carlesbellver.net/uploads/2019/76acc58c0b.jpg",
-				  "content_text": "Unicorns. La portada original.\n"
+				  "content_text": "📖 Unicorns. La portada original.\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2019/12/11/ajuntament-de-morella.html",

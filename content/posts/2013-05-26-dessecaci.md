@@ -3,7 +3,7 @@ url = "/2013/05/26/dessecaci.html"
 title = "Dessecació"
 date = "2013-05-26T22:00:00+00:00"
 slug = "dessecaci"
-tags = ["fotos", "fotos"]
+tags = ["fotos"]
 photos = ["/uploads/2020/f5a37ff48d.jpg"]
 +++
 

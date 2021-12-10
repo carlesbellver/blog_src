@@ -3,7 +3,7 @@ url = "/2020/02/05/organic-ethical-chocolate.html"
 title = ""
 date = "2020-02-05T18:49:13+00:00"
 slug = "organic-ethical-chocolate"
-tags = ["fotos", "fotos"]
+tags = ["fotos"]
 photos = ["/uploads/2020/38cb60c68c.jpg"]
 +++
 

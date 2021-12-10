@@ -7,6 +7,20 @@
 	"items": [
 			{
 				"title": "",
+				"date_published": "2021-12-07T19:00:44+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/07/peritext/",
+				"tags": "retalls",
+				"content_text": "📎 Peritext: A CRDT for Rich-Text Collaboration\nUn algorisme per a l\u0026rsquo;edició col·laborativa asíncrona de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l\u0026rsquo;edició síncrona). CRDT = Conflict-free Replicated Data Type.\n Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d\u0026rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d\u0026rsquo;ús.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-05T17:55:03+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/05/web3/",
+				"tags": "retalls",
+				"content_text": "📎 Keep the Web Free, Say No to Web3\nUna nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?\n"
+			},
+			{
+				"title": "",
 				"date_published": "2021-12-04T19:35:00+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/04/37220/",
 				"tags": "",
@@ -1094,7 +1108,7 @@
 				"title": "",
 				"date_published": "2020-02-25T20:15:28+00:00",
 				"url": "https://blog.carlesbellver.net/2020/02/25/carrer-dedicat-a.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Carrer dedicat a l\u0026rsquo;organitzador de la Gran Redada, o intent d\u0026rsquo;exterminació del poble gitano a Espanya (1749).\n"
 			},
 			{
@@ -1185,7 +1199,7 @@
 				"title": "",
 				"date_published": "2020-02-05T18:49:13+00:00",
 				"url": "https://blog.carlesbellver.net/2020/02/05/organic-ethical-chocolate.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Organic \u0026amp; Ethical Chocolate. Part del berenar d\u0026rsquo;avui.\n"
 			},
 			{
@@ -1206,7 +1220,7 @@
 				"title": "",
 				"date_published": "2020-01-26T17:19:58+00:00",
 				"url": "https://blog.carlesbellver.net/2020/01/26/we-dont-need.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "We don’t need no thought control. M’agrada veure aquest grafit a la façana d’aquell Colegio Nacional, on un dia de novembre de 1975 pareixia que s’acabava el món.\n"
 			},
 			{
@@ -1227,7 +1241,7 @@
 				"title": "",
 				"date_published": "2020-01-13T17:44:13+00:00",
 				"url": "https://blog.carlesbellver.net/2020/01/13/senyalitzaci-anticlerical.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Senyalització anticlerical.\n"
 			},
 			{
@@ -1248,8 +1262,8 @@
 				"title": "",
 				"date_published": "2019-12-12T08:00:06+00:00",
 				"url": "https://blog.carlesbellver.net/2019/12/12/unicorns-portada-original.html",
-				"tags": "fotos, fotos",
-				"content_text": "Unicorns. La portada original.\n"
+				"tags": "fotos",
+				"content_text": "📖 Unicorns. La portada original.\n"
 			},
 			{
 				"title": "",
@@ -1339,7 +1353,7 @@
 				"title": "",
 				"date_published": "2019-11-16T12:48:44+00:00",
 				"url": "https://blog.carlesbellver.net/2019/11/16/valncia-plaa-del.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "València. Plaça del Mercat.\n"
 			},
 			{
@@ -1444,7 +1458,7 @@
 				"title": "",
 				"date_published": "2019-10-29T16:48:03+00:00",
 				"url": "https://blog.carlesbellver.net/2019/10/29/carrer-de-sant.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Carrer de Sant Blai, Castelló, Polinèsia exterior.\n"
 			},
 			{
@@ -1458,7 +1472,7 @@
 				"title": "",
 				"date_published": "2019-10-24T06:16:36+00:00",
 				"url": "https://blog.carlesbellver.net/2019/10/24/bon-dia.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Bon dia.\n"
 			},
 			{
@@ -1521,7 +1535,7 @@
 				"title": "",
 				"date_published": "2019-10-12T18:23:44+00:00",
 				"url": "https://blog.carlesbellver.net/2019/10/12/ciclamen.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Ciclamen\n"
 			},
 			{
@@ -1948,7 +1962,7 @@
 				"title": "",
 				"date_published": "2019-06-30T17:38:29+00:00",
 				"url": "https://blog.carlesbellver.net/2019/06/30/encotillament-cos-i.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Encotillament: cos i ànima. Discos de control i fils de colors.\n"
 			},
 			{
@@ -1976,7 +1990,7 @@
 				"title": "",
 				"date_published": "2019-06-24T17:04:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/06/24/alerta-roja.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Alerta roja.\n"
 			},
 			{
@@ -2109,7 +2123,7 @@
 				"title": "",
 				"date_published": "2019-06-01T15:05:59+00:00",
 				"url": "https://blog.carlesbellver.net/2019/06/01/dissabte.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Dissabte.\n"
 			},
 			{
@@ -2361,7 +2375,7 @@
 				"title": "",
 				"date_published": "2019-04-09T18:19:08+00:00",
 				"url": "https://blog.carlesbellver.net/2019/04/09/have-you-never.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Have you never typed crontab -r (remove) instead of -e (edit)? Two options too close 😬\n"
 			},
 			{
@@ -2431,7 +2445,7 @@
 				"title": "",
 				"date_published": "2019-04-02T06:37:04+00:00",
 				"url": "https://blog.carlesbellver.net/2019/04/02/la-famosainfame-e.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "La famosa/infame ‘e’ d’Internet.\nThe famous/infamous Internet ‘e’.\n"
 			},
 			{
@@ -2445,7 +2459,7 @@
 				"title": "",
 				"date_published": "2019-03-31T15:04:41+00:00",
 				"url": "https://blog.carlesbellver.net/2019/03/31/diumenge-amb-pluja.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Diumenge amb pluja persistent.\n"
 			},
 			{
@@ -2459,7 +2473,7 @@
 				"title": "",
 				"date_published": "2019-03-28T17:13:14+00:00",
 				"url": "https://blog.carlesbellver.net/2019/03/28/181314.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Madrid ens ha agradat, però no ens hi quedarem. Tornem a Castelló. Edifici Metrópolis.\n"
 			},
 			{
@@ -2837,7 +2851,7 @@
 				"title": "",
 				"date_published": "2019-01-20T09:19:46+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/20/101946.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Raspberry Pi amb pantalla de paper electrònic Inky wHAT. Predicció del temps via AEMET (XML). Temperatura: estació UJI, observatori Morella. Icones: Climacons. Titulars de notícies via Europa Press (RSS). Programació: Python.\n"
 			},
 			{
@@ -3300,7 +3314,7 @@
 				"date_published": "2018-12-11T17:32:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/11/social-media-outpaces.html",
 				"tags": "retalls",
-				"content_text": "📎 Social media outpaces print newspapers in the U.S. as news source\nSempre cal continuar llegint més enllà del titular: Déu i el dimoni solen ésser en els detalls. Durant anys ha descendit el nombre de persones als EUA que s\u0026rsquo;assabenten de les notícies mitjançant la televisió o els periòdics impresos, mentre que han augmentat les que s\u0026rsquo;informen mitjançant webs i xarxes socials. Aquest últim any els percentatges s\u0026rsquo;han estabilitzat, excepte el dels periòdics impresos que continua minvant. Però la font d\u0026rsquo;informació majoritària encara és la televisió (49%). A continuació hi ha els webs de notícies (33%), la ràdio (26%), les xarxes socials (20%) i a la cua els periòdics de paper (16%). Aquests percentatges es refereixen a un ús habitual (“often”). I el concepte de xarxes socials pareix incloure les aplicacions de missatgeria: segons l'informe complet (PDF), l\u0026rsquo;enquesta esmentava “Facebook, Twitter o Snapchat“ com a exemples.\n"
+				"content_text": "📎 Social media outpaces print newspapers in the U.S. as news source\nSempre cal continuar llegint més enllà del titular: Déu i el dimoni solen ésser en els detalls. Durant anys ha descendit el nombre de persones als EUA que s\u0026rsquo;assabenten de les notícies mitjançant la televisió o els periòdics impresos, mentre que han augmentat les que s\u0026rsquo;informen mitjançant webs i xarxes socials. Aquest últim any els percentatges s\u0026rsquo;han estabilitzat, excepte el dels periòdics impresos que continua minvant. Però la font d\u0026rsquo;informació majoritària encara és la televisió (49%). A continuació hi ha els webs de notícies (33%), la ràdio (26%), les xarxes socials (20%), i a la cua els periòdics de paper (16%). Aquests percentatges es refereixen a un ús habitual (“often”). I el concepte de xarxes socials pareix incloure les aplicacions de missatgeria: segons l'informe complet (PDF), l\u0026rsquo;enquesta esmentava “Facebook, Twitter o Snapchat“ com a exemples.\n"
 			},
 			{
 				"title": "",
@@ -3314,7 +3328,7 @@
 				"date_published": "2018-12-11T08:36:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/11/your-apps-know.html",
 				"tags": "retalls",
-				"content_text": "📎 Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret\nDiversos tipus d\u0026rsquo;aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:\n …els que tenen accés a les dades brutes, inclosos empleats o clients, poden identificar una persona sense el seu consentiment. Poden seguir algú que coneixen, localitzant un telèfon que sol estar a l\u0026rsquo;adreça d\u0026rsquo;aquesta persona. O, a l\u0026rsquo;inrevés, poden vincular un nom a un punt anònim, veient on passa les nits els dispositiu i utilitzant registres públics per esbrinar qui hi viu.\n Tot açò és il·legal a Europa —no als EUA—, però caldria que es fes complir la llei! Els nostres mòbils s\u0026rsquo;han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden com fer que les apps deixen de rastrejar la nostra ubicació. iPhone: Configuració → Privacitat → Localització. Android: Configuració → Ubicació. (Un dels problemes d\u0026rsquo;Android és que no pots impedir que una app accedeixi a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.)\n"
+				"content_text": "📎 Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret\nDiversos tipus d\u0026rsquo;aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:\n …els que tenen accés a les dades brutes, inclosos empleats o clients, poden identificar una persona sense el seu consentiment. Poden seguir algú que coneixen, localitzant un telèfon que sol estar a l\u0026rsquo;adreça d\u0026rsquo;aquesta persona. O, a l\u0026rsquo;inrevés, poden vincular un nom a un punt anònim, veient on passa les nits els dispositiu i utilitzant registres públics per esbrinar qui hi viu.\n Tot açò és il·legal a Europa —no als EUA—, però caldria que es fes complir la llei! Els nostres mòbils s\u0026rsquo;han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden com fer que les apps deixen de rastrejar la nostra ubicació.\n iPhone: Configuració → Privacitat → Localització Android: Configuració → Ubicació  Un dels problemes d\u0026rsquo;Android és que no pots impedir que una app accedeixi a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.\n"
 			},
 			{
 				"title": "Et date illi honorem",
@@ -3342,7 +3356,7 @@
 				"date_published": "2018-12-08T20:25:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/08/martin-rees-un.html",
 				"tags": "retalls",
-				"content_text": "📎 Martin Rees, un “mortista antiquat”\nVicent Partal ens explica que Rees, astrofísic, Astronomer Royal des de 1995, va dir a un grup de defensors de la criònica (preservació d\u0026rsquo;humans a molt baixa temperatura) “que preferia acabar en una tomba bonica d’una església rural anglesa abans que en un refrigerador californià. Reivindicació que va tenir una resposta tan agra com xocant de part dels seus intelocutors… «Em van ridiculitzar com un mortista (deathist) realment antiquat».”\n"
+				"content_text": "📎 Martin Rees, un “mortista antiquat”\nVicent Partal ens explica que Rees, astrofísic, Astronomer Royal des de 1995, va dir a un grup de defensors de la criònica (preservació d\u0026rsquo;humans a molt baixa temperatura) ”que preferia acabar en una tomba bonica d’una església rural anglesa abans que en un refrigerador californià. Reivindicació que va tenir una resposta tan agra com xocant de part dels seus intelocutors… «Em van ridiculitzar com un mortista (deathist) realment antiquat».”\n"
 			},
 			{
 				"title": "Bibliografia",
@@ -3719,7 +3733,7 @@
 				"title": "",
 				"date_published": "2018-11-17T22:21:34+00:00",
 				"url": "https://blog.carlesbellver.net/2018/11/17/232134.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Avui hem passejat per València.\n"
 			},
 			{
@@ -4377,7 +4391,7 @@
 				"title": "",
 				"date_published": "2018-08-03T16:16:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/08/03/171609.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Art rupestre llevantí. Plaça del Mediterrani, Castelló de la Plana. Senyals del futur.\n"
 			},
 			{
@@ -4391,7 +4405,7 @@
 				"title": "",
 				"date_published": "2018-08-02T08:38:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/08/02/093853.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Em vaig perdre el començament.\n"
 			},
 			{
@@ -5693,7 +5707,7 @@
 				"title": "",
 				"date_published": "2018-03-10T17:25:28+00:00",
 				"url": "https://blog.carlesbellver.net/2018/03/10/182528.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Enguany esperava trobar-hi el símbol del Bitcoin en comptes del dòlar. Però les atraccions de la fira continuen fortament ancorades en el passat.\n"
 			},
 			{
@@ -6631,7 +6645,7 @@
 				"title": "",
 				"date_published": "2017-12-19T17:05:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/19/180528.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Rellotge Sturmanskie. Com el que portaven els cosmonautes de la Voskhod 1, primer vol espacial amb més d’un tripulant (n’eren tres, de fet, i portaven roba normal perquè amb l’escafandre no hi haurien cabut, en un espai tan reduït).\n"
 			},
 			{
@@ -6758,7 +6772,7 @@
 				"date_published": "2017-12-08T22:46:50+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/08/234650.html",
 				"tags": "",
-				"content_text": "📎 jmcomms.com/2017/11/29…\n Android 7 + full QWERTY mechanical keyboard. The new Gemini PDA from Planet Computers is the spiritual successor to the Psion Series 5 organiser from the late 1990s\n "
+				"content_text": "📎 Gemini PDA: 20 years on, meet the all new Psion Series 5\n Android 7 + full QWERTY mechanical keyboard. The new Gemini PDA from Planet Computers is the spiritual successor to the Psion Series 5 organiser from the late 1990s.\n "
 			},
 			{
 				"title": "",
@@ -6772,13 +6786,13 @@
 				"date_published": "2017-12-08T16:10:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/08/un-big-data.html",
 				"tags": "retalls",
-				"content_text": "📎 Un big data contra el cerdismo dominguero\n La única forma es decirlo en plata. Hablando de mierda.\n "
+				"content_text": "📎 Un big data contra el cerdismo dominguero\n Para batallar la generación de residuos en la naturaleza, esta iniciativa se ha servido de tres ejes. El primero es quizás el más novedoso: durante tres semanas al año, ‘Libera’ anima a diferentes colectivos a que recojan basura de playas, mares y montes con el objetivo de crear un big data sobre littering (abandono de residuos).\n "
 			},
 			{
 				"title": "",
 				"date_published": "2017-12-07T15:01:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/07/160143.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos, Castelló",
 				"content_text": "Les drassanes del Riu Sec a Castelló.\n"
 			},
 			{
@@ -6793,13 +6807,13 @@
 				"date_published": "2017-12-07T09:25:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/07/the-wikipedia-competitor.html",
 				"tags": "retalls",
-				"content_text": "📎 The Wikipedia Competitor That\u0026rsquo;s Harnessing Blockchain For Epistemological Supremacy\nEveripedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia database i una moneda de fitxes.\n"
+				"content_text": "📎 The Wikipedia Competitor That\u0026rsquo;s Harnessing Blockchain For Epistemological Supremacy\nEveripedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia i una criptomoneda.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2017-12-07T08:51:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/07/095100.html",
-				"tags": "citacions",
+				"tags": "retalls, citacions",
 				"content_text": " Oh, cadena de blocs, aquest “registre global” descentralitzat que proveeix el marc de treball de criptomonedes com el bitcoin (i també, aparentment, milers de vídeos explicatius, i una quantitat semblant de plans de negoci d\u0026rsquo;empreses emergents).\n 📎 Wired\n"
 			},
 			{
@@ -7254,7 +7268,7 @@
 				"title": "",
 				"date_published": "2017-10-16T20:07:55+00:00",
 				"url": "https://blog.carlesbellver.net/2017/10/16/210755.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "Cuando despertó, el rey todavía estaba allí.\n"
 			},
 			{
@@ -8633,7 +8647,7 @@
 				"title": "Dessecació",
 				"date_published": "2013-05-26T22:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2013/05/26/dessecaci.html",
-				"tags": "fotos, fotos",
+				"tags": "fotos",
 				"content_text": "En El otoño del patriarca, el dictador venia el mar als gringos per pal·liar l’endeutament. Avui, en passar pel Parc de Ribalta, m’he trobat la bassa dels peixos buida…\n"
 			},
 			{

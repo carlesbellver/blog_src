@@ -6,10 +6,35 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Thu, 25 Nov 2021 16:18:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 19:00:44 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/07/peritext/</link>
+      <pubDate>Tue, 07 Dec 2021 19:00:44 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/07/peritext/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.inkandswitch.com/peritext/&#34;&gt;Peritext: A CRDT for Rich-Text Collaboration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un algorisme per a l&amp;rsquo;edició col·laborativa &lt;em&gt;asíncrona&lt;/em&gt; de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&amp;rsquo;edició síncrona). &lt;a href=&#34;https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type&#34;&gt;CRDT&lt;/a&gt; = Conflict-free Replicated Data Type.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&amp;rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&amp;rsquo;ús.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/05/web3/</link>
+      <pubDate>Sun, 05 Dec 2021 17:55:03 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/05/web3/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://yesterweb.org/no-to-web3/&#34;&gt;Keep the Web Free, Say No to Web3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Una nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
@@ -3259,7 +3284,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2018/12/11/social-media-outpaces.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/&#34;&gt;Social media outpaces print newspapers in the U.S. as news source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sempre cal continuar llegint més enllà del titular: &lt;a href=&#34;https://en.wikipedia.org/wiki/The_devil_is_in_the_detail&#34;&gt;Déu i el dimoni solen ésser en els detalls&lt;/a&gt;. Durant anys ha descendit el nombre de persones als EUA que s&amp;rsquo;assabenten de les notícies mitjançant la televisió o els periòdics impresos, mentre que han augmentat les que s&amp;rsquo;informen mitjançant webs i xarxes socials. Aquest últim any els percentatges s&amp;rsquo;han estabilitzat, excepte el dels periòdics impresos que continua minvant. Però la font d&amp;rsquo;informació majoritària encara és la televisió (49%). A continuació hi ha els webs de notícies (33%), la ràdio (26%), les xarxes socials (20%) i a la cua els periòdics de paper (16%). Aquests percentatges es refereixen a un ús habitual (&lt;em&gt;“often”&lt;/em&gt;). I el concepte de xarxes socials pareix incloure les aplicacions de missatgeria: segons l&#39;&lt;a href=&#34;http://www.journalism.org/wp-content/uploads/sites/8/2018/12/PJ_2018.12.03_read-watch-listen_FINAL1.pdf&#34;&gt;informe complet&lt;/a&gt; (PDF), l&amp;rsquo;enquesta esmentava “Facebook, Twitter o Snapchat“ com a exemples.&lt;/p&gt;
+&lt;p&gt;Sempre cal continuar llegint més enllà del titular: &lt;a href=&#34;https://en.wikipedia.org/wiki/The_devil_is_in_the_detail&#34;&gt;Déu i el dimoni solen ésser en els detalls&lt;/a&gt;. Durant anys ha descendit el nombre de persones als EUA que s&amp;rsquo;assabenten de les notícies mitjançant la televisió o els periòdics impresos, mentre que han augmentat les que s&amp;rsquo;informen mitjançant webs i xarxes socials. Aquest últim any els percentatges s&amp;rsquo;han estabilitzat, excepte el dels periòdics impresos que continua minvant. Però la font d&amp;rsquo;informació majoritària encara és la televisió (49%). A continuació hi ha els webs de notícies (33%), la ràdio (26%), les xarxes socials (20%), i a la cua els periòdics de paper (16%). Aquests percentatges es refereixen a un ús habitual (&lt;em&gt;“often”&lt;/em&gt;). I el concepte de xarxes socials pareix incloure les aplicacions de missatgeria: segons l&#39;&lt;a href=&#34;http://www.journalism.org/wp-content/uploads/sites/8/2018/12/PJ_2018.12.03_read-watch-listen_FINAL1.pdf&#34;&gt;informe complet&lt;/a&gt; (PDF), l&amp;rsquo;enquesta esmentava “Facebook, Twitter o Snapchat“ com a exemples.&lt;/p&gt;
 </description>
     </item>
     
@@ -3288,7 +3313,12 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
 &lt;blockquote&gt;
 &lt;p&gt;…els que tenen accés a les dades brutes, inclosos empleats o clients, poden identificar una persona sense el seu consentiment. Poden seguir algú que coneixen, localitzant un telèfon que sol estar a l&amp;rsquo;adreça d&amp;rsquo;aquesta persona. O, a l&amp;rsquo;inrevés, poden vincular un nom a un punt anònim, veient on passa les nits els dispositiu i utilitzant registres públics per esbrinar qui hi viu.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Tot açò és il·legal a Europa —no als EUA—, però caldria que es fes complir la llei! Els nostres mòbils s&amp;rsquo;han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden &lt;a href=&#34;https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html&#34;&gt;com fer que les apps deixen de rastrejar la nostra ubicació&lt;/a&gt;. iPhone: Configuració → Privacitat → Localització. Android: Configuració → Ubicació. (Un dels problemes d&amp;rsquo;Android és que no pots impedir que una app accedeixi a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.)&lt;/p&gt;
+&lt;p&gt;Tot açò és il·legal a Europa —no als EUA—, però caldria que es fes complir la llei! Els nostres mòbils s&amp;rsquo;han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden &lt;a href=&#34;https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html&#34;&gt;com fer que les apps deixen de rastrejar la nostra ubicació&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iPhone: Configuració → Privacitat → Localització&lt;/li&gt;
+&lt;li&gt;Android: Configuració → Ubicació&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Un dels problemes d&amp;rsquo;Android és que no pots impedir que una app accedeixi a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.&lt;/p&gt;
 </description>
     </item>
     
@@ -3312,7 +3342,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2018/12/08/martin-rees-un.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://blocs.mesvilaweb.cat/vicent/?p=270024&#34;&gt;Martin Rees, un “mortista antiquat”&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vicent Partal ens explica que &lt;a href=&#34;https://en.wikipedia.org/wiki/Martin_Rees&#34;&gt;Rees&lt;/a&gt;, astrofísic, Astronomer Royal des de 1995, va dir a un grup de defensors de la criònica (preservació d&amp;rsquo;humans a molt baixa temperatura) “que preferia acabar en una tomba bonica d’una església rural anglesa abans que en un refrigerador californià. Reivindicació que va tenir una resposta tan agra com xocant de part dels seus intelocutors… «Em van ridiculitzar com un &lt;em&gt;mortista&lt;/em&gt; (&lt;em&gt;deathist&lt;/em&gt;) realment antiquat».”&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Vicent Partal ens explica que &lt;a href=&#34;https://en.wikipedia.org/wiki/Martin_Rees&#34;&gt;Rees&lt;/a&gt;, astrofísic, Astronomer Royal des de 1995, va dir a un grup de defensors de la criònica (preservació d&amp;rsquo;humans a molt baixa temperatura) ”que preferia acabar en una tomba bonica d’una església rural anglesa abans que en un refrigerador californià. Reivindicació que va tenir una resposta tan agra com xocant de part dels seus intelocutors… «Em van ridiculitzar com un &lt;em&gt;mortista&lt;/em&gt; (&lt;em&gt;deathist&lt;/em&gt;) realment antiquat».”&lt;/p&gt;
 </description>
     </item>
     
@@ -7326,6 +7356,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       <guid>https://blog.carlesbellver.net/2017/12/09/the-southern-pole.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.amusingplanet.com/2017/12/the-southern-pole-of-inaccessibility.html&#34;&gt;The Southern Pole of Inaccessibility&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;La solitud antàrtica de Lenin.&lt;/p&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/-W8fAJBpdBv0/WigE-OqOArI/AAAAAAABUlc/kTuhj6Pokiwwk6acQdjuDXwyZltknUQoQCHMYCw/pole-of-inaccessibility-102?imgmax=800&#34; /&gt;
 </description>
     </item>
     
@@ -7370,7 +7401,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       <guid>https://blog.carlesbellver.net/2017/12/08/un-big-data.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.yorokobu.es/cerdismo-dominguero/&#34;&gt;Un big data contra el cerdismo dominguero&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;La única forma es decirlo en plata. Hablando de mierda.&lt;/p&gt;
+&lt;p&gt;Para batallar la generación de residuos en la naturaleza, esta iniciativa se ha servido de tres ejes. El primero es quizás el más novedoso: durante tres semanas al año, ‘Libera’ anima a diferentes colectivos a que recojan basura de playas, mares y montes con el objetivo de crear un big data sobre &lt;em&gt;littering&lt;/em&gt; (abandono de residuos).&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -7393,7 +7424,20 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2017/12/07/the-wikipedia-competitor.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.wired.com/story/everipedia-blockchain/&#34;&gt;The Wikipedia Competitor That&amp;rsquo;s Harnessing Blockchain For Epistemological Supremacy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Everipedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia database i una moneda de fitxes.&lt;/p&gt;
+&lt;p&gt;Everipedia: un mercat neoliberal de coneixement construït sobre la base de dades de la Wikipedia i una criptomoneda.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2017/12/07/095100.html</link>
+      <pubDate>Thu, 07 Dec 2017 08:51:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/12/07/095100.html</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Oh, cadena de blocs, aquest “registre global” descentralitzat que proveeix el marc de treball de criptomonedes com el bitcoin (i també, aparentment, milers de vídeos explicatius, i una quantitat semblant de plans de negoci d&amp;rsquo;empreses emergents).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📎 &lt;a href=&#34;http://www.wired.com/story/everipedia-blockchain/&#34;&gt;Wired&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
