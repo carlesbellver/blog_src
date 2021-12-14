@@ -13,6 +13,6 @@ Vam parlar del menjar i del beure, del cos i de l’ànima, de la voluntat, anti
 
 A la mitjanit vam tornar cadascun al nostre cau, a colgar-nos sota les mantes i a continuar fabulant en solitud i silenci, indistintament vers el son, vers el somni.
 
-(*Fabular*: aquest verb no es troba en el DIEC ni en el DGLC, però sí en el Català-Valencià-Balear, que li dóna aquesta etimologia: del llatí *fabulari*: “parlar, contar, dir faules”).
+(*Fabular*: aquest verb no es troba en el DIEC ni en el DGLC, però sí en el Català-Valencià-Balear, que li dóna aquesta etimologia: del llatí *fabulari*: “parlar, contar, dir faules”.)
 
 <a href="https://commons.wikimedia.org/wiki/File:Siamese_Crocodiles.JPG" title="Siamese crocodiles via Wikimedia Commons"><img src="/uploads/2006/2006-12-16-crocodylus-siamensis.jpg" alt="Dos cocodrils siamesos" /></a>
