@@ -10,4 +10,4 @@ tags = ["retalls"]
 
 > Començarem a interactuar amb aquestes coses com ho faríem amb un ésser humà, com si no passés res estrany. Perquè hi ha quelcom inherent a la ment humana que fa que desesperadament vulguem personificar-ho tot. Potser ja ho heu fet. A la meva família ho fem… I cadascú ho fem d'una manera diferent.
 
-La mare, ens diu l'autor, tracta els dispositius amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l'altra”. I la filla petita, bé, Alexa encara no l'entén.
+La mare, ens diu l'autor, tracta els altaveus intel·ligents amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l'altra”. I la filla petita, bé, Alexa encara no l'entén.
