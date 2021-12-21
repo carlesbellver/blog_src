@@ -416,6 +416,11 @@ article header h1 a {
     text-transform: uppercase;
 }
 
+.reply-by-email {
+    margin-left: 1em;
+    text-transform: uppercase;
+}
+
 article img {
     max-width: 100%;
     display: block;
