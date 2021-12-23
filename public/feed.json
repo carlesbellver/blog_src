@@ -6,6 +6,48 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.livescience.com/imaginary-numbers-needed-to-describe-reality\">Imaginary numbers could be needed to describe reality, new studies find</a></p>\n<blockquote>\n<p>…fins i tot els mateixos fundadors de la mecànica quàntica pensaven que les implicacions de tenir nombres complexos en les seves equacions eren inquietants. En una carta al seu amic Hendrik Lorentz, el físic Erwin Schrödinger —la primera persona que va introduir els nombres complexos en la teoria quàntica, amb la seva funció d&rsquo;ona quàntica (ψ)— va escriure: “El que és desagradable ací i, de fet, directament objectable, és l&rsquo;ús de nombres complexos. Ψ és segurament fonamentalment una funció real”.</p>\n<p>Schrödinger va trobar maneres d&rsquo;expressar la seva equació només amb nombres reals, junt amb una sèrie addicional de regles sobre com utilitzar l&rsquo;equació, i els físics posteriors han fet el mateix amb altres parts de la teoria quàntica […] Ara, dos estudis, publicats el 15 de desembre en les revistes <a href=\"https://www.nature.com/articles/s41586-021-04160-4\">Nature</a> i <a href=\"https://journals.aps.org/prl/accepted/0907bY08X531687d3971977071a6d5f742cb036ed\">Physical Review Letters</a>, han demostrat que Schrödinger s&rsquo;equivocava.</p>\n</blockquote>\n",
+				"date_published": "2021-12-22T15:28:23+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/12/19/oreilly-web3/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/\">Why it&rsquo;s too early to get excited about Web3</a></p>\n<p>Tim O’Reilly, que va <a href=\"https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html\">definir la Web 2.0</a> fa setze anys, reflexiona una mica a contracor sobre aquest futur possible. S&rsquo;assembla més a la bombolla de les punt com o a la bombolla financera? Quins punts de contacte té amb el món real o amb necessitats reals, si és que en té? Quina utilitat? Quan explotarà? Què en quedarà?</p>\n<blockquote>\n<p>Els desenvolupadors de la cadena de blocs creuen que aquesta vegada han trobat una resposta estructural a la recentralització, però jo tendeixo a dubtar-ho. Una pregunta interessant que hom pot fer és quin podria ser el pròxim punt de centralització i control. La ràpida consolidació de la mineria de bitcoin en un nombre reduït de mans mitjançant la baixada dels costos energètics de la computació indica un tipus de recentralització. N&rsquo;hi haurà d&rsquo;altres.</p>\n</blockquote>\n",
+				"date_published": "2021-12-19T19:28:53+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/19/oreilly-web3/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.inkl.com/news/report-ubisoft-s-own-developers-are-concerned-about-its-nft-push\">Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push</a></p>\n<p>Comentaris filtrats dels programadors de l&rsquo;empresa:</p>\n<blockquote>\n<p>“Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”</p>\n<p>“Com podeu mirar la propietat privada, l&rsquo;especulació, l&rsquo;escassetat artificial i l&rsquo;egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l&rsquo;art»?”</p>\n</blockquote>\n",
+				"date_published": "2021-12-19T19:13:43+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/12/13/20209/",
+				
+				"content_html": "<p>2021-1967 = 54</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-13-20209.jpg\">\n",
+				"date_published": "2021-12-13T19:30:11+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/13/20209/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/12/12/93196/",
+				
+				"content_html": "<p>L&rsquo;última ressaca 🎵</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-12-93196.jpg\">\n",
+				"date_published": "2021-12-12T08:13:17+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/12/93196/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/12/11/merkel/",
+				
+				"content_html": "<p>L&rsquo;austeritat que venia d&rsquo;Alemanya. Angela Merkel, 25.000 €/mes com a cancellera. A partir d&rsquo;ara, pensió de 15.000 €/mes, despatx al Bundestag amb nou persones al seu servei i cotxe oficial.</p>\n<p>📎 <a href=\"https://www.lavanguardia.com/internacional/20211210/7918906/que-hara-merkel.html\">¿Qué hará Merkel ahora?</a></p>\n",
+				"date_published": "2021-12-11T10:02:22+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/11/merkel/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/12/07/peritext/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.inkandswitch.com/peritext/\">Peritext: A CRDT for Rich-Text Collaboration</a></p>\n<p>Un algorisme per a l&rsquo;edició col·laborativa <em>asíncrona</em> de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&rsquo;edició síncrona). <a href=\"https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type\">CRDT</a> = Conflict-free Replicated Data Type.</p>\n<blockquote>\n<p>Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&rsquo;ús.</p>\n</blockquote>\n",
@@ -137,48 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos\">The ‘Dune’ Screenplay Was Written in MS-DOS</a></p>\n<blockquote>\n<p>“És meitat superstició i meitat por al canvi.”<br>\n[…]<br>\nRes elimina les distraccions com un programa senzill sense accés a Internet. Roth també va dir que el límit de quaranta pàgines l&rsquo;ajuda a estructurar els seus guions. &ldquo;M&rsquo;agrada perquè separa els actes&rdquo;, va dir. &ldquo;M&rsquo;adone que si no ho he explicat en quaranta pàgines, comence a tenir problemes&rdquo;.</p>\n<p>Roth no és l&rsquo;únic escriptor que utilitza programes antics. George RR Martin ha escrit pausadament tots els seus llibres de <em>Joc de trons</em> amb el <a href=\"https://www.vice.com/en/article/53dwb3/it-makes-no-sense-that-word-processors-are-still-designed-for-the-printed-page\">WordStar</a> de MS-DOS.</p>\n</blockquote>\n",
 				"date_published": "2021-10-27T20:19:36+02:00",
 				"url": "https://blog.carlesbellver.net/2021/10/27/dune-ms-dos/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/27/medicamentos-fabulosos/",
-				
-				"content_html": "<p>📎 <a href=\"https://theconversation.com/carne-de-momia-y-cuerno-de-unicornio-los-magicos-origenes-de-la-farmacia-167683\">Carne de momia y cuerno de unicornio: los mágicos orígenes de la farmacia</a></p>\n<p>L&rsquo;article inclou una “Guía de medicamentos fabulosos”.</p>\n<blockquote>\n<p>La pezuña de la Gran Bestia, el cuerno de unicornio, la piedra bezoar, el almizcle, el cuerno de ciervo, la carne de momia, la enjundia humana, la triaca magna, el mitridato, el hueso de corazón de ciervo, el espodio, el escorpión, el castóreo, las esmeraldas, las perlas, el oro, la plata, el ajenjo. Estos y muchos otros remedios son los que conformaban la botica del misticismo, apoteca peregrina e insólita, también de inmundicias, y que han formado parte de la historia del arte de curar. Es decir, de la farmacia.</p>\n</blockquote>\n",
-				"date_published": "2021-10-27T18:35:15+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/27/medicamentos-fabulosos/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/24/premi-sambori-uji/",
-				
-				"content_html": "<p>Premi Sambori #UJI</p>\n<img alt=\"Premi Sambori 2004. Menció d'honor Universitat Jaume I.\" src=\"/uploads/2021/2021-10-24-premi-sambori-uji.jpg\">\n",
-				"date_published": "2021-10-24T18:35:46+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/24/premi-sambori-uji/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/22/meteorite-crashes-through-ceiling/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-meteorite-womans-bed-20211014-24gluwkodfa7rbxth346nv7w5e-story.html\">Meteorite crashes through ceiling and lands on woman’s bed</a></p>\n<blockquote>\n<p>Ruth Hamilton dormia profundament a casa seva a la Colúmbia Britànica quan la van despertar els lladrucs del seu gos, seguits d&rsquo;una “explosió”. Va saltar, va encendre el llum i va veure un forat al sostre. El rellotge marcava les 23:35.</p>\n<p>Primer va pensar que havia caigut un arbre damunt de la casa. Però tots els arbres hi eren. Va trucar al 911 i, mentre parlava amb un operador, va veure un gran objecte gris carbó entre els seus dos coixins florals.</p>\n</blockquote>\n",
-				"date_published": "2021-10-22T18:25:38+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/22/meteorite-crashes-through-ceiling/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/20/eixida/",
-				
-				"content_html": "<p>Eixida #UJI</p>\n<img alt=\"Eixida ampliació Biblioteca UJI nivell 0\" src=\"/uploads/2021/2021-10-20-eixida.jpg\">\n",
-				"date_published": "2021-10-20T20:38:10+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/20/eixida/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/13/imitation-life/",
-				
-				"content_html": "<p>Imitació de la vida.</p>\n<img alt=\"Planta artificial\" src=\"/uploads/2021/2021-10-13-imitation-life.jpg\">\n",
-				"date_published": "2021-10-13T18:20:27+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/13/imitation-life/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/10/nobel-borges/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/cultura/nobel-literatura-no-mejor-escritor-mundo_1_8374262.html\">¿Por qué (casi) nunca conocemos al Nobel de Literatura?</a></p>\n<blockquote>\n<p>…según reveló en 2018 el periódico sueco Svenska Dagbladet al desclasificar un informe de Academia realizado en la etapa en la que Borges fue nominado varias veces, el presidente del Comité del premio, Anders Osterling, rechazó a Borges porque resultaba &ldquo;demasiado exclusivo o artificial en su ingenioso arte en miniatura&rdquo;.</p>\n</blockquote>\n",
-				"date_published": "2021-10-10T10:41:31+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/10/nobel-borges/"
 			}
 	]
 }

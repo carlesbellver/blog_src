@@ -2,7 +2,6 @@
 title = ""
 date = "2021-12-22T15:28:23+01:00"
 tags = ["retalls"]
-photos = []
 slug = "imaginary-numbers"
 +++
 

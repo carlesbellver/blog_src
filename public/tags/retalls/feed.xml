@@ -6,10 +6,64 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Tue, 07 Dec 2021 19:00:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Dec 2021 15:28:23 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/</link>
+      <pubDate>Wed, 22 Dec 2021 15:28:23 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.livescience.com/imaginary-numbers-needed-to-describe-reality&#34;&gt;Imaginary numbers could be needed to describe reality, new studies find&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…fins i tot els mateixos fundadors de la mecànica quàntica pensaven que les implicacions de tenir nombres complexos en les seves equacions eren inquietants. En una carta al seu amic Hendrik Lorentz, el físic Erwin Schrödinger —la primera persona que va introduir els nombres complexos en la teoria quàntica, amb la seva funció d&amp;rsquo;ona quàntica (ψ)— va escriure: “El que és desagradable ací i, de fet, directament objectable, és l&amp;rsquo;ús de nombres complexos. Ψ és segurament fonamentalment una funció real”.&lt;/p&gt;
+&lt;p&gt;Schrödinger va trobar maneres d&amp;rsquo;expressar la seva equació només amb nombres reals, junt amb una sèrie addicional de regles sobre com utilitzar l&amp;rsquo;equació, i els físics posteriors han fet el mateix amb altres parts de la teoria quàntica […] Ara, dos estudis, publicats el 15 de desembre en les revistes &lt;a href=&#34;https://www.nature.com/articles/s41586-021-04160-4&#34;&gt;Nature&lt;/a&gt; i &lt;a href=&#34;https://journals.aps.org/prl/accepted/0907bY08X531687d3971977071a6d5f742cb036ed&#34;&gt;Physical Review Letters&lt;/a&gt;, han demostrat que Schrödinger s&amp;rsquo;equivocava.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/19/oreilly-web3/</link>
+      <pubDate>Sun, 19 Dec 2021 19:28:53 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/19/oreilly-web3/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/&#34;&gt;Why it&amp;rsquo;s too early to get excited about Web3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tim O’Reilly, que va &lt;a href=&#34;https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html&#34;&gt;definir la Web 2.0&lt;/a&gt; fa setze anys, reflexiona una mica a contracor sobre aquest futur possible. S&amp;rsquo;assembla més a la bombolla de les punt com o a la bombolla financera? Quins punts de contacte té amb el món real o amb necessitats reals, si és que en té? Quina utilitat? Quan explotarà? Què en quedarà?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els desenvolupadors de la cadena de blocs creuen que aquesta vegada han trobat una resposta estructural a la recentralització, però jo tendeixo a dubtar-ho. Una pregunta interessant que hom pot fer és quin podria ser el pròxim punt de centralització i control. La ràpida consolidació de la mineria de bitcoin en un nombre reduït de mans mitjançant la baixada dels costos energètics de la computació indica un tipus de recentralització. N&amp;rsquo;hi haurà d&amp;rsquo;altres.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/</link>
+      <pubDate>Sun, 19 Dec 2021 19:13:43 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.inkl.com/news/report-ubisoft-s-own-developers-are-concerned-about-its-nft-push&#34;&gt;Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comentaris filtrats dels programadors de l&amp;rsquo;empresa:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”&lt;/p&gt;
+&lt;p&gt;“Com podeu mirar la propietat privada, l&amp;rsquo;especulació, l&amp;rsquo;escassetat artificial i l&amp;rsquo;egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l&amp;rsquo;art»?”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/11/merkel/</link>
+      <pubDate>Sat, 11 Dec 2021 10:02:22 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/11/merkel/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;austeritat que venia d&amp;rsquo;Alemanya. Angela Merkel, 25.000 €/mes com a cancellera. A partir d&amp;rsquo;ara, pensió de 15.000 €/mes, despatx al Bundestag amb nou persones al seu servei i cotxe oficial.&lt;/p&gt;
+&lt;p&gt;📎 &lt;a href=&#34;https://www.lavanguardia.com/internacional/20211210/7918906/que-hara-merkel.html&#34;&gt;¿Qué hará Merkel ahora?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
@@ -3132,7 +3186,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
 &lt;blockquote&gt;
 &lt;p&gt;Començarem a interactuar amb aquestes coses com ho faríem amb un ésser humà, com si no passés res estrany. Perquè hi ha quelcom inherent a la ment humana que fa que desesperadament vulguem personificar-ho tot. Potser ja ho heu fet. A la meva família ho fem… I cadascú ho fem d&amp;rsquo;una manera diferent.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;La mare, ens diu l&amp;rsquo;autor, tracta els dispositius amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l&amp;rsquo;altra”. I la filla petita, bé, Alexa encara no l&amp;rsquo;entén.&lt;/p&gt;
+&lt;p&gt;La mare, ens diu l&amp;rsquo;autor, tracta els altaveus intel·ligents amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l&amp;rsquo;altra”. I la filla petita, bé, Alexa encara no l&amp;rsquo;entén.&lt;/p&gt;
 </description>
     </item>
     
@@ -7287,7 +7341,10 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       <pubDate>Sun, 17 Dec 2017 09:40:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2017/12/17/104010.html</guid>
-      <description>&lt;p&gt;📎 Rafael Sánchez Ferlosio: &lt;a href=&#34;https://elpais.com/cultura/2017/12/03/actualidad/1512328224_696887.html&#34;&gt;“A mí me interesa Vargas Llosa porque es un poco de risa. Es muy malo.”&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A mí me interesa Vargas Llosa porque es un poco de risa. Es muy malo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📎 Rafael Sánchez Ferlosio: &lt;a href=&#34;https://elpais.com/cultura/2017/12/03/actualidad/1512328224_696887.html&#34;&gt;“No estoy de acuerdo con todo lo que he escrito en mi vida”&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -7298,7 +7355,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2017/12/16/083942.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://wapo.st/2CDVJux&#34;&gt;CDC gets list of forbidden words: Fetus, transgender, diversity&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;administració Trump lliura als Centres de Control i Prevenció de Malalties una llista de —set— termes prohibits: vulnerable, dret, diversitat, transgènere, fetus, basat en l&amp;rsquo;evidència i basat en la ciència.&lt;/p&gt;
+&lt;p&gt;El govern Trump lliura als Centres de Control i Prevenció de Malalties una llista de set termes prohibits: vulnerable, dret, diversitat, transgènere, fetus, basat en l&amp;rsquo;evidència i basat en la ciència.&lt;/p&gt;
 </description>
     </item>
     
@@ -7309,7 +7366,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2017/12/15/the-massive-project.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://singularityhub.com/2017/12/14/the-massive-project-to-clean-up-the-ocean-with-a-two-kilometer-screen/&#34;&gt;The Massive Project to Clean Up the Ocean With a Two-Kilometer Screen&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;$2.2 million from 38,000 people in 160 countries. The most successful non-profit crowdfunding campaign to date.&lt;/p&gt;
+&lt;p&gt;2,2 milions de dòlars aportats per 38.000 persones des de cent seixanta països. La major campanya de finançament col·lectiu fins a la data.&lt;/p&gt;
 </description>
     </item>
     
@@ -7331,7 +7388,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2017/12/14/la-red-no.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.eldiario.es/cultura/tecnologia/red-neutral_0_718128950.html&#34;&gt;La Red no es neutral y nunca lo ha sido (pero hoy podría empeorar mucho)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Massa important per a quedar en mans privades. La neutralitat de la Xarxa es l&amp;rsquo;única manera de protegir-la dels amos de les infraestructures, que es moren per decidir quin tràfic &lt;em&gt;necessiten&lt;/em&gt; els seus usuaris.&lt;/p&gt;
+&lt;p&gt;Massa important per a quedar en mans privades. La neutralitat de la Xarxa es l&amp;rsquo;única manera de protegir-la dels amos de les infraestructures, que es moren per decidir quin tràfic &lt;em&gt;necessiten&lt;/em&gt; (ehem) els seus usuaris.&lt;/p&gt;
 </description>
     </item>
     

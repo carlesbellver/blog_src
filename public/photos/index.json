@@ -6,12 +6,28 @@
 	"feed_url": "https://blog.carlesbellver.net/photos/index.json",
 	"items": [
   			{
-	  			"id": "https://blog.carlesbellver.net/2021/12/05/web3/",
+	  			"id": "https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/",
 		  		"title": "",
-			  	"date_published": "2021-12-05T17:55:03+01:00",
-				  "url": "https://blog.carlesbellver.net/2021/12/05/web3/",
+			  	"date_published": "2021-12-22T15:28:23+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/",
 				  ,
-				  "content_text": "📎 Keep the Web Free, Say No to Web3\nUna nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?\n"
+				  "content_text": "📎 Imaginary numbers could be needed to describe reality, new studies find\n …fins i tot els mateixos fundadors de la mecànica quàntica pensaven que les implicacions de tenir nombres complexos en les seves equacions eren inquietants. En una carta al seu amic Hendrik Lorentz, el físic Erwin Schrödinger —la primera persona que va introduir els nombres complexos en la teoria quàntica, amb la seva funció d\u0026rsquo;ona quàntica (ψ)— va escriure: “El que és desagradable ací i, de fet, directament objectable, és l\u0026rsquo;ús de nombres complexos. Ψ és segurament fonamentalment una funció real”.\nSchrödinger va trobar maneres d\u0026rsquo;expressar la seva equació només amb nombres reals, junt amb una sèrie addicional de regles sobre com utilitzar l\u0026rsquo;equació, i els físics posteriors han fet el mateix amb altres parts de la teoria quàntica […] Ara, dos estudis, publicats el 15 de desembre en les revistes Nature i Physical Review Letters, han demostrat que Schrödinger s\u0026rsquo;equivocava.\n "
+        },
+  			{
+	  			"id": "https://blog.carlesbellver.net/2021/12/13/20209/",
+		  		"title": "",
+			  	"date_published": "2021-12-13T19:30:11+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/12/13/20209/",
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-12-13-20209.jpg",
+				  "content_text": "2021-1967 = 54\n"
+        },
+  			{
+	  			"id": "https://blog.carlesbellver.net/2021/12/12/93196/",
+		  		"title": "",
+			  	"date_published": "2021-12-12T08:13:17+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/12/12/93196/",
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-12-12-93196.jpg",
+				  "content_text": "L\u0026rsquo;última ressaca 🎵\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/29/97227/",
@@ -558,6 +574,14 @@
 				  "content_text": "Cap a l’hivern\n"
         },
   			{
+	  			"id": "https://blog.carlesbellver.net/2018/12/13/080231.html",
+		  		"title": "",
+			  	"date_published": "2018-12-13T07:02:31+00:00",
+				  "url": "https://blog.carlesbellver.net/2018/12/13/080231.html",
+				  "image": "https://blog.carlesbellver.net/wp-content/uploads/2018/12/0dc1a867717d40cbbfc41101bc695e05.jpg",
+				  "content_text": "Cinquanta-un\n"
+        },
+  			{
 	  			"id": "https://blog.carlesbellver.net/2018/11/28/184618.html",
 		  		"title": "",
 			  	"date_published": "2018-11-28T17:46:18+00:00",
@@ -1011,7 +1035,7 @@
 			  	"date_published": "2017-12-15T16:44:15+00:00",
 				  "url": "https://blog.carlesbellver.net/2017/12/15/174415.html",
 				  "image": "https://blog.carlesbellver.net/wp-content/uploads/2017/12/442cbb7a77e24111b5c1ed9050ae148c.jpg",
-				  "content_text": "\u0026ldquo;Col·lectius fent front a la por: grups artístics espanyols 1945-1975\u0026rdquo;. Exposició del CIDA del Museu d\u0026rsquo;Art Contemporani de Vilafamés en la Biblioteca #UJI.\n"
+				  "content_text": "“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d\u0026rsquo;Art Contemporani de Vilafamés en la Biblioteca #UJI.\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2017/12/07/160143.html",

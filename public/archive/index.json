@@ -7,6 +7,48 @@
 	"items": [
 			{
 				"title": "",
+				"date_published": "2021-12-22T15:28:23+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/",
+				"tags": "retalls",
+				"content_text": "📎 Imaginary numbers could be needed to describe reality, new studies find\n …fins i tot els mateixos fundadors de la mecànica quàntica pensaven que les implicacions de tenir nombres complexos en les seves equacions eren inquietants. En una carta al seu amic Hendrik Lorentz, el físic Erwin Schrödinger —la primera persona que va introduir els nombres complexos en la teoria quàntica, amb la seva funció d\u0026rsquo;ona quàntica (ψ)— va escriure: “El que és desagradable ací i, de fet, directament objectable, és l\u0026rsquo;ús de nombres complexos. Ψ és segurament fonamentalment una funció real”.\nSchrödinger va trobar maneres d\u0026rsquo;expressar la seva equació només amb nombres reals, junt amb una sèrie addicional de regles sobre com utilitzar l\u0026rsquo;equació, i els físics posteriors han fet el mateix amb altres parts de la teoria quàntica […] Ara, dos estudis, publicats el 15 de desembre en les revistes Nature i Physical Review Letters, han demostrat que Schrödinger s\u0026rsquo;equivocava.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-19T19:28:53+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/19/oreilly-web3/",
+				"tags": "retalls",
+				"content_text": "📎 Why it\u0026rsquo;s too early to get excited about Web3\nTim O’Reilly, que va definir la Web 2.0 fa setze anys, reflexiona una mica a contracor sobre aquest futur possible. S\u0026rsquo;assembla més a la bombolla de les punt com o a la bombolla financera? Quins punts de contacte té amb el món real o amb necessitats reals, si és que en té? Quina utilitat? Quan explotarà? Què en quedarà?\n Els desenvolupadors de la cadena de blocs creuen que aquesta vegada han trobat una resposta estructural a la recentralització, però jo tendeixo a dubtar-ho. Una pregunta interessant que hom pot fer és quin podria ser el pròxim punt de centralització i control. La ràpida consolidació de la mineria de bitcoin en un nombre reduït de mans mitjançant la baixada dels costos energètics de la computació indica un tipus de recentralització. N\u0026rsquo;hi haurà d\u0026rsquo;altres.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-19T19:13:43+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/",
+				"tags": "retalls",
+				"content_text": "📎 Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push\nComentaris filtrats dels programadors de l\u0026rsquo;empresa:\n “Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”\n“Com podeu mirar la propietat privada, l\u0026rsquo;especulació, l\u0026rsquo;escassetat artificial i l\u0026rsquo;egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l\u0026rsquo;art»?”\n "
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-13T19:30:11+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/13/20209/",
+				"tags": "fotos",
+				"content_text": "2021-1967 = 54\n"
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-12T08:13:17+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/12/93196/",
+				"tags": "fotos",
+				"content_text": "L\u0026rsquo;última ressaca 🎵\n"
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-11T10:02:22+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/11/merkel/",
+				"tags": "retalls",
+				"content_text": "L\u0026rsquo;austeritat que venia d\u0026rsquo;Alemanya. Angela Merkel, 25.000 €/mes com a cancellera. A partir d\u0026rsquo;ara, pensió de 15.000 €/mes, despatx al Bundestag amb nou persones al seu servei i cotxe oficial.\n📎 ¿Qué hará Merkel ahora?\n"
+			},
+			{
+				"title": "",
 				"date_published": "2021-12-07T19:00:44+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/07/peritext/",
 				"tags": "retalls",
@@ -563,7 +605,7 @@
 				"date_published": "2020-12-20T13:02:57+01:00",
 				"url": "https://blog.carlesbellver.net/2020/12/20/pop-art/",
 				"tags": "",
-				"content_text": "Quan done per acabat el primer esborrany d\u0026rsquo;un dels meus textos, generalment ja he oblidat d\u0026rsquo;on em va venir la idea. Però aquesta vegada sí que ho sé: una escena en un relat de Julian May em va suggerir una frase —una situació— i aquesta una altra, etc. etc.\nÉs meravellós, per cert, que el programari modern arxive automàticament l’historial de canvis de cada document, a mesura que el vas editant. No sols per poder restaurar una versió anterior, sinó perquè permet reconstruir el creixement orgànic del text. Reveure com s’anava formant la trama i s’emplenava de detalls al llarg d\u0026rsquo;hores o dies.\n"
+				"content_text": "Quan done per acabat el primer esborrany d\u0026rsquo;un dels meus textos, generalment ja he oblidat d\u0026rsquo;on em va venir la idea. Però aquesta vegada sí que ho sé: una escena en un relat de Julian May em va suggerir una frase —una situació— i aquesta una altra, etc., etc.\nÉs meravellós, per cert, que el programari modern arxive automàticament l’historial de canvis de cada document, a mesura que el vas editant. No sols per poder restaurar una versió anterior, sinó perquè permet reconstruir el creixement orgànic del text. Reveure com s’anava formant la trama i s’emplenava de detalls al llarg d\u0026rsquo;hores o dies.\n"
 			},
 			{
 				"title": "",
@@ -3104,7 +3146,7 @@
 				"date_published": "2018-12-23T20:01:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/23/douglas-adams-was.html",
 				"tags": "retalls",
-				"content_text": "📎 Douglas Adams was right: “Genuine people personalities” are coming to our gadgets\n Començarem a interactuar amb aquestes coses com ho faríem amb un ésser humà, com si no passés res estrany. Perquè hi ha quelcom inherent a la ment humana que fa que desesperadament vulguem personificar-ho tot. Potser ja ho heu fet. A la meva família ho fem… I cadascú ho fem d\u0026rsquo;una manera diferent.\n La mare, ens diu l\u0026rsquo;autor, tracta els dispositius amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l\u0026rsquo;altra”. I la filla petita, bé, Alexa encara no l\u0026rsquo;entén.\n"
+				"content_text": "📎 Douglas Adams was right: “Genuine people personalities” are coming to our gadgets\n Començarem a interactuar amb aquestes coses com ho faríem amb un ésser humà, com si no passés res estrany. Perquè hi ha quelcom inherent a la ment humana que fa que desesperadament vulguem personificar-ho tot. Potser ja ho heu fet. A la meva família ho fem… I cadascú ho fem d\u0026rsquo;una manera diferent.\n La mare, ens diu l\u0026rsquo;autor, tracta els altaveus intel·ligents amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l\u0026rsquo;altra”. I la filla petita, bé, Alexa encara no l\u0026rsquo;entén.\n"
 			},
 			{
 				"title": "Una mòmia és una mòmia",
@@ -3264,7 +3306,7 @@
 				"title": "",
 				"date_published": "2018-12-14T12:24:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/14/132402.html",
-				"tags": "retalls, citacions",
+				"tags": "retalls",
 				"content_text": " Les expectatives dels sistemes blockchain, altes fa un any, cauen gairebé tan ràpid com els preus de les monedes que hi estan basades.\n 📎 MIT Technology Review\n"
 			},
 			{
@@ -3292,7 +3334,7 @@
 				"title": "",
 				"date_published": "2018-12-13T07:02:31+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/13/080231.html",
-				"tags": "",
+				"tags": "fotos",
 				"content_text": "Cinquanta-un\n"
 			},
 			{
@@ -6583,7 +6625,7 @@
 				"date_published": "2017-12-25T09:49:22+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/25/104922.html",
 				"tags": "",
-				"content_text": "Fa temps que pense que un dels defectes més greus de la teologia cristiana és considerar Déu com a pare i no com a mare. I ara, aquest tuit de fa any i mig em demostra que ja el Déu de l\u0026rsquo;Antic Testament era dona:\n Omg. I just realized. Of COURSE God is a woman. That\u0026rsquo;s why the Bible is an entire book filled with men explaining what she said.\n@JenKirkman June 8, 2016\n (Via Verne\n"
+				"content_text": "Fa temps que pense que un dels defectes més greus de la teologia cristiana és considerar Déu com a pare i no com a mare. I ara, aquest tuit de fa any i mig em demostra que ja el Déu de l\u0026rsquo;Antic Testament era dona:\n Omg. I just realized. Of COURSE God is a woman. That\u0026rsquo;s why the Bible is an entire book filled with men explaining what she said.\n@JenKirkman June 8, 2016\n (Via Verne.)\n"
 			},
 			{
 				"title": "",
@@ -6680,36 +6722,36 @@
 				"title": "",
 				"date_published": "2017-12-17T09:40:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/17/104010.html",
-				"tags": "retalls",
-				"content_text": "📎 Rafael Sánchez Ferlosio: “A mí me interesa Vargas Llosa porque es un poco de risa. Es muy malo.”\n"
+				"tags": "retalls, citacions",
+				"content_text": " A mí me interesa Vargas Llosa porque es un poco de risa. Es muy malo.\n 📎 Rafael Sánchez Ferlosio: “No estoy de acuerdo con todo lo que he escrito en mi vida”\n"
 			},
 			{
 				"title": "",
 				"date_published": "2017-12-16T07:39:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/16/083942.html",
 				"tags": "retalls",
-				"content_text": "📎 CDC gets list of forbidden words: Fetus, transgender, diversity\nL\u0026rsquo;administració Trump lliura als Centres de Control i Prevenció de Malalties una llista de —set— termes prohibits: vulnerable, dret, diversitat, transgènere, fetus, basat en l\u0026rsquo;evidència i basat en la ciència.\n"
+				"content_text": "📎 CDC gets list of forbidden words: Fetus, transgender, diversity\nEl govern Trump lliura als Centres de Control i Prevenció de Malalties una llista de set termes prohibits: vulnerable, dret, diversitat, transgènere, fetus, basat en l\u0026rsquo;evidència i basat en la ciència.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2017-12-15T20:14:37+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/15/211437.html",
 				"tags": "ressenyes",
-				"content_text": "📺 Black Mirror: The Twilight Zone actualitzada a l\u0026rsquo;era cibernètica? En color i encara més inquietant, perquè invoca pors actuals. \u0026ldquo;Be Right Back\u0026rdquo; (segona temporada, primer capítol) m\u0026rsquo;ha recordat Solaris, de Lem, però… la primera com a tragèdia, la segona com a farsa: com ha de ser.\n"
+				"content_text": "📺 Black Mirror: The Twilight Zone actualitzada a l\u0026rsquo;era cibernètica? En color i encara més inquietant, perquè invoca pors actuals. “Be Right Back” (segona temporada, primer capítol) m\u0026rsquo;ha recordat Solaris, de Lem, però… la primera com a tragèdia, la segona com a farsa: com ha de ser.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2017-12-15T16:44:15+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/15/174415.html",
 				"tags": "fotos, UJI, fotos",
-				"content_text": "\u0026ldquo;Col·lectius fent front a la por: grups artístics espanyols 1945-1975\u0026rdquo;. Exposició del CIDA del Museu d\u0026rsquo;Art Contemporani de Vilafamés en la Biblioteca #UJI.\n"
+				"content_text": "“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d\u0026rsquo;Art Contemporani de Vilafamés en la Biblioteca #UJI.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2017-12-15T14:56:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/15/the-massive-project.html",
 				"tags": "retalls",
-				"content_text": "📎 The Massive Project to Clean Up the Ocean With a Two-Kilometer Screen\n$2.2 million from 38,000 people in 160 countries. The most successful non-profit crowdfunding campaign to date.\n"
+				"content_text": "📎 The Massive Project to Clean Up the Ocean With a Two-Kilometer Screen\n2,2 milions de dòlars aportats per 38.000 persones des de cent seixanta països. La major campanya de finançament col·lectiu fins a la data.\n"
 			},
 			{
 				"title": "",
@@ -6723,7 +6765,7 @@
 				"date_published": "2017-12-14T13:07:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/12/14/la-red-no.html",
 				"tags": "retalls",
-				"content_text": "📎 La Red no es neutral y nunca lo ha sido (pero hoy podría empeorar mucho)\nMassa important per a quedar en mans privades. La neutralitat de la Xarxa es l\u0026rsquo;única manera de protegir-la dels amos de les infraestructures, que es moren per decidir quin tràfic necessiten els seus usuaris.\n"
+				"content_text": "📎 La Red no es neutral y nunca lo ha sido (pero hoy podría empeorar mucho)\nMassa important per a quedar en mans privades. La neutralitat de la Xarxa es l\u0026rsquo;única manera de protegir-la dels amos de les infraestructures, que es moren per decidir quin tràfic necessiten (ehem) els seus usuaris.\n"
 			},
 			{
 				"title": "",
@@ -9586,7 +9628,7 @@
 				"date_published": "2006-12-16T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2006/12/16/la-confabulaci-del.html",
 				"tags": "",
-				"content_text": "Un dels jurats va arribar tard i es va disculpar tot explicant que venia d’un curs de voluntats anticipades. El premi d’assaig havia quedat desert. El de poesia va anar a parar a Castelló (en trucar-li, la guanyadora va rebre la notícia amb un crit d’alegria). El de narrativa a Nova York: per a un senyor de Blanes, metge, que està treballant en l’Hospital Mount Sinai.\nEls escriptors són gent de bon apetit, de gustos senzills i de conversa fàcil. Una mica abans de les deu vam deixar que ens portessin cap a un restaurant, en un carrer que s’allunyava d’Almassora per endinsar-se en la nit i en el fred. Vam demanar cocodril, però no en tenien prou per a tothom i alguns van preferir peix: rèmol. O potser em confonc: no devia ser una varietat de palaia? El cocodril, en tot cas, era mexicà, de granja, no el cocodril siamès —il·legal, furtiu— que té propietats secretes, conegudes només dels iniciats, i que ens havia estat suggerit prèviament en veu baixa.\nVam parlar del menjar i del beure, del cos i de l’ànima, de la voluntat, anticipada o ajornada, d’arbres, de filologia, dels noms dels peixos, dels noms misteriosos de les coses, d’una ciutat habitada per gossos… de llocs on uns han estat i on uns altres no anirem mai.\nA la mitjanit vam tornar cadascun al seu cau, a colgar-nos sota les mantes i a continuar fabulant en solitud i silenci, indistintament vers el son, vers el somni.\n(Fabular: aquest verb no es troba en el DIEC ni en el DGLC, però sí en el Català-Valencià-Balear, que li dóna aquesta etimologia: del llatí fabulari: “parlar, contar, dir faules”).\n"
+				"content_text": "Un dels jurats va arribar tard i es va disculpar tot explicant que venia d’un curs de voluntats anticipades. El premi d’assaig havia quedat desert. El de poesia va anar a parar a Castelló (en trucar-li, la guanyadora va rebre la notícia amb un crit d’alegria). El de narrativa a Nova York: per a un senyor de Blanes, metge, que està treballant en l’Hospital Mount Sinai.\nEls escriptors són gent de bon apetit, de gustos senzills i de conversa fàcil. Una mica abans de les deu vam deixar que ens portessin cap a un restaurant, en un carrer que s’allunyava d’Almassora per endinsar-se en la nit i en el fred. Vam demanar cocodril, però no en tenien prou per a tothom i alguns van preferir peix: rèmol. O potser em confonc: no devia ser una varietat de palaia? El cocodril, en tot cas, era mexicà, de granja, no el cocodril siamès —il·legal, furtiu— que té propietats secretes, conegudes només dels iniciats, i que ens havia estat suggerit prèviament en veu baixa, de manera enganyosa.\nVam parlar del menjar i del beure, del cos i de l’ànima, de la voluntat, anticipada o ajornada, d’arbres, de filologia, dels noms dels peixos, dels noms misteriosos de les coses, d’una ciutat habitada per gossos… De llocs remots on uns han estat i on uns altres no anirem mai.\nA la mitjanit vam tornar cadascun al nostre cau, a colgar-nos sota les mantes i a continuar fabulant en solitud i silenci, indistintament vers el son, vers el somni.\n(Fabular: aquest verb no es troba en el DIEC ni en el DGLC, però sí en el Català-Valencià-Balear, que li dóna aquesta etimologia: del llatí fabulari: “parlar, contar, dir faules”.)\n\n"
 			},
 			{
 				"title": "Besnét d’un terrorista",
