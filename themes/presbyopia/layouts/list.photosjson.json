@@ -15,8 +15,8 @@
         "url": "{{ .Permalink }}",
           {{ range first 1 .Params.photos }}"image": "{{ . | absURL }}"{{ end }},
         "content_text": {{ .Plain | jsonify }}
-        {{- if ne (add $index 1) $len -}},{{- end -}}
       }
+      {{- if ne (add $index 1) $len -}},{{- end -}}
     {{ end }}
   ]
 }
