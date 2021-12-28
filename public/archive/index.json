@@ -7,6 +7,27 @@
 	"items": [
 			{
 				"title": "",
+				"date_published": "2021-12-25T09:30:10+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/25/venus-willendorf/",
+				"tags": "fotos",
+				"content_text": "I remember you well in the Natural History Museum in Vienna.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-24T13:10:48+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/24/automatic-muse/",
+				"tags": "retalls",
+				"content_text": "📎 The automatic muse\nNicholas Carr defensa el potencial creatiu dels algoritmes de generació automàtica de text i els compara amb les sessions d\u0026rsquo;espiritisme i escriptura automàtica de W. B. Yeats i Georgie Hyde Lees.\n Una manera de pensar les eines de generació de text basades en IA com el GPT-3 d\u0026rsquo;OpenAI és com a clarividents. Són mèdiums que porten les paraules del passat al present en una nova disposició. Al cap i a la fi, GPT-3 no crea text del no-res. Es basa en un vast corpus d\u0026rsquo;expressió humana i, a través d\u0026rsquo;un procediment estadístic quasi místic (ningú pot explicar exactament què està fent), sintetitza totes aquelles paraules antigues en quelcom nou, quelcom intel·ligible per al seu interlocutor i que requereix interpretació. Quan parlem amb GPT-3, en certa manera entrem en comunió amb els morts.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2021-12-23T21:42:55+00:00",
+				"url": "https://blog.carlesbellver.net/2021/12/23/92175/",
+				"tags": "",
+				"content_text": "Abans “els sabuts” eren els de la Societat Castellonenca de Cultura. Ara tothom és molt sabut. El progrés de la humanitat és imparable.\n"
+			},
+			{
+				"title": "",
 				"date_published": "2021-12-22T15:28:23+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/",
 				"tags": "retalls",
@@ -584,7 +605,7 @@
 				"date_published": "2020-12-31T11:01:27+01:00",
 				"url": "https://blog.carlesbellver.net/2020/12/31/mrna-vaccines/",
 				"tags": "retalls",
-				"content_text": "📎 Why mRNA vaccines could revolutionise medicine\n També és el presagi d’un nou enfocament de la medicina. Els issatgers sintètics que reprogramen les nostres cèl·lules per proporcionar una resposta immune a gairebé qualsevol invasor, incloent potser el càncer, ara es podran crear de manera ràpida i econòmica.\n "
+				"content_text": "📎 Why mRNA vaccines could revolutionise medicine\n També és el presagi d’un nou enfocament de la medicina. Els missatgers sintètics que reprogramen les nostres cèl·lules per proporcionar una resposta immune a gairebé qualsevol invasor, incloent potser el càncer, ara es podran crear de manera ràpida i econòmica.\n "
 			},
 			{
 				"title": "",
@@ -3041,7 +3062,7 @@
 				"date_published": "2019-01-01T18:30:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/01/193047.html",
 				"tags": "",
-				"content_text": "Unicorns: aquesta pàgina recull les quaranta-dues proses de 1.024 caràcters que vaig publicar entre el 18 de novembre i el 31 de desembre de 2018 (més un proemi i una coda, 44×1.024=45.056 caràcters).\n"
+				"content_text": "✍ Unicorns\nAquesta pàgina recull les quaranta-dues proses de 1.024 caràcters que vaig publicar entre el 18 de novembre i el 31 de desembre de 2018 (més un proemi i una coda, 44 × 1.024 = 45.056 caràcters).\n"
 			},
 			{
 				"title": "Coda",
@@ -3104,7 +3125,7 @@
 				"date_published": "2018-12-27T08:21:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/12/27/kola-superdeep-borehole.html",
 				"tags": "retalls",
-				"content_text": "📎 Kola Superdeep Borehole\nEntre 1970 i 1989, científics soviètics van perforar l\u0026rsquo;escorça terrestre fins a una profunditat màxima de 12.262 metres. Pel camí, havien fet algunes troballes sorprenents, com ara plàncton fòssil i aigua líquida a més de sis quilòmetres. Però es van haver d\u0026rsquo;aturar en arribar a una temperatura de 180 °C, molt lluny encara del mantell. L\u0026rsquo;any 1990, científics alemanys van perforar un pou fins a 9.101 metres i es van trobar una temperatura inusualment alta: 260 °C. (Conclusió: les portes de l\u0026rsquo;infern eren més prop d\u0026rsquo;Alemanya que no de Rússia.)\n"
+				"content_text": "📎 Kola Superdeep Borehole\nEntre 1970 i 1989, científics soviètics van perforar l\u0026rsquo;escorça terrestre fins a una profunditat de 12.262 metres. Pel camí, havien fet algunes troballes sorprenents, com ara plàncton fòssil i aigua líquida a més de sis quilòmetres. Però es van haver d\u0026rsquo;aturar en arribar a una temperatura de 180 °C, molt lluny encara del mantell. L\u0026rsquo;any 1990, científics alemanys van perforar un pou fins a 9.101 metres i es van trobar una temperatura inusualment alta: 260 °C. (Conclusió: les portes de l\u0026rsquo;infern eren més prop d\u0026rsquo;Alemanya que no de Rússia.)\n"
 			},
 			{
 				"title": "",
@@ -6568,15 +6589,15 @@
 				"title": "El tio Pasqual i Nel·lo el Tripero",
 				"date_published": "2018-01-01T13:10:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/01/el-tio-pasqual.html",
-				"tags": "",
-				"content_text": "Comence l\u0026rsquo;any amb aquest descobriment via Enric Nomdedéu:\nPasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX\nL\u0026rsquo;article destaca l’ús de la llengua catalana en els escrits del tio Pasqual, amb nombrosos manlleus del caló,. El seu Rahonament y coloqui nou de Nelo el Tripero seria fins ara la primera obra de teatre coneguda d’un autor gitano.\n Se inspiró en los ladronzuelos que rondaban por el mercado de Valencia para crear el personaje de Nelo el Tripero: anacrónico pícaro cuya vida transcurre entre pequeños hurtos, oficios efímeros, encarcelamientos en la prisión de Sent Arcís (San Narciso) y condenas en galeras reales. Y cuyo oficio, tripero, consistía en recoger por medio de un largo pincho las tripas de los caballos destripados en las corridas de toros de la época.\n La primera edició és d’una impremta de València, l’any 1792. La Biblioteca Valenciana Digital inclou còpies completes d\u0026rsquo;algunes edicions posteriors, entre altres aquesta de 1888 de la impremta de Blai Bellver de Xàtiva:\nbivaldi.gva.es/va/consulta/registro.cmd?id=8457\nUns versets extrets d\u0026rsquo;aquesta obra valdrien, sens dubte, com a encapçalament de les memòries d\u0026rsquo;uns quants personatges públics valencians. No han perdut vigència:\n Así escomensí carrera,\ny ixquí un chóro tan probat,\nqu\u0026rsquo;em féren entre atres pillos\nprimer falcó del ramal.\n Aprofite l\u0026rsquo;ocasió per recordar un episodi històric que es menciona també al començament de l\u0026rsquo;article adés citat: la Gran Redada o \u0026ldquo;Presó general de gitanos\u0026rdquo; de 1749. És estrany. Quan jo era menut, ens deien que en aquest país que ha perseguit i expulsat jueus, moros o gitanos no hi havia hagut mai racisme.\n"
+				"tags": "retalls",
+				"content_text": "📎 Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX\nComence l\u0026rsquo;any amb aquest descobriment via Enric Nomdedéu.\nL\u0026rsquo;article destaca l’ús de la llengua catalana en els escrits del tio Pasqual, amb nombrosos manlleus del caló. El seu Rahonament y coloqui nou de Nelo el Tripero seria, fins ara, la primera obra de teatre coneguda d’un autor gitano.\n Se inspiró en los ladronzuelos que rondaban por el mercado de Valencia para crear el personaje de Nelo el Tripero: anacrónico pícaro cuya vida transcurre entre pequeños hurtos, oficios efímeros, encarcelamientos en la prisión de Sent Arcís (San Narciso) y condenas en galeras reales. Y cuyo oficio, tripero, consistía en recoger por medio de un largo pincho las tripas de los caballos destripados en las corridas de toros de la época.\n La primera edició és d’una impremta de València, de l’any 1792. La Biblioteca Valenciana Digital inclou còpies completes d\u0026rsquo;algunes edicions posteriors, entre altres aquesta de 1888 de la impremta de Blai Bellver de Xàtiva:\nbivaldi.gva.es/va/consulta/registro.cmd?id=8457\nUns versets extrets d\u0026rsquo;aquesta obra valdrien, sens dubte, com a encapçalament de les memòries d\u0026rsquo;uns quants personatges públics valencians. No han perdut gens de vigència:\n Así escomensí carrera,\ny ixquí un chóro tan probat,\nqu\u0026rsquo;em féren entre atres pillos\nprimer falcó del ramal.\n Aprofite l\u0026rsquo;ocasió per recordar un episodi històric que es menciona també al començament de l\u0026rsquo;article adés citat: la Gran Redada o “Presó general de gitanos” de 1749. És estrany. Quan jo era menut, ens deien que en aquest país que ha perseguit i expulsat jueus, moros o gitanos no hi havia hagut mai racisme.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-01-01T11:10:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/01/pasqual-martnez-i.html",
 				"tags": "retalls",
-				"content_text": "📎 Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX\nEscribió en valenciano pero introdujo numerosos gitanismos.\n"
+				"content_text": "📎 Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX\n Escribió en valenciano pero introdujo numerosos gitanismos.\n "
 			},
 			{
 				"title": "",
@@ -9792,11 +9813,53 @@
 				"content_text": "L’any 1761, quan William Blake tenia tot just quatre anys, una nit se li va aparèixer Déu a través de la finestra de la seva cambra. El petit William va veure-hi una llum i després una cara.\nAnys més tard, Blake explicava aquesta història a un amic i li va mostrar, des del carrer, que el seu pare va tapiar aquella finestra i altres de l’edifici, perquè les autoritats municipals havien posat un impost nou que gravava les finestres. L’amic es va escandalitzar:\n—Déu va ficar el cap per la teva finestra i va ser aparedada. Hauria de ser una capella!\nBlake li va replicar:\n—No pateixis. Déu devia mirar per totes les finestres de Londres.\n"
 			},
 			{
+				"title": "Jo passava per allí ",
+				"date_published": "2002-12-15T22:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2002/12/15/catalan-sf-authors/",
+				"tags": "fotos",
+				"content_text": "El dia 1 de novembre, just abans de presentar El llibre de tòpics a la Barnacon, em van convidar a posar per a una foto amb una sèrie de persones del món de la ciència-ficció catalana. Ara m\u0026rsquo;he assabentat que la instantània il·lustrarà un article de la revista americana Locus (\u0026ldquo;News, Reviews, Resources, and Perspectives of Science Fiction, Fantasy and Horror\u0026rdquo;).\nEm sap greu i tot, perquè m\u0026rsquo;ho vaig passar estupendament, però em sentia una miqueta un intrús en una convenció d\u0026rsquo;aquell tipus. Probablement m\u0026rsquo;haurien d\u0026rsquo;esborrar de la imatge. En tot cas, deixe constància que d\u0026rsquo;esquerra a dreta som: Toni Segarra, Rosa Fabregat, Carles Bellver Torlà, Antoni Munnè-Jordà, Albert Garcia i Pascual, Miquel Barceló, Sebastià Roig, Montse Cerdà, Jordi Solé Camardons i Isidor Bernabé.\nPer cert, els contertulians de la llista de correu de la Societat Catalana de Ciència-Ficció i Fantasia s\u0026rsquo;han divertit fent bromes sobre el fet que van quedar tots al costat fosc, menys l\u0026rsquo;Albert, que hi és a mitges, i jo, que encara sóc al costat lluminós.\n"
+			},
+			{
 				"title": "Joan Francesc Mira, Sant Vicent i el miracle de Morella",
 				"date_published": "2002-09-29T22:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2002/09/29/joan-francesc-mira.html",
-				"tags": "Morella",
+				"tags": "fotos, Morella",
 				"content_text": "El Magazine de La Vanguardia de diumenge passat incloïa un article de Joan Francesc Mira titulat “San Vicente Ferrer en el tiempo de los milagros”. Mira hi esbossava breument el perfil del sant com a taumaturg (“autor de meravelles”) i de pas promocionava el seu propi llibre Sant Vicent Ferrer. Vida i llegenda d’un predicador, premi Nacional de la Crítica.\nL’enquesta de canonització de Sant Vicent, el 1455, va donar per bons un total de 873 miracles. No sé si un dels més xocants, el que va tenir lloc a Morella, figurava en aquella llista. Supose que sí. A mi, i a tota la classe de primer de bàsica, ens el va contar donya Paquita. Diu que una vegada van convidar a dinar el sant en una casa de la capital dels Ports. La mestressa, en veure que no tenia carn i ofuscada pel compromís, va decidir sacrificar el seu fill, un xiquet menut. El va matar, el va trossejar i el va guisar. Sant Vicent, però, es va ensumar la malifeta i va recompondre immediatament la criatura. Els artistes la representen dreta i nua damunt de la taula del menjador, entre plats i perols.\nMira opina, amb raó, que aquesta proesa és difícilment superable. La compara amb guariments i amb altres ressurreccions menys meritòries i conclou que “…no hay duda de que ganaría el premio de honor en cualquier competición universal de milagros.” Crec, tanmateix, que comet una exageració, víctima, potser, d’un excés patriòtic. Un professor tan sabut, d’erudició reconeguda, sens dubte no ignora que aquest miracle és còpia d’un altre anterior atribuït a Sant Nicolau de Bari, qui el va executar, a més a més, per triplicat: els seus beneficiaris van ser tres infants esquarterats per un carnisser. Amb la qual cosa, a dreta llei hauria d’endur-se ell el premi.\nAquesta dada referent a Sant Nicolau, la sé per un article de mossèn Alanyà publicat en el butlletí d’AMIC (Amics de Morella i Comarca), però es pot comprovar consultant qualsevol enciclopèdia. Atribuir miracles a un sant, quants més millor, era una manera habitual d’augmentar-ne el prestigi. I també pel prestigi, les ciutats es disputaven la tinença dels sants. Sant Nicolau de Bari en realitat era de Mira —vegeu quina coincidència de noms—, a l’Àsia Menor, fins que els italians van organitzar una expedició l’any 1087 per apoderar-se de les seves relíquies. Més endavant va arribar ser el Sinterklaas dels holandesos i el Santa Claus dels anglosaxons.\n(La literatura fantàstica té ramificacions diverses. Una és la metafísica, segons Borges. Les vides de sants en són una altra. Una de les meves fonts preferides és la Llegenda Àuria de Jacopo da Varazze. Algun dia hauríem de tornar a parlar del miracle de la cama negra de Sant Cosme i Sant Damià, precursors dels trasplantaments. O dels fets sobrenaturals de la santa apòcrifa de Vilafamés.)\n"
+			},
+			{
+				"title": "",
+				"date_published": "2002-04-30T22:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2002/04/30/quaoar/",
+				"tags": "",
+				"content_text": "La setmana passada, els astrònoms Chad Trujillo i Mike Brown del Caltech, o Institut de Tecnologia de Califòrnia, van fer públic el descobriment d\u0026rsquo;un nou cos celeste més enllà de Plutó, a la zona de l\u0026rsquo;anomenat cinturó de Kuiper, que diuen que és d\u0026rsquo;on vénen els cometes. Això són, aproximadament, 6.500 milions de quilòmetres des de casa nostra: la llum del sol tarda cinc hores a arribar-hi. Aquest món llunyà, negre i glaçat, li han anomenat Quaoar, que és la força de la creació en la llengua dels indis Tongva que vivien abans a Los Angeles, on hi ha el Caltech.\nTrujillo ha publicat una FAQ amb dades i imatges. Podríem pensar que Quaoar és el llegendari planeta X. Més informació sobre aquest i altres planetes i satèl·lits esquívols a la plana Hypothetical Planets; inclòs el segon satèl·lit de la Terra que apareixia a la novel·la de Jules Verne De la Terra a la Lluna.\nEl descobriment de Plutó l\u0026rsquo;any 1930 va inspirar a Lovecraft l\u0026rsquo;esplèndid relat de ciència ficció The Whisperer in Darkness (El que susurra en la oscuridad en la traducció d\u0026rsquo;Aurelio Martínez Benito per a Alianza Editorial). La imaginació de Lovecraft convertia Plutó-Yuggoth en el darrer cap de pont dels Exteriors, els esgarrifosos fongs de Yuggoth, abans d\u0026rsquo;arribar a la Terra.\nPel que fa a viatges interplanetaris i invasions extraterrestres, estic escrivint un article per a Lovecraft Magazine sobre les novel·les còsmiques de C. S. Lewis. Concretament en Out of the Silent Planet (Lejos del planeta silencioso) les coses s\u0026rsquo;esdevenen a l\u0026rsquo;inrevés. Són els terraqüis, alguns terraqüis, els que després d\u0026rsquo;espoliar el seu planeta se\u0026rsquo;n van a Mart a veure què en poden traure. I els ingenus habitants del Planeta Roig que es facen fotre.\n"
+			},
+			{
+				"title": "Microcontes. Una mica d'història",
+				"date_published": "2002-04-30T22:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2002/04/30/microcontes/",
+				"tags": "",
+				"content_text": "L\u0026rsquo;any 1996, Josep M. Chordà i jo mateix vam crear una llista de correu, completament oberta a tothom, per intercanviar i compartir relats breus. Li vam dir microcontes, i amb aquest neologisme ens referíem a “històries de 3 a 3.000 paraules que es poden escriure, enviar i llegir còmodament dins d\u0026rsquo;un missatge de correu electrònic”. Ni la forma narrativa ni la denominació que li aplicàvem tenien llavors tanta difusió com ara.\nAvui hem recuperat, una mica casualment, els arxius](http://l0fi.net/CPE/microcontes/threads.html) complets de la llista i hem fet memòria. Resulta que la vaig inaugurar jo l\u0026rsquo;u d\u0026rsquo;octubre de 1996 amb dues versiones alternatives d\u0026rsquo;una història d\u0026rsquo;astronautes i ovelles extraterrestres. Quan la vam tancar, el 18 d\u0026rsquo;abril de 1998, feia una temporada que els habituals participaven menys i, d\u0026rsquo;altra banda, ja començava a fer nosa aquest fenonem d\u0026rsquo;inundació de publicitat no sol·licitada (spam) que avui ens preocupa a quasi tots. Després de l\u0026rsquo;anunci d\u0026rsquo;un “SERVICIO RAPIDO DE COPIAS DE CD-ROM”, el darrer missatge de tots que es va distribuir deia profèticament:\n FAVOR NO ENVIAR CORREO A MI BUZON.\n "
+			},
+			{
+				"title": "L'obligació de ser antiliterari",
+				"date_published": "2002-04-13T22:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2002/04/13/antiliterari/",
+				"tags": "citacions",
+				"content_text": " La obligación del escritor es ser antiliterario. Oficio implica amaneramiento. He oído de algunos pintores que cuando han alcanzado alguna maestría comienzan a pintar con la mano izquierda para no amanerarse y para explorar nuevos territorios… Eso implica escribir desde el lado desde el que no se sabe escribir. Esto te lo tienes que plantear cada día cuando te sientas a escribir. Siempre está el peligro de aplicar el oficio, y así sólo puedes aspirar a hacer más de lo mismo.\u0026quot;\n —Juan José Millás en El País.\n"
+			},
+			{
+				"title": "La nostra situació respecte al temps",
+				"date_published": "2002-03-23T22:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2002/03/23/temps/",
+				"tags": "citacions",
+				"content_text": " No deixa de tenir plena actualitat la famosa pregunta formulada, “en to molt fatigat, propi d\u0026rsquo;un home molt vell”, per Arthur Cravan a André Gide: “Monsieur Gide, en quin punt del temps ens trobem?”. Gide va contestar, sense segona intenció: “Tres quarts de sis”. Sí, cal fer-ho constar, molt dolenta és la nostra situació respecte al temps.\n —André Breton, prefaci a la reimpressió del Manifest del Surrealisme, 1929.\n"
+			},
+			{
+				"title": "Cinc minuts en hongarès",
+				"date_published": "2002-02-17T22:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2002/02/17/cinc-minuts/",
+				"tags": "contes",
+				"content_text": "Avui durant el dinar —és diumenge i hi érem tota la família, reunits al voltant de la taula— he deixat d’entendre el que deien els altres. Em semblava reconèixer vagament les paraules que empraven, però no en copsava el sentit, com si tot d’una hagués oblidat la meva llengua materna. Quan he intentat parlar encara ha estat pitjor: feia basarda sentir, sortint de la meva boca, aquells modismes inintel·ligibles, aparentment estrangers.\nL’estranya síndrome ha durat tot just cinc minuts. M’han fet beure aigua i m’han indicat amb gestos que respirés fondo. A poc a poc he retornat a la normalitat. Toni, el meu germà, m’ha preguntat si anit em vaig deixar la ràdio sintonitzada amb alguna emissora internacional. Li he contestat que no. Ell diu que el que xerrava podia ser hongarès o lapó. Ens ha contat també que una vegada es va publicar que els americans tenien un extraterrestre en un soterrani del Pentàgon i que van aconseguir comunicar-se amb ell per mitjà d’un dialecte del magiar.\nJo estava una mica capficat i pensava si no caldria que m’ho mirés un metge. El meu germà m’ha donat aquest consell:\n—Si ara et trobes bé i això no es repeteix, jo de tu ho deixaria córrer. Pensa que et podries col·locar en el punt de mira de la CIA, dels espiritistes, de la premsa i les televisions locals i dels psiquiatres de la seguretat social.\n"
 			}
 	]
 }

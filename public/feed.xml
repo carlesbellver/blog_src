@@ -6,8 +6,40 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Wed, 22 Dec 2021 15:28:23 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Dec 2021 09:30:10 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/12/25/venus-willendorf/</link>
+      <pubDate>Sat, 25 Dec 2021 09:30:10 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/12/25/venus-willendorf/</guid>
+      <description>&lt;p&gt;I remember you well in the Natural History Museum in Vienna.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-12-25-venus-willendorf.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/12/24/automatic-muse/</link>
+      <pubDate>Fri, 24 Dec 2021 13:10:48 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/12/24/automatic-muse/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.roughtype.com/?p=9100&#34;&gt;The automatic muse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nicholas Carr defensa el potencial creatiu dels algoritmes de generació automàtica de text i els compara amb les sessions d&amp;rsquo;espiritisme i escriptura automàtica de W. B. Yeats i Georgie Hyde Lees.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Una manera de pensar les eines de generació de text basades en IA com el GPT-3 d&amp;rsquo;OpenAI és com a clarividents. Són mèdiums que porten les paraules del passat al present en una nova disposició. Al cap i a la fi, GPT-3 no crea text del no-res. Es basa en un vast corpus d&amp;rsquo;expressió humana i, a través d&amp;rsquo;un procediment estadístic quasi místic (ningú pot explicar exactament què està fent), sintetitza totes aquelles paraules antigues en quelcom nou, quelcom intel·ligible per al seu interlocutor i que requereix interpretació. Quan parlem amb GPT-3, en certa manera entrem en comunió amb els morts.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/12/23/92175/</link>
+      <pubDate>Thu, 23 Dec 2021 21:42:55 +0000</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/12/23/92175/</guid>
+      <description>&lt;p&gt;Abans “els sabuts” eren els de la Societat Castellonenca de Cultura. Ara tothom és molt sabut. El progrés de la humanitat és imparable.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -266,43 +298,6 @@ inflating: unicorns.txt
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.&lt;/p&gt;
 &lt;p&gt;Més detalls tècnics ací 👉 &lt;a href=&#34;https://github.com/DavidBuchanan314/tweetable-polyglot-png&#34;&gt;tweetable-polyglot-png&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/11/01/tots-sants/</link>
-      <pubDate>Mon, 01 Nov 2021 19:37:18 +0100</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/11/01/tots-sants/</guid>
-      <description>&lt;p&gt;Tots Sants.&lt;/p&gt;
-&lt;img alt=&#34;Plaça de Santa Clara a Castelló&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-01-tots-sants.jpg&#34;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/10/30/carr-fix-social-media/</link>
-      <pubDate>Sat, 30 Oct 2021 09:56:55 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/10/30/carr-fix-social-media/</guid>
-      <description>&lt;p&gt;📎 Nicholas Carr: &lt;a href=&#34;https://www.thenewatlantis.com/publications/how-to-fix-social-media&#34;&gt;How to Fix Social Media&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Desenredar el discurs personal del discurs públic és clarificador. Revela el doble paper que juguen les empreses de xarxes socials. Transmeten missatges personals en nom d&amp;rsquo;individus i emeten una varietat de continguts al públic en general. Els dos negocis tenen característiques molt diferents, com hem vist, i exigeixen diferents tipus de supervisió.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/10/27/dune-ms-dos/</link>
-      <pubDate>Wed, 27 Oct 2021 20:19:36 +0200</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/10/27/dune-ms-dos/</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos&#34;&gt;The ‘Dune’ Screenplay Was Written in MS-DOS&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“És meitat superstició i meitat por al canvi.”&lt;br&gt;
-[…]&lt;br&gt;
-Res elimina les distraccions com un programa senzill sense accés a Internet. Roth també va dir que el límit de quaranta pàgines l&amp;rsquo;ajuda a estructurar els seus guions. &amp;ldquo;M&amp;rsquo;agrada perquè separa els actes&amp;rdquo;, va dir. &amp;ldquo;M&amp;rsquo;adone que si no ho he explicat en quaranta pàgines, comence a tenir problemes&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Roth no és l&amp;rsquo;únic escriptor que utilitza programes antics. George RR Martin ha escrit pausadament tots els seus llibres de &lt;em&gt;Joc de trons&lt;/em&gt; amb el &lt;a href=&#34;https://www.vice.com/en/article/53dwb3/it-makes-no-sense-that-word-processors-are-still-designed-for-the-printed-page&#34;&gt;WordStar&lt;/a&gt; de MS-DOS.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

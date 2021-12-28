@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/</loc>
-    <lastmod>2021-12-22T15:28:23+01:00</lastmod>
+    <loc>https://blog.carlesbellver.net/2021/12/25/venus-willendorf/</loc>
+    <lastmod>2021-12-25T09:30:10+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/fotos/</loc>
+    <lastmod>2021-12-25T09:30:10+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/</loc>
-    <lastmod>2021-12-22T15:28:23+01:00</lastmod>
+    <lastmod>2021-12-25T09:30:10+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/posts/</loc>
-    <lastmod>2021-12-22T15:28:23+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/retalls/</loc>
-    <lastmod>2021-12-22T15:28:23+01:00</lastmod>
+    <lastmod>2021-12-25T09:30:10+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/tags/</loc>
+    <lastmod>2021-12-25T09:30:10+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2021/12/24/automatic-muse/</loc>
+    <lastmod>2021-12-24T13:10:48+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/retalls/</loc>
+    <lastmod>2021-12-24T13:10:48+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2021/12/23/92175/</loc>
+    <lastmod>2021-12-23T21:42:55+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2021/12/22/imaginary-numbers/</loc>
     <lastmod>2021-12-22T15:28:23+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2021/12/19/oreilly-web3/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2021-12-19T19:13:43+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2021/12/13/20209/</loc>
-    <lastmod>2021-12-13T19:30:11+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/fotos/</loc>
     <lastmod>2021-12-13T19:30:11+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2021/12/12/93196/</loc>
@@ -4244,12 +4253,32 @@
     <loc>https://blog.carlesbellver.net/2003/02/01/la-finestra-de.html</loc>
     <lastmod>2003-02-01T23:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blog.carlesbellver.net/2002/12/15/catalan-sf-authors/</loc>
+    <lastmod>2002-12-15T22:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.carlesbellver.net/2002/09/29/joan-francesc-mira.html</loc>
     <lastmod>2002-09-29T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2002/04/30/quaoar/</loc>
+    <lastmod>2002-04-30T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2002/04/30/microcontes/</loc>
+    <lastmod>2002-04-30T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2002/04/13/antiliterari/</loc>
+    <lastmod>2002-04-13T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2002/03/23/temps/</loc>
+    <lastmod>2002-03-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/2002/02/17/cinc-minuts/</loc>
+    <lastmod>2002-02-17T22:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/categories/</loc>
   </url><url>
     <loc>https://blog.carlesbellver.net/search/</loc>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/stats/</loc>
   </url><url>
     <loc>https://blog.carlesbellver.net/photos/</loc>
   </url><url>

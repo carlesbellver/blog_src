@@ -6,10 +6,24 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Wed, 22 Dec 2021 15:28:23 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Dec 2021 13:10:48 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/24/automatic-muse/</link>
+      <pubDate>Fri, 24 Dec 2021 13:10:48 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/24/automatic-muse/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.roughtype.com/?p=9100&#34;&gt;The automatic muse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nicholas Carr defensa el potencial creatiu dels algoritmes de generació automàtica de text i els compara amb les sessions d&amp;rsquo;espiritisme i escriptura automàtica de W. B. Yeats i Georgie Hyde Lees.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Una manera de pensar les eines de generació de text basades en IA com el GPT-3 d&amp;rsquo;OpenAI és com a clarividents. Són mèdiums que porten les paraules del passat al present en una nova disposició. Al cap i a la fi, GPT-3 no crea text del no-res. Es basa en un vast corpus d&amp;rsquo;expressió humana i, a través d&amp;rsquo;un procediment estadístic quasi místic (ningú pot explicar exactament què està fent), sintetitza totes aquelles paraules antigues en quelcom nou, quelcom intel·ligible per al seu interlocutor i que requereix interpretació. Quan parlem amb GPT-3, en certa manera entrem en comunió amb els morts.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       
@@ -442,7 +456,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://blog.carlesbellver.net/2020/12/31/mrna-vaccines/</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.rationaloptimist.com/blog/mrna-vaccines-could-revolutionise-medicine/&#34;&gt;Why mRNA vaccines could revolutionise medicine&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;També és el presagi d’un nou enfocament de la medicina. Els issatgers sintètics que reprogramen les nostres cèl·lules per proporcionar una resposta immune a gairebé qualsevol invasor, incloent potser el càncer, ara es podran crear de manera ràpida i econòmica.&lt;/p&gt;
+&lt;p&gt;També és el presagi d’un nou enfocament de la medicina. Els missatgers sintètics que reprogramen les nostres cèl·lules per proporcionar una resposta immune a gairebé qualsevol invasor, incloent potser el càncer, ara es podran crear de manera ràpida i econòmica.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -455,8 +469,8 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://blog.carlesbellver.net/2020/12/31/this-year-education/</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://hackeducation.com/2020/12/30/fuck-this-year&#34;&gt;Remember This Year&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;El 2008, Clayton Christensen i Michael Horn van predir alegrement que, el 2019, la meitat de les classes de secundària es farien per Internet. Es van equivocar, per descomptat, i es van equivocar de molt. I que totes les classes es traslladessin a Internet el 2020 no els dóna la raó. Que totes les classes es fessin en línia no va ser un triomf de l’educació en línia, sinó més aviat una conseqüència dels passos que hagueren de fer les escoles per evitar més pèrdues de vides…&lt;br&gt;
-No és sorprenent que el pas a l’educació en línia, facilitat per programes de videoconferència i fulls de treball digitals, no hagi estat fantàstic per a professors i alumnes. Per descomptat, l’educació presencial tampoc no era gens fantàstica per a molts professors i alumnes.&lt;/p&gt;
+&lt;p&gt;El 2008, Clayton Christensen i Michael Horn van predir alegrement que, el 2019, la meitat de les classes de secundària es farien per Internet. Es van equivocar, per descomptat, i es van equivocar de molt. I que totes les classes es traslladessin a Internet el 2020 no els dóna la raó. Que totes les classes es fessin en línia no va ser un triomf de l’educació en línia, sinó més aviat una conseqüència dels passos que hagueren de fer les escoles per evitar més pèrdues de vides…&lt;/p&gt;
+&lt;p&gt;No és sorprenent que el pas a l’educació en línia, facilitat per programes de videoconferència i fulls de treball digitals, no hagi estat fantàstic per a professors i alumnes. Per descomptat, l’educació presencial tampoc no era gens fantàstica per a molts professors i alumnes.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Audrey Watters&lt;/p&gt;
 </description>
@@ -3147,7 +3161,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
       
       <guid>https://blog.carlesbellver.net/2018/12/27/kola-superdeep-borehole.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.amusingplanet.com/2018/12/kola-superdeep-borehole.html&#34;&gt;Kola Superdeep Borehole&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Entre 1970 i 1989, científics soviètics van perforar l&amp;rsquo;escorça terrestre fins a una profunditat màxima de 12.262 metres. Pel camí, havien fet algunes troballes sorprenents, com ara plàncton fòssil i aigua líquida a més de sis quilòmetres. Però es van haver d&amp;rsquo;aturar en arribar a una temperatura de 180 °C, molt lluny encara del mantell. L&amp;rsquo;any 1990, científics alemanys van perforar un pou fins a 9.101 metres i es van trobar una temperatura inusualment alta: 260 °C. (Conclusió: les portes de l&amp;rsquo;infern eren més prop d&amp;rsquo;Alemanya que no de Rússia.)&lt;/p&gt;
+&lt;p&gt;Entre 1970 i 1989, científics soviètics van perforar l&amp;rsquo;escorça terrestre fins a una profunditat de 12.262 metres. Pel camí, havien fet algunes troballes sorprenents, com ara plàncton fòssil i aigua líquida a més de sis quilòmetres. Però es van haver d&amp;rsquo;aturar en arribar a una temperatura de 180 °C, molt lluny encara del mantell. L&amp;rsquo;any 1990, científics alemanys van perforar un pou fins a 9.101 metres i es van trobar una temperatura inusualment alta: 260 °C. (Conclusió: les portes de l&amp;rsquo;infern eren més prop d&amp;rsquo;Alemanya que no de Rússia.)&lt;/p&gt;
 </description>
     </item>
     
@@ -7161,13 +7175,41 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
     </item>
     
     <item>
+      <title>El tio Pasqual i Nel·lo el Tripero</title>
+      <link>https://blog.carlesbellver.net/2018/01/01/el-tio-pasqual.html</link>
+      <pubDate>Mon, 01 Jan 2018 13:10:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2018/01/01/el-tio-pasqual.html</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://gitanizate.wordpress.com/2017/12/19/pasqual-martinez-i-garcia-escritor-gitano-valenciano-del-siglo-xix/&#34;&gt;Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/wp-content/uploads/2018/01/Nelo.jpg&#34; class=&#34;alignnone size-medium wp-image-769&#34; width=&#34;300&#34; height=&#34;300&#34; alt=&#34;Portada del llibre: Rahonament y coloqui nou de Nelo el Tripero&#34;&gt;
+&lt;p&gt;Comence l&amp;rsquo;any amb aquest descobriment &lt;a href=&#34;https://twitter.com/nomdedeu/status/947757982229696512&#34;&gt;via Enric Nomdedéu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;article destaca l’ús de la llengua catalana en els escrits del &lt;em&gt;tio Pasqual&lt;/em&gt;, amb nombrosos manlleus del caló. El seu &lt;em&gt;Rahonament y coloqui nou de Nelo el Tripero&lt;/em&gt; seria, fins ara, la primera obra de teatre coneguda d’un autor gitano.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Se inspiró en los ladronzuelos que rondaban por el mercado de Valencia para crear el personaje de Nelo el Tripero: anacrónico pícaro cuya vida transcurre entre pequeños hurtos, oficios efímeros, encarcelamientos en la prisión de Sent Arcís (San Narciso) y condenas en galeras reales. Y cuyo oficio, tripero, consistía en recoger por medio de un largo pincho las tripas de los caballos destripados en las corridas de toros de la época.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;La primera edició és d’una impremta de València, de l’any 1792. La &lt;a href=&#34;http://bivaldi.gva.es&#34;&gt;Biblioteca Valenciana Digital&lt;/a&gt; inclou còpies completes d&amp;rsquo;algunes edicions posteriors, entre altres aquesta de 1888 de la impremta de Blai Bellver de Xàtiva:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bivaldi.gva.es/va/consulta/registro.cmd?id=8457&#34;&gt;bivaldi.gva.es/va/consulta/registro.cmd?id=8457&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Uns versets extrets d&amp;rsquo;aquesta obra valdrien, sens dubte, com a encapçalament de les memòries d&amp;rsquo;uns quants personatges públics valencians. No han perdut gens de vigència:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Así escomensí carrera,&lt;br&gt;
+y ixquí un chóro tan probat,&lt;br&gt;
+qu&amp;rsquo;em féren entre atres pillos&lt;br&gt;
+primer falcó del ramal.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aprofite l&amp;rsquo;ocasió per recordar un episodi històric que es menciona també al començament de l&amp;rsquo;article adés citat: la &lt;a href=&#34;https://ca.wikipedia.org/wiki/Gran_Agafada&#34;&gt;Gran Redada&lt;/a&gt; o “Presó general de gitanos” de 1749. És estrany. Quan jo era menut, ens deien que en aquest país que ha perseguit i expulsat jueus, moros o gitanos no hi havia hagut mai racisme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       
       <link>https://blog.carlesbellver.net/2018/01/01/pasqual-martnez-i.html</link>
       <pubDate>Mon, 01 Jan 2018 11:10:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/01/01/pasqual-martnez-i.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://gitanizate.wordpress.com/2017/12/19/pasqual-martinez-i-garcia-escritor-gitano-valenciano-del-siglo-xix/&#34;&gt;Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Escribió en valenciano pero introdujo numerosos gitanismos.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

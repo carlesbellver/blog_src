@@ -17,11 +17,11 @@
         <td width="60%">{{ $postCount }}</td>
     </tr>
     <tr>
-		<td>Mots totals</td>
-		<td>{{ $wordCount }}{{ if gt $wordCount 40000 }} (quasi {{ div $wordCount 40000 }} novel·les){{ end }}</td>
+		<td>Paraules en total</td>
+		<td>{{ $wordCount }}{{ if gt $wordCount 40000 }} ({{ div $wordCount 40000 }} novel·les){{ end }}</td>
 	</tr>
     <tr>
-		<td>Mitjana de mots per apunt</td>
+		<td>Mitjana de paraules per apunt</td>
 		<td>{{ $avgPostLength }}</td>
 	</tr>
     <tr>

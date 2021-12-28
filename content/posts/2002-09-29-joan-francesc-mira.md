@@ -3,7 +3,8 @@ url = "/2002/09/29/joan-francesc-mira.html"
 title = "Joan Francesc Mira, Sant Vicent i el miracle de Morella"
 date = "2002-09-29T22:00:00+00:00"
 slug = "joan-francesc-mira"
-tags = ["Morella"]
+tags = ["fotos", "Morella"]
+photos = ["/uploads/2002/2002-09-29-enajenada.jpg"]
 +++
 
 <img src="/uploads/2002/2002-09-29-enajenada.jpg" width="600" height="600" />
