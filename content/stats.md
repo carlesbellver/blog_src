@@ -1,0 +1,5 @@
+---
+title: "Estadístiques"
+---
+
+{{< poststats/detailed >}}
