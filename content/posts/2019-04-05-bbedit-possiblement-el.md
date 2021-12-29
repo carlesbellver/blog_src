@@ -9,4 +9,4 @@ BBEdit —possiblement el millor editor de textos per a Mac— ha tornat a la Ma
 
 <img src="/uploads/2019/adecdb41ee.jpg" width="600" height="217" alt="" />
 
-Sí, *the one in Spain* era jo. No van triar la meva versió, però igualment vaig tenir els meus minuts warholians de fama, en aquells anys en què la Internet era un lloc molt més petit i discret que no pas ara.
+Sí, *the one in Spain* era jo. No van triar la meva versió, però igualment vaig tenir els meus [minuts warholians de fama](/2003/06/03/bbedit), en aquells anys en què la Internet era un lloc molt més petit i discret que no pas ara.

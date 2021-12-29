@@ -1,5 +1,5 @@
 +++
-title = "Versions sobre la creació del món i les raons de la confusió "
+title = "Versions sobre la creació del món i les raons de la confusió"
 date = "2003-02-14T21:00:00+00:00"
 slug = "correo-euclides"
 photos = ["/uploads/2003/2003-02-14-correo-euclides.jpg"]
