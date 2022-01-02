@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [Las 'apps' más populares de Android envían datos a Facebook sin tu permiso](https://m.eldiario.es/tecnologia/populares-Android-envian-Facebook-permiso_0_852865126.html)
 
-Un informe de l'ONG britànica Privacy International i un nou episodi en la llarga llista d'abusos que conformen el negoci de Facebook. Almenys vint de les trenta i tantes aplicacions més populars en Google Play envien les nostres dades a Facebook tan prompte com comencem a utilitzar-les. Sense demanar permís, per descomptat, ni informar-ne. Tripadvisor, Shazam, Spotify, Duolingo, Skyscanner i altres.
+Un informe de l'ONG britànica Privacy International i un nou episodi en la llarga llista d'abusos que conformen el negoci de Facebook. Almenys vint de les trenta i tantes aplicacions més populars en Google Play envien les nostres dades a Facebook tan prompte com comencem a utilitzar-les. Sense demanar permís, per descomptat, ni informar l'usuari. Tripadvisor, Shazam, Spotify, Duolingo, Skyscanner i altres.
 
