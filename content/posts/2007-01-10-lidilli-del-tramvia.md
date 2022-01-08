@@ -15,5 +15,5 @@ M'ha fet pensar-hi la relació amorosa de les nostres autoritats amb aqueix fals
 
 Sigui com vulgui, la primera línia anirà des de l’Àgora de la Universitat fins al Parc de Ribalta. Abans, però, caldrà construir un nou pont sobre el Riu Sec, i això retardarà la inauguració almenys fins a setembre. Diuen, tanmateix, que l’avinentesa de les eleccions pot fer convenient que al maig circuli ja “en proves”, encara que s’hagi d’aturar en arribar al riu.
 
-Em represente, doncs, uns viatgers —entre els quals, potser, una parella de nous enamorats— que són amablement convidats a baixar del vehicle en una mena d’atzucac, davant d’un riu sense aigua d’allò més semblant a la fi del món, i aquesta atmosfera irreal em convenç una vegada més que la vida imita l’art. Sens dubte, els guionistes d’alguns polítics d’aquestes contrades són genis no reconeguts de la literatura imaginativa.
+Em represente, doncs, uns viatgers —entre els quals, potser, una parella de nous enamorats— que són amablement convidats a baixar del vehicle en una mena d’atzucac, davant d’un riu sense aigua d’allò més semblant a la fi del món. I aquesta atmosfera grotesca, irreal, em convenç una vegada més que la vida imita l’art. Sens dubte, els guionistes d’alguns polítics d’aquestes contrades són genis no reconeguts de la literatura imaginativa.
 
