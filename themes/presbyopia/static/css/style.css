@@ -2,7 +2,7 @@
 
 html {
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-    font-feature-settings: "ss06" on;
+    /* font-feature-settings: "ss06" on; */
     font-variant-numeric: tabular-nums;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
