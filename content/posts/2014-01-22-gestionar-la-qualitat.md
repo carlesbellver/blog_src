@@ -13,15 +13,15 @@ Ningú, és clar, no pot estar en contra de millorar la qualitat dels productes 
 
 De debò ens hauríem de creure que algú pot saber més que els mestres, pedagogs i inspectors educatius com millorar l’educació? I que en saben més que ningú els que avaluen igual una escola que una fàbrica? Tan necis es creuen que som?
 
-Per aquest motiu, en els moments dolents pense que només es tractava d’adobar un discurs pseudo-científic que servís per a apuntalar paradetes de venedors d’[oli de serp](http://en.wikipedia.org/wiki/Snake_oil) corporatius. Negocis i més negocis a costa del tresor públic.
+Per aquest motiu, en els moments dolents pense que només es tractava d’adobar un discurs pseudo-científic que servís per a apuntalar paradetes de venedors d’[oli de serp](http://en.wikipedia.org/wiki/Snake_oil) corporatius. Negocis i més negocis a costa de l'erari públic.
 
 I no m'ho invente jo. Si voleu, podeu començar per ací: 📎 [Beyond the Gospel: A Critique of TQM and a Few Implementation Pitfalls](http://www.ualberta.ca/~yreshef/orga432/critique.htm) (Yonatan Reshef, School of Business, University of Alberta). O per la interessant història de l’[origen](https://en.wikipedia.org/wiki/If_Japan_Can..._Why_Can%27t_We%3F) del TQM (Total Quality Management), o per les crítiques al famós [ISO 9000](http://en.wikipedia.org/wiki/ISO_9000)/9001.
 
-> The standard is seen as especially prone to failure when a company is interested in certification before quality […] Certification by an independent auditor is often seen as the problem area, and according to Barnes, “has become a vehicle to increase consulting services”.
+> L'estàndard es considera especialment propens al fracàs quan una empresa està interessada en la certificació abans que la qualitat […] La certificació per part d'un auditor independent sovint es considera l'àrea problemàtica i, segons Barnes, "s'ha convertit en un vehicle per augmentar els serveis de consultoria".
 > 
-> Abrahamson argues that fashionable management discourse such as Quality Circles tends to follow a lifecycle in the form of a bell curve, possibly indicating a management fad.
+> Abrahamson argumenta que el discurs gerencial vigent, com ara els cercles de qualitat, tendeix a seguir un cicle de vida en forma de corba de campana, possiblement indicant una moda de gestió.
 > 
-> […] Pickrell argues that ISO systems merely gauge whether the processes are being followed. It does not gauge how good the processes are or whether the correct parameters are being measured and controlled to ensure quality […]
+> […] Pickrell argumenta que els sistemes ISO només avaluen si se segueixen els processos. No avalua com de bons són els processos ni si s'estan mesurant i controlant els paràmetres correctes per garantir la qualitat […]
 
 O, millor encara, llegiu aquest article de 2010 de la revista Tendencias pedagógicas, núm 15., [recomanat](http://twitter.com/jordi_a/statuses/425559917190459392) per Jordi Adell:
 

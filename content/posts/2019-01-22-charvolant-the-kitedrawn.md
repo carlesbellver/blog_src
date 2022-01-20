@@ -10,3 +10,4 @@ tags = ["retalls"]
 
 Fantasia aplicada al transport de passatgers: cotxes tirats per estels. George Pocock, 1822. “Aquesta manera de viatjar és, de totes, la més plaent.” 
 
+<img src="https://2.bp.blogspot.com/-G26osuBuMFM/XEGriUZ9WjI/AAAAAAAAd6c/eu8hXV9YvpA8GDhK_O65t4UiFp6TwECSQCLcBGAs/s1600/charvolant-1.jpg" />
