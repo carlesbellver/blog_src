@@ -10,3 +10,4 @@ tags = ["retalls"]
 
 Representació simbòlica de la resistència índia al domini britànic. Els mecanismes feien pujar i baixar el braç de l'home i emetien crits agònics i brams.
 
+<img src="https://1.bp.blogspot.com/-HjnRcx3EOeo/WmgJ7rixpjI/AAAAAAAAdtg/cQfU07WgwMEM5yOl_Z84mIPhNDzVal1EwCLcBGAs/s1600/tipus-tiger-6.jpg" />
