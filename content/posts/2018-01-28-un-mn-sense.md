@@ -9,4 +9,3 @@ tags = ["retalls"]
 📎 [Un món sense treball](http://valenciaplaza.com/un-mon-sense-treball)
 
 Joan Sanchis i Muñoz. Les conseqüències socials i polítiques de l’automatització. L’ètica del treball com a obstacle.
-

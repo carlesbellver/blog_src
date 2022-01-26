@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [Deanonymizing Tor: Your Bitcoin Transactions May Come Back To Haunt You](https://m.slashdot.org/story/336649)
 
-> Els investigadors van començar amb vuitanta-vuit adreces de bitcoin úniques de serveis Tor ocults, i tot seguit van cercar cinc mil milions de tuits i un milió de pàgines del fòrum Bitcoin Talk. Finalment van connectar cent vint-i-cinc usuaris únics a vint serveis Tor ocults.
+> Els investigadors van començar amb vuitanta-vuit adreces bitcoin úniques de serveis Tor ocults, i tot seguit van cercar cinc mil milions de tuits i un milió de pàgines del fòrum Bitcoin Talk. Finalment van connectar cent vint-i-cinc usuaris únics a vint serveis Tor ocults.
 
