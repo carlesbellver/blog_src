@@ -18,4 +18,3 @@ Dos. Hi havia una pregunta ineludible: per què l’acció transcorre a Valènci
 I tres… bé, allò de l’animalet i el somni d’una escriptora ho deixarem per a un altre dia, que és un assumpte que mereix un apunt per si mateix.
 
 (La foto. Gener de 2014. Em vaig agafar un dia lliure amb la intenció de passejar-me pel centre de València. Més que documentar-me, supose que volia comprovar que els carrers i les cases restaven als mateixos llocs. On els havia deixats.)
-
