@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [How Photographers Captured the Incarceration of Japanese Americans During WWII](https://www.atlasobscura.com/articles/how-photographer-captured-incarceration-japanese-americans-wwii-miyatake-lange-adams-albers)
 
-Els nord-americans d'origen japonès tenien menys d'una setmana per a identificar-se i fer les maletes abans de ser agrupats a centres de detenció temporals. A cada família se li assignava un número. Després els traslladaven a un dels deu *camps* arreu del país.
+Els nord-americans d'origen japonès tenien menys d'una setmana per a identificar-se i fer les maletes abans de ser agrupats en centres de detenció temporals. A cada família se li assignava un número. Després els traslladaven a un dels deu *camps* arreu del país.
 
