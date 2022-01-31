@@ -8,5 +8,4 @@ tags = ["retalls"]
 
 📎 [Google and Facebook are watching our every move online. It's time to make them stop](https://www.cnbc.com/2018/01/31/google-facebook-data-privacy-concerns-out-of-control-commentary.html)
 
-Un 76% dels llocs web contenen rastrejadors de Google ocults; Un 24% tenen rastrejadors ocults de Facebook.
-
+Un 76% dels llocs web contenen rastrejadors ocults de Google; un 24% tenen rastrejadors ocults de Facebook.
