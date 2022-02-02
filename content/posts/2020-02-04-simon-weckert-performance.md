@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [Google Maps Hacks](http://www.simonweckert.com/googlemapshacks.html). Simon Weckert. Performance & Installation, 2020.
 
-Un carretó carregat amb noranta-nou telèfons mòbils de segona ma genera un fals embús en Google Maps i desvia el trànsit real. [El mapa no és el territori](https://en.wikipedia.org/wiki/Map–territory_relation).
+Un carretó carregat amb noranta-nou telèfons mòbils de segona ma genera un fals embús en Google Maps i desvia el trànsit real. [El mapa no és el territori](https://en.wikipedia.org/wiki/Map–territory_relation), però hi repercuteix.
 
