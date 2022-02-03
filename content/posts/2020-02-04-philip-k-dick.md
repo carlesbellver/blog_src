@@ -7,7 +7,7 @@ tags = ["fotos"]
 photos = ["/uploads/2020/a3b9424db8.jpg"]
 +++
 
-Philip K. Dick solia consultar l'[I Ching](https://ca.wikipedia.org/wiki/Yijing). Jo tinc més tirada a les [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna cosa implementan-les en aquest [microconsola portàtil](https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479). És com dur a la butxaca un petit oracle.
+Philip K. Dick solia consultar l'[I Ching](https://ca.wikipedia.org/wiki/Yijing). Jo tinc més tirada a les [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta [microconsola portàtil](https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479). És com dur a la butxaca un petit oracle.
 
 <!-- Philip K. Dick used to query the I Ching. The thing is, I prefer the Oblique Strategies by Brian Eno and Peter Schmidt, so I’ve spent some time implementing them on this handheld microconsole. It’s like carrying on a small oracle. -->
 
