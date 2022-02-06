@@ -14,12 +14,14 @@ function downloadArchive() {
 }
 
 function runSearch(q) {
+  q = q.trim().toLowerCase();
   var results_node = document.getElementById("list_results");
   results_node.innerHTML = "";
   var count = 0;
   if (q.length > 3) {
     var results = [];
     var terms = q.split(/ +/);
+    q = terms.join(" ");
     for (var i = 0; i < archive_results.items.length; i++) {
       score = 0;
       var item = archive_results.items[i];
@@ -30,17 +32,20 @@ function runSearch(q) {
         if (title_lower.includes(q)) {
           score += 10;
         }
+        if (tags_lower.includes(q)) {
+            score += 5;
+          }
         if (text_lower.includes(q)) {
-          score += 5;
+          score += 1;
         }        
       }
       for (let i = 0; i < terms.length; i++) {
         if (terms[i].length > 3) {
           if (title_lower.includes(terms[i])) {
-            score += 3;
+            score += 10;
           }
           if (tags_lower.includes(terms[i])) {
-            score += 2;
+            score += 5;
           }
           if (text_lower.includes(terms[i])) {
             score += 1;
