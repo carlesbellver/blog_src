@@ -21,20 +21,30 @@ function runSearch(q) {
     var results = [];
     var terms = q.split(/ +/);
     for (var i = 0; i < archive_results.items.length; i++) {
+      score = 0;
       var item = archive_results.items[i];
       var title_lower = item.title.toLowerCase();
       var tags_lower = item.tags.toLowerCase();
       var text_lower = item.content_text.toLowerCase();
-      score = 0;
-      for (let i = 0; i < terms.length; i++) {
-        if (title_lower.includes(terms[i])) {
+      if (terms.length > 1) {
+        if (title_lower.includes(q)) {
           score += 10;
         }
-        if (tags_lower.includes(terms[i])) {
+        if (text_lower.includes(q)) {
           score += 5;
-        }
-        if (text_lower.includes(terms[i])) {
-          score += 1;
+        }        
+      }
+      for (let i = 0; i < terms.length; i++) {
+        if (terms[i].length > 3) {
+          if (title_lower.includes(terms[i])) {
+            score += 3;
+          }
+          if (tags_lower.includes(terms[i])) {
+            score += 2;
+          }
+          if (text_lower.includes(terms[i])) {
+            score += 1;
+          }
         }
       }
       if (score > 0) {
@@ -43,7 +53,7 @@ function runSearch(q) {
         count++;
       }
     }
-  } 
+  }
   if (count) {
     results.sort( function(a, b) { return b["score"] - a["score"] } );
     for (let i = 0; i < results.length; i++) {
@@ -80,7 +90,7 @@ function runSearch(q) {
     }
   }
   else {
-    results_node.innerHTML = "<p style=\"text-align: center;\">No s'ha trobat res que hi concordi.</p>";
+    results_node.innerHTML = "<p style=\"text-align: center;\">No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
   }
 }
 
