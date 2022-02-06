@@ -130,7 +130,7 @@ th, td {
 
 /* Code */
 pre {
-    color: var(--pre-color)
+    color: var(--pre-color);
     background-color: var(--pre-bg-color);
     padding: 1em;
     max-width: 100%;
@@ -142,6 +142,7 @@ pre,
 kbd {
     font-family: "Ubuntu Mono", Monaco, Menlo, monospace;
     font-size: 0.9em;
+    color: var(--pre-color);
 }
 
 /* Lists */

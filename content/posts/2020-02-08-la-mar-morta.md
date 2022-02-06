@@ -9,7 +9,7 @@ slug = "la-mar-morta"
 
 > Quant al títol, he conservat el de «Diana i la Mar Morta», si bé vaig estar temptat d'afegir-hi la paraula anglesa «puzzle». El meu amic, l'escriptor Salvador Espriu, m'aconsellà de substituir-la per qualsevol altra, per exemple, «mosaic». Finalment, no he tocat res.
 
-O, dins del mateix llibre, en la peça que li dona títol:
+O dins del mateix llibre, en la peça que li dona títol:
 
 > Diana era una noia que estudiava a la Facultat de Lletres de Madrid. Va tenir un flirt amb un jove professor de Geografia. En una ocasió, li va regalar el llibre de Constantin Zoubichryn, *La Mar Morta*, que l’apassionà enormement i enfortí la seva vocació. El jove professor havia declarat que el seu amor era més fort que la mort. Projectà de fer oposicions a càtedra i casar-se.
 > 
