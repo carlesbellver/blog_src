@@ -15,7 +15,7 @@ Heus ací la citació amb què he volgut encapçalar el meu [nou llibre](https:/
 
 Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació que en va fer Lluís Llach (*Somniem*, 1979; *Poetes*, 2004). I heus ací on em sorgia el dubte, perquè, en la versió de Llach, el vers figura exactament tal com jo l’acabe de transcriure, però en l’edició del llibre de Fuster de què dispose (dins *Set llibres de versos*, 1989), i en moltes pàgines web (com l’adés enllaçada), s’observa una no tan petita variació:
 
-> No <span style="background-color: #999; padding: 3px; color: #fff; font-style: italic; font-weight: bold; border-radius: 25%;"><em>li</em></span> llegiran ton nom amb un bell pànic?
+> No <em style="background-color: #999; padding: 3px; color: #fff; font-style: italic; font-weight: bold; border-radius: 25%;">li</em> llegiran ton nom amb un bell pànic?
 
 No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d'aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.
 
