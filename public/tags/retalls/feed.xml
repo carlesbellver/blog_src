@@ -6,10 +6,64 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 24 Dec 2021 13:10:48 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2022 17:04:22 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/24/porsche/</link>
+      <pubDate>Mon, 24 Jan 2022 17:04:22 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/24/porsche/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2214140520300359&#34;&gt;Estimated car cost as a predictor of driver yielding behaviors for pedestrians&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Com més car és el cotxe, menys probable és que el conductor s&amp;rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d&amp;rsquo;increment en el preu del cotxe.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/24/yaml-json/</link>
+      <pubDate>Mon, 24 Jan 2022 09:27:35 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/24/yaml-json/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json&#34;&gt;I accidentally used YAML.parse instead of JSON.parse, and it… worked?&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That, dear reader, is the story of how I learnt that &lt;a href=&#34;http://yaml.org/spec/1.2-old/spec.html#id2759572&#34;&gt;YAML is a superset of JSON&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/</link>
+      <pubDate>Thu, 20 Jan 2022 19:30:00 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.unite.ai/analyzing-depressed-and-alcoholic-chatbots/&#34;&gt;Analyzing Depressed and Alcoholic Chatbots - Unite.AI&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se&amp;rsquo;ls pregunta utilitzant tests estàndard d&amp;rsquo;avaluació de salut mental, i que fins i tot mostren signes de problemes amb l&amp;rsquo;alcohol.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;🤖🍷&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/10/first-impressions-web3/</link>
+      <pubDate>Mon, 10 Jan 2022 17:31:26 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/10/first-impressions-web3/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://moxie.org/2022/01/07/web3-first-impressions.html&#34;&gt;Moxie Marlinspike &amp;raquo; My first impressions of web3&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Per fer utilitzables aquestes tecnologies, l&amp;rsquo;espai s&amp;rsquo;està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;El web3 és un web de servidors. La cadena de blocs és una xarxa d&amp;rsquo;iguals, però només entre servidors. Malgrat la promesa de descentralització i de confiança fermament assentada en la criptografia, clients d&amp;rsquo;usuari com MetaMask només poden interactuar amb la cadena de blocs d&amp;rsquo;Ethereum mitjançant plataformes com etherscan, Infura o OpenSea, i ho fan sense cap mena d&amp;rsquo;autenticació o signatura criptogràfica. És a dir, donant per descomptat que cal confiar en aquests intermediaris.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
@@ -1077,12 +1131,23 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
     
     <item>
       
+      <link>https://blog.carlesbellver.net/2020/02/05/organic-ethical-chocolate.html</link>
+      <pubDate>Wed, 05 Feb 2020 18:49:13 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2020/02/05/organic-ethical-chocolate.html</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://seedandbean.co.uk/&#34;&gt;Organic &amp;amp; Ethical Chocolate&lt;/a&gt;. Part del berenar d&amp;rsquo;avui.&lt;/p&gt;
+&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2020/38cb60c68c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2020/02/04/simon-weckert-performance.html</link>
       <pubDate>Tue, 04 Feb 2020 11:19:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2020/02/04/simon-weckert-performance.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.simonweckert.com/googlemapshacks.html&#34;&gt;Google Maps Hacks&lt;/a&gt;. Simon Weckert. Performance &amp;amp; Installation, 2020.&lt;/p&gt;
-&lt;p&gt;Un carretó carregat amb noranta-nou telèfons mòbils de segona ma genera un fals embús en Google Maps i desvia el trànsit real. &lt;a href=&#34;https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation&#34;&gt;El mapa no és el territori&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Un carretó carregat amb noranta-nou telèfons mòbils de segona ma genera un fals embús en Google Maps i desvia el trànsit real. &lt;a href=&#34;https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation&#34;&gt;El mapa no és el territori&lt;/a&gt;, però hi repercuteix.&lt;/p&gt;
 </description>
     </item>
     
@@ -2793,7 +2858,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/30/facebook-pays-teens.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://techcrunch.com/2019/01/29/facebook-project-atlas/&#34;&gt;Facebook pays teens to install VPN that spies on them&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Cada setmana en coneixem una nova malifeta. Des de 2016, Facebook ha estat pagant fins a vint dolars mensuals (més comissions), a usuaris d&amp;rsquo;edats entre &lt;strong&gt;tretze&lt;/strong&gt; i trenta cinc anys, per instal·lar una aplicació que interceptava totes les comunicacions realitzades des del seus telèfons mòbils. I, com que no tenien prou amb això, els demanaven que fessin una captura de pantalla de l&amp;rsquo;historial de compres d&amp;rsquo;Amazon i l&amp;rsquo;enviessin. El tarannà d&amp;rsquo;aquest programari es dissimula sota el nom &amp;ldquo;Facebook Research&amp;rdquo;. No es podia dir &amp;ldquo;Facebook Pickpocketing&amp;rdquo; perquè el llenguatge és molt important i cal mantenir les aparences.&lt;/p&gt;
+&lt;p&gt;Cada setmana en coneixem una nova malifeta. Des de 2016, Facebook ha estat pagant fins a vint dolars mensuals (més comissions), a usuaris d&amp;rsquo;edats entre &lt;strong&gt;tretze&lt;/strong&gt; i trenta cinc anys, per instal·lar una aplicació que interceptava totes les comunicacions realitzades des del seus telèfons mòbils. I com que no tenien prou amb això, els demanaven que fessin una captura de pantalla de l&amp;rsquo;historial de compres d&amp;rsquo;Amazon i l&amp;rsquo;enviessin. El tarannà d&amp;rsquo;aquest programari es dissimula sota el nom &amp;ldquo;Facebook Research&amp;rdquo;. No es podia dir &amp;ldquo;Facebook Pickpocketing&amp;rdquo; perquè el llenguatge és molt important i cal mantenir les aparences.&lt;/p&gt;
 </description>
     </item>
     
@@ -2818,7 +2883,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/28/082952.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;The best book I’ve ever read on programming and making apps is &lt;em&gt;Six Memos for the Next Millennium&lt;/em&gt; by Italo Calvino.&lt;/p&gt;
+&lt;p&gt;El millor llibre que he llegit mai sobre programació i creació d&amp;rsquo;aplicacions és Lliçons americanes: &lt;em&gt;Sis propostes per al pròxim mil·lenni&lt;/em&gt; d&amp;rsquo;Italo Calvino.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;— &lt;a href=&#34;http://inessential.com/2019/01/27/the_best_book_ive_ever_read_on_programmi&#34;&gt;Brent Simmons&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -2887,7 +2952,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/22/how-black-women.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.bbc.com/culture/story/20190114-how-black-women-were-whitewashed-by-art&#34;&gt;How black women were whitewashed by art&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Andròmeda, de qui es va enamorar Perseu, era una princesa etíop. Però es rar trobar alguna representació pictòrica on no aparegui blanquejada. Igual que la reina de Saba. I no només en la pintura. L&amp;rsquo;evolució de les traduccions del &lt;em&gt;Càntic dels Càntics&lt;/em&gt; del rei Salomó pot indignar però no sorprèn. Una mostra en català: &lt;a href=&#34;https://www.biblija.net/biblija.cgi?m=Ct+1%2C1-8%2C14&amp;amp;id24=1&amp;amp;pos=1&amp;amp;set=15&amp;amp;l=ca&#34;&gt;«Sóc bruna però bonica»&lt;/a&gt;. Pareix que «negra &lt;em&gt;i&lt;/em&gt; formosa» seria més fidel a l&amp;rsquo;original.&lt;/p&gt;
+&lt;p&gt;Andròmeda, de qui es va enamorar Perseu, era una princesa etíop. Però es rar trobar alguna representació pictòrica on no aparegui blanquejada. Igual que la reina de Saba. I no només en la pintura. L&amp;rsquo;evolució de les traduccions del &lt;em&gt;Càntic dels Càntics&lt;/em&gt; del rei Salomó pot indignar però no sorprèn. Una mostra en català: &lt;a href=&#34;https://www.bci.cat/biblia/capitol/809&#34;&gt;«Sóc bruna però bonica»&lt;/a&gt;. Pareix que «negra &lt;em&gt;i&lt;/em&gt; formosa» seria més fidel a l&amp;rsquo;original.&lt;/p&gt;
 </description>
     </item>
     
@@ -2898,7 +2963,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/22/why-data-is.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.thenewatlantis.com/publications/why-data-is-never-raw&#34;&gt;Why Data Is Never Raw&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades. “‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius. Però les dades sempre són producte de processos cognitius, culturals i institucionals que determinen què es recull i com es recull. En aquest sentit, ‘dades crues’ és en efecte una contradicció en els termes.” Les &lt;em&gt;dades brutes&lt;/em&gt;, en resum, són una “fantasia tecnocràtica”.&lt;/p&gt;
+&lt;p&gt;Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades. “‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius. Però les dades sempre són producte de processos cognitius, culturals i institucionals que determinen què es recull i com es recull. En aquest sentit, ‘dades crues’ és en efecte una contradicció en els termes.” Les &lt;em&gt;dades brutes&lt;/em&gt;, en resum, són una “fantasia tecnocràtica” que busca imposar i imposa una visió del món (la seva) com si fos la bona, l&amp;rsquo;objectiva, l&amp;rsquo;única possible.&lt;/p&gt;
 </description>
     </item>
     
@@ -2910,7 +2975,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://blog.carlesbellver.net/2019/01/22/charvolant-the-kitedrawn.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.amusingplanet.com/2019/01/charvolant-kite-drawn-carriages.html&#34;&gt;Charvolant: The Kite-Drawn Carriages&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Fantasia aplicada al transport de passatgers: cotxes tirats per estels. George Pocock, 1822. “Aquesta manera de viatjar és, de totes, la més plaent.”&lt;/p&gt;
-</description>
+&lt;img src=&#34;https://2.bp.blogspot.com/-G26osuBuMFM/XEGriUZ9WjI/AAAAAAAAd6c/eu8hXV9YvpA8GDhK_O65t4UiFp6TwECSQCLcBGAs/s1600/charvolant-1.jpg&#34; /&gt;</description>
     </item>
     
     <item>
@@ -2959,7 +3024,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/11/how-cartographers-for.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://gizmodo.com/how-cartographers-for-the-u-s-military-inadvertently-c-1830758394&#34;&gt;How Cartographers for the U.S. Military Inadvertently Created a House of Horrors in South Africa&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;El mapatge d&amp;rsquo;adreces d&amp;rsquo;Intenet a ubicacions geogràfiques pot ser molt imprecís. Generalment, els serveis comercials proporcionen unes coordenades exactes i un marge d&amp;rsquo;error… que pot ser d&amp;rsquo;un quilòmetre o de mil. Però es veu que ningú no para compte al marge d&amp;rsquo;error. Una base de dades d&amp;rsquo;una agència militar nord-americana té la culpa que totes les adreces de Pretoria, Sud-àfrica, s&amp;rsquo;ubiquen exactament &lt;em&gt;a la mateixa casa&lt;/em&gt; i que els seus residents siguin assetjats per detectius i per víctimes de tota mena de delictes, ja siguin segrestaments o robatoris d&amp;rsquo;aparells electrònics. ”Els clients d&amp;rsquo;Apple pareix que són els pitjors.”&lt;/p&gt;
+&lt;p&gt;El mapatge d&amp;rsquo;adreces d&amp;rsquo;Intenet a ubicacions geogràfiques pot ser molt imprecís. Generalment, els serveis comercials proporcionen unes coordenades exactes i un marge d&amp;rsquo;error… que pot ser d&amp;rsquo;un quilòmetre o de mil. Però es veu que ningú no para compte al marge d&amp;rsquo;error. Una base de dades d&amp;rsquo;una agència militar nord-americana té la culpa que totes les adreces de Pretoria, Sud-àfrica, s&amp;rsquo;ubiquen exactament &lt;em&gt;a la mateixa casa&lt;/em&gt; i que els residents en aquest domicili siguin assetjats per detectius i per víctimes de tota mena de delictes, ja siguin segrestaments o robatoris d&amp;rsquo;aparells electrònics. ”Els clients d&amp;rsquo;Apple pareix que són els pitjors.”&lt;/p&gt;
 </description>
     </item>
     
@@ -2984,11 +3049,11 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/10/precria-universitat-reportatge.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.eltemps.cat/article/5841/precaria-universitat&#34;&gt;Precària universitat&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Reportatge de Violeta Tena en &lt;em&gt;El Temps&lt;/em&gt;. Diuen que una crisi que és una oportunitat, i les elits extractives l&amp;rsquo;han aprofitada per a començar a desarmar el sistema públic universitari. En altres països d&amp;rsquo;Europa s&amp;rsquo;ha incrementat la inversió en educació, mentre que a Espanya s&amp;rsquo;ha reduït.&lt;/p&gt;
+&lt;p&gt;Reportatge de Violeta Tena en &lt;em&gt;El Temps&lt;/em&gt;. Diuen que una crisi és una oportunitat, i les elits extractives l&amp;rsquo;han aprofitada per a començar a desarmar el sistema públic universitari, amb l&amp;rsquo;objectiu de potenciar els seus negocis privats. En altres països d&amp;rsquo;Europa s&amp;rsquo;ha incrementat la inversió en educació, mentre que a Espanya s&amp;rsquo;ha reduït.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;El resum seria una universitat depauperada i esquifida, amb una massa laboral cada volta més precària i envellida i un alumnat amb problemes per accedir als estudis que desitgen.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;A més a més, s&amp;rsquo;ha redoblat l&amp;rsquo;assalt ideològic. Cada vegada es parla menys de servei públic i més de mercat, clients o productivitat.&lt;/p&gt;
+&lt;p&gt;No pot sorprendre que s&amp;rsquo;hagi redoblat també l&amp;rsquo;assalt ideològic. Cada vegada es parla menys de servei públic i més de mercat, clients o productivitat.&lt;/p&gt;
 </description>
     </item>
     
@@ -3010,8 +3075,8 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/09/mariano-fernndez-enguita.html</guid>
       <description>&lt;p&gt;📎 Mariano Fernández Enguita: &lt;a href=&#34;http://blog.enguita.info/2019/01/la-singularidad-escolar-ya-esta-aqui.html&#34;&gt;La singularidad escolar ya está aquí&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial i des d&amp;rsquo;allí s&amp;rsquo;està traslladant a altres àmbits.&lt;/p&gt;
-&lt;p&gt;Pareix evident que l&amp;rsquo;educació, fins i tot a l&amp;rsquo;escola primària, no pot continuar funcionant com si les fonts de coneixement encara fossin escasses. El rol del professorat ha de canviar radicalment —entre altres canvis igualment importants—, però no crec que empal·lideixi davant &amp;ldquo;la més basta de les indagacions possibles&amp;rdquo; en la Wikipedia o en Google, com afirma Fernández Enguita. En realitat, una indagació &lt;em&gt;basta&lt;/em&gt; no serveix de res, i de fet són pocs els alumnes capaços de polir i afinar les seves cerques per trobar el que necessiten. Això, per a començar, els ho hauria d&amp;rsquo;ensenyar el professorat.&lt;/p&gt;
+&lt;p&gt;És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d&amp;rsquo;allí s&amp;rsquo;està traslladant a altres àmbits.&lt;/p&gt;
+&lt;p&gt;Pareix evident que l&amp;rsquo;educació, fins i tot a l&amp;rsquo;escola primària, no pot continuar funcionant com si les fonts de coneixement encara fossin escasses. El rol del professorat ha de canviar radicalment —entre altres canvis igualment importants—, però no crec que en el seu estat actual empal·lideixi davant &amp;ldquo;la més basta de les indagacions possibles&amp;rdquo; en la Wikipedia o en Google, com afirma Fernández Enguita. En realitat, una indagació &lt;em&gt;basta&lt;/em&gt; no sol servir de res, i de fet són pocs els alumnes capaços de polir i afinar les seves cerques per trobar el que necessiten. Això, per a començar, els ho hauria d&amp;rsquo;ensenyar el professorat O algú: si no existís el professorat, caldria inventar-lo.&lt;/p&gt;
 &lt;p&gt;D&amp;rsquo;altra banda, em fa l&amp;rsquo;efecte que estem assumint d&amp;rsquo;una forma excessivament acrítica que molt aviat —“en aquest segle i en aquesta seva primera meitat”— començarà una nova època, “quan la intel·ligència artificial superi la intel·ligència humana i, per tant, ja no depengui d&amp;rsquo;ella”. De moment, jo diria que la &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_general_intelligence&#34;&gt;intel·ligència artificial general&lt;/a&gt; és tan lluny com sempre, malgrat els avenços gegantins i espectaculars en &lt;a href=&#34;https://en.wikipedia.org/wiki/Weak_AI&#34;&gt;aplicacions específiques&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -3099,7 +3164,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/01/04/las-apps-ms.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://m.eldiario.es/tecnologia/populares-Android-envian-Facebook-permiso_0_852865126.html&#34;&gt;Las &amp;lsquo;apps&amp;rsquo; más populares de Android envían datos a Facebook sin tu permiso&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Un informe de l&amp;rsquo;ONG britànica Privacy International i un nou episodi en la llarga llista d&amp;rsquo;abusos que conformen el negoci de Facebook. Almenys vint de les trenta i tantes aplicacions més populars en Google Play envien les nostres dades a Facebook tan prompte com comencem a utilitzar-les. Sense demanar permís, per descomptat, ni informar-ne. Tripadvisor, Shazam, Spotify, Duolingo, Skyscanner i altres.&lt;/p&gt;
+&lt;p&gt;Un informe de l&amp;rsquo;ONG britànica Privacy International i un nou episodi en la llarga llista d&amp;rsquo;abusos que conformen el negoci de Facebook. Almenys vint de les trenta i tantes aplicacions més populars en Google Play envien les nostres dades a Facebook tan prompte com comencem a utilitzar-les. Sense demanar permís, per descomptat, ni informar l&amp;rsquo;usuari. Tripadvisor, Shazam, Spotify, Duolingo, Skyscanner i altres.&lt;/p&gt;
 </description>
     </item>
     
@@ -6641,7 +6706,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Sun, 04 Feb 2018 19:34:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/02/04/203451.html</guid>
-      <description>&lt;p&gt;No he vist la nova versió de &lt;em&gt;Godzilla&lt;/em&gt;. Per ara em sent més aviat com aquells personatges de &lt;em&gt;Cloverfield&lt;/em&gt;, espantats i confosos, que ni s&amp;rsquo;havien adonat de res, quan el monstre queia del cel.&lt;/p&gt;
+      <description>&lt;p&gt;No he vist la nova versió de &lt;em&gt;Godzilla&lt;/em&gt;. Per ara em sent més aviat com aquells personatges de &lt;em&gt;Cloverfield&lt;/em&gt;, espantats i confosos, que ni s&amp;rsquo;havien adonat de res quan el monstre queia del cel.&lt;/p&gt;
 &lt;p&gt;📎 Pedro Vallín: &lt;a href=&#34;http://www.lavanguardia.com/politica/20180204/44499224280/godilla-articulo-155-constitucion-dui.html&#34;&gt;Godzilla contra el 155&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -6665,7 +6730,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Sun, 04 Feb 2018 10:46:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/02/04/florent-marcellesi-quan.html</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.eltemps.cat/article/3247/quan-els-xinesos-consumisquen-tanta-carn-com-els-europeus-ens-quedarem-sense-planeta#.Wna6X4Smi6g.twitter&#34;&gt;Florent Marcellesi: “Quan els xinesos consumisquen tanta carn com els europeus, ens quedarem sense planeta”&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.eltemps.cat/article/3247/quan-els-xinesos-consumisquen-tanta-carn-com-els-europeus-ens-quedarem-sense-planeta&#34;&gt;Florent Marcellesi: “Quan els xinesos consumisquen tanta carn com els europeus, ens quedarem sense planeta”&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;…necessitem una PAC que pague la transició cap a nous models de consum.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -6678,7 +6743,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Fri, 02 Feb 2018 18:29:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/02/02/192936.html</guid>
-      <description>&lt;p&gt;En anglès es refereixen al dimoni com Old Nick. Samuel Butler es va inventar que era per Niccolò Machiavelli. 👹&lt;/p&gt;
+      <description>&lt;p&gt;👹 En anglès es refereixen al dimoni com Old Nick. Samuel Butler es va inventar que era per Niccolò Machiavelli.&lt;/p&gt;
 &lt;p&gt;📎 &lt;a href=&#34;http://blog.oup.com/2013/06/old-nick-etymology-word-origin/&#34;&gt;Multifarious Devils, part 2. Old Nick and the Crocodile&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -6690,7 +6755,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2018/02/02/google-and-facebook.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.cnbc.com/2018/01/31/google-facebook-data-privacy-concerns-out-of-control-commentary.html&#34;&gt;Google and Facebook are watching our every move online. It&amp;rsquo;s time to make them stop&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Un 76% dels llocs web contenen rastrejadors de Google ocults; Un 24% tenen rastrejadors ocults de Facebook.&lt;/p&gt;
+&lt;p&gt;Un 76% dels llocs web contenen rastrejadors ocults de Google; un 24% tenen rastrejadors ocults de Facebook.&lt;/p&gt;
 </description>
     </item>
     
@@ -6712,7 +6777,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2018/01/30/how-photographers-captured.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.atlasobscura.com/articles/how-photographer-captured-incarceration-japanese-americans-wwii-miyatake-lange-adams-albers&#34;&gt;How Photographers Captured the Incarceration of Japanese Americans During WWII&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Els nord-americans d&amp;rsquo;origen japonès tenien menys d&amp;rsquo;una setmana per a identificar-se i fer les maletes abans de ser agrupats a centres de detenció temporals. A cada família se li assignava un número. Després els traslladaven a un dels deu &lt;em&gt;camps&lt;/em&gt; arreu del país.&lt;/p&gt;
+&lt;p&gt;Els nord-americans d&amp;rsquo;origen japonès tenien menys d&amp;rsquo;una setmana per a identificar-se i fer les maletes abans de ser agrupats en centres de detenció temporals. A cada família se li assignava un número. Després els traslladaven a un dels deu &lt;em&gt;camps&lt;/em&gt; arreu del país.&lt;/p&gt;
 </description>
     </item>
     
@@ -6723,6 +6788,9 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2018/01/30/harrison-schmitt-el.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.microsiervos.com/archivo/espacio/harrison-schmidt-astronauta-alergico-luna.html&#34;&gt;Harrison Schmitt, el astronauta que resultó ser alérgico a la Luna&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…tras una de las actividades extravehiculares de la misión Apolo 17 en la superficie de la Luna y una vez que se quitaron los cascos en el interior del módulo lunar Schmitt empezó a toser a la vez que sus ojos enrojecían, le picaba la nariz, y sus senos nasales se taponaban.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -6745,7 +6813,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://blog.carlesbellver.net/2018/01/28/deanonymizing-tor-your.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://m.slashdot.org/story/336649&#34;&gt;Deanonymizing Tor: Your Bitcoin Transactions May Come Back To Haunt You&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Els investigadors van començar amb vuitanta-vuit adreces de bitcoin úniques de serveis Tor ocults, i tot seguit van cercar cinc mil milions de tuits i un milió de pàgines del fòrum Bitcoin Talk. Finalment van connectar cent vint-i-cinc usuaris únics a vint serveis Tor ocults.&lt;/p&gt;
+&lt;p&gt;Els investigadors van començar amb vuitanta-vuit adreces bitcoin úniques de serveis Tor ocults, i tot seguit van cercar cinc mil milions de tuits i un milió de pàgines del fòrum Bitcoin Talk. Finalment van connectar cent vint-i-cinc usuaris únics a vint serveis Tor ocults.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -6794,6 +6862,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://blog.carlesbellver.net/2018/01/24/tipu-sultans-mechanical.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.amusingplanet.com/2018/01/tipu-sultans-mechanical-tiger.html&#34;&gt;Tipu Sultan’s Mechanical Tiger&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Representació simbòlica de la resistència índia al domini britànic. Els mecanismes feien pujar i baixar el braç de l&amp;rsquo;home i emetien crits agònics i brams.&lt;/p&gt;
+&lt;img src=&#34;https://1.bp.blogspot.com/-HjnRcx3EOeo/WmgJ7rixpjI/AAAAAAAAdtg/cQfU07WgwMEM5yOl_Z84mIPhNDzVal1EwCLcBGAs/s1600/tipus-tiger-6.jpg&#34; /&gt;
 </description>
     </item>
     
@@ -6817,7 +6886,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <description>&lt;blockquote&gt;
 &lt;p&gt;La realitat distòpica de la història, per una banda sobta per les coincidències en l’actual situació política…  i per l’altra recorda l’ambient fosc, perillós, de la magnífica pel·lícula &lt;em&gt;Brazil&lt;/em&gt;, de Terry Gilliam, de l’any 1985.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;📎 &lt;a href=&#34;http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/&#34;&gt;Un cel nou i una terra nova, Carles Bellver Torlà (Unària, 2015)&lt;/a&gt; (ressenya de Carme Pinyana).&lt;/p&gt;
+&lt;p&gt;📎 &lt;a href=&#34;http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/&#34;&gt;Un cel nou i una terra nova, Carles Bellver Torlà (Unaria, 2015)&lt;/a&gt; (ressenya de Carme Pinyana).&lt;/p&gt;
 </description>
     </item>
     
@@ -6827,8 +6896,9 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Sat, 20 Jan 2018 10:29:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/01/20/social-decay-by.html</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.behance.net/gallery/52646779/Social-Decay&#34;&gt;Social Decay by Andrei Lacatsu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Les xarxes socials transformades en rètols d&amp;rsquo;establiments atrotinats. Rar i bonic.&lt;/p&gt;
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.behance.net/gallery/52646779/Social-Decay&#34;&gt;Social Decay by Andrei Lacatusu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Les xarxes socials transformades en rètols d&amp;rsquo;establiments atrotinats. Estrany i bonic.&lt;/p&gt;
+&lt;img alt=&#34;Rètol de Facebook, Andrei Lacatusu&#34; src=&#34;https://mir-s3-cdn-cf.behance.net/project_modules/fs/edbc8252646779.5a4bb20800a57.jpg&#34; /&gt;
 </description>
     </item>
     
@@ -7041,7 +7111,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2018/01/10/the-british-once.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.atlasobscura.com/articles/colonial-india-british-hedge-salt-tax&#34;&gt;The British Once Built a 1,100-Mile Hedge Through the Middle of India&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Seguia la Inland Customs Line (&amp;ldquo;Línia Duanera Interior&amp;rdquo;): una barrera burocràtica creada a fi de poder imposar un taxa elevada sobre la sal a la gent que vivia al costat on mancava la sal.&lt;/p&gt;
+&lt;p&gt;Seguia la &lt;em&gt;Inland Customs Line&lt;/em&gt; (&amp;ldquo;Línia Duanera Interior&amp;rdquo;): una barrera burocràtica creada a fi de poder imposar un taxa elevada sobre la sal a la gent que vivia al costat on mancava la sal.&lt;/p&gt;
 </description>
     </item>
     
@@ -8968,10 +9038,7 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
       
       <guid>https://blog.carlesbellver.net/2014/02/03/future-wasnt-created.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;The internet, the web, open content and open access, the LMS, pedagogy and the MOOC: all were created within the public system, by people working for the public good, not by some lone capitalist with an idea. This future wasn’t created by the Bill Gates of the world. It was created by the Pete Seegers. Never forget that.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;La Internet, el Web, els continguts oberts i l&amp;rsquo;accés obert, els entorns virtuals d&amp;rsquo;ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seggers. No us n&amp;rsquo;oblideu mai&lt;/p&gt;
+&lt;p&gt;La Internet, el Web, els continguts oberts i l&amp;rsquo;accés obert, els entorns virtuals d&amp;rsquo;ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seegers. No ho oblideu mai.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;📎 &lt;a href=&#34;http://www.downes.ca/post/61708&#34;&gt;Stephen Downes&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -8987,7 +9054,7 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
 &lt;p&gt;If you want to get laid, go to college; if you want an education, go to the library.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.barrypopik.com/index.php/new_york_city/entry/if_you_want_to_get_laid_go_to_college_if_you_want_an_education_go_to_the_li/&#34;&gt;Citació&lt;/a&gt; atribuïda a &lt;a href=&#34;https://en.wikipedia.org/wiki/Frank_Zappa&#34;&gt;Frank Zappa&lt;/a&gt;. Via &lt;a href=&#34;https://twitter.com/ainhoaeus/status/426040151941582848&#34;&gt;@ainhoaeus&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;“Si vols follar, vés a la universitat; si vols educar-te, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt, continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.&lt;/p&gt;
+&lt;p&gt;“Si vols follar, vés a la universitat; si vols educació, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt, continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/universitatjaumei/5404043659/&#34; title=&#34;Biblioteca - Universitat Jaume I - Flickr&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/b3fc905481.jpg&#34; alt=&#34;Biblioteca - Universitat Jaume I - Flickr&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -9005,7 +9072,7 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
 &lt;li&gt;Perquè al MIT, com en aquell &lt;a href=&#34;http://elpais.com/elpais/2013/02/18/vinetas/1361213916_521875.html&#34;&gt;acudit&lt;/a&gt;, pareix que els diagnòstics els fa el gerent.&lt;/li&gt;
 &lt;li&gt;Perquè MIT, Harvard &amp;amp; co. estan executant una operació comercial d’apropiació del moviment de cursos oberts, massius o no, i de la cultura lliure en general, que no van inventar i no els pertany.&lt;/li&gt;
 &lt;li&gt;Perquè l’entrevistat manipula les debilitats dels altres en benefici propi al mateix temps que oculta les seves.&lt;/li&gt;
-&lt;li&gt;Perquè és una de tantes mentides interessades que no hi hagi pràctiques, experimentalitat ni treball en equip a les universitats espanyoles. Però, aquesta, flagrant.&lt;/li&gt;
+&lt;li&gt;Perquè és una de tantes mentides interessades que no hi hagi pràctiques, experimentalitat ni treball en equip a les universitats espanyoles. Però aquesta és flagrant.&lt;/li&gt;
 &lt;li&gt;Perquè conec molta més innovació educativa, en moltes iniciatives individuals i institucionals molt més prop d’ací, que tota la que no hi ha ni pareix que hi hagi d’haver mai en &lt;a href=&#34;http://en.wikipedia.org/wiki/EdX&#34;&gt;edX&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Perquè la famosa &lt;a href=&#34;http://en.wikipedia.org/wiki/Disruptive_technology&#34;&gt;teoria de Christensen&lt;/a&gt; fa pudor —de reduccionisme tecnològic— quan s’aplica lluny de l’àmbit molt més restringit per al qual es va pensar.&lt;/li&gt;
 &lt;li&gt;Perquè nega la nostra òbvia manca de recursos, la utilitza a la manera dels nostres pitjors governants com a excusa per a la destrucció planificada (“tomar decisiones difíciles”) i a sobre fa servir una metàfora bèl·lica (“Coger dos o tres guerras y atacar esas”) que el delata.&lt;/li&gt;
@@ -9013,8 +9080,7 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
 &lt;li&gt;Perquè es fa o li fan publicitat amb l’assassinat i el funeral d’un policia al seu campus.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;D’altra banda, és evident que, al llarg de l’entrevista, toca algunes qüestions importants o interessants, sobretot quan li convé fer-ho en pro de la &lt;em&gt;seva&lt;/em&gt; universitat. I El País li fa d’altaveu perquè està de moda parlar malament de les nostres universitats i de l’educació pública en general. Fer-nos creure que hi tenim un problema, en lloc de la solució dels nostres problemes. Anar-la ensorrant a base de falsedats, estrangulament pressupostari i altres males arts, i crear així noves i magnífiques oportunitats de negoci per als més espavilats.&lt;/p&gt;
-&lt;p&gt;(Sobre la figura del gerent com a personatge clau de la modernitat, recomane &lt;a href=&#34;https://blog.carlesbellver.net/2020/01/19/el-gerent-representa.html&#34;&gt;llegir Macintyre&lt;/a&gt;.)&lt;/p&gt;
-&lt;iframe width=&#34;480&#34; height=&#34;360&#34; src=&#34;//www.youtube.com/embed/U4nvYjBsY0k?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;*Sobre la figura del gerent com a personatge clau de la modernitat, recomane &lt;a href=&#34;https://blog.carlesbellver.net/2020/01/19/el-gerent-representa.html&#34;&gt;llegir Macintyre&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -9192,8 +9258,19 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
       <guid>https://blog.carlesbellver.net/2013/02/01/im-not-the.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://powazek.com/posts/3229&#34;&gt;I&amp;rsquo;m Not The Product, But I Play One On The Internet&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lectura obligatòria sobre les confusions i la manipulació darrere del mantra “Si no pagues pel producte, tu ets el producte”.&lt;/p&gt;
-&lt;p&gt;Com si només poguéssim ser o client o producte, com si no pagar impliqués no poder queixar-se, com si les companyies a què paguem religiosament (p. ex. les dels sectors de l’energia o les comunicacions) ens tractessin d’allò més bé i no comerciessin amb les nostres dades. Com si estiguéssim obligats a reduir totes les relacions a transaccions comercials.&lt;/p&gt;
-&lt;p&gt;En resum: com si fóssim ximplets. Molta ingenuïtat i molts estafadors, tot plegat.&lt;/p&gt;
+&lt;p&gt;Com si només poguéssim ser o client o producte, com si no pagar impliqués no poder queixar-se, com si les companyies a què paguem religiosament ens tractessin d’allò més bé i no comerciessin amb les nostres dades (p. ex. les dels sectors de l’energia o les comunicacions). Com si estiguéssim obligats a reduir totes les relacions a transaccions comercials.&lt;/p&gt;
+&lt;p&gt;En resum: com si fóssim ximplets. Molta ingenuïtat d&amp;rsquo;una banda i molts estafadors de l&amp;rsquo;altra.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hotel amb mosca</title>
+      <link>https://blog.carlesbellver.net/2013/02/01/hotel-amb-mosca.html</link>
+      <pubDate>Fri, 01 Feb 2013 23:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2013/02/01/hotel-amb-mosca.html</guid>
+      <description>&lt;p&gt;Avui he llegit en un diari que el 30 de novembre de 2007, divendres, o potser un altre dia indeterminat de l’any següent, el vicepresident del Consell i la consellera de Cultura van dinar amb el duc de Palma en un hotel de Castelló. Tot i que van venir a propòsit des de València, i consta que van pagar ells el compte (“Açò ho pague jo!”), els representants de la Generalitat no aconsegueixen recordar ara el motiu de la trobada, ni els temes de què van parlar amb l’egregi comensal. Una mosca sobrevolava la taula. Feia pudor, sens dubte, d’immundícia.&lt;/p&gt;
+&lt;p&gt;(Font: Levante de Castelló d’avui, edició en paper, p. 4. Tret d’això de la mosca.)&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,26 @@
     <description>La vista cansada (citacions)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 07 Nov 2021 12:25:28 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jan 2022 12:45:02 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/citacions/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/08/dedans/</link>
+      <pubDate>Sat, 08 Jan 2022 12:45:02 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/08/dedans/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Coextensiu amb el seu exterior, hi ha un interior de les coses.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Coextensif à leur Dehors, il y a un Dedans des Choses.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—&lt;a href=&#34;https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin&#34;&gt;Pierre Teilhard de Chardin&lt;/a&gt;, &lt;em&gt;Le phénomène humain&lt;/em&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-01-08-dedans.jpg&#34;&gt;
+&lt;p&gt;Foto: el rellotge del &lt;a href=&#34;https://mucc.castello.es/seus/el-fadri/&#34;&gt;Fadrí&lt;/a&gt;, des de dins.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
@@ -260,22 +276,9 @@
       
       <guid>https://blog.carlesbellver.net/2019/01/28/082952.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;The best book I’ve ever read on programming and making apps is &lt;em&gt;Six Memos for the Next Millennium&lt;/em&gt; by Italo Calvino.&lt;/p&gt;
+&lt;p&gt;El millor llibre que he llegit mai sobre programació i creació d&amp;rsquo;aplicacions és Lliçons americanes: &lt;em&gt;Sis propostes per al pròxim mil·lenni&lt;/em&gt; d&amp;rsquo;Italo Calvino.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;— &lt;a href=&#34;http://inessential.com/2019/01/27/the_best_book_ive_ever_read_on_programmi&#34;&gt;Brent Simmons&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      
-      <link>https://blog.carlesbellver.net/2019/01/27/094259.html</link>
-      <pubDate>Sun, 27 Jan 2019 08:42:00 +0000</pubDate>
-      
-      <guid>https://blog.carlesbellver.net/2019/01/27/094259.html</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;“De todos los papeles posibles, el individuo contemporáneo tiende a retener uno solo: el del bebé quejumbroso, calamitoso y gruñón.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;📎 Pedro Vallín: &lt;a href=&#34;https://www.lavanguardia.com/politica/20190127/4618005989/pascal-bruckner-vox-podemos-proces-pesadilla-espana.html&#34;&gt;España, una pesadilla de Pascal Bruckner&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -289,6 +292,20 @@
 &lt;p&gt;Però jo visc a l’època d’Alain Robbe-Grillet i Roland Barthes; si açò és una novel·la, no pot ser una novel·la en el sentit modern del terme.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—John Fowles, &lt;em&gt;La dona del tinent francès&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2019/01/06/xavi-ayn-la.html</link>
+      <pubDate>Sun, 06 Jan 2019 09:06:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2019/01/06/xavi-ayn-la.html</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.lavanguardia.com/opinion/20190106/453954643553/la-posibilidad-de-una-vida.html?facet=amp&amp;amp;__twitter_impression=true&#34;&gt;Xavi Ayén: La posibilidad de una vida&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…si Houellebecq se casa, el amor es siempre posible.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Però Ayén tem que la felicitat conjugal pugui haver afectat la qualitat de la seva darrera novel·la. Que la infelicitat sigui l’única font legítima de l’art és un vell tòpic.&lt;/p&gt;
 </description>
     </item>
     
@@ -557,7 +574,7 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;La realitat distòpica de la història, per una banda sobta per les coincidències en l’actual situació política…  i per l’altra recorda l’ambient fosc, perillós, de la magnífica pel·lícula &lt;em&gt;Brazil&lt;/em&gt;, de Terry Gilliam, de l’any 1985.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;📎 &lt;a href=&#34;http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/&#34;&gt;Un cel nou i una terra nova, Carles Bellver Torlà (Unària, 2015)&lt;/a&gt; (ressenya de Carme Pinyana).&lt;/p&gt;
+&lt;p&gt;📎 &lt;a href=&#34;http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/&#34;&gt;Un cel nou i una terra nova, Carles Bellver Torlà (Unaria, 2015)&lt;/a&gt; (ressenya de Carme Pinyana).&lt;/p&gt;
 </description>
     </item>
     
@@ -698,7 +715,21 @@ estás del lado de la sombra.&lt;/p&gt;
     </item>
     
     <item>
-      <title>John Berger: l&#39;esperança</title>
+      <title>A common case of team work</title>
+      <link>https://blog.carlesbellver.net/2017/01/15/a-common-case.html</link>
+      <pubDate>Sun, 15 Jan 2017 23:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2017/01/15/a-common-case.html</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;Lewis Hine [Public domain]&#34; href=&#34;https://commons.wikimedia.org/wiki/File:A_common_case_of_%22team_work.%22_Smaller_boy,_Joseph_Bishop,_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg&#34;&gt;&lt;img width=&#34;512&#34; alt=&#34;A common case of team work. Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out... - NARA - 523168&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/A_common_case_of_%22team_work.%22_Smaller_boy%2C_Joseph_Bishop%2C_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg/512px-A_common_case_of_%22team_work.%22_Smaller_boy%2C_Joseph_Bishop%2C_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A common case of “team work.” Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out and his brother gives him more. Joseph said, “Drunks are me best customers. I sell more’s me bruder does. Dey buy me out so I kin go home.” He sells every afternoon and night. Extra late Saturday night and is at it again at 6 A.M Sunday. Hartford, Conn. 4 March 1909.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📎 &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:A_common_case_of_%22team_work.%22_Smaller_boy,_Joseph_Bishop,_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg&#34;&gt;Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
       <link>https://blog.carlesbellver.net/2017/01/06/john-berger-lesperana.html</link>
       <pubDate>Fri, 06 Jan 2017 23:00:00 +0000</pubDate>
       
@@ -1101,10 +1132,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       
       <guid>https://blog.carlesbellver.net/2014/02/03/future-wasnt-created.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;The internet, the web, open content and open access, the LMS, pedagogy and the MOOC: all were created within the public system, by people working for the public good, not by some lone capitalist with an idea. This future wasn’t created by the Bill Gates of the world. It was created by the Pete Seegers. Never forget that.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;La Internet, el Web, els continguts oberts i l&amp;rsquo;accés obert, els entorns virtuals d&amp;rsquo;ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seggers. No us n&amp;rsquo;oblideu mai&lt;/p&gt;
+&lt;p&gt;La Internet, el Web, els continguts oberts i l&amp;rsquo;accés obert, els entorns virtuals d&amp;rsquo;ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seegers. No ho oblideu mai.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;📎 &lt;a href=&#34;http://www.downes.ca/post/61708&#34;&gt;Stephen Downes&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1120,7 +1148,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
 &lt;p&gt;If you want to get laid, go to college; if you want an education, go to the library.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.barrypopik.com/index.php/new_york_city/entry/if_you_want_to_get_laid_go_to_college_if_you_want_an_education_go_to_the_li/&#34;&gt;Citació&lt;/a&gt; atribuïda a &lt;a href=&#34;https://en.wikipedia.org/wiki/Frank_Zappa&#34;&gt;Frank Zappa&lt;/a&gt;. Via &lt;a href=&#34;https://twitter.com/ainhoaeus/status/426040151941582848&#34;&gt;@ainhoaeus&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;“Si vols follar, vés a la universitat; si vols educar-te, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt, continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.&lt;/p&gt;
+&lt;p&gt;“Si vols follar, vés a la universitat; si vols educació, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt, continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/universitatjaumei/5404043659/&#34; title=&#34;Biblioteca - Universitat Jaume I - Flickr&#34;&gt;&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2019/b3fc905481.jpg&#34; alt=&#34;Biblioteca - Universitat Jaume I - Flickr&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -1400,7 +1428,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
 &lt;/blockquote&gt;
 &lt;p&gt;Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació que en va fer Lluís Llach (&lt;em&gt;Somniem&lt;/em&gt;, 1979; &lt;em&gt;Poetes&lt;/em&gt;, 2004). I heus ací on em sorgia el dubte, perquè, en la versió de Llach, el vers figura exactament tal com jo l’acabe de transcriure, però en l’edició del llibre de Fuster de què dispose (dins &lt;em&gt;Set llibres de versos&lt;/em&gt;, 1989), i en moltes pàgines web (com l’adés enllaçada), s’observa una no tan petita variació:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;No &lt;em&gt;&lt;strong&gt;li&lt;/strong&gt;&lt;/em&gt; llegiran ton nom amb un bell pànic?&lt;/p&gt;
+&lt;p&gt;No &lt;em style=&#34;background-color: #999; padding: 3px; color: #fff; font-style: italic; font-weight: bold; border-radius: 25%;&#34;&gt;li&lt;/em&gt; llegiran ton nom amb un bell pànic?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d&amp;rsquo;aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.&lt;/p&gt;
 &lt;p&gt;Mentre hi rumiava, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la &lt;a href=&#34;https://cataleg.uji.es/permalink/34CVA_UJI/j35epn/alma991003954729706336&#34;&gt;fitxa&lt;/a&gt; del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.&lt;/p&gt;
@@ -1493,6 +1521,23 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
 &lt;p&gt;De tant en tant, hi ha algú que et pregunta si no has pensat a escriure una novel·la, o contes per a xiquets, o qualsevol altra cosa que, de fet, no hagis escrit. O et retreuen que la teva &lt;em&gt;producció&lt;/em&gt; sigui tan curta, que vagis tan lentament. No has escrit res més? Tot just tres llibres, i tan prims!&lt;/p&gt;
 &lt;p&gt;Però crec que és natural que com a escriptor un vulgui seguir el seu camí i que vulgui portar el seu pas. En vista d’això que deia Monterroso —recordem que la seva obra narrativa completa, d’una qualitat extraordinària, cap dins d’un sol volum— fins i tot tinc la sensació que darrerament, si més no els darrers quinze anys, l’ansietat m’ha fet escriure massa i amb massa presses. M’agradaria encetar en qualsevol moment una fase de calma i lentitud.&lt;/p&gt;
 &lt;p&gt;(“L’esperit modern de la pressa”: un fragment d’una frase que vaig subratllar quan vaig llegir &lt;em&gt;La línia d’ombra&lt;/em&gt; de Joseph Conrad.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2003/03/27/escriptors/</link>
+      <pubDate>Thu, 27 Mar 2003 21:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2003/03/27/escriptors/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;El conocimiento directo de los escritores es nocivo… En cuanto uno conoce directamente a un escritor al que admiró de lejos, deja de leer sus obras.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Augusto Monterroso, &lt;em&gt;Movimiento perpetuo&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;He sido afortunado, no he tratado personalmente a casi ningún escritor. Sé que son vanidosos, mezquinos, intrigantes, egocéntricos, intratables. Y si son españoles, encima son vanidosos y miedosos.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Enrique Vila-Matas, &lt;em&gt;Bartleby y compañía&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

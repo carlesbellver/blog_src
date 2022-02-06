@@ -6,10 +6,104 @@
     <description>La vista cansada (fotos)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sat, 25 Dec 2021 09:30:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Feb 2022 20:30:13 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/02/05/correus/</link>
+      <pubDate>Sat, 05 Feb 2022 20:30:13 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/02/05/correus/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.&lt;/p&gt;
+&lt;img alt=&#34;Bústies clausurades a l&#39;edifici de Correus de Castelló&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-02-05-correus.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/02/04/arameu/</link>
+      <pubDate>Fri, 04 Feb 2022 18:24:45 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/02/04/arameu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Belshazzar%27s_feast&#34;&gt;Escrit a la paret&lt;/a&gt; i no en arameu.&lt;/p&gt;
+&lt;img alt=&#34;Adhesiu: “Somos la puta ruina”&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-02-04-arameu.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un reenfocament (o un rodeig) low-tech dels NFT</title>
+      <link>https://blog.carlesbellver.net/2022/01/23/notnft/</link>
+      <pubDate>Sun, 23 Jan 2022 17:20:08 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/23/notnft/</guid>
+      <description>&lt;img alt=&#34;Detall d&#39;un pseudo-NFT.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg&#34;&gt;
+&lt;p&gt;A hores d&amp;rsquo;ara ja &lt;a href=&#34;https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html&#34;&gt;s&amp;rsquo;ha parlat&lt;/a&gt; prou i massa dels NFT o &lt;a href=&#34;https://en.wikipedia.org/wiki/Non-fungible_token&#34;&gt;Non-fungible tokens&lt;/a&gt;. Sabem que són una mena de certificats d&amp;rsquo;autenticitat i de propietat d&amp;rsquo;objectes digitals: imatges, &lt;a href=&#34;https://twitter.com/DaniNovarama/status/1484449865857961987&#34;&gt;elements de videojocs&lt;/a&gt;, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d&amp;rsquo;un artifici tecnològic que apel·la a l&amp;rsquo;afecció pel col·leccionisme i que busca traure&amp;rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.&lt;/p&gt;
+&lt;p&gt;Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m&amp;rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi &lt;code&gt;NOTNFT00&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;🖼 &lt;a href=&#34;https://notnft.carlesbellver.net/&#34;&gt;NFT gratuïts i il·limitats de les portades dels meus llibres&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l&amp;rsquo;anterior i resulta excessivament complicada per a la majoria d&amp;rsquo;usuaris. Em pareix molt més senzill identificar-se amb l&amp;rsquo;adreça de correu electrònic.&lt;/li&gt;
+&lt;li&gt;La distinció (i la confusió) entre l&amp;rsquo;NFT i l&amp;rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;escassesa. De debò no s&amp;rsquo;havia adonat ningú que es poden fer infinites còpies d&amp;rsquo;un fitxer?&lt;/li&gt;
+&lt;li&gt;El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d&amp;rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l&amp;rsquo;adreça electrònica d&amp;rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/20/ia/</link>
+      <pubDate>Thu, 20 Jan 2022 08:48:11 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/20/ia/</guid>
+      <description>&lt;p&gt;Facultat de Ciències Humanes i Soc&lt;span style=&#34;margin-left: 1px; margin-right: 1px; padding-left: 1px; padding-right: 1px; font-weight: bold; background: var(--font-color); color: var(--bg-color);&#34;&gt;iA&lt;/span&gt;ls #UJI #IA.&lt;/p&gt;
+&lt;img alt=&#34;Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-01-20-ia.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/17/pastures-uji/</link>
+      <pubDate>Mon, 17 Jan 2022 16:51:33 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/17/pastures-uji/</guid>
+      <description>&lt;p&gt;Les pastures de l&#39;#UJI. Descansar en prats deliciosos.&lt;/p&gt;
+&lt;img alt=&#34;Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d&#39;un cavall entres els arbres.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-01-17-pastures-uji.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/08/dedans/</link>
+      <pubDate>Sat, 08 Jan 2022 12:45:02 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/08/dedans/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Coextensiu amb el seu exterior, hi ha un interior de les coses.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Coextensif à leur Dehors, il y a un Dedans des Choses.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—&lt;a href=&#34;https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin&#34;&gt;Pierre Teilhard de Chardin&lt;/a&gt;, &lt;em&gt;Le phénomène humain&lt;/em&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-01-08-dedans.jpg&#34;&gt;
+&lt;p&gt;Foto: el rellotge del &lt;a href=&#34;https://mucc.castello.es/seus/el-fadri/&#34;&gt;Fadrí&lt;/a&gt;, des de dins.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/01/03/ull-soluble/</link>
+      <pubDate>Mon, 03 Jan 2022 19:06:02 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/01/03/ull-soluble/</guid>
+      <description>&lt;p&gt;Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.&lt;/p&gt;
+&lt;img alt=&#34;Rètol de l&#39;Ull Soluble&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-01-03-ull-soluble.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       
@@ -495,7 +589,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Wed, 05 Feb 2020 18:49:13 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2020/02/05/organic-ethical-chocolate.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://seedandbean.co.uk/&#34;&gt;Organic &amp;amp; Ethical Chocolate&lt;/a&gt;. Part del berenar d&amp;rsquo;avui.&lt;/p&gt;
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://seedandbean.co.uk/&#34;&gt;Organic &amp;amp; Ethical Chocolate&lt;/a&gt;. Part del berenar d&amp;rsquo;avui.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/uploads/2020/38cb60c68c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
@@ -506,7 +600,8 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Tue, 04 Feb 2020 19:03:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2020/02/04/philip-k-dick.html</guid>
-      <description>&lt;p&gt;Philip K. Dick used to query the I Ching. The thing is, I prefer the &lt;a href=&#34;https://en.wikipedia.org/wiki/Oblique_Strategies&#34;&gt;Oblique Strategies&lt;/a&gt; by Brian Eno and Peter Schmidt, so I&amp;rsquo;ve spent some time implementing them &lt;a href=&#34;https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479&#34;&gt;on this handheld microconsole&lt;/a&gt;. It&amp;rsquo;s like carrying on a small oracle.&lt;/p&gt;
+      <description>&lt;p&gt;Philip K. Dick solia consultar l&#39;&lt;a href=&#34;https://ca.wikipedia.org/wiki/Yijing&#34;&gt;I Ching&lt;/a&gt;. Jo tinc més tirada a les &lt;a href=&#34;https://en.wikipedia.org/wiki/Oblique_Strategies&#34;&gt;Oblique Strategies&lt;/a&gt; de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta &lt;a href=&#34;https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479&#34;&gt;microconsola portàtil&lt;/a&gt;. És com dur a la butxaca un petit oracle.&lt;/p&gt;
+&lt;!-- Philip K. Dick used to query the I Ching. The thing is, I prefer the Oblique Strategies by Brian Eno and Peter Schmidt, so I’ve spent some time implementing them on this handheld microconsole. It’s like carrying on a small oracle. --&gt;
 &lt;img alt=&#34;Arduboy handheld microconsole&#34; style=&#34;width:600px;height:600px;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2020/a3b9424db8.jpg&#34;&gt;
 </description>
     </item>
@@ -1875,7 +1970,7 @@ empelts.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació que en va fer Lluís Llach (&lt;em&gt;Somniem&lt;/em&gt;, 1979; &lt;em&gt;Poetes&lt;/em&gt;, 2004). I heus ací on em sorgia el dubte, perquè, en la versió de Llach, el vers figura exactament tal com jo l’acabe de transcriure, però en l’edició del llibre de Fuster de què dispose (dins &lt;em&gt;Set llibres de versos&lt;/em&gt;, 1989), i en moltes pàgines web (com l’adés enllaçada), s’observa una no tan petita variació:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;No &lt;em&gt;&lt;strong&gt;li&lt;/strong&gt;&lt;/em&gt; llegiran ton nom amb un bell pànic?&lt;/p&gt;
+&lt;p&gt;No &lt;em style=&#34;background-color: #999; padding: 3px; color: #fff; font-style: italic; font-weight: bold; border-radius: 25%;&#34;&gt;li&lt;/em&gt; llegiran ton nom amb un bell pànic?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d&amp;rsquo;aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.&lt;/p&gt;
 &lt;p&gt;Mentre hi rumiava, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la &lt;a href=&#34;https://cataleg.uji.es/permalink/34CVA_UJI/j35epn/alma991003954729706336&#34;&gt;fitxa&lt;/a&gt; del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.&lt;/p&gt;
@@ -1908,6 +2003,26 @@ empelts.&lt;/p&gt;
 &lt;p&gt;Al cap d’una estona, però, vam observar com treia el cap, les banyes i la panxa. Es va tornar a arrossegar a poc a poc fins al test, es va enfilar amunt cap al verd i finalment es va col·locar si fa no fa en el mateix punt i en la mateixa posició d’abans.&lt;/p&gt;
 &lt;p&gt;Encara hi és.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/uploads/2004/2004-05-22-caragol.jpg&#34; alt=&#34;Caragol i planta&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2003/06/03/bbedit/</link>
+      <pubDate>Tue, 03 Jun 2003 21:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2003/06/03/bbedit/</guid>
+      <description>&lt;img src=&#34;https://blog.carlesbellver.net/uploads/2003/2003-06-03-bbedit-anthology.jpg&#34; alt=&#34;Foto del CD-ROM i la carta de Bare Bones&#34; /&gt;
+&lt;p&gt;Fa quasi deu anys vaig programar un conjunt d&amp;rsquo;extensions per a &lt;a href=&#34;http://www.barebones.com/products/bbedit/&#34;&gt;BBEdit&lt;/a&gt; -el millor editor de textos per a Mac, llavors i ara- que facilitaven l&amp;rsquo;edició d&amp;rsquo;HTML. Més endavant, aquestes extensions, i un altre paquet alternatiu desenvolupat per Lindsay Davies van ser incloses en la distribució oficial de BBEdit.&lt;/p&gt;
+&lt;p&gt;Ja ho he contat moltes vegades. Tot allò va comportar per a mi uns pocs minuts warholians de fama. El meu nom i les meues extensions circulaven per Internet i s&amp;rsquo;imprimien en llibres i CD-ROMS. Eren els primers temps del Web i tot era nou i interessant. Aquesta setmana, la gent de Bare Bones Software m&amp;rsquo;han enviat el CD-ROM &lt;a href=&#34;http://www.barebones.com/products/bbedit/anthology.shtml&#34;&gt;BBEdit Anthology&lt;/a&gt;, una edició limitada amb totes les versions de BBEdit des de la 2.5. També hi havia una nota d&amp;rsquo;agraïment signada per Rich Siegel i unes calcomanies.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The company soon discovered that two Europeans —Carles Bellver in Spain and Lindsay Davies in the UK— had written BBEdit plug-ins that automated the process of generating text with HTML markup…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📎 &lt;a href=&#34;http://www.apple.com/hotnews/features/bbeditfeat.html&#34;&gt;Apple - Hot News - Bare Bones&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;BBEdit, from Bare Bones Software, became a popular HTML editing tool before it had HTML features, in part because it is an excellent text editor, and in part because Carles Bellver and Lindsay Davies both released reasonably complete sets of BBEdit extensions for HTML.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📎 &lt;a href=&#34;http://www.tidbits.com/tb-issues/TidBITS-385.html#lnk4&#34;&gt;TidBITS#385/23-Jun-97&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

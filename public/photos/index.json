@@ -6,6 +6,62 @@
   "feed_url": "https://blog.carlesbellver.net/photos/index.json",
   "items": [
       {
+        "id": "https://blog.carlesbellver.net/2022/02/05/correus/",
+        "title": "",
+        "date_published": "2022-02-05T20:30:13+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/05/correus/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-05-correus.jpg",
+        "content_text": "L\u0026rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/02/04/arameu/",
+        "title": "",
+        "date_published": "2022-02-04T18:24:45+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/04/arameu/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-04-arameu.jpg",
+        "content_text": "Escrit a la paret i no en arameu.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/01/23/notnft/",
+        "title": "Un reenfocament (o un rodeig) low-tech dels NFT",
+        "date_published": "2022-01-23T17:20:08+01:00",
+        "url": "https://blog.carlesbellver.net/2022/01/23/notnft/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg",
+        "content_text": "A hores d\u0026rsquo;ara ja s\u0026rsquo;ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són una mena de certificats d\u0026rsquo;autenticitat i de propietat d\u0026rsquo;objectes digitals: imatges, elements de videojocs, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d\u0026rsquo;un artifici tecnològic que apel·la a l\u0026rsquo;afecció pel col·leccionisme i que busca traure\u0026rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.\nAquest cap de setmana he dedicat unes hores a pensar sobre el tema i m\u0026rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi NOTNFT00:\n🖼 NFT gratuïts i il·limitats de les portades dels meus llibres\nModestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.\n La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible. L\u0026rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l\u0026rsquo;anterior i resulta excessivament complicada per a la majoria d\u0026rsquo;usuaris. Em pareix molt més senzill identificar-se amb l\u0026rsquo;adreça de correu electrònic. La distinció (i la confusió) entre l\u0026rsquo;NFT i l\u0026rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes. L\u0026rsquo;escassesa. De debò no s\u0026rsquo;havia adonat ningú que es poden fer infinites còpies d\u0026rsquo;un fitxer? El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero. L\u0026rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d\u0026rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l\u0026rsquo;adreça electrònica d\u0026rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.  Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/01/20/ia/",
+        "title": "",
+        "date_published": "2022-01-20T08:48:11+01:00",
+        "url": "https://blog.carlesbellver.net/2022/01/20/ia/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-01-20-ia.jpg",
+        "content_text": "Facultat de Ciències Humanes i SociAls #UJI #IA.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/",
+        "title": "",
+        "date_published": "2022-01-17T16:51:33+01:00",
+        "url": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-01-17-pastures-uji.jpg",
+        "content_text": "Les pastures de l'#UJI. Descansar en prats deliciosos.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/01/08/dedans/",
+        "title": "",
+        "date_published": "2022-01-08T12:45:02+01:00",
+        "url": "https://blog.carlesbellver.net/2022/01/08/dedans/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-01-08-dedans.jpg",
+        "content_text": " Coextensiu amb el seu exterior, hi ha un interior de les coses.\nCoextensif à leur Dehors, il y a un Dedans des Choses.\n —Pierre Teilhard de Chardin, Le phénomène humain.\nFoto: el rellotge del Fadrí, des de dins.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/",
+        "title": "",
+        "date_published": "2022-01-03T19:06:02+01:00",
+        "url": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-01-03-ull-soluble.jpg",
+        "content_text": "Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.\n"
+      },
+      {
         "id": "https://blog.carlesbellver.net/2021/12/25/venus-willendorf/",
         "title": "",
         "date_published": "2021-12-25T09:30:10+01:00",
@@ -339,7 +395,7 @@
         "date_published": "2020-02-05T18:49:13+00:00",
         "url": "https://blog.carlesbellver.net/2020/02/05/organic-ethical-chocolate.html",
           "image": "https://blog.carlesbellver.net/uploads/2020/38cb60c68c.jpg",
-        "content_text": "Organic \u0026amp; Ethical Chocolate. Part del berenar d\u0026rsquo;avui.\n"
+        "content_text": "📎 Organic \u0026amp; Ethical Chocolate. Part del berenar d\u0026rsquo;avui.\n"
       },
       {
         "id": "https://blog.carlesbellver.net/2020/02/04/philip-k-dick.html",
@@ -347,7 +403,7 @@
         "date_published": "2020-02-04T19:03:00+00:00",
         "url": "https://blog.carlesbellver.net/2020/02/04/philip-k-dick.html",
           "image": "https://blog.carlesbellver.net/uploads/2020/a3b9424db8.jpg",
-        "content_text": "Philip K. Dick used to query the I Ching. The thing is, I prefer the Oblique Strategies by Brian Eno and Peter Schmidt, so I\u0026rsquo;ve spent some time implementing them on this handheld microconsole. It\u0026rsquo;s like carrying on a small oracle.\n"
+        "content_text": "Philip K. Dick solia consultar l'I Ching. Jo tinc més tirada a les Oblique Strategies de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta microconsola portàtil. És com dur a la butxaca un petit oracle.\n"
       },
       {
         "id": "https://blog.carlesbellver.net/2020/01/26/we-dont-need.html",
@@ -1276,6 +1332,22 @@
         "url": "https://blog.carlesbellver.net/2004/05/22/el-caragol.html",
           "image": "https://blog.carlesbellver.net/uploads/2004/2004-05-22-caragol.jpg",
         "content_text": "L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i rodó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.\nAl cap d’una estona, però, vam observar com treia el cap, les banyes i la panxa. Es va tornar a arrossegar a poc a poc fins al test, es va enfilar amunt cap al verd i finalment es va col·locar si fa no fa en el mateix punt i en la mateixa posició d’abans.\nEncara hi és.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2003/06/03/bbedit/",
+        "title": "",
+        "date_published": "2003-06-03T21:00:00+00:00",
+        "url": "https://blog.carlesbellver.net/2003/06/03/bbedit/",
+          "image": "https://blog.carlesbellver.net/uploads/2003/2003-06-03-bbedit-anthology.jpg",
+        "content_text": "Fa quasi deu anys vaig programar un conjunt d\u0026rsquo;extensions per a BBEdit -el millor editor de textos per a Mac, llavors i ara- que facilitaven l\u0026rsquo;edició d\u0026rsquo;HTML. Més endavant, aquestes extensions, i un altre paquet alternatiu desenvolupat per Lindsay Davies van ser incloses en la distribució oficial de BBEdit.\nJa ho he contat moltes vegades. Tot allò va comportar per a mi uns pocs minuts warholians de fama. El meu nom i les meues extensions circulaven per Internet i s\u0026rsquo;imprimien en llibres i CD-ROMS. Eren els primers temps del Web i tot era nou i interessant. Aquesta setmana, la gent de Bare Bones Software m\u0026rsquo;han enviat el CD-ROM BBEdit Anthology, una edició limitada amb totes les versions de BBEdit des de la 2.5. També hi havia una nota d\u0026rsquo;agraïment signada per Rich Siegel i unes calcomanies.\n The company soon discovered that two Europeans —Carles Bellver in Spain and Lindsay Davies in the UK— had written BBEdit plug-ins that automated the process of generating text with HTML markup…\n 📎 Apple - Hot News - Bare Bones\n BBEdit, from Bare Bones Software, became a popular HTML editing tool before it had HTML features, in part because it is an excellent text editor, and in part because Carles Bellver and Lindsay Davies both released reasonably complete sets of BBEdit extensions for HTML.\n 📎 TidBITS#385/23-Jun-97\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2003/02/14/correo-euclides/",
+        "title": "Versions sobre la creació del món i les raons de la confusió",
+        "date_published": "2003-02-14T21:00:00+00:00",
+        "url": "https://blog.carlesbellver.net/2003/02/14/correo-euclides/",
+          "image": "https://blog.carlesbellver.net/uploads/2003/2003-02-14-correo-euclides.jpg",
+        "content_text": "Monterroso pensa que Déu encara no ha creat realment el món, i per això és tot tan confús: \u0026ldquo;sólo está imaginándolo, como entre sueños\u0026rdquo;.\nSupose que això contradiu el relat bíblic. Segons el Gènesi, la creació del món es va esdevenir ja fa moltes generacions, va durar set dies i va consistir bàsicament a posar ordre en el caos. Sant Joan aclareix que al principi hi era la Paraula, que és traducció del grec logos: raó, llenguatge. Però aquells mots que tenien per missió convertir el caos en cosmos ben bé podien ser mots errats, enganyosos. Almenys aquesta era la hipòtesi avançada per Max Aub en un cartell de l\u0026rsquo;any 1968: que Déu va crear la terra per culpa d\u0026rsquo;un mal informe de la CIA.\n"
       },
       {
         "id": "https://blog.carlesbellver.net/2002/12/15/catalan-sf-authors/",

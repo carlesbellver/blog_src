@@ -86,5 +86,5 @@ DefaultContentLanguage = "ca"
 
 	[outputs]
 	  home = [ "HTML", "RSS", "JSON", "ArchiveHTML", "ArchiveJSON", "PhotosJSON" ]
-		page = [ "HTML" ]
-		section = [ "HTML" ]
+	  page = [ "HTML" ]
+	  section = [ "HTML" ]

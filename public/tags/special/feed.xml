@@ -12,6 +12,34 @@
     
     <item>
       <title>Cercar</title>
+      <link>https://blog.carlesbellver.net/lunr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/lunr/</guid>
+      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;https://blog.carlesbellver.net/scripts/search.css&#34; /&gt;
+&lt;script src=&#34;https://unpkg.com/lunr/lunr.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://blog.carlesbellver.net/scripts/lunr.stemmer.support.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://blog.carlesbellver.net/scripts/lunr.ca.js&#34;&gt;&lt;/script&gt;
+&lt;form id=&#34;search&#34; class=&#34;search&#34; role=&#34;search&#34;&gt;
+  &lt;label for=&#34;search-input&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon search-icon&#34;&gt;&lt;path d=&#34;M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z&#34;/&gt;&lt;/svg&gt;
+  &lt;/label&gt;
+  &lt;input type=&#34;search&#34; id=&#34;search-input&#34; class=&#34;search-input&#34;&gt;
+&lt;/form&gt;
+&lt;template id=&#34;search-result&#34; hidden&gt;
+  &lt;article class=&#34;content post&#34;&gt;
+    &lt;h2 class=&#34;post-title&#34;&gt;&lt;a class=&#34;summary-title-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;summary class=&#34;summary&#34;&gt;&lt;/summary&gt;
+    &lt;div class=&#34;read-more-container&#34;&gt;
+      &lt;a class=&#34;read-more-link&#34;&gt;Read More »&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+&lt;/template&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cercar</title>
       <link>https://blog.carlesbellver.net/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

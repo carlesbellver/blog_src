@@ -6,6 +6,118 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/02/05/correus/",
+				
+				"content_html": "<p>L&rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.</p>\n<img alt=\"Bústies clausurades a l'edifici de Correus de Castelló\" src=\"/uploads/2022/2022-02-05-correus.jpg\">\n",
+				"date_published": "2022-02-05T20:30:13+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/05/correus/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/02/04/arameu/",
+				
+				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Belshazzar%27s_feast\">Escrit a la paret</a> i no en arameu.</p>\n<img alt=\"Adhesiu: “Somos la puta ruina”\" src=\"/uploads/2022/2022-02-04-arameu.jpg\">\n",
+				"date_published": "2022-02-04T18:24:45+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/04/arameu/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/27/revenants/",
+				
+				"content_html": "<p>Quan fan servir l’americanisme <em>egressat</em>, no puc evitar que em sone a <em>regressar</em>, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. <em>Les Revenants</em>.</p>\n",
+				"date_published": "2022-01-27T18:18:56+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/27/revenants/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/24/porsche/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.sciencedirect.com/science/article/pii/S2214140520300359\">Estimated car cost as a predictor of driver yielding behaviors for pedestrians</a></p>\n<blockquote>\n<p>Com més car és el cotxe, menys probable és que el conductor s&rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d&rsquo;increment en el preu del cotxe.</p>\n</blockquote>\n",
+				"date_published": "2022-01-24T17:04:22+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/24/porsche/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/24/yaml-json/",
+				
+				"content_html": "<p>📎 <a href=\"https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json\">I accidentally used YAML.parse instead of JSON.parse, and it… worked?</a></p>\n<blockquote>\n<p>That, dear reader, is the story of how I learnt that <a href=\"http://yaml.org/spec/1.2-old/spec.html#id2759572\">YAML is a superset of JSON</a>.</p>\n</blockquote>\n",
+				"date_published": "2022-01-24T09:27:35+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/24/yaml-json/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/23/notnft/",
+				"title": "Un reenfocament (o un rodeig) low-tech dels NFT",
+				"content_html": "<img alt=\"Detall d'un pseudo-NFT.\" src=\"/uploads/2022/2022-01-23-notnft.jpg\">\n<p>A hores d&rsquo;ara ja <a href=\"https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html\">s&rsquo;ha parlat</a> prou i massa dels NFT o <a href=\"https://en.wikipedia.org/wiki/Non-fungible_token\">Non-fungible tokens</a>. Sabem que són una mena de certificats d&rsquo;autenticitat i de propietat d&rsquo;objectes digitals: imatges, <a href=\"https://twitter.com/DaniNovarama/status/1484449865857961987\">elements de videojocs</a>, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d&rsquo;un artifici tecnològic que apel·la a l&rsquo;afecció pel col·leccionisme i que busca traure&rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.</p>\n<p>Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m&rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi <code>NOTNFT00</code>:</p>\n<p>🖼 <a href=\"https://notnft.carlesbellver.net/\">NFT gratuïts i il·limitats de les portades dels meus llibres</a></p>\n<p>Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.</p>\n<ul>\n<li>La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.</li>\n<li>L&rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l&rsquo;anterior i resulta excessivament complicada per a la majoria d&rsquo;usuaris. Em pareix molt més senzill identificar-se amb l&rsquo;adreça de correu electrònic.</li>\n<li>La distinció (i la confusió) entre l&rsquo;NFT i l&rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.</li>\n<li>L&rsquo;escassesa. De debò no s&rsquo;havia adonat ningú que es poden fer infinites còpies d&rsquo;un fitxer?</li>\n<li>El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.</li>\n<li>L&rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d&rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l&rsquo;adreça electrònica d&rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.</li>\n</ul>\n<p>Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.</p>\n",
+				"date_published": "2022-01-23T17:20:08+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/23/notnft/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.unite.ai/analyzing-depressed-and-alcoholic-chatbots/\">Analyzing Depressed and Alcoholic Chatbots - Unite.AI</a></p>\n<blockquote>\n<p>Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se&rsquo;ls pregunta utilitzant tests estàndard d&rsquo;avaluació de salut mental, i que fins i tot mostren signes de problemes amb l&rsquo;alcohol.</p>\n</blockquote>\n<p>🤖🍷</p>\n",
+				"date_published": "2022-01-20T19:30:00+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/20/ia/",
+				
+				"content_html": "<p>Facultat de Ciències Humanes i Soc<span style=\"margin-left: 1px; margin-right: 1px; padding-left: 1px; padding-right: 1px; font-weight: bold; background: var(--font-color); color: var(--bg-color);\">iA</span>ls #UJI #IA.</p>\n<img alt=\"Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.\" src=\"/uploads/2022/2022-01-20-ia.jpg\">\n",
+				"date_published": "2022-01-20T08:48:11+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/20/ia/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/",
+				
+				"content_html": "<p>Les pastures de l'#UJI. Descansar en prats deliciosos.</p>\n<img alt=\"Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d'un cavall entres els arbres.\" src=\"/uploads/2022/2022-01-17-pastures-uji.jpg\">\n",
+				"date_published": "2022-01-17T16:51:33+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/11/38235/",
+				
+				"content_html": "<p>Ell lamentava la cita, però la va fer igualment. Enguany <a href=\"https://www.vilaweb.cat/noticies/com-un-eslogan-dunamuno-ha-acabat-marcant-lany-joan-fuster/\">s’han repetit la cita i les lamentacions</a>, però per separat. Jo hauria preferit: “Vindrà l’hora de veure dins els versos”. O: “Heus ací un home que moria allarat en clars abismes”. Cadascú té les seues preferències i les diu.</p>\n",
+				"date_published": "2022-01-11T22:57:15+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/11/38235/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/10/first-impressions-web3/",
+				
+				"content_html": "<p>📎 <a href=\"https://moxie.org/2022/01/07/web3-first-impressions.html\">Moxie Marlinspike &raquo; My first impressions of web3</a></p>\n<blockquote>\n<p>Per fer utilitzables aquestes tecnologies, l&rsquo;espai s&rsquo;està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.</p>\n</blockquote>\n<p>El web3 és un web de servidors. La cadena de blocs és una xarxa d&rsquo;iguals, però només entre servidors. Malgrat la promesa de descentralització i de confiança fermament assentada en la criptografia, clients d&rsquo;usuari com MetaMask només poden interactuar amb la cadena de blocs d&rsquo;Ethereum mitjançant plataformes com etherscan, Infura o OpenSea, i ho fan sense cap mena d&rsquo;autenticació o signatura criptogràfica. És a dir, donant per descomptat que cal confiar en aquests intermediaris.</p>\n",
+				"date_published": "2022-01-10T17:31:26+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/10/first-impressions-web3/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/08/dedans/",
+				
+				"content_html": "<blockquote>\n<p>Coextensiu amb el seu exterior, hi ha un interior de les coses.</p>\n<p><em>Coextensif à leur Dehors, il y a un Dedans des Choses.</em></p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin\">Pierre Teilhard de Chardin</a>, <em>Le phénomène humain</em>.</p>\n<img alt=\"Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.\" src=\"/uploads/2022/2022-01-08-dedans.jpg\">\n<p>Foto: el rellotge del <a href=\"https://mucc.castello.es/seus/el-fadri/\">Fadrí</a>, des de dins.</p>\n",
+				"date_published": "2022-01-08T12:45:02+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/08/dedans/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/05/22332/",
+				
+				"content_html": "<p>Els antivacunes insisteixen en la importància de ser crítics, però els seus arguments, si et prens la molèstia de llegir-los, més aviat pareixen <a href=\"https://ca.wikipedia.org/wiki/M%C3%A8tode_paranoic-cr%C3%ADtic\">paranoico-crítics</a>, a la manera de Dalí.</p>\n",
+				"date_published": "2022-01-05T23:38:52+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/05/22332/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/",
+				
+				"content_html": "<p>Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.</p>\n<img alt=\"Rètol de l'Ull Soluble\" src=\"/uploads/2022/2022-01-03-ull-soluble.jpg\">\n",
+				"date_published": "2022-01-03T19:06:02+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/01/64407/",
+				
+				"content_html": "<p>📎 <a href=\"https://xclacksoverhead.org/home/about\">X-Clacks-Overhead</a></p>\n<blockquote>\n<p>Amb la intenció de preservar la memòria de Sir Terry Pratchett, els usuaris del <a href=\"https://www.reddit.com/r/discworld/\">SubReddit de la sèrie Discmon</a> van tenir la <a href=\"https://www.reddit.com/r/discworld/comments/2yt9j6/gnu_terry_pratchett/\">idea de la capçalera HTTP X-Clacks-Overhead</a>. Permet als desenvolupadors web commemorar algú en silenci mitjançant l&rsquo;ús d&rsquo;una capçalera no invasiva que es pot transmetre de servidor a servidor o de servidor a client sense causar interferències operatives.</p>\n</blockquote>\n",
+				"date_published": "2022-01-01T20:13:27+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/01/64407/"
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2022/01/01/49675/",
+				
+				"content_html": "<p>📎 <a href=\"https://arstechnica.com/information-technology/2021/12/end-of-the-line-finally-coming-for-blackberry-devices/\">End of the line finally coming for BlackBerry devices</a></p>\n<blockquote>\n<p>Pot resultar difícil d&rsquo;imaginar si no fèieu servir mòbils en aquell moment, però BlackBerry dominava el mercat dels telèfons intel·ligents… Un senyal de la seva importància és que les primeres versions internes d&rsquo;Android pareixien una imitació barata de BlackBerry, en lloc de la imitació barata de l&rsquo;iPhone que es va llançar finalment.</p>\n</blockquote>\n",
+				"date_published": "2022-01-01T16:07:55+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/01/49675/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/12/25/venus-willendorf/",
 				
 				"content_html": "<p>I remember you well in the Natural History Museum in Vienna.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-25-venus-willendorf.jpg\">\n",
@@ -67,118 +179,6 @@
 				"content_html": "<p>L&rsquo;austeritat que venia d&rsquo;Alemanya. Angela Merkel, 25.000 €/mes com a cancellera. A partir d&rsquo;ara, pensió de 15.000 €/mes, despatx al Bundestag amb nou persones al seu servei i cotxe oficial.</p>\n<p>📎 <a href=\"https://www.lavanguardia.com/internacional/20211210/7918906/que-hara-merkel.html\">¿Qué hará Merkel ahora?</a></p>\n",
 				"date_published": "2021-12-11T10:02:22+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/11/merkel/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/07/peritext/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.inkandswitch.com/peritext/\">Peritext: A CRDT for Rich-Text Collaboration</a></p>\n<p>Un algorisme per a l&rsquo;edició col·laborativa <em>asíncrona</em> de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&rsquo;edició síncrona). <a href=\"https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type\">CRDT</a> = Conflict-free Replicated Data Type.</p>\n<blockquote>\n<p>Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&rsquo;ús.</p>\n</blockquote>\n",
-				"date_published": "2021-12-07T19:00:44+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/07/peritext/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/05/web3/",
-				
-				"content_html": "<p>📎 <a href=\"https://yesterweb.org/no-to-web3/\">Keep the Web Free, Say No to Web3</a></p>\n<p>Una nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?</p>\n",
-				"date_published": "2021-12-05T17:55:03+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/05/web3/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/04/37220/",
-				
-				"content_html": "<p>Veient la freqüència amb què s&rsquo;associen les vacunes al gènere oví (concretament a l&rsquo;espècie <em>Ovis aries</em>) m&rsquo;adone que Nietzsche tampoc hauria aprovat les campanyes d&rsquo;immunització. Resulta sorprenent amb quina facilitat certes persones es creuen <em>übermenschen</em>, tot i que de lluny no diries que ho semblen.</p>\n<p><a href=\"https://unsplash.com/photos/AJa7S1fjy-I\" title=\"Photo by Judith Prins on Unsplash\"><img alt=\"Quatre ovelles mirant la càmera\" src=\"/uploads/2021/2021-12-04-37220.jpg\"></a></p>\n",
-				"date_published": "2021-12-04T19:35:00+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/04/37220/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/29/97227/",
-				
-				"content_html": "<p>En companyia d&rsquo;ànecs.</p>\n<img src=\"/uploads/2021/2021-11-29-97227.jpg\" />",
-				"date_published": "2021-11-29T15:47:08+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/29/97227/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/27/paella/",
-				"title": "En el futur res serà paella 🥘",
-				"content_html": "<p>Per tal de preservar la puresa de la gastronomia valenciana, i previndre possibles desviacions, per minúscules que siguen o difícils de detectar, propose que no es puga considerar paella cap plat cuinat en cap local de restauració, domicili particular, a l’aire lliure, o enlloc.</p>\n",
-				"date_published": "2021-11-27T09:25:25+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/27/paella/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/25/53487/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators\">Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators</a></p>\n<blockquote>\n<p>El consum energètic de la mineria de Bitcoin a Suècia equival a hores d&rsquo;ara al de 200.000 llars… En una carta oberta, els directors dels principals reguladors financers i mediambientals suecs van demanar que es prohibís a tota l&rsquo;UE la mineria de criptomonedes basada en prova de treball, que Suècia impedís noves operacions de mineria criptogràfica i que les empreses que comercialitzen i inverteixen en actius criptogràfics no puguin descriure les seves activitats empresarials com a ambientalment sostenibles.</p>\n</blockquote>\n<p>📎 <a href=\"https://hardware.slashdot.org/story/21/11/19/210228/texas-plans-to-become-the-bitcoin-capital-vulnerable-power-grid-and-all\">Texas Plans To Become the Bitcoin Capital, Vulnerable Power Grid and All</a></p>\n<blockquote>\n<p>Texas, que ja alberga la xarxa elèctrica més vulnerable dels Estats Units, està a punt de patir un augment de la demanda d&rsquo;electricitat que seria el doble de la d&rsquo;Austin. Es preveu que un exèrcit de miners de criptomoneda, atrets per l&rsquo;energia barata i la regulació <em>laissez-faire</em>  d&rsquo;aquest estat, augmenti la demanda fins a 5.000 megawatts durant els propers dos anys.</p>\n</blockquote>\n",
-				"date_published": "2021-11-25T16:18:07+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/25/53487/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/",
-				
-				"content_html": "<p>📎 <a href=\"https://singularityhub.com/2021/11/21/evolution-tells-us-we-might-be-the-only-intelligent-life-in-the-universe/\">Evolution Tells Us We Might Be the Only Intelligent Life in the Universe</a></p>\n<blockquote>\n<p>Diferents <a href=\"https://ca.wikipedia.org/wiki/Eumetazous\">eumetazous</a> van desenvolupar solucions evolutives semblants davant de problemes semblants, però el disseny corporal complex que les fa possibles és únic. Els animals complexos van evolucionar una vegada en la història de la vida, la qual cosa suggereix que són improbables. Sorprenentment, molts esdeveniments crítics en la nostra història evolutiva són únics i, probablement, improbables.</p>\n</blockquote>\n",
-				"date_published": "2021-11-21T19:32:38+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/",
-				"title": "Recull bibliogràfic d’aquesta setmana",
-				"content_html": "<ol>\n<li>“L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats”</li>\n<li>“El concepte de <em>product ownership</em> com a estratègia de socialització del sofriment en la governança TI”</li>\n<li>“El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.”</li>\n<li>“Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal”</li>\n<li>“Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans”</li>\n<li>“De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”</li>\n</ol>\n<p>Selecció de comunicacions presentades en el Segon Congrés d&rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.</p>\n",
-				"date_published": "2021-11-21T16:49:59+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/20/dogphone/",
-				
-				"content_html": "<p>📎 <a href=\"https://slashdot.org/story/392961\">DogPhone Lets Pets Ring Their Owners</a></p>\n<p>Una investigació candidata a l'<a href=\"http://ignobel.org\">Ig Nobel</a>?</p>\n<blockquote>\n<p>”El gos em va telefonar, però no feia cas de la trucada, estava més interessat en les coses que tenia al jaç.”</p>\n</blockquote>\n",
-				"date_published": "2021-11-20T12:34:01+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/20/dogphone/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/20/bon-dia/",
-				
-				"content_html": "<p>Bon dia.</p>\n<img alt=\"Grafit en un contenidor del fem: bon dia\" src=\"/uploads/2021/2021-11-20-bon-dia.jpg\">\n",
-				"date_published": "2021-11-20T08:30:25+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/20/bon-dia/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
-				
-				"content_html": "<p>Confinament estricte.</p>\n<img alt=\"Portes d'una botiga i d'una casa a mig paredar.\" src=\"/uploads/2021/2021-11-13-confinament.jpg\">\n",
-				"date_published": "2021-11-13T17:32:42+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/13/confinament/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
-				
-				"content_html": "<p>Castelló. Pont del <a href=\"/2019/08/18/it-was-hell.html\">segle XXI</a>.</p>\n<img alt=\"Cables d'acer del pont del Segle XXI, Castelló de la Plana\" src=\"/uploads/2021/2021-11-10-pont-segle-xxi.jpg\">",
-				"date_published": "2021-11-10T17:31:36+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/",
-				
-				"content_html": "<p>📎 <a href=\"https://moforgeries.org/?mc_cid=cf06f5ec38&amp;mc_eid=ba93faa1c4\">&ldquo;Possibly Real Copy Of &lsquo;Fairies&rsquo; by Andy Warhol&rdquo; BY MSCHF, 2021</a></p>\n<p>Museum of Forgeries: el museu de les falsificacions oferia la possibilitat d&rsquo;adquirir un original de Warhol per només 250 $, amb una probabilitat 1/1000. Una extrapolació de la loteria que, segurament, hauria complagut l&rsquo;artista.</p>\n<blockquote>\n<p><strong>1000 MSCHF ARTWORKS FOR SALE:</strong><br>\n<span style=\"border-bottom: 1px solid #990000;\">One original</span> Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF <span style=\"border-bottom: 1px solid #990000;\">forgeries</span>.</p>\n</blockquote>\n<img src=\"https://moforgeries.org/images/fairies-sold.png\" />",
-				"date_published": "2021-11-09T18:48:13+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/07/antonin-artaud/",
-				
-				"content_html": "<blockquote>\n<p>A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.</p>\n</blockquote>\n<img alt=\"Coberta del llibre “Carta a los poderes”, d'Antonin Artaud. 40a Fira del Llibre Antic i d'Ocasió a Castelló de la Plana.\" src=\"/uploads/2021/2021-11-07-antonin-artaud.jpg\">\n",
-				"date_published": "2021-11-07T12:25:28+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/07/antonin-artaud/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/06/arqueologia-aigua/",
-				
-				"content_html": "<p>Arqueologia de l&rsquo;aigua.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-11-06-arqueologia-aigua.jpg\">\n",
-				"date_published": "2021-11-06T14:02:05+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/06/arqueologia-aigua/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/04/n-est-pas-un-livre/",
-				
-				"content_html": "<p>Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d&rsquo;aquesta imatge.</p>\n<img alt=\"Una imatge en format PNG que conté un fitxer de text\" src=\"/uploads/2021/2021-11-04-unicorns.png\">\n<pre><code>$ unzip 2021-11-04-unicorns.png\nArchive:  2021-11-04-unicorns.png\ninflating: unicorns.txt\n</code></pre>\n<p>Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.</p>\n<p>Més detalls tècnics ací 👉 <a href=\"https://github.com/DavidBuchanan314/tweetable-polyglot-png\">tweetable-polyglot-png</a></p>\n",
-				"date_published": "2021-11-04T18:30:00+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/04/n-est-pas-un-livre/"
 			}
 	]
 }

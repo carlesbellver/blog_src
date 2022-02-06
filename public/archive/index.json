@@ -7,6 +7,118 @@
 	"items": [
 			{
 				"title": "",
+				"date_published": "2022-02-05T20:30:13+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/05/correus/",
+				"tags": "fotos, Castelló",
+				"content_text": "L\u0026rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-02-04T18:24:45+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/04/arameu/",
+				"tags": "fotos, Castelló",
+				"content_text": "Escrit a la paret i no en arameu.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-27T18:18:56+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/27/revenants/",
+				"tags": "UJI",
+				"content_text": "Quan fan servir l’americanisme egressat, no puc evitar que em sone a regressar, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. Les Revenants.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-24T17:04:22+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/24/porsche/",
+				"tags": "retalls",
+				"content_text": "📎 Estimated car cost as a predictor of driver yielding behaviors for pedestrians\n Com més car és el cotxe, menys probable és que el conductor s\u0026rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d\u0026rsquo;increment en el preu del cotxe.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-24T09:27:35+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/24/yaml-json/",
+				"tags": "retalls",
+				"content_text": "📎 I accidentally used YAML.parse instead of JSON.parse, and it… worked?\n That, dear reader, is the story of how I learnt that YAML is a superset of JSON.\n "
+			},
+			{
+				"title": "Un reenfocament (o un rodeig) low-tech dels NFT",
+				"date_published": "2022-01-23T17:20:08+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/23/notnft/",
+				"tags": "fotos",
+				"content_text": "A hores d\u0026rsquo;ara ja s\u0026rsquo;ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són una mena de certificats d\u0026rsquo;autenticitat i de propietat d\u0026rsquo;objectes digitals: imatges, elements de videojocs, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d\u0026rsquo;un artifici tecnològic que apel·la a l\u0026rsquo;afecció pel col·leccionisme i que busca traure\u0026rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.\nAquest cap de setmana he dedicat unes hores a pensar sobre el tema i m\u0026rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi NOTNFT00:\n🖼 NFT gratuïts i il·limitats de les portades dels meus llibres\nModestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.\n La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible. L\u0026rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l\u0026rsquo;anterior i resulta excessivament complicada per a la majoria d\u0026rsquo;usuaris. Em pareix molt més senzill identificar-se amb l\u0026rsquo;adreça de correu electrònic. La distinció (i la confusió) entre l\u0026rsquo;NFT i l\u0026rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes. L\u0026rsquo;escassesa. De debò no s\u0026rsquo;havia adonat ningú que es poden fer infinites còpies d\u0026rsquo;un fitxer? El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero. L\u0026rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d\u0026rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l\u0026rsquo;adreça electrònica d\u0026rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.  Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-20T19:30:00+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/",
+				"tags": "retalls",
+				"content_text": "📎 Analyzing Depressed and Alcoholic Chatbots - Unite.AI\n Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se\u0026rsquo;ls pregunta utilitzant tests estàndard d\u0026rsquo;avaluació de salut mental, i que fins i tot mostren signes de problemes amb l\u0026rsquo;alcohol.\n 🤖🍷\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-20T08:48:11+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/20/ia/",
+				"tags": "fotos, uji",
+				"content_text": "Facultat de Ciències Humanes i SociAls #UJI #IA.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-17T16:51:33+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/",
+				"tags": "fotos, UJI",
+				"content_text": "Les pastures de l'#UJI. Descansar en prats deliciosos.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-11T22:57:15+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/11/38235/",
+				"tags": "",
+				"content_text": "Ell lamentava la cita, però la va fer igualment. Enguany s’han repetit la cita i les lamentacions, però per separat. Jo hauria preferit: “Vindrà l’hora de veure dins els versos”. O: “Heus ací un home que moria allarat en clars abismes”. Cadascú té les seues preferències i les diu.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-10T17:31:26+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/10/first-impressions-web3/",
+				"tags": "retalls",
+				"content_text": "📎 Moxie Marlinspike \u0026raquo; My first impressions of web3\n Per fer utilitzables aquestes tecnologies, l\u0026rsquo;espai s\u0026rsquo;està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.\n El web3 és un web de servidors. La cadena de blocs és una xarxa d\u0026rsquo;iguals, però només entre servidors. Malgrat la promesa de descentralització i de confiança fermament assentada en la criptografia, clients d\u0026rsquo;usuari com MetaMask només poden interactuar amb la cadena de blocs d\u0026rsquo;Ethereum mitjançant plataformes com etherscan, Infura o OpenSea, i ho fan sense cap mena d\u0026rsquo;autenticació o signatura criptogràfica. És a dir, donant per descomptat que cal confiar en aquests intermediaris.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-08T12:45:02+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/08/dedans/",
+				"tags": "fotos, citacions, castelló",
+				"content_text": " Coextensiu amb el seu exterior, hi ha un interior de les coses.\nCoextensif à leur Dehors, il y a un Dedans des Choses.\n —Pierre Teilhard de Chardin, Le phénomène humain.\nFoto: el rellotge del Fadrí, des de dins.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-05T23:38:52+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/05/22332/",
+				"tags": "",
+				"content_text": "Els antivacunes insisteixen en la importància de ser crítics, però els seus arguments, si et prens la molèstia de llegir-los, més aviat pareixen paranoico-crítics, a la manera de Dalí.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-03T19:06:02+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/",
+				"tags": "Castelló, fotos",
+				"content_text": "Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-01T20:13:27+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/01/64407/",
+				"tags": "",
+				"content_text": "📎 X-Clacks-Overhead\n Amb la intenció de preservar la memòria de Sir Terry Pratchett, els usuaris del SubReddit de la sèrie Discmon van tenir la idea de la capçalera HTTP X-Clacks-Overhead. Permet als desenvolupadors web commemorar algú en silenci mitjançant l\u0026rsquo;ús d\u0026rsquo;una capçalera no invasiva que es pot transmetre de servidor a servidor o de servidor a client sense causar interferències operatives.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2022-01-01T16:07:55+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/01/49675/",
+				"tags": "",
+				"content_text": "📎 End of the line finally coming for BlackBerry devices\n Pot resultar difícil d\u0026rsquo;imaginar si no fèieu servir mòbils en aquell moment, però BlackBerry dominava el mercat dels telèfons intel·ligents… Un senyal de la seva importància és que les primeres versions internes d\u0026rsquo;Android pareixien una imitació barata de BlackBerry, en lloc de la imitació barata de l\u0026rsquo;iPhone que es va llançar finalment.\n "
+			},
+			{
+				"title": "",
 				"date_published": "2021-12-25T09:30:10+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/25/venus-willendorf/",
 				"tags": "fotos",
@@ -570,7 +682,7 @@
 				"date_published": "2021-01-16T17:35:00+01:00",
 				"url": "https://blog.carlesbellver.net/2021/01/16/maquina-diferencial/",
 				"tags": "ressenyes",
-				"content_text": "📖 La máquina diferencial, de William Gibson i Bruce Sterling. El plantejament és interessant. Una ucronia steampunk: a l’Anglaterra victoriana, les recerques de Babbage i Ada Byron han donat peu a una edat d’or de la informàtica analògica, amb ordinadors de targetes perforades i animacions o powerpoints mecànics amb píxels de fusta tintada. El primer ministre, cap del Partit Radical Industrial i bèstia negra de conservadors i ludites, és el pare d’Ada, Lord Byron, que no va morir a Grècia. També hi ha cotxes de vapor, entre altres avenços, enmig una fosca intriga política i policial amb ramificacions internacionals.\nPerò arriba un punt en què els autors es cansen d’imitar les novel·les d’aventures del segle XIX i decideixen agafar una drecera. El lector, almenys aquest, ho agraeix. La miscel·lània final amb què s\u0026rsquo;afanyen a resoldre la trama inclou notícies breus, poemes, fragments epistolars… i em pareix molt més reeixida que tots els capítols precedents junts.\n"
+				"content_text": "📖 La máquina diferencial, de William Gibson i Bruce Sterling. El plantejament és interessant. Una ucronia steampunk: a l’Anglaterra victoriana, les recerques de Babbage i Ada Byron han donat peu a una edat d’or de la informàtica analògica, amb ordinadors de targetes perforades i animacions o powerpoints mecànics amb píxels de fusta tintada. El primer ministre, cap del Partit Radical Industrial i bèstia negra de conservadors i ludites, és el pare d’Ada, Lord Byron, que no va morir a Grècia. També hi ha cotxes de vapor, entre altres avenços, enmig d\u0026rsquo;una fosca intriga política i policial amb ramificacions internacionals.\nPerò arriba un punt en què els autors es cansen d’imitar les novel·les d’aventures del segle XIX i decideixen agafar una drecera. El lector, almenys aquest, ho agraeix. La miscel·lània final amb què s\u0026rsquo;afanyen a resoldre la trama inclou notícies breus, poemes, fragments epistolars… i em pareix molt més reeixida que tots els capítols precedents junts.\n"
 			},
 			{
 				"title": "",
@@ -1242,7 +1354,7 @@
 				"date_published": "2020-02-08T13:43:00+00:00",
 				"url": "https://blog.carlesbellver.net/2020/02/08/la-mar-morta.html",
 				"tags": "",
-				"content_text": "Diana i la mar Morta (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l'Any Perucho, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d\u0026rsquo;altres obres, la mar del títol havia començat a aparèixer en minúscula: Diana i la mar morta. És evident que aquest canvi tipogràfic, que en modifica el sentit, s\u0026rsquo;hauria d\u0026rsquo;haver justificat, i no em consta que s\u0026rsquo;hagi fet. La mar Morta, en majúscula, és el cèlebre llac salat entre Cisjordània, Israel i Jordània. En minúscula, tanmateix, seria una mar qualsevol, o la mar en abstracte. Perucho havia utilitzat sempre la majúscula. Per exemple, en el preàmbul de l\u0026rsquo;edició original:\n Quant al títol, he conservat el de «Diana i la Mar Morta», si bé vaig estar temptat d\u0026rsquo;afegir-hi la paraula anglesa «puzzle». El meu amic, l\u0026rsquo;escriptor Salvador Espriu, m\u0026rsquo;aconsellà de substituir-la per qualsevol altra, per exemple, «mosaic». Finalment, no he tocat res.\n O, dins del mateix llibre, en la peça que li dona títol:\n Diana era una noia que estudiava a la Facultat de Lletres de Madrid. Va tenir un flirt amb un jove professor de Geografia. En una ocasió, li va regalar el llibre de Constantin Zoubichryn, La Mar Morta, que l’apassionà enormement i enfortí la seva vocació. El jove professor havia declarat que el seu amor era més fort que la mort. Projectà de fer oposicions a càtedra i casar-se.\nTinc l’exemplar de La Mar Morta i conec aquests detalls perquè, durant la guerra, els qui estàvem al servei de les armes sabíem coses insospitades.\n Una altra d\u0026rsquo;aquelles peces, \u0026ldquo;Exercici literari\u0026rdquo;, resultava, potser, geogràficament ambigua, o confusa, ja que s\u0026rsquo;hi barrejaven la mar Morta i Alexandreta, o Iskenderun, que és més al nord i a la vora del Mediterrani… Però la referència que em pareix definitiva es troba dins del poemari Itineraris d\u0026rsquo;Orient (Edicions 62, 1985, p. 65):\n Retorno al lloc des d\u0026rsquo;on Diana veié, per primera vegada, la mar Morta. Les aigües són com mercuri; és difícil banyar-s\u0026rsquo;hi. Tristos són els paratges d\u0026rsquo;aquesta mar salada.\n \n"
+				"content_text": "Diana i la mar Morta (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l'Any Perucho, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d\u0026rsquo;altres obres, la mar del títol havia començat a aparèixer en minúscula: Diana i la mar morta. És evident que aquest canvi tipogràfic, que en modifica el sentit, s\u0026rsquo;hauria d\u0026rsquo;haver justificat, i no em consta que s\u0026rsquo;hagi fet. La mar Morta, en majúscula, és el cèlebre llac salat entre Cisjordània, Israel i Jordània. En minúscula, tanmateix, seria una mar qualsevol, o la mar en abstracte. Perucho havia utilitzat sempre la majúscula. Per exemple, en el preàmbul de l\u0026rsquo;edició original:\n Quant al títol, he conservat el de «Diana i la Mar Morta», si bé vaig estar temptat d\u0026rsquo;afegir-hi la paraula anglesa «puzzle». El meu amic, l\u0026rsquo;escriptor Salvador Espriu, m\u0026rsquo;aconsellà de substituir-la per qualsevol altra, per exemple, «mosaic». Finalment, no he tocat res.\n O dins del mateix llibre, en la peça que li dona títol:\n Diana era una noia que estudiava a la Facultat de Lletres de Madrid. Va tenir un flirt amb un jove professor de Geografia. En una ocasió, li va regalar el llibre de Constantin Zoubichryn, La Mar Morta, que l’apassionà enormement i enfortí la seva vocació. El jove professor havia declarat que el seu amor era més fort que la mort. Projectà de fer oposicions a càtedra i casar-se.\nTinc l’exemplar de La Mar Morta i conec aquests detalls perquè, durant la guerra, els qui estàvem al servei de les armes sabíem coses insospitades.\n Una altra d\u0026rsquo;aquelles peces, \u0026ldquo;Exercici literari\u0026rdquo;, resultava, potser, geogràficament ambigua, o confusa, ja que s\u0026rsquo;hi barrejaven la mar Morta i Alexandreta, o Iskenderun, que és més al nord i a la vora del Mediterrani… Però la referència que em pareix definitiva es troba dins del poemari Itineraris d\u0026rsquo;Orient (Edicions 62, 1985, p. 65):\n Retorno al lloc des d\u0026rsquo;on Diana veié, per primera vegada, la mar Morta. Les aigües són com mercuri; és difícil banyar-s\u0026rsquo;hi. Tristos són els paratges d\u0026rsquo;aquesta mar salada.\n \n"
 			},
 			{
 				"title": "",
@@ -1262,28 +1374,28 @@
 				"title": "",
 				"date_published": "2020-02-05T18:49:13+00:00",
 				"url": "https://blog.carlesbellver.net/2020/02/05/organic-ethical-chocolate.html",
-				"tags": "fotos",
-				"content_text": "Organic \u0026amp; Ethical Chocolate. Part del berenar d\u0026rsquo;avui.\n"
+				"tags": "retalls, fotos",
+				"content_text": "📎 Organic \u0026amp; Ethical Chocolate. Part del berenar d\u0026rsquo;avui.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2020-02-04T19:03:00+00:00",
 				"url": "https://blog.carlesbellver.net/2020/02/04/philip-k-dick.html",
-				"tags": "fotos, fotos, intl",
-				"content_text": "Philip K. Dick used to query the I Ching. The thing is, I prefer the Oblique Strategies by Brian Eno and Peter Schmidt, so I\u0026rsquo;ve spent some time implementing them on this handheld microconsole. It\u0026rsquo;s like carrying on a small oracle.\n"
+				"tags": "fotos",
+				"content_text": "Philip K. Dick solia consultar l'I Ching. Jo tinc més tirada a les Oblique Strategies de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta microconsola portàtil. És com dur a la butxaca un petit oracle.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2020-02-04T11:19:00+00:00",
 				"url": "https://blog.carlesbellver.net/2020/02/04/simon-weckert-performance.html",
 				"tags": "retalls",
-				"content_text": "📎 Google Maps Hacks. Simon Weckert. Performance \u0026amp; Installation, 2020.\nUn carretó carregat amb noranta-nou telèfons mòbils de segona ma genera un fals embús en Google Maps i desvia el trànsit real. El mapa no és el territori.\n"
+				"content_text": "📎 Google Maps Hacks. Simon Weckert. Performance \u0026amp; Installation, 2020.\nUn carretó carregat amb noranta-nou telèfons mòbils de segona ma genera un fals embús en Google Maps i desvia el trànsit real. El mapa no és el territori, però hi repercuteix.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2020-01-26T17:19:58+00:00",
 				"url": "https://blog.carlesbellver.net/2020/01/26/we-dont-need.html",
-				"tags": "fotos",
+				"tags": "fotos, Castelló",
 				"content_text": "We don’t need no thought control. M’agrada veure aquest grafit a la façana d’aquell Colegio Nacional, on un dia de novembre de 1975 pareixia que s’acabava el món.\n"
 			},
 			{
@@ -1304,7 +1416,7 @@
 				"title": "",
 				"date_published": "2020-01-13T17:44:13+00:00",
 				"url": "https://blog.carlesbellver.net/2020/01/13/senyalitzaci-anticlerical.html",
-				"tags": "fotos",
+				"tags": "fotos, Castelló",
 				"content_text": "Senyalització anticlerical.\n"
 			},
 			{
@@ -2824,7 +2936,7 @@
 				"date_published": "2019-01-30T07:29:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/30/facebook-pays-teens.html",
 				"tags": "retalls",
-				"content_text": "📎 Facebook pays teens to install VPN that spies on them\nCada setmana en coneixem una nova malifeta. Des de 2016, Facebook ha estat pagant fins a vint dolars mensuals (més comissions), a usuaris d\u0026rsquo;edats entre tretze i trenta cinc anys, per instal·lar una aplicació que interceptava totes les comunicacions realitzades des del seus telèfons mòbils. I, com que no tenien prou amb això, els demanaven que fessin una captura de pantalla de l\u0026rsquo;historial de compres d\u0026rsquo;Amazon i l\u0026rsquo;enviessin. El tarannà d\u0026rsquo;aquest programari es dissimula sota el nom \u0026ldquo;Facebook Research\u0026rdquo;. No es podia dir \u0026ldquo;Facebook Pickpocketing\u0026rdquo; perquè el llenguatge és molt important i cal mantenir les aparences.\n"
+				"content_text": "📎 Facebook pays teens to install VPN that spies on them\nCada setmana en coneixem una nova malifeta. Des de 2016, Facebook ha estat pagant fins a vint dolars mensuals (més comissions), a usuaris d\u0026rsquo;edats entre tretze i trenta cinc anys, per instal·lar una aplicació que interceptava totes les comunicacions realitzades des del seus telèfons mòbils. I com que no tenien prou amb això, els demanaven que fessin una captura de pantalla de l\u0026rsquo;historial de compres d\u0026rsquo;Amazon i l\u0026rsquo;enviessin. El tarannà d\u0026rsquo;aquest programari es dissimula sota el nom \u0026ldquo;Facebook Research\u0026rdquo;. No es podia dir \u0026ldquo;Facebook Pickpocketing\u0026rdquo; perquè el llenguatge és molt important i cal mantenir les aparences.\n"
 			},
 			{
 				"title": "",
@@ -2845,13 +2957,13 @@
 				"date_published": "2019-01-28T07:29:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/28/082952.html",
 				"tags": "retalls, citacions",
-				"content_text": " The best book I’ve ever read on programming and making apps is Six Memos for the Next Millennium by Italo Calvino.\n — Brent Simmons\n"
+				"content_text": " El millor llibre que he llegit mai sobre programació i creació d\u0026rsquo;aplicacions és Lliçons americanes: Sis propostes per al pròxim mil·lenni d\u0026rsquo;Italo Calvino.\n — Brent Simmons\n"
 			},
 			{
 				"title": "",
 				"date_published": "2019-01-27T08:42:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/27/094259.html",
-				"tags": "retalls, citacions",
+				"tags": "retalls",
 				"content_text": " “De todos los papeles posibles, el individuo contemporáneo tiende a retener uno solo: el del bebé quejumbroso, calamitoso y gruñón.”\n 📎 Pedro Vallín: España, una pesadilla de Pascal Bruckner\n"
 			},
 			{
@@ -2887,7 +2999,7 @@
 				"date_published": "2019-01-22T10:22:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/22/why-data-is.html",
 				"tags": "retalls",
-				"content_text": "📎 Why Data Is Never Raw\nQualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades. “‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius. Però les dades sempre són producte de processos cognitius, culturals i institucionals que determinen què es recull i com es recull. En aquest sentit, ‘dades crues’ és en efecte una contradicció en els termes.” Les dades brutes, en resum, són una “fantasia tecnocràtica”.\n"
+				"content_text": "📎 Why Data Is Never Raw\nQualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades. “‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius. Però les dades sempre són producte de processos cognitius, culturals i institucionals que determinen què es recull i com es recull. En aquest sentit, ‘dades crues’ és en efecte una contradicció en els termes.” Les dades brutes, en resum, són una “fantasia tecnocràtica” que busca imposar i imposa una visió del món (la seva) com si fos la bona, l\u0026rsquo;objectiva, l\u0026rsquo;única possible.\n"
 			},
 			{
 				"title": "",
@@ -2921,8 +3033,8 @@
 				"title": "",
 				"date_published": "2019-01-19T12:44:28+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/19/134428.html",
-				"tags": "",
-				"content_text": "John Fowles, La mujer del teniente francés. Una altra novel·la que hauria d\u0026rsquo;haver llegit fa molts anys. I encara m\u0026rsquo;han agradat més els contes de La torre de ébano.\n"
+				"tags": "ressenyes",
+				"content_text": "📖 John Fowles, La mujer del teniente francés. Una altra novel·la que hauria d\u0026rsquo;haver llegit fa molts anys. I encara m\u0026rsquo;han agradat més els contes de La torre de ébano.\n"
 			},
 			{
 				"title": "",
@@ -2943,7 +3055,7 @@
 				"date_published": "2019-01-11T12:10:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/11/how-cartographers-for.html",
 				"tags": "retalls",
-				"content_text": "📎 How Cartographers for the U.S. Military Inadvertently Created a House of Horrors in South Africa\nEl mapatge d\u0026rsquo;adreces d\u0026rsquo;Intenet a ubicacions geogràfiques pot ser molt imprecís. Generalment, els serveis comercials proporcionen unes coordenades exactes i un marge d\u0026rsquo;error… que pot ser d\u0026rsquo;un quilòmetre o de mil. Però es veu que ningú no para compte al marge d\u0026rsquo;error. Una base de dades d\u0026rsquo;una agència militar nord-americana té la culpa que totes les adreces de Pretoria, Sud-àfrica, s\u0026rsquo;ubiquen exactament a la mateixa casa i que els seus residents siguin assetjats per detectius i per víctimes de tota mena de delictes, ja siguin segrestaments o robatoris d\u0026rsquo;aparells electrònics. ”Els clients d\u0026rsquo;Apple pareix que són els pitjors.”\n"
+				"content_text": "📎 How Cartographers for the U.S. Military Inadvertently Created a House of Horrors in South Africa\nEl mapatge d\u0026rsquo;adreces d\u0026rsquo;Intenet a ubicacions geogràfiques pot ser molt imprecís. Generalment, els serveis comercials proporcionen unes coordenades exactes i un marge d\u0026rsquo;error… que pot ser d\u0026rsquo;un quilòmetre o de mil. Però es veu que ningú no para compte al marge d\u0026rsquo;error. Una base de dades d\u0026rsquo;una agència militar nord-americana té la culpa que totes les adreces de Pretoria, Sud-àfrica, s\u0026rsquo;ubiquen exactament a la mateixa casa i que els residents en aquest domicili siguin assetjats per detectius i per víctimes de tota mena de delictes, ja siguin segrestaments o robatoris d\u0026rsquo;aparells electrònics. ”Els clients d\u0026rsquo;Apple pareix que són els pitjors.”\n"
 			},
 			{
 				"title": "",
@@ -2957,7 +3069,7 @@
 				"date_published": "2019-01-10T13:04:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/10/precria-universitat-reportatge.html",
 				"tags": "retalls",
-				"content_text": "📎 Precària universitat\nReportatge de Violeta Tena en El Temps. Diuen que una crisi que és una oportunitat, i les elits extractives l\u0026rsquo;han aprofitada per a començar a desarmar el sistema públic universitari. En altres països d\u0026rsquo;Europa s\u0026rsquo;ha incrementat la inversió en educació, mentre que a Espanya s\u0026rsquo;ha reduït.\n El resum seria una universitat depauperada i esquifida, amb una massa laboral cada volta més precària i envellida i un alumnat amb problemes per accedir als estudis que desitgen.\n A més a més, s\u0026rsquo;ha redoblat l\u0026rsquo;assalt ideològic. Cada vegada es parla menys de servei públic i més de mercat, clients o productivitat.\n"
+				"content_text": "📎 Precària universitat\nReportatge de Violeta Tena en El Temps. Diuen que una crisi és una oportunitat, i les elits extractives l\u0026rsquo;han aprofitada per a començar a desarmar el sistema públic universitari, amb l\u0026rsquo;objectiu de potenciar els seus negocis privats. En altres països d\u0026rsquo;Europa s\u0026rsquo;ha incrementat la inversió en educació, mentre que a Espanya s\u0026rsquo;ha reduït.\n El resum seria una universitat depauperada i esquifida, amb una massa laboral cada volta més precària i envellida i un alumnat amb problemes per accedir als estudis que desitgen.\n No pot sorprendre que s\u0026rsquo;hagi redoblat també l\u0026rsquo;assalt ideològic. Cada vegada es parla menys de servei públic i més de mercat, clients o productivitat.\n"
 			},
 			{
 				"title": "",
@@ -2978,7 +3090,7 @@
 				"date_published": "2019-01-09T11:47:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/09/mariano-fernndez-enguita.html",
 				"tags": "retalls, educació",
-				"content_text": "📎 Mariano Fernández Enguita: La singularidad escolar ya está aquí\nÉs un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial i des d\u0026rsquo;allí s\u0026rsquo;està traslladant a altres àmbits.\nPareix evident que l\u0026rsquo;educació, fins i tot a l\u0026rsquo;escola primària, no pot continuar funcionant com si les fonts de coneixement encara fossin escasses. El rol del professorat ha de canviar radicalment —entre altres canvis igualment importants—, però no crec que empal·lideixi davant \u0026ldquo;la més basta de les indagacions possibles\u0026rdquo; en la Wikipedia o en Google, com afirma Fernández Enguita. En realitat, una indagació basta no serveix de res, i de fet són pocs els alumnes capaços de polir i afinar les seves cerques per trobar el que necessiten. Això, per a començar, els ho hauria d\u0026rsquo;ensenyar el professorat.\nD\u0026rsquo;altra banda, em fa l\u0026rsquo;efecte que estem assumint d\u0026rsquo;una forma excessivament acrítica que molt aviat —“en aquest segle i en aquesta seva primera meitat”— començarà una nova època, “quan la intel·ligència artificial superi la intel·ligència humana i, per tant, ja no depengui d\u0026rsquo;ella”. De moment, jo diria que la intel·ligència artificial general és tan lluny com sempre, malgrat els avenços gegantins i espectaculars en aplicacions específiques.\n"
+				"content_text": "📎 Mariano Fernández Enguita: La singularidad escolar ya está aquí\nÉs un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d\u0026rsquo;allí s\u0026rsquo;està traslladant a altres àmbits.\nPareix evident que l\u0026rsquo;educació, fins i tot a l\u0026rsquo;escola primària, no pot continuar funcionant com si les fonts de coneixement encara fossin escasses. El rol del professorat ha de canviar radicalment —entre altres canvis igualment importants—, però no crec que en el seu estat actual empal·lideixi davant \u0026ldquo;la més basta de les indagacions possibles\u0026rdquo; en la Wikipedia o en Google, com afirma Fernández Enguita. En realitat, una indagació basta no sol servir de res, i de fet són pocs els alumnes capaços de polir i afinar les seves cerques per trobar el que necessiten. Això, per a començar, els ho hauria d\u0026rsquo;ensenyar el professorat O algú: si no existís el professorat, caldria inventar-lo.\nD\u0026rsquo;altra banda, em fa l\u0026rsquo;efecte que estem assumint d\u0026rsquo;una forma excessivament acrítica que molt aviat —“en aquest segle i en aquesta seva primera meitat”— començarà una nova època, “quan la intel·ligència artificial superi la intel·ligència humana i, per tant, ja no depengui d\u0026rsquo;ella”. De moment, jo diria que la intel·ligència artificial general és tan lluny com sempre, malgrat els avenços gegantins i espectaculars en aplicacions específiques.\n"
 			},
 			{
 				"title": "",
@@ -3012,7 +3124,7 @@
 				"title": "",
 				"date_published": "2019-01-06T09:06:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/06/xavi-ayn-la.html",
-				"tags": "retalls",
+				"tags": "retalls, citacions",
 				"content_text": "📎 Xavi Ayén: La posibilidad de una vida\n …si Houellebecq se casa, el amor es siempre posible.\n Però Ayén tem que la felicitat conjugal pugui haver afectat la qualitat de la seva darrera novel·la. Que la infelicitat sigui l’única font legítima de l’art és un vell tòpic.\n"
 			},
 			{
@@ -3034,7 +3146,7 @@
 				"date_published": "2019-01-04T21:27:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/01/04/las-apps-ms.html",
 				"tags": "retalls",
-				"content_text": "📎 Las \u0026lsquo;apps\u0026rsquo; más populares de Android envían datos a Facebook sin tu permiso\nUn informe de l\u0026rsquo;ONG britànica Privacy International i un nou episodi en la llarga llista d\u0026rsquo;abusos que conformen el negoci de Facebook. Almenys vint de les trenta i tantes aplicacions més populars en Google Play envien les nostres dades a Facebook tan prompte com comencem a utilitzar-les. Sense demanar permís, per descomptat, ni informar-ne. Tripadvisor, Shazam, Spotify, Duolingo, Skyscanner i altres.\n"
+				"content_text": "📎 Las \u0026lsquo;apps\u0026rsquo; más populares de Android envían datos a Facebook sin tu permiso\nUn informe de l\u0026rsquo;ONG britànica Privacy International i un nou episodi en la llarga llista d\u0026rsquo;abusos que conformen el negoci de Facebook. Almenys vint de les trenta i tantes aplicacions més populars en Google Play envien les nostres dades a Facebook tan prompte com comencem a utilitzar-les. Sense demanar permís, per descomptat, ni informar l\u0026rsquo;usuari. Tripadvisor, Shazam, Spotify, Duolingo, Skyscanner i altres.\n"
 			},
 			{
 				"title": "",
@@ -6078,8 +6190,8 @@
 				"title": "",
 				"date_published": "2018-02-07T18:10:56+00:00",
 				"url": "https://blog.carlesbellver.net/2018/02/07/191056.html",
-				"tags": "",
-				"content_text": " —Tu com aquell, que ho arreglen els que manen… Home, sempre ho han arreglat els que manen, d\u0026rsquo;una manera o d\u0026rsquo;una altra. O els que han agarrat el mando!\n #castelló #frasesalvol\n"
+				"tags": "Castelló",
+				"content_text": " —Tu com aquell, que ho arreglen els que manen… Home, sempre ho han arreglat els que manen, d\u0026rsquo;una manera o d\u0026rsquo;una altra. O els que han agarrat el mando!\n #frasesalvol\n"
 			},
 			{
 				"title": "Són les cadenes de blocs els nous registres akàixics?",
@@ -6100,7 +6212,7 @@
 				"date_published": "2018-02-04T19:34:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/02/04/203451.html",
 				"tags": "retalls",
-				"content_text": "No he vist la nova versió de Godzilla. Per ara em sent més aviat com aquells personatges de Cloverfield, espantats i confosos, que ni s\u0026rsquo;havien adonat de res, quan el monstre queia del cel.\n📎 Pedro Vallín: Godzilla contra el 155\n"
+				"content_text": "No he vist la nova versió de Godzilla. Per ara em sent més aviat com aquells personatges de Cloverfield, espantats i confosos, que ni s\u0026rsquo;havien adonat de res quan el monstre queia del cel.\n📎 Pedro Vallín: Godzilla contra el 155\n"
 			},
 			{
 				"title": "",
@@ -6121,34 +6233,34 @@
 				"date_published": "2018-02-03T17:30:21+00:00",
 				"url": "https://blog.carlesbellver.net/2018/02/03/183021.html",
 				"tags": "",
-				"content_text": "Eduardo Mendoza: ¿Qué está pasando en Cataluña? Cap a la meitat del llibre, que és curtet, m\u0026rsquo;assalta una sospita: aquest narrador en primera persona, podria ser el mateix de les novel·les del detectiu anònim? 🤔\n"
+				"content_text": "📖 Eduardo Mendoza: ¿Qué está pasando en Cataluña? Cap a la meitat del llibre, que és curtet, m\u0026rsquo;assalta una sospita: aquest narrador en primera persona, podria ser el mateix de les novel·les del detectiu anònim? 🤔\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-02-02T18:29:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/02/02/192936.html",
 				"tags": "retalls",
-				"content_text": "En anglès es refereixen al dimoni com Old Nick. Samuel Butler es va inventar que era per Niccolò Machiavelli. 👹\n📎 Multifarious Devils, part 2. Old Nick and the Crocodile\n"
+				"content_text": "👹 En anglès es refereixen al dimoni com Old Nick. Samuel Butler es va inventar que era per Niccolò Machiavelli.\n📎 Multifarious Devils, part 2. Old Nick and the Crocodile\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-02-02T14:59:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/02/02/google-and-facebook.html",
 				"tags": "retalls",
-				"content_text": "📎 Google and Facebook are watching our every move online. It\u0026rsquo;s time to make them stop\nUn 76% dels llocs web contenen rastrejadors de Google ocults; Un 24% tenen rastrejadors ocults de Facebook.\n"
+				"content_text": "📎 Google and Facebook are watching our every move online. It\u0026rsquo;s time to make them stop\nUn 76% dels llocs web contenen rastrejadors ocults de Google; un 24% tenen rastrejadors ocults de Facebook.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-02-01T17:04:19+00:00",
 				"url": "https://blog.carlesbellver.net/2018/02/01/180419.html",
-				"tags": "",
-				"content_text": "Rellegit: Un mag de Terramar, d\u0026rsquo;Ursula K. Le Guin. No hi ha, s\u0026rsquo;ha dit prou vegades, llibres per a joves i llibres per a adults. M\u0026rsquo;han tornat a commoure la lluita de Ged i l\u0026rsquo;amor del petit otak.\n"
+				"tags": "ressenyes",
+				"content_text": "📖 Rellegit: Un mag de Terramar, d\u0026rsquo;Ursula K. Le Guin. No hi ha, s\u0026rsquo;ha dit prou vegades, llibres per a joves i llibres per a adults. M\u0026rsquo;han tornat a commoure la lluita de Ged i l\u0026rsquo;amor del petit otak.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-01-31T17:25:23+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/31/182523.html",
-				"tags": "fotos",
+				"tags": "fotos, Castelló",
 				"content_text": "El riu Sec. L\u0026rsquo;Amazònia de Castelló.\n"
 			},
 			{
@@ -6170,14 +6282,14 @@
 				"date_published": "2018-01-30T13:23:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/30/how-photographers-captured.html",
 				"tags": "retalls",
-				"content_text": "📎 How Photographers Captured the Incarceration of Japanese Americans During WWII\nEls nord-americans d\u0026rsquo;origen japonès tenien menys d\u0026rsquo;una setmana per a identificar-se i fer les maletes abans de ser agrupats a centres de detenció temporals. A cada família se li assignava un número. Després els traslladaven a un dels deu camps arreu del país.\n"
+				"content_text": "📎 How Photographers Captured the Incarceration of Japanese Americans During WWII\nEls nord-americans d\u0026rsquo;origen japonès tenien menys d\u0026rsquo;una setmana per a identificar-se i fer les maletes abans de ser agrupats en centres de detenció temporals. A cada família se li assignava un número. Després els traslladaven a un dels deu camps arreu del país.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-01-30T12:24:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/30/harrison-schmitt-el.html",
 				"tags": "retalls",
-				"content_text": "📎 Harrison Schmitt, el astronauta que resultó ser alérgico a la Luna\n"
+				"content_text": "📎 Harrison Schmitt, el astronauta que resultó ser alérgico a la Luna\n …tras una de las actividades extravehiculares de la misión Apolo 17 en la superficie de la Luna y una vez que se quitaron los cascos en el interior del módulo lunar Schmitt empezó a toser a la vez que sus ojos enrojecían, le picaba la nariz, y sus senos nasales se taponaban.\n "
 			},
 			{
 				"title": "",
@@ -6191,14 +6303,14 @@
 				"date_published": "2018-01-29T18:18:57+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/29/191857.html",
 				"tags": "",
-				"content_text": "Una nit a Casablanca. La primera vegada que vaig veure aquesta pel·lícula dels germans Marx, jo devia tenir vuit, nou anys? Groucho era el nou gerent de l’hotel… Recorde que vaig preguntar al meu cosí Pere què era això d’un gerent. No vaig entendre en què consistia aquesta feina. I encara no ho entenc.\n"
+				"content_text": "🎬 Una nit a Casablanca. La primera vegada que vaig veure aquesta pel·lícula dels germans Marx, jo devia tenir vuit, nou anys? Groucho era el nou gerent de l’hotel… Recorde que vaig preguntar al meu cosí Pere què era això d’un gerent. No vaig entendre en què consistia aquesta feina. I encara no ho entenc.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-01-28T16:42:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/28/deanonymizing-tor-your.html",
 				"tags": "retalls",
-				"content_text": "📎 Deanonymizing Tor: Your Bitcoin Transactions May Come Back To Haunt You\n Els investigadors van començar amb vuitanta-vuit adreces de bitcoin úniques de serveis Tor ocults, i tot seguit van cercar cinc mil milions de tuits i un milió de pàgines del fòrum Bitcoin Talk. Finalment van connectar cent vint-i-cinc usuaris únics a vint serveis Tor ocults.\n "
+				"content_text": "📎 Deanonymizing Tor: Your Bitcoin Transactions May Come Back To Haunt You\n Els investigadors van començar amb vuitanta-vuit adreces bitcoin úniques de serveis Tor ocults, i tot seguit van cercar cinc mil milions de tuits i un milió de pàgines del fòrum Bitcoin Talk. Finalment van connectar cent vint-i-cinc usuaris únics a vint serveis Tor ocults.\n "
 			},
 			{
 				"title": "",
@@ -6218,8 +6330,8 @@
 				"title": "",
 				"date_published": "2018-01-27T20:11:53+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/27/211153.html",
-				"tags": "",
-				"content_text": "Una novel·la curta que se m’ha fet una mica llarga: El diable al cos, de Raymond Radiguet. Tant de bo l’hagués llegida fa trenta-cinc anys. Impressiona saber que l’autor la va escriure als divuit.\n"
+				"tags": "ressenyes",
+				"content_text": "📖 Una novel·la curta que se m’ha fet una mica llarga: El diable al cos, de Raymond Radiguet. Tant de bo l’hagués llegida fa trenta-cinc anys. Impacta saber que l’autor la va escriure als divuit.\n"
 			},
 			{
 				"title": "",
@@ -6232,8 +6344,8 @@
 				"title": "",
 				"date_published": "2018-01-25T15:50:30+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/25/165030.html",
-				"tags": "",
-				"content_text": "Llegit: Michel Houellebecq, Ampliació del camp de batalla. L’individualisme neoliberal, de la competició social a la competició sexual. Viure així és impossible.\n"
+				"tags": "ressenyes",
+				"content_text": "📖 Llegit: Michel Houellebecq, Ampliació del camp de batalla. L’individualisme neoliberal, de la competició social a la competició sexual. Viure així és impossible.\n"
 			},
 			{
 				"title": "",
@@ -6282,14 +6394,14 @@
 				"date_published": "2018-01-20T10:41:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/20/114150.html",
 				"tags": "retalls, citacions",
-				"content_text": " La realitat distòpica de la història, per una banda sobta per les coincidències en l’actual situació política… i per l’altra recorda l’ambient fosc, perillós, de la magnífica pel·lícula Brazil, de Terry Gilliam, de l’any 1985.\n 📎 Un cel nou i una terra nova, Carles Bellver Torlà (Unària, 2015) (ressenya de Carme Pinyana).\n"
+				"content_text": " La realitat distòpica de la història, per una banda sobta per les coincidències en l’actual situació política… i per l’altra recorda l’ambient fosc, perillós, de la magnífica pel·lícula Brazil, de Terry Gilliam, de l’any 1985.\n 📎 Un cel nou i una terra nova, Carles Bellver Torlà (Unaria, 2015) (ressenya de Carme Pinyana).\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-01-20T10:29:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/20/social-decay-by.html",
 				"tags": "retalls",
-				"content_text": "📎 Social Decay by Andrei Lacatsu\nLes xarxes socials transformades en rètols d\u0026rsquo;establiments atrotinats. Rar i bonic.\n"
+				"content_text": "📎 Social Decay by Andrei Lacatusu\nLes xarxes socials transformades en rètols d\u0026rsquo;establiments atrotinats. Estrany i bonic.\n"
 			},
 			{
 				"title": "Carrer de les Penedides",
@@ -6429,7 +6541,7 @@
 				"date_published": "2018-01-11T18:59:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/11/195940.html",
 				"tags": "",
-				"content_text": "📎 \u0026ldquo;El País\u0026rdquo;, condemnat a publicar una rectificació per un article crític sobre TV3\nJo no puc llegir El País més de cinc minuts.\n"
+				"content_text": "📎 \u0026ldquo;El País\u0026rdquo;, condemnat a publicar una rectificació per un article crític sobre TV3\nJo no puc llegir El País més de cinc minuts.\n El diumenge 12 de novembre, El País va publicar en portada aquest titular: \u0026ldquo;Una setmana veient només TV3\u0026rdquo;.\n "
 			},
 			{
 				"title": "",
@@ -6464,7 +6576,7 @@
 				"date_published": "2018-01-10T19:31:00+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/10/203125.html",
 				"tags": "",
-				"content_text": "La meva primera editorial va encetar amb el meu primer llibre de contes la seva primera col·lecció de narrativa per a adults. Aviat em van comunicar que no calia que tornés a intentar-ho amb ells: millor novel·les, millor juvenils.\nAmb cadascuna de les dues següents vaig publicar dos títols (en un cas per força: vaig guanyar un premi en contra dels seus desigs). Ambdues han tancat la paradeta, però no estic segur que hagi estat culpa meva. De la segona —la tercera en total—, en tinc prou bon record.\nAmb la quarta m’hi va vincular un altre premi. Ara crec que em prendré un descans editorial. Uns anys sabàtics d’escriptura lliure, sense ànim d’enquadernació.\n"
+				"content_text": "La meva primera editorial va encetar amb el meu primer llibre de contes la seva primera col·lecció de narrativa per a adults. Aviat em van comunicar que no calia que tornés a intentar-ho amb ells: millor novel·les, millor juvenils.\nCadascuna de les dues següents em va publicar dos títols (en un cas per força: vaig guanyar un premi en contra dels seus desigs). Ambdues han tancat la paradeta, però no estic segur que hagi estat culpa meva. De la segona —la tercera en total—, en tinc prou bon record.\nAmb la quarta m’hi va vincular un altre premi. Ara crec que em prendré un descans editorial. Uns anys sabàtics d’escriptura lliure, sense ànim d’enquadernació.\n"
 			},
 			{
 				"title": "",
@@ -6477,7 +6589,7 @@
 				"title": "",
 				"date_published": "2018-01-09T20:56:48+00:00",
 				"url": "https://blog.carlesbellver.net/2018/01/09/215648.html",
-				"tags": "fotos",
+				"tags": "fotos, Castelló",
 				"content_text": "Infraestructura bàsica per a un esclat de llum #7.\n"
 			},
 			{
@@ -7800,8 +7912,8 @@
 				"title": "A common case of team work",
 				"date_published": "2017-01-15T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/01/15/a-common-case.html",
-				"tags": "",
-				"content_text": "\n A common case of “team work.” Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out and his brother gives him more. Joseph said, “Drunks are me best customers. I sell more’s me bruder does. Dey buy me out so I kin go home.” He sells every afternoon and night. Extra late Saturday night and is at it again at 6 A.M Sunday. Hartford, Conn. 4 March 1909.\n "
+				"tags": "citacions",
+				"content_text": "\n A common case of “team work.” Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out and his brother gives him more. Joseph said, “Drunks are me best customers. I sell more’s me bruder does. Dey buy me out so I kin go home.” He sells every afternoon and night. Extra late Saturday night and is at it again at 6 A.M Sunday. Hartford, Conn. 4 March 1909.\n 📎 Wikimedia Commons\n"
 			},
 			{
 				"title": "",
@@ -7818,7 +7930,7 @@
 				"content_text": "Carrer de la Vieta, 19:21. Diumenge. Planta baixa d\u0026rsquo;un edifici en construcció, a fosques. Tres homes al voltant d\u0026rsquo;una taula, capcots. Parlen. Examinen alguna cosa il·luminada per un flexo. Un document? Algun objecte menut? Ací hi ha un misteri. Fa tretze mesos vaig explicar que a través d\u0026rsquo;aquestes obres s\u0026rsquo;albirava un carreró estretíssim ocult entre les cases. S\u0026rsquo;hi veien arbres! Per les esquerdes, el prat on pasturava l\u0026rsquo;unicorn… Però Maria Folch no s\u0026rsquo;ho va creure. Va atribuir-ho a la meva imaginació: que avui, evidentment, ha tornat a actuar.\n"
 			},
 			{
-				"title": "John Berger: l'esperança",
+				"title": "",
 				"date_published": "2017-01-06T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2017/01/06/john-berger-lesperana.html",
 				"tags": "citacions",
@@ -8290,7 +8402,7 @@
 				"title": "",
 				"date_published": "2015-01-07T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2015/01/07/000000.html",
-				"tags": "uji",
+				"tags": "UJI",
 				"content_text": "El sistema de control horari m’adverteix que no vaig fitxar ni l’1 ni el 6 de gener. I no diu mentida. A l’#UJI el que és de l’UJI.\n"
 			},
 			{
@@ -8515,28 +8627,28 @@
 				"date_published": "2014-02-03T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2014/02/03/future-wasnt-created.html",
 				"tags": "retalls, citacions",
-				"content_text": " The internet, the web, open content and open access, the LMS, pedagogy and the MOOC: all were created within the public system, by people working for the public good, not by some lone capitalist with an idea. This future wasn’t created by the Bill Gates of the world. It was created by the Pete Seegers. Never forget that.\n  La Internet, el Web, els continguts oberts i l\u0026rsquo;accés obert, els entorns virtuals d\u0026rsquo;ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seggers. No us n\u0026rsquo;oblideu mai\n 📎 Stephen Downes.\n"
+				"content_text": " La Internet, el Web, els continguts oberts i l\u0026rsquo;accés obert, els entorns virtuals d\u0026rsquo;ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seegers. No ho oblideu mai.\n 📎 Stephen Downes.\n"
 			},
 			{
 				"title": "If you want to get laid, go to college (Frank Zappa?)",
 				"date_published": "2014-01-23T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2014/01/23/if-you-want.html",
 				"tags": "retalls, citacions, educació",
-				"content_text": " If you want to get laid, go to college; if you want an education, go to the library.\n Citació atribuïda a Frank Zappa. Via @ainhoaeus.\n“Si vols follar, vés a la universitat; si vols educar-te, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt, continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.\n\n"
+				"content_text": " If you want to get laid, go to college; if you want an education, go to the library.\n Citació atribuïda a Frank Zappa. Via @ainhoaeus.\n“Si vols follar, vés a la universitat; si vols educació, vés a la biblioteca”. Jo diria que ambdues coses són importants i no mútuament excloents. I que la idea, en conjunt, continua sent vàlida. Encara més si, generalitzant, canvieu “follar” per socialització (també acadèmica) i “biblioteca” per Wikipedia, OER, MOOC, etc.\n\n"
 			},
 			{
 				"title": "Gestionar la qualitat?",
 				"date_published": "2014-01-22T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2014/01/22/gestionar-la-qualitat.html",
 				"tags": "",
-				"content_text": "Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passi de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de la destresa”, de l’oportunitat, o de la (in)competència.\nSuposem, en principi, que deuen ser bones intencions. Qui es podria negar a voler fer les coses bé? Exactament això, i poc o res més, significa la paraula “qualitat”. Però després, és clar, vénen els artificis, els intents de precisar el concepte, revestir-lo de rigor teòric, imposar procediments i auditories… i aleshores les coses ja es compliquen.\nNingú, és clar, no pot estar en contra de millorar la qualitat dels productes o els serveis: de fer les coses com cal i cada dia millor. I en això consisteix la trampa. Perquè, si intentem baixar de les generalitats a les concrecions, creure —o fer creure— que es pot gestionar el fer les coses bé i sobretot que es pot gestionar en abstracte, que millorar la docència és igual que millorar l’elaboració del pa, la fabricació de cotxes o l’extinció d’incendis —productes, serveis i activitats que no tenen res concret en comú—… doncs, en aquest cas, ens estem apropant perillosament al pensament màgic: com que existeix la paraula ‘qualitat’, hi ha d’haver una cosa al darrere que uns experts poden conèixer, dominar i controlar. Xarlatanisme.\nDe debò ens hauríem de creure que algú pot saber més que els mestres, pedagogs i inspectors educatius com millorar l’educació? I que en saben més que ningú els que avaluen igual una escola que una fàbrica? Tan necis es creuen que som?\nPer aquest motiu, en els moments dolents pense que només es tractava d’adobar un discurs pseudo-científic que servís per a apuntalar paradetes de venedors d’oli de serp corporatius. Negocis i més negocis a costa del tresor públic.\nI no m\u0026rsquo;ho invente jo. Si voleu, podeu començar per ací: 📎 Beyond the Gospel: A Critique of TQM and a Few Implementation Pitfalls (Yonatan Reshef, School of Business, University of Alberta). O per la interessant història de l’origen del TQM (Total Quality Management), o per les crítiques al famós ISO 9000/9001.\n The standard is seen as especially prone to failure when a company is interested in certification before quality […] Certification by an independent auditor is often seen as the problem area, and according to Barnes, “has become a vehicle to increase consulting services”.\nAbrahamson argues that fashionable management discourse such as Quality Circles tends to follow a lifecycle in the form of a bell curve, possibly indicating a management fad.\n[…] Pickrell argues that ISO systems merely gauge whether the processes are being followed. It does not gauge how good the processes are or whether the correct parameters are being measured and controlled to ensure quality […]\n O, millor encara, llegiu aquest article de 2010 de la revista Tendencias pedagógicas, núm 15., recomanat per Jordi Adell:\n📎 El discurso de la calidad en educación: ¿escuelas ISO 9001/2000? (PDF).\n RESUMEN Viajando hacia la escuela soñada, en los últimos años nos están desviando reiteradamente hasta la parada de la calidad. Sin duda se trata éste de un tema fascinante, porque ¿quién no va a estar de acuerdo con una salud, una alimentación y por supuesto con una educación de calidad? Esta verdad tendenciosa ha sido una de las responsables de que el discurso de la calidad cale paulatinamente en el lenguaje socioeducativo, en sus instituciones e incluso en su legislación, y lo hace con poco a poco, pero cada vez con más insistencia y con una mayor inclinación al mercado. A continuación tratamos de reflexionar sobre lo que el discurso de la calidad encierra, intentando superar lo distractor del término y adentrándonos en sus orígenes, causas y fundamentos.\nPALABRAS CLAVE: Calidad, educación, mercado, reflexión\n "
+				"content_text": "Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passi de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de la destresa”, de l’oportunitat, o de la (in)competència.\nSuposem, en principi, que deuen ser bones intencions. Qui es podria negar a voler fer les coses bé? Exactament això, i poc o res més, significa la paraula “qualitat”. Però després, és clar, vénen els artificis, els intents de precisar el concepte, revestir-lo de rigor teòric, imposar procediments i auditories… i aleshores les coses ja es compliquen.\nNingú, és clar, no pot estar en contra de millorar la qualitat dels productes o els serveis: de fer les coses com cal i cada dia millor. I en això consisteix la trampa. Perquè, si intentem baixar de les generalitats a les concrecions, creure —o fer creure— que es pot gestionar el fer les coses bé i sobretot que es pot gestionar en abstracte, que millorar la docència és igual que millorar l’elaboració del pa, la fabricació de cotxes o l’extinció d’incendis —productes, serveis i activitats que no tenen res concret en comú—… doncs, en aquest cas, ens estem apropant perillosament al pensament màgic: com que existeix la paraula ‘qualitat’, hi ha d’haver una cosa al darrere que uns experts poden conèixer, dominar i controlar. Xarlatanisme.\nDe debò ens hauríem de creure que algú pot saber més que els mestres, pedagogs i inspectors educatius com millorar l’educació? I que en saben més que ningú els que avaluen igual una escola que una fàbrica? Tan necis es creuen que som?\nPer aquest motiu, en els moments dolents pense que només es tractava d’adobar un discurs pseudo-científic que servís per a apuntalar paradetes de venedors d’oli de serp corporatius. Negocis i més negocis a costa de l\u0026rsquo;erari públic.\nI no m\u0026rsquo;ho invente jo. Si voleu, podeu començar per ací: 📎 Beyond the Gospel: A Critique of TQM and a Few Implementation Pitfalls (Yonatan Reshef, School of Business, University of Alberta). O per la interessant història de l’origen del TQM (Total Quality Management), o per les crítiques al famós ISO 9000/9001.\n L\u0026rsquo;estàndard es considera especialment propens al fracàs quan una empresa està interessada en la certificació abans que la qualitat […] La certificació per part d\u0026rsquo;un auditor independent sovint es considera l\u0026rsquo;àrea problemàtica i, segons Barnes, \u0026ldquo;s\u0026rsquo;ha convertit en un vehicle per augmentar els serveis de consultoria\u0026rdquo;.\nAbrahamson argumenta que el discurs gerencial vigent, com ara els cercles de qualitat, tendeix a seguir un cicle de vida en forma de corba de campana, possiblement indicant una moda de gestió.\n[…] Pickrell argumenta que els sistemes ISO només avaluen si se segueixen els processos. No avalua com de bons són els processos ni si s\u0026rsquo;estan mesurant i controlant els paràmetres correctes per garantir la qualitat […]\n O, millor encara, llegiu aquest article de 2010 de la revista Tendencias pedagógicas, núm 15., recomanat per Jordi Adell:\n📎 El discurso de la calidad en educación: ¿escuelas ISO 9001/2000? (PDF).\n RESUMEN Viajando hacia la escuela soñada, en los últimos años nos están desviando reiteradamente hasta la parada de la calidad. Sin duda se trata éste de un tema fascinante, porque ¿quién no va a estar de acuerdo con una salud, una alimentación y por supuesto con una educación de calidad? Esta verdad tendenciosa ha sido una de las responsables de que el discurso de la calidad cale paulatinamente en el lenguaje socioeducativo, en sus instituciones e incluso en su legislación, y lo hace con poco a poco, pero cada vez con más insistencia y con una mayor inclinación al mercado. A continuación tratamos de reflexionar sobre lo que el discurso de la calidad encierra, intentando superar lo distractor del término y adentrándonos en sus orígenes, causas y fundamentos.\nPALABRAS CLAVE: Calidad, educación, mercado, reflexión\n "
 			},
 			{
 				"title": "Entrevista amb un gerent",
 				"date_published": "2014-01-20T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2014/01/20/entrevista-amb-un.html",
 				"tags": "retalls",
-				"content_text": "Aquest matí, una persona que entén d’aquestes coses m’ha dit que si volia llegir “una entrevista amb un bovo” (sic), ací en tenia una amb el “comptable” (gerent?) del MIT:\n📎 “Las apuestas arriesgadas definen el futuro y permiten hacerlo nuestro” (El País Semanal)\nPer què li dedicava aquesta desqualificació? No em consten les seves raons subjectives, però, després de llegir l’entrevista, a mi mateix se me n’acudeixen unes quantes. Entre altres:\n Perquè al MIT, com en aquell acudit, pareix que els diagnòstics els fa el gerent. Perquè MIT, Harvard \u0026amp; co. estan executant una operació comercial d’apropiació del moviment de cursos oberts, massius o no, i de la cultura lliure en general, que no van inventar i no els pertany. Perquè l’entrevistat manipula les debilitats dels altres en benefici propi al mateix temps que oculta les seves. Perquè és una de tantes mentides interessades que no hi hagi pràctiques, experimentalitat ni treball en equip a les universitats espanyoles. Però, aquesta, flagrant. Perquè conec molta més innovació educativa, en moltes iniciatives individuals i institucionals molt més prop d’ací, que tota la que no hi ha ni pareix que hi hagi d’haver mai en edX. Perquè la famosa teoria de Christensen fa pudor —de reduccionisme tecnològic— quan s’aplica lluny de l’àmbit molt més restringit per al qual es va pensar. Perquè nega la nostra òbvia manca de recursos, la utilitza a la manera dels nostres pitjors governants com a excusa per a la destrucció planificada (“tomar decisiones difíciles”) i a sobre fa servir una metàfora bèl·lica (“Coger dos o tres guerras y atacar esas”) que el delata. Perquè l’exemple de la pometa és d’una ridícula banalitat i, a més a més, dubte molt que les lleis de Newton, com diu o li fan dir, s’escrigueren fa cinquanta anys (sic) (2014-1687=327). Perquè es fa o li fan publicitat amb l’assassinat i el funeral d’un policia al seu campus.  D’altra banda, és evident que, al llarg de l’entrevista, toca algunes qüestions importants o interessants, sobretot quan li convé fer-ho en pro de la seva universitat. I El País li fa d’altaveu perquè està de moda parlar malament de les nostres universitats i de l’educació pública en general. Fer-nos creure que hi tenim un problema, en lloc de la solució dels nostres problemes. Anar-la ensorrant a base de falsedats, estrangulament pressupostari i altres males arts, i crear així noves i magnífiques oportunitats de negoci per als més espavilats.\n(Sobre la figura del gerent com a personatge clau de la modernitat, recomane llegir Macintyre.)\n "
+				"content_text": "Aquest matí, una persona que entén d’aquestes coses m’ha dit que si volia llegir “una entrevista amb un bovo” (sic), ací en tenia una amb el “comptable” (gerent?) del MIT:\n📎 “Las apuestas arriesgadas definen el futuro y permiten hacerlo nuestro” (El País Semanal)\nPer què li dedicava aquesta desqualificació? No em consten les seves raons subjectives, però, després de llegir l’entrevista, a mi mateix se me n’acudeixen unes quantes. Entre altres:\n Perquè al MIT, com en aquell acudit, pareix que els diagnòstics els fa el gerent. Perquè MIT, Harvard \u0026amp; co. estan executant una operació comercial d’apropiació del moviment de cursos oberts, massius o no, i de la cultura lliure en general, que no van inventar i no els pertany. Perquè l’entrevistat manipula les debilitats dels altres en benefici propi al mateix temps que oculta les seves. Perquè és una de tantes mentides interessades que no hi hagi pràctiques, experimentalitat ni treball en equip a les universitats espanyoles. Però aquesta és flagrant. Perquè conec molta més innovació educativa, en moltes iniciatives individuals i institucionals molt més prop d’ací, que tota la que no hi ha ni pareix que hi hagi d’haver mai en edX. Perquè la famosa teoria de Christensen fa pudor —de reduccionisme tecnològic— quan s’aplica lluny de l’àmbit molt més restringit per al qual es va pensar. Perquè nega la nostra òbvia manca de recursos, la utilitza a la manera dels nostres pitjors governants com a excusa per a la destrucció planificada (“tomar decisiones difíciles”) i a sobre fa servir una metàfora bèl·lica (“Coger dos o tres guerras y atacar esas”) que el delata. Perquè l’exemple de la pometa és d’una ridícula banalitat i, a més a més, dubte molt que les lleis de Newton, com diu o li fan dir, s’escrigueren fa cinquanta anys (sic) (2014-1687=327). Perquè es fa o li fan publicitat amb l’assassinat i el funeral d’un policia al seu campus.  D’altra banda, és evident que, al llarg de l’entrevista, toca algunes qüestions importants o interessants, sobretot quan li convé fer-ho en pro de la seva universitat. I El País li fa d’altaveu perquè està de moda parlar malament de les nostres universitats i de l’educació pública en general. Fer-nos creure que hi tenim un problema, en lloc de la solució dels nostres problemes. Anar-la ensorrant a base de falsedats, estrangulament pressupostari i altres males arts, i crear així noves i magnífiques oportunitats de negoci per als més espavilats.\n*Sobre la figura del gerent com a personatge clau de la modernitat, recomane llegir Macintyre.\n"
 			},
 			{
 				"title": "Michel de Montaigne: escriure sobre un/a mateix/a",
@@ -8781,14 +8893,14 @@
 				"date_published": "2013-02-01T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2013/02/01/im-not-the.html",
 				"tags": "retalls",
-				"content_text": "📎 I\u0026rsquo;m Not The Product, But I Play One On The Internet\nLectura obligatòria sobre les confusions i la manipulació darrere del mantra “Si no pagues pel producte, tu ets el producte”.\nCom si només poguéssim ser o client o producte, com si no pagar impliqués no poder queixar-se, com si les companyies a què paguem religiosament (p. ex. les dels sectors de l’energia o les comunicacions) ens tractessin d’allò més bé i no comerciessin amb les nostres dades. Com si estiguéssim obligats a reduir totes les relacions a transaccions comercials.\nEn resum: com si fóssim ximplets. Molta ingenuïtat i molts estafadors, tot plegat.\n"
+				"content_text": "📎 I\u0026rsquo;m Not The Product, But I Play One On The Internet\nLectura obligatòria sobre les confusions i la manipulació darrere del mantra “Si no pagues pel producte, tu ets el producte”.\nCom si només poguéssim ser o client o producte, com si no pagar impliqués no poder queixar-se, com si les companyies a què paguem religiosament ens tractessin d’allò més bé i no comerciessin amb les nostres dades (p. ex. les dels sectors de l’energia o les comunicacions). Com si estiguéssim obligats a reduir totes les relacions a transaccions comercials.\nEn resum: com si fóssim ximplets. Molta ingenuïtat d\u0026rsquo;una banda i molts estafadors de l\u0026rsquo;altra.\n"
 			},
 			{
 				"title": "Hotel amb mosca",
 				"date_published": "2013-02-01T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2013/02/01/hotel-amb-mosca.html",
-				"tags": "",
-				"content_text": "Avui he llegit en un diari que el 30 de novembre de 2007, divendres, o potser un altre dia indeterminat de l’any següent, el vicepresident del Consell i la consellera de Cultura van dinar amb el duc de Palma en un hotel de Castelló. Tot i que van venir a propòsit de València, i consta que van pagar ells el compte (“Açò ho pague jo!”), els representants de la Generalitat no aconsegueixen recordar ara el motiu de la trobada, ni els temes de què van parlar amb l’egregi comensal. Una mosca sobrevolava la taula. Feia olor, sens dubte, d’immundícia.\n(Font: Levante de Castelló d’avui, edició en paper, p. 4. Tret d’això de la mosca.)\n"
+				"tags": "retalls, Castelló",
+				"content_text": "Avui he llegit en un diari que el 30 de novembre de 2007, divendres, o potser un altre dia indeterminat de l’any següent, el vicepresident del Consell i la consellera de Cultura van dinar amb el duc de Palma en un hotel de Castelló. Tot i que van venir a propòsit des de València, i consta que van pagar ells el compte (“Açò ho pague jo!”), els representants de la Generalitat no aconsegueixen recordar ara el motiu de la trobada, ni els temes de què van parlar amb l’egregi comensal. Una mosca sobrevolava la taula. Feia pudor, sens dubte, d’immundícia.\n(Font: Levante de Castelló d’avui, edició en paper, p. 4. Tret d’això de la mosca.)\n"
 			},
 			{
 				"title": "Notes per a la compra d'un ebook",
@@ -9642,7 +9754,7 @@
 				"date_published": "2007-01-10T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2007/01/10/lidilli-del-tramvia.html",
 				"tags": "",
-				"content_text": "S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobrissin el filó. Recorde, ara, els següents:\n “Una faula”, de Robert Fox, en Sudden Fiction o Ficción súbita (Anagrama). Un noi agafa el metro el primer dia de feina, coneix una noia i el revisor es disposa a casar-los a punt d’arribar a la parada. “Ómnibus”, de Julio Cortázar, en Bestiario (Alfaguara). El noi i la noia aconsegueixen baixar abans que el trajecte, que ha esdevingut un malson, acabi malament. “Idil·li en tramvia”, de Josep Carner, en Contes del noucentisme (Granica). En baixar la noia estrangera i rossa, el narrador s’adona que és coixa, pobreta.  M\u0026rsquo;ha fet pensar-hi la relació amorosa de les nostres autoritats amb aqueix fals tramvia, que ells es complauen a anomenar emfàticament “transport de via reservada”, o també “bus guiat”, tot i que no pareix que sigui res més que una versió poc actualitzada del vell troleibús que ja va recórrer Castelló el mil nou-cents seixanta i tants.\nSigui com vulgui, la primera línia anirà des de l’Àgora de la Universitat fins al Parc de Ribalta. Abans, però, caldrà construir un nou pont sobre el Riu Sec, i això retardarà la inauguració almenys fins a setembre. Diuen, tanmateix, que l’avinentesa de les eleccions pot fer convenient que al maig circuli ja “en proves”, encara que s’hagi d’aturar en arribar al riu.\nEm represente, doncs, uns viatgers —entre els quals, potser, una parella de nous enamorats— que són amablement convidats a baixar del vehicle en una mena d’atzucac, davant d’un riu sense aigua d’allò més semblant a la fi del món, i aquesta atmosfera irreal em convenç una vegada més que la vida imita l’art. Sens dubte, els guionistes d’alguns polítics d’aquestes contrades són genis no reconeguts de la literatura imaginativa.\n"
+				"content_text": "S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobrissin el filó. Recorde, ara, els següents:\n “Una faula”, de Robert Fox, en Sudden Fiction o Ficción súbita (Anagrama). Un noi agafa el metro el primer dia de feina, coneix una noia i el revisor es disposa a casar-los a punt d’arribar a la parada. “Ómnibus”, de Julio Cortázar, en Bestiario (Alfaguara). El noi i la noia aconsegueixen baixar abans que el trajecte, que ha esdevingut un malson, acabi malament. “Idil·li en tramvia”, de Josep Carner, en Contes del noucentisme (Granica). En baixar la noia estrangera i rossa, el narrador s’adona que és coixa, pobreta.  M\u0026rsquo;ha fet pensar-hi la relació amorosa de les nostres autoritats amb aqueix fals tramvia, que ells es complauen a anomenar emfàticament “transport de via reservada”, o també “bus guiat”, tot i que no pareix que sigui res més que una versió poc actualitzada del vell troleibús que ja va recórrer Castelló el mil nou-cents seixanta i tants.\nSigui com vulgui, la primera línia anirà des de l’Àgora de la Universitat fins al Parc de Ribalta. Abans, però, caldrà construir un nou pont sobre el Riu Sec, i això retardarà la inauguració almenys fins a setembre. Diuen, tanmateix, que l’avinentesa de les eleccions pot fer convenient que al maig circuli ja “en proves”, encara que s’hagi d’aturar en arribar al riu.\nEm represente, doncs, uns viatgers —entre els quals, potser, una parella de nous enamorats— que són amablement convidats a baixar del vehicle en una mena d’atzucac, davant d’un riu sense aigua d’allò més semblant a la fi del món. I aquesta atmosfera grotesca, irreal, em convenç una vegada més que la vida imita l’art. Sens dubte, els guionistes d’alguns polítics d’aquestes contrades són genis no reconeguts de la literatura imaginativa.\n"
 			},
 			{
 				"title": "La confabulació del cocodril",
@@ -9804,6 +9916,34 @@
 				"url": "https://blog.carlesbellver.net/2003/09/10/les-bombes-i.html",
 				"tags": "",
 				"content_text": "Ahir i avui, els mitjans d’arreu del món ens assabenten de la mort d’Edward Teller, aquell físic hongarès, jueu, que va emigrar als EUA i va treballar a les ordres de Julius Robert Oppenheimer en la fabricació de les primeres bombes atòmiques. Més endavant va testificar contra el seu ex cap en un d’aquells processos de la guerra freda, en els quals valia tot: acusacions de filocomunisme i d’homosexualitat incloses. I va aconseguir així finançament per a crear ell mateix la superbomba d’hidrogen.\nParadoxalment, l’any 1945, quan es trobaven a la base secreta de Los Álamos i quedaven pocs dies per a la prova decisiva de la bomba al desert de New Mexico, Teller va advertir Oppenheimer que segons certs càlculs seus una reacció en cadena podria incendiar l’atmosfera i destruir tota la Terra. Oppenheimer no se’l va creure i va tirar endavant. Potser un dels dos, o tots dos, pretenien precisament això: destruir el món sencer. Com que van fracassar a la primera, Teller ho va tornar a intentar una segona vegada amb la bomba H. (Vaig utilitzar aquest estrany episodi en el conte que donava títol a El llibre de tòpics.)\nPer cert: diuen que Edward Teller era un dels models en què va basar Kubrick el personatge del Dr. Strangelove, el científic boig de la pel·lícula Teléfono Rojo.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2003-06-03T21:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2003/06/03/bbedit/",
+				"tags": "fotos",
+				"content_text": "Fa quasi deu anys vaig programar un conjunt d\u0026rsquo;extensions per a BBEdit -el millor editor de textos per a Mac, llavors i ara- que facilitaven l\u0026rsquo;edició d\u0026rsquo;HTML. Més endavant, aquestes extensions, i un altre paquet alternatiu desenvolupat per Lindsay Davies van ser incloses en la distribució oficial de BBEdit.\nJa ho he contat moltes vegades. Tot allò va comportar per a mi uns pocs minuts warholians de fama. El meu nom i les meues extensions circulaven per Internet i s\u0026rsquo;imprimien en llibres i CD-ROMS. Eren els primers temps del Web i tot era nou i interessant. Aquesta setmana, la gent de Bare Bones Software m\u0026rsquo;han enviat el CD-ROM BBEdit Anthology, una edició limitada amb totes les versions de BBEdit des de la 2.5. També hi havia una nota d\u0026rsquo;agraïment signada per Rich Siegel i unes calcomanies.\n The company soon discovered that two Europeans —Carles Bellver in Spain and Lindsay Davies in the UK— had written BBEdit plug-ins that automated the process of generating text with HTML markup…\n 📎 Apple - Hot News - Bare Bones\n BBEdit, from Bare Bones Software, became a popular HTML editing tool before it had HTML features, in part because it is an excellent text editor, and in part because Carles Bellver and Lindsay Davies both released reasonably complete sets of BBEdit extensions for HTML.\n 📎 TidBITS#385/23-Jun-97\n"
+			},
+			{
+				"title": "",
+				"date_published": "2003-03-27T21:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2003/03/27/escriptors/",
+				"tags": "citacions",
+				"content_text": " El conocimiento directo de los escritores es nocivo… En cuanto uno conoce directamente a un escritor al que admiró de lejos, deja de leer sus obras.\n —Augusto Monterroso, Movimiento perpetuo.\n He sido afortunado, no he tratado personalmente a casi ningún escritor. Sé que son vanidosos, mezquinos, intrigantes, egocéntricos, intratables. Y si son españoles, encima son vanidosos y miedosos.\n —Enrique Vila-Matas, Bartleby y compañía.\n"
+			},
+			{
+				"title": "Nebaud amb Lovecraft",
+				"date_published": "2003-03-08T21:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2003/03/08/nebaud-lovecraft/",
+				"tags": "",
+				"content_text": "En la seva biografia d\u0026rsquo;H. P. Lovecraft, l\u0026rsquo;erudit S. T. Joshi nega tres vegades que Jacques Bergier hagués conegut realment el solitari de Providence. No cal que ens estranyem, doncs, que ni tan sols esmente l\u0026rsquo;ubic i elusiu B. J. Nebaud.\nNebaud va conèixer Lovecraft en el seu primer —i darrer— viatge a Amèrica, l\u0026rsquo;any 1924. Farnsworth Wright, l\u0026rsquo;editor de la cèlebre revista d\u0026rsquo;històries de por Weird Tales, va facilitar la trobada. Nebaud hi fa referència en l\u0026rsquo;anotació següent del seu diari:\n M\u0026rsquo;ha vingut a veure a l\u0026rsquo;hotel en Howard Lovecraft. F. W. em va deixar llegir ahir un parell de contes seus: \u0026ldquo;Dagon\u0026rdquo; i \u0026ldquo;La declaració de Randolph Carter\u0026rdquo;. El senyor Lovecraft juga amb monstres, dimonis, civilitzacions desaparegudes i realitats velades. M\u0026rsquo;ha ensenyat un llibre antic, l\u0026rsquo;anomenat Necronomicon. El tacte de la coberta de pell (humana?) era repugnant. Ell m\u0026rsquo;indicava una pàgina, assenyalava un paràgraf i jo recitava en veu alta. Feia falta posar-hi molta atenció, perquè es tractava d\u0026rsquo;un llatí medieval, impur. Amb admirable paciència, m\u0026rsquo;ha ajudat a desxifrar una profecia i calcular una data: 29 de febrer de 1924. Avui, el dia de la fi del món. A través de la finestra, he vist omplir-se d\u0026rsquo;animàlies voladores el carrer Carlton. Semblants a rates-penades, però més grans, més folles, més terrorífiques.\n "
+			},
+			{
+				"title": "Versions sobre la creació del món i les raons de la confusió",
+				"date_published": "2003-02-14T21:00:00+00:00",
+				"url": "https://blog.carlesbellver.net/2003/02/14/correo-euclides/",
+				"tags": "",
+				"content_text": "Monterroso pensa que Déu encara no ha creat realment el món, i per això és tot tan confús: \u0026ldquo;sólo está imaginándolo, como entre sueños\u0026rdquo;.\nSupose que això contradiu el relat bíblic. Segons el Gènesi, la creació del món es va esdevenir ja fa moltes generacions, va durar set dies i va consistir bàsicament a posar ordre en el caos. Sant Joan aclareix que al principi hi era la Paraula, que és traducció del grec logos: raó, llenguatge. Però aquells mots que tenien per missió convertir el caos en cosmos ben bé podien ser mots errats, enganyosos. Almenys aquesta era la hipòtesi avançada per Max Aub en un cartell de l\u0026rsquo;any 1968: que Déu va crear la terra per culpa d\u0026rsquo;un mal informe de la CIA.\n"
 			},
 			{
 				"title": "La finestra de William Blake",
