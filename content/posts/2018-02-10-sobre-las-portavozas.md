@@ -9,4 +9,3 @@ tags = ["retalls"]
 📎 [Sobre las 'portavozas'](http://eldiario.es/zonacritica/Portavozas-femenino-improbable_6_738486187.html)
 
 > O quizá para poder interpretar correctamente la naturaleza de ‘portavoza’ no haya que mirar en la morfología, sino que debamos observar el uso pragmático de la lengua.
-
