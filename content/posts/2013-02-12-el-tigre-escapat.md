@@ -3,6 +3,7 @@ url = "/2013/02/12/el-tigre-escapat.html"
 title = "El tigre escapat a Castelló era napolità"
 date = "2013-02-12T23:00:00+00:00"
 slug = "el-tigre-escapat"
+tags = ["Castelló"]
 +++
 
 <img src="/uploads/2013/2013-02-11-el-tigre-escapat-1.jpg" alt="" />
@@ -11,7 +12,7 @@ Fa uns dies va córrer el rumor que s’havia escapat un tigre del circ que hi h
 
 En realitat era molt fàcil esbrinar, mitjançant la cerca d’imatges de Google, que la foto pertanyia a una notícia de Nàpols de fa cinc anys: [Una tigre scappa dal circo, le foto di un carabiniere](http://napoli.repubblica.it/multimedia/home/3603561/3/2) (la Repubblica.it).
 
-Curiosament, en les altres fotos que es poden veure en la Reppublica es comprèn molt millor que sí que era un tigre.
+Curiosament, en les altres fotos que es poden veure en la *Reppublica* es comprèn molt millor que sí que era un tigre.
 
 <a href="http://napoli.repubblica.it/multimedia/home/3603561/3/1"><img src="/uploads/2013/2013-02-11-el-tigre-escapat-2.jpg" alt="" style="display: inline; width: 32%;"/></a>
 <a href="http://napoli.repubblica.it/multimedia/home/3603561/3/3"><img src="/uploads/2013/2013-02-11-el-tigre-escapat-3.jpg" alt="" style="display: inline; width: 32%;"/></a>
