@@ -10,5 +10,5 @@ tags = ["retalls"]
 
 El principal problema de seguretat de la cinquena generació de tecnologies de telefonia mòbil (5G) rau en el fet que ha de servir per a connectar a la xarxa una infinitat de dispositius de tota mena, no sols telèfons o ordinadors, sinó també cotxes o electrodomèstics. Huawei és el fabricant més ben situat en aquest sector, però, d'acord amb MIT Technology Review…
 
-> El govern dels EUA pareix haver decidit que és simplement massa arriscat que una empresa xinesa controli massa infraestructura 5G".
+> El govern dels EUA pareix haver decidit que és simplement massa arriscat que una empresa xinesa controli massa infraestructura 5G.
 
