@@ -5,7 +5,7 @@ date = "2019-11-26T19:20:00+00:00"
 slug = "poemaris-virtuals-dalbert"
 +++
 
-Inventari provisional, actualització permanent. Publicació continuada, al llarg d'anys, a [Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator).
+Inventari provisional, actualització permanent. Publicació continuada a [Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator).
 
 1. *Línies roges* (a partir de juliol de 2015)
 2. *Fora límits*
@@ -28,3 +28,4 @@ Inventari provisional, actualització permanent. Publicació continuada, al llar
 19. *Estius provisionals* (abril de 2021)
 20. *Camins dispersos* (juny de 2021)
 21. *Dispersions* (octubre de 2021)
+22. *Periples* (febrer de 2022)
