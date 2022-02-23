@@ -5,7 +5,7 @@ tags = ["retalls"]
 slug = "challenging-neoliberalism"
 +++
 
-📎 [Leading Academic Institutions Will Receive More Than 0 Million To Create Centers Challenging Neoliberalism](https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/)
+📎 [Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism](https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/)
 
 > Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l'economia i la societat actuals:
 > 
