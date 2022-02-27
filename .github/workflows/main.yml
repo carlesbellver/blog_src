@@ -32,7 +32,7 @@ jobs:
         with:
           switches: -avzr --delete
           path: public/
-          remote_path: public/blog.carlesbellver.net
+          remote_path: /home/public/blog.carlesbellver.net
           remote_host: ${{ secrets.DEPLOY_HOSTNAME }}
           remote_port: ${{ secrets.DEPLOY_PORT }}
           remote_user: ${{ secrets.DEPLOY_USERNAME }}
