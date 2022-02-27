@@ -4,6 +4,7 @@ slug = "opinions"
 url = "/opinions"
 description = "Què han dit dels meus llibres algunes de les poques persones que els han llegit."
 image = "/pics/Brillenapostel_1403.jpg"
+tags = ["citacions"]
 +++
 
 Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que els han llegit.
