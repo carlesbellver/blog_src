@@ -27,4 +27,14 @@ jobs:
           external_repository: carlesbellver/blog
           publish_branch: master
           #keep_files: true
+      - name: Deployment rsync
+        uses: burnett01/rsync-deployments@4.1
+        with:
+          switches: -avzr --delete
+          path: public/
+          remote_path: public/blog.carlesbellver.net
+          remote_host: ${{ secrets.DEPLOY_HOSTNAME }}
+          remote_port: ${{ secrets.DEPLOY_PORT }}
+          remote_user: ${{ secrets.DEPLOY_USERNAME }}
+          remote_key: ${{ secrets.DEPLOY_KEY}}
 
