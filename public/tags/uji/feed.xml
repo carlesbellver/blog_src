@@ -6,10 +6,21 @@
     <description>La vista cansada (uji)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Thu, 27 Jan 2022 18:18:56 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Feb 2022 19:30:14 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/uji/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/02/22/afterfest/</link>
+      <pubDate>Tue, 22 Feb 2022 19:30:14 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/02/22/afterfest/</guid>
+      <description>&lt;p&gt;Afterfest #UJI&lt;/p&gt;
+&lt;img alt=&#34;Flyer&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-02-22-afterfest.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       
@@ -413,8 +424,8 @@
       <guid>https://blog.carlesbellver.net/2016/02/26/uji-gerent-web/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tndxUNDXl5I&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Una conferència molt interessant de juny de 2015. El gerent de l&amp;rsquo;UJI, Andrés Marzal, i dos tècnics del Servei d&amp;rsquo;Informàtica, explicaven al públic el camí emprès cap al &lt;em&gt;cloud&lt;/em&gt;, el núvol. Un camí que, si els rumors que se senten són certs, deu estar ara a punt de culminar.&lt;/p&gt;
-&lt;p&gt;Quasi al principi de la seua intervenció, Andrés es referia als que vam col·laborar en el primer servidor web d&amp;rsquo;Espanya com &amp;ldquo;una pandilla de forajidos en el buen sentido&amp;rdquo;, els quals hi hauríem treballat &amp;ldquo;completamente al margen de la dirección de la universidad&amp;rdquo;. Però això no és exacte i m&amp;rsquo;agradaria matisar-ho. Aquell servidor web de 1993 cal situar-lo en el marc d&amp;rsquo;un projecte d&amp;rsquo;implementació d&amp;rsquo;un servei d&amp;rsquo;informació electrònica per a l&amp;rsquo;UJI. Un projecte que tenia el vistiplau de l&amp;rsquo;autoritat pertinent.&lt;/p&gt;
-&lt;p&gt;Inicialment ens havíem basat en la tecnologia Gopher. Perquè, sí, Internet ja existia abans del Web. I al cap d&amp;rsquo;un temps vam voler provar opcions noves. Potser és cert que entre un moment i l&amp;rsquo;altre, de setembre de 1992 a setembre de 1993, l&amp;rsquo;equip de govern es va oblidar d&amp;rsquo;aquesta iniciativa i no hi va destinar recursos. La primera —i molt forta— crisi de finançament de l&amp;rsquo;UJI no va ajudar gens. En tot cas, els qui hàgeu treballat en una organització d&amp;rsquo;una certa mida ja deveu saber que aprovar un projecte i deixar que es pose en marxa no implica sempre donar-li cap suport efectiu. Si aleshores ens vam quedar &lt;em&gt;al marge&lt;/em&gt;, doncs, no va ser exactament la nostra intenció!&lt;/p&gt;
+&lt;p&gt;Quasi al principi de la seua intervenció, Marzal es referia als que vam col·laborar en el primer servidor web d&amp;rsquo;Espanya com &amp;ldquo;una pandilla de forajidos en el buen sentido&amp;rdquo;, els quals hi hauríem treballat &amp;ldquo;completamente al margen de la dirección de la universidad&amp;rdquo;. Però això no és exacte i m&amp;rsquo;agradaria matisar-ho. Aquell servidor web de 1993 cal situar-lo en el context d&amp;rsquo;un projecte d&amp;rsquo;implementació d&amp;rsquo;un servei d&amp;rsquo;informació electrònica per a l&amp;rsquo;UJI. Un projecte que tenia el vistiplau de l&amp;rsquo;autoritat pertinent.&lt;/p&gt;
+&lt;p&gt;Inicialment ens havíem basat en la tecnologia Gopher. Perquè, sí, Internet ja existia abans del Web. I al cap d&amp;rsquo;un temps vam voler provar opcions noves. Potser és cert que entre un moment i l&amp;rsquo;altre, de setembre de 1992 a setembre de 1993, l&amp;rsquo;equip de govern s&amp;rsquo;havia oblidat d&amp;rsquo;aquesta iniciativa i no hi va destinar més recursos. La primera —i molt forta— crisi de finançament de l&amp;rsquo;UJI no va ajudar gens. En tot cas, els qui hàgeu treballat en una organització d&amp;rsquo;una certa mida ja deveu saber que aprovar un projecte i deixar que es pose en marxa no implica sempre donar-li cap suport efectiu. Si aleshores ens vam quedar &lt;em&gt;al marge&lt;/em&gt;, doncs, no va ser exactament la nostra intenció.&lt;/p&gt;
 &lt;p&gt;Més informació sobre el projecte original:&lt;/p&gt;
 &lt;p&gt;📎 &lt;a href=&#34;http://nti.uji.es/docs/nti/castello.html&#34;&gt;El Gopher como CWIS
 (&lt;em&gt;Campus Wide Information System&lt;/em&gt;)

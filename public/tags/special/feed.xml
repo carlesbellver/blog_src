@@ -12,37 +12,6 @@
     
     <item>
       <title>Cercar</title>
-      <link>https://blog.carlesbellver.net/lunr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.carlesbellver.net/lunr/</guid>
-      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;https://blog.carlesbellver.net/scripts/search_lunr.css&#34; /&gt;
-&lt;script src=&#34;https://unpkg.com/lunr/lunr.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://blog.carlesbellver.net/scripts/lunr.stemmer.support.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://blog.carlesbellver.net/scripts/lunr.ca.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://blog.carlesbellver.net/scripts/search_lunr.js&#34;&gt;&lt;/script&gt;
-&lt;form id=&#34;search&#34; class=&#34;search&#34; role=&#34;search&#34;&gt;
-  &lt;label for=&#34;search-input&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon search-icon&#34;&gt;&lt;path d=&#34;M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z&#34;/&gt;&lt;/svg&gt;
-  &lt;/label&gt;
-  &lt;input type=&#34;search&#34; id=&#34;search-input&#34; class=&#34;search-input&#34;&gt;
-&lt;/form&gt;
-&lt;div id=&#34;list_results&#34;&gt;
-&lt;/div&gt;
-&lt;template id=&#34;search-result&#34; hidden&gt;
-  &lt;article class=&#34;content post&#34;&gt;
-    &lt;h2 class=&#34;post-title&#34;&gt;&lt;a class=&#34;summary-title-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-    &lt;summary class=&#34;summary&#34;&gt;&lt;/summary&gt;
-    &lt;div class=&#34;read-more-container&#34;&gt;
-      &lt;a class=&#34;read-more-link&#34;&gt;Read More »&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-&lt;/template&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cercar</title>
       <link>https://blog.carlesbellver.net/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -69,6 +38,73 @@
   S&#39;estan carregant les fotos…
 &lt;/div&gt;
 &lt;script src=&#34;https://blog.carlesbellver.net/scripts/microgram.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Opinions</title>
+      <link>https://blog.carlesbellver.net/opinions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/opinions/</guid>
+      <description>&lt;p&gt;Què han dit dels meus &lt;a href=&#34;https://blog.carlesbellver.net/llibres/&#34;&gt;llibres&lt;/a&gt; algunes de les poques persones que els han llegit.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bellver colla una volta de caragol del relat fantàstic, per a substituir l&amp;rsquo;horror de Cthulhu per l&amp;rsquo;humor absurd.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Albert Toldrà (2002)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;El Carles ens recrea un món lovecraftià de haiku.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Sebastià Roig (2002)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Allò ben cert és que mai no trobarem un llibre escrit d&amp;rsquo;aquesta manera en Bromera, per exemple.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Josep A. Mas (2002)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Certament, tot i precedents en la literatura en català d&amp;rsquo;aquestes actituds —Calders, Sarsanedas, Perucho, i sobretot, Jaume Cabré—, aquesta important aposta intel·lectualista mereix una lectura que, de tota manera, també presenta el risc de perdre&amp;rsquo;s en subtileses i pressuposicions.&lt;br&gt;
+[…]&lt;br&gt;
+Tots aquests relats són els millors escrits mai a Castelló.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Lluís Meseguer (2003)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…un llibre molt bo amb un grapat de contes excepcionals…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Blog El Llibreter (2005)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I aquesta necessitat de continuar la lectura d&amp;rsquo;un relat amb la del relat següent és en part deguda a la màgia que Carles Bellver sap imprimir als seus contes i a la capacitat de generar un interès lector sense haver d&amp;rsquo;arribar a finals conclusius i sorprenents.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Marc Romera (2006)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Són relats que mantenen, de manera deliberada i eficaç, certa tendència a la insinuació, a la sugestió i a l’evocació, tres propensions característiques del discurs poètic que Bellver conrea en prosa.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Josep Porcar (2011)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Això és pitjor que llegir poesia. Hi ha històries que les has de llegir vàries vegades.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Un lector anònim (2011)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Amb, com a rerefons, un pòsit de lectures més o menys declarades i, en el centre, un motor de nostàlgia que desencadena el relat de relats.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Francesc Pérez i Moragón (2014)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Carles Bellver, una vegada més amb aquest llibre, acuradament redactat, i amb certa dosi d’humor de fons, resulta certament inquietant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Carme Pinyana (2018)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…la relació ha estat sempre més incidental i escadussera, i per això tampoc no vull entrar a valorar la seua trajectòria, que no conec massa.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Toni Royo (2020)&lt;/p&gt;
+</description>
     </item>
     
     <item>

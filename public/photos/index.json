@@ -6,6 +6,38 @@
   "feed_url": "https://blog.carlesbellver.net/photos/index.json",
   "items": [
       {
+        "id": "https://blog.carlesbellver.net/2022/02/23/busties-secretes/",
+        "title": "",
+        "date_published": "2022-02-23T21:30:14+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/23/busties-secretes/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-23-busties-secretes.jpg",
+        "content_text": "Les organitzacions clandestines utilitzaven sovint bústies secretes per a comunicar-se.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/02/22/afterfest/",
+        "title": "",
+        "date_published": "2022-02-22T19:30:14+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/22/afterfest/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-22-afterfest.jpg",
+        "content_text": "Afterfest #UJI\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/",
+        "title": "",
+        "date_published": "2022-02-10T19:30:12+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-10-mon-sencer.jpg",
+        "content_text": "El món sencer a la porta de casa. Carrer Sant Blai #Castelló.\n"
+      },
+      {
+        "id": "https://blog.carlesbellver.net/2022/02/09/solsida/",
+        "title": "",
+        "date_published": "2022-02-09T20:30:12+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/09/solsida/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-09-solsida.jpg",
+        "content_text": "La solsida. Der Untergang.\n"
+      },
+      {
         "id": "https://blog.carlesbellver.net/2022/02/05/correus/",
         "title": "",
         "date_published": "2022-02-05T20:30:13+01:00",
@@ -379,7 +411,7 @@
         "date_published": "2020-02-25T20:15:28+00:00",
         "url": "https://blog.carlesbellver.net/2020/02/25/carrer-dedicat-a.html",
           "image": "https://blog.carlesbellver.net/uploads/2020/e8e6f119db.jpg",
-        "content_text": "Carrer dedicat a l\u0026rsquo;organitzador de la Gran Redada, o intent d\u0026rsquo;exterminació del poble gitano a Espanya (1749).\n"
+        "content_text": "Carrer dedicat a l\u0026rsquo;organitzador de la Gran Redada, o intent d\u0026rsquo;exterminació del poble gitano a Espanya (1749). Responsable, l\u0026rsquo;empresa anunciadora.\n"
       },
       {
         "id": "https://blog.carlesbellver.net/2020/02/07/la-galeria-subterrnia.html",

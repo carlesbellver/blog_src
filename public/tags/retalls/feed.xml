@@ -6,10 +6,64 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Mon, 24 Jan 2022 17:04:22 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 09:08:04 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/02/23/challenging-neoliberalism/</link>
+      <pubDate>Wed, 23 Feb 2022 09:08:04 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/02/23/challenging-neoliberalism/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/&#34;&gt;Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l&amp;rsquo;economia i la societat actuals:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/02/18/tesla-radio/</link>
+      <pubDate>Fri, 18 Feb 2022 18:32:08 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/02/18/tesla-radio/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://quoteinvestigator.com/2022/02/15/radio/&#34;&gt;The Radio Is a Distraction and Keeps You from Concentrating&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La ràdio… ja sé que sóc el seu pare, però no m&amp;rsquo;agrada. Simplement no m&amp;rsquo;agrada. És una molèstia. No l&amp;rsquo;escolte mai. La ràdio és una distracció i t&amp;rsquo;impedeix concentrar-te. Hi ha massa distraccions en aquesta vida per a un pensament de qualitat; i és la qualitat del pensament, no la quantitat, el que compta.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Nikola Tesla&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/02/12/madrid-fascista/</link>
+      <pubDate>Sat, 12 Feb 2022 09:05:40 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/02/12/madrid-fascista/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.eldiario.es/sociedad/desconocido-entramado-usaron-fascistas-refugiarse-madrid_1_8727803.html&#34;&gt;El desconocido entramado que usaron los fascistas para refugiarse en Madrid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Otto Skorzeny, Leon Degrelle, un gelater italià i un agent doble alemany, Oswald Mosley… El festival internacional del feixisme al Madrid franquista.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2022/02/08/adventures-dillon-helbig/</link>
+      <pubDate>Tue, 08 Feb 2022 17:18:22 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2022/02/08/adventures-dillon-helbig/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.lavanguardia.com/cribeo/estilo-de-vida/20220208/8041733/nino-8-anos-esconde-propio-libro-escrito-mano-biblioteca-convierte-exito.html&#34;&gt;Un niño de 8 años esconde su libro manuscrito en la biblioteca y se convierte en todo un éxito&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tras cuatro intensos días dedicándose únicamente a su creación, Dillon decidió esconder su obra en la Biblioteca Comunitaria de Ada para que todo el mundo pudiera disfrutar de la novela que cuenta la historia de su propio viaje al pasado provocado por una explosión de una de las bolas de su árbol de Navidad.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img src=&#34;https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2022/02/08/6202425b57391.png&#34; /&gt;</description>
+    </item>
     
     <item>
       
@@ -1024,7 +1078,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://blog.carlesbellver.net/2020/02/20/ireland-where-google.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.reuters.com/article/us-google-privacy-eu-exclusive-idUSKBN20D2M3&#34;&gt;Exclusive: Google users in UK to lose EU data protection - sources - Reuters&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Irlanda, on Google i altres empreses tecnològiques nord-americanes tenen la seu a Europa, roman a la UE, que té una de les normes més agressives de protecció de dades del món, el Reglament General de Protecció de Dades. Google ha decidit desplaçar els usuaris britànics fora de la jurisdicció irlandesa perquè no està clar si Gran Bretanya seguirà amb el GDPR o adoptarà altres normatives que puguin afectar el maneig de les dades dels usuaris.&lt;/p&gt;
+&lt;p&gt;Irlanda, on Google i altres empreses tecnològiques nord-americanes tenen la seu europeua, roman a la UE, que té una de les normes de protecció de dades més agressives del món, el Reglament General de Protecció de Dades. Google ha decidit desplaçar els usuaris britànics fora de la jurisdicció irlandesa perquè no està clar si Gran Bretanya seguirà amb el GDPR o adoptarà altres normatives que puguin afectar el maneig de les dades dels usuaris.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -2774,7 +2828,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.technologyreview.com/s/612874/the-real-reason-america-is-scared-of-huawei-internet-connected-everything/&#34;&gt;The real reason America is scared of Huawei: internet-connected everything&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El principal problema de seguretat de la cinquena generació de tecnologies de telefonia mòbil (5G) rau en el fet que ha de servir per a connectar a la xarxa una infinitat de dispositius de tota mena, no sols telèfons o ordinadors, sinó també cotxes o electrodomèstics. Huawei és el fabricant més ben situat en aquest sector, però, d&amp;rsquo;acord amb MIT Technology Review…&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;El govern dels EUA pareix haver decidit que és simplement massa arriscat que una empresa xinesa controli massa infraestructura 5G&amp;quot;.&lt;/p&gt;
+&lt;p&gt;El govern dels EUA pareix haver decidit que és simplement massa arriscat que una empresa xinesa controli massa infraestructura 5G.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -2786,7 +2840,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2019/02/12/how-i-ditched.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://vickylai.com/verbose/how-i-ditched-wordpress-and-set-up-my-custom-domain-https-site-for-almost-free/&#34;&gt;How I ditched WordPress and set up my custom domain HTTPS site for (almost) free&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Un lloc web en Wordpress.com costa 4€/mes si vols eliminar la publicitat i utilitzar un nom de domini propi. El preu puja a 8€/mes si vols personalitzar el disseny editant el CSS. Ací s&amp;rsquo;explica com registrar un nom de domini molt econòmic, crear el teu web amb un generador estàtic (Hugo) amb el teu ordinador personal i allotjar-lo en GitHub gratis.&lt;/p&gt;
+&lt;p&gt;Un lloc web en Wordpress.com costa 4€/mes si vols eliminar la publicitat i utilitzar un nom de domini propi. El preu puja a 8€/mes si vols personalitzar el disseny editant el CSS. Ací s&amp;rsquo;explica com registrar un nom de domini molt econòmic, crear el teu web amb un generador estàtic (Hugo) en el teu ordinador personal i allotjar-lo en GitHub gratis.&lt;/p&gt;
 </description>
     </item>
     
@@ -6437,7 +6491,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2018/03/01/nokia-vodafone-to.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.geek.com/tech/nokia-vodafone-to-install-4g-on-the-moon-1732451/&#34;&gt;Nokia, Vodafone To Install 4G on the Moon&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Primera xarxa cel·lular còsmica: el mòdul dissenyat per transportar i fer allunar dos vehicles tot terreny, funcionarà també com una estació base LTE, la qual permetrà transferir dades i vídeo cap a la Terra.&lt;/p&gt;
+&lt;p&gt;Primera xarxa cel·lular còsmica: el mòdul dissenyat per transportar i fer allunar dos vehicles tot terreny funcionarà també com una estació base LTE, la qual permetrà transferir dades i vídeo cap a la Terra.&lt;/p&gt;
 </description>
     </item>
     
@@ -6448,7 +6502,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://blog.carlesbellver.net/2018/03/01/the-ruins-of.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://www.amusingplanet.com/2018/03/the-ruins-of-st-pauls-church-macau.html&#34;&gt;The Ruins of St. Paul&amp;rsquo;s Church, Macau &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Tot façana.&lt;/p&gt;
+&lt;p&gt;És tot façana.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.amusingplanet.com/2018/03/the-ruins-of-st-pauls-church-macau.html&#34;&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-DaO3L47M1j4/WpeqOQlWWuI/AAAAAAABWNA/Jc1nKFv-S7kzXfVRDPu8sKpjfWMV181TQCHMYCw/st--paul-church-macau-106&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -6485,7 +6539,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://blog.carlesbellver.net/2018/02/24/blockchain-bitcoin-and.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.edsurge.com/amp/news/2017-12-21-blockchain-bitcoin-and-the-tokenization-of-learning&#34;&gt;Blockchain, Bitcoin and the Tokenization of Learning&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Hi ha pocs precedents d&amp;rsquo;aquests experiments. Per si serveix de res, els dòlars Disney, encara que cancel·lats, es poden comprar avui a eBay per un import entre un i 14.300 dòlars per un full en perfecte estat.&lt;/p&gt;
+&lt;p&gt;Hi ha pocs precedents d&amp;rsquo;aquests experiments. Per si serveix de res, els dòlars Disney, tot i estar cancel·lats, es poden comprar avui en eBay per un import entre un i 14.300 dòlars per un full en perfecte estat.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Disney_Dollars&#34;&gt;Dòlars Disney&lt;/a&gt;: la versió ianqui dels &lt;a href=&#34;https://blog.carlesbellver.net/2018/01/11/113011.html&#34;&gt;mortadel·los&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -6645,7 +6699,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Fri, 09 Feb 2018 22:52:00 +0000</pubDate>
       
       <guid>https://blog.carlesbellver.net/2018/02/09/adis-a-john.html</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;http://m.eldiario.es/cultura/John-Perry-Barlow_0_738076647.html&#34;&gt;Adiós a John Perry Barlow, el primer activista de los derechos civiles online&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;📎 &lt;a href=&#34;http://eldiario.es/cultura/John-Perry-Barlow_0_738076647.html&#34;&gt;Adiós a John Perry Barlow, el primer activista de los derechos civiles online&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;…se intoxicó de la efervescencia tecnológica de la contracultura californiana y tuvo una visión temprana, certera y autocumplida de la Red.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -9000,6 +9054,24 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
 &lt;/blockquote&gt;
 &lt;p&gt;📎 &lt;a href=&#34;http://www.threemonkeysonline.com/als/_lydia_davis_samuel_johnson_is_indignant.html&#34;&gt;Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n’hi ha. Els seus dies pareix que tinguin vint-i-cinc o vint-i-sis hores, o més. Els meus, en canvi, amb prou feines en tenen vint-i-quatre. Això, o gaudeixen d’una secreta màquina del temps: un dispositiu, no per a viatjar-hi, sinó que en fabrica… O el falsifica? Es pot encunyar temps fals?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La prosa només és bona en la mesura que s&#39;apropa a la poesia</title>
+      <link>https://blog.carlesbellver.net/2014/02/13/la-prosa-noms.html</link>
+      <pubDate>Thu, 13 Feb 2014 23:00:00 +0000</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2014/02/13/la-prosa-noms.html</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;La prosa només és bona en tant que s&amp;rsquo;apropa a la condició de la poesia: aquella condició en què no es pot canviar un ritme, ni una partícula de so, sense molestar tota la pàgina.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📎 Francine du Plessix Gray, &lt;a href=&#34;http://www.theparisreview.org/interviews/2642/the-art-of-fiction-no-96-francine-du-plessix-gray&#34;&gt;Paris Review - The Art of Fiction No. 96&lt;/a&gt; (Summer 1987, No. 103).&lt;/p&gt;
+&lt;p&gt;Divendres de la setmana passada, en la presentació de &lt;a href=&#34;http://carlesbellver.net/llibres/lanitmildos&#34;&gt;La nit mil dos&lt;/a&gt; a Castelló, pensava justament en aquestes paraules quan vaig dir que “algú ha dit que la prosa només és bona en la mesura en què s’apropa a la poesia, i jo no puc estar-hi més d’acord”.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Francine_du_Plessix_Gray&#34;&gt;Francine du Plessix Gray&lt;/a&gt; és una escriptora nordamericana: prosista, no poeta. Va nàixer a Varsòvia, filla del diplomàtic i oficial d’aviació francès &lt;a href=&#34;http://www.ordredelaliberation.fr/fr_compagnon/310.html&#34;&gt;Bertrand Jochaud du Plessix&lt;/a&gt; (abatut l’any 1940 per l’exèrcit franquista, amb tres companys més, prop de Gibraltar) i de Tatiana Iacovleff, russa, que havia tingut abans una breu relació amorosa amb &lt;a href=&#34;http://ca.wikipedia.org/wiki/Vlad%C3%ADmir_Maiakovski&#34;&gt;Vladímir Maiakovski&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quan era una noia durant la Revolució Russa, [la meva mare] va ajudar a mantenir viva la seva família recitant poesia als soldats soviètics a canvi de trossos de pa. Fins avui, a finals dels anys setanta, té una memòria fenomenal per al vers, i pot recitar de cor centenars de línies de Pushkin, Lermontov i Akhmatova. El seu amor per la poesia ha acolorit la meva vida i potser m’ha convertit en escriptora.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
