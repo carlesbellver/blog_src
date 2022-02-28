@@ -3,7 +3,7 @@ title = "Opinions"
 slug = "opinions"
 url = "/opinions"
 description = "Què han dit dels meus llibres algunes de les poques persones que els han llegit."
-image = "/pics/Brillenapostel_1403.jpg"
+image = "/uploads/ulleres.jpg"
 tags = ["citacions"]
 +++
 
