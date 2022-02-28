@@ -3,6 +3,7 @@ url = "/2017/03/02/wittgenstein-la-visi.html"
 title = "Wittgenstein: la visió moderna del món"
 date = "2017-03-02T23:00:00+00:00"
 slug = "wittgenstein-la-visi"
+tags = ["citacions"]
 +++
 
 > 6.371 Tota la visió moderna del món es basa en la il·lusió que les lleis anomenades de la naturalesa són les explicacions dels fenòmens de la naturalesa.
