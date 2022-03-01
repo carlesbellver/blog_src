@@ -1,6 +1,6 @@
 --font-color: #eee;
 --bg-color: #111;
---content-bg-color: #191919;
+--content-bg-color: #111; /* #191919; */
 
 --link-color:#599ada;
 --link-state-color:#ff5858;

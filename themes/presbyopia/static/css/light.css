@@ -1,6 +1,6 @@
 :root {
     --font-color: #333;
-    --bg-color: #f0f0f0;
+    --bg-color: #fff /* #f0f0f0; */
     --content-bg-color: #fff;
 
     --link-color:#990000;
