@@ -429,13 +429,20 @@ article img {
     max-width: 100%;
     display: block;
     height: auto;
-    margin: 1em auto;
+    margin: 1em 0;
     border-radius: 0;
 }
 
-article.fotos img, .post-summary.fotos img {
-  width: 100%;
+article.fotos img,
+#onthisday img,
+.post-summary img {
+    max-width: 480px;
+    display: block;
+    height: auto !important;
+    margin: 1em 0;
+    border-radius: 0;
 }
+
 
 article figcaption {
     color: grey;
@@ -469,15 +476,6 @@ article iframe {
 
 .post-summary > p {
     display: block;
-}
-
-#onthisday img,
-.post-summary img {
-    max-width: 100%;
-    display: block;
-    height: auto !important;
-    margin: 1em auto;
-    border-radius: 0;
 }
 
 /* Article tags */
@@ -590,10 +588,10 @@ ul.language-select > li, ul.footer-menu > li {
     cursor: pointer;
     color: var(--switcher-color);
     background: var(--switcher-bg-color);
-    padding: 0.5em 0.5em;
+    padding: 8px;
     font-size: 16px;
     border: 0;
-    border-radius: 5px;
+    border-radius: 0;
     margin: 0;
 }
 
