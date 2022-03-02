@@ -13,5 +13,5 @@ tags = ["special"]
 </form>
 
 <div id="list_results">
-   <p style="text-align: center;">S'està carregant l'índex de paraules…</p>
+   <p>S'està carregant l'índex de paraules…</p>
 </div>

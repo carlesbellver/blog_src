@@ -1,7 +1,8 @@
 /* Basic */
 
 html {
-    font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif; */
+    font-family: Georgia, serif;
     /* font-feature-settings: "ss06" on; */
     font-variant-numeric: tabular-nums;
     -ms-text-size-adjust: 100%;
@@ -10,7 +11,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 17px;
+    font-size: 19px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     color: var(--font-color);
@@ -283,14 +284,15 @@ header nav a:first-of-type {
 }
 
 .common-header {
-    padding-bottom: 1.5em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+    padding-bottom: 1em;
     /* border-bottom: thin solid var(--hr-color); */
 }
 
 /* Pages */
 
 h1.post-title {
-  margin: 1em 0;
+  margin: 0 0 1em 0;
   font-family: Georgia, serif;
   font-size: 2em;
   font-weight: bold;
@@ -328,7 +330,7 @@ main article {
   border: 1px solid var(--content-bg-color);
   padding: 1em 0;
   border-radius: 5px;
-  border-bottom: 1px solid var(--pre-bg-color);
+  border-bottom: 2px dotted var(--pre-bg-color);
   background: var(--content-bg-color);
 }
 
@@ -373,9 +375,10 @@ article header h1 a {
 }
 
 .post-info {
+    margin: 1em 0 0.5em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 16px;
     color: var(--post-info-color);
-    font-size: 0.8em;
-    margin: 1em 0 0;
 }
 
 .post-info a {
@@ -479,7 +482,7 @@ article iframe {
 
 .citacions blockquote {
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1.25em;
+  font-size: 21px;
 }
 
 .citacions blockquote:before {
@@ -504,9 +507,10 @@ article iframe {
 
 .pagination {
     display: flex;
-    justify-content: space-between;
     margin-top: 3em;
     text-align: center;   
+    font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;    justify-content: space-between;
+    font-size: 16px;
 }
 
 .pagination-item {
@@ -544,8 +548,9 @@ article iframe {
 
 .common-footer {
     /* border-top: thin solid var(--hr-color); */
-    padding-top: 1.5em;
     margin-top: 3em;
+    padding-top: 1.5em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 16px;
     color: var(--post-info-color);
 }

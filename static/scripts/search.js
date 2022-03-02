@@ -6,7 +6,7 @@ function downloadArchive() {
     if (this.readyState == 4 && this.status == 200) {
       archive_results = JSON.parse(this.responseText);
       var results_node = document.getElementById("list_results");
-      results_node.innerHTML = "<p style=\"text-align: center;\">Introduïu els termes de la cerca.</p>";
+      results_node.innerHTML = "<p>Introduïu els termes de la cerca.</p>";
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);
