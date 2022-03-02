@@ -30,12 +30,6 @@ DefaultContentLanguage = "ca"
 [menu]
 
   [[menu.main]]
-    identifier = "rss"
-    name = "RSS"
-    url = "/feed.xml"
-    weight = 1
-
-  [[menu.main]]
     identifier = "onthisday"
     name = "Tal dia com avui"
     url = "/onthisday/"

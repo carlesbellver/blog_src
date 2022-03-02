@@ -1,14 +1,10 @@
-<h1 class="site-title">
-  {{ if .Site.Params.avatar }}<img class="avatar" src="{{ .Site.Params.avatar }}"><br>{{ end }}
+<nav>
+  {{ if and (0) (.Site.Params.avatar) }}<a href="{{ .Site.BaseURL }}/about"><img class="avatar" src="{{ .Site.Params.avatar }}"></a>{{ end }}
   <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-</h1>
-{{ if .Site.Menus.main }}
-    <nav>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        <a class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
-        {{ end }}
-    </nav>
-{{ else }}
-    <nav></nav>
-{{ end }}
+  {{ if .Site.Menus.main }}
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      <a href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
+  {{ end }}
+</nav>

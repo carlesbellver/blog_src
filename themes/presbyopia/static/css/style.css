@@ -35,7 +35,7 @@ summary {
 }	
 
 .container {
-    max-width: 600px;
+    max-width: 640px;
     margin: 0 auto;
 }
 
@@ -232,10 +232,12 @@ header {
 }
 
 header img.avatar {
-  width: 48px;
-  height: 48px;
+  position: relative;
+  top: 5px;
+  width: 24px;
+  height: 24px;
   border: 0;
-  border-radius: 50%;
+  border-radius: 0;
 }
 
 header a {
@@ -260,14 +262,14 @@ header h2 {
 
 header nav {
     display: block;
+    margin: 1em 0;
     font-size: 16px;
-    margin-top: 0;
     max-width: 100%;
-    text-align: center;
+    text-align: left;
 }
 
 header nav a {
-    margin-left: 1em;
+    margin-left: 10px;
     text-transform: uppercase;
 }
 
@@ -280,9 +282,8 @@ header nav a:first-of-type {
 }
 
 .common-header {
+    margin: 2em 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-    padding-bottom: 1em;
-    /* border-bottom: thin solid var(--hr-color); */
 }
 
 /* Pages */
@@ -298,6 +299,7 @@ h1.post-title {
 }
 
 article h2 {
+  margin: 1em 0 0;
   font-family: Georgia, serif;
   font-size: 1.5em;
   font-weight: bold;
@@ -307,6 +309,7 @@ article h2 {
 }
 
 article h3 {
+  margin: 0 0 1em 0;
   font-family: Georgia, serif;
   font-size: 1.25em;
   font-weight: bold;
@@ -323,10 +326,9 @@ article h3 {
 
 main article {
   margin: 0;
-  border: 1px solid var(--content-bg-color);
   padding: 1em 0;
   border-radius: 5px;
-  border-bottom: 2px dotted var(--pre-bg-color);
+  border-bottom: 1px solid var(--hr-color);
   background: var(--content-bg-color);
 }
 
@@ -427,8 +429,12 @@ article img {
     max-width: 100%;
     display: block;
     height: auto;
-    margin: 0 auto .5em;
+    margin: 1em auto;
     border-radius: 0;
+}
+
+article.fotos img, .post-summary.fotos img {
+  width: 100%;
 }
 
 article figcaption {
