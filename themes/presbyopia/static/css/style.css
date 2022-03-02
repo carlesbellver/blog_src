@@ -45,20 +45,16 @@ main {
 
 /* Headers */
 
-h1, h2, h3 {
+h1, h2 {
   font-weight: normal;
 }
 
 h1 {
-    font-size: 1.35em;
+    font-size: 24px;
 }
 
 h2 {
-    font-size: 1.2em;
-}
-
-h3 {
-    font-size: 1.1em;
+    font-size: 16px;
 }
 
 /* Links */
@@ -264,7 +260,7 @@ header h2 {
 
 header nav {
     display: block;
-    font-size: 0.9em;
+    font-size: 16px;
     margin-top: 0;
     max-width: 100%;
     text-align: center;
