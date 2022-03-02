@@ -372,6 +372,35 @@ article header h1 a {
     text-decoration: none;
 }
 
+.note {
+  margin: 0 0 1em;
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: var(--post-info-color);
+}
+
+.license {
+  margin: 2em 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  color: var(--post-info-color);
+}
+
+.license img {
+  display: inline !important;
+  margin: 0 !important;
+  width: 100px;
+}
+
+.license p {
+  margin: 0 !important;
+}
+
+.license a {
+  color: var(--post-info-color);
+}
+
 .post-info {
     margin: 1em 0 0.5em;
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
@@ -441,6 +470,10 @@ article.fotos img,
     height: auto !important;
     margin: 1em 0;
     border-radius: 0;
+}
+
+article.contes img {
+  margin: 1em auto !important;
 }
 
 

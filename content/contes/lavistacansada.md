@@ -1,0 +1,14 @@
++++
+license = "by-nc"
+title = "La vista cansada"
+description = "Conte inclòs en el llibre La nit mil dos (Tria, 2013)."
+note = "Conte inclòs en el llibre <a href=\"/llibres/lanitmildos\"><i>La nit mil dos</i></a> (Tria, 2013)."
+date = "2013-11-28"
+tags = ["contes"]
++++
+
+Que tinc la vista cansada, em van diagnosticar l’altre dia en l’òptica com qui no diu res.
+
+De tantes coses que he vist?, em vaig demanar per a mi, en silenci. Potser sí. Però moltes, no cal dir-ho, pagaven la pena: la pena —tremenda— de viure. L’estany del parc de Ribalta, *la basseta dels peixets*, buida; n’havien obert el desguàs per netejar-la i me’n recorde com si fos ara que em va parèixer fondíssima, perquè jo era un xiquet molt menut, tan menut que em podria perdre, em repetien dia sí dia també, si m’endinsava en les *maranyetes*, els caminets tortuosos i ombrívols del bosc dels contes. Una torre malmesa i un pou, en la Casa del Batle de Vilafamés, que van ser per a mi els arquetips de la torre i del pou, de les ruïnes romàntiques. El pis de baix, pels forats dels taulons del terra en la cambra de l’àvia. La collita d’un cirerer al migdia, una pluja d’estels a mitjanit, ajaguts damunt d’un roquerar. Els cràters de la Lluna, els anells de Saturn, amb el telescopi del meu cosí Pere. Un estel de foc erràtic, un misteri celeste —un *objecte volador no identificat*— per damunt del Desert de les Palmes. Les illes, albirades des del Bartolo blau i lluny enllà. Les casetes de bany llistades, la mar quieta a l’alba, l’arena, les petxines i els crancs, a Benicàssim alguns estius. Les capitals d’Europa. Un tòtem dels Mars del Sud, en un museu a París, i un *drakkar*, un petit vaixell amb què els víkings van solcar el mar del Nord; entre els seus tresors, una figureta del Buddha. Els palaus de Venècia, arribant-hi amb el *vaporetto* des del Lido, i el Gran Canal, els ponts, el casalici precari on el marbre declarava: *«qui abitò Lord Byron»*. A Viena, la casa severa d’un filòsof, el somni arborat d’un arquitecte. La frontera d’Àsia en l’Ungarstrasse. Fisterra. Més lluny no he anat. El drac dissecat en el cau llòbrec d’una església a València, en el carrer de la Nau, cara a cara amb la universitat vella: la Raó lluminosa i davant per davant el monstre concebut en la foscor.
+
+Tants moments preciosos que fatalment s’esvairan —i no pas per la sentència que hagi pronunciat un oculista, què s’ha pensat—, inclosos aquells que m’estime més callar, guardar només per a mi en el reducte de la meva intimitat. El descobriment de l’origen del món: ho diré així, a la manera de Gustave Courbet. El bell somriure, l’oroneta que no fa estiu però alleuja el cor ni que sigui un dia. La promesa d’una felicitat possible, que es reflecteix, encara, en tu, en els teus ulls cansats com els meus, en els teus llavis com els meus assedegats.

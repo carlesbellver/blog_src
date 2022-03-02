@@ -13,11 +13,21 @@
         <h1 class="post-title">{{ trim .Title  " " }}</h1>
       </header>
       {{- end }}
-        <div class="content e-content">
-          {{ partial "ht_content.html" . }}
-          {{ if .Params.latitude }}{{ partial "map.html" . }}{{ end }}
+      
+      {{ if .Params.Note }}
+        <div class="note">
+          {{ .Params.Note | safeHTML }}
         </div>
-        {{ partial "postInfo.html" . }}
+      {{- end }}
+      
+      <div class="content e-content">
+        {{ partial "ht_content.html" . }}
+        {{ if .Params.latitude }}{{ partial "map.html" . }}{{ end }}
+      </div>
+
+      {{ partial "license.html" . }}
+        
+      {{ partial "postInfo.html" . }}
     </article>
 
     {{ if and (.Site.Params.paginationSinglePost) (ne .Type "page") }}
