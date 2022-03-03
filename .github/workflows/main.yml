@@ -30,7 +30,7 @@ jobs:
       - name: Deployment rsync
         uses: burnett01/rsync-deployments@4.1
         with:
-          switches: -avzr --delete
+          switches: -avzr --delete --exclude=/.well-known
           path: public/
           remote_path: /home/public/blog.carlesbellver.net
           remote_host: ${{ secrets.DEPLOY_HOSTNAME }}
