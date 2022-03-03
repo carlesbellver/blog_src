@@ -381,7 +381,7 @@ article header h1 a {
 }
 
 .license {
-  margin: 2em 0;
+  margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 16px;
   color: var(--post-info-color);
@@ -389,7 +389,7 @@ article header h1 a {
 
 .license img {
   display: inline !important;
-  margin: 0 !important;
+  margin: 8px 0 0 !important;
   width: 100px;
 }
 
@@ -459,7 +459,7 @@ article img {
     display: block;
     height: auto;
     margin: 1em auto;
-    border-radius: 5px;
+    border-radius: 0;
 }
 
 article.fotos img,

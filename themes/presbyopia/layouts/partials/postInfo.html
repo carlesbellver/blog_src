@@ -7,4 +7,5 @@
     {{ if .Params.date }}
         <a class="u-url" href="{{ .RelPermalink }}"><div class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</div></a> <ul class="post-tags">{{ range $tag := .Params.tags }}<li><a href="/tags/{{ $tag | urlize }}">#{{ $tag }}</a></li> {{ end }}</ul>
     {{ end }}
+    {{ partial "license.html" . }}
 </div>

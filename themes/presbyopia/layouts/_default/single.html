@@ -24,10 +24,9 @@
         {{ partial "ht_content.html" . }}
         {{ if .Params.latitude }}{{ partial "map.html" . }}{{ end }}
       </div>
-
-      {{ partial "license.html" . }}
         
       {{ partial "postInfo.html" . }}
+
     </article>
 
     {{ if and (.Site.Params.paginationSinglePost) (ne .Type "page") }}
