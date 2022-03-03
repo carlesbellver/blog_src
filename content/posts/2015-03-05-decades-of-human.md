@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [Decades of human waste have made Mount Everest a 'fecal time bomb'](http://www.washingtonpost.com/news/morning-mix/wp/2015/03/03/decades-of-human-waste-have-made-mount-everest-a-fecal-time-bomb/?postshare=1831425491957543)
 
-Dotze mil quilos d'excrements humans contaminen l'aigua cada any.
+A l'Everest, dotze mil quilos d'excrements humans contaminen la neu —l'aigua— cada any.
 
