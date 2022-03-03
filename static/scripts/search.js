@@ -25,6 +25,7 @@ function runSearch(q) {
     for (var i = 0; i < archive_results.items.length; i++) {
       score = 0;
       var item = archive_results.items[i];
+      var url = item.url();
       var title_lower = item.title.toLowerCase();
       var tags_lower = item.tags.toLowerCase();
       var text_lower = item.content_text.toLowerCase();
@@ -41,6 +42,9 @@ function runSearch(q) {
       }
       for (let i = 0; i < terms.length; i++) {
         if (terms[i].length > 3) {
+          if (url.includes(terms[i])) {
+            score += 10;
+          }
           if (title_lower.includes(terms[i])) {
             score += 10;
           }
