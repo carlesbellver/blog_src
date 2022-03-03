@@ -459,7 +459,7 @@ article img {
     display: block;
     height: auto;
     margin: 1em auto;
-    border-radius: 0;
+    border-radius: 5px;
 }
 
 article.fotos img,
@@ -469,7 +469,7 @@ article.fotos img,
     display: block;
     height: auto !important;
     margin: 1em auto;
-    border-radius: 0;
+    border-radius: 5px;
 }
 
 article figcaption {
