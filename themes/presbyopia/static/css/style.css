@@ -458,7 +458,7 @@ article img {
     max-width: 100%;
     display: block;
     height: auto;
-    margin: 1em auto;
+    margin: 1em 0;
     border-radius: 0;
 }
 
@@ -468,8 +468,12 @@ article.fotos img,
     max-width: 480px;
     display: block;
     height: auto !important;
-    margin: 1em auto;
+    margin: 1em 0;
     border-radius: 5px;
+}
+
+article.contes img {
+  margin: 1em auto;
 }
 
 article figcaption {
