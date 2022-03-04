@@ -35,7 +35,7 @@ summary {
 }	
 
 .container {
-    max-width: 640px;
+    max-width: 600px;
     margin: 0 auto;
 }
 
@@ -237,7 +237,7 @@ header img.avatar {
   width: 24px;
   height: 24px;
   border: 0;
-  border-radius: 0;
+  border-radius: 5px;
 }
 
 header a {
@@ -458,22 +458,8 @@ article img {
     max-width: 100%;
     display: block;
     height: auto;
-    margin: 1em 0;
-    border-radius: 0;
-}
-
-article.fotos img,
-#onthisday img,
-.post-summary img {
-    max-width: 480px;
-    display: block;
-    height: auto !important;
-    margin: 1em 0;
+    margin: 1em auto;
     border-radius: 5px;
-}
-
-article.contes img {
-  margin: 1em auto;
 }
 
 article figcaption {
@@ -623,7 +609,7 @@ ul.language-select > li, ul.footer-menu > li {
     padding: 8px;
     font-size: 16px;
     border: 0;
-    border-radius: 0;
+    border-radius: 5px;
     margin: 0;
 }
 
