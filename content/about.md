@@ -3,14 +3,23 @@ title = "Informació i contacte"
 slug = "about"
 +++
 
-[La vista cansada](https://blog.carlesbellver.net) és el blog de [Carles Bellver Torlà](https://carlesbellver.net).
+Carles Bellver Torlà (Castelló de la Plana, 1967).
 
 - Analista de tecnologia educativa del [Centre d'Educació i Noves Tecnologies](https://cent.uji.es) (CENT) de la [Universitat Jaume I](https://www.uji.es) de [Castelló](https://ca.wikipedia.org/wiki/Castelló_de_la_Plana).
 - [Escriptor](https://carlesbellver.net/llibres/) [amateur](/2011/06/07/reivindicaci-de-lamateurisme.html).
 
-Els primers apunts d'aquest blog són de [2002](/2002/09/29/joan-francesc-mira.html) i [2003](/2003/02/01/la-finestra-de.html), tot i que el títol del blog ha canviat diverses vegades des de llavors.
+## Contacte
 
-- [La vista cansada?](/2013/11/24/la-vista-cansada.html) (el perquè del títol d'aquest blog)
+<a rel="me" href="mailto:carles@carlesbellver.net">Email</a> |
+<a rel="me" href="https://telegram.me/carlesbellver">Telegram</a> |
+<a rel="me" href="https://twitter.com/carlesbellver">Twitter</a> |
+<a rel="me" href="https://mastodon.social/@carlesbellver">Mastodon</a>
+
+## Blog
+
+Els primers apunts són de [2002](/2002/09/29/joan-francesc-mira.html) i [2003](/2003/02/01/la-finestra-de.html), tot i que el títol del blog ha canviat diverses vegades des de llavors.
+
+- [El perquè del títol d'aquest blog](/2013/11/24/la-vista-cansada.html)
 
 ## Drets d'autor
 
@@ -21,10 +30,3 @@ La majoria dels textos i moltes de les imatges publicats en aquest blog són obr
 Recordeu, en tot cas, que *sempre* cal citar l’autoria i la font originals (article 14 LPI). Com m’hauríeu de citar? Amb el meu nom i cognoms i un enllaç al meu web: [Carles Bellver Torlà](http://carlesbellver.net).
 
 Pel que fa als textos i imatges d’altres autors o autores que hagi utilitzat, es tracta de citacions, o són obres de domini públic o que s’han publicat amb llicències de Creative Commons, o altres llicències obertes, que autoritzen aquest ús. Sempre procure citar l’autoria i la font originals, incloent un enllaç quan és possible.
-
-## Contacte
-
-- <a rel="me" href="mailto:carles@carlesbellver.net">Email</a>
-- <a rel="me" href="https://telegram.me/carlesbellver">Telegram</a>
-- <a rel="me" href="https://twitter.com/carlesbellver">Twitter</a>
-- <a rel="me" href="https://mastodon.social/@carlesbellver">Mastodon</a>

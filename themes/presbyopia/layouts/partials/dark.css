@@ -2,6 +2,9 @@
 --bg-color: #111;
 --content-bg-color: #111; /* #191919; */
 
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
 --link-color:#599ada;
 --link-state-color:#ff5858;
 --link-state-border-color: rgba(238, 54, 54, 0.5);

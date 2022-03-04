@@ -6,7 +6,7 @@ function downloadArchive() {
     if (this.readyState == 4 && this.status == 200) {
       archive_results = JSON.parse(this.responseText);
       var results_node = document.getElementById("list_results");
-      results_node.innerHTML = "<p style=\"text-align: center;\">Introduïu els termes de la cerca.</p>";
+      results_node.innerHTML = "<p>Introduïu els termes de la cerca.</p>";
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);
@@ -25,6 +25,7 @@ function runSearch(q) {
     for (var i = 0; i < archive_results.items.length; i++) {
       score = 0;
       var item = archive_results.items[i];
+      var url = item.url();
       var title_lower = item.title.toLowerCase();
       var tags_lower = item.tags.toLowerCase();
       var text_lower = item.content_text.toLowerCase();
@@ -41,6 +42,9 @@ function runSearch(q) {
       }
       for (let i = 0; i < terms.length; i++) {
         if (terms[i].length > 3) {
+          if (url.includes(terms[i])) {
+            score += 10;
+          }
           if (title_lower.includes(terms[i])) {
             score += 10;
           }

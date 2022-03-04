@@ -3,7 +3,7 @@
 }
 
 form.search {
-  text-align: center;  
+  text-align: left;  
 }
 
 form input {
@@ -16,7 +16,7 @@ form input {
 	font-weight: 400;
 	border: 2px solid #eee;
 	padding-left: 12px;
-	margin-top: 20px;
+	margin-top: 0;
 	background-color: #fff;
 	margin-bottom: 0;
 	-webkit-appearance: none;

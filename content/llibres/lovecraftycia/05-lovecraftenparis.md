@@ -1,0 +1,27 @@
++++
+title = "Lovecraft en París: “Con Poe, en sueños”"
+description = "¿Es verdad que Jacques Bergier preguntó a Lovecraft cómo conocía tan bien la atmósfera de París? ¿Le contestó Lovecraft que había estado allí en un sueño, en compañía de Poe? ¿O fue todo obra de la imaginación de Bergier?"
+date = "2008-04-01"
+image = "cover_medium.jpg"
++++
+Este episodio figura en casi todas las biografías de Lovecraft. Tras resumir el argumento de "La música de Erich Zann", Sprague de Camp añade: "Cuando alguien le preguntó a Lovecraft, que nunca había salido al extranjero, cómo pudo describir tan bien la atmósfera de París, él contestó que sí había estado allí: en un sueño, en compañía de Poe."
+
+El misterioso interlocutor que interrogaba a Lovecraft no es otro que Jacques Bergier, y la fuente de la anécdota era precisamente el prefacio que este autor francés, experto en ciencia-ficción, escribió para una de las primeras antologías de relatos de Lovecraft que se publicaban en Francia (*Démons et merveilles*, 1955). El texto en cuestión se titulaba "H. P. Lovecraft, ese gran genio venido de otra parte" y se reeditó posteriormente, ampliado, en el primer número de la revista *Planète* (1961).
+
+Leamos lo que decía Bergier literalmente:
+
+> Cuando le escribí [a Lovecraft] para felicitarlo por haber descrito un barrio poco conocido de París en "La música de Erich Zann" (un cuento que, desgraciadamente, aún no ha sido traducido al francés), al preguntarle si había visitado alguna vez París, él me respondió: "Con Poe, en sueños" (*With Poe, in a dream*).
+
+En realidad, Lovecraft no hace nunca explícita la localización geográfica del susodicho relato, sino que habla en él en todo momento de "la ciudad", en abstracto. Solamente alguna alusión al idioma, y el nombre de la calle donde se desarrolla la trama, la "Rue d’Auseil", apuntan a una urbe francófona. Pero difícilmente aquel río tenebroso de "hedores malignos" le trae a uno a la mente el Sena. Algunos lectores han creído ver más bien en la descripción de las callejuelas angostas y empinadas, surcadas por raíles, una referencia a Ginebra. La información proporcionada por Bergier sería, pues, el origen único de la conexión de "Erich Zann" con París.
+
+El caso es que el otro biógrafo canónico de Lovecraft, S. T. Joshi, encuentra muy poco creíble todo este asunto, básicamente porque la supuesta correspondencia entre Bergier y Lovecraft no se conserva. Admite, claro está, que las cartas pudiesen desaparecer, pero le parece harto sospechoso que Lovecraft no mencionase nunca a ninguno de sus amigos la insólita circunstancia —que sin duda habría sido grata para él— de contar con un joven corresponsal en Francia. Al menos no consta que lo hiciese. Y, por otra parte, es cierto que Bergier fue célebre por su carácter fabulador y por una tendencia irresistible a adornar y *mejorar* sus historias. No obstante, sí es un hecho comprobable que *Weird Tales* publicó sendas cartas de Bergier dedicadas a Lovecraft, la primera en marzo de 1936 ("De un lector francés") y la segunda en septiembre de 1937 ("De un entusiasta francés"). En esta última, lloraba la muerte del escritor de Providence, acaecida tan solo unos meses antes. Es decir, al menos se puede dar por cierto que lo seguía y apreciaba su obra ya en aquellos años, aún en vida de Lovecraft.
+
+Resulta, en cambio, menos conocido que Bergier da en su autobiografía (*Je ne suis pas une légende*, Retz, 1977) algunos detalles adicionales acerca de cómo entró en contacto con Lovecraft. Así, nos cuenta que a partir de 1928 había acumulado una buena cantidad de revistas de *pulp* norteamericanas —*Argosy*, *All Story*—, que se vendían de saldo en cierta librería del bulevar Saint-Michel, procedentes de los paquetes que la American Legion distribuyese años atrás entre los combatientes y excombatientes de la Primera Guerra Mundial. Gracias a esta literatura barata e imaginativa encontró, nos dice, "una razón para vivir" en medio de sus tristes circunstancias materiales. Más adelante, escudriñó la biblioteca del liceo en el que estudiaba en busca de libros semejantes. No encontró nada de Abraham Merrit ni de Edgar Rice Burroughs, a los que leería más tarde, pero efectuó otro descubrimiento ya igualmente feliz: una famosa antología de cuentos de miedo compilada por Dashiell Hammett.
+
+> Descubrí sin embargo la antología de Dashiell Hammett, *Creeps By Night*, con un relato de Lovecraft, "La música de Erich Zann". Escribí inmediatamente a Lovecraft por medio de Dashiell Hammett.
+
+En un capítulo posterior, Bergier indica el año en que habría sucedido esto: 1932. Y, más interesante aún, nos aclara a qué barrio de París se refería exactamente: la Halle aux Cuirs, en la margen izquierda (y el río no sería entonces el Sena, sino su afluente el Bièvre).
+
+> Este barrio extraño tenía en la época un olor muy característico: a residuos de cuero. Se veían, también, calles en las que la luz no penetraba jamás, ya que las casas que se encontraban a uno y otro lado de aquellas callejuelas casi se tocaban. Me sorprendió mucho constatar que Lovecraft había descrito este barrio hacia 1925 y le escribí, en 1932, para preguntarle si había visitado París. Recibí esta respuesta desconcertante: "Con Poe, en sueños." No he podido dar ninguna explicación racional: jamás se ha descrito, que yo sepa, una clarividencia extendida hasta los olores percibidos al otro lado del Atlántico.
+
+Juzguen ustedes si estos datos hacen más verosímil, o no, la cuestión del intercambio epistolar entre Lovecraft y Bergier.

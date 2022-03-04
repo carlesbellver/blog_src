@@ -34,9 +34,21 @@ summary {
     display: block;
 }	
 
+.common-header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 0;
+  background-color: var(--menu-bg-color);
+  color: var(--menu-color);
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+}
+
 .container {
-    max-width: 600px;
-    margin: 0 auto;
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 0;
 }
 
 main {
@@ -50,11 +62,15 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 24px;
+  font-size: 2em;
 }
 
 h2 {
-    font-size: 16px;
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
 }
 
 /* Links */
@@ -175,6 +191,7 @@ blockquote {
 }
 
 blockquote:before {
+    z-index: -10;
     display: block;
     font-size: 500%;
     color: #999;
@@ -237,7 +254,7 @@ header img.avatar {
   width: 24px;
   height: 24px;
   border: 0;
-  border-radius: 5px;
+  border-radius: 12px;
 }
 
 header a {
@@ -262,7 +279,7 @@ header h2 {
 
 header nav {
     display: block;
-    margin: 1em 0;
+    margin: 10px;
     font-size: 16px;
     max-width: 100%;
     text-align: left;
@@ -281,12 +298,18 @@ header nav a:first-of-type {
     white-space: nowrap;
 }
 
-.common-header {
-    margin: 2em 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-}
-
 /* Pages */
+
+h1.blog-title {
+  margin: 1em 0;
+  padding: 10px 0 0;
+  font-family: Georgia, serif;
+  font-size: 2em;
+  font-weight: bold;
+  text-transform: none;
+  line-height: 1.2em;
+  text-align: left;
+}
 
 h1.post-title {
   margin: 0 0 1em 0;
@@ -298,7 +321,7 @@ h1.post-title {
   text-align: left;
 }
 
-article h2 {
+h2 {
   margin: 1em 0 0;
   font-family: Georgia, serif;
   font-size: 1.5em;
@@ -308,7 +331,7 @@ article h2 {
   text-align: left;
 }
 
-article h3 {
+h3 {
   margin: 0 0 1em 0;
   font-family: Georgia, serif;
   font-size: 1.25em;
@@ -326,7 +349,7 @@ article h3 {
 
 main article {
   margin: 0;
-  padding: 1em 0;
+  padding: 10px 0;
   border-radius: 5px;
   border-bottom: 1px solid var(--hr-color);
   background: var(--content-bg-color);
@@ -378,6 +401,11 @@ article header h1 a {
   font-size: 16px;
   text-transform: uppercase;
   color: var(--post-info-color);
+}
+
+.note i, .note em {
+  font-style: normal;
+  font-weight: bold;
 }
 
 .license {
@@ -454,7 +482,7 @@ article header h1 a {
     text-transform: uppercase;
 }
 
-article img {
+.index-content img, article img {
     max-width: 100%;
     display: block;
     height: auto;
@@ -615,6 +643,7 @@ ul.language-select > li, ul.footer-menu > li {
 
 /* Media Queries */
 
+/*
 @media screen and (max-width: 480px) {
   img {
     max-width: 100% !important;
@@ -648,7 +677,6 @@ ul.language-select > li, ul.footer-menu > li {
         text-align: center;
     }
 
-/*
     header nav:not(:empty){
         background: var(--pagination-bg-color);
         margin-top: 1em;
@@ -664,7 +692,6 @@ ul.language-select > li, ul.footer-menu > li {
     header nav a {
         margin-left: 5%;
     }
-*/
 
     .post-navigation {
         background: var(--pagination-bg-color);
@@ -681,3 +708,4 @@ ul.language-select > li, ul.footer-menu > li {
     }
 }
 
+*/

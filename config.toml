@@ -30,22 +30,34 @@ DefaultContentLanguage = "ca"
 [menu]
 
   [[menu.main]]
+    identifier = "llibres"
+    name = "Llibres"
+    url = "/llibres/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "onthisday"
     name = "Tal dia com avui"
     url = "/onthisday/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "photos"
     name = "Fotos"
     url = "/photos/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "search"
     name = "Cercar"
     url = "/search/"
-    weight = 4
+    weight = 5
     
 [outputFormats]
 

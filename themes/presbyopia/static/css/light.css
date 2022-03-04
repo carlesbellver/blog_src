@@ -3,6 +3,9 @@
     --bg-color: #fff /* #f0f0f0; */
     --content-bg-color: #fff;
 
+    --menu-color: #333;
+    --menu-bg-color: #f0f0f0;
+
     --link-color:#990000;
     --link-state-color:#990000;
     --link-state-border-color: rgba(153, 0, 0, 1);
