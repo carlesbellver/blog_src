@@ -19,4 +19,4 @@ Una altra d'aquelles peces, "Exercici literari", resultava, potser, geogràficam
 
 > Retorno al lloc des d'on Diana veié, per primera vegada, la mar Morta. Les aigües són com mercuri; és difícil banyar-s'hi. Tristos són els paratges d'aquesta mar salada.
 
-<a title="Matson Collection [Public domain]" href="https://commons.wikimedia.org/wiki/File:Floating_in_the_Dead_Sea_LCCN2002706898.jpg"><img alt="Floating in the Dead Sea" src="https://blog.carlesbellver.net/uploads/2020/baa306d540.jpg"></a>
+<a title="Matson Collection [Public domain]" href="https://commons.wikimedia.org/wiki/File:Floating_in_the_Dead_Sea_LCCN2002706898.jpg"><img alt="Floating in the Dead Sea" src="/uploads/2020/baa306d540.jpg"></a>

@@ -11,4 +11,4 @@ Philip K. Dick solia consultar l'[I Ching](https://ca.wikipedia.org/wiki/Yijing)
 
 <!-- Philip K. Dick used to query the I Ching. The thing is, I prefer the Oblique Strategies by Brian Eno and Peter Schmidt, so I’ve spent some time implementing them on this handheld microconsole. It’s like carrying on a small oracle. -->
 
-<img alt="Arduboy handheld microconsole" style="width:600px;height:600px;" src="https://blog.carlesbellver.net/uploads/2020/a3b9424db8.jpg">
+<img alt="Arduboy handheld microconsole" style="width:600px;height:600px;" src="/uploads/2020/a3b9424db8.jpg">
