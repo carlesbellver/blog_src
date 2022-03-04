@@ -8,8 +8,8 @@ ErrorDocument 500 /500.html
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule ^about$ info [L]
-RewriteRule ^tmp/list$ tmp/tmp.php?op=list [L]
-RewriteRule ^tmp/([0-9a-z]+)$ tmp/tmp.php?tmpid=$1 [L]
+RewriteRule ^tmp/list$ http://tmp.carlesbellver.net/tmp.php?op=list [L]
+RewriteRule ^tmp/([0-9a-z]+)$ http://tmp.carlesbellver.net/tmp.php?tmpid=$1 [L]
 RewriteRule ^wilbur/([0-9]+)$ https://apps.carlesbellver.net/humus/humus.php?web=$1 [L]
 RewriteRule ^bookmark/([0-9]+)$ https://apps.carlesbellver.net/humus/bm.php?b=$1 [L]
 RewriteRule ^2/([0-9A-Za-z\.-]+)$ https://apps.carlesbellver.net/shrtn/shrtn.php?u=$1 [L]
