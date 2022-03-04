@@ -48,7 +48,7 @@ summary {
 .container {
   max-width: 600px;
   margin: 100px auto;
-  padding: 0;
+  padding: 0 10px;
 }
 
 main {
@@ -631,9 +631,7 @@ ul.language-select > li, ul.footer-menu > li {
 }
 
 .theme-switcher {
-    float: right;
     position: relative;
-    top: 5px;
     cursor: pointer;
     color: var(--switcher-color);
     background: var(--switcher-bg-color);
