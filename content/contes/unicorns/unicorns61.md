@@ -2,13 +2,12 @@
 title = "Adéu-siau"
 description = "He lliurat el nou telegrama i he marxat amb una reverència mentre el conciliàbul s’informava."
 date = "2019-10-01"
-emoji = "2620"
-prev = "unicorns60"
-next = "unicorns62"
 license = "by-nc"
 url = "contes/unicorns/unicorns61"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/2620.svg" />
 
 Tres colpets suaus a la porta de la sala de professorat vella de l’ala nord —la més discreta—, una pausa i tres colpets més. Sense tardar m’han demanat que passés. Sabia que m’esperaven. He lliurat el nou telegrama i he marxat amb una reverència mentre el conciliàbul s’informava.
 
@@ -21,4 +20,5 @@ M’he aturat un moment a fora per escoltar les primeres reaccions, abans de tor
 —Que els caldrà una bona corda per penjar-se dels salzes. O una ampolla de cianur.
 
 —A veure si aquesta vegada se’n fan l’ànim.
+
 

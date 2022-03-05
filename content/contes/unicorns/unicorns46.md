@@ -2,13 +2,12 @@
 title = "Empori celestial"
 description = "El llibre era, no en tingueu cap dubte, aquell famós “Empori celestial de coneixements benèvols” que tants rius de tinta ha fet córrer."
 date = "2018-12-19"
-emoji = "1f4da"
-prev = "unicorns45"
-next = "unicorns47"
 license = "by-nc"
 url = "contes/unicorns/unicorns46"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f4da.svg" />
 
 —El llibre era, no en tingueu cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.
 
@@ -31,4 +30,5 @@ tags = ["contes"]
 —Una altra citació dubtosa.
 
 (Els hauria pogut explicar que així em sentia exactament cada dia, com si la resta de la gent i jo —o cadascú— visquéssim en mons diferents. I cap fos real.)
+
 

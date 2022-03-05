@@ -2,14 +2,13 @@
 title = "Amour fou"
 description = "Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans."
 date = "2020-04-25"
-emoji = "1f942"
 css = ".page h1 { font-style: italic; }"
-prev = "unicorns44"
-next = "unicorns46"
 license = "by-nc"
 url = "contes/unicorns/unicorns45"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f942.svg" />
 
 —Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans. Així que tot el que en pugui dir s’hauria de posar entre parèntesis.
 
@@ -30,4 +29,5 @@ tags = ["contes"]
 —Quin tros d’idiota.
 
 —I encara en podia ser més. Dimarts s’havia refet i estava segur que ella va fingir, que es va portar *com una puta* només per desplaure’l i que la deixés estar. No em coneix, va dir, no em rendiré tan fàcilment.
+
 

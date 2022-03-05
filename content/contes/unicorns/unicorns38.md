@@ -2,13 +2,12 @@
 title = "Un farsant"
 description = "La millor cartografia de Mart continua sent aquesta."
 date = "2020-04-25"
-emoji = "1f52d"
-prev = "unicorns37"
-next = "unicorns39"
 license = "by-nc"
 url = "contes/unicorns/unicorns38"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f52d.svg" />
 
 —Els mapes de Schiaparelli van ser una temptativa notable, però la millor cartografia de Mart continua sent aquesta. I les imatges de la sonda Viking no han fet més que confirmar-ho.
 
@@ -23,4 +22,5 @@ Em van cridar l’atenció, als marges, les inscripcions en un alfabet desconegu
 Vaig observar els noms a la carpeta: Sagan i Hoagland. I la data: juny de 1958. Molt abans que la NASA hi enviés un coet.
 
 —Bé, un d’ells no era més que un farsant. Un manifasser.
+
 

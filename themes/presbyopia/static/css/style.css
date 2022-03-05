@@ -493,6 +493,13 @@ article header h1 a {
     border-radius: 5px;
 }
 
+img.emoji {
+  display: block;
+  margin: 1em auto;
+  width: auto;
+  height: 100px;
+}
+
 article figcaption {
     color: grey;
     text-align: center;

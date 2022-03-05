@@ -2,14 +2,13 @@
 title = "L’enfer, c’est les autres"
 description = "Una foto que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li."
 date = "2018-11-20"
-emoji = "1f6ae"
 css = ".page h1 { font-style: italic; }"
-prev = "unicorns01"
-next = "unicorns03"
 license = "by-nc"
 url = "contes/unicorns/unicorns02"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f6ae.svg" />
 
 Els cabells esbullats, els llavis pintats i un gran somriure. Feia vent, aquell matí. Aquesta foto seva, una mica borrosa, l’única que tenia i que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li. La va examinar amb interès i em va demanar qui era.
 
@@ -22,4 +21,5 @@ Era evident que només es podia referir a les dues —o tres— posteriors, a qu
 Li vaig arrabassar la foto i vaig marxar, ho sé, amb un excés de teatralitat. Un parell de carrers més enllà, abans del riu, em vaig adonar que també li havia pres el llibre i el vaig llençar en una paperera. Adéu-siau, Jean-Paul Sartre.
 
 I bé, doncs, continuem.
+
 

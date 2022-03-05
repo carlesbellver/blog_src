@@ -2,13 +2,12 @@
 title = "Una eternitat"
 description = "Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final."
 date = "2018-12-27"
-emoji = "1f9df"
-prev = "unicorns58"
-next = "unicorns60"
 license = "by-nc"
 url = "contes/unicorns/unicorns59"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f9df.svg" />
 
 Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.
 
@@ -41,4 +40,5 @@ Comptava mentalment. Com voleu que compti un mort? Amb els dits no pot.
 —Quaranta, si més no.
 
 —Una eternitat.
+
 

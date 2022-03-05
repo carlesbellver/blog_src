@@ -2,13 +2,12 @@
 title = "Teràpia"
 description = "L’addicció a l’escriptura ha estat inclosa en les classificacions de trastorns mentals de l'OMS i l'APA."
 date = "2020-04-25"
-emoji = "1fa7a"
-prev = "unicorns49"
-next = "unicorns51"
 license = "by-nc"
 url = "contes/unicorns/unicorns50"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1fa7a.svg" />
 
 —Continues escrivint?
 
@@ -29,4 +28,5 @@ Es va estarrufar.
 —Justament això intente evitar. A més d’una vulgaritat, seria senyal que no tinc remei. Qualsevol pot escriure una novel·la, com podràs comprovar a la primera llibreria de barri que trobis. Et confessaré que vaig estar a punt de caure en la temptació, però m’hi vaig saber resistir.
 
 —I la part del beure, com la portes?
+
 

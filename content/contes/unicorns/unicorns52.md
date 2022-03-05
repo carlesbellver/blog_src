@@ -2,13 +2,12 @@
 title = "Clark Nova"
 description = "Mentre teclejava el text d'ahir, un representant de màquines d'escriure ensenyava a Rice el seu últim model."
 date = "2020-04-25"
-emoji = "2328"
-prev = "unicorns51"
-next = "unicorns53"
 license = "by-nc"
 url = "contes/unicorns/unicorns52"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/2328.svg" />
 
 Mentre teclejava el text d’ahir, un representant de màquines d’escriure ensenyava a Rice el seu últim model.
 
@@ -19,4 +18,5 @@ Passava la mà per damunt de les tecles, com si les acaronés. Aquell giny tenia
 —No hi ha res a fer —va dir Rice—. El futur pertany als ordinadors.
 
 A la nit no podia dormir. Sentia que algú m’observava. Em vaig alçar i em vaig abocar a la finestra. A baix, entre els salzes, el representant m’aguaitava. Portava la màquina sota el braç, dins de la seva funda.
+
 

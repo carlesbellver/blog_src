@@ -2,13 +2,12 @@
 title = "Gramàtica teòrica"
 description = "Recorde que la idea em va parèixer massa infantil, impròpia de la seva edat, fins i tot comptant que tenia un any menys que jo."
 date = "2018-12-07"
-emoji = "1f4d4"
-prev = "unicorns20"
-next = "unicorns22"
 license = "by-nc"
 url = "contes/unicorns/unicorns21"
 tags = ["contes"]
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f4d4.svg" />
 
 —T’ensenyaré un llenguatge secret.
 
@@ -25,4 +24,5 @@ Aquesta nit, va dir, compondrem cadascun un missatge i demà l’altre intentar�
 Crec que dubtava que jo m’estigués prenent l’estudi prou seriosament i em posava a prova. Li vaig escriure una carta d’amor. Ella va redactar una convocatòria d’una cèl·lula clandestina. El seu germà, aleshores, pertanyia a una organització comunista. Més endavant va ser confident de la policia. Nosaltres, en fi.
 
 Amb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.
+
 
