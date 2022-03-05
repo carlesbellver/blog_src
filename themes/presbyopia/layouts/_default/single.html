@@ -7,6 +7,15 @@
         </nav>
     {{ end }}
     
+    {{ if .Parent }}
+      {{ if and (ne .Parent.Name "Posts") (ne .Parent.Name .Site.Title) }}
+        <nav class="post-navigation">
+          <a  href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
+        </nav>
+      {{ end }}
+    {{ end }}
+    
+
     <article class="post{{ range $tag := .Params.tags }} {{ $tag }}{{end }} h-entry">
       {{ if .Title -}}
       <header class="post-header">

@@ -367,11 +367,14 @@ article:last-of-type {
 }
 
 .post-navigation {
-    background: var(--pagination-bg-color);
-    text-align: center;
-    margin-top: 1em;
-    max-width: 100%;
-    padding: 0.5em 0;
+  background: var(--bg-color);
+  text-align: left;
+  margin-top: 1em;
+  max-width: 100%;
+  padding: 0.5em 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
 }
 
 .post-navigation a:first-of-type {
@@ -598,7 +601,7 @@ article iframe {
     padding-top: 1.5em;
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 16px;
-    color: var(--post-info-color);
+    color: var(--font-color);
 }
 
 .common-footer-bottom {
