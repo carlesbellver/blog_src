@@ -3,7 +3,7 @@ url = "/2020/02/07/la-galeria-subterrnia.html"
 title = ""
 date = "2020-02-07T12:33:23+00:00"
 slug = "la-galeria-subterrnia"
-tags = ["fotos", "fotos", "UJI"]
+tags = ["fotos", "UJI"]
 photos = ["/uploads/2020/e645377a12.jpg"]
 +++
 
