@@ -8,7 +8,7 @@ image = "cover_medium.jpg"
 template = "llibre"
 +++
 
-<img src="/llibres/uncelnouiunaterranova/cover_medium.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
+<img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
 Premi de narrativa breu Josep Pascual Tirado 2015.
 

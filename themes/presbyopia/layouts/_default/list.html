@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{ if .Parent }}
-      {{ if and (ne .Parent.Name "Posts") (ne .Parent.Name .Site.Title) }}
+      {{ if and (ne .Parent.Name "Posts")  (ne .Parent.Name .Site.Title) }}
         <nav class="post-navigation">
           <a  href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
         </nav>

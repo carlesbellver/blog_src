@@ -7,7 +7,7 @@ image = "cover_medium.jpg"
 template = "llibre"
 +++
 
-<img src="/llibres/lavidacanina/cover_medium.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
+<img src="/llibres/lavidacanina/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
 Premi de narrativa Vila d’Almassora 2004.
 

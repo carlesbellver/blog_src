@@ -382,7 +382,7 @@ article:last-of-type {
 }
 
 .post-navigation a {
-    color: var(--pagination-link-color);
+    color: var(--link-color);
     margin-left: 2em;
 }
 
