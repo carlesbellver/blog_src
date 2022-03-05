@@ -12,8 +12,7 @@ Seixanta-quatre exercicis d'estil: de la comèdia de costums a la fantasia orien
 
 [EPUB](/files/unicorns.epub) | 
 [Kindle](/files/unicorns.mobi) | 
-[PDF](/files/unicorns.pdf) | 
-[HTML](unicorns)
+[PDF](/files/unicorns.pdf)
 
 [Proemi](unicorns00)
 

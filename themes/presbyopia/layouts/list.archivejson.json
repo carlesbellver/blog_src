@@ -5,7 +5,7 @@
 	"home_page_url": "{{ .Site.BaseURL }}",
 	"feed_url": "{{ .Site.BaseURL }}archive/index.json",
 	"items": [
-		{{- $list := (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
+		{{- $list := (where site.RegularPages "Type" "in" site.Params.indexSections) -}}
 		{{- $len := (len $list) -}}
 		{{ range $index, $value := $list }}
 			{
@@ -13,7 +13,7 @@
 				"date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
 				"url": "{{ .Permalink }}",
 				"tags": "{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}",
-				"content_text": {{ .Plain | jsonify }}
+				"content_text": {{ .Plain | truncate 1000 | jsonify }}
 			}
 			{{- if ne (add $index 1) $len -}},{{- end -}}
 		{{ end }}

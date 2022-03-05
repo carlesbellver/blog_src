@@ -20,6 +20,7 @@ DefaultContentLanguage = "ca"
   paginationSinglePost = false
   style = "light"
   readMore = false
+  indexSections = ["posts", "contes", "llibres", "tallers"]
   
 [permalinks]
   posts = "/:year/:month/:day/:slug"
@@ -36,28 +37,34 @@ DefaultContentLanguage = "ca"
     weight = 1
 
   [[menu.main]]
+    identifier = "contes"
+    name = "Contes"
+    url = "/contes/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "onthisday"
     name = "Tal dia com avui"
     url = "/onthisday/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "photos"
     name = "Fotos"
     url = "/photos/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "search"
     name = "Cercar"
     url = "/search/"
-    weight = 5
+    weight = 6
     
 [outputFormats]
 
