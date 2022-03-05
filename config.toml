@@ -20,6 +20,7 @@ DefaultContentLanguage = "ca"
   paginationSinglePost = false
   style = "light"
   readMore = false
+  mainSections = ["posts"]
   indexSections = ["posts", "contes", "llibres", "tallers"]
   
 [permalinks]

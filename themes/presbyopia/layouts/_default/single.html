@@ -8,10 +8,12 @@
     {{ end }}
     
     {{ if .Parent }}
-      {{ if and (ne .Parent.Name "Posts") (ne .Parent.Name .Site.Title) }}
-        <nav class="post-navigation">
-          <a  href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
-        </nav>
+      {{ if ne .Parent.Name .Site.Title }}
+        {{ if ne .Parent.Name "Posts" }}
+          <nav class="post-navigation"><a  href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a></nav>
+        {{ else }}
+          <nav class="post-navigation"><a  href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a></nav>
+        {{ end }}
       {{ end }}
     {{ end }}
     
