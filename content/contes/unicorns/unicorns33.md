@@ -7,6 +7,8 @@ css = ".page h1 { font-style: italic; }"
 prev = "unicorns32"
 next = "unicorns34"
 license = "by-nc"
+url = "contes/unicorns/unicorns33"
+tags = ["contes"]
 +++
 
 *Years and years* eren els mots finals que m’havien quedat gravats quan em vaig tornar a despertar.
@@ -20,3 +22,4 @@ O no era llum, sinó una forma més elaborada de foscor.
 Tenia, en resum, un pressentiment sobre la seva identitat.
 El ressò d’un nom que evocava les piràmides i els espais interestel·lars em ballava pel cap, i en una altra època m’hauria rigut de la pueril superstició que m’impedia pronunciar-lo.
 Però reconec —per més que em faci vergonya— que ara no gosaria dir-lo en veu alta, ni escriure’l en aquest full en lletres majúscules.
+

@@ -6,6 +6,8 @@ emoji = "1f9df"
 prev = "unicorns58"
 next = "unicorns60"
 license = "by-nc"
+url = "contes/unicorns/unicorns59"
+tags = ["contes"]
 +++
 
 Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.
@@ -39,3 +41,4 @@ Comptava mentalment. Com voleu que compti un mort? Amb els dits no pot.
 —Quaranta, si més no.
 
 —Una eternitat.
+

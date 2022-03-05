@@ -6,6 +6,8 @@ emoji = "1fa7a"
 prev = "unicorns49"
 next = "unicorns51"
 license = "by-nc"
+url = "contes/unicorns/unicorns50"
+tags = ["contes"]
 +++
 
 —Continues escrivint?
@@ -27,3 +29,4 @@ Es va estarrufar.
 —Justament això intente evitar. A més d’una vulgaritat, seria senyal que no tinc remei. Qualsevol pot escriure una novel·la, com podràs comprovar a la primera llibreria de barri que trobis. Et confessaré que vaig estar a punt de caure en la temptació, però m’hi vaig saber resistir.
 
 —I la part del beure, com la portes?
+

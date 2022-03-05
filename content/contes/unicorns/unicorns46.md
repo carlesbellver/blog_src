@@ -6,6 +6,8 @@ emoji = "1f4da"
 prev = "unicorns45"
 next = "unicorns47"
 license = "by-nc"
+url = "contes/unicorns/unicorns46"
+tags = ["contes"]
 +++
 
 —El llibre era, no en tingueu cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.
@@ -29,3 +31,4 @@ license = "by-nc"
 —Una altra citació dubtosa.
 
 (Els hauria pogut explicar que així em sentia exactament cada dia, com si la resta de la gent i jo —o cadascú— visquéssim en mons diferents. I cap fos real.)
+

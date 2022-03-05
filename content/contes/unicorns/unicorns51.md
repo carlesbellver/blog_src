@@ -7,6 +7,8 @@ css = ".page h1 { font-style: italic; }"
 prev = "unicorns50"
 next = "unicorns52"
 license = "by-nc"
+url = "contes/unicorns/unicorns51"
+tags = ["contes"]
 +++
 
 —Grace B. M. Hopper, oficial de marina i professora a Harvard, va ser la primera a identificar un insecte com a origen dels errors d’un ordinador. L’arna que pertorbava el funcionament del Mark II es conserva al Naval Surface Warfare Center de Dahlgren, Virgínia.
@@ -20,3 +22,4 @@ license = "by-nc"
 —Sense menystenir mai el potencial creatiu del caos. L’ARPA recull aquesta mena d’insectes des de 1958. Els experiments han confirmat que provoquen respostes inesperades també en cervells humans, no sols electrònics. Alliberen la imaginació en tots els camps del pensament, l’acció i les arts.
 
 (No hauria calgut esperar que, després d’esmerçar dues setmanes a informar-se i debatre sobre ordinadors, arribessin a conclusions d’allò més convencionals.)
+

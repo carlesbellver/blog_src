@@ -6,6 +6,8 @@ emoji = "1f573"
 prev = "unicorns36"
 next = "unicorns38"
 license = "by-nc"
+url = "contes/unicorns/unicorns37"
+tags = ["contes"]
 +++
 
 S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
@@ -19,3 +21,4 @@ S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 —No ho has entès? Necessàriament cal que hi hagi un secret, que no ens hagin contat com és de debò que hem vingut a parar ací. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teva repugnant concepció.
 
 —Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz vingui a penetrar-la i se n’emporti el tresor més ben guardat.
+

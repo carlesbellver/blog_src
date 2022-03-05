@@ -6,6 +6,8 @@ emoji = "1f984"
 prev = "unicorns61"
 next = "unicorns63"
 license = "by-nc"
+url = "contes/unicorns/unicorns62"
+tags = ["contes"]
 +++
 
 La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres. En vam parlar a la nit, en tornar a l’hotel.
@@ -25,3 +27,4 @@ La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la S
 —De vegades em desconcertes. De debò que no veig on vols anar a parar.
 
 Enlloc, sens dubte. Només es tractava d’una maniobra de distracció desesperada.
+

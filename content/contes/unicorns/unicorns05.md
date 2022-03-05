@@ -6,6 +6,8 @@ emoji = "1f577"
 prev = "unicorns04"
 next = "unicorns06"
 license = "by-nc"
+url = "contes/unicorns/unicorns05"
+tags = ["contes"]
 +++
 
 —El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston vaig veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York ha detingut un pintor bohemi, al Village, per espantar els veïns amb el seu cocodril.
@@ -27,3 +29,4 @@ license = "by-nc"
 —La dona de fer feines va plegar i no pot aconseguir una substituta. El passadís, darrere del vestíbul, era ple d’immundícia. No caldrà que us digui que no vaig passar del llindar.
 
 —Algú hauria de fer alguna cosa, senyors.
+

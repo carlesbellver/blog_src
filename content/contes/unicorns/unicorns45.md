@@ -7,6 +7,8 @@ css = ".page h1 { font-style: italic; }"
 prev = "unicorns44"
 next = "unicorns46"
 license = "by-nc"
+url = "contes/unicorns/unicorns45"
+tags = ["contes"]
 +++
 
 —Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans. Així que tot el que en pugui dir s’hauria de posar entre parèntesis.
@@ -28,3 +30,4 @@ license = "by-nc"
 —Quin tros d’idiota.
 
 —I encara en podia ser més. Dimarts s’havia refet i estava segur que ella va fingir, que es va portar *com una puta* només per desplaure’l i que la deixés estar. No em coneix, va dir, no em rendiré tan fàcilment.
+
