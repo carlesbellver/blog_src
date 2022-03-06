@@ -15,12 +15,6 @@ Carles Bellver Torlà (Castelló de la Plana, 1967).
 <a rel="me" href="https://twitter.com/carlesbellver">Twitter</a> |
 <a rel="me" href="https://mastodon.social/@carlesbellver">Mastodon</a>
 
-## Blog
-
-Els primers apunts són de [2002](/2002/09/29/joan-francesc-mira.html) i [2003](/2003/02/01/la-finestra-de.html), tot i que el títol del blog ha canviat diverses vegades des de llavors.
-
-- [El perquè del títol d'aquest blog](/2013/11/24/la-vista-cansada.html)
-
 ## Drets d'autor
 
 D’acord amb la [Ley de Propiedad Intelectual](https://boe.es/buscar/act.php?id=BOE-A-1996-8930) espanyola (RDL 1/1996, de 12 d’abril), la propietat intel·lectual d’una obra literària, artística o científica correspon a l’autor pel sol fet d’haver-la creada (article 1). La reproducció, distribució, comunicació pública i transformació de l’obra no es podran realitzar sense permís de l’autor (article 17).

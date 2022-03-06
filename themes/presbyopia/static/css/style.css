@@ -272,7 +272,8 @@ header h1 {
 
 header h2 {
     font-size: 0.9em;
-    margin: 0;
+    margin-top: 1em;
+    margin-bottom: 0;
     font-weight: normal;
     text-transform: uppercase;
 }
@@ -332,7 +333,7 @@ h2 {
 }
 
 h3 {
-  margin: 0 0 1em 0;
+  margin: 1em 0 0;
   font-family: Georgia, serif;
   font-size: 1.25em;
   font-weight: bold;
