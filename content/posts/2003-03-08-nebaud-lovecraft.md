@@ -2,6 +2,7 @@
 title = "Nebaud amb Lovecraft"
 date = "2003-03-08T21:00:00+00:00"
 slug = "nebaud-lovecraft"
+tags = ["contes"]
 +++
 
 En la seva biografia d'H. P. Lovecraft, l'erudit [S. T. Joshi](http://stjoshi.org/) nega tres vegades que Jacques Bergier hagués conegut realment el solitari de Providence. No cal que ens estranyem, doncs, que ni tan sols esmente l'ubic i elusiu B. J. Nebaud.

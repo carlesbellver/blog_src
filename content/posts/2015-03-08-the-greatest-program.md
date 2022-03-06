@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [The greatest program ever written](http://thad.frogley.info/archive/the_greatest_program.html)
 
-1K chess on the ZX81. Those furious, exciting 8-bit days, when the limitations defined the experience of programming.
+Escacs en el Sinclair ZX81. En 1 KB de RAM! Els dies furiosos i excitants dels vuit bits, quan les limitacions del maquinari definien l'experiència de la programació.
 
