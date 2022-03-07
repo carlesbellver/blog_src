@@ -8,7 +8,6 @@ tags = ["retalls"]
 
 📎 [From hard drive to over-heard drive: Boffins convert spinning rust into eavesdropping mic](https://www.theregister.co.uk/2019/03/07/hard_drive_eavesdropping/)
 
-Un equip d'investigació ha provat que es pot utilitzar la vibració dels components mecànics d'un disc dur per a enregistrar i transcriure la veu humana. És a dir, qualsevol conversa prop de l'ordinador. Més motius per a la paranoia. I per a canviar tots els discos per unitats d'estat sòlid.
+Un equip d'investigació ha provat que el so ambient fa vibrar els components mecànics dels discos durs, i que analitzant aquestes vibracions es pot enregistrar i transcriure la veu humana: és a dir, qualsevol conversa prop de l'ordinador. Més motius per a la paranoia. I per a canviar tots els discos per unitats d'estat sòlid.
 
 > Aquests micròfons no intencionats capten la parla amb la suficient fidelitat perquè el servei Shazam reconegui una cançó.
-
