@@ -19,7 +19,7 @@ Inventari provisional, actualització permanent. Publicació continuada a [Faceb
 10. *Platges de boira*
 11. *Vermell fosc*
 12. *Prop de la lluna*
-13. *Traficant l'eternitat* (maig a novembre de 2019)
+13. *Traficant l’eternitat* (maig a novembre de 2019)
 14. *Breu Quadern de Blaves Solituds, Petites Desolacions i Rebel·lies Quotidianes* (novembre de 2019)
 15. *Reexilis* (gener de 2020)
 16. *Trànsits* (agost de 2020)
