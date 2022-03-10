@@ -5,9 +5,9 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color:#599ada;
---link-state-color:#ff5858;
---link-state-border-color: rgba(238, 54, 54, 0.5);
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
