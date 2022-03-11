@@ -5,7 +5,7 @@ date = "2016-03-13T23:00:00+00:00"
 slug = "el-somni-atribut"
 +++
 
-<img src="https://3.bp.blogspot.com/-TD9XnPWP8nw/UbAipXuib-I/AAAAAAAAI0g/ajd4RmYc6L0/s400/generalaranda.jpg" />
+<img src="https://3.bp.blogspot.com/-TD9XnPWP8nw/UbAipXuib-I/AAAAAAAAI0g/ajd4RmYc6L0/s400/generalaranda.jpg" style="width:100%;" />
 
 Ja sabeu que la segona part del meu últim llibre, [*Un cel nou i una terra nova*](https://carlesbellver.net/llibres/uncelnouiunaterranova/), es titula “Set somnis d’escriptors i un d’una escriptora”. I que l’escriptora al·ludida és precisament [Maria Folch](http://blocs.mesvilaweb.cat/marieta/), a qui vaig demanar que em presentés el llibre a Castelló el desembre passat. Aquell vespre, com és natural, ella va fer referència a aquest breu conte, “La ràbia roja”, subtitulat “Maria Folch i la basarda del general”, on havia estat involuntàriament involucrada. I va explicar al públic com va ser l’origen del text, a partir d’un episodi que ella esmentava breument en la seva novel·la [*Després vénen els anys*](http://www.drassana.net/#!product/prd13/3163417081/despr%C3%A9s-v%C3%A9nen-els-anys-%C2%B7-maria-folch) i d’un intercanvi de correus que vam tenir. Podeu llegir-ho cap al final de la [transcripció](/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova) del seu parlament.
 
