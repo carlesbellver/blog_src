@@ -1,6 +1,6 @@
 +++
 url = "/2018/03/14/ai-is-about.html"
-title = "La intel·ligència artificial consisteix a dissociar la resolució de problemes de qualsevol necessitat de ser intel·ligent"
+title = ""
 date = "2018-03-14T18:15:00+00:00"
 slug = "ai-is-about"
 tags = ["retalls","citacions"]

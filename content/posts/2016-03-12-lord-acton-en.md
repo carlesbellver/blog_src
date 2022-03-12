@@ -6,7 +6,7 @@ slug = "lord-acton-en"
 tags = ["retalls","citacions"]
 +++
 
-<a href="https://commons.wikimedia.org/wiki/File%3APicture_of_John_Dalberg-Acton,_1st_Baron_Acton.jpg#/media/File:Picture_of_John_Dalberg-Acton,_1st_Baron_Acton.jpg"><img id="foto:johndalberg-acton1stbaronacton" src="http://carlesbellver.micro.blog/uploads/2019/2618d98add.jpg" alt="Foto: John Dalberg-Acton, 1st Baron Acton" title="John Dalberg-Acton, 1st Baron Acton" /></a>
+<a href="https://commons.wikimedia.org/wiki/File%3APicture_of_John_Dalberg-Acton,_1st_Baron_Acton.jpg#/media/File:Picture_of_John_Dalberg-Acton,_1st_Baron_Acton.jpg"><img src="/uploads/2019/2618d98add.jpg" alt="Foto: John Dalberg-Acton, 1st Baron Acton" title="John Dalberg-Acton, 1st Baron Acton" /></a>
 
 > El poder tendeix a corrompre, i el poder absolut corromp absolutament. Els grans *homes* són quasi sempre *homes* malvats.
 

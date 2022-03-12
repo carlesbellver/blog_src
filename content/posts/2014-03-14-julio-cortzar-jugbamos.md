@@ -1,6 +1,6 @@
 +++
 url = "/2014/03/14/julio-cortzar-jugbamos.html"
-title = "Julio Cortázar: jugábamos en serio"
+title = "Jugar en serio"
 date = "2014-03-14T23:00:00+00:00"
 slug = "julio-cortzar-jugbamos"
 tags = ["citacions"]
