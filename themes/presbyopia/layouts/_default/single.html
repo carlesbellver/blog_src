@@ -1,27 +1,6 @@
 {{ define "main" }}
-    {{ if .Menus }}
-        <nav class="post-navigation">
-        {{ range .Menus }}
-            <a  href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
-        {{ end }}
-        </nav>
-    {{ end }}
     
-    {{ if or .Parent (gt .ReadingTime 2) }}
-      <nav class="post-navigation">
-        {{ if .Parent }}
-          {{ if and (ne .Parent.Name .Site.Title) (ne .Parent.Name "Tmps") }}
-            {{ if ne .Parent.Name "Posts" }}
-              <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
-            {{ else }}
-              <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a>
-            {{ end }}
-          {{ end }}
-          {{ if gt .ReadingTime 2 }}<span class="readingtime">🕐 {{ .ReadingTime }} minuts</span>{{ end }}
-        {{ end }}
-      </nav>
-    {{ end }}
-    
+    {{ partial "postNavigation.html" . }}
 
     <article class="post{{ range $tag := .Params.tags }} {{ $tag }}{{end }} h-entry">
       {{ if .Title -}}
