@@ -2,7 +2,7 @@
 title = "Wishful thinking"
 description = "Es deia Asenath i els seus ulls massa clars, lleugerament sortints, no parpellejaven mai. Era, evidentment, oceanògrafa."
 date = "2019-10-01"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns39"
 tags = ["contes"]

@@ -2,7 +2,7 @@
 title = "Amour fou"
 description = "Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans."
 date = "2020-04-25"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns45"
 tags = ["contes"]

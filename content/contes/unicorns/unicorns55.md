@@ -2,7 +2,7 @@
 title = "Die Grundlosigkeit"
 description = "Li havien arribat reports de les excavacions de l’Institut Urusvati, en una vall als contraforts occidentals de l’Himàlaia. Un enclavament arqueològic d’una riquesa extraordinària."
 date = "2019-10-01"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns55"
 tags = ["contes"]

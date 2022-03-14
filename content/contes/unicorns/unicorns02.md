@@ -2,7 +2,7 @@
 title = "L’enfer, c’est les autres"
 description = "Una foto que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li."
 date = "2018-11-20"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns02"
 tags = ["contes"]

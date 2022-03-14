@@ -2,7 +2,7 @@
 title = "Bugs"
 description = "Grace B. M. Hopper, oficial de Marina i professora a Harvard, va ser la primera a identificar un insecte com a origen dels errors d'un ordinador."
 date = "2020-04-25"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns51"
 tags = ["contes"]

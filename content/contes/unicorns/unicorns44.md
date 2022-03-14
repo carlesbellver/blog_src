@@ -2,7 +2,7 @@
 title = "Le diable me suit de jour et de nuit car il a peur d’être seul"
 description = "M’inspirava un tendre amor platònic. Però el torrent dels somnis, brusc i impetuós, tendia a ser d’un to molt més lúbric que els meus sentiments."
 date = "2018-12-18"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns44"
 tags = ["contes"]

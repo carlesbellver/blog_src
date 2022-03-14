@@ -2,7 +2,7 @@
 title = "Do you long for her, or for the way you were?"
 description = "En un sol full, em va traçar un perfil psicològic més acurat que el que m’hagués pogut fer cap professional fins llavors."
 date = "2018-11-29"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns11"
 tags = ["contes"]

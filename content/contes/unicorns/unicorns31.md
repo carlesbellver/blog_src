@@ -2,7 +2,7 @@
 title = "Longer distance calling"
 description = "“Continuï parlant amb els seus éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en cercles de classe alta."
 date = "2018-12-12"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns31"
 tags = ["contes"]

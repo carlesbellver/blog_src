@@ -2,7 +2,7 @@
 title = "Ghosting"
 description = "Per al gran públic, Arkham i el seu college serien tan reals com Yoknapatawpha o Macondo."
 date = "2019-10-01"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns18"
 tags = ["contes"]

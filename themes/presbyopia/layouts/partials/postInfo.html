@@ -5,7 +5,9 @@
 
 <div class="post-info">
     {{ if .Params.date }}
-        <a class="u-url" href="{{ .RelPermalink }}"><div class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</div></a> <ul class="post-tags">{{ range $tag := .Params.tags }}<li><a href="/tags/{{ $tag | urlize }}">#{{ $tag }}</a></li> {{ end }}</ul>
+        <a class="u-url" href="{{ .RelPermalink }}"><div class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</div></a>
+        <ul class="post-tags">{{ range $tag := .Params.tags }}<li><a href="/tags/{{ $tag | urlize }}">#{{ $tag }}</a></li> {{ end }}</ul>
+        {{ if gt .ReadingTime 2 }}<span class="readingtime">🕐 {{ .ReadingTime }} minuts</span>{{ end }}
     {{ end }}
     {{ partial "license.html" . }}
 </div>

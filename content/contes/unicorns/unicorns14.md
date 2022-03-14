@@ -2,7 +2,7 @@
 title = "L’ultimo appello è da dimenticare"
 description = "Per no saber dir que no, vaig acabar involucrat en la representació d’una escena medieval."
 date = "2018-12-01"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns14"
 tags = ["contes"]

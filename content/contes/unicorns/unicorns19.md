@@ -2,7 +2,7 @@
 title = "Rue d’Auseil"
 description = "L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada americana."
 date = "2018-12-05"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns19"
 tags = ["contes"]

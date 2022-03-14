@@ -2,7 +2,7 @@
 title = "Reverse-charge call"
 description = "Un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar."
 date = "2018-12-13"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns32"
 tags = ["contes"]

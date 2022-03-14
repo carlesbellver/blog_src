@@ -2,7 +2,7 @@
 title = "Nomen sacrum"
 description = "Un nom que no gosaria pronunciar en veu alta, ni escriure en aquest full en lletres majúscules."
 date = "2020-04-25"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns33"
 tags = ["contes"]

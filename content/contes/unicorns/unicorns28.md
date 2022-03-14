@@ -2,7 +2,7 @@
 title = "Et date illi honorem"
 description = "Un caos reptant que infectava l’ordre incipient de les constel·lacions i impedia que prosperés aquell cosmos embrionari."
 date = "2018-12-10"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns28"
 tags = ["contes"]

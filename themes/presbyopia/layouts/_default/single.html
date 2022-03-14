@@ -7,14 +7,19 @@
         </nav>
     {{ end }}
     
-    {{ if .Parent }}
-      {{ if ne .Parent.Name .Site.Title }}
-        {{ if ne .Parent.Name "Posts" }}
-          <nav class="post-navigation"><a  href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a></nav>
-        {{ else }}
-          <nav class="post-navigation"><a  href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a></nav>
+    {{ if or .Parent (gt .ReadingTime 2) }}
+      <nav class="post-navigation">
+        {{ if .Parent }}
+          {{ if and (ne .Parent.Name .Site.Title) (ne .Parent.Name "Tmps") }}
+            {{ if ne .Parent.Name "Posts" }}
+              <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
+            {{ else }}
+              <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a>
+            {{ end }}
+          {{ end }}
+          {{ if gt .ReadingTime 2 }}<span class="readingtime">🕐 {{ .ReadingTime }} minuts</span>{{ end }}
         {{ end }}
-      {{ end }}
+      </nav>
     {{ end }}
     
 

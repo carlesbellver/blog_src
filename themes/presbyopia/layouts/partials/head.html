@@ -43,3 +43,9 @@
 {{ with .File }}<meta name="page-source-path" content="{{ .Path }}">{{end }}
 
 {{ partial "head-extra.html" . }}
+
+{{ if .Params.titleIt }}
+<style type="text/css">
+  h1.post-title { font-style: italic; }
+</style>
+{{ end }}

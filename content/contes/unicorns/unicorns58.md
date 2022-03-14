@@ -2,7 +2,7 @@
 title = "I remember Spain"
 description = "Va tornar a elogiar l’heroisme dels marines i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència."
 date = "2018-12-26"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns58"
 tags = ["contes"]

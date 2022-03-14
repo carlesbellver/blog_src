@@ -2,7 +2,7 @@
 title = "Je ne sais pas si vous vous souvenez de moi"
 description = "Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom."
 date = "2018-12-29"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns63"
 tags = ["contes"]

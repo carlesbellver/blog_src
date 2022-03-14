@@ -2,7 +2,7 @@
 title = "Logisch-Philosophische Abhandlung"
 description = "Això sí que és un llibre rar i no aquella fotesa del Necronomicon."
 date = "2018-11-30"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns13"
 tags = ["contes"]

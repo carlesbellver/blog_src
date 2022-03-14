@@ -2,7 +2,7 @@
 title = "Das Schnurren"
 description = "Aquesta nit he somniat que anava a la Fira de Frankfurt i m’entrevistava un repòrter d’una revista alemanya de gossos, Mein Hund & Ich."
 date = "2018-12-02"
-css = ".page h1 { font-style: italic; }"
+titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns15"
 tags = ["contes"]
