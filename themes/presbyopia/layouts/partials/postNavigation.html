@@ -7,7 +7,7 @@
           {{ else if eq .Parent.Name "Posts" }}
             <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a>
           {{ else if eq .Parent.Name "Tmps" }}
-            Esborrany
+            Esborrany privat
           {{ else }}
             <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
           {{ end }}
