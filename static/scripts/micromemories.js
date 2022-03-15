@@ -76,7 +76,7 @@ xhr.onreadystatechange = function(e) {
       postList = renderNoContent()
     } else {
       xhr.response.items.forEach(function(post) {
-        if (post.date_published.search("-"+preferredDate) != -1) {
+        if (post.url.match(/\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\//) && post.date_published.search("-"+preferredDate) != -1) {
           postList = postList + renderPost(post)
         }
       });

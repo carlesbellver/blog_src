@@ -7,7 +7,7 @@
     {{ if .Params.date }}
       <li>📅 <a class="u-url" href="{{ .RelPermalink }}"><span class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</span></a></li>
       {{ if .Params.tags }}
-      <li><ul class="post-tags">{{ range $tag := .Params.tags }}<li>🏷 <a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a></li> {{ end }}</ul></li>
+      <li><ul class="post-tags">{{ range $tag := .Params.tags }}<li>🏷 {{ if eq $tag "fotos" }}<a href="/photos/">Fotos</a>{{ else }}<a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>{{ end }}</li> {{ end }}</ul></li>
       {{ end }}
       {{ if gt .ReadingTime 2 }}<li><span class="readingtime">🕐 {{ .ReadingTime }} minuts</span>{{ end }}</li>
     {{ end }}
