@@ -5,7 +5,7 @@ title = "La vista cansada"
 theme = "presbyopia"
 publishDir = "public"
 uglyurls = false
-summaryLength = 100
+summaryLength = 50
 DefaultContentLanguage = "ca"
 
 [params]
@@ -19,7 +19,7 @@ DefaultContentLanguage = "ca"
   GitHubUser = "carlesbellver"
   paginationSinglePost = false
   style = "light"
-  readMore = false
+  readMore = true
   mainSections = ["posts"]
   indexSections = ["posts", "contes", "llibres", "tallers"]
   

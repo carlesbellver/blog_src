@@ -9,7 +9,9 @@
       {{ if .Params.tags }}
       <li><ul class="post-tags">{{ range $tag := .Params.tags }}<li>🏷 {{ if eq $tag "fotos" }}<a href="/photos/">Fotos</a>{{ else }}<a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>{{ end }}</li> {{ end }}</ul></li>
       {{ end }}
-      {{ if gt .ReadingTime 2 }}<li><span class="readingtime">🕐 {{ .ReadingTime }} minuts</span>{{ end }}</li>
+      {{ if gt .ReadingTime 2 }}<li><span class="readingtime">🕐 {{ .ReadingTime }} minuts</span></li>{{ end }}
+      {{- if or .Params.license (eq .Type "tmp") -}}<li>©️ Copyright {{ .Params.date.Format "2006" }} {{ .Site.Params.author }}</li>{{- end}}
     {{ end }}
 </ul>
+
     {{ partial "license.html" . }}

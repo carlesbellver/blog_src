@@ -424,6 +424,10 @@ article header h1 a {
   font-weight: bold;
 }
 
+.special .license {
+  display: none;
+}
+
 .license {
   margin: 1em 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;

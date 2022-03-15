@@ -9,16 +9,14 @@
         {{ else }}
           {{ .Content | safeHTML }}
         {{ end }}
+        <div class="read-more">
+            <a href="{{ .RelPermalink }}">{{ i18n "readMore" | humanize }}</a>
+        </div>
       </div>      
     {{ else }}
       <div class="content post-summary{{ range $tag := .Params.tags }} {{ $tag }}{{end }}">
         {{ partial "ht_content.html" . }}
       </div>
-    {{ end }}
-    {{ if and (.Truncated) (.Site.Params.readMore) }}
-        <div class="read-more">
-            <a href="{{ .RelPermalink }}">{{ i18n "readMore" | humanize }}</a>
-        </div>
     {{ end }}
     
     {{ partial "postInfo.html" . }}
