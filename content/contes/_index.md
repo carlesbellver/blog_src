@@ -6,7 +6,7 @@ description = "Contes de Carles Bellver Torlà."
 Alguns contes solts.
 
 - [*Unicorns*](unicorns) (improvisacions en 1.024 caràcters)
-- [“Una història subterrània”](unahistoriasubterrania)
+- [“Una història subterrània”](/tmp/32ec15b3dede/)
 - [“El drac i la garsa”](setsomnis/dunsanymorella) (d'*Un cel nou i una terra nova*)
 - [“La vista cansada”](lavistacansada) (de *La nit mil dos*)
 - [“L'automàtica”](automatica) (de *Parèntesi*)
