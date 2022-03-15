@@ -1,5 +1,5 @@
 <nav>
-  {{ if (.Site.Params.avatar) }}<a href="{{ .Site.BaseURL }}about"><img class="avatar" src="{{ .Site.Params.avatar }}"></a>{{ end }}
+  {{ if (.Site.Params.avatar) }}<a href="{{ .Site.BaseURL }}about"><img alt="Avatar" class="avatar" src="{{ .Site.Params.avatar }}"></a>{{ end }}
   <a href="{{ .Site.BaseURL }}about">{{ .Site.Params.author }}</a>
   {{ if .Site.Menus.main }}
     {{ $currentPage := . }}

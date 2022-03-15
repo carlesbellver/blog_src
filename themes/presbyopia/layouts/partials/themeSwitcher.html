@@ -4,9 +4,7 @@
 {{ end }}
 
 {{ if not (in (slice "light-without-switcher" "dark-without-switcher" "auto-without-switcher") $style) }}
-    <a><button class="theme-switcher">
-        {{ i18n "darkTheme" | humanize }}
-    </button></a>
+    <a class="theme-switcher">{{ i18n "darkTheme" | humanize }}</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
