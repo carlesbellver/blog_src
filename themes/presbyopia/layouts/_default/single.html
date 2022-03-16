@@ -1,8 +1,9 @@
 {{ define "main" }}
     
-    {{ partial "postNavigation.html" . }}
-
     <article class="post{{ range $tag := .Params.tags }} {{ $tag }}{{end }} h-entry">
+
+      {{ partial "postNavigation.html" . }}
+
       {{ if .Title -}}
       <header class="post-header">
         <h1 class="post-title">{{ trim .Title  " " }}</h1>

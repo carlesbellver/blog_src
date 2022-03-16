@@ -1,7 +1,7 @@
     {{ if or (and .Parent (ne .Parent.Name .Site.Title)) (gt .ReadingTime 2) }}
       <ul class="post-navigation">
         {{ if .Parent }}
-          <li>🗄
+          <li>📁
           {{ if eq .Parent.Name .Site.Title }}
             <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a></li>
           {{ else if eq .Parent.Name "Posts" }}

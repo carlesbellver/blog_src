@@ -350,7 +350,7 @@ h3 {
 
 main article {
   margin: 0;
-  padding: 25px 0;
+  padding: 10px 0;
   border-bottom: 1px solid var(--hr-color);
   background: var(--bg-color);
 }
@@ -365,6 +365,10 @@ main article.special {
   border-radius: 0;
   background: var(--bg-color);
   border-radius: 0;
+}
+
+main article .content {
+  margin: 10px 0;
 }
 
 /* main article .content {
@@ -412,7 +416,7 @@ main article .content:after {
 }
 
 .post-navigation a {
-    color: var(--link-color);
+    color: var(--post-info-color);
     margin-right: 1em;
 }
 
@@ -472,7 +476,7 @@ article header h1 a {
 
 .post-info {
     margin: 0;
-    padding: 10px 0;
+    padding: 20px 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 15px;
     color: var(--post-info-color);
