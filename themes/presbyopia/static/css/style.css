@@ -232,7 +232,7 @@ p {
 
 hr {
     height: 0;
-    margin: 1em 0;
+    margin: 10px 0;
     border-top: 1px solid var(--hr-color);
 }
 
@@ -303,7 +303,7 @@ header nav a:first-of-type {
 
 h1.blog-title {
   margin: 1em 0;
-  padding: 10px 0 0;
+  padding: 0;
   font-family: Georgia, serif;
   font-size: 2em;
   font-weight: bold;
@@ -343,16 +343,16 @@ h3 {
 }
 
 .post-short-list:first-of-type {
-    margin-top: 1em;
+    margin-top: 10px;
 }
 
 /* Articles */
 
 main article {
   margin: 0;
-  padding: 10px 0;
-  border-bottom: 1px solid var(--hr-color);
   background: var(--bg-color);
+  border-bottom: 2px dashed var(--hr-color);
+  padding: 10px 0;
 }
 
 article:last-of-type {
@@ -395,9 +395,9 @@ main article .content:after {
 .post-navigation {
   background: var(--bg-color);
   text-align: left;
-  margin-top: 1em;
+  margin-top: 10px;
   max-width: 100%;
-  padding: 0.5em 0;
+  padding: 5px 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 15px;
   text-transform: uppercase;
@@ -412,12 +412,12 @@ main article .content:after {
 
 .post-navigation li {
   display: inline;
-  margin: 0 1em 0 0;
+  margin: 0 10px 0 0;
 }
 
 .post-navigation a {
     color: var(--post-info-color);
-    margin-right: 1em;
+    margin-right: 10px;
 }
 
 .readingtime {
@@ -437,7 +437,7 @@ article header h1 a {
 }
 
 .note {
-  margin: 0 0 1em;
+  margin: 0 0 10px;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 15px;
   text-transform: uppercase;
@@ -454,7 +454,7 @@ article header h1 a {
 }
 
 .license {
-  margin: 1em 0;
+  margin: 10px 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 15px;
   color: var(--post-info-color);
@@ -492,7 +492,7 @@ article header h1 a {
 
 .post-info li {
   display: inline;
-  margin: 0 1em 0 0;
+  margin: 0 10px 0 0;
   padding: 0;
 }
 
@@ -521,7 +521,7 @@ article header h1 a {
 
 .post-categories li {
     display: inline;
-    margin-right: 1em;
+    margin-right: 10px;
 }
 
 .post-tags {
@@ -532,7 +532,7 @@ article header h1 a {
 }
 
 .reply-by-email {
-    margin-left: 1em;
+    margin-left: 10px;
     text-transform: uppercase;
 }
 
@@ -540,13 +540,13 @@ article header h1 a {
     max-width: 100%;
     display: block;
     height: auto;
-    margin: 1em auto;
+    margin: 10px auto;
     border-radius: 5px;
 }
 
 img.emoji {
   display: block;
-  margin: 1em auto;
+  margin: 10px auto;
   width: auto;
   height: 100px;
 }
@@ -564,7 +564,7 @@ article iframe {
 }
 
 .read-more {
-    margin: 1em 0;
+    margin: 10px 0;
 }
 
 .divider {
@@ -573,11 +573,11 @@ article iframe {
     height: 1px;
     border: 0;
     width: 25%;
-    margin: 1em auto;
+    margin: 10px auto;
 }
 
 .post-summary {
-    margin-top: 0.5em;
+    margin-top: 5px;
     display: block;
 }
 
@@ -622,7 +622,7 @@ article iframe {
 
 .pagination-item {
     background: var(--pagination-bg-color);
-    padding: 0.5em 0.5em;
+    padding: 5px;
     border-radius: 5px;
 }
 
