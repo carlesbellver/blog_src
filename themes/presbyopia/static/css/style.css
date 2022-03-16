@@ -350,22 +350,43 @@ h3 {
 
 main article {
   margin: 0;
-  padding: 10px 0;
-  border-radius: 5px;
+  padding: 25px 0;
   border-bottom: 1px solid var(--hr-color);
-  background: var(--content-bg-color);
+  background: var(--bg-color);
 }
 
 article:last-of-type {
   border-bottom: 0;
 }
 
- main article.special {
+main article.special {
   border: 0;
   padding: 0;
   border-radius: 0;
   background: var(--bg-color);
+  border-radius: 0;
 }
+
+/* main article .content {
+  position: relative;
+  margin: 10px 0 40px;
+  background: var(--content-bg-color);
+  border: 1px solid var(--content-bg-color);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+main article .content:after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -25px;
+  left: 20px;
+  width: 0;
+  border-width: 25px 20px 0;
+  border-style: solid;
+  border-color: var(--content-bg-color) transparent;
+} */
 
 .post-navigation {
   background: var(--bg-color);
@@ -450,8 +471,8 @@ article header h1 a {
 }
 
 .post-info {
-    margin: 1em 0;
-    padding: 0;
+    margin: 0;
+    padding: 10px 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 15px;
     color: var(--post-info-color);
