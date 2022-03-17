@@ -404,6 +404,12 @@ main article .content:after {
   color: var(--post-info-color);
 }
 
+.post-navigation img {
+  display: inline;
+  margin: 0 0 -5px 0;
+  padding: 0;
+}
+
 .post-navigation ul {
   display: inline;
   margin: 0;
@@ -454,20 +460,22 @@ article header h1 a {
 }
 
 .license {
-  margin: 10px 0;
+  margin: -10px 0 0 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 15px;
   color: var(--post-info-color);
+  text-transform: uppercase;
 }
 
 .license img {
   display: inline !important;
-  margin: 8px 0 0 !important;
+  margin: 0 !important;
   width: 100px;
+  border-radius: 0;
 }
 
 .license p {
-  margin: 0 !important;
+  margin: 0 0 10px 0;
 }
 
 .license a {
@@ -481,6 +489,12 @@ article header h1 a {
     font-size: 15px;
     color: var(--post-info-color);
     text-transform: uppercase;
+}
+
+.post-info img {
+  display: inline;
+  margin: 0 0 -5px 0;
+  padding: 0;
 }
 
 .post-info ul {
