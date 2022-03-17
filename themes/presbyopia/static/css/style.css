@@ -281,7 +281,7 @@ header h2 {
 header nav {
     display: block;
     margin: 10px;
-    font-size: 15px;
+    font-size: 14px;
     max-width: 100%;
     text-align: left;
 }
@@ -399,15 +399,9 @@ main article .content:after {
   max-width: 100%;
   padding: 5px 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   text-transform: uppercase;
   color: var(--post-info-color);
-}
-
-.post-navigation img {
-  display: inline;
-  margin: 0 0 -5px 0;
-  padding: 0;
 }
 
 .post-navigation ul {
@@ -445,7 +439,7 @@ article header h1 a {
 .note {
   margin: 0 0 10px;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   text-transform: uppercase;
   color: var(--post-info-color);
 }
@@ -462,16 +456,22 @@ article header h1 a {
 .license {
   margin: -10px 0 0 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   color: var(--post-info-color);
   text-transform: uppercase;
 }
 
+img.icon {
+  display: inline;
+  margin: 0 0 -5px 0;
+  padding: 0;
+}
+
 .license img {
-  display: inline !important;
+  /* display: inline !important;
   margin: 0 !important;
   width: 100px;
-  border-radius: 0;
+  border-radius: 0; */
 }
 
 .license p {
@@ -486,15 +486,9 @@ article header h1 a {
     margin: 0;
     padding: 20px 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-    font-size: 15px;
+    font-size: 14px;
     color: var(--post-info-color);
     text-transform: uppercase;
-}
-
-.post-info img {
-  display: inline;
-  margin: 0 0 -5px 0;
-  padding: 0;
 }
 
 .post-info ul {
@@ -550,7 +544,7 @@ article header h1 a {
     text-transform: uppercase;
 }
 
-.index-content img, article img {
+article .content img {
     max-width: 100%;
     display: block;
     height: auto;
@@ -558,7 +552,7 @@ article header h1 a {
     border-radius: 5px;
 }
 
-img.emoji {
+article .content img.emoji {
   display: block;
   margin: 10px auto;
   width: auto;
@@ -631,7 +625,7 @@ article iframe {
     margin-top: 3em;
     text-align: center;   
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;    justify-content: space-between;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .pagination-item {
@@ -672,7 +666,7 @@ article iframe {
     margin-top: 3em;
     padding-top: 1.5em;
     font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-    font-size: 15px;
+    font-size: 14px;
     color: var(--font-color);
 }
 
