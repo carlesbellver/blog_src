@@ -26,8 +26,12 @@ DefaultContentLanguage = "ca"
 [permalinks]
   posts = "/:year/:month/:day/:slug"
 
-[markup.goldmark.renderer]
-  unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = false
+    [markup.goldmark.renderer]
+      unsafe = true
   
 [menu]
 
