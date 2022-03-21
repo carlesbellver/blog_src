@@ -4,7 +4,7 @@ title = ""
 date = "2019-04-02T17:35:06+00:00"
 slug = "tiempos-modernos-horas"
 photos = ["/uploads/2019/7fb3118d5d.jpg"]
-tags = ["fotos", "UJI", "fotos"]
+tags = ["fotos", "UJI"]
 +++
 
 Tiempos modernos, horas serenas y almas interiores. Biblioteca #UJI.

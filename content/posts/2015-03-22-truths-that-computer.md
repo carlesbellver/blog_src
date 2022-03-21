@@ -14,7 +14,7 @@ tags = ["retalls"]
 >  4. Programming is thinking, not typing.
 >  5. Counting starts from zero, not one.
 >  6. Programming is best done “in the zone” — a (pleasant) state of mind where your focus on the task is absolute and everything seems easy.
->  7.Sleeping with a problem, can actually solve it.
+>  7. Sleeping with a problem, can actually solve it.
 >  8. A parent may kill its children if the task assigned to them is no longer needed.
 >  9. Just as you’re usually not impressed when we brag about how much we know about computers, we’re not impressed when you brag about how little you know about them.
 
