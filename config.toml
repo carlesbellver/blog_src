@@ -70,9 +70,15 @@ DefaultContentLanguage = "ca"
     name = "Cercar"
     url = "/search/"
     weight = 6
-    
-[outputFormats]
 
+[mediaTypes]
+  [mediaTypes.'text/markdown']
+    suffixes = ['md']
+        
+[outputFormats]
+  [outputFormats.Markdown]
+    isPlainText = true
+    mediaType = 'text/markdown'
   [outputFormats.RSS]
     baseName = "feed"
   [outputFormats.JSON]
@@ -101,8 +107,9 @@ DefaultContentLanguage = "ca"
 		baseName = "index"
 		isPlainText = true
 		notAlternative = true
-
+    
 	[outputs]
 	  home = [ "HTML", "RSS", "JSON", "ArchiveHTML", "ArchiveJSON", "PhotosJSON" ]
 	  page = [ "HTML" ]
 	  section = [ "HTML" ]
+

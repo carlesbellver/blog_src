@@ -3,7 +3,8 @@
 }
 
 form.search {
-  text-align: left;  
+  margin: 1em 0;
+  text-align: left;
 }
 
 form input {

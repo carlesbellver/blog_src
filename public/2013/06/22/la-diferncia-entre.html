@@ -10,13 +10,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>La vista cansada :: La diferència entre Android i iOS</title>
+<title>Carles Bellver Torlà :: La diferència entre Android i iOS</title>
 <meta name="description" content="">
 
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646385094" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1648113366" />
 <style>
 
     [data-theme="dark"] {   
@@ -24,9 +24,12 @@
 --bg-color: #111;
 --content-bg-color: #111; /* #191919; */
 
---link-color:#599ada;
---link-state-color:#ff5858;
---link-state-border-color: rgba(238, 54, 54, 0.5);
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -50,7 +53,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646385094" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1648113366" />
 
 
 
@@ -63,22 +66,23 @@
 <link href="https://micro.blog/carlesbellver" rel="me">
 
 <meta name="og:title" content="La diferència entre Android i iOS"/>
-<meta property="og:description" content="La diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer wpa_supplicant_bgscan.db en /data/misc/wifi, esperar que es torni a crear i llavors canviar-li els permisos a read only. Tot això, després d’haver aconseguit privilegis de superusuari, és clar.
-És a dir, si et compres un telèfon Android t’estalvies uns centenars d’euros i, en canvi, guanyes moltes hores d’entreteniment i aprenentatge geek.
- talk.sonymobile.com/message/350299#350299 forum.xda-developers.com/showpost.php?p=36678863  " />
+<meta property="og:description" content="La diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer wpa_supplicant_bgscan.db en /data/misc/wifi, esperar que es torni a crear i llavors canviar-li els permisos a read only." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.carlesbellver.net/2013/06/22/la-diferncia-entre.html" /><meta property="article:published_time" content="2013-06-22T22:00:00+00:00" />
+<meta property="og:url" content="https://carlesbellver.net/2013/06/22/la-diferncia-entre.html" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/><meta property="article:published_time" content="2013-06-22T22:00:00+00:00" />
 <meta property="article:modified_time" content="2013-06-22T22:00:00+00:00" />
 
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
 <meta name="twitter:title" content="La diferència entre Android i iOS"/>
-<meta name="twitter:description" content="La diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer wpa_supplicant_bgscan.db en /data/misc/wifi, esperar que es torni a crear i llavors canviar-li els permisos a read only. Tot això, després d’haver aconseguit privilegis de superusuari, és clar.
-És a dir, si et compres un telèfon Android t’estalvies uns centenars d’euros i, en canvi, guanyes moltes hores d’entreteniment i aprenentatge geek.
- talk.sonymobile.com/message/350299#350299 forum.xda-developers.com/showpost.php?p=36678863  "/>
+<meta name="twitter:description" content="La diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer wpa_supplicant_bgscan.db en /data/misc/wifi, esperar que es torni a crear i llavors canviar-li els permisos a read only."/>
 
 
 
 
 <meta name="page-source-path" content="posts/2013-06-22-la-diferncia-entre.md">
+
+
 
 
     
@@ -88,91 +92,31 @@
     <header class="common-header"> 
       
         <nav>
+  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.netabout">Carles Bellver Torlà</a>
   
-  <a href="https://blog.carlesbellver.net/">La vista cansada</a>
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
   
-    
-    
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
-    
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
-    
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
-    
   
-</nav>
-
-      
-    </header>
-    <div class="container">
-        <main id="main" tabindex="-1"> 
-            
-    
-    
-    <article class="post h-entry">
-      <header class="post-header">
-        <h1 class="post-title">La diferència entre Android i iOS</h1>
-      </header>
-      
-      
-      
-      <div class="content e-content">
-                  
-          
-          
-            
-          
-          <p>La diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer <code>wpa_supplicant_bgscan.db</code> en <code>/data/misc/wifi</code>, esperar que es torni a crear i llavors canviar-li els permisos a <em>read only</em>. Tot això, després d’haver aconseguit privilegis de superusuari, és clar.</p>
-<p>És a dir, si et compres un telèfon Android t’estalvies uns centenars d’euros i, en canvi, guanyes moltes hores d’entreteniment i aprenentatge <em>geek</em>.</p>
-<ul>
-<li><a href="http://talk.sonymobile.com/message/350299#350299">talk.sonymobile.com/message/350299#350299</a></li>
-<li><a href="http://forum.xda-developers.com/showpost.php?p=36678863">forum.xda-developers.com/showpost.php?p=36678863</a></li>
-</ul>
-
-
-        
-      </div>
-        
-      
-
-
-<div class="post-info">
-    
-        <a class="u-url" href="https://blog.carlesbellver.net/2013/06/22/la-diferncia-entre.html"><div class="post-date dt-published">2013-06-22</div></a> <ul class="post-tags"></ul>
-    
-    
-
-
-
-</div>
-
-
-    </article>
-
-    
-
-
-        </main>
-        
-            <footer class="common-footer">
-    
-    
-
-    <div class="common-footer-bottom">
-        
-        <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
-        </div> 
-
-        
 
     
 
 
 
-    <button class="theme-switcher">
-        Tema fosc
-    </button>
+    <a class="theme-switcher">Tema fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -236,7 +180,93 @@
         changeButtonText()
     }
     </script>
-   
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li><img class="icon" src="https://carlesbellver.net/svg.icons/arrow-circle-up.svg" alt="up" />
+          
+            <a href="https://carlesbellver.net" title="La vista cansada">Blog</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">La diferència entre Android i iOS</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>La diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer <code>wpa_supplicant_bgscan.db</code> en <code>/data/misc/wifi</code>, esperar que es torni a crear i llavors canviar-li els permisos a <em>read only</em>. Tot això, després d’haver aconseguit privilegis de superusuari, és clar.</p>
+<p>És a dir, si et compres un telèfon Android t’estalvies uns centenars d’euros i, en canvi, guanyes moltes hores d’entreteniment i aprenentatge <em>geek</em>.</p>
+<ul>
+<li><a href="http://talk.sonymobile.com/message/350299#350299">talk.sonymobile.com/message/350299#350299</a></li>
+<li><a href="http://forum.xda-developers.com/showpost.php?p=36678863">forum.xda-developers.com/showpost.php?p=36678863</a></li>
+</ul>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net/svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/2013/06/22/la-diferncia-entre.html"><span class="post-date dt-published">2013-06-22</span></a></li>
+      
+      
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
     </div>
 </footer>
 
