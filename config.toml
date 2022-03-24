@@ -1,4 +1,4 @@
-baseURL = "https://carlesbellver.net/"
+baseURL = "https://carlesbellver.net"
 canonifyURLs = true
 languageCode = "ca-es"
 title = "La vista cansada"

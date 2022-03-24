@@ -3,7 +3,7 @@ url = "/2018/03/26/years-of-edtech.html"
 title = ""
 date = "2018-03-26T12:47:00+00:00"
 slug = "years-of-edtech"
-tags = ["retalls"]
+tags = ["retalls", "educació"]
 +++
 
 📎 [25 Years of EdTech: Learning objects](http://blog.edtechie.net/25yearsedtech/25-years-of-edtech-2000-learning-objects/)
