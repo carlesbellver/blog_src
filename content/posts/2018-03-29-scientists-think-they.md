@@ -8,5 +8,4 @@ tags = ["retalls"]
 
 📎 [Scientists think they found a new human organ—a fluid-filled “shock absorber”](https://arstechnica.com/science/2018/03/scientist-think-they-found-a-new-human-organ-a-fluid-filled-shock-absorber/)
 
-El descobriment encara s'ha de confirmar, però planteja moltes qüestions bàsiques sobre biologia.
-
+El descobriment encara s’ha de confirmar, però planteja moltes qüestions bàsiques sobre biologia.

@@ -1,6 +1,6 @@
 +++
 url = "/2017/03/28/lautonomia-absoluta-del.html"
-title = "L'autonomia (absoluta?) del text"
+title = "L’autonomia (absoluta?) del text"
 date = "2017-03-28T22:00:00+00:00"
 slug = "lautonomia-absoluta-del"
 +++

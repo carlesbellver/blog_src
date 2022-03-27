@@ -8,5 +8,4 @@ tags = ["retalls"]
 
 📎 [Why Porn on the Blockchain Won't Doom Bitcoin](https://www.wired.com/story/why-porn-on-the-blockchain-wont-doom-bitcoin/)
 
-> De la mateixa manera que pots escriure el que vulgues a la part de darrere d'un rebut, les cadenes de blocs et permeten escriure dades arbitràries juntament amb la teva transacció.
-
+> De la mateixa manera que pots escriure el que vulgues a la part de darrere d'un rebut, les cadenes de blocs et permeten escriure dades arbitràries adjuntes a la teva transacció.
