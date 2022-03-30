@@ -9,4 +9,3 @@ tags = ["retalls"]
 📎 [La no-llegenda de l’Espanya Negra](https://blocs.mesvilaweb.cat/xavierdiez/?p=270237)
 
 > La paradoxa és que, contràriament al relat que s’intenta imposar a l’opinió pública espanyola, hi ha escassos nacionalistes entre els catalans.
-

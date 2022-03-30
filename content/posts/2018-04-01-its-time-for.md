@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [It's Time For an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)
 
-> Cansats de Twitter? Fatigats per Facebook? És hora de tornar a l'RSS.
+> Cansats de Twitter? Fatigats per Facebook? És hora de tornar a l’RSS.
 
