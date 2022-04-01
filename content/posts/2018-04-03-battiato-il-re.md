@@ -8,5 +8,4 @@ tags = ["retalls"]
 
 📎 [Battiato: Il re del mondo](http://www.musicaememoria.com/Battiato-ReMondo.htm)
 
-> Nel 1979, Franco Battiato arriva per la prima volta con *L'era del cinghiale bianco* a quella sintesi tra musica pop, fruibile, e musica colta, temi profondi e ironia, che sono la sua cifra stilistica. “Il Re del mondo” è la canzone paradigmatica dell'album ed è una delle prime che tratta il tema delle illusioni nella vita dell'uomo, rifacendosi ad antichi miti esoterici.
-
+> L’any 1979, Franco Battiato arriba per primera vegada amb *L'era del cinghiale bianco* a aquella síntesi entre música pop —agradable— i música culta —temes profunds i ironia— que són el seu codi estilístic. “Il Re del mondo” és la cançó paradigmàtica del disc i és una de les primeres que tracta el tema de les il·lusions en la vida de l'home, amb referències a antics mites esotèrics.
