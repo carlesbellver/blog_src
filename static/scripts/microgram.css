@@ -19,7 +19,7 @@
   height: auto;
   margin: 1%;
   border-bottom: 0;
-  text-align: center;
+  text-align: left;
 }
 
 #microgram .photo {
@@ -27,12 +27,25 @@
   aspect-ratio: 1 / 1;
   width: 100%;
   height: auto;
-  margin 0 auto;
+  margin: 0 auto;
+  padding: 0;
   border-radius: 5px;
   background-size: cover;
   background-position: center;
   transition: all 200ms ease-in-out;
 }
+
+#microgram .photo span {
+  display: block;
+  margin: 0;
+  background-color: #333;
+  padding: 5px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  color: #ccc;
+  opacity: 0.75;
+}
+
 #microgram .photo:hover {
   cursor: pointer;
   opacity: 0.75;

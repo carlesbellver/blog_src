@@ -6,6 +6,6 @@ tags = ["Castelló", "fotos"]
 slug = "amor-lliure"
 +++
 
-Amor lliure (i feliç).
+L’amor lliure (i feliç).
 
 <img alt="Grafit en una paret: “Be lesbian” i un cor somrient" src="/uploads/2022/2022-04-01-amor-lliure.jpg">
