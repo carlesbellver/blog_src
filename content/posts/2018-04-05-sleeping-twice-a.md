@@ -10,3 +10,4 @@ tags = ["retalls"]
 
 > Un nou estudi detalla com al llarg de la història dormir en dues tongades cada nit era de fet la cosa més normal […] I què va canviar? Vam passar a una societat que valora la productivitat i l’eficiència massives per damunt de la salut personal.
 
+On diu “societat”, per entendre’ns millor, hauria de dir sistema econòmic.

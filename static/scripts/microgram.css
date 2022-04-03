@@ -37,6 +37,7 @@
 
 #microgram .photo span {
   display: block;
+  max-width: 100%;
   margin: 0;
   background-color: #333;
   padding: 5px;
@@ -49,6 +50,4 @@
 #microgram .photo:hover {
   cursor: pointer;
   opacity: 0.75;
-  border-bottom: 0 !important;
-  text-decoration: none !important;
 }
