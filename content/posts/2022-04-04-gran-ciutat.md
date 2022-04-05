@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "2022-04-04T08:00:35+02:00"
-tags = ["retalls", "citacions", "Castelló", "UJI"]
+tags = ["retalls", "citacions", "Castelló", "UJI", "educació"]
 slug = "gran-ciutat"
 +++
 
