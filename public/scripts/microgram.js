@@ -7,12 +7,14 @@ function renderImage(image) {
     var linkEl = document.createElement('a');
     linkEl.href = image['url'];
     linkEl.className = 'photo-link';
+    /* linkEl.title = image['content_text']; */
     container.appendChild(linkEl);
 
     var imageEl = document.createElement('div');
     imageEl.className = 'photo';
     var url = image['image'];
     imageEl.style.backgroundImage = 'url(' + url + ')';
+    imageEl.innerHTML = "<span>"+image['content_text']+"</span>";
     
     /* var textEl = document.createElement('div');
     textEl.innerHTML = image['content_text'];

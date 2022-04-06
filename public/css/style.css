@@ -462,8 +462,8 @@ article header h1 a {
 }
 
 img.icon {
-  display: inline;
-  margin: 0 0 -5px 0;
+  display: inline !important;
+  margin: 0 0 -5px 0 !important;
   padding: 0;
 }
 

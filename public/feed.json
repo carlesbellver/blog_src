@@ -6,16 +6,44 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/04/04/gran-ciutat/",
+				
+				"content_html": "<p>Bon dia. Ja ens queda menys: al voltant de cent setanta anys #Castelló #UJI</p>\n<blockquote>\n<p>Si vols crear una gran ciutat, crea una gran universitat i espera dos-cents anys.</p>\n</blockquote>\n<p>📎 <a href=\"https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html\">Bruce Katz, urbanista de ciutats globals</a></p>\n",
+				"date_published": "2022-04-04T08:00:35+02:00",
+				"url": "https://carlesbellver.net/2022/04/04/gran-ciutat/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
+				
+				"content_html": "<p>L’amor lliure (i feliç).</p>\n<img alt=\"Grafit en una paret: “Be lesbian” i un cor somrient\" src=\"/uploads/2022/2022-04-01-amor-lliure.jpg\">\n",
+				"date_published": "2022-04-01T19:30:14+02:00",
+				"url": "https://carlesbellver.net/2022/04/01/amor-lliure/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/03/31/art-transports-us/",
+				
+				"content_html": "<p>📎 <a href=\"https://psyche.co/ideas/when-art-transports-us-where-do-we-actually-go\">When art transports us, where do we actually go?</a></p>\n<p>Aquesta pregunta m&rsquo;ha recordat la <a href=\"/2015/09/16/de-la-revelaci.html\">definició clàssica de <em>ciberespai</em></a>: el <em>lloc</em> no físic on ens trobem quan parlem per telèfon (és a dir, això mateix que ara volen continuar esprement comercialment amb el nom de “metavers”).</p>\n<p>Hi ha, en fi, altres mons, i no sé si són en aquest, però són accessibles des d&rsquo;aquest.</p>\n<blockquote>\n<p>L&rsquo;obra d&rsquo;art, però, obre un món heterònom que no experimente com a pertanyent a la unitat espaciotemporal del món real.</p>\n</blockquote>\n",
+				"date_published": "2022-03-31T20:07:23+02:00",
+				"url": "https://carlesbellver.net/2022/03/31/art-transports-us/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/03/29/rafael-llopis/",
+				
+				"content_html": "<p>M’assabente que <a href=\"https://es.wikipedia.org/wiki/Rafael_Llopis\">Rafael Llopis</a> va morir la setmana passada. Gràcies a ell —i a les traduccions de <a href=\"https://es.wikipedia.org/wiki/Francisco_Torres_Oliver\">Francisco Torres Oliver</a>— vam conèixer les meravelloses al·lucinacions de Lovecraft en aquells llibrets de butxaca d&rsquo;Alianza Editorial. La seva edició —i l’enciclopèdica introducció— de <em>Los mitos de Cthulhu</em> ens van descobrir un món que va durar més enllà dels límits estrets de l’adolescència.</p>\n",
+				"date_published": "2022-03-29T19:50:46+02:00",
+				"url": "https://carlesbellver.net/2022/03/29/rafael-llopis/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/03/15/theranos-of-education/",
 				
-				"content_html": "<p>📎 <a href=\"https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education\">Who is the Theranos of Education?</a></p>\n<p>Theranos, l'empresa del sector de la biotecnologia que va intentar enganyar a tothom amb fantasioses tècniques d'anàlisi de sang… i ho va aconseguir durant un temps. Podria passar això en el món de l'educació? O ja ha passat? Dos casos molt semblants: tant Altschool (escoles amb tecnologies avançades) com Knewton (programari per a l'aprenentatge adaptatiu) havien de revolucionar l'educació i es van esvair en pocs anys.</p>\n<blockquote>\n<p>Després de consultar un munt de mestres, empresaris, inversors i altres professionals de l'educació sobre la base de les característiques de Theranos (líder carismàtic, capital de risc inicial que sembla desaparèixer, afirmacions no provades i cobertura mediàtica i bombo seguits de silenci), dues grans companyies s'esmentaven una vegada i una altra.</p>\n</blockquote>\n",
+				"content_html": "<p>📎 <a href=\"https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education\">Who is the Theranos of Education?</a></p>\n<p>Theranos, l&rsquo;empresa del sector de la biotecnologia que va intentar enganyar a tothom amb fantasioses tècniques d&rsquo;anàlisi de sang… i ho va aconseguir durant un temps. Podria passar això en el món de l&rsquo;educació? O ja ha passat? Dos casos molt semblants: tant Altschool (escoles amb tecnologies avançades) com Knewton (programari per a l&rsquo;aprenentatge adaptatiu) havien de revolucionar l&rsquo;educació i es van esvair en pocs anys.</p>\n<blockquote>\n<p>Després de consultar un munt de mestres, empresaris, inversors i altres professionals de l&rsquo;educació sobre la base de les característiques de Theranos (líder carismàtic, capital de risc inicial que sembla desaparèixer, afirmacions no provades i cobertura mediàtica i bombo seguits de silenci), dues grans companyies s&rsquo;esmentaven una vegada i una altra.</p>\n</blockquote>\n",
 				"date_published": "2022-03-15T10:24:37+01:00",
 				"url": "https://carlesbellver.net/2022/03/15/theranos-of-education/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/03/13/gemutlichkeit/",
 				
-				"content_html": "<blockquote>\n<p><em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>OANS ZWOA DREI! G’SUFFA!</em></p>\n</blockquote>\n<p>Col·legi Universitari de Castelló. Cap a 1990? <a href=\"https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADnez_Guzm%C3%A1n\">Vicent Martínez Guzmán</a> ens il·lustrava sobre les dificultats per a <a href=\"https://publicacions.iec.cat/repository/pdf/00000082/00000067.pdf\">traduir amb precisió el mot alemany <em>Gemüt</em></a>, en el context de la filosofia de Husserl, i <a href=\"http://eticaydemocracia.uji.es/cvs/salvador/cv.pdf\">Salvador Cabedo Manuel</a> ens va sorprendre —ens va desconcertar— entonant aquesta cançoneta popular alemanya. Típica de les cerveseries, ens va explicar tot seguit. Trenta anys després, la trobe transcrita en una novel·la de Jonathan Coe i recorde l’anècdota. Un brindis, un brindis per aixecar l'ànim! <em>Der Gemütlichkeit!</em> La vida i la filosofia.</p>\n<p><a href=\"https://www.flickr.com/photos/usnationalarchives/4726903479\" title=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"><img src=\"/uploads/2022/2022-03-13-gemutlichkeit.jpg\" alt=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"></a></p>\n",
+				"content_html": "<blockquote>\n<p><em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>OANS ZWOA DREI! G’SUFFA!</em></p>\n</blockquote>\n<p>Col·legi Universitari de Castelló. Cap a 1990? <a href=\"https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADnez_Guzm%C3%A1n\">Vicent Martínez Guzmán</a> ens il·lustrava sobre les dificultats per a <a href=\"https://publicacions.iec.cat/repository/pdf/00000082/00000067.pdf\">traduir amb precisió el mot alemany <em>Gemüt</em></a>, en el context de la filosofia de Husserl, i <a href=\"http://eticaydemocracia.uji.es/cvs/salvador/cv.pdf\">Salvador Cabedo Manuel</a> ens va sorprendre —ens va desconcertar— entonant aquesta cançoneta popular alemanya. Típica de les cerveseries, ens va explicar tot seguit. Trenta anys després, la trobe transcrita en una novel·la de Jonathan Coe i recorde l’anècdota. Un brindis, un brindis per aixecar l&rsquo;ànim! <em>Der Gemütlichkeit!</em> La vida i la filosofia.</p>\n<p><a href=\"https://www.flickr.com/photos/usnationalarchives/4726903479\" title=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"><img src=\"/uploads/2022/2022-03-13-gemutlichkeit.jpg\" alt=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"></a></p>\n",
 				"date_published": "2022-03-13T10:48:55+01:00",
 				"url": "https://carlesbellver.net/2022/03/13/gemutlichkeit/"
 			},
@@ -43,7 +71,7 @@
 			{
 				"id": "https://carlesbellver.net/2022/02/23/challenging-neoliberalism/",
 				
-				"content_html": "<p>📎 <a href=\"https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/\">Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism</a></p>\n<blockquote>\n<p>Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l'economia i la societat actuals:</p>\n<blockquote>\n<p>Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.</p>\n</blockquote>\n</blockquote>\n",
+				"content_html": "<p>📎 <a href=\"https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/\">Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism</a></p>\n<blockquote>\n<p>Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l&rsquo;economia i la societat actuals:</p>\n<blockquote>\n<p>Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.</p>\n</blockquote>\n</blockquote>\n",
 				"date_published": "2022-02-23T09:08:04+01:00",
 				"url": "https://carlesbellver.net/2022/02/23/challenging-neoliberalism/"
 			},
@@ -57,7 +85,7 @@
 			{
 				"id": "https://carlesbellver.net/2022/02/18/tesla-radio/",
 				
-				"content_html": "<p>📎 <a href=\"https://quoteinvestigator.com/2022/02/15/radio/\">The Radio Is a Distraction and Keeps You from Concentrating</a></p>\n<blockquote>\n<p>La ràdio… ja sé que sóc el seu pare, però no m'agrada. Simplement no m'agrada. És una molèstia. No l'escolte mai. La ràdio és una distracció i t'impedeix concentrar-te. Hi ha massa distraccions en aquesta vida per a un pensament de qualitat; i és la qualitat del pensament, no la quantitat, el que compta.</p>\n</blockquote>\n<p>—Nikola Tesla</p>\n",
+				"content_html": "<p>📎 <a href=\"https://quoteinvestigator.com/2022/02/15/radio/\">The Radio Is a Distraction and Keeps You from Concentrating</a></p>\n<blockquote>\n<p>La ràdio… ja sé que sóc el seu pare, però no m&rsquo;agrada. Simplement no m&rsquo;agrada. És una molèstia. No l&rsquo;escolte mai. La ràdio és una distracció i t&rsquo;impedeix concentrar-te. Hi ha massa distraccions en aquesta vida per a un pensament de qualitat; i és la qualitat del pensament, no la quantitat, el que compta.</p>\n</blockquote>\n<p>—Nikola Tesla</p>\n",
 				"date_published": "2022-02-18T18:32:08+01:00",
 				"url": "https://carlesbellver.net/2022/02/18/tesla-radio/"
 			},
@@ -92,7 +120,7 @@
 			{
 				"id": "https://carlesbellver.net/2022/02/05/correus/",
 				
-				"content_html": "<p>L'estranger, Castelló i Espanya. Sense dret a correspondència.</p>\n<img alt=\"Bústies clausurades a l'edifici de Correus de Castelló\" src=\"/uploads/2022/2022-02-05-correus.jpg\">\n",
+				"content_html": "<p>L&rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.</p>\n<img alt=\"Bústies clausurades a l'edifici de Correus de Castelló\" src=\"/uploads/2022/2022-02-05-correus.jpg\">\n",
 				"date_published": "2022-02-05T20:30:13+01:00",
 				"url": "https://carlesbellver.net/2022/02/05/correus/"
 			},
@@ -113,7 +141,7 @@
 			{
 				"id": "https://carlesbellver.net/2022/01/24/porsche/",
 				
-				"content_html": "<p>📎 <a href=\"https://www.sciencedirect.com/science/article/pii/S2214140520300359\">Estimated car cost as a predictor of driver yielding behaviors for pedestrians</a></p>\n<blockquote>\n<p>Com més car és el cotxe, menys probable és que el conductor s'ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d'increment en el preu del cotxe.</p>\n</blockquote>\n",
+				"content_html": "<p>📎 <a href=\"https://www.sciencedirect.com/science/article/pii/S2214140520300359\">Estimated car cost as a predictor of driver yielding behaviors for pedestrians</a></p>\n<blockquote>\n<p>Com més car és el cotxe, menys probable és que el conductor s&rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d&rsquo;increment en el preu del cotxe.</p>\n</blockquote>\n",
 				"date_published": "2022-01-24T17:04:22+01:00",
 				"url": "https://carlesbellver.net/2022/01/24/porsche/"
 			},
@@ -127,21 +155,21 @@
 			{
 				"id": "https://carlesbellver.net/2022/01/23/notnft/",
 				"title": "Un reenfocament (o un rodeig) low-tech dels NFT",
-				"content_html": "<img alt=\"Detall d'un pseudo-NFT.\" src=\"/uploads/2022/2022-01-23-notnft.jpg\">\n<p>A hores d'ara ja <a href=\"https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html\">s'ha parlat</a> prou i massa dels NFT o <a href=\"https://en.wikipedia.org/wiki/Non-fungible_token\">Non-fungible tokens</a>. Sabem que són una mena de certificats d'autenticitat i de propietat d'objectes digitals: imatges, <a href=\"https://twitter.com/DaniNovarama/status/1484449865857961987\">elements de videojocs</a>, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d'un artifici tecnològic que apel·la a l'afecció pel col·leccionisme i que busca traure'n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.</p>\n<p>Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m'he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi <code>NOTNFT00</code>:</p>\n<p>🖼 <a href=\"https://notnft.carlesbellver.net/\">NFT gratuïts i il·limitats de les portades dels meus llibres</a></p>\n<p>Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.</p>\n<ul>\n<li>La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.</li>\n<li>L'obligatorietat de la criptografia de clau pública, que es deriva de l'anterior i resulta excessivament complicada per a la majoria d'usuaris. Em pareix molt més senzill identificar-se amb l'adreça de correu electrònic.</li>\n<li>La distinció (i la confusió) entre l'NFT i l'objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.</li>\n<li>L'escassesa. De debò no s'havia adonat ningú que es poden fer infinites còpies d'un fitxer?</li>\n<li>El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.</li>\n<li>L'associació amb la noció de propietat. Té sentit considerar-se propietari d'un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l'adreça electrònica d'una altra persona per obtenir una còpia idèntica de la seua còpia.</li>\n</ul>\n<p>Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.</p>\n",
+				"content_html": "<img alt=\"Detall d'un pseudo-NFT.\" src=\"/uploads/2022/2022-01-23-notnft.jpg\">\n<p>A hores d&rsquo;ara ja <a href=\"https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html\">s&rsquo;ha parlat</a> prou i massa dels NFT o <a href=\"https://en.wikipedia.org/wiki/Non-fungible_token\">Non-fungible tokens</a>. Sabem que són una mena de certificats d&rsquo;autenticitat i de propietat d&rsquo;objectes digitals: imatges, <a href=\"https://twitter.com/DaniNovarama/status/1484449865857961987\">elements de videojocs</a>, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d&rsquo;un artifici tecnològic que apel·la a l&rsquo;afecció pel col·leccionisme i que busca traure&rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.</p>\n<p>Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m&rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi <code>NOTNFT00</code>:</p>\n<p>🖼 <a href=\"https://notnft.carlesbellver.net/\">NFT gratuïts i il·limitats de les portades dels meus llibres</a></p>\n<p>Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.</p>\n<ul>\n<li>La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.</li>\n<li>L&rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l&rsquo;anterior i resulta excessivament complicada per a la majoria d&rsquo;usuaris. Em pareix molt més senzill identificar-se amb l&rsquo;adreça de correu electrònic.</li>\n<li>La distinció (i la confusió) entre l&rsquo;NFT i l&rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.</li>\n<li>L&rsquo;escassesa. De debò no s&rsquo;havia adonat ningú que es poden fer infinites còpies d&rsquo;un fitxer?</li>\n<li>El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.</li>\n<li>L&rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d&rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l&rsquo;adreça electrònica d&rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.</li>\n</ul>\n<p>Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.</p>\n",
 				"date_published": "2022-01-23T17:20:08+01:00",
 				"url": "https://carlesbellver.net/2022/01/23/notnft/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/",
 				
-				"content_html": "<p>📎 <a href=\"https://www.unite.ai/analyzing-depressed-and-alcoholic-chatbots/\">Analyzing Depressed and Alcoholic Chatbots - Unite.AI</a></p>\n<blockquote>\n<p>Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se'ls pregunta utilitzant tests estàndard d'avaluació de salut mental, i que fins i tot mostren signes de problemes amb l'alcohol.</p>\n</blockquote>\n<p>🤖🍷</p>\n",
+				"content_html": "<p>📎 <a href=\"https://www.unite.ai/analyzing-depressed-and-alcoholic-chatbots/\">Analyzing Depressed and Alcoholic Chatbots - Unite.AI</a></p>\n<blockquote>\n<p>Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se&rsquo;ls pregunta utilitzant tests estàndard d&rsquo;avaluació de salut mental, i que fins i tot mostren signes de problemes amb l&rsquo;alcohol.</p>\n</blockquote>\n<p>🤖🍷</p>\n",
 				"date_published": "2022-01-20T19:30:00+01:00",
 				"url": "https://carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/01/20/ia/",
 				
-				"content_html": "<p>Facultat de Ciències Humanes i Soc<strong>iA</strong>ls #UJI #IA.</p>\n<img alt=\"Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.\" src=\"/uploads/2022/2022-01-20-ia.jpg\">\n",
+				"content_html": "<p>Facultat de Ciències Humanes i Soc<span style=\"font-family: sans-serif; font-weight: bold;\">iA</span>ls #UJI #IA.</p>\n<img alt=\"Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.\" src=\"/uploads/2022/2022-01-20-ia.jpg\">\n",
 				"date_published": "2022-01-20T08:48:11+01:00",
 				"url": "https://carlesbellver.net/2022/01/20/ia/"
 			},
@@ -151,34 +179,6 @@
 				"content_html": "<p>Les pastures de l'#UJI. Descansar en prats deliciosos.</p>\n<img alt=\"Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d'un cavall entres els arbres.\" src=\"/uploads/2022/2022-01-17-pastures-uji.jpg\">\n",
 				"date_published": "2022-01-17T16:51:33+01:00",
 				"url": "https://carlesbellver.net/2022/01/17/pastures-uji/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/11/38235/",
-				
-				"content_html": "<p>Ell lamentava la cita, però la va fer igualment. Enguany <a href=\"https://www.vilaweb.cat/noticies/com-un-eslogan-dunamuno-ha-acabat-marcant-lany-joan-fuster/\">s’han repetit la cita i les lamentacions</a>, però per separat. Jo hauria preferit: “Vindrà l’hora de veure dins els versos”. O: “Heus ací un home que moria allarat en clars abismes”. Cadascú té les seues preferències i les diu.</p>\n",
-				"date_published": "2022-01-11T22:57:15+00:00",
-				"url": "https://carlesbellver.net/2022/01/11/38235/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/10/first-impressions-web3/",
-				
-				"content_html": "<p>📎 <a href=\"https://moxie.org/2022/01/07/web3-first-impressions.html\">Moxie Marlinspike &gt;&gt; My first impressions of web3</a></p>\n<blockquote>\n<p>Per fer utilitzables aquestes tecnologies, l'espai s'està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.</p>\n</blockquote>\n<p>El web3 és un web de servidors. La cadena de blocs és una xarxa d'iguals, però només entre servidors. Malgrat la promesa de descentralització i de confiança fermament assentada en la criptografia, clients d'usuari com MetaMask només poden interactuar amb la cadena de blocs d'Ethereum mitjançant plataformes com etherscan, Infura o OpenSea, i ho fan sense cap mena d'autenticació o signatura criptogràfica. És a dir, donant per descomptat que cal confiar en aquests intermediaris.</p>\n",
-				"date_published": "2022-01-10T17:31:26+01:00",
-				"url": "https://carlesbellver.net/2022/01/10/first-impressions-web3/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/08/dedans/",
-				
-				"content_html": "<blockquote>\n<p>Coextensiu amb el seu exterior, hi ha un interior de les coses.</p>\n<p><em>Coextensif à leur Dehors, il y a un Dedans des Choses.</em></p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin\">Pierre Teilhard de Chardin</a>, <em>Le phénomène humain</em>.</p>\n<img alt=\"Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.\" src=\"/uploads/2022/2022-01-08-dedans.jpg\">\n<p>Foto: el rellotge del <a href=\"https://mucc.castello.es/seus/el-fadri/\">Fadrí</a>, des de dins.</p>\n",
-				"date_published": "2022-01-08T12:45:02+01:00",
-				"url": "https://carlesbellver.net/2022/01/08/dedans/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/05/22332/",
-				
-				"content_html": "<p>Els antivacunes insisteixen en la importància de ser crítics, però els seus arguments, si et prens la molèstia de llegir-los, més aviat pareixen <a href=\"https://ca.wikipedia.org/wiki/M%C3%A8tode_paranoic-cr%C3%ADtic\">paranoico-crítics</a>, a la manera de Dalí.</p>\n",
-				"date_published": "2022-01-05T23:38:52+00:00",
-				"url": "https://carlesbellver.net/2022/01/05/22332/"
 			}
 	]
 }

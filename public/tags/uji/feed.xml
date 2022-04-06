@@ -6,10 +6,24 @@
     <description>La vista cansada (Universitat Jaume I)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Tue, 22 Feb 2022 19:30:14 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 08:00:35 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/uji/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2022/04/04/gran-ciutat/</link>
+      <pubDate>Mon, 04 Apr 2022 08:00:35 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2022/04/04/gran-ciutat/</guid>
+      <description>&lt;p&gt;Bon dia. Ja ens queda menys: al voltant de cent setanta anys #Castelló #UJI&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Si vols crear una gran ciutat, crea una gran universitat i espera dos-cents anys.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📎 &lt;a href=&#34;https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html&#34;&gt;Bruce Katz, urbanista de ciutats globals&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
@@ -38,7 +52,7 @@
       <pubDate>Thu, 20 Jan 2022 08:48:11 +0100</pubDate>
       
       <guid>https://carlesbellver.net/2022/01/20/ia/</guid>
-      <description>&lt;p&gt;Facultat de Ciències Humanes i Soc&lt;strong&gt;iA&lt;/strong&gt;ls #UJI #IA.&lt;/p&gt;
+      <description>&lt;p&gt;Facultat de Ciències Humanes i Soc&lt;span style=&#34;font-family: sans-serif; font-weight: bold;&#34;&gt;iA&lt;/span&gt;ls #UJI #IA.&lt;/p&gt;
 &lt;img alt=&#34;Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-01-20-ia.jpg&#34;&gt;
 </description>
     </item>
@@ -150,7 +164,7 @@
       <pubDate>Fri, 07 Feb 2020 12:33:23 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2020/02/07/la-galeria-subterrnia.html</guid>
-      <description>&lt;p&gt;La galeria subterrània de l&#39;#UJI no s&#39;acaba mai.&lt;/p&gt;
+      <description>&lt;p&gt;La galeria subterrània de l&#39;#UJI no s&amp;rsquo;acaba mai.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/uploads/2020/e645377a12.jpg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
@@ -161,7 +175,7 @@
       <pubDate>Fri, 27 Sep 2019 09:59:21 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2019/09/27/la-llibertat-delecci.html</guid>
-      <description>&lt;p&gt;La llibertat d&#39;elecció neoliberal adaptada a l&#39;alimentació col·lectiva.&lt;/p&gt;
+      <description>&lt;p&gt;La llibertat d&amp;rsquo;elecció neoliberal adaptada a l&amp;rsquo;alimentació col·lectiva.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/uploads/2019/8bdb819f75.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
@@ -227,7 +241,7 @@
       <pubDate>Mon, 29 Oct 2018 17:14:16 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/10/29/181416.html</guid>
-      <description>&lt;p&gt;Sota d&#39;un pont, a l&#39;est d&#39;una espessor, al nord-oest d&#39;un arbre remarcable… Aquest &lt;a href=&#34;https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;circuit d&#39;orientació&lt;/a&gt; del campus #UJI em recorda el mapa de &lt;em&gt;L&#39;illa del tresor&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Sota d&amp;rsquo;un pont, a l&amp;rsquo;est d&amp;rsquo;una espessor, al nord-oest d&amp;rsquo;un arbre remarcable… Aquest &lt;a href=&#34;https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;circuit d&amp;rsquo;orientació&lt;/a&gt; del campus #UJI em recorda el mapa de &lt;em&gt;L&amp;rsquo;illa del tresor&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;&lt;img src=&#34;https://carlesbellver.net/uploads/2018/2018-10-29-mapa-tresor-uji.jpg&#34; alt=&#34;Fragment del mapa d&#39;un circuit d&#39;orientació a l&#39;UJI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -270,7 +284,7 @@
       <pubDate>Thu, 26 Jul 2018 20:58:02 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/07/26/215802.html</guid>
-      <description>&lt;p&gt;Facebook em recorda que avui fa sis anys que vaig publicar aquesta foto. Per a tranquil·litat de tothom, faig constar que al final vam poder eixir d&#39;aquell edifici infaust. En març d&#39;enguany ens van donar allotjament a la Biblioteca de l&#39;#UJI.&lt;/p&gt;
+      <description>&lt;p&gt;Facebook em recorda que avui fa sis anys que vaig publicar aquesta foto. Per a tranquil·litat de tothom, faig constar que al final vam poder eixir d&amp;rsquo;aquell edifici infaust. En març d&amp;rsquo;enguany ens van donar allotjament a la Biblioteca de l&#39;#UJI.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/07/7649190200_ebed6cfdab_o.jpg&#34; class=&#34;alignnone size-medium wp-image-1231&#34; width=&#34;300&#34; height=&#34;300&#34; alt=&#34;No exit?&#34;&gt;
 </description>
     </item>
@@ -303,7 +317,7 @@
       <pubDate>Thu, 29 Mar 2018 15:25:25 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/03/29/162525.html</guid>
-      <description>&lt;p&gt;Ens han traslladat a l&#39;edifici de la Biblioteca de l&#39;#UJI i ara, mirant cap amunt, tinc aquesta vista als matins quan entre a treballar.&lt;/p&gt;
+      <description>&lt;p&gt;Ens han traslladat a l’edifici de la Biblioteca de l’#UJI i ara, mirant cap amunt, tinc aquesta vista als matins quan entre a treballar.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/03/88c33b7adcff407fb5315f47b8073229.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
@@ -357,7 +371,7 @@
       <pubDate>Fri, 15 Dec 2017 16:44:15 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2017/12/15/174415.html</guid>
-      <description>&lt;p&gt;“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d&#39;Art Contemporani de Vilafamés en la Biblioteca #UJI.&lt;/p&gt;
+      <description>&lt;p&gt;“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d&amp;rsquo;Art Contemporani de Vilafamés en la Biblioteca #UJI.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2017/12/442cbb7a77e24111b5c1ed9050ae148c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
@@ -433,9 +447,9 @@
       
       <guid>https://carlesbellver.net/2016/02/26/uji-gerent-web/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tndxUNDXl5I&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Una conferència molt interessant de juny de 2015. El gerent de l&#39;UJI, Andrés Marzal, i dos tècnics del Servei d&#39;Informàtica, explicaven al públic el camí emprès cap al &lt;em&gt;cloud&lt;/em&gt;, el núvol. Un camí que, si els rumors que se senten són certs, deu estar ara a punt de culminar.&lt;/p&gt;
-&lt;p&gt;Quasi al principi de la seua intervenció, Marzal es referia als que vam col·laborar en el primer servidor web d&#39;Espanya com &amp;quot;una pandilla de forajidos en el buen sentido&amp;quot;, els quals hi hauríem treballat &amp;quot;completamente al margen de la dirección de la universidad&amp;quot;. Però això no és exacte i m&#39;agradaria matisar-ho. Aquell servidor web de 1993 cal situar-lo en el context d&#39;un projecte d&#39;implementació d&#39;un servei d&#39;informació electrònica per a l&#39;UJI. Un projecte que tenia el vistiplau de l&#39;autoritat pertinent.&lt;/p&gt;
-&lt;p&gt;Inicialment ens havíem basat en la tecnologia Gopher. Perquè, sí, Internet ja existia abans del Web. I al cap d&#39;un temps vam voler provar opcions noves. Potser és cert que entre un moment i l&#39;altre, de setembre de 1992 a setembre de 1993, l&#39;equip de govern s&#39;havia oblidat d&#39;aquesta iniciativa i no hi va destinar més recursos. La primera —i molt forta— crisi de finançament de l&#39;UJI no va ajudar gens. En tot cas, els qui hàgeu treballat en una organització d&#39;una certa mida ja deveu saber que aprovar un projecte i deixar que es pose en marxa no implica sempre donar-li cap suport efectiu. Si aleshores ens vam quedar &lt;em&gt;al marge&lt;/em&gt;, doncs, no va ser exactament la nostra intenció.&lt;/p&gt;
+&lt;p&gt;Una conferència molt interessant de juny de 2015. El gerent de l&amp;rsquo;UJI, Andrés Marzal, i dos tècnics del Servei d&amp;rsquo;Informàtica, explicaven al públic el camí emprès cap al &lt;em&gt;cloud&lt;/em&gt;, el núvol. Un camí que, si els rumors que se senten són certs, deu estar ara a punt de culminar.&lt;/p&gt;
+&lt;p&gt;Quasi al principi de la seua intervenció, Marzal es referia als que vam col·laborar en el primer servidor web d&amp;rsquo;Espanya com &amp;ldquo;una pandilla de forajidos en el buen sentido&amp;rdquo;, els quals hi hauríem treballat &amp;ldquo;completamente al margen de la dirección de la universidad&amp;rdquo;. Però això no és exacte i m&amp;rsquo;agradaria matisar-ho. Aquell servidor web de 1993 cal situar-lo en el context d&amp;rsquo;un projecte d&amp;rsquo;implementació d&amp;rsquo;un servei d&amp;rsquo;informació electrònica per a l&amp;rsquo;UJI. Un projecte que tenia el vistiplau de l&amp;rsquo;autoritat pertinent.&lt;/p&gt;
+&lt;p&gt;Inicialment ens havíem basat en la tecnologia Gopher. Perquè, sí, Internet ja existia abans del Web. I al cap d&amp;rsquo;un temps vam voler provar opcions noves. Potser és cert que entre un moment i l&amp;rsquo;altre, de setembre de 1992 a setembre de 1993, l&amp;rsquo;equip de govern s&amp;rsquo;havia oblidat d&amp;rsquo;aquesta iniciativa i no hi va destinar més recursos. La primera —i molt forta— crisi de finançament de l&amp;rsquo;UJI no va ajudar gens. En tot cas, els qui hàgeu treballat en una organització d&amp;rsquo;una certa mida ja deveu saber que aprovar un projecte i deixar que es pose en marxa no implica sempre donar-li cap suport efectiu. Si aleshores ens vam quedar &lt;em&gt;al marge&lt;/em&gt;, doncs, no va ser exactament la nostra intenció.&lt;/p&gt;
 &lt;p&gt;Més informació sobre el projecte original:&lt;/p&gt;
 &lt;p&gt;📎 &lt;a href=&#34;http://nti.uji.es/docs/nti/castello.html&#34;&gt;El Gopher como CWIS
 (&lt;em&gt;Campus Wide Information System&lt;/em&gt;)

@@ -6,6 +6,14 @@
   "feed_url": "https://carlesbellver.netphotos/index.json",
   "items": [
       {
+        "id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
+        "title": "",
+        "date_published": "2022-04-01T19:30:14+02:00",
+        "url": "https://carlesbellver.net/2022/04/01/amor-lliure/",
+          "image": "https://carlesbellver.net/uploads/2022/2022-04-01-amor-lliure.jpg",
+        "content_text": "L’amor lliure (i feliç).\n"
+      },
+      {
         "id": "https://carlesbellver.net/2022/02/23/busties-secretes/",
         "title": "",
         "date_published": "2022-02-23T21:30:14+01:00",
@@ -43,7 +51,7 @@
         "date_published": "2022-02-05T20:30:13+01:00",
         "url": "https://carlesbellver.net/2022/02/05/correus/",
           "image": "https://carlesbellver.net/uploads/2022/2022-02-05-correus.jpg",
-        "content_text": "L'estranger, Castelló i Espanya. Sense dret a correspondència.\n"
+        "content_text": "L\u0026rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.\n"
       },
       {
         "id": "https://carlesbellver.net/2022/02/04/arameu/",
@@ -59,7 +67,7 @@
         "date_published": "2022-01-23T17:20:08+01:00",
         "url": "https://carlesbellver.net/2022/01/23/notnft/",
           "image": "https://carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg",
-        "content_text": "A hores d'ara ja s'ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són una mena de certificats d'autenticitat i de propietat d'objectes digitals: imatges, elements de videojocs, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d'un artifici tecnològic que apel·la a l'afecció pel col·leccionisme i que busca traure'n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.\nAquest cap de setmana he dedicat unes hores a pensar sobre el tema i m'he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi NOTNFT00:\n🖼 NFT gratuïts i il·limitats de les portades dels meus llibres\nModestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.\n La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible. L'obligatorietat de la criptografia de clau pública, que es deriva de l'anterior i resulta excessivament complicada per a la majoria d'usuaris. Em pareix molt més senzill identificar-se amb l'adreça de correu electrònic. La distinció (i la confusió) entre l'NFT i l'objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes. L'escassesa. De debò no s'havia adonat ningú que es poden fer infinites còpies d'un fitxer? El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero. L'associació amb la noció de propietat. Té sentit considerar-se propietari d'un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l'adreça electrònica d'una altra persona per obtenir una còpia idèntica de la seua còpia.  Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.\n"
+        "content_text": "A hores d\u0026rsquo;ara ja s\u0026rsquo;ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són …"
       },
       {
         "id": "https://carlesbellver.net/2022/01/20/ia/",
@@ -83,7 +91,7 @@
         "date_published": "2022-01-08T12:45:02+01:00",
         "url": "https://carlesbellver.net/2022/01/08/dedans/",
           "image": "https://carlesbellver.net/uploads/2022/2022-01-08-dedans.jpg",
-        "content_text": " Coextensiu amb el seu exterior, hi ha un interior de les coses.\nCoextensif à leur Dehors, il y a un Dedans des Choses.\n —Pierre Teilhard de Chardin, Le phénomène humain.\nFoto: el rellotge del Fadrí, des de dins.\n"
+        "content_text": " Coextensiu amb el seu exterior, hi ha un interior de les coses.\nCoextensif à leur Dehors, il y a un …"
       },
       {
         "id": "https://carlesbellver.net/2022/01/03/ull-soluble/",
@@ -91,7 +99,7 @@
         "date_published": "2022-01-03T19:06:02+01:00",
         "url": "https://carlesbellver.net/2022/01/03/ull-soluble/",
           "image": "https://carlesbellver.net/uploads/2022/2022-01-03-ull-soluble.jpg",
-        "content_text": "Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.\n"
+        "content_text": "Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar …"
       },
       {
         "id": "https://carlesbellver.net/2021/12/25/venus-willendorf/",
@@ -115,7 +123,7 @@
         "date_published": "2021-12-12T08:13:17+01:00",
         "url": "https://carlesbellver.net/2021/12/12/93196/",
           "image": "https://carlesbellver.net/uploads/2021/2021-12-12-93196.jpg",
-        "content_text": "L'última ressaca 🎵\n"
+        "content_text": "L\u0026rsquo;última ressaca 🎵\n"
       },
       {
         "id": "https://carlesbellver.net/2021/11/29/97227/",
@@ -123,7 +131,7 @@
         "date_published": "2021-11-29T15:47:08+01:00",
         "url": "https://carlesbellver.net/2021/11/29/97227/",
           "image": "https://carlesbellver.net/uploads/2021/2021-11-29-97227.jpg",
-        "content_text": "En companyia d'ànecs.\n"
+        "content_text": "En companyia d\u0026rsquo;ànecs.\n"
       },
       {
         "id": "https://carlesbellver.net/2021/11/20/bon-dia/",
@@ -155,7 +163,7 @@
         "date_published": "2021-11-07T12:25:28+01:00",
         "url": "https://carlesbellver.net/2021/11/07/antonin-artaud/",
           "image": "https://carlesbellver.net/uploads/2021/2021-11-07-antonin-artaud.jpg",
-        "content_text": " A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.\n "
+        "content_text": " A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente …"
       },
       {
         "id": "https://carlesbellver.net/2021/11/06/arqueologia-aigua/",
@@ -163,7 +171,7 @@
         "date_published": "2021-11-06T14:02:05+01:00",
         "url": "https://carlesbellver.net/2021/11/06/arqueologia-aigua/",
           "image": "https://carlesbellver.net/uploads/2021/2021-11-06-arqueologia-aigua.jpg",
-        "content_text": "Arqueologia de l'aigua.\n"
+        "content_text": "Arqueologia de l\u0026rsquo;aigua.\n"
       },
       {
         "id": "https://carlesbellver.net/2021/11/04/n-est-pas-un-livre/",
@@ -171,7 +179,7 @@
         "date_published": "2021-11-04T18:30:00+01:00",
         "url": "https://carlesbellver.net/2021/11/04/n-est-pas-un-livre/",
           "image": "https://carlesbellver.net/uploads/2021/2021-11-04-unicorns.png",
-        "content_text": "Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d'aquesta imatge.\n$ unzip 2021-11-04-unicorns.png Archive: 2021-11-04-unicorns.png inflating: unicorns.txt  Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.\nMés detalls tècnics ací 👉 tweetable-polyglot-png\n"
+        "content_text": "Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins …"
       },
       {
         "id": "https://carlesbellver.net/2021/11/01/tots-sants/",
@@ -219,7 +227,7 @@
         "date_published": "2021-09-15T19:14:39+02:00",
         "url": "https://carlesbellver.net/2021/09/15/asia/",
           "image": "https://carlesbellver.net/uploads/2021/2021-09-15-asia.jpg",
-        "content_text": "Àsia comença a l'avinguda d'Alcora.\n"
+        "content_text": "Àsia comença a l\u0026rsquo;avinguda d\u0026rsquo;Alcora.\n"
       },
       {
         "id": "https://carlesbellver.net/2021/08/28/vacances/",
@@ -243,7 +251,7 @@
         "date_published": "2021-08-06T10:43:49+02:00",
         "url": "https://carlesbellver.net/2021/08/06/selfi-morella-1414/",
           "image": "https://carlesbellver.net/uploads/2021/2021-08-06-selfi-morella-1414.jpg",
-        "content_text": "Sant Vicent Ferrer, Benet XIII i Ferran I d'Aragó. Selfi a Morella, 1414.\n"
+        "content_text": "Sant Vicent Ferrer, Benet XIII i Ferran I d\u0026rsquo;Aragó. Selfi a Morella, 1414.\n"
       },
       {
         "id": "https://carlesbellver.net/2021/08/02/atzucac-unicorn/",
@@ -251,7 +259,7 @@
         "date_published": "2021-08-02T20:06:05+02:00",
         "url": "https://carlesbellver.net/2021/08/02/atzucac-unicorn/",
           "image": "https://carlesbellver.net/uploads/2021/2021-08-02-atzucac-unicorn.jpg",
-        "content_text": "L'entrada —enreixada— del misteriós atzucac on renillava l'unicorn, en un racó de la plaça de la Pau.\n"
+        "content_text": "L\u0026rsquo;entrada —enreixada— del misteriós atzucac on renillava l\u0026rsquo;unicorn, en un racó de la …"
       },
       {
         "id": "https://carlesbellver.net/2021/07/19/27372/",
@@ -267,7 +275,7 @@
         "date_published": "2021-07-11T18:58:26+02:00",
         "url": "https://carlesbellver.net/2021/07/11/silence-delirium-lies/",
           "image": "https://carlesbellver.net/uploads/2021/2021-07-11-silence-delirium-lies.jpg",
-        "content_text": "Això podria ser un petit projecte per a les vacances d'agost.\n"
+        "content_text": "Això podria ser un petit projecte per a les vacances d\u0026rsquo;agost.\n"
       },
       {
         "id": "https://carlesbellver.net/2021/06/12/orxata-boisei/",
@@ -275,7 +283,7 @@
         "date_published": "2021-06-12T12:17:04+02:00",
         "url": "https://carlesbellver.net/2021/06/12/orxata-boisei/",
           "image": "https://carlesbellver.net/uploads/2021/2021-06-12-orxata-boisei.jpg",
-        "content_text": " S'ha suggerit que l'hominini extingit Paranthropus boisei (l’“home trencanous”) subsistia a base de xufes.\n 📎 Cyperus esculentus\n"
+        "content_text": " S\u0026rsquo;ha suggerit que l\u0026rsquo;hominini extingit Paranthropus boisei (l’“home trencanous”) …"
       },
       {
         "id": "https://carlesbellver.net/2021/05/02/bash/",
@@ -283,7 +291,7 @@
         "date_published": "2021-05-02T10:04:28+02:00",
         "url": "https://carlesbellver.net/2021/05/02/bash/",
           "image": "https://carlesbellver.net/uploads/2021/2021-05-02-bash.jpg",
-        "content_text": "De vegades faig scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l'entenia.\n"
+        "content_text": "De vegades faig scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el …"
       },
       {
         "id": "https://carlesbellver.net/2021/04/21/un-llibre-efimer/",
@@ -291,7 +299,7 @@
         "date_published": "2021-04-21T18:30:00+02:00",
         "url": "https://carlesbellver.net/2021/04/21/un-llibre-efimer/",
           "image": "https://carlesbellver.net/uploads/2021/2021-04-21-unicorns-8bit.jpg",
-        "content_text": "\nMalgrat la seva materialitat aparent, més qüestionable que mai, els llibres tendeixen a derivar en una experiència efímera. Generalment s’esgoten a la primera lectura i ja no tornem a fer-ne cas mai més. La virtualitat dels no tan nous mitjans electrònics, per contra, ens facilita reconèixer aquest fet i plasmar-lo en el disseny mateix de l’objecte llibre. Es tractaria, així, d'estendre la fugacitat de l’experiència lectora fins al cor de la publicació.\nDes d’ahir, a manera d’assaig, vaig publicant en el meu compte de Twitter les proses breus d’Unicorns. Una cada dia en un fil de sis o set missatges curts, amb el hashtag #hihaunicorns. Seixanta-quatre microconarracions, més un proemi i una coda, en seixanta-sis dies consecutius. I cada nit s’aniran esvaint els fils que hagin romàs al ciberespai més d’una setmana (com la resta dels meus tuits, perquè la durabilitat de les converses de Twitter és un bug, un defecte que caldria esmenar). Qui vegi passar el fil, si vol, podrà llegir-lo. A algú, potser, li agradarà i tot. Bon profit li faci.\nD’ambdós moments del procés —l’aparició i l’extinció dels tuits—, se n’encarrega, per cert, un script, una altra modalitat d’escriptura que fa que passin coses: antic anhel, o retret, que s’ha expressat sovint amb relació a la literatura.\nUn experiment més, doncs. Com sempre, en la línia de les Sis propostes d’Italo Calvino: lleugeresa, rapidesa, exactitud, visibilitat, multiplicitat (i coherència). Per al proper mil·lenni, les va titular ell. Però fem tard, perquè es referia a aquest.\n(Crec que aquest apunt m’ha quedat bé, com si em cregués el que dic. Potser una mica massa i tot. Però en realitat és només un joc.)\n"
+        "content_text": "\nMalgrat la seva materialitat aparent, més qüestionable que mai, els llibres tendeixen a derivar en …"
       },
       {
         "id": "https://carlesbellver.net/2021/03/27/unicorns/",
@@ -299,7 +307,7 @@
         "date_published": "2021-03-27T13:37:16+01:00",
         "url": "https://carlesbellver.net/2021/03/27/unicorns/",
           "image": "https://carlesbellver.net/uploads/2021/2021-03-27-unicorns.jpg",
-        "content_text": "Les edicions digitals d’Unicorns venen decorades amb emojis. Un emoji diferent per a cada un dels seixanta-quatre textos. Si alguna vegada s’hagués d’editar en paper, crec que optaria per imatges de la Crònica de Nuremberg, història universal il·lustrada de 1493. Però això dependria del criteri de l’editorial. Si hi hagués una editorial i tingués criteri, és clar.\n\n"
+        "content_text": "Les edicions digitals d’Unicorns venen decorades amb emojis. Un emoji diferent per a cada un dels …"
       },
       {
         "id": "https://carlesbellver.net/2021/03/08/27672/",
@@ -307,7 +315,7 @@
         "date_published": "2021-03-08T19:21:12+00:00",
         "url": "https://carlesbellver.net/2021/03/08/27672/",
           "image": "https://carlesbellver.net/uploads/2021/2021-03-08-27628.jpg",
-        "content_text": " Jo vull tornar a viure on l'herba\nno és com aquí pur ornament, joia dels ulls\nque dura l'any sencer.\n —Attilio Bertolucci, Porta’m amb tu / Portami con te\nPrimer títol —una delícia— de Salze, projecte editorial de Marta Vilardaga i Josep Porcar.\n"
+        "content_text": " Jo vull tornar a viure on l\u0026rsquo;herba\nno és com aquí pur ornament, joia dels ulls\nque dura …"
       },
       {
         "id": "https://carlesbellver.net/2021/02/16/61821/",
@@ -355,7 +363,7 @@
         "date_published": "2020-10-24T20:37:28+00:00",
         "url": "https://carlesbellver.net/2020/10/24/203728/",
           "image": "https://carlesbellver.net/uploads/2020/2020-10-24-203321.jpg",
-        "content_text": "Ciència ciutadana #UJI. Participació en el projecte Vigilantes del aire. Aquestes maduixeres mesuren la concentració de metalls pesats.\n"
+        "content_text": "Ciència ciutadana #UJI. Participació en el projecte Vigilantes del aire. Aquestes maduixeres mesuren …"
       },
       {
         "id": "https://carlesbellver.net/2020/10/14/170449/",
@@ -387,7 +395,7 @@
         "date_published": "2020-03-23T22:06:00+00:00",
         "url": "https://carlesbellver.net/2020/03/23/jo-ja-era.html",
           "image": "https://carlesbellver.net/uploads/2020/6d30dfd080.jpg",
-        "content_text": "Jo ja era (una mica) keynesià fa trenta anys.\nDit d’una altra manera: amb qui s’escrivia Milton Friedman?\n"
+        "content_text": "Jo ja era (una mica) keynesià fa trenta anys.\nDit d’una altra manera: amb qui s’escrivia Milton …"
       },
       {
         "id": "https://carlesbellver.net/2020/02/27/els-llibres-invisibles.html",
@@ -395,7 +403,7 @@
         "date_published": "2020-02-27T17:48:00+00:00",
         "url": "https://carlesbellver.net/2020/02/27/els-llibres-invisibles.html",
           "image": "https://carlesbellver.net/uploads/2020/42d892e469.jpg",
-        "content_text": "Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se'm va acudir ensenyar tres llibres amb la intenció d'emmarcar la meva idea de la literatura i les meves aspiracions —la meva ambició— com a escriptor: els contes curts de La muralla china de Kafka, els poemes de Los conjurados de Borges i les proses de Diana i la mar Morta de Joan Perucho. Sabia que aquesta no era una de les obres més celebrades de Perucho, i em pareixia —em pareix— que havia estat, fins i tot, menystinguda. A mi, tanmateix, em fascinaven el misteri, l'ambigüitat i l'evocació poètica d'aquell estrany puzzle, que no ho deia tot i suggeria molt. Per això m'alegra tant que s'hagi tornat a reeditar, aquesta vegada amb tota la cura que crec que mereix, i acompanyat d'un altre títol que també es feia difícil de trobar: Cendres i diamants (el meu exemplar, aconseguit mitjançant una llibreria de vell, porta el segell dels Serveis Terriorials de Cultura).\nEn Els homes invisibles (Comanegra, 2020), s'hi recullen, doncs, formant una sorprenent unitat, el primer Perucho, de 1953, i el darrer, de 1989. Edició a càrrec de Julià Guillamon i Jordi Puig i deliciós epíleg de Marina Espasa. Jo també envege, com ella, qui pugui ara llegir per primera vegada aquestes pàgines extraordinàries.\n I deixa el lector a la vora de l'abisme, perquè acaba de veure l'invisible però també té ganes d'un got de vermut.\n "
+        "content_text": "Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se\u0026rsquo;m va acudir ensenyar tres …"
       },
       {
         "id": "https://carlesbellver.net/2020/02/25/carrer-dedicat-a.html",
@@ -403,7 +411,7 @@
         "date_published": "2020-02-25T20:15:28+00:00",
         "url": "https://carlesbellver.net/2020/02/25/carrer-dedicat-a.html",
           "image": "https://carlesbellver.net/uploads/2020/e8e6f119db.jpg",
-        "content_text": "Carrer dedicat a l'organitzador de la Gran Redada, o intent d'exterminació del poble gitano a Espanya (1749). Responsable, l'empresa anunciadora.\n"
+        "content_text": "Carrer dedicat a l\u0026rsquo;organitzador de la Gran Redada, o intent d\u0026rsquo;exterminació del poble …"
       },
       {
         "id": "https://carlesbellver.net/2020/02/07/la-galeria-subterrnia.html",
@@ -411,7 +419,7 @@
         "date_published": "2020-02-07T12:33:23+00:00",
         "url": "https://carlesbellver.net/2020/02/07/la-galeria-subterrnia.html",
           "image": "https://carlesbellver.net/uploads/2020/e645377a12.jpg",
-        "content_text": "La galeria subterrània de l'#UJI no s'acaba mai.\n"
+        "content_text": "La galeria subterrània de l'#UJI no s\u0026rsquo;acaba mai.\n"
       },
       {
         "id": "https://carlesbellver.net/2020/02/05/organic-ethical-chocolate.html",
@@ -419,7 +427,7 @@
         "date_published": "2020-02-05T18:49:13+00:00",
         "url": "https://carlesbellver.net/2020/02/05/organic-ethical-chocolate.html",
           "image": "https://carlesbellver.net/uploads/2020/38cb60c68c.jpg",
-        "content_text": "📎 Organic \u0026amp; Ethical Chocolate. Part del berenar d'avui.\n"
+        "content_text": "📎 Organic \u0026amp; Ethical Chocolate. Part del berenar d\u0026rsquo;avui.\n"
       },
       {
         "id": "https://carlesbellver.net/2020/02/04/philip-k-dick.html",
@@ -427,7 +435,7 @@
         "date_published": "2020-02-04T19:03:00+00:00",
         "url": "https://carlesbellver.net/2020/02/04/philip-k-dick.html",
           "image": "https://carlesbellver.net/uploads/2020/a3b9424db8.jpg",
-        "content_text": "Philip K. Dick solia consultar l'I Ching. Jo tinc més tirada a les Oblique Strategies de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta microconsola portàtil. És com dur a la butxaca un petit oracle.\n"
+        "content_text": "Philip K. Dick solia consultar l'I Ching. Jo tinc més tirada a les Oblique Strategies de Brian Eno i …"
       },
       {
         "id": "https://carlesbellver.net/2020/01/26/we-dont-need.html",
@@ -435,7 +443,7 @@
         "date_published": "2020-01-26T17:19:58+00:00",
         "url": "https://carlesbellver.net/2020/01/26/we-dont-need.html",
           "image": "https://carlesbellver.net/uploads/2020/d67afc64d0.jpg",
-        "content_text": "We don’t need no thought control. M’agrada veure aquest grafit a la façana d’aquell Colegio Nacional, on un dia de novembre de 1975 pareixia que s’acabava el món.\n"
+        "content_text": "We don’t need no thought control. M’agrada veure aquest grafit a la façana d’aquell Colegio …"
       },
       {
         "id": "https://carlesbellver.net/2020/01/13/senyalitzaci-anticlerical.html",
@@ -459,7 +467,7 @@
         "date_published": "2019-12-11T18:03:17+00:00",
         "url": "https://carlesbellver.net/2019/12/11/ajuntament-de-morella.html",
           "image": "https://carlesbellver.net/uploads/2019/219dd26117.jpg",
-        "content_text": "Ajuntament de Morella. Rèplica del timpà de la Porta dels Apòstols, església arxiprestal de Santa Maria la Major. Detall.\n"
+        "content_text": "Ajuntament de Morella. Rèplica del timpà de la Porta dels Apòstols, església arxiprestal de Santa …"
       },
       {
         "id": "https://carlesbellver.net/2019/11/16/valncia-plaa-del.html",
@@ -499,7 +507,7 @@
         "date_published": "2019-08-25T19:03:44+00:00",
         "url": "https://carlesbellver.net/2019/08/25/desprs-duna-llarga.html",
           "image": "https://carlesbellver.net/uploads/2019/a511a16dcb.jpg",
-        "content_text": "Després d'una llarga nit de malsons, isc al carrer i em trobe una invasió haradrim sota el sol radiant del migdia. Incapaç de determinar si era despert o continuava dormint, me n'he tornat al llit.\n"
+        "content_text": "Després d\u0026rsquo;una llarga nit de malsons, isc al carrer i em trobe una invasió haradrim sota el sol …"
       },
       {
         "id": "https://carlesbellver.net/2019/08/17/keep-calm-and.html",
@@ -587,7 +595,7 @@
         "date_published": "2019-03-20T08:42:00+00:00",
         "url": "https://carlesbellver.net/2019/03/20/094213.html",
           "image": "https://carlesbellver.net/uploads/2019/8ef9861470.jpg",
-        "content_text": "D’una citació de Niels Bohr:\n Que meravellós que hàgim topat amb una paradoxa. Ara tenim alguna esperança de progressar.\n "
+        "content_text": "D’una citació de Niels Bohr:\n Que meravellós que hàgim topat amb una paradoxa. Ara tenim alguna …"
       },
       {
         "id": "https://carlesbellver.net/2019/02/22/125819.html",
@@ -619,7 +627,7 @@
         "date_published": "2019-01-20T09:19:46+00:00",
         "url": "https://carlesbellver.net/2019/01/20/101946.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2019/01/6c1cb2435e574315ac453d3ef425d946.jpg",
-        "content_text": "Raspberry Pi amb pantalla de paper electrònic Inky wHAT. Predicció del temps via AEMET (XML). Temperatura: estació UJI, observatori Morella. Icones: Climacons. Titulars de notícies via Europa Press (RSS). Programació: Python.\n"
+        "content_text": "Raspberry Pi amb pantalla de paper electrònic Inky wHAT. Predicció del temps via AEMET (XML). …"
       },
       {
         "id": "https://carlesbellver.net/2018/12/30/124636.html",
@@ -667,7 +675,7 @@
         "date_published": "2018-11-28T17:46:18+00:00",
         "url": "https://carlesbellver.net/2018/11/28/184618.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg",
-        "content_text": "Passeig de l'Albereda de Morella. Monument a Manuel González Martí.\n"
+        "content_text": "Passeig de l\u0026rsquo;Albereda de Morella. Monument a Manuel González Martí.\n"
       },
       {
         "id": "https://carlesbellver.net/2018/11/27/104012.html",
@@ -739,7 +747,7 @@
         "date_published": "2018-10-29T17:14:16+00:00",
         "url": "https://carlesbellver.net/2018/10/29/181416.html",
           "image": "https://carlesbellver.net/uploads/2018/2018-10-29-mapa-tresor-uji.jpg",
-        "content_text": "Sota d'un pont, a l'est d'una espessor, al nord-oest d'un arbre remarcable… Aquest circuit d'orientació del campus #UJI em recorda el mapa de L'illa del tresor.\n\n"
+        "content_text": "Sota d\u0026rsquo;un pont, a l\u0026rsquo;est d\u0026rsquo;una espessor, al nord-oest d\u0026rsquo;un arbre remarcable… …"
       },
       {
         "id": "https://carlesbellver.net/2018/09/29/184641.html",
@@ -763,7 +771,7 @@
         "date_published": "2018-09-20T06:18:00+00:00",
         "url": "https://carlesbellver.net/2018/09/20/071805.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/09/c8c114f451ef46c587b40e5030a8d859.jpg",
-        "content_text": " Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de l'esbalaïment, i quan Lord Carnarvon, incapaç de restar més temps en suspens, va preguntar ansiosament: \u0026quot;Pots veure alguna cosa?\u0026quot;, les úniques paraules que vaig poder pronunciar van ser: \u0026quot;Sí, coses meravelloses\u0026quot;.\n "
+        "content_text": " Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de …"
       },
       {
         "id": "https://carlesbellver.net/2018/09/19/171509.html",
@@ -795,7 +803,7 @@
         "date_published": "2018-08-11T18:32:10+00:00",
         "url": "https://carlesbellver.net/2018/08/11/193210.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/08/715f871c73c547f1b70bec89433517ab.jpg",
-        "content_text": "📖 Dashiell Hammet, Interrogatorios (Errata naturae). Transcripció de les seves declaracions davant del tribunal que el va condemnar a sis mesos de presó i davant del Comitè d'Activitats Antiamericanes. Inclou el conte “Sombra en la noche” (“¿Y qué coño crees que quiero ser? ¿Chino?”).\n"
+        "content_text": "📖 Dashiell Hammet, Interrogatorios (Errata naturae). Transcripció de les seves declaracions davant …"
       },
       {
         "id": "https://carlesbellver.net/2018/08/03/171609.html",
@@ -819,7 +827,7 @@
         "date_published": "2018-07-26T20:58:02+00:00",
         "url": "https://carlesbellver.net/2018/07/26/215802.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/07/7649190200_ebed6cfdab_o.jpg",
-        "content_text": "Facebook em recorda que avui fa sis anys que vaig publicar aquesta foto. Per a tranquil·litat de tothom, faig constar que al final vam poder eixir d'aquell edifici infaust. En març d'enguany ens van donar allotjament a la Biblioteca de l'#UJI.\n"
+        "content_text": "Facebook em recorda que avui fa sis anys que vaig publicar aquesta foto. Per a tranquil·litat de …"
       },
       {
         "id": "https://carlesbellver.net/2018/07/21/123921.html",
@@ -851,7 +859,7 @@
         "date_published": "2018-07-05T19:27:33+00:00",
         "url": "https://carlesbellver.net/2018/07/05/202733.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/07/3894c17a9ee04eed912a1033c10023d9.jpg",
-        "content_text": "La meva opinió ràpida sobre el Gemini PDA: no és perfecte, però si no existís hauria d’inventar-lo algú (encara que fos una petita companyia anglesa).\n"
+        "content_text": "La meva opinió ràpida sobre el Gemini PDA: no és perfecte, però si no existís hauria d’inventar-lo …"
       },
       {
         "id": "https://carlesbellver.net/2018/06/20/224406.html",
@@ -859,7 +867,7 @@
         "date_published": "2018-06-20T21:44:06+00:00",
         "url": "https://carlesbellver.net/2018/06/20/224406.html",
           "image": "https://carlesbellver.net/uploads/2018/2018-06-20-224406.jpg",
-        "content_text": "Avui el corrector de l’iPhone m’ha canviat ‘inventar’ per ‘intentar’. Exactament com aquell linotipista a Joan Fuster. I jo m’he sentit transportat.\n"
+        "content_text": "Avui el corrector de l’iPhone m’ha canviat ‘inventar’ per ‘intentar’. Exactament com aquell …"
       },
       {
         "id": "https://carlesbellver.net/2018/06/12/063731.html",
@@ -931,7 +939,7 @@
         "date_published": "2018-04-01T18:27:06+00:00",
         "url": "https://carlesbellver.net/2018/04/01/192706.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/04/b43f51e5aa34472eb14722c810244bb8.jpg",
-        "content_text": "Peanuts Every Sunday. Tires dominicals 1958-1961. Comprat a l'aeroport de Viena el 28 d'octubre de 2001: viatge de noces. Quan era menut tenia uns llençols, cosits per l'àvia Maria Antònia, estampats amb aquests personatges. Humor naïf existencialista que m'acompanya sempre.\n"
+        "content_text": "Peanuts Every Sunday. Tires dominicals 1958-1961. Comprat a l’aeroport de Viena el 28 …"
       },
       {
         "id": "https://carlesbellver.net/2018/04/01/091229.html",
@@ -947,7 +955,7 @@
         "date_published": "2018-03-29T15:25:25+00:00",
         "url": "https://carlesbellver.net/2018/03/29/162525.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/03/88c33b7adcff407fb5315f47b8073229.jpg",
-        "content_text": "Ens han traslladat a l'edifici de la Biblioteca de l'#UJI i ara, mirant cap amunt, tinc aquesta vista als matins quan entre a treballar.\n"
+        "content_text": "Ens han traslladat a l’edifici de la Biblioteca de l’#UJI i ara, mirant cap amunt, tinc aquesta …"
       },
       {
         "id": "https://carlesbellver.net/2018/03/22/192804.html",
@@ -955,7 +963,7 @@
         "date_published": "2018-03-22T18:28:04+00:00",
         "url": "https://carlesbellver.net/2018/03/22/192804.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/03/af650aa19fde4e00b16e5da0b7cfa08b.jpg",
-        "content_text": "D’entre els fulls d'un llibre vell, llisca un retall d'una columna de Manuel Vázquez Montalbán. “Algo hemos avanzado”, ironitzava ell fa trenta anys.\n"
+        "content_text": "D’entre els fulls d\u0026rsquo;un llibre vell, llisca un retall d\u0026rsquo;una columna de Manuel Vázquez …"
       },
       {
         "id": "https://carlesbellver.net/2018/03/19/193034.html",
@@ -963,7 +971,7 @@
         "date_published": "2018-03-19T18:30:34+00:00",
         "url": "https://carlesbellver.net/2018/03/19/193034.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/03/b854a128add64c67b2f0c6389dc8ae0b.jpg",
-        "content_text": "Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatués “I ❤️ Cthulhu”. Però jo sóc més de l'altre, del caos reptant. Afinitats, en tot cas, que no convé esventar impúdicament. Si no és dissimulant-les, per exemple amb un —aparentment— anodí “I ❤️ NY”.\n"
+        "content_text": "Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatués “I ❤️ …"
       },
       {
         "id": "https://carlesbellver.net/2018/03/16/185237.html",
@@ -979,7 +987,7 @@
         "date_published": "2018-03-10T17:25:28+00:00",
         "url": "https://carlesbellver.net/2018/03/10/182528.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/03/61e9cd4ad93540bba1da9f1a06dd2cf0.jpg",
-        "content_text": "Enguany esperava trobar-hi el símbol del Bitcoin en comptes del dòlar. Però les atraccions de la fira continuen fortament ancorades en el passat.\n"
+        "content_text": "Enguany esperava trobar-hi el símbol del Bitcoin en comptes del dòlar. Però les atraccions de la …"
       },
       {
         "id": "https://carlesbellver.net/2018/03/09/102322.html",
@@ -987,7 +995,7 @@
         "date_published": "2018-03-09T09:23:00+00:00",
         "url": "https://carlesbellver.net/2018/03/09/102322.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/03/f1d867e01d2f4d9fb4365a64d9bc37b9.jpg",
-        "content_text": " El sedàs de triar l'arròs va estar molts anys al rebost, quan ja ningú no el feia servir perquè l'arròs ja no es comprava al magatzem al costat del mercat de Sant Antoni amb un saquetet de roba de quadres i ja no calia triar-lo.\n —Maria Folch, Després vénen els anys\n"
+        "content_text": " El sedàs de triar l\u0026rsquo;arròs va estar molts anys al rebost, quan ja ningú no el feia servir …"
       },
       {
         "id": "https://carlesbellver.net/2018/02/28/180327.html",
@@ -995,7 +1003,7 @@
         "date_published": "2018-02-28T17:03:27+00:00",
         "url": "https://carlesbellver.net/2018/02/28/180327.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/02/287ca15893de42f1b37066cd5072b3c9.jpg",
-        "content_text": "A les finestres d’aquest Edifici d’Investigació apareixen missatges esotèrics escrits en binari. #UJI\n"
+        "content_text": "A les finestres d’aquest Edifici d’Investigació apareixen missatges esotèrics escrits en binari. …"
       },
       {
         "id": "https://carlesbellver.net/2018/02/24/122512.html",
@@ -1011,7 +1019,7 @@
         "date_published": "2018-02-23T16:57:00+00:00",
         "url": "https://carlesbellver.net/2018/02/23/175700.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/02/cdfdc2fb28f8463696d3e54291524d64.jpg",
-        "content_text": "Quan vaig comprar aquesta versió del cub de Rubik, amb cares de senyores i senyors, no imaginava que resultaria tan difícil. Les peces centrals poden quedar girades i això no sabia resoldre-ho. Però ara ja me n'he informat. Només calia aprendre dues seqüències noves. 🙂\n"
+        "content_text": "Quan vaig comprar aquesta versió del cub de Rubik, amb cares de senyores i senyors, no imaginava que …"
       },
       {
         "id": "https://carlesbellver.net/2018/02/17/161748.html",
@@ -1027,7 +1035,7 @@
         "date_published": "2018-02-17T11:31:13+00:00",
         "url": "https://carlesbellver.net/2018/02/17/123113.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/02/5c674f912477416d8ffcd8ef3eaa212a.jpg",
-        "content_text": "Vantage point. Parc de l'Hospital, València.\n"
+        "content_text": "Vantage point. Parc de l\u0026rsquo;Hospital, València.\n"
       },
       {
         "id": "https://carlesbellver.net/2018/02/12/183911.html",
@@ -1051,7 +1059,7 @@
         "date_published": "2018-01-31T17:25:23+00:00",
         "url": "https://carlesbellver.net/2018/01/31/182523.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/01/img_5617.jpg",
-        "content_text": "El riu Sec. L'Amazònia de Castelló.\n"
+        "content_text": "El riu Sec. L\u0026rsquo;Amazònia de Castelló.\n"
       },
       {
         "id": "https://carlesbellver.net/2018/01/26/165959.html",
@@ -1059,7 +1067,7 @@
         "date_published": "2018-01-26T15:59:59+00:00",
         "url": "https://carlesbellver.net/2018/01/26/165959.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/01/eb98bcc054ec43fa83d449d0c83f5f7e.jpg",
-        "content_text": "Els països aragonesos: “Le royaume d’Aragon avec ses dépendances”. Exposició ”De les terres i els dominis del senyor rei d'Aragó”. Universitat Jaume I. Menador, espai cultural.\n"
+        "content_text": "Els països aragonesos: “Le royaume d’Aragon avec ses dépendances”. Exposició ”De les terres i els …"
       },
       {
         "id": "https://carlesbellver.net/2018/01/13/194940.html",
@@ -1091,7 +1099,7 @@
         "date_published": "2017-12-27T08:31:00+00:00",
         "url": "https://carlesbellver.net/2017/12/27/093115.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2017/12/99b59ed6976440499e20754801796dd3.jpg",
-        "content_text": "Llegit: En Tristany s’encongeix, de Florence Parry Heide i Edward Gorey (Blackie Books). Regal de Nadal. Deliciós.\n"
+        "content_text": "Llegit: En Tristany s’encongeix, de Florence Parry Heide i Edward Gorey (Blackie Books). Regal de …"
       },
       {
         "id": "https://carlesbellver.net/2017/12/22/083709.html",
@@ -1107,7 +1115,7 @@
         "date_published": "2017-12-19T17:05:00+00:00",
         "url": "https://carlesbellver.net/2017/12/19/180528.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2017/12/703cfe5501474695bfca405d3151c96e.jpg",
-        "content_text": "Rellotge Sturmanskie. Com el que portaven els cosmonautes de la Voskhod 1, primer vol espacial amb més d’un tripulant (n’eren tres, de fet, i portaven roba normal perquè amb l’escafandre no hi haurien cabut, en un espai tan reduït).\n"
+        "content_text": "Rellotge Sturmanskie. Com el que portaven els cosmonautes de la Voskhod 1, primer vol espacial amb …"
       },
       {
         "id": "https://carlesbellver.net/2017/12/15/174415.html",
@@ -1115,7 +1123,7 @@
         "date_published": "2017-12-15T16:44:15+00:00",
         "url": "https://carlesbellver.net/2017/12/15/174415.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2017/12/442cbb7a77e24111b5c1ed9050ae148c.jpg",
-        "content_text": "“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d'Art Contemporani de Vilafamés en la Biblioteca #UJI.\n"
+        "content_text": "“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu …"
       },
       {
         "id": "https://carlesbellver.net/2017/12/07/160143.html",
@@ -1195,7 +1203,7 @@
         "date_published": "2017-10-08T20:32:00+00:00",
         "url": "https://carlesbellver.net/2017/10/08/213215.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2017/10/ebd7ff76cf6c4c19953b5419e08097a6.jpg",
-        "content_text": " En cuanto cruzas la calle\nestás del lado de la sombra.\n —Más acá, más allá, milonga de Juan Ferraris citada por Adolfo Bioy Casares.\n"
+        "content_text": " En cuanto cruzas la calle\nestás del lado de la sombra.\n —Más acá, más allá, milonga de Juan …"
       },
       {
         "id": "https://carlesbellver.net/2017/10/04/185218.html",
@@ -1259,7 +1267,7 @@
         "date_published": "2017-07-09T19:47:00+00:00",
         "url": "https://carlesbellver.net/2017/07/09/204722.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2017/07/hipstamaticphoto-521316635.960917-2.jpg",
-        "content_text": "Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines (església de Sant Agustí de Castelló).\n Agustí va obrir les rescloses a través de les quals van afluir des de llavors al pensament europeu les energies masoquistes primàries… Es podria dir que, d'aquesta manera, Agustí va deslligar la filosofia de la seva antiga constitució maníaca i la va col·locar sota el patrocini de la depressió.\n —Peter Sloterdijk, Temperaments filosòfics.\n"
+        "content_text": "Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines (església de …"
       },
       {
         "id": "https://carlesbellver.net/2017/06/30/165852.html",
@@ -1275,7 +1283,7 @@
         "date_published": "2016-11-13T23:00:00+00:00",
         "url": "https://carlesbellver.net/2016/11/13/un-altre-conte.html",
           "image": "https://carlesbellver.net/uploads/2019/f2c49a5821.jpg",
-        "content_text": "He somniat que contractava uns xinesos per baixar l’UJI del núvol. Ho feien un dia de festa, quan el rector i el gerent estaven despistats. Deixaven la base de dades a la consergeria de serveis centrals, en un USB amb logo personalitzat, i les aplicacions en GitCafé. Aturaven les instàncies d’EC2, etc. I a mi em regalaven un cupó de descompte d’AliExpress.\nTot això respectant escrupolosament la legalitat. Ens assessorava un advocat andorrà.\n\n"
+        "content_text": "He somniat que contractava uns xinesos per baixar l’UJI del núvol. Ho feien un dia de festa, quan el …"
       },
       {
         "id": "https://carlesbellver.net/2016/06/23/the-peanut-underground.html",
@@ -1299,7 +1307,7 @@
         "date_published": "2016-01-27T23:00:00+00:00",
         "url": "https://carlesbellver.net/2016/01/27/per-allusions-lapocalipsi.html",
           "image": "https://carlesbellver.net/uploads/2019/37645c09de.jpg",
-        "content_text": "\nVaig demanar a Maria Folch que presentés el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria parlar gaire. Tan sols uns pocs minuts, com vaig dir, per al·lusions. No repetiré ací cada observació que vaig fer, però sí que deixaré constància de dos o tres detalls que m’interessen particularment.\nUn. Certament no era cap secret que en “Un cel nou i una terra nova” —el conte que dóna títol al llibre— s’esdevé una mena d’apocalipsi. El relat dels fets, com va assenyalar Maria, comença sota un epígraf que no pot ser més explícit: “Just abans de la fi del món”. Amb la qual cosa tampoc pretenia resultar gens original. No mancàvem de proclames apocalíptiques, mentre jo escrivia. I segurament amb raó. Almenys a mi també m’ho pareixia, que la realitat se’ns estava ensorrant i que ens queia damunt a trossos. I encara m’ho pareix, és clar. No hi ha dia que no ens assabentem d’una altra calamitat. Però era optimista, i per això hi havia una segona part: “Quinze anys després”. És a dir, que s’acabava un món, però tot seguit en començava un altre. Més estrany encara, potser. Nou de trinca.\nDos. Hi havia una pregunta ineludible: per què l’acció transcorre a València? Era conscient que se’m podia acusar, fins i tot, de pocavergonya i de traïdor, atesa la meva inclinació a exercir d’escriptor castellonenc. Però, siguem sincers, si venia l’apocalipsi, on volíem que passés? Recorde que Manuel Vázquez Montalbán, molt irònicament, va advertir alguna vegada que a Barcelona podien estar tranquils, perquè si tiraven la bomba atòmica la tirarien a Madrid, que per això era la capital. Ho va escriure a les pàgines d’El País i se li va enfadar més d’un lector. Eren els anys llunyans de la guerra freda i l’autonomia, però la idea continua sent vàlida. Les coses importants passen als llocs importants. L’apocalipsi de debò, al nostre entorn de país o regne, només podia ocórrer a València. A Castelló, on no tenim més que una subdelegació del Govern, amb prou feines ens n’assabentaríem per la tele o pel Twitter. Per tant, des del primer moment, vaig tenir clar on era que arribava en tren el narrador, aquest home o homenet de negre en cerca del seu destí de funcionari.\nI tres… bé, allò de l’animalet i el somni d’una escriptora ho deixarem per a un altre dia, que és un assumpte que mereix un apunt per si mateix.\n(La foto. Gener de 2014. Em vaig agafar un dia lliure amb la intenció de passejar-me pel centre de València. Més que documentar-me, supose que volia comprovar que els carrers i les cases restaven als mateixos llocs. On els havia deixats.)\n"
+        "content_text": "\nVaig demanar a Maria Folch que presentés el meu llibre perquè sabia que s’explicaria tan bé que a …"
       },
       {
         "id": "https://carlesbellver.net/2014/05/06/pensava-demanarhi-asil.html",
@@ -1307,7 +1315,7 @@
         "date_published": "2014-05-06T22:00:00+00:00",
         "url": "https://carlesbellver.net/2014/05/06/pensava-demanarhi-asil.html",
           "image": "https://carlesbellver.net/uploads/2019/5ae3e0ccfe.jpg",
-        "content_text": "\nPensava demanar-hi asil, però a l’últim moment m’ha fet vergonya i només he demanat l’hora. La d’Oslo, vull dir. La mateixa que ací, m’han contestat. M’ha estranyat, i se’m deu haver notat en l’expressió de la cara, perquè llavors el funcionari, un home jove potser en el seu primer destí —alt, els ulls clars i astuts de víking— m’ha volgut explicar que el Consell d’Europa debat crear zones horàries noves, basades en la latitud més que no pas en la distància de Greenwich, aquest costum antic. N’hi hauria tres i prou: una hora nòrdica, una hora central i una altra per als països del sud. Aquesta darrera, la nostra, quinze o vint minuts —com a molt— per davant de l’hora del nord d’Àfrica. Parlava un castellà pulcre, neutre, sense accent. Si de cas, amb uns matisos de posta de sol als fiords en acabar les frases. Ens hem acomiadat molt diplomàticament i he marxat més intranquil que abans.\n"
+        "content_text": "\nPensava demanar-hi asil, però a l’últim moment m’ha fet vergonya i només he demanat l’hora. La …"
       },
       {
         "id": "https://carlesbellver.net/2013/12/19/tensin-de-muerte.html",
@@ -1323,7 +1331,7 @@
         "date_published": "2013-12-08T23:00:00+00:00",
         "url": "https://carlesbellver.net/2013/12/08/definici-dngel.html",
           "image": "https://carlesbellver.net/uploads/2019/9df7696f2e.jpg",
-        "content_text": " A sobrevent, un batre\nd’ales, alè al vol,\nbatecs.\nA contrallum, venoses\nbranques, llamps de dol,\nempelts.\n —Josep Porcar, Llambreig.\nA vosaltres, us ha dedicat mai un poeta una “Definició d’àngel”? Perquè a mi sí.\n"
+        "content_text": " A sobrevent, un batre\nd’ales, alè al vol,\nbatecs.\nA contrallum, venoses\nbranques, llamps de dol, …"
       },
       {
         "id": "https://carlesbellver.net/2013/05/26/dessecaci.html",
@@ -1331,7 +1339,7 @@
         "date_published": "2013-05-26T22:00:00+00:00",
         "url": "https://carlesbellver.net/2013/05/26/dessecaci.html",
           "image": "https://carlesbellver.net/uploads/2020/f5a37ff48d.jpg",
-        "content_text": "En El otoño del patriarca, el dictador venia el mar als gringos per pal·liar l’endeutament. Avui, en passar pel Parc de Ribalta, m’he trobat la bassa dels peixos buida…\n"
+        "content_text": "En El otoño del patriarca, el dictador venia el mar als gringos per pal·liar l’endeutament. Avui, en …"
       },
       {
         "id": "https://carlesbellver.net/2013/02/07/una-qesti-de.html",
@@ -1339,7 +1347,7 @@
         "date_published": "2013-02-07T23:00:00+00:00",
         "url": "https://carlesbellver.net/2013/02/07/una-qesti-de.html",
           "image": "https://carlesbellver.net/uploads/2019/fb9ebfd41f.jpg",
-        "content_text": "\nHeus ací la citació amb què he volgut encapçalar el meu nou llibre. Un cèlebre vers del cèlebre poema de Joan Fuster “Criatura dolcíssima” (Escrit per al silenci, 1954):\n No hi llegiran ton nom amb un bell pànic?\n Es tracta d’un poema bastant conegut, em pense que sobretot per l’adaptació que en va fer Lluís Llach (Somniem, 1979; Poetes, 2004). I heus ací on em sorgia el dubte, perquè, en la versió de Llach, el vers figura exactament tal com jo l’acabe de transcriure, però en l’edició del llibre de Fuster de què dispose (dins Set llibres de versos, 1989), i en moltes pàgines web (com l’adés enllaçada), s’observa una no tan petita variació:\n No li llegiran ton nom amb un bell pànic?\n No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d'aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.\nMentre hi rumiava, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la fitxa del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.\nLa solució del problema, finalment, va arribar per un altre cantó, i era d’allò més fàcil: només calia comptar les síl·labes. “Criatura dolcíssima” són tot tercets decasíl·labs, menys, únicament —si fos amb “li”—, aquest verset de la discòrdia, que seria hendecasíl·lab. Per coherència mètrica, doncs, entenc que la versió bona era l’original, amb “hi”. D’altra banda, si fem la cerca amb Google Books, podem comprovar que la versió amb “li” només apareix en l’edició de 1989 i en alguna antologia posterior. Pareix, doncs, que es tractaria d’una errata introduïda tan recentment i escampada en el Web pàgina a pàgina.\nPer a tancar aquest apunt, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar la meva conclusió i les raons mètriques i semàntiques que m’hi han portat.\n"
+        "content_text": "\nHeus ací la citació amb què he volgut encapçalar el meu nou llibre. Un cèlebre vers del cèlebre …"
       },
       {
         "id": "https://carlesbellver.net/2010/12/14/la-veu-de.html",
@@ -1347,7 +1355,7 @@
         "date_published": "2010-12-14T23:00:15+00:00",
         "url": "https://carlesbellver.net/2010/12/14/la-veu-de.html",
           "image": "https://carlesbellver.net/uploads/2019/fbd0f18097.jpg",
-        "content_text": "\nWilbur és un bot nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter @carlesbellver (abans ho feia en el seu propi: @petitwilbur). Molt de tant en tant profereix alguna imprecació a l'estil d'Archibald Haddock.\nWilbur és el guardià del meu son. No sempre sé per què diu el que diu. Schopenhauer va escriure en alguna ocasió que la vigília i els somnis són fulls d'un mateix llibre. De nit el fullegem sense ordre ni concert.\nAl matí em desperta amb el pronòstic del temps.\nEn la seva infantesa, Wilbur funcionava —vivia— en el meu Chumby, un despertador Linux connectat a Internet. Malauradament Chumby és gairebé història. Ara Wilbur viu en un ordinador convencional. Com que és essencialment software es pot transmigrar sense immutar-se.\n"
+        "content_text": "\nWilbur és un bot nocturn que regira els meus arxius i en va publicant fragments en el meu compte de …"
       },
       {
         "id": "https://carlesbellver.net/2004/05/22/el-caragol.html",
@@ -1355,7 +1363,7 @@
         "date_published": "2004-05-22T22:00:00+00:00",
         "url": "https://carlesbellver.net/2004/05/22/el-caragol.html",
           "image": "https://carlesbellver.net/uploads/2004/2004-05-22-caragol.jpg",
-        "content_text": "L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i rodó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.\nAl cap d’una estona, però, vam observar com treia el cap, les banyes i la panxa. Es va tornar a arrossegar a poc a poc fins al test, es va enfilar amunt cap al verd i finalment es va col·locar si fa no fa en el mateix punt i en la mateixa posició d’abans.\nEncara hi és.\n"
+        "content_text": "L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la …"
       },
       {
         "id": "https://carlesbellver.net/2003/06/03/bbedit/",
@@ -1363,7 +1371,7 @@
         "date_published": "2003-06-03T21:00:00+00:00",
         "url": "https://carlesbellver.net/2003/06/03/bbedit/",
           "image": "https://carlesbellver.net/uploads/2003/2003-06-03-bbedit-anthology.jpg",
-        "content_text": "Fa quasi deu anys vaig programar un conjunt d'extensions per a BBEdit -el millor editor de textos per a Mac, llavors i ara- que facilitaven l'edició d'HTML. Més endavant, aquestes extensions, i un altre paquet alternatiu desenvolupat per Lindsay Davies van ser incloses en la distribució oficial de BBEdit.\nJa ho he contat moltes vegades. Tot allò va comportar per a mi uns pocs minuts warholians de fama. El meu nom i les meues extensions circulaven per Internet i s'imprimien en llibres i CD-ROMS. Eren els primers temps del Web i tot era nou i interessant. Aquesta setmana, la gent de Bare Bones Software m'han enviat el CD-ROM BBEdit Anthology, una edició limitada amb totes les versions de BBEdit des de la 2.5. També hi havia una nota d'agraïment signada per Rich Siegel i unes calcomanies.\n The company soon discovered that two Europeans —Carles Bellver in Spain and Lindsay Davies in the UK— had written BBEdit plug-ins that automated the process of generating text with HTML markup…\n 📎 Apple - Hot News - Bare Bones\n BBEdit, from Bare Bones Software, became a popular HTML editing tool before it had HTML features, in part because it is an excellent text editor, and in part because Carles Bellver and Lindsay Davies both released reasonably complete sets of BBEdit extensions for HTML.\n 📎 TidBITS#385/23-Jun-97\n"
+        "content_text": "Fa quasi deu anys vaig programar un conjunt d\u0026rsquo;extensions per a BBEdit -el millor editor de …"
       },
       {
         "id": "https://carlesbellver.net/2003/02/14/correo-euclides/",
@@ -1371,7 +1379,7 @@
         "date_published": "2003-02-14T21:00:00+00:00",
         "url": "https://carlesbellver.net/2003/02/14/correo-euclides/",
           "image": "https://carlesbellver.net/uploads/2003/2003-02-14-correo-euclides.jpg",
-        "content_text": "Monterroso pensa que Déu encara no ha creat realment el món, i per això és tot tan confús: \u0026quot;sólo está imaginándolo, como entre sueños\u0026quot;.\nSupose que això contradiu el relat bíblic. Segons el Gènesi, la creació del món es va esdevenir ja fa moltes generacions, va durar set dies i va consistir bàsicament a posar ordre en el caos. Sant Joan aclareix que al principi hi era la Paraula, que és traducció del grec logos: raó, llenguatge. Però aquells mots que tenien per missió convertir el caos en cosmos ben bé podien ser mots errats, enganyosos. Almenys aquesta era la hipòtesi avançada per Max Aub en un cartell de l'any 1968: que Déu va crear la terra per culpa d'un mal informe de la CIA.\n"
+        "content_text": "Monterroso pensa que Déu encara no ha creat realment el món, i per això és tot tan confús: …"
       },
       {
         "id": "https://carlesbellver.net/2002/12/15/catalan-sf-authors/",
@@ -1379,7 +1387,7 @@
         "date_published": "2002-12-15T22:00:00+00:00",
         "url": "https://carlesbellver.net/2002/12/15/catalan-sf-authors/",
           "image": "https://carlesbellver.net/uploads/2002/2002-12-15-catalan-sf-authors.jpg",
-        "content_text": "El dia 1 de novembre, just abans de presentar El llibre de tòpics a la Barnacon, em van convidar a posar per a una foto amb una sèrie de persones del món de la ciència-ficció catalana. Ara m'he assabentat que la instantània il·lustrarà un article de la revista americana Locus (\u0026quot;News, Reviews, Resources, and Perspectives of Science Fiction, Fantasy and Horror\u0026quot;).\nEm sap greu i tot, perquè m'ho vaig passar estupendament, però em sentia una miqueta un intrús en una convenció d'aquell tipus. Probablement m'haurien d'esborrar de la imatge. En tot cas, deixe constància que d'esquerra a dreta som: Toni Segarra, Rosa Fabregat, Carles Bellver Torlà, Antoni Munnè-Jordà, Albert Garcia i Pascual, Miquel Barceló, Sebastià Roig, Montse Cerdà, Jordi Solé Camardons i Isidor Bernabé.\nPer cert, els contertulians de la llista de correu de la Societat Catalana de Ciència-Ficció i Fantasia s'han divertit fent bromes sobre el fet que van quedar tots al costat fosc, menys l'Albert, que hi és a mitges, i jo, que encara sóc al costat lluminós.\n"
+        "content_text": "El dia 1 de novembre, just abans de presentar El llibre de tòpics a la Barnacon, em van convidar a …"
       },
       {
         "id": "https://carlesbellver.net/2002/09/29/joan-francesc-mira.html",
@@ -1387,7 +1395,7 @@
         "date_published": "2002-09-29T22:00:00+00:00",
         "url": "https://carlesbellver.net/2002/09/29/joan-francesc-mira.html",
           "image": "https://carlesbellver.net/uploads/2002/2002-09-29-enajenada.jpg",
-        "content_text": "El Magazine de La Vanguardia de diumenge passat incloïa un article de Joan Francesc Mira titulat “San Vicente Ferrer en el tiempo de los milagros”. Mira hi esbossava breument el perfil del sant com a taumaturg (“autor de meravelles”) i de pas promocionava el seu propi llibre Sant Vicent Ferrer. Vida i llegenda d’un predicador, premi Nacional de la Crítica.\nL’enquesta de canonització de Sant Vicent, el 1455, va donar per bons un total de 873 miracles. No sé si un dels més xocants, el que va tenir lloc a Morella, figurava en aquella llista. Supose que sí. A mi, i a tota la classe de primer de bàsica, ens el va contar donya Paquita. Diu que una vegada van convidar a dinar el sant en una casa de la capital dels Ports. La mestressa, en veure que no tenia carn i ofuscada pel compromís, va decidir sacrificar el seu fill, un xiquet menut. El va matar, el va trossejar i el va guisar. Sant Vicent, però, es va ensumar la malifeta i va recompondre immediatament la criatura. Els artistes la representen dreta i nua damunt de la taula del menjador, entre plats i perols.\nMira opina, amb raó, que aquesta proesa és difícilment superable. La compara amb guariments i amb altres ressurreccions menys meritòries i conclou que “…no hay duda de que ganaría el premio de honor en cualquier competición universal de milagros.” Crec, tanmateix, que comet una exageració, víctima, potser, d’un excés patriòtic. Un professor tan sabut, d’erudició reconeguda, sens dubte no ignora que aquest miracle és còpia d’un altre anterior atribuït a Sant Nicolau de Bari, qui el va executar, a més a més, per triplicat: els seus beneficiaris van ser tres infants esquarterats per un carnisser. Amb la qual cosa, a dreta llei hauria d’endur-se ell el premi.\nAquesta dada referent a Sant Nicolau, la sé per un article de mossèn Alanyà publicat en el butlletí d’AMIC (Amics de Morella i Comarca), però es pot comprovar consultant qualsevol enciclopèdia. Atribuir miracles a un sant, quants més millor, era una manera habitual d’augmentar-ne el prestigi. I també pel prestigi, les ciutats es disputaven la tinença dels sants. Sant Nicolau de Bari en realitat era de Mira —vegeu quina coincidència de noms—, a l’Àsia Menor, fins que els italians van organitzar una expedició l’any 1087 per apoderar-se de les seves relíquies. Més endavant va arribar ser el Sinterklaas dels holandesos i el Santa Claus dels anglosaxons.\n(La literatura fantàstica té ramificacions diverses. Una és la metafísica, segons Borges. Les vides de sants en són una altra. Una de les meves fonts preferides és la Llegenda Àuria de Jacopo da Varazze. Algun dia hauríem de tornar a parlar del miracle de la cama negra de Sant Cosme i Sant Damià, precursors dels trasplantaments. O dels fets sobrenaturals de la santa apòcrifa de Vilafamés.)\n"
+        "content_text": "El Magazine de La Vanguardia de diumenge passat incloïa un article de Joan Francesc Mira titulat …"
       }
   ]
 }
