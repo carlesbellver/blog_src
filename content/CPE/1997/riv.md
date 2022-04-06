@@ -4,7 +4,7 @@ title = "Res Inexplicata Volans"
 
 Font: EL PAÍS
 
-El Vaticà va publicar en 1997 un nou diccionari de llatí, el Lexicon. Recentis Latinitas. Aquesta obra, que culmina vuit anys de feina, inclou 15.000 neologismes sense els quals es feia difícil parlar del món d'avui a les encícliques.
+El Vaticà va publicar en 1997 un nou diccionari de llatí, el *Lexicon. Recentis Latinitas*. Aquesta obra, que culmina vuit anys de feina, inclou 15.000 neologismes sense els quals es feia difícil parlar del món d'avui a les encícliques.
 
 Heus-ne ací una mostra:
 
