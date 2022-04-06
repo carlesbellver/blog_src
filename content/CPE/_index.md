@@ -2,7 +2,7 @@
 title = "Contes per a extraterrestres"
 +++
 
-![](/uploads/2000/retro.gif)
+![](retro.gif)
 
 {{< icon file >}} [CPE vol. 2 núm. 1; setembre 1999](gutenberg/CPE201.pdf)
 
