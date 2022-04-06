@@ -21,7 +21,7 @@ DefaultContentLanguage = "ca"
   style = "light"
   readMore = true
   mainSections = ["posts"]
-  indexSections = ["posts", "contes", "llibres", "tallers"]
+  indexSections = ["posts", "contes", "llibres", "tallers", "CPE"]
   
 [permalinks]
   posts = "/:year/:month/:day/:slug"

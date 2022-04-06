@@ -4,7 +4,7 @@ title = "Professors de filosofia abduïts a Fraga"
 
 ## Dos joves professors de filosofia de la Universitat de Lleida asseguren que van ser abduïts per un OVNI quan passejaven en companyia dels seus alumnes
 
-Font: El heraldo del Cinca  
+Font: El Heraldo del Cinca  
 Data: 12/2/1998
 
 ![](/uploads/2000/abduccio1.jpg)

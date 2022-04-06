@@ -18,7 +18,8 @@ Pascual del Pobil ha assenyalat que aquest projecte té competidors a Alemanya, 
 
 En aquests moments s'espera un comunicat del col·lectiu d'ordenances de l'UJI i de les centrals sindicals majoritàries.
 
-**ACTUALITZACIÓ** [4/10/1999]{.small}\
+**ACTUALITZACIÓ** 4/10/1999
+
 El Laboratori de Robòtica està enllestint un prototip que començarà a treballar com a ordenança a l'UJI cap al maig.
 
 El robot, conegut per Jaume, fa només metre i mig d'alt, però amb el seu nou braç articulat és capaç d'arribar fins a tres metres d'alçada. «Sens dubte té la mà molt llarga,» ha comentat un dels seus creadors.
