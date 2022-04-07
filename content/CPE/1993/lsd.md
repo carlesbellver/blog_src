@@ -9,4 +9,3 @@ title = "El descobriment accidental del LSD"
 > La circumstància més afortunada del món, em pense, és la incapacitat de la ment humana per a correlacionar tots els seus continguts. Vivim en una tranquil·la illa d'ignorància enmig de mars negres d'infinitat, i no es pretenia que haguéssem de viatjar més lluny. Les ciències, estirant cada una en la pròpia direcció, fins ara ens han fet poc de mal; però algun dia la unió de les peces separades del coneixement ens mostrarà terrorífiques visions de la realitat i de la terrible posició en què ens hi trobem, que farà que nosaltres embogim per la revelació o que fugim de la llum mortal envers la pau i la seguretat d'una nova era obscura.
 
 —H. P. Lovecraft
-

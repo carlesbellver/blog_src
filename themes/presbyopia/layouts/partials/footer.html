@@ -11,9 +11,13 @@
         {{ end }}
         <div class="copyright">
           <p>
-            {{ if isset .Site.Params "author"}}<a href="/about/">{{ .Site.Params.author }}</a> {{ end }}
-            2002 - {{ now.Format "2006" }}
-          </p>  
+            {{ if eq .Section "CPE" }}
+              <a href="/cpe/">Contes per a extraterrestres</a> 1993-2000
+            {{ else }}
+              {{ if isset .Site.Params "author"}}<a href="/about/">{{ .Site.Params.author }}</a> {{ end }}
+              2002 - {{ now.Format "2006" }}
+            {{- end }}
+        </p>  
         </div> 
 
     </div>

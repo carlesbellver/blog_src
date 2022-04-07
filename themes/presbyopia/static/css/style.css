@@ -185,13 +185,11 @@ li { padding-left: 0.2em; }
 
 blockquote {
     margin: 1em 0;
-    /* border-left: 1px solid var(--bq-bar-color); */
     padding: 0 0 0 2em;
     color: var(--bq-color);
 }
 
 blockquote:before {
-    /* z-index: 0; */
     display: block;
     font-size: 500%;
     color: var(--bq-bar-color);
@@ -544,7 +542,7 @@ img.icon {
     text-transform: uppercase;
 }
 
-article .content img {
+article .content img, .index-content img {
     max-width: 100%;
     display: block;
     height: auto;

@@ -2,7 +2,9 @@
 title = "Contes per a extraterrestres"
 +++
 
-![](retro.gif)
+*Contes per a extraterrestres* va ser una revista de creació literària —electrònica i en paper— editada per Josep M. Chordà Fandos i Carles Bellver Torlà entre 1993 i 2000. El títol va ser una idea de Vicent P. Rebollar Cubells, que va participar també en l'edició dels primers números.
+
+![Contes per a extraterrestres. Retrospectiva 1993-2000](retro.gif)
 
 {{< icon file >}} [CPE vol. 2 núm. 1; setembre 1999](gutenberg/CPE201.pdf)
 

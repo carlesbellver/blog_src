@@ -22,6 +22,8 @@
 <link rel="stylesheet" href="{{ . | absURL }}?rnd={{ now.Unix }}">
 {{- end }}
 
+{{ if eq .Section "CPE" }}<link rel="stylesheet" href="{{ "css/cpe.css" | absURL }}?rnd={{ now.Unix }}" />{{- end }}
+
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | absURL }}?rnd={{ now.Unix }}" type="text/javascript" charset="utf-8"></script>
 {{- end }}
