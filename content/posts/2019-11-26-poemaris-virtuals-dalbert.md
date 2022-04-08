@@ -3,7 +3,7 @@ url = "/2019/11/26/poemaris-virtuals-dalbert.html"
 title = "Poemaris virtuals d’Albert Garcia Pascual"
 date = "2019-11-26T19:20:00+00:00"
 slug = "poemaris-virtuals-dalbert"
-image = "https://pbs.twimg.com/profile_images/1401186913269202949/gclKgElk_400x400.jpg"
+image = "https://www.elpontdeleslletres.cat/wp-content/uploads/2011/12/garcia_albert_m.jpg"
 +++
 
 Inventari provisional, actualització permanent. Publicació continuada a [Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator).
