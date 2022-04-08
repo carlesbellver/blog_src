@@ -1,39 +1,38 @@
 .index-content, .content {
-  font-family: "Ubuntu Mono", "Roboto Mono", monospace;
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 16px;
 }
 
-b, strong, i, em {
-  font-weight: normal;
-  font-style: normal;
-  text-decoration: underline;
+#main h1 {
 }
 
-#main h1, #main h2, #main h3 {
-  font-family: "Ubuntu Mono", "Roboto Mono", monospace;
-  font-size: 18px;
-  font-weight: normal;
+#main h2 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
   text-transform: uppercase;
 }
 
-#main h1 {
-  text-decoration: underline;
+#main h3 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
 }
 
 .index-content ul {
-  list-style-type: "\2014";
+  list-style-type: disc;
 }
 
 .content blockquote {
     margin: 1em 0;
-    padding: 0 0 0 0;
+    border-left: 1px solid var(--bq-color);
+    padding: 0 0 0 1em;
     color: var(--bq-color);
 }
 
 .content blockquote:before {
     font-size: 100%;
     color: var(--bq-color);
-    content: "> ";
+    content: "";
     top: 0;
     left: -0.5em;
 }
