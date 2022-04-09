@@ -10,7 +10,7 @@
       <li><ul class="post-tags">{{ range $tag := .Params.tags }}<li><img class="icon" src="{{ site.BaseURL }}/svg.icons/tag.svg" alt="tag" /> {{ if eq $tag "fotos" }}<a href="/photos/">Fotos</a>{{ else }}<a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>{{ end }}</li> {{ end }}</ul></li>
       {{ end }}
       {{ if gt .ReadingTime 2 }}<li><span class="readingtime"><img class="icon" src="{{ site.BaseURL }}/svg.icons/clock.svg" alt="clock" /> {{ .ReadingTime }} minuts</span></li>{{ end }}
-      {{- if or .Params.license (eq .Type "tmp") -}}<li><img class="icon" src="{{ site.BaseURL }}/svg.icons/copyright.svg" alt="copyright" />️ Copyright {{ .Params.date.Format "2006" }} {{ .Site.Params.author }}</li>{{- end}}
+      {{- if or .Params.license (eq .Type "tmp") -}}<li><img class="icon" src="{{ site.BaseURL }}/svg.icons/copyright.svg" alt="copyright" />️ {{ .Site.Params.author }}</li>{{- end}}
     {{ end }}
 </ul>
 
