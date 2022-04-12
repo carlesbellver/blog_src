@@ -712,6 +712,12 @@ ul.language-select > li, ul.footer-menu > li {
     font-size: 13px;
     color: var(--switcher-color);
     text-transform: uppercase;
+    text-decoration: none;
+}
+
+a.theme-switcher:hover {
+  color: var(--switcher-color);
+  text-decoration: none;
 }
 
 /* Media Queries */
