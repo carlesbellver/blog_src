@@ -10,6 +10,10 @@ template = "llibre"
 
 <img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
+{{< icon book >}} [EPUB](/files/uncelnouiunaterranova.epub)
+{{< icon book >}} [Kindle](/files/uncelnouiunaterranova.mobi)
+{{< icon book >}} [PDF](/files/uncelnouiunaterranova.pdf)
+
 Premi de narrativa breu Josep Pascual Tirado 2015.
 
 **Un cel nou i una terra nova**. Un jove funcionari —“home de negre”— arriba a una ciutat que podria ser València, intervinguda pel govern central. Des d’aquell primer vespre començaran a passar-li coses sorprenents. Un títol extret de l’*Apocalipsi* per a una història d’amor amanida amb fortes dosis de surrealisme i crítica social.

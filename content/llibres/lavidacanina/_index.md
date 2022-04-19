@@ -9,6 +9,10 @@ template = "llibre"
 
 <img src="/llibres/lavidacanina/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
+{{< icon book >}} [EPUB](/files/lavidacanina.epub)
+{{< icon book >}} [Kindle](/files/lavidacanina.mobi)
+{{< icon book >}} [PDF](/files/lavidacanina.pdf)
+
 Premi de narrativa Vila d’Almassora 2004.
 
 L’autor ens presenta els relats que componen aquest llibre com si els haguessin escrit els pacients d’un gabinet psiquiàtric. Podríem dir que el resultat se situa a mitjan camí entre una petita antologia d’històries fantàstiques i una crònica de casos clínics a la manera del doctor Sacks. Ens hi assabentem d’aparicions i desaparicions, trobades improbables, confusions inversemblants, persones que de sobte es posen a parlar en hongarès i altres que s’enyoren d’haver viscut un dia com a gossos. Els lectors, sens dubte, hi reconeixeran l’empremta de Perucho o de Calders. Però, també, potser, la de Boris Vian o la de Julio Cortázar.
