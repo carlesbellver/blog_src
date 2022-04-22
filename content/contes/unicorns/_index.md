@@ -3,7 +3,7 @@ license = "by-nc"
 title = "Unicorns"
 subtitle = "Improvisacions en 1.024 caràcters"
 description = "Improvisacions en 1.024 caràcters."
-image = "cover_medium.jpg"
+image = "/contes/unicorns/cover_medium.jpg"
 +++
 
 <img src="cover_small.jpg" alt="Portada edició electrònica"  style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
