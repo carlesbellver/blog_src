@@ -183,8 +183,8 @@ m'acompanyarà sempre.
 > en el sentit, precís o imprecís, però profund, d'André Breton.
 
 Em refereixo, és clar, a *L'arrencacors* de Boris Vian (no al meu
-conte). I a l'[Anthologie de l'humour
-noir](http://fr.wikipedia.org/wiki/Anthologie_de_l'humour_noir) d'André
+conte). I a l'[*Anthologie de l'humour
+noir*](http://fr.wikipedia.org/wiki/Anthologie_de_l'humour_noir) d'André
 Breton, tan plena de joioses sorpreses i meravelles (Swift, Lichtenberg,
 Ferry, Carrington, etc.).
 
@@ -375,8 +375,7 @@ canvi que el carreró es dediqués a la figura de l'[Ecce
 homo](http://ca.wikipedia.org/wiki/Ecce_Homo) (pronunciat "eix homo"
 en valencià clàssic).
 
-> -Vegeu per on -em digué amb una veu dolça i musical que
-> m'atorrollava- que avui mateix ens ha arribat la vostra comanda.
+> —Vegeu per on —em digué amb una veu dolça i musical que m'atorrollava— que avui mateix ens ha arribat la vostra comanda.
 
 L'embrió d'aquest relat -"L'automàtica", on la memòria es vol
 transformar en literatura, els fets en ficció- és un apunt de 2004 que
@@ -623,10 +622,10 @@ de les dues maneres possibles que s'hi apuntaven, de fet.
 
 (Beauvoir sens dubte coneix la citació de Goethe a través de
 [Wittgenstein](http://ca.wikipedia.org/wiki/Ludwig_Wittgenstein), que la
-va usar en els apunts publicats sota l'epígraf *De la certesa*, [Über
-Gewißheit](http://de.wikipedia.org/wiki/Über_Gewißheit) en l'original.
+va usar en els apunts publicats sota l'epígraf *De la certesa*, [*Über
+Gewißheit*](http://de.wikipedia.org/wiki/Über_Gewißheit) en l'original.
 Recordem ací que la tesi de llicenciatura de Beauvoir versava justament
-sobre aquella obra. El títol complet n'era *Lògica i deliri en Über
+sobre aquella obra. El títol complet era *Lògica i deliri en Über
 Gewißheit de Ludwig Wittgenstein*.)
 
 > Capità Archibald Haddock, al vostre servei.
