@@ -43,12 +43,14 @@ summary {
   background-color: var(--menu-bg-color);
   color: var(--menu-color);
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  z-index: 10;
 }
 
 .container {
   max-width: 600px;
   margin: 100px auto;
   padding: 0 10px;
+  z-index: 0;
 }
 
 main {
@@ -185,13 +187,11 @@ li { padding-left: 0.2em; }
 
 blockquote {
     margin: 1em 0;
-    /* border-left: 1px solid var(--bq-bar-color); */
     padding: 0 0 0 2em;
     color: var(--bq-color);
 }
 
 blockquote:before {
-    /* z-index: 0; */
     display: block;
     font-size: 500%;
     color: var(--bq-bar-color);
@@ -200,6 +200,7 @@ blockquote:before {
     margin-left: -0.45em;
     position: relative;
     top: -0.33em;
+    z-index: 1;
 }
 
 blockquote blockquote {
@@ -544,7 +545,7 @@ img.icon {
     text-transform: uppercase;
 }
 
-article .content img {
+article .content img, .index-content img {
     max-width: 100%;
     display: block;
     height: auto;
@@ -711,6 +712,12 @@ ul.language-select > li, ul.footer-menu > li {
     font-size: 13px;
     color: var(--switcher-color);
     text-transform: uppercase;
+    text-decoration: none;
+}
+
+a.theme-switcher:hover {
+  color: var(--switcher-color);
+  text-decoration: none;
 }
 
 /* Media Queries */

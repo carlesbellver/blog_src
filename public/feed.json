@@ -6,6 +6,20 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/04/23/video-games/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.insidehighered.com/blogs/higher-ed-gamma/can-video-games-teach\">Can Video Games Teach?</a></p>\n<p>Tinc la sensació que una bona part del discurs sobre jocs seriosos ve de persones, i d&rsquo;ambients, que no s’havien pres encara prou seriosament els videojocs. Ni la cultura popular en general, de fet. Com si no hagueren donat prou importància a l&rsquo;aprenentatge que es produïa, o es produeix, a més dels jocs, en tebeos, pel·lícules, cançons, etc., i no hagueren reflexionat sobre com traure’n profit per a l’educació.</p>\n<p>La meua opinió sobre el tema —totalment irrellevant— és que, als jocs, s’hi sol jugar seriosament —<a href=\"/2014/03/14/julio-cortzar-jugbamos.html\">com deia Julio Cortázar</a>— i que és bo equilibrar la balança amb un disseny seriós dels jocs. També, evidentment, des d’un punt de vista pedagògic.</p>\n<p>En aquest article, m’ha cridat especialment l’atenció el lligam que estableix entre els videojocs i el concepte de flux encunyat per <a href=\"https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi\">Csikszentmihalyi</a>. Precisament, va ser aquesta experiència d’immersió en els jocs la que va donar origen en 1962 al concepte de <a href=\"/2015/09/16/de-la-revelaci.html\">ciberespai</a> com a mitjà, més enllà de la realitat física, en què ens trobem quan interactuem amb o mitjançant dispositius electrònics.</p>\n<p>El ciberespai! Una idea amb molta història que ara el senyor Z. vol monopolitzar i explotar comercialment, canviant-li el nom per metavers.</p>\n",
+				"date_published": "2022-04-23T10:15:46+02:00",
+				"url": "https://carlesbellver.net/2022/04/23/video-games/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/04/22/sant-jordi/",
+				
+				"content_html": "<p>Oferta de Sant Jordi, vàlida fins al 8 de maig: si voleu que us signe un llibre en format electrònic, no teniu més que dir-m’ho i us enviaré un EPUB d’<a href=\"/contes/unicorns/\"><em>Unicorns</em></a> personalitzat i gratuït.</p>\n<p>S’admeten peticions per <a href=\"/about/\">correu, Telegram, Mastodon o Twitter</a>. Indiqueu en quina adreça de correu voleu rebre el llibre i quin nom ha d’aparèixer en la dedicatòria.</p>\n<p>En aquesta edició especial s’inclouen els seixanta-quatre dibuixos gargotejats per l’autor, a la manera d’Arthur Laffer, en els tovallons de paper de l’Arkham Café (s’ha de dir que no tenen, evidentment, cap valor artístic).</p>\n<img src=\"/uploads/2022/2022-04-22-tovallons_800.jpg\" alt=\"Mosaic amb les seixanta-quatre il·lustracions\">",
+				"date_published": "2022-04-22T11:00:50+02:00",
+				"url": "https://carlesbellver.net/2022/04/22/sant-jordi/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/04/04/gran-ciutat/",
 				
 				"content_html": "<p>Bon dia. Ja ens queda menys: al voltant de cent setanta anys #Castelló #UJI</p>\n<blockquote>\n<p>Si vols crear una gran ciutat, crea una gran universitat i espera dos-cents anys.</p>\n</blockquote>\n<p>📎 <a href=\"https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html\">Bruce Katz, urbanista de ciutats globals</a></p>\n",
@@ -165,20 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.unite.ai/analyzing-depressed-and-alcoholic-chatbots/\">Analyzing Depressed and Alcoholic Chatbots - Unite.AI</a></p>\n<blockquote>\n<p>Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se&rsquo;ls pregunta utilitzant tests estàndard d&rsquo;avaluació de salut mental, i que fins i tot mostren signes de problemes amb l&rsquo;alcohol.</p>\n</blockquote>\n<p>🤖🍷</p>\n",
 				"date_published": "2022-01-20T19:30:00+01:00",
 				"url": "https://carlesbellver.net/2022/01/20/depressed-alcoholic-chatbots/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/20/ia/",
-				
-				"content_html": "<p>Facultat de Ciències Humanes i Soc<span style=\"font-family: sans-serif; font-weight: bold;\">iA</span>ls #UJI #IA.</p>\n<img alt=\"Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.\" src=\"/uploads/2022/2022-01-20-ia.jpg\">\n",
-				"date_published": "2022-01-20T08:48:11+01:00",
-				"url": "https://carlesbellver.net/2022/01/20/ia/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/17/pastures-uji/",
-				
-				"content_html": "<p>Les pastures de l'#UJI. Descansar en prats deliciosos.</p>\n<img alt=\"Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d'un cavall entres els arbres.\" src=\"/uploads/2022/2022-01-17-pastures-uji.jpg\">\n",
-				"date_published": "2022-01-17T16:51:33+01:00",
-				"url": "https://carlesbellver.net/2022/01/17/pastures-uji/"
 			}
 	]
 }

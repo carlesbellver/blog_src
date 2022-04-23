@@ -1,15 +1,10 @@
-{{- with $.Params.image -}}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ . | absURL }}"/>
-{{ else -}}
 {{- with $.Params.photos -}}
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
 {{ else -}}
-{{- if .Site.Params.avatar }}
+{{- with $.Params.image -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ .Site.Params.avatar | absURL }}"/>
-{{- end }}
+<meta name="twitter:image" content="{{ . | absURL }}"/>
 {{- end }}
 {{- end }}
 <meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Summary }}{{ end}}"/>

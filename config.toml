@@ -22,7 +22,10 @@ DefaultContentLanguage = "ca"
   readMore = true
   mainSections = ["posts"]
   indexSections = ["posts", "contes", "llibres", "tallers", "CPE"]
-  
+
+[social]
+  twitter = "carlesbellver"
+
 [permalinks]
   posts = "/:year/:month/:day/:slug"
 

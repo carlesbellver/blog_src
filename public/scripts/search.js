@@ -64,10 +64,12 @@ function runSearch(q) {
     for (let i = 0; i < results.length; i++) {
       var p_node = document.createElement("p");        
       var link_node = document.createElement("a");
-      var d = Date.parse(results[i]["date"]);
-      var date_s = new Date(d).toISOString().substr(0, 10);
-      var date_node = document.createTextNode(date_s); 
-      link_node.appendChild(date_node);
+      if (results[i]["date"] != "0001-01-01T00:00:00+00:00") {
+        var d = Date.parse(results[i]["date"]);
+        var date_s = new Date(d).toISOString().substr(0, 10);
+        var date_node = document.createTextNode(date_s); 
+        link_node.appendChild(date_node);
+      }
       link_node.href = results[i]["url"];
       var title_node = null;
       if (results[i]["title"].length > 0) {
@@ -95,7 +97,7 @@ function runSearch(q) {
     }
   }
   else {
-    results_node.innerHTML = "<p style=\"text-align: center;\">No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
+    results_node.innerHTML = "<p>No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
   }
 }
 
