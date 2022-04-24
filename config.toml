@@ -21,7 +21,7 @@ DefaultContentLanguage = "ca"
   style = "light"
   readMore = true
   mainSections = ["posts"]
-  indexSections = ["posts", "contes", "llibres", "tallers", "CPE"]
+  indexSections = ["posts", "contes", "llibres", "taller"]
 
 [social]
   twitter = "carlesbellver"
