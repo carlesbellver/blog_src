@@ -25,6 +25,7 @@ DefaultContentLanguage = "ca"
 
 [social]
   twitter = "carlesbellver"
+  mastodon = "carlesbellver"
 
 [permalinks]
   posts = "/:year/:month/:day/:slug"
