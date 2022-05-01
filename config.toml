@@ -52,12 +52,6 @@ DefaultContentLanguage = "ca"
     weight = 2
 
   [[menu.main]]
-    identifier = "contes"
-    name = "Contes"
-    url = "/contes/"
-    weight = 3
-
-  [[menu.main]]
     identifier = "llibres"
     name = "Llibres"
     url = "/llibres/"

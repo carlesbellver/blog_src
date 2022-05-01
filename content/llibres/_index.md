@@ -4,6 +4,7 @@ description = "Informació sobre els llibres de Carles Bellver Torlà."
 image = "llibres.jpg"
 +++
 
+  - [*Unicorns*](/contes/unicorns) (2020)
   - [*Un cel nou i una terra nova*](uncelnouiunaterranova) (Unaria, 2015)<br>Premi de narrativa breu Josep Pascual Tirado 2015.
   - [*La nit mil dos*](lanitmildos) (Tria, 2013)
   - [*Parèntesi*](parentesi) (Tria, 2011)<br>Publicat originalment amb el títol *L'home del calendari*.
