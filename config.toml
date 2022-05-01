@@ -64,16 +64,22 @@ DefaultContentLanguage = "ca"
     weight = 4
 
   [[menu.main]]
+    identifier = "taller"
+    name = "Experiments"
+    url = "/taller/"
+    weight = 5
+
+  [[menu.main]]
     identifier = "photos"
     name = "Fotos"
     url = "/photos/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     identifier = "search"
     name = "Cercar"
     url = "/search/"
-    weight = 6
+    weight = 7
 
 [mediaTypes]
   [mediaTypes.'text/markdown']

@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Sant Jordi digital"
 date = "2022-04-22T11:00:50+02:00"
 tags = []
 slug = "sant-jordi"
