@@ -6,6 +6,14 @@
   "feed_url": "https://carlesbellver.netphotos/index.json",
   "items": [
       {
+        "id": "https://carlesbellver.net/2022/04/30/far-west/",
+        "title": "",
+        "date_published": "2022-04-30T17:55:03+02:00",
+        "url": "https://carlesbellver.net/2022/04/30/far-west/",
+          "image": "https://carlesbellver.net/uploads/2022/2022-04-30-far-west.jpg",
+        "content_text": "L\u0026rsquo;extrem occident. Far West.\n"
+      },
+      {
         "id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
         "title": "",
         "date_published": "2022-04-01T19:30:14+02:00",
@@ -284,14 +292,6 @@
         "url": "https://carlesbellver.net/2021/06/12/orxata-boisei/",
           "image": "https://carlesbellver.net/uploads/2021/2021-06-12-orxata-boisei.jpg",
         "content_text": " S\u0026rsquo;ha suggerit que l\u0026rsquo;hominini extingit Paranthropus boisei (l’“home trencanous”) …"
-      },
-      {
-        "id": "https://carlesbellver.net/2021/05/02/bash/",
-        "title": "",
-        "date_published": "2021-05-02T10:04:28+02:00",
-        "url": "https://carlesbellver.net/2021/05/02/bash/",
-          "image": "https://carlesbellver.net/uploads/2021/2021-05-02-bash.jpg",
-        "content_text": "De vegades faig scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el …"
       },
       {
         "id": "https://carlesbellver.net/2021/04/21/un-llibre-efimer/",
@@ -907,7 +907,7 @@
         "date_published": "2018-05-01T09:07:52+00:00",
         "url": "https://carlesbellver.net/2018/05/01/100752.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/05/10630a86d3e240b295be6f14a4cb4329.jpg",
-        "content_text": "Cultura clàssica. Antic altar de Zeus al carrer Ciscar de Castelló. Època preromana.\n"
+        "content_text": "Cultura clàssica. Antic altar de Zeus al carrer Ciscar de #Castelló.\n"
       },
       {
         "id": "https://carlesbellver.net/2018/04/21/192856.html",
@@ -1315,7 +1315,7 @@
         "date_published": "2014-05-06T22:00:00+00:00",
         "url": "https://carlesbellver.net/2014/05/06/pensava-demanarhi-asil.html",
           "image": "https://carlesbellver.net/uploads/2019/5ae3e0ccfe.jpg",
-        "content_text": "\nPensava demanar-hi asil, però a l’últim moment m’ha fet vergonya i només he demanat l’hora. La …"
+        "content_text": "Pensava demanar-hi asil, però a l’últim moment m’ha fet vergonya i només he demanat l’hora. La …"
       },
       {
         "id": "https://carlesbellver.net/2013/12/19/tensin-de-muerte.html",

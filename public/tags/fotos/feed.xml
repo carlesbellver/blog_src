@@ -6,10 +6,21 @@
     <description>La vista cansada (fotos)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 01 Apr 2022 19:30:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Apr 2022 17:55:03 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2022/04/30/far-west/</link>
+      <pubDate>Sat, 30 Apr 2022 17:55:03 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2022/04/30/far-west/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;extrem occident. &lt;em&gt;Far West&lt;/em&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Un cavallet del Corpus passant pel carrer sota l&#39;atenta mirada d&#39;un transeünt.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-04-30-far-west.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       
@@ -420,16 +431,6 @@ inflating: unicorns.txt
 &lt;p&gt;📎 &lt;a href=&#34;https://en.wikipedia.org/wiki/Cyperus_esculentus&#34;&gt;&lt;em&gt;Cyperus esculentus&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;img alt=&#34;Publicitat Orxata Boisei&#34; src=&#34;https://carlesbellver.net/uploads/2021/2021-06-12-orxata-boisei.jpg&#34;&gt;
 </description>
-    </item>
-    
-    <item>
-      
-      <link>https://carlesbellver.net/2021/05/02/bash/</link>
-      <pubDate>Sun, 02 May 2021 10:04:28 +0200</pubDate>
-      
-      <guid>https://carlesbellver.net/2021/05/02/bash/</guid>
-      <description>&lt;p&gt;De vegades faig &lt;em&gt;scripts&lt;/em&gt; en bash però no els entenc. Com aquell personatge de Rodari, que &lt;a href=&#34;https://carlesbellver.net/2015/01/23/parlar-sense-entendre.html&#34;&gt;parlava el castellà però no l&amp;rsquo;entenia&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;https://carlesbellver.net/uploads/2021/2021-05-02-bash.jpg&#34; alt=&#34;Bash script and old computer&#34;&gt;</description>
     </item>
     
     <item>
@@ -1356,7 +1357,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Tue, 01 May 2018 09:07:52 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/05/01/100752.html</guid>
-      <description>&lt;p&gt;Cultura clàssica. Antic altar de Zeus al carrer Ciscar de Castelló. Època preromana.&lt;/p&gt;
+      <description>&lt;p&gt;Cultura clàssica. Antic altar de Zeus al carrer Ciscar de #Castelló.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/05/10630a86d3e240b295be6f14a4cb4329.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
@@ -1935,8 +1936,8 @@ estás del lado de la sombra.&lt;/p&gt;
       <pubDate>Tue, 06 May 2014 22:00:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2014/05/06/pensava-demanarhi-asil.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/carlesbellver/14107932436/&#34;&gt;&lt;img src=&#34;https://carlesbellver.net/uploads/2019/5ae3e0ccfe.jpg&#34; alt=&#34;Viceconsolat&#34; width=&#34;200&#34; height=&#34;200&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Pensava demanar-hi asil, però a l’últim moment m’ha fet vergonya i només he demanat l’hora. La d’Oslo, vull dir. La mateixa que ací, m’han contestat. M’ha estranyat, i se’m deu haver notat en l’expressió de la cara, perquè llavors el funcionari, un home jove potser en el seu primer destí —alt, els ulls clars i astuts de víking— m’ha volgut explicar que el Consell d’Europa debat crear zones horàries noves, basades en la latitud més que no pas en la distància de Greenwich, aquest costum antic. N’hi hauria tres i prou: una hora nòrdica, una hora central i una altra per als països del sud. Aquesta darrera, la nostra, quinze o vint minuts —com a molt— per davant de l’hora del nord d’Àfrica. Parlava un castellà pulcre, neutre, sense accent. Si de cas, amb uns matisos de posta de sol als fiords en acabar les frases. Ens hem acomiadat molt diplomàticament i he marxat més intranquil que abans.&lt;/p&gt;
+      <description>&lt;p&gt;Pensava demanar-hi asil, però a l’últim moment m’ha fet vergonya i només he demanat l’hora. La d’Oslo, vull dir. La mateixa que ací, m’han contestat. M’ha estranyat, i se’m deu haver notat en l’expressió de la cara, perquè llavors el funcionari, un home jove potser en el seu primer destí —alt, els ulls clars i astuts de víking— m’ha volgut explicar que el Consell d’Europa debat crear zones horàries noves, basades en la latitud més que no pas en la distància de Greenwich, aquest costum antic. N’hi hauria tres i prou: una hora nòrdica, una hora central i una altra per als països del sud. Aquesta darrera, la nostra, quinze o vint minuts —com a molt— per davant de l’hora del nord d’Àfrica. Parlava un castellà pulcre, neutre, sense accent. Si de cas, amb uns matisos de posta de sol als fiords en acabar les frases. Ens hem acomiadat molt diplomàticament i he marxat més intranquil que abans.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/carlesbellver/14107932436/&#34;&gt;&lt;img src=&#34;https://carlesbellver.net/uploads/2019/5ae3e0ccfe.jpg&#34; alt=&#34;Viceconsolat&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

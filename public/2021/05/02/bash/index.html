@@ -16,7 +16,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1650722671" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1651579741" />
 <style>
 
     [data-theme="dark"] {   
@@ -53,7 +53,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1650722671" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1651579741" />
 
 
 
@@ -63,21 +63,21 @@
 
 
 
+<link href="https://mastodon.social/@carlesbellver" rel="me">
 <link href="https://twitter.com/carlesbellver" rel="me">
 <link href="https://github.com/carlesbellver" rel="me">
-<link href="https://micro.blog/carlesbellver" rel="me">
 
-<meta name="og:title" content="De vegades faig scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia."/>
-<meta property="og:description" content="De vegades faig scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia." />
+<meta name="og:title" content="De vegades escric scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia."/>
+<meta property="og:description" content="De vegades escric scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2021/05/02/bash/" /><meta property="og:image" content="https://carlesbellver.net/uploads/2021/2021-05-02-bash.jpg" />
 <meta property="article:published_time" content="2021-05-02T10:04:28+02:00" />
 <meta property="article:modified_time" content="2021-05-02T10:04:28+02:00" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://carlesbellver.net/uploads/2021/2021-05-02-bash.jpg"/>
-
-<meta name="twitter:title" content="De vegades faig scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia."/>
-<meta name="twitter:description" content="De vegades faig scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia."/>
+<meta name="twitter:title" content="De vegades escric scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia."/>
+<meta name="twitter:description" content="De vegades escric scripts en bash però no els entenc. Com aquell personatge de Rodari, que parlava el castellà però no l&rsquo;entenia."/>
+<meta name="twitter:site" content="@carlesbellver"/>
 
 
 
@@ -85,6 +85,8 @@
 <meta name="page-source-path" content="posts/2021-05-02-bash.md">
 
 
+
+<script src="https://carlesbellver.net/js/menu.js"></script>
 
 
     
@@ -94,25 +96,30 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
-  
+  <a href="https://carlesbellver.net/about"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="0" y1="12" x2="11" y2="23" stroke-width="2" /><line x1="0" y1="23" x2="11" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/" title="">Blog</a>
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+      
     
     
-      <a href="https://carlesbellver.net/" title="">Blog</a>
-    
-      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
-    
-      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
-    
-      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
-    
-      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
-    
-      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
-    
-  
-  
 
     
 
@@ -183,6 +190,7 @@
     }
     </script>
 
+  </div>
 </nav>
 
       
@@ -191,7 +199,7 @@
         <main id="main" tabindex="-1"> 
             
     
-    <article class="post fotos h-entry">
+    <article class="post h-entry">
 
           
       <ul class="post-navigation">
@@ -221,7 +229,7 @@
           
             
           
-          <p>De vegades faig <em>scripts</em> en bash però no els entenc. Com aquell personatge de Rodari, que <a href="https://carlesbellver.net/2015/01/23/parlar-sense-entendre.html">parlava el castellà però no l&rsquo;entenia</a>.</p>
+          <p>De vegades escric <em>scripts</em> en bash però no els entenc. Com aquell personatge de Rodari, que <a href="https://carlesbellver.net/2015/01/23/parlar-sense-entendre.html">parlava el castellà però no l&rsquo;entenia</a>.</p>
 <img src="https://carlesbellver.net/uploads/2021/2021-05-02-bash.jpg" alt="Bash script and old computer">
 
         
@@ -233,8 +241,6 @@
 <ul class="post-info">
     
       <li><img class="icon" src="https://carlesbellver.net/svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/2021/05/02/bash/"><span class="post-date dt-published">2021-05-02</span></a></li>
-      
-      <li><ul class="post-tags"><li><img class="icon" src="https://carlesbellver.net/svg.icons/tag.svg" alt="tag" /> <a href="https://carlesbellver.net/photos/">Fotos</a></li> </ul></li>
       
       
     

@@ -293,7 +293,57 @@ header nav a {
 }
 
 header nav a:first-of-type {
-    margin-left: 0;
+    /* margin-left: 0; */
+}
+
+header nav div#quickctrl {
+  display: none;
+}
+
+header nav div#quicklinks {
+  display: inline;
+}
+
+@media (max-width: 840px) {
+
+  header nav div#quickctrl {
+    display: inline;
+  }
+
+  header nav div#quickctrl a#openquicklinks {
+    cursor: pointer;
+  }  
+
+  header nav div#quickctrl a#openquicklinks svg {
+    stroke: var(--font-color);
+  }  
+
+  header nav div#quickctrl a#openquicklinks:hover {
+    text-decoration: none;
+    color: var(--font-color);
+  }  
+
+  header nav div#quickctrl a#closequicklinks {
+    cursor: pointer;
+  }  
+
+  header nav div#quickctrl a#closequicklinks svg {
+    stroke: var(--font-color);
+  }  
+
+  header nav div#quickctrl a#closequicklinks:hover {
+    text-decoration: none;
+    color: var(--font-color);
+  }  
+
+  header nav div#quicklinks {
+    display: none;
+  }
+
+  header nav div#quicklinks a {
+    display: block;
+  }
+
 }
 
 .site-title {
@@ -700,17 +750,17 @@ ul.language-select > li, ul.footer-menu > li {
     text-decoration: none;
 }
 
-.theme-switcher {
+a.theme-switcher {
     position: relative;
     bottom: 1px;
     cursor: pointer;
     margin: 0 0 0 10px;
     padding: 3px;
-    background: var(--switcher-bg-color);
     border: 0;
     border-radius: 3px;
+  background: var(--switcher-bg-color);
+  color: var(--switcher-color);
     font-size: 13px;
-    color: var(--switcher-color);
     text-transform: uppercase;
     text-decoration: none;
 }
@@ -722,11 +772,7 @@ a.theme-switcher:hover {
 
 /* Media Queries */
 
-/*
 @media screen and (max-width: 480px) {
-  img {
-    max-width: 100% !important;
-  }
 }
 
 @media (max-width: 840px) {
@@ -742,49 +788,4 @@ a.theme-switcher:hover {
         max-width: 90%;
         margin: 0 auto;
     }
-
-    .pagination-item {
-        padding: 0.5em 0.5em;
-        font-size: 14px;
-    }
-
-    header {
-        display: block;
-    }
-
-    .site-header {
-        text-align: center;
-    }
-
-    header nav:not(:empty){
-        background: var(--pagination-bg-color);
-        margin-top: 1em;
-        max-width: 100%;
-        text-align: center;
-        padding: 0.5em 0;
-    }
-
-    header nav a:first-of-type {
-        margin-left: 0;
-    }
-
-    header nav a {
-        margin-left: 5%;
-    }
-
-    .post-navigation {
-        background: var(--pagination-bg-color);
-        text-align: center;
-        padding: 0.5em 0;
-    }
-
-    .post-navigation a {
-        margin-left: 0.5em;
-    }
-
-    .post-pagination .pagination-item {
-        max-width: 10em;
-    }
 }
-
-*/
