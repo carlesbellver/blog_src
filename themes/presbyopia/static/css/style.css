@@ -344,6 +344,11 @@ header nav div#quicklinks {
     display: block;
   }
 
+  header nav div#quicklinks a {
+    display: block;
+    margin: 0.5em 0;
+  }
+
 }
 
 .site-title {
@@ -776,16 +781,8 @@ a.theme-switcher:hover {
 }
 
 @media (max-width: 840px) {
-    .main-wrapper {
-        margin: 0;
-        max-width: none;
-        overflow-x: hidden;
-        padding-left: 25px;
-        padding-right: 25px;
-    }
-
     .container {
         max-width: 90%;
-        margin: 0 auto;
+        margin: 80px auto;
     }
 }

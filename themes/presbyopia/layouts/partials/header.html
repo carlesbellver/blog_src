@@ -2,7 +2,7 @@
   {{ if (.Site.Params.avatar) }}<a href="{{ .Site.BaseURL }}/about"><img alt="Avatar" class="avatar" src="{{ .Site.Params.avatar }}"></a>{{ end }}
   <div id="quickctrl">
     <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
-    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="0" y1="12" x2="11" y2="23" stroke-width="2" /><line x1="0" y1="23" x2="11" y2="12" stroke-width="2" /></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
     <a class="h-card" rel="me" href="{{ .Site.BaseURL }}/about">{{ .Site.Params.author }}</a>
