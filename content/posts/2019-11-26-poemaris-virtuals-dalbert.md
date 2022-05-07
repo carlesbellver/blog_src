@@ -31,3 +31,4 @@ Inventari provisional, actualització permanent. Publicació continuada a [Faceb
 21. *Dispersions* (octubre de 2021)
 22. *Periples* (febrer de 2022)
 23. *Reincidències* (abril de 2022)
+24. *Espais ventats* (maig de 2022)
