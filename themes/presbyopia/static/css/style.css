@@ -601,11 +601,19 @@ img.icon {
 }
 
 article .content img, .index-content img {
-    max-width: 100%;
     display: block;
+    max-width: 100%;
     height: auto;
     margin: 10px auto;
     border-radius: 5px;
+}
+
+article .content img.sn {
+    display: none;
+    max-width: 32px;
+    height: auto;
+    margin: 0;
+    padding: 0;
 }
 
 article .content img.emoji {
