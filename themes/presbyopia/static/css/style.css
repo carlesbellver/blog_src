@@ -378,6 +378,10 @@ h1.post-title {
   text-align: left;
 }
 
+.post-list h1.post-title {
+  font-size: 1.5em;
+}
+
 h2 {
   margin: 1em 0 0;
   font-family: Georgia, serif;
