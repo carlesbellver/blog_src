@@ -3,6 +3,7 @@ title = "Els tòpics són la religió de les classes mitjanes"
 date = "2022-05-15T18:45:59+02:00"
 tags = ["citacions"]
 slug = "john-fowles-els-topics"
+summary = "> —…no hi havia alguna cosa en Roland Barthes sobre els tòpics com a religió de les classes mitjanes?"
 +++
 
 > —…no hi havia alguna cosa \[en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?
