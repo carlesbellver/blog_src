@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns56"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f58b.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/55.jpg">
 
 Mentre l’esperava, la secretària del seu tutor li va demanar si podia ajudar-lo amb unes notes que calia mecanografiar. Càndidament va accedir a dictar-li-les i a la segona frase es va adonar del sentit i la procedència reals d’aquell fragment. Però —per això mateix?— no va poder aturar-se i va continuar recitant el full en veu alta, vocalitzant la lletania d’abominables perversions.
 

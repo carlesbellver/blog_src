@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns02"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f6ae.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/01.jpg">
 
 Els cabells esbullats, els llavis pintats i un gran somriure. Feia vent, aquell matí. Aquesta foto seva, una mica borrosa, l’única que tenia i que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li. La va examinar amb interès i em va demanar qui era.
 

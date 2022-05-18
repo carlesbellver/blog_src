@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns37"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f573.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/36.jpg">
 
 S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 

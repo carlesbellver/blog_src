@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns06"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f3e4.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/05.jpg">
 
 S’apropava l’hora de tancar i la cua avançava amb lentitud exasperant, però no podia deixar l’enviament per a l’endemà perquè no estava segur que les còpies arribessin a temps, i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.
 

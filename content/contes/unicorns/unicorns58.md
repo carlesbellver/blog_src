@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns58"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1fa96.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/57.jpg">
 
 Va tornar a ponderar l’heroisme dels *marines* —en aquesta nova operació imperialista que difonia la premsa— i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència. Vaig tocar l’ase. M’emprenyava el seu patrioterisme i ell se sentia ofès quan jo defensava el no a la guerra. No era la primera vegada que xocàvem.
 

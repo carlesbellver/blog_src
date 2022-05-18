@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns36"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/270d.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/35.jpg">
 
 Tot just una frase —set mots— en un tros de paper estripat i rebregat. El fet que no entengués l’idioma, li suposava algun problema? Em va contestar que no, que ell desxifrava símbols universals, inherents a l’escriptura.
 

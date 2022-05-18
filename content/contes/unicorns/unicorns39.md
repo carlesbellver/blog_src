@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns39"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f30a.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/38.jpg">
 
 Es deia Asenath i els seus ulls massa clars, lleugerament sortints, no parpellejaven mai. Era, evidentment, oceanògrafa. Havia deixat enrere els quaranta anys, però per als estàndards de Miskatonic comptava com una jove promesa. Defensava teories poc ortodoxes —que havien tingut cert ressò— sobre les estructures submarines de Y’ha-nthlei, i el consell d’ancians local volia veure-hi la seva empremta intel·lectual. Una oportunitat de renovació: l’esperança d’un impossible *aggiornamento*. Una vegada més, confonien desigs amb realitat. La conferència degué decebre’ls horriblement.
 

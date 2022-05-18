@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns51"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f41b.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/50.jpg">
 
 —Grace B. M. Hopper, oficial de marina i professora a Harvard, va ser la primera a identificar un insecte com a origen dels errors d’un ordinador. L’arna que pertorbava el funcionament del Mark II es conserva al Naval Surface Warfare Center de Dahlgren, Virgínia.
 

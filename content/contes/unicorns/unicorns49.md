@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns49"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f4be.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/48.jpg">
 
 Aquest tros de plàstic que prove a fer servir com a màquina d’escriure electrònica es connecta a un televisor vell, menut, on esforçant-me puc veure què teclege, a una gravadora de cintes de casset, on se suposa que s’arxiven els textos, i a una impressora tèrmica que només funciona els dies senars.
 

@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns59"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f9df.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/58.jpg">
 
 Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.
 

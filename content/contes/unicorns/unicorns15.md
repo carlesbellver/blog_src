@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns15"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f408.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/14.jpg">
 
 Vaig guanyar el premi de narrativa amb un recull inspirat en l’estada al psiquiàtric, però ara trobe que *La vida canina* és un títol massa subtil: ningú no podrà evitar que el llibre, quan es publiqui, vagi a parar a la secció d’animals de companyia.
 

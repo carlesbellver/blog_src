@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns08"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f409.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/07.jpg">
 
 La seva tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín. M’ho explicava a la seva biblioteca, mentre jo fullejava una primera edició de *The Analysis of Mind* (Allen & Unwin, 1921), excel·lentment conservada, i assaboria la copa de *scotch* que m’havia ofert. Ell, tanmateix, preferia com sempre el vi de Porto.
 

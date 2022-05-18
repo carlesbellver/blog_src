@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns54"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/26b0.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/53.jpg">
 
 M’he aturat davant de l’única mòmia nord-americana de la col·lecció. Arkham, Massachusetts, n’informava exiguament la fitxa. Un exemplar, entenc, valuós, potser un indi *pennacook*, tot i que el rictus i els parracs em suggerien més aviat una bubota.
 

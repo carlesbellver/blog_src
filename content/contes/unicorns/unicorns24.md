@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns24"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/2697.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/23.jpg">
 
 —Una errada en la numeració de les pàgines feia que paregués que en faltaven un parell. Van córrer rumors sobre el contingut censurat, eliminat a darrera hora amb el manual eixint d’impremta.
 

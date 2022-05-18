@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns26"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f3e2.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/25.jpg">
 
 Hi havia una oficina del Servei d’Immigració i Naturalització dins del campus. Danvers va fer per tranquil·litzar-me. La recerca que s’havia engegat, em va assegurar, seria merament rutinària. Sospitava que algun company de departament havia denunciat la desaparició del seu criat només per fer-li la guitza. Sobretot, va insistir, no esmentis l’assumpte de la caixa.
 

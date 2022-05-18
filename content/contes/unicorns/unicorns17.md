@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns17"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f5fa.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/16.jpg">
 
 Estudiaven un informe de l’Oficina de Serveis Estratègics que havia estat part de l’arxiu Danvers. Vint i tants fulls mecanografiats, més una extensió similar d’esbossos de mapes. Era material original, autenticat. Portava segell de febrer de 1945. L’autor —identificat amb un codi— despatxava a correcuita la “hipòtesi antàrtica” per discutir *in extenso* diverses opcions a l’Àsia Central, en un arc traçat des de la vall del Caixmir fins als deserts de sorra i de glaç de Mongòlia.
 

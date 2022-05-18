@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns52"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/2328.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/51.jpg">
 
 Mentre teclejava el text d’ahir, un representant de màquines d’escriure ensenyava a Rice el seu últim model.
 

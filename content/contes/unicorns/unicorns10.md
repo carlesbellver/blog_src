@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns10"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f37a.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/09.jpg">
 
 Em va demanar què pensava d’ella. Li vaig dir que era rossa, apassionada i irreflexiva. Era evident que no m’ho hauria d’haver preguntat i jo no li hauria d’haver contestat. Qualsevol altre dia no hauria emprat aquests adjectius per definir-la. Hauria procurat no fer mal a ningú amb l’elecció de les paraules.
 

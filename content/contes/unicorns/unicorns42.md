@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns42"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f504.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/41.jpg">
 
 Eixint d’una cefalea aguda i un malson de túnels, es va despertar en l’entrellum d’una estança desconeguda. A poc a poc va començar a recordar el viatge, la costa adriàtica, la cafeteria de l’hotel i la fredor de l’espia. Estava assegut i la torpor el paralitzava. Per un moment va pensar que es contemplava en un espill, però l’espill era més avall, sobre la taula, i reflectia la imatge d’ella. Acotant el cap, es va mirar, atònit.
 

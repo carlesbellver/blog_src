@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns03"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f525.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/02.jpg">
 
 L’alcohol etílic és, segons els llibres de text, dissolvent, combustible i psicoactiu. Qualsevol d’aquestes propietats valdria per explicar, amb rigor científic variable, que se m’hagi malmès —dissolt, incendiat, trastocat— la memòria d’aquells pocs anys en què vaig consumir-ne més assíduament.
 

@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns63"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1fa9e.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/62.jpg">
 
 Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom. El bloc de pisos on vivia ha sofert una certa degradació. La façana necessitaria una bona mà de pintura. I el pati que li donava un aire de Place des Vosges per a rendes modestes agrairia l’atenció d’un jardiner. He entrat al vestíbul. A la bústia que va ser seva —i de la seva amiga Clémentine— hi ha uns altres noms que han estat ratllats. Però sobretot volia donar una ullada a aquells dos ascensors, un més ampli del que era habitual i l’altre estranyament angost. Això sempre ens feia riure.
 

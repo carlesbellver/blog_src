@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns30"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f377.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/29.jpg">
 
 Em vaig demanar si era possible que s’assemblessin tant i que no fossin la mateixa persona. Però, alhora, no tenia cap dubte que era una altra, gairebé oposada: els cabells més curts, més parisencs, la manera de vestir, més informal, i, sobretot, la desimboltura bohèmia, la mancança d’afectació aristocràtica. Jo havia begut i fumat. Sentia una audàcia i una agilitat verbal segurament infundades. No em va sorprendre prou que em permetés acompanyar-la a casa seva. En la fosca intimitat dels seus llençols, em vaig convèncer que qualsevol semblança havia estat un miratge.
 

@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns62"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f984.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/61.jpg">
 
 La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres. En vam parlar a la nit, en tornar a l’hotel.
 

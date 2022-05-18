@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns44"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f479.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/43.jpg">
 
 M’inspirava un tendre amor platònic, però el torrent dels somnis, brusc i impetuós, tendia a ser d’un to molt més lúbric que els meus sentiments.
 

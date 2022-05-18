@@ -627,6 +627,13 @@ article .content img.emoji {
   height: 100px;
 }
 
+article .content img.drawing {
+  display: block;
+  margin: 0 auto 20px;
+  width: auto;
+  height: 200px;
+}
+
 article figcaption {
     color: grey;
     text-align: center;

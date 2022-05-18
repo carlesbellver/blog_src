@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns20"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f3d4.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/19.jpg">
 
 Wernher von Braun va ser reclutat per l’exèrcit nord-americà i va impulsar el programa espacial de la NASA, però els lames tibetans que els nazis s’havien emportat a Berlín van ser captats per la Miskatonic University —mercès a les gestions discretes de Randolph Carter, que treballava aleshores a l’Oficina de Serveis Estratègics—, amb la intenció que dirigissin una altra mena de travessia, no cap a l’espai exterior sinó cap al cosmos interior de la ment humana.
 

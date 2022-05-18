@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns48"
 tags = ["contes"]
 +++
 
-<img class="emoji" src="/contes/unicorns/twemoji/1f9f3.svg" />
+<img class="drawing" src="/contes/unicorns/tovallons/200/47.jpg">
 
 No sóc gens afeccionat a viatjar —malgrat que aquesta vegada hagi travessat l’Atlàntic—, però l’anunci en aquell aparador va fer que m’hi aturés.
 
