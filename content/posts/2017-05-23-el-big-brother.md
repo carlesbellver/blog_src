@@ -3,6 +3,7 @@ url = "/2017/05/23/el-big-brother.html"
 title = "El Big Brother digital"
 date = "2017-05-23T22:00:00+00:00"
 slug = "el-big-brother"
+summary = "> Al principi, es va celebrar la xarxa com a mitjà de llibertat il·limitada."
 +++
 
 > Al principi, es va celebrar la xarxa com a mitjà de llibertat il·limitada.
