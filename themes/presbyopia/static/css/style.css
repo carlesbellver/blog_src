@@ -371,7 +371,7 @@ h1.blog-title {
 h1.post-title {
   margin: 0 0 1em 0;
   font-family: Georgia, serif;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   text-transform: none;
   line-height: 1.2em;
@@ -379,13 +379,13 @@ h1.post-title {
 }
 
 .post-list h1.post-title {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 h2 {
   margin: 1em 0 0;
   font-family: Georgia, serif;
-  font-size: 1.5em;
+  font-size: 1.25em;
   font-weight: bold;
   text-transform: none;
   line-height: 1.2em;
@@ -395,7 +395,7 @@ h2 {
 h3 {
   margin: 1em 0 0;
   font-family: Georgia, serif;
-  font-size: 1.25em;
+  font-size: 1.1em;
   font-weight: bold;
   text-transform: none;
   line-height: 1.2em;
@@ -673,6 +673,10 @@ article iframe {
 .citacions blockquote {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 21px;
+}
+
+.post-list .citacions blockquote {
+  font-size: 1em;
 }
 
 .citacions blockquote:before {

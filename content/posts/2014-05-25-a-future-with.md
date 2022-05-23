@@ -18,7 +18,7 @@ Incloïa també, per a més inri, una llista de les universitats elegides al fin
 >  4. MIT
 >  5. Stanford
 >  6. Princeton
->  7. The University of [Pearson](https://es.wikipedia.org/wiki/Pearson_Educación) (adquireix > [Coursera](https://es.wikipedia.org/wiki/Coursera), 2016)
+>  7. The University of [Pearson](https://es.wikipedia.org/wiki/Pearson_Educación) (adquireix [Coursera](https://es.wikipedia.org/wiki/Coursera), 2016)
 >  8. The University of Google (adquireix [Udacity](https://es.wikipedia.org/wiki/Udacity), 2014)
 >  9. The University of [Walmart](https://es.wikipedia.org/wiki/Walmart) (adquireix [University of Phoenix](https://es.wikipedia.org/wiki/Universidad_de_Phoenix), 2017)
 >  10. [BYU](https://es.wikipedia.org/wiki/Universidad_Brigham_Young)
