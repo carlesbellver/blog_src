@@ -411,7 +411,7 @@ h3 {
 main article {
   margin: 0;
   background: var(--bg-color);
-  border-bottom: 2px dashed var(--hr-color);
+  border-bottom: 1px solid var(--hr-color);
   padding: 10px 0;
 }
 
