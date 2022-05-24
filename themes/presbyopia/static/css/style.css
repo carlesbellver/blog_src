@@ -48,7 +48,7 @@ summary {
 
 .container {
   max-width: 600px;
-  margin: 100px auto;
+  margin: 80px auto;
   padding: 0 10px;
   z-index: 0;
 }
@@ -672,7 +672,7 @@ article iframe {
 
 .citacions blockquote {
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 21px;
+  font-size: 1em; /* font-size: 21px; */
 }
 
 .post-list .citacions blockquote {

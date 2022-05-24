@@ -1,10 +1,8 @@
-    {{ if or (and .Parent (ne .Parent.Name .Site.Title)) (gt .ReadingTime 2) }}
+    {{ if or (and .Parent (ne .Parent.Name .Site.Title)) (gt .ReadingTime 4) }}
       <ul class="post-navigation">
         {{ if .Parent }}
           <li>{{ if eq .Parent.Name "Esborranys privats" }}<img class="icon" src="{{ site.BaseURL }}/svg.icons/info.svg" alt="info" />{{ else }}<img class="icon" src="{{ site.BaseURL }}/svg.icons/arrow-circle-left.svg" alt="up" />{{ end }}
-          {{ if eq .Parent.Name .Site.Title }}
-            <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a></li>
-          {{ else if eq .Parent.Name "Posts" }}
+          {{ if eq .Parent.Name "Posts" }}
             <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a>
           {{ else if eq .Parent.Name "Esborranys privats" }}
             Esborrany privat
@@ -13,6 +11,6 @@
           {{ end }}
           </li>
         {{ end }}
-        {{ if gt .ReadingTime 2 }}<li><span class="readingtime"><img class="icon" src="{{ site.BaseURL }}/svg.icons/clock.svg" alt="clock" /> {{ .ReadingTime }} minuts</span></li>{{ end }}
+        {{ if gt .ReadingTime 4 }}<li><span class="readingtime"><img class="icon" src="{{ site.BaseURL }}/svg.icons/clock.svg" alt="clock" /> {{ .ReadingTime }} minuts</span></li>{{ end }}
       </ul>
     {{ end }}
