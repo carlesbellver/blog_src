@@ -60,7 +60,7 @@ main {
 /* Headers */
 
 h1, h2 {
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, serif;
   font-weight: normal;
 }
 
@@ -194,6 +194,7 @@ blockquote {
 
 blockquote:before {
     display: block;
+    font-family: Georgia, serif;
     font-size: 500%;
     color: var(--bq-bar-color);
     content: "“";
@@ -361,8 +362,8 @@ header nav div#quicklinks {
 h1.blog-title {
   margin: 1em 0;
   padding: 0;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 2em;
+  font-family: Georgia, serif;
+  font-size: 32px;
   font-weight: bold;
   text-transform: none;
   line-height: 1.2em;
@@ -371,8 +372,8 @@ h1.blog-title {
 
 h1.post-title {
   margin: 0 0 1em 0;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1.5em;
+  font-family: Georgia, serif;
+  font-size: 32px;
   font-weight: bold;
   text-transform: none;
   line-height: 1.2em;
@@ -381,26 +382,26 @@ h1.post-title {
 
 .post-list h1.post-title {
   font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-  font-size: 1em;
+  font-size: 18px;
 }
 
 h2 {
   margin: 1em 0 0;
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1.25em;
+  font-size: 23px;
   font-weight: bold;
   text-transform: none;
-  line-height: 1.2em;
+  line-height: 1.2;
   text-align: left;
 }
 
 h3 {
   margin: 1em 0 0;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1.1em;
+  font-family: Georgia, serif;
+  font-size: 21px;
   font-weight: bold;
   text-transform: none;
-  line-height: 1.2em;
+  line-height: 1.2;
   text-align: left;
 }
 
@@ -673,8 +674,8 @@ article iframe {
 /* Article tags */
 
 .citacions blockquote {
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1em; /* font-size: 21px; */
+  font-family: Georgia, serif;
+  font-size: 21px;
 }
 
 .post-list .citacions blockquote {
