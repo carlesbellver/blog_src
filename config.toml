@@ -33,7 +33,7 @@ DefaultContentLanguage = "ca"
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
-      typographer = true
+      typographer = false
     [markup.goldmark.renderer]
       unsafe = true
   

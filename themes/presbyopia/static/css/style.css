@@ -67,21 +67,27 @@ main {
 
 /* Headers */
 
-h1, h2 {
+h1, h2, h3 {
+  margin: 1em 0 0;
   font-family: var(--font-heading);
-  font-weight: normal;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 36px;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 24px;
+  border-bottom: 1px solid #333;
 }
 
 h3 {
-  font-size: 1.25em;
+  font-size: 18px;
+  border-bottom: 1px solid #333;
 }
 
 /* Links */
@@ -196,21 +202,22 @@ li { padding-left: 0.2em; }
 
 blockquote {
     margin: 1em 0;
-    padding: 0 0 0 2em;
+    padding: 0 0 0 0;
     color: var(--bq-color);
+    background-color: none;
 }
 
 blockquote:before {
     display: block;
     font-family: var(--font-bq);
-    font-size: 500%;
+    font-size: 200px;
     color: var(--bq-bar-color);
     content: "“";
     height: 1px;
-    margin-left: -0.45em;
+    margin-left: -80px;
     position: relative;
-    top: -0.33em;
-    z-index: 1;
+    top: -75px;
+    z-index: 0;
 }
 
 blockquote blockquote {
@@ -271,22 +278,6 @@ header img.avatar {
 
 header a {
     color: var(--font-color);
-}
-
-header h1 {
-    margin: 1em 0 0;
-    font-size: 1.25em;
-    font-weight: normal;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-header h2 {
-    margin: 0 1em 0 0;
-    border-bottom: 1px solid var(--hr-color);
-    font-size: 1.1em;
-    font-weight: bold;
-    text-transform: none;
 }
 
 header nav {
@@ -371,8 +362,8 @@ h1.blog-title {
   margin: 1em 0;
   padding: 0;
   font-family: var(--font-heading);
-  font-size: 24px;
-  font-weight: normal;
+  /* font-size: 24px;
+  font-weight: normal; */
   text-transform: none;
   line-height: 1.2em;
   text-align: left;
@@ -382,37 +373,9 @@ h1.blog-title {
 h1.post-title {
   margin: 0 0 1em 0;
   font-family: var(--font-heading);
-  font-size: 28px;
-  font-weight: normal;
-  text-transform: none;
-  line-height: 1.2em;
-  text-align: left;
-  text-transform: uppercase;
 }
 
 .post-list h1.post-title {
-  font-family: var(--font-heading);
-  font-size: 18px;
-}
-
-h2 {
-  margin: 1em 0 0;
-  font-family: var(--font-heading);
-  font-size: 23px;
-  font-weight: bold;
-  text-transform: none;
-  line-height: 1.2;
-  text-align: left;
-}
-
-h3 {
-  margin: 1em 0 0;
-  font-family: var(--font-heading);
-  font-size: 21px;
-  font-weight: bold;
-  text-transform: none;
-  line-height: 1.2;
-  text-align: left;
 }
 
 .post-short-list:first-of-type {
@@ -698,14 +661,6 @@ article iframe {
 }
 
 .citacions blockquote:before {
-  display: block;
-  font-family: Georgia, Times, "Times New Roman", serif;    font-size: 500%;
-  color: #999;
-  content: "“";
-  height: 1px;
-  margin-left: -0.45em;
-  position: relative;
-  top: -0.33em;
 }
 
 /* Other pages */
@@ -822,8 +777,20 @@ a.theme-switcher:hover {
 }
 
 @media (max-width: 840px) {
-    .container {
-        max-width: 90%;
-        margin: 80px auto;
-    }
+
+  .container {
+    max-width: 90%;
+    margin: 80px auto;
+  }
+
+  blockquote:before {
+    display: block;
+    height: auto;
+    margin: -50px 0 -160px -10px;
+    /* height: 100px;
+    margin: -50px 0 -20px 0; */
+    position: static;
+    color: #eee;
+  }
+
 }
