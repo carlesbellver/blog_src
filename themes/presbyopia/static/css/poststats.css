@@ -1,4 +1,5 @@
-h3.post-stats-hd {
+h2.post-stats-hd {
+  margin-bottom: 10px;
   border-bottom: 0;
 }
 
@@ -22,5 +23,5 @@ h3.post-stats-hd {
 }
 
 .post-stats-hd {
-    text-decoration: underline;
+    
 }
