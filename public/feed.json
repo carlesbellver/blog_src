@@ -6,9 +6,37 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/",
+				"title": "Els tòpics són la religió de les classes mitjanes",
+				"content_html": "<blockquote>\n<p>—…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?</p>\n<p>—Crec que ell va dir l&rsquo;<em>ethos</em>.</p>\n<p>—Perquè l&rsquo;originalitat és pertorbadora, correcte?</p>\n<p>—Depèn del context.</p>\n<p>—Com?</p>\n<p>—Hi ha contextos de classe mitjana on s&rsquo;espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S&rsquo;imposa.</p>\n</blockquote>\n<p>—John Fowles, “The Cloud” (<em>The Ebony Tower</em>).</p>\n",
+				"date_published": "2022-05-15T18:45:59+02:00",
+				"url": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/05/08/prorroga/",
+				
+				"content_html": "<p>Encara em queden uns pocs exemplars digitals d’<a href=\"/contes/unicorns\"><em>Unicorns</em></a> per signar, així que mantindré l’<a href=\"/2022/04/22/sant-jordi/\">oferta</a> fins a fi d’existències.</p>\n",
+				"date_published": "2022-05-08T18:25:00+02:00",
+				"url": "https://carlesbellver.net/2022/05/08/prorroga/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/05/08/42/",
+				
+				"content_html": "<p>La resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat.</p>\n<img alt=\"Grafit amb el número 42 en un poal d'escombraries.\" src=\"/uploads/2022/2022-05-08-42.jpg\">\n",
+				"date_published": "2022-05-08T09:30:12+02:00",
+				"url": "https://carlesbellver.net/2022/05/08/42/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/05/06/fusteries/",
+				
+				"content_html": "<p>📖 Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que trenta anys després participaria en l’homenatge que li retrien els escriptors de Castelló. En una discreta segona fila, evidentment, darrere de figures venerables com Vicent Pitarch, Lluís Meseguer i Toni Royo. Tots tres encarregats de presentar avui divendres, a la Fira del Llibre de Castelló, aquestes <a href=\"https://www.elpontdeleslletres.cat/2022/05/11/fusteries-del-pont/\">Fusteries d’El Pont</a>.</p>\n<img src=\"/uploads/2022/2022-05-06-fusteries.jpg\" alt=\"D'esquerra a dreta, Toni Royo, Vicent Pitarch i Lluís Meseguer en la Fira del Llibre de Castelló.\">\n",
+				"date_published": "2022-05-06T19:07:01+00:00",
+				"url": "https://carlesbellver.net/2022/05/06/fusteries/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/04/30/far-west/",
 				
-				"content_html": "<p>L&rsquo;extrem occident. <em>Far West</em>.</p>\n<img alt=\"Un cavallet del Corpus passant pel carrer sota l'atenta mirada d'un transeünt.\" src=\"/uploads/2022/2022-04-30-far-west.jpg\">\n",
+				"content_html": "<p>L’extrem occident. <em>Far West</em>.</p>\n<img alt=\"Un cavallet del Corpus passant pel carrer sota l'atenta mirada d'un transeünt.\" src=\"/uploads/2022/2022-04-30-far-west.jpg\">\n",
 				"date_published": "2022-04-30T17:55:03+02:00",
 				"url": "https://carlesbellver.net/2022/04/30/far-west/"
 			},
@@ -151,34 +179,6 @@
 				"content_html": "<p>L&rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.</p>\n<img alt=\"Bústies clausurades a l'edifici de Correus de Castelló\" src=\"/uploads/2022/2022-02-05-correus.jpg\">\n",
 				"date_published": "2022-02-05T20:30:13+01:00",
 				"url": "https://carlesbellver.net/2022/02/05/correus/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/04/arameu/",
-				
-				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Belshazzar%27s_feast\">Escrit a la paret</a> i no en arameu.</p>\n<img alt=\"Adhesiu: “Somos la puta ruina”\" src=\"/uploads/2022/2022-02-04-arameu.jpg\">\n",
-				"date_published": "2022-02-04T18:24:45+01:00",
-				"url": "https://carlesbellver.net/2022/02/04/arameu/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/27/revenants/",
-				
-				"content_html": "<p>Quan fan servir l’americanisme <em>egressat</em>, no puc evitar que em sone a <em>regressar</em>, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. <em>Les Revenants</em>.</p>\n",
-				"date_published": "2022-01-27T18:18:56+01:00",
-				"url": "https://carlesbellver.net/2022/01/27/revenants/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/24/porsche/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.sciencedirect.com/science/article/pii/S2214140520300359\">Estimated car cost as a predictor of driver yielding behaviors for pedestrians</a></p>\n<blockquote>\n<p>Com més car és el cotxe, menys probable és que el conductor s&rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d&rsquo;increment en el preu del cotxe.</p>\n</blockquote>\n",
-				"date_published": "2022-01-24T17:04:22+01:00",
-				"url": "https://carlesbellver.net/2022/01/24/porsche/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/24/yaml-json/",
-				
-				"content_html": "<p>📎 <a href=\"https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json\">I accidentally used YAML.parse instead of JSON.parse, and it… worked?</a></p>\n<blockquote>\n<p>That, dear reader, is the story of how I learnt that <a href=\"http://yaml.org/spec/1.2-old/spec.html#id2759572\">YAML is a superset of JSON</a>.</p>\n</blockquote>\n",
-				"date_published": "2022-01-24T09:27:35+01:00",
-				"url": "https://carlesbellver.net/2022/01/24/yaml-json/"
 			}
 	]
 }

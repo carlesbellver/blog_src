@@ -6,12 +6,28 @@
   "feed_url": "https://carlesbellver.netphotos/index.json",
   "items": [
       {
+        "id": "https://carlesbellver.net/2022/05/08/42/",
+        "title": "",
+        "date_published": "2022-05-08T09:30:12+02:00",
+        "url": "https://carlesbellver.net/2022/05/08/42/",
+          "image": "https://carlesbellver.net/uploads/2022/2022-05-08-42.jpg",
+        "content_text": "La resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat.\n"
+      },
+      {
+        "id": "https://carlesbellver.net/2022/05/06/fusteries/",
+        "title": "",
+        "date_published": "2022-05-06T19:07:01+00:00",
+        "url": "https://carlesbellver.net/2022/05/06/fusteries/",
+          "image": "https://carlesbellver.net/uploads/2022/2022-05-06-fusteries.jpg",
+        "content_text": "📖 Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu …"
+      },
+      {
         "id": "https://carlesbellver.net/2022/04/30/far-west/",
         "title": "",
         "date_published": "2022-04-30T17:55:03+02:00",
         "url": "https://carlesbellver.net/2022/04/30/far-west/",
           "image": "https://carlesbellver.net/uploads/2022/2022-04-30-far-west.jpg",
-        "content_text": "L\u0026rsquo;extrem occident. Far West.\n"
+        "content_text": "L’extrem occident. Far West.\n"
       },
       {
         "id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
@@ -75,7 +91,7 @@
         "date_published": "2022-01-23T17:20:08+01:00",
         "url": "https://carlesbellver.net/2022/01/23/notnft/",
           "image": "https://carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg",
-        "content_text": "A hores d\u0026rsquo;ara ja s\u0026rsquo;ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són …"
+        "content_text": "A hores d’ara ja s’ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són una mena de …"
       },
       {
         "id": "https://carlesbellver.net/2022/01/20/ia/",
@@ -91,7 +107,7 @@
         "date_published": "2022-01-17T16:51:33+01:00",
         "url": "https://carlesbellver.net/2022/01/17/pastures-uji/",
           "image": "https://carlesbellver.net/uploads/2022/2022-01-17-pastures-uji.jpg",
-        "content_text": "Les pastures de l'#UJI. Descansar en prats deliciosos.\n"
+        "content_text": "Les pastures de l\u0026rsquo;#UJI. Descansar en prats deliciosos.\n"
       },
       {
         "id": "https://carlesbellver.net/2022/01/08/dedans/",
@@ -227,7 +243,7 @@
         "date_published": "2021-10-07T20:19:36+02:00",
         "url": "https://carlesbellver.net/2021/10/07/cavall/",
           "image": "https://carlesbellver.net/uploads/2021/2021-10-07-cavall.jpg",
-        "content_text": "La cavalleria de l'#UJI.\n"
+        "content_text": "La cavalleria de l\u0026rsquo;#UJI.\n"
       },
       {
         "id": "https://carlesbellver.net/2021/09/15/asia/",
@@ -315,7 +331,7 @@
         "date_published": "2021-03-08T19:21:12+00:00",
         "url": "https://carlesbellver.net/2021/03/08/27672/",
           "image": "https://carlesbellver.net/uploads/2021/2021-03-08-27628.jpg",
-        "content_text": " Jo vull tornar a viure on l\u0026rsquo;herba\nno és com aquí pur ornament, joia dels ulls\nque dura …"
+        "content_text": " Jo vull tornar a viure on l’herba\nno és com aquí pur ornament, joia dels ulls\nque dura l\u0026rsquo;any …"
       },
       {
         "id": "https://carlesbellver.net/2021/02/16/61821/",
@@ -419,7 +435,7 @@
         "date_published": "2020-02-07T12:33:23+00:00",
         "url": "https://carlesbellver.net/2020/02/07/la-galeria-subterrnia.html",
           "image": "https://carlesbellver.net/uploads/2020/e645377a12.jpg",
-        "content_text": "La galeria subterrània de l'#UJI no s\u0026rsquo;acaba mai.\n"
+        "content_text": "La galeria subterrània de l\u0026rsquo;#UJI no s\u0026rsquo;acaba mai.\n"
       },
       {
         "id": "https://carlesbellver.net/2020/02/05/organic-ethical-chocolate.html",
@@ -435,7 +451,7 @@
         "date_published": "2020-02-04T19:03:00+00:00",
         "url": "https://carlesbellver.net/2020/02/04/philip-k-dick.html",
           "image": "https://carlesbellver.net/uploads/2020/a3b9424db8.jpg",
-        "content_text": "Philip K. Dick solia consultar l'I Ching. Jo tinc més tirada a les Oblique Strategies de Brian Eno i …"
+        "content_text": "Philip K. Dick solia consultar l\u0026rsquo;I Ching. Jo tinc més tirada a les Oblique Strategies de Brian …"
       },
       {
         "id": "https://carlesbellver.net/2020/01/26/we-dont-need.html",
@@ -883,7 +899,7 @@
         "date_published": "2018-05-26T18:11:43+00:00",
         "url": "https://carlesbellver.net/2018/05/26/191143.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/05/234cefb4a7c149c39856b383b084e38d.jpg",
-        "content_text": "País Valencià amunt i avall\n"
+        "content_text": "País Valencià amunt i avall.\n"
       },
       {
         "id": "https://carlesbellver.net/2018/05/17/203910.html",
@@ -1155,7 +1171,7 @@
         "date_published": "2017-11-25T10:24:30+00:00",
         "url": "https://carlesbellver.net/2017/11/25/112430.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2017/11/92434b956e824f909cfe221f2c888545.jpg",
-        "content_text": "La fórmula magistral de l'homuncle.\n"
+        "content_text": "La fórmula magistral de l\u0026rsquo;homuncle.\n"
       },
       {
         "id": "https://carlesbellver.net/2017/11/19/222620.html",

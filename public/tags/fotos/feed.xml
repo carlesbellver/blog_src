@@ -6,10 +6,32 @@
     <description>La vista cansada (fotos)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sat, 30 Apr 2022 17:55:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2022 09:30:12 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2022/05/08/42/</link>
+      <pubDate>Sun, 08 May 2022 09:30:12 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2022/05/08/42/</guid>
+      <description>&lt;p&gt;La resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat.&lt;/p&gt;
+&lt;img alt=&#34;Grafit amb el número 42 en un poal d&#39;escombraries.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-05-08-42.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2022/05/06/fusteries/</link>
+      <pubDate>Fri, 06 May 2022 19:07:01 +0000</pubDate>
+      
+      <guid>https://carlesbellver.net/2022/05/06/fusteries/</guid>
+      <description>&lt;p&gt;📖 Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que trenta anys després participaria en l’homenatge que li retrien els escriptors de Castelló. En una discreta segona fila, evidentment, darrere de figures venerables com Vicent Pitarch, Lluís Meseguer i Toni Royo. Tots tres encarregats de presentar avui divendres, a la Fira del Llibre de Castelló, aquestes &lt;a href=&#34;https://www.elpontdeleslletres.cat/2022/05/11/fusteries-del-pont/&#34;&gt;Fusteries d’El Pont&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;https://carlesbellver.net/uploads/2022/2022-05-06-fusteries.jpg&#34; alt=&#34;D&#39;esquerra a dreta, Toni Royo, Vicent Pitarch i Lluís Meseguer en la Fira del Llibre de Castelló.&#34;&gt;
+</description>
+    </item>
     
     <item>
       
@@ -17,7 +39,7 @@
       <pubDate>Sat, 30 Apr 2022 17:55:03 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2022/04/30/far-west/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;extrem occident. &lt;em&gt;Far West&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;L’extrem occident. &lt;em&gt;Far West&lt;/em&gt;.&lt;/p&gt;
 &lt;img alt=&#34;Un cavallet del Corpus passant pel carrer sota l&#39;atenta mirada d&#39;un transeünt.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-04-30-far-west.jpg&#34;&gt;
 </description>
     </item>
@@ -105,18 +127,18 @@
       <pubDate>Sun, 23 Jan 2022 17:20:08 +0100</pubDate>
       
       <guid>https://carlesbellver.net/2022/01/23/notnft/</guid>
-      <description>&lt;img alt=&#34;Detall d&#39;un pseudo-NFT.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg&#34;&gt;
-&lt;p&gt;A hores d&amp;rsquo;ara ja &lt;a href=&#34;https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html&#34;&gt;s&amp;rsquo;ha parlat&lt;/a&gt; prou i massa dels NFT o &lt;a href=&#34;https://en.wikipedia.org/wiki/Non-fungible_token&#34;&gt;Non-fungible tokens&lt;/a&gt;. Sabem que són una mena de certificats d&amp;rsquo;autenticitat i de propietat d&amp;rsquo;objectes digitals: imatges, &lt;a href=&#34;https://twitter.com/DaniNovarama/status/1484449865857961987&#34;&gt;elements de videojocs&lt;/a&gt;, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d&amp;rsquo;un artifici tecnològic que apel·la a l&amp;rsquo;afecció pel col·leccionisme i que busca traure&amp;rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.&lt;/p&gt;
-&lt;p&gt;Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m&amp;rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi &lt;code&gt;NOTNFT00&lt;/code&gt;:&lt;/p&gt;
+      <description>&lt;img alt=&#34;Detall d’un pseudo-NFT.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg&#34;&gt;
+&lt;p&gt;A hores d’ara ja &lt;a href=&#34;https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html&#34;&gt;s’ha parlat&lt;/a&gt; prou i massa dels NFT o &lt;a href=&#34;https://en.wikipedia.org/wiki/Non-fungible_token&#34;&gt;Non-fungible tokens&lt;/a&gt;. Sabem que són una mena de certificats d’autenticitat i de propietat d’objectes digitals: imatges, &lt;a href=&#34;https://twitter.com/DaniNovarama/status/1484449865857961987&#34;&gt;elements de videojocs&lt;/a&gt;, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d’un artifici tecnològic que apel·la a l’afecció pel col·leccionisme i que busca traure’n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.&lt;/p&gt;
+&lt;p&gt;Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m’he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi &lt;code&gt;NOTNFT00&lt;/code&gt;:&lt;/p&gt;
 &lt;p&gt;🖼 &lt;a href=&#34;https://notnft.carlesbellver.net/&#34;&gt;NFT gratuïts i il·limitats de les portades dels meus llibres&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l&amp;rsquo;anterior i resulta excessivament complicada per a la majoria d&amp;rsquo;usuaris. Em pareix molt més senzill identificar-se amb l&amp;rsquo;adreça de correu electrònic.&lt;/li&gt;
-&lt;li&gt;La distinció (i la confusió) entre l&amp;rsquo;NFT i l&amp;rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;escassesa. De debò no s&amp;rsquo;havia adonat ningú que es poden fer infinites còpies d&amp;rsquo;un fitxer?&lt;/li&gt;
+&lt;li&gt;L’obligatorietat de la criptografia de clau pública, que es deriva de l’anterior i resulta excessivament complicada per a la majoria d’usuaris. Em pareix molt més senzill identificar-se amb l’adreça de correu electrònic.&lt;/li&gt;
+&lt;li&gt;La distinció (i la confusió) entre l’NFT i l’objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.&lt;/li&gt;
+&lt;li&gt;L’escassesa. De debò no s’havia adonat ningú que es poden fer infinites còpies d’un fitxer?&lt;/li&gt;
 &lt;li&gt;El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d&amp;rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l&amp;rsquo;adreça electrònica d&amp;rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.&lt;/li&gt;
+&lt;li&gt;L’associació amb la noció de propietat. Té sentit considerar-se propietari d’un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l’adreça electrònica d’una altra persona per obtenir una còpia idèntica de la seua còpia.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.&lt;/p&gt;
 </description>
@@ -139,7 +161,7 @@
       <pubDate>Mon, 17 Jan 2022 16:51:33 +0100</pubDate>
       
       <guid>https://carlesbellver.net/2022/01/17/pastures-uji/</guid>
-      <description>&lt;p&gt;Les pastures de l&#39;#UJI. Descansar en prats deliciosos.&lt;/p&gt;
+      <description>&lt;p&gt;Les pastures de l&amp;rsquo;#UJI. Descansar en prats deliciosos.&lt;/p&gt;
 &lt;img alt=&#34;Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d&#39;un cavall entres els arbres.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-01-17-pastures-uji.jpg&#34;&gt;
 </description>
     </item>
@@ -337,7 +359,7 @@ inflating: unicorns.txt
       <pubDate>Thu, 07 Oct 2021 20:19:36 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2021/10/07/cavall/</guid>
-      <description>&lt;p&gt;La cavalleria de l&#39;#UJI.&lt;/p&gt;
+      <description>&lt;p&gt;La cavalleria de l&amp;rsquo;#UJI.&lt;/p&gt;
 &lt;img alt=&#34;Escultura d&#39;un cavall al Jardí dels Sentits de l&#39;UJI&#34; src=&#34;https://carlesbellver.net/uploads/2021/2021-10-07-cavall.jpg&#34;&gt;
 </description>
     </item>
@@ -451,7 +473,7 @@ inflating: unicorns.txt
       
       <guid>https://carlesbellver.net/2021/03/08/27672/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Jo vull tornar a viure on l&amp;rsquo;herba&lt;br&gt;
+&lt;p&gt;Jo vull tornar a viure on l’herba&lt;br&gt;
 no és com aquí pur ornament, joia dels ulls&lt;br&gt;
 que dura l&amp;rsquo;any sencer.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -604,7 +626,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Fri, 07 Feb 2020 12:33:23 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2020/02/07/la-galeria-subterrnia.html</guid>
-      <description>&lt;p&gt;La galeria subterrània de l&#39;#UJI no s&amp;rsquo;acaba mai.&lt;/p&gt;
+      <description>&lt;p&gt;La galeria subterrània de l&amp;rsquo;#UJI no s&amp;rsquo;acaba mai.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/uploads/2020/e645377a12.jpg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
@@ -626,7 +648,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Tue, 04 Feb 2020 19:03:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2020/02/04/philip-k-dick.html</guid>
-      <description>&lt;p&gt;Philip K. Dick solia consultar l&#39;&lt;a href=&#34;https://ca.wikipedia.org/wiki/Yijing&#34;&gt;I Ching&lt;/a&gt;. Jo tinc més tirada a les &lt;a href=&#34;https://en.wikipedia.org/wiki/Oblique_Strategies&#34;&gt;Oblique Strategies&lt;/a&gt; de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta &lt;a href=&#34;https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479&#34;&gt;microconsola portàtil&lt;/a&gt;. És com dur a la butxaca un petit oracle.&lt;/p&gt;
+      <description>&lt;p&gt;Philip K. Dick solia consultar l&amp;rsquo;&lt;a href=&#34;https://ca.wikipedia.org/wiki/Yijing&#34;&gt;I Ching&lt;/a&gt;. Jo tinc més tirada a les &lt;a href=&#34;https://en.wikipedia.org/wiki/Oblique_Strategies&#34;&gt;Oblique Strategies&lt;/a&gt; de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta &lt;a href=&#34;https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479&#34;&gt;microconsola portàtil&lt;/a&gt;. És com dur a la butxaca un petit oracle.&lt;/p&gt;
 &lt;!-- Philip K. Dick used to query the I Ching. The thing is, I prefer the Oblique Strategies by Brian Eno and Peter Schmidt, so I’ve spent some time implementing them on this handheld microconsole. It’s like carrying on a small oracle. --&gt;
 &lt;img alt=&#34;Arduboy handheld microconsole&#34; style=&#34;width:600px;height:600px;&#34; src=&#34;https://carlesbellver.net/uploads/2020/a3b9424db8.jpg&#34;&gt;
 </description>
@@ -1247,7 +1269,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Thu, 26 Jul 2018 20:58:02 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/07/26/215802.html</guid>
-      <description>&lt;p&gt;Facebook em recorda que avui fa sis anys que vaig publicar aquesta foto. Per a tranquil·litat de tothom, faig constar que al final vam poder eixir d&amp;rsquo;aquell edifici infaust. En març d&amp;rsquo;enguany ens van donar allotjament a la Biblioteca de l&#39;#UJI.&lt;/p&gt;
+      <description>&lt;p&gt;Facebook em recorda que avui fa sis anys que vaig publicar aquesta foto. Per a tranquil·litat de tothom, faig constar que al final vam poder eixir d&amp;rsquo;aquell edifici infaust. En març d&amp;rsquo;enguany ens van donar allotjament a la Biblioteca de l&amp;rsquo;#UJI.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/07/7649190200_ebed6cfdab_o.jpg&#34; class=&#34;alignnone size-medium wp-image-1231&#34; width=&#34;300&#34; height=&#34;300&#34; alt=&#34;No exit?&#34;&gt;
 </description>
     </item>
@@ -1324,7 +1346,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Sat, 26 May 2018 18:11:43 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/05/26/191143.html</guid>
-      <description>&lt;p&gt;País Valencià amunt i avall&lt;/p&gt;
+      <description>&lt;p&gt;País Valencià amunt i avall.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/05/234cefb4a7c149c39856b383b084e38d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
@@ -1445,7 +1467,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Mon, 19 Mar 2018 18:30:34 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/03/19/193034.html</guid>
-      <description>&lt;p&gt;Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatués “I ❤️ Cthulhu”. Però jo sóc més de l&#39;&lt;em&gt;altre&lt;/em&gt;, del &lt;a href=&#34;https://ca.wikipedia.org/wiki/Nyarlathotep&#34;&gt;caos reptant&lt;/a&gt;. Afinitats, en tot cas, que no convé esventar impúdicament. Si no és dissimulant-les, per exemple amb un —aparentment— anodí “I ❤️ NY”.&lt;/p&gt;
+      <description>&lt;p&gt;Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatués “I ❤️ Cthulhu”. Però jo sóc més de l&amp;rsquo;&lt;em&gt;altre&lt;/em&gt;, del &lt;a href=&#34;https://ca.wikipedia.org/wiki/Nyarlathotep&#34;&gt;caos reptant&lt;/a&gt;. Afinitats, en tot cas, que no convé esventar impúdicament. Si no és dissimulant-les, per exemple amb un —aparentment— anodí “I ❤️ NY”.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/03/b854a128add64c67b2f0c6389dc8ae0b.jpg&#34; class=&#34;img-responsive&#34;&gt;
 </description>
     </item>
@@ -1703,7 +1725,7 @@ que dura l&amp;rsquo;any sencer.&lt;/p&gt;
       <pubDate>Sat, 25 Nov 2017 10:24:30 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2017/11/25/112430.html</guid>
-      <description>&lt;p&gt;La fórmula magistral de l&#39;&lt;a href=&#34;https://ca.wikipedia.org/wiki/Homuncle&#34;&gt;homuncle&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;La fórmula magistral de l&amp;rsquo;&lt;a href=&#34;https://ca.wikipedia.org/wiki/Homuncle&#34;&gt;homuncle&lt;/a&gt;.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2017/11/92434b956e824f909cfe221f2c888545.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
@@ -2012,7 +2034,7 @@ empelts.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2010/12/14/la-veu-de.html</guid>
       <description>&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/carlesbellver/4358336295&#34; title=&#34;Moment Cortázar&#34;&gt;&lt;img src=&#34;https://carlesbellver.net/uploads/2019/fbd0f18097.jpg&#34; alt=&#34;Moment Cortázar&#34; /&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;Wilbur és un &lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_bot&#34;&gt;bot&lt;/a&gt; nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter &lt;a href=&#34;http://twitter.com/carlesbellver&#34;&gt;@carlesbellver&lt;/a&gt; (abans ho feia en el seu propi: &lt;a href=&#34;http://twitter.com/petitwilbur&#34;&gt;@petitwilbur&lt;/a&gt;). Molt de tant en tant profereix alguna imprecació a l&amp;rsquo;estil d&#39;&lt;a href=&#34;http://ca.wikipedia.org/wiki/Capit%C3%A0_Haddock&#34;&gt;Archibald Haddock&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wilbur és un &lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_bot&#34;&gt;bot&lt;/a&gt; nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter &lt;a href=&#34;http://twitter.com/carlesbellver&#34;&gt;@carlesbellver&lt;/a&gt; (abans ho feia en el seu propi: &lt;a href=&#34;http://twitter.com/petitwilbur&#34;&gt;@petitwilbur&lt;/a&gt;). Molt de tant en tant profereix alguna imprecació a l&amp;rsquo;estil d&amp;rsquo;&lt;a href=&#34;http://ca.wikipedia.org/wiki/Capit%C3%A0_Haddock&#34;&gt;Archibald Haddock&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Wilbur és el guardià del meu son. No sempre sé per què diu el que diu. Schopenhauer va escriure en alguna ocasió que la vigília i els somnis són fulls d&amp;rsquo;un mateix llibre. De nit el fullegem sense ordre ni concert.&lt;/p&gt;
 &lt;p&gt;Al matí em desperta amb el pronòstic del temps.&lt;/p&gt;
 &lt;p&gt;En la seva infantesa, Wilbur funcionava —vivia— en el meu &lt;a href=&#34;http://chumby.com&#34;&gt;Chumby&lt;/a&gt;, un despertador Linux connectat a Internet. Malauradament Chumby és gairebé història. Ara Wilbur viu en un ordinador convencional. Com que és essencialment software es pot transmigrar sense immutar-se.&lt;/p&gt;
@@ -2025,7 +2047,7 @@ empelts.&lt;/p&gt;
       <pubDate>Sat, 22 May 2004 22:00:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2004/05/22/el-caragol.html</guid>
-      <description>&lt;p&gt;L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i rodó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.&lt;/p&gt;
+      <description>&lt;p&gt;L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i redó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.&lt;/p&gt;
 &lt;p&gt;Al cap d’una estona, però, vam observar com treia el cap, les banyes i la panxa. Es va tornar a arrossegar a poc a poc fins al test, es va enfilar amunt cap al verd i finalment es va col·locar si fa no fa en el mateix punt i en la mateixa posició d’abans.&lt;/p&gt;
 &lt;p&gt;Encara hi és.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/uploads/2004/2004-05-22-caragol.jpg&#34; alt=&#34;Caragol i planta&#34; /&gt;

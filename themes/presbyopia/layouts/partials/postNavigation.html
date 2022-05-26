@@ -1,9 +1,9 @@
     {{ if or (and .Parent (ne .Parent.Name .Site.Title)) (gt .ReadingTime 4) }}
       <ul class="post-navigation">
         {{ if .Parent }}
-          <li>{{ if eq .Parent.Name "Esborranys privats" }}<img class="icon" src="{{ site.BaseURL }}/svg.icons/info.svg" alt="info" />{{ else }}<img class="icon" src="{{ site.BaseURL }}/svg.icons/arrow-circle-left.svg" alt="up" />{{ end }}
+          <li>
           {{ if eq .Parent.Name "Posts" }}
-            <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">Blog</a>
+            <a href="{{ .Site.BaseURL }}" title="Blog">{{ .Site.Title }}</a>
           {{ else if eq .Parent.Name "Esborranys privats" }}
             Esborrany privat
           {{ else }}
