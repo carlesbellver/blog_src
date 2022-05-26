@@ -1,3 +1,7 @@
+h3.post-stats-hd {
+  border-bottom: 0;
+}
+
 .post-stats-tbl {
     display: inline-block;
     line-height: 2;

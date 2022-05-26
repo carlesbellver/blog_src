@@ -11,11 +11,15 @@
 
   <article class="post-list">
 	{{ $list := (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-	{{ range $list }}
-
+	{{ range (.Paginate $list).Pages }}
+    
     {{ partial "postSummary.html" . }}
     
 	{{ end }}
 	</article>
+	
+	<div class="pagination">
+	  <span class="pagination-item"><a href="/archive">Tots els apunts del blog</a></span>
+	</div>
 
 {{ end }}

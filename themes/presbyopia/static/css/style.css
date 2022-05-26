@@ -690,6 +690,7 @@ article iframe {
 
 .pagination-item a {
     color: var(--pagination-link-color);
+    text-transform: uppercase;
 }
 
 .pagination-item a:hover, 
