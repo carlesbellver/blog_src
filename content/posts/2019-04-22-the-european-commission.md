@@ -3,7 +3,7 @@ url = "/2019/04/22/the-european-commission.html"
 title = ""
 date = "2019-04-22T08:42:00+00:00"
 slug = "the-european-commission"
-tags = ["retalls"]
+tags = ["retalls", "copyright"]
 +++
 
 📎 [The EU suppressed a 300 page/€360,000 study that found piracy doesn’t harm sales](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537) \[2017]
