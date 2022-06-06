@@ -742,13 +742,13 @@ ul.language-select > li, ul.footer-menu > li {
     margin-right: 1em;
 }
 
-.copyright a {
+footer .copyright a {
     color: var(--font-color);
 }
 
-.copyright a:hover,
-.copyright a:focus,
-.copyright a:active {
+footer .copyright a:hover,
+footer .copyright a:focus,
+footer .copyright a:active {
     color: var(--font-color);
     border-bottom: 0;
     text-decoration: none;

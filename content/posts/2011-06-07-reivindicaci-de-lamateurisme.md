@@ -5,7 +5,7 @@ date = "2011-06-07T22:00:00+00:00"
 slug = "reivindicaci-de-lamateurisme"
 +++
 
-<img title="Franz Kafka America cover by Edward Gorey" src="http://www.carlesbellver.net/pics/gorey_kafka.jpg" alt="Franz Kafka Amerika cover by Edward Gorey" width="250" height="430" />
+<img title="Franz Kafka America cover by Edward Gorey" src="/uploads/2011/2011-06-07-gorey-amerika.jpg" alt="Franz Kafka Amerika cover by Edward Gorey" width="250" height="430" />
 
 Jo em considere per damunt de tot un [amateur](http://fr.wikipedia.org/wiki/Amateur). És a dir, que m’agrada fer les coses en primer lloc per plaer —pel plaer de fer-les bé i d’aprendre a fer-les bé—, tant en l’exercici de la meva professió com en altres activitats que m’interessen. Particularment en aquesta d’escriure.
 
