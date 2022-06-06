@@ -73,7 +73,7 @@ paginate = 12
   [[menu.main]]
     identifier = "search"
     name = "Cercar"
-    url = "/search/"
+    url = "/archive/"
     weight = 7
 
 [mediaTypes]

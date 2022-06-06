@@ -5,8 +5,10 @@ function downloadArchive() {
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       archive_results = JSON.parse(this.responseText);
-      var results_node = document.getElementById("list_results");
-      results_node.innerHTML = "<p>Introduïu els termes de la cerca.</p>";
+      /* var results_node = document.getElementById("list_results");
+      results_node.innerHTML = "<p>Introduïu els termes de la cerca.</p>"; */
+      var notice = document.getElementById("srch_notice");
+      notice.innerHTML = "";
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);
