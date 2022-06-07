@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://carlesbellver.net/2022/05/22/fuster-ciscarista/</loc>
+    <lastmod>2022-05-22T09:35:45+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/</loc>
+    <lastmod>2022-05-22T09:35:45+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/posts/</loc>
+    <lastmod>2022-05-22T09:35:45+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/retalls/</loc>
+    <lastmod>2022-05-22T09:35:45+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/</loc>
+    <lastmod>2022-05-22T09:35:45+02:00</lastmod>
+  </url><url>
     <loc>https://carlesbellver.net/tags/citacions/</loc>
     <lastmod>2022-05-15T18:45:59+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/05/15/john-fowles-els-topics/</loc>
-    <lastmod>2022-05-15T18:45:59+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/</loc>
-    <lastmod>2022-05-15T18:45:59+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/posts/</loc>
-    <lastmod>2022-05-15T18:45:59+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/</loc>
     <lastmod>2022-05-15T18:45:59+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/05/08/prorroga/</loc>
@@ -36,9 +42,6 @@
     <lastmod>2022-04-30T17:55:03+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/04/27/facebook-does-not-know/</loc>
-    <lastmod>2022-04-27T14:34:40+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/retalls/</loc>
     <lastmod>2022-04-27T14:34:40+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/04/23/video-games/</loc>
@@ -202,9 +205,6 @@
   </url><url>
     <loc>https://carlesbellver.net/2021/11/21/evolution-intelligent-life/</loc>
     <lastmod>2021-11-21T19:32:38+01:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/contes/</loc>
-    <lastmod>2021-11-21T16:49:59+01:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2021/11/21/social-studies-computing/</loc>
     <lastmod>2021-11-21T16:49:59+01:00</lastmod>
@@ -641,6 +641,9 @@
     <loc>https://carlesbellver.net/contes/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://carlesbellver.net/tags/contes/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://carlesbellver.net/contes/unicorns/unicorns22/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -850,9 +853,6 @@
   </url><url>
     <loc>https://carlesbellver.net/2019/11/10/ja-s-costum.html</loc>
     <lastmod>2019-11-10T09:11:11+00:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/2019/11/09/no-hi-havia.html</loc>
-    <lastmod>2019-11-09T09:41:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2019/11/09/a-court-in.html</loc>
     <lastmod>2019-11-09T07:13:00+00:00</lastmod>
@@ -1278,6 +1278,9 @@
     <lastmod>2019-04-23T05:30:02+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2019/04/22/the-european-commission.html</loc>
+    <lastmod>2019-04-22T08:42:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/copyright/</loc>
     <lastmod>2019-04-22T08:42:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2019/04/20/realidad-esta-pesadilla.html</loc>
@@ -3759,9 +3762,6 @@
     <lastmod>2015-06-10T22:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2015/06/08/la-guerra-de.html</loc>
-    <lastmod>2015-06-08T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/copyright/</loc>
     <lastmod>2015-06-08T22:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2015/05/31/contar-marx-a.html</loc>

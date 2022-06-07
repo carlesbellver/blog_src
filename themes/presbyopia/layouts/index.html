@@ -11,7 +11,7 @@
 
   <article class="post-list">
 	{{ $list := (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-	{{ range (.Paginate $list).Pages }}
+	{{ range first site.Params.noPosts $list }}
     
     {{ partial "postSummary.html" . }}
     

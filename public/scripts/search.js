@@ -5,8 +5,10 @@ function downloadArchive() {
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       archive_results = JSON.parse(this.responseText);
-      var results_node = document.getElementById("list_results");
-      results_node.innerHTML = "<p>Introduïu els termes de la cerca.</p>";
+      /* var results_node = document.getElementById("list_results");
+      results_node.innerHTML = "<p>Introduïu els termes de la cerca.</p>"; */
+      var notice = document.getElementById("srch_notice");
+      notice.innerHTML = "";
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);
@@ -64,7 +66,7 @@ function runSearch(q) {
     for (let i = 0; i < results.length; i++) {
       var p_node = document.createElement("p");        
       var link_node = document.createElement("a");
-      if (results[i]["date"] != "0001-01-01T00:00:00+00:00") {
+      if (results[i]["date"].substring(0, 3) != "000" && results[i]["date"].substring(0, 3) != "197") {
         var d = Date.parse(results[i]["date"]);
         var date_s = new Date(d).toISOString().substr(0, 10);
         var date_node = document.createTextNode(date_s); 
