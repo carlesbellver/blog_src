@@ -1,7 +1,7 @@
 {{ define "main" }}
 
   <header class="post-header">
-    <h1 class="post-title p-name">{{ .Site.Title }}. {{ len (where site.RegularPages "Type" "posts") }} apunts</h1>
+    <h1 class="post-title p-name"><span id="search_pattern">{{ .Site.Title }}</span>. <span id="no_hits">{{ len site.RegularPages }} pàgines</span></h1>
   </header>
   
     <div class="homepage-content">
@@ -13,17 +13,20 @@
 <script src="/scripts/search.js"></script>
 
 <form class="search" onSubmit="return false;">
-	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="runSearch(this.value.toLowerCase());" /><input class="submit" type="submit" value="cerca" />
+	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="runSearch(this.value.toLowerCase());" />
+	<input class="submit" type="submit" value="cerca" onClick="runSearch(document.getElementById('input_search').toLowerCase());" />
+	<input class="submit" type="reset" value="esborra" onClick="resetSearch();" />
 </form>
 
   <article id="list_results" class="post-list">
-    <p id="srch_notice">S'està carregant l'índex de paraules…</p>
-	{{ $list := (where site.AllPages "Type" "in" site.Params.mainSections) }}
+    <p id="srch_notice">S'està carregant l'índex…</p>
+{{/*
+ 	{{ $list := (where site.AllPages "Type" "in" site.Params.mainSections) }}
 	{{ range $list }}
 		{{ if .Plain }}
       {{ partial "postSummary.html" . }}
     {{ end }}
 	{{ end }}
 	</article>
-	
+*/}}	
 {{ end }}

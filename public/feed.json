@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/",
+				
+				"content_html": "<p>📎 Ignacio Sánchez-Cuenca: <a href=\"https://ctxt.es/es/20220601/Firmas/39900/\">La izquierda ceniza</a></p>\n<blockquote>\n<p>Triturada la utopía, en cualquiera de sus formas, la crítica hiperbólica del mundo contemporáneo es una carga muy pesada de sobrellevar […] La izquierda no se quedaría sin espacio propio por el hecho de reconocer la complejidad del mundo, con su intrincada mezcla de aspectos positivos y negativos. Se pueden celebrar hasta los pequeños avances sin por ello renunciar a la lucha por la mejora en todos los ámbitos posibles de aquellas situaciones de opresión, discriminación y explotación que perviven y se enquistan.</p>\n</blockquote>\n",
+				"date_published": "2022-06-05T11:56:33+02:00",
+				"url": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/",
 				
 				"content_html": "<blockquote>\n<p>Naturalment, Fuster era ciscarista, a diferència de molts dels seus seguidors. Les raons són molt naturals: Fuster era molt més intel·ligent i pragmàtic que la majoria dels seus <em>followers</em>. Ell va entendre de seguida que la Llei d'Ús i Ensenyament del Valencià era revolucionària, el primer estri legal favorable a la llengua des dels Decrets de Nova Planta…</p>\n</blockquote>\n<p>📎 Joan Garí, <a href=\"http://oficidelector.blogspot.com/2022/05/fuster-en-la-seua-salsa.html\">“Fuster en la seua salsa”</a> (ressenya del llibre de Salvador Vendrell <a href=\"https://www.onadaedicions.com/llibres/producte/A+casa+Joan+Fuster+Les+tertulies+de+Sueca\"><em>A casa Joan Fuster. Les tertúlies de Sueca</em></a>).</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>La solsida. <em>Der Untergang</em>.</p>\n<img alt=\"\" src=\"/uploads/2022/2022-02-09-solsida.jpg\">\n",
 				"date_published": "2022-02-09T20:30:12+01:00",
 				"url": "https://carlesbellver.net/2022/02/09/solsida/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/08/adventures-dillon-helbig/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.lavanguardia.com/cribeo/estilo-de-vida/20220208/8041733/nino-8-anos-esconde-propio-libro-escrito-mano-biblioteca-convierte-exito.html\">Un niño de 8 años esconde su libro manuscrito en la biblioteca y se convierte en todo un éxito</a></p>\n<blockquote>\n<p>Tras cuatro intensos días dedicándose únicamente a su creación, Dillon decidió esconder su obra en la Biblioteca Comunitaria de Ada para que todo el mundo pudiera disfrutar de la novela que cuenta la historia de su propio viaje al pasado provocado por una explosión de una de las bolas de su árbol de Navidad.</p>\n</blockquote>\n<img src=\"https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2022/02/08/6202425b57391.png\" />",
-				"date_published": "2022-02-08T17:18:22+01:00",
-				"url": "https://carlesbellver.net/2022/02/08/adventures-dillon-helbig/"
 			}
 	]
 }
