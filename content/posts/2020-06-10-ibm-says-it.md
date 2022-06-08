@@ -3,6 +3,7 @@ url = "/2020/06/10/ibm-says-it.html"
 title = ""
 date = "2020-06-10T10:08:00+00:00"
 slug = "ibm-says-it"
+tags = ["retalls"]
 +++
 
 📎 [IBM says it is no longer working on face recognition because it’s used for racial profiling](https://www.technologyreview.com/2020/06/09/1002947/ibm-says-it-is-no-longer-working-on-face-recognition-because-its-used-for-racial-profiling/)
