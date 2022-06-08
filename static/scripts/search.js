@@ -82,6 +82,10 @@ function runSearch(q) {
     displayResults(results_node, results);
   }
   else {
+    var pattern_node = document.getElementById("search_pattern");
+    pattern_node.innerHTML = "La vista cansada";
+    var no_hits_node = document.getElementById("no_hits");
+    no_hits_node.innerHTML = "zero pàgines";
     results_node.innerHTML = "<p>No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
   }
 }
