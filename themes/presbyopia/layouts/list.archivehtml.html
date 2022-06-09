@@ -14,7 +14,7 @@
 
 <form class="search" onSubmit="return false;">
 	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="runSearch(this.value.toLowerCase());" />
-	<input class="submit" type="submit" value="cerca" onClick="runSearch(document.getElementById('input_search').toLowerCase());" />
+	<input class="submit" type="submit" value="cerca" onClick="runSearch(document.getElementById('input_search'));" />
 	<input class="submit" type="reset" value="esborra" onClick="resetSearch();" />
 </form>
 

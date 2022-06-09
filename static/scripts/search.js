@@ -25,68 +25,77 @@ function resetSearch() {
 }
 
 function runSearch(q) {
-  q = q.trim().toLowerCase();
-  q = q.replace(/[ld]['’]/g, '');
-  var results_node = document.getElementById("list_results");
-  results_node.innerHTML = "";
-  var count = 0;
-  if (q.length > 3 && q.length < 20) {
-    var results = [];
-    var terms = q.split(/ +/);
-    if (terms.length > 5) {
-      terms = terms.slice(0, 4);
-    }
-    q = terms.join(" ");
-    var pattern_node = document.getElementById("search_pattern");
-    pattern_node.innerHTML = q;
-    for (var i = 0; i < archive_results.items.length; i++) {
-      score = 0;
-      var item = archive_results.items[i];
-      var title_lower = item.title.toLowerCase();
-      var tags_lower = item.tags.toLowerCase();
-      var text_lower = item.content_text.toLowerCase();
-      if (terms.length > 1) {
-        if (title_lower.includes(q)) {
-          score += 10;
-        }
-        if (tags_lower.includes(q)) {
-            score += 5;
-          }
-        if (text_lower.includes(q)) {
-          score += 1;
-        }        
-      }
+  if (typeof(q) == "string" && q.length) {
+    qq = q.trim().toLowerCase();
+    /* q = q.replace(/[ld]['’]/g, ''); */
+    var results_node = document.getElementById("list_results");
+    results_node.innerHTML = "";
+    var count = 0;
+    if (q.length > 3 && q.length < 40) {
+      var results = [];
+      var terms = q.split(/[ '’"-]+/);
+      terms_p = [];
       for (let i = 0; i < terms.length; i++) {
         if (terms[i].length > 3) {
-          if (title_lower.includes(terms[i])) {
-            score += 10;
-          }
-          if (tags_lower.includes(terms[i])) {
-            score += 5;
-          }
-          if (text_lower.includes(terms[i])) {
-            score += 1;
-          }
+          terms_p.push(chrCleanup(terms[i]));
         }
       }
-      if (score > 0) {
-        /* const result = { "url": item.url, "title": item.title, "text": item.content_text, "date": item.date_published, "tags": item.tags, "score": score}; */
-        item.score = score;
-        results.push(item);
-        count++;
+      if (terms_p.length > 5) {
+        terms_p = terms_p.slice(0, 4);
+      }
+      q = terms_p.join(" ");
+      console.log(q);
+      var pattern_node = document.getElementById("search_pattern");
+      pattern_node.innerHTML = qq;
+      for (var i = 0; i < archive_results.items.length; i++) {
+        score = 0;
+        var item = archive_results.items[i];
+        var title_lower = item.title.toLowerCase();
+        var tags_lower = item.tags.toLowerCase();
+        var text_lower = item.content_text.toLowerCase();
+        if (terms.length > 1) {
+          if (title_lower.includes(q)) {
+            score += 10;
+          }
+          if (tags_lower.includes(q)) {
+              score += 5;
+            }
+          if (text_lower.includes(q)) {
+            score += 1;
+          }        
+        }
+        for (let i = 0; i < terms_p.length; i++) {
+          if (terms_p[i].length > 3) {
+            if (chrCleanup(title_lower).includes(terms_p[i])) {
+              score += 10;
+            }
+            if (chrCleanup(tags_lower).includes(terms_p[i])) {
+              score += 5;
+            }
+            if (chrCleanup(text_lower).includes(terms_p[i])) {
+              score += 1;
+            }
+          }
+        }
+        if (score > 0) {
+          /* const result = { "url": item.url, "title": item.title, "text": item.content_text, "date": item.date_published, "tags": item.tags, "score": score}; */
+          item.score = score;
+          results.push(item);
+          count++;
+        }
       }
     }
-  }
-  if (count) {
-    results.sort( function(a, b) { return b["score"] - a["score"] } );
-    displayResults(results_node, results);
-  }
-  else {
-    var pattern_node = document.getElementById("search_pattern");
-    pattern_node.innerHTML = "La vista cansada";
-    var no_hits_node = document.getElementById("no_hits");
-    no_hits_node.innerHTML = "zero pàgines";
-    results_node.innerHTML = "<p>No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
+    if (count) {
+      results.sort( function(a, b) { return b["score"] - a["score"] } );
+      displayResults(results_node, results);
+    }
+    else {
+      var pattern_node = document.getElementById("search_pattern");
+      pattern_node.innerHTML = "La vista cansada";
+      var no_hits_node = document.getElementById("no_hits");
+      no_hits_node.innerHTML = "zero pàgines";
+      results_node.innerHTML = "<p>No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
+    }
   }
 }
 
@@ -98,39 +107,66 @@ function displayResults(results_node, results) {
   else {
     no_hits_node.innerHTML = results.length + " pàgines";
   }
-	for (let i = 0; i < results.length; i++) {
-		var p_node = document.createElement("p");        
-		var link_node = document.createElement("a");
-		if (results[i]["date_published"].substring(0, 3) != "000" && results[i]["date_published"].substring(0, 3) != "197") {
-			var d = Date.parse(results[i]["date_published"]);
-			var date_s = new Date(d).toISOString().substr(0, 10);
-			var date_node = document.createTextNode(date_s); 
-			link_node.appendChild(date_node);
-		}
-		link_node.href = results[i]["url"];
-		var title_node = null;
-		if (results[i]["title"].length > 0) {
-			title_node = document.createElement("span");
-			title_node.innerHTML = ' <a href="'+results[i]["url"]+'">' + results[i]["title"] + "</a>"
-			s = results[i]["title"] + " " + results[i]["content_text"];
-		}
-		var s = results[i]["content_text"];
-		if (s.length > 200) {
-			s = s.substr(0, 200) + "…";
-		}
-		var text_node = document.createElement("span");
-		text_node.innerHTML = " " + s;
-		p_node.appendChild(link_node);
-		if (results[i]["tags"].includes("fotos")) {
-			var pic_node = document.createElement("span");
-			pic_node.innerHTML = " &#x1F5BC;"
-			p_node.appendChild(pic_node);
-		}
-		if (title_node != null) {
-			p_node.appendChild(title_node);
-		}
-		p_node.appendChild(text_node);
-		results_node.appendChild(p_node);
-	}
+  for (let i = 0; i < results.length; i++) {
+    var p_node = document.createElement("p");        
+    var link_node = document.createElement("a");
+    if (results[i]["date_published"].substring(0, 3) != "000" && results[i]["date_published"].substring(0, 3) != "197") {
+      var d = Date.parse(results[i]["date_published"]);
+      var date_s = new Date(d).toISOString().substr(0, 10);
+      var date_node = document.createTextNode(date_s); 
+      link_node.appendChild(date_node);
+    }
+    link_node.href = results[i]["url"];
+    var title_node = null;
+    if (results[i]["title"].length > 0) {
+      title_node = document.createElement("span");
+      title_node.innerHTML = ' <a href="'+results[i]["url"]+'">' + results[i]["title"] + "</a>"
+      s = results[i]["title"] + " " + results[i]["content_text"];
+    }
+    var s = results[i]["content_text"];
+    if (s.length > 200) {
+      s = s.substr(0, 200) + "…";
+    }
+    var text_node = document.createElement("span");
+    text_node.innerHTML = " " + s;
+    p_node.appendChild(link_node);
+    if (results[i]["tags"].includes("fotos")) {
+      var pic_node = document.createElement("span");
+      pic_node.innerHTML = " &#x1F5BC;"
+      p_node.appendChild(pic_node);
+    }
+    if (title_node != null) {
+      p_node.appendChild(title_node);
+    }
+    p_node.appendChild(text_node);
+    results_node.appendChild(p_node);
+  }
+}
 
+function chrCleanup(s) {
+  s = s.replace(/à/g, 'a');
+  s = s.replace(/á/g, 'a');
+  s = s.replace(/è/g, 'e');
+  s = s.replace(/é/g, 'e');
+  s = s.replace(/í/g, 'i');
+  s = s.replace(/ï/g, 'i');
+  s = s.replace(/ò/g, 'o');
+  s = s.replace(/ó/g, 'o');
+  s = s.replace(/ú/g, 'u');
+  s = s.replace(/ü/g, 'u');
+  s = s.replace(/ç/g, 'c');
+  s = s.replace(/ñ/g, 'n');
+  s = s.replace(/À/g, 'A');
+  s = s.replace(/É/g, 'A');
+  s = s.replace(/È/g, 'E');
+  s = s.replace(/É/g, 'E');
+  s = s.replace(/Í/g, 'I');
+  s = s.replace(/Ï/g, 'I');
+  s = s.replace(/Ò/g, 'O');
+  s = s.replace(/Ó/g, 'O');
+  s = s.replace(/Ú/g, 'U');
+  s = s.replace(/Ü/g, 'U');
+  s = s.replace(/Ç/g, 'C');
+  s = s.replace(/Ñ/g, 'N');
+  return s;
 }

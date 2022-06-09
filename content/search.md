@@ -9,7 +9,7 @@ tags = ["special"]
 <script src="/scripts/search.js"></script>
 
 <form class="search" onSubmit="return false;">
-	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="runSearch(this.value.toLowerCase());" /><input class="submit" type="submit" value="cerca" />
+	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="runSearch(this.value());" /><input class="submit" type="submit" value="cerca" />
 </form>
 
 <div id="list_results">
