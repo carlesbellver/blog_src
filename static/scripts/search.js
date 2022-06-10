@@ -1,3 +1,5 @@
+var MIN_WL = 3;
+
 var archive_results = {};
 downloadArchive();
 
@@ -30,11 +32,11 @@ function runSearch(q) {
     var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var count = 0;
-    if (q.length > 3 && q.length < 100) {
+    if (q.length >= MIN_WL && q.length < 100) {
       var results = [];
       var q = chrCleanup(q);
       var literal = 0;
-      var regExp = /^"([^"]+)"$/g;
+      var regExp = /^ *["“”](.+)["“”] *$/g;
       if (match = regExp.exec(q)){
         q = literal = match[1];
       }
@@ -42,7 +44,7 @@ function runSearch(q) {
         var terms = q.split(/[ '’"-]+/);
         terms_p = [];
         for (let i = 0; i < terms.length; i++) {
-          if (terms[i].length > 3) {
+          if (terms[i].length >= MIN_WL) {
             terms_p.push(terms[i]);
           }
         }
@@ -55,7 +57,7 @@ function runSearch(q) {
       var pattern_node = document.getElementById("search_pattern");
       pattern_node.innerHTML = qq;
       for (var i = 0; i < archive_results.items.length; i++) {
-        score = 0;
+        var score = 0;
         var item = archive_results.items[i];
         var title_lower = chrCleanup(item.title).toLowerCase();
         var tags_lower = chrCleanup(item.tags).toLowerCase();
@@ -69,25 +71,27 @@ function runSearch(q) {
             }
           if (text_lower.includes(q)) {
             score += 1;
-          }        
+          }
         }
         if (!literal) {
           for (let i = 0; i < terms_p.length; i++) {
-            if (terms_p[i].length > 3) {
-              if (title_lower.includes(terms_p[i])) {
+            if (terms_p[i].length >= MIN_WL) {
+              /* word boundary + term + 0-2 chars + word boundary */
+              var exp = "\\b" + terms_p[i] + "[a-z]{0,2}\\b";
+              var re = new RegExp(exp);
+              if (title_lower.match(re)) {
                 score += 10;
               }
-              if (tags_lower.includes(terms_p[i])) {
+              if (tags_lower.match(re)) {
                 score += 5;
               }
-              if (text_lower.includes(terms_p[i])) {
+              if (text_lower.match(re)) {
                 score += 1;
               }
             }
           }
         }
         if (score > 0) {
-          /* const result = { "url": item.url, "title": item.title, "text": item.content_text, "date": item.date_published, "tags": item.tags, "score": score}; */
           item.score = score;
           results.push(item);
           count++;
