@@ -39,18 +39,18 @@ function runSearch(q) {
         q = literal = match[1];
       }
       if (!literal) {
-				var terms = q.split(/[ '’"-]+/);
-				terms_p = [];
-				for (let i = 0; i < terms.length; i++) {
-					if (terms[i].length > 3) {
-						terms_p.push(terms[i]);
-					}
-				}
-				if (terms_p.length > 5) {
-					terms_p = terms_p.slice(0, 4);
-				}
-				q = terms_p.join(" ");
-			}
+        var terms = q.split(/[ '’"-]+/);
+        terms_p = [];
+        for (let i = 0; i < terms.length; i++) {
+          if (terms[i].length > 3) {
+            terms_p.push(terms[i]);
+          }
+        }
+        if (terms_p.length > 5) {
+          terms_p = terms_p.slice(0, 4);
+        }
+        q = terms_p.join(" ");
+      }
       /* console.log(q); */
       var pattern_node = document.getElementById("search_pattern");
       pattern_node.innerHTML = qq;
@@ -72,19 +72,19 @@ function runSearch(q) {
           }        
         }
         if (!literal) {
-					for (let i = 0; i < terms_p.length; i++) {
-						if (terms_p[i].length > 3) {
-							if (chrCleanup(title_lower).includes(terms_p[i])) {
-								score += 10;
-							}
-							if (chrCleanup(tags_lower).includes(terms_p[i])) {
-								score += 5;
-							}
-							if (chrCleanup(text_lower).includes(terms_p[i])) {
-								score += 1;
-							}
-						}
-					}
+          for (let i = 0; i < terms_p.length; i++) {
+            if (terms_p[i].length > 3) {
+              if (chrCleanup(title_lower).includes(terms_p[i])) {
+                score += 10;
+              }
+              if (chrCleanup(tags_lower).includes(terms_p[i])) {
+                score += 5;
+              }
+              if (chrCleanup(text_lower).includes(terms_p[i])) {
+                score += 1;
+              }
+            }
+          }
         }
         if (score > 0) {
           /* const result = { "url": item.url, "title": item.title, "text": item.content_text, "date": item.date_published, "tags": item.tags, "score": score}; */
