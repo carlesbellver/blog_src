@@ -779,6 +779,58 @@ a.theme-switcher:hover {
   text-decoration: none;
 }
 
+/* search */
+
+#search {
+	display: none;
+}
+
+form.search {
+  margin: 1em 0;
+  text-align: left;
+}
+
+form input {
+}
+
+input.field {
+	width: 240px;
+	height: 24px;
+	font-size: 13px;
+	font-weight: 400;
+	border: 2px solid #eee;
+	padding-left: 12px;
+	margin-top: 0;
+	background-color: #fff;
+	margin-bottom: 0;
+	-webkit-appearance: none;
+}
+
+input.submit {
+	height: 20px;
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 0;
+	border: none;
+	/* border: 2px solid #eee; */
+	background-color: #fff;
+	margin-bottom: 0;
+	-webkit-appearance: none;
+}
+
+input.reset {
+	height: 20px;
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 0;
+	border: none;
+	/* border: 2px solid #eee; */
+	background-color: #fff;
+	margin-bottom: 0;
+	-webkit-appearance: none;
+}
+
+
 /* Media Queries */
 
 @media screen and (max-width: 480px) {

@@ -8,14 +8,12 @@
         {{ .Content }}
     </div>
 
-<link type="text/css" rel="stylesheet" href="/scripts/search.css" />
-
 <script src="/scripts/search.js"></script>
 
 <form class="search" onSubmit="return false;">
 	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="runSearch(this.value.toLowerCase());" />
-	<input class="submit" type="submit" value="cerca" onClick="runSearch(document.getElementById('input_search'));" />
-	<input class="submit" type="reset" value="esborra" onClick="resetSearch();" />
+	<input class="submit" role="button" type="submit" value="🔍" onClick="runSearch(document.getElementById('input_search'));" />
+	<input class="reset" role="button" type="reset" value="❌" onClick="resetSearch();" />
 </form>
 
   <article id="list_results" class="post-list">

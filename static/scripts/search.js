@@ -1,5 +1,6 @@
 var MIN_WL = 3;
 
+var results_node = document.getElementById("list_results");
 var archive_results = {};
 downloadArchive();
 
@@ -8,11 +9,9 @@ function downloadArchive() {
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       archive_results = JSON.parse(this.responseText);
-      var results_node = document.getElementById("list_results");
-      /* results_node.innerHTML = "<p>Introduïu els termes de la cerca.</p>"; */
       var notice = document.getElementById("srch_notice");
       notice.innerHTML = "";
-      displayResults(results_node, archive_results.items);
+      displayResults(archive_results.items);
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);
@@ -22,14 +21,12 @@ function downloadArchive() {
 function resetSearch() {
   var pattern_node = document.getElementById("search_pattern");
   pattern_node.innerHTML = "La vista cansada";
-  var results_node = document.getElementById("list_results");
-  displayResults(results_node, archive_results.items);
+  displayResults(archive_results.items);
 }
 
 function runSearch(q) {
   if (typeof(q) == "string" && q.length) {
     var qq = q.trim().toLowerCase();
-    var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var count = 0;
     if (q.length >= MIN_WL && q.length < 100) {
@@ -100,25 +97,25 @@ function runSearch(q) {
     }
     if (count) {
       results.sort( function(a, b) { return b["score"] - a["score"] } );
-      displayResults(results_node, results);
+      displayResults(results);
     }
     else {
       var pattern_node = document.getElementById("search_pattern");
       pattern_node.innerHTML = "La vista cansada";
       var no_hits_node = document.getElementById("no_hits");
-      no_hits_node.innerHTML = "zero pàgines";
+      no_hits_node.innerHTML = "";
       results_node.innerHTML = "<p>No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
     }
   }
 }
 
-function displayResults(results_node, results) {
+function displayResults(results) {
   var no_hits_node = document.getElementById("no_hits");
   if (results.length == 1) {
-    no_hits_node.innerHTML = results.length + " pàgina";
+    no_hits_node.innerHTML = results.length + "&nbsp;pàgina";
   }
   else {
-    no_hits_node.innerHTML = results.length + " pàgines";
+    no_hits_node.innerHTML = results.length + "&nbsp;pàgines";
   }
   for (let i = 0; i < results.length; i++) {
     var p_node = document.createElement("p");        
