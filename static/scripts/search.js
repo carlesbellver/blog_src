@@ -1,6 +1,5 @@
 var MIN_WL = 3;
 
-var results_node = document.getElementById("list_results");
 var archive_results = {};
 downloadArchive();
 
@@ -27,6 +26,7 @@ function resetSearch() {
 function runSearch(q) {
   if (typeof(q) == "string" && q.length) {
     var qq = q.trim().toLowerCase();
+    var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var count = 0;
     if (q.length >= MIN_WL && q.length < 100) {
@@ -110,6 +110,7 @@ function runSearch(q) {
 }
 
 function displayResults(results) {
+  var results_node = document.getElementById("list_results");
   var no_hits_node = document.getElementById("no_hits");
   if (results.length == 1) {
     no_hits_node.innerHTML = results.length + "&nbsp;pàgina";

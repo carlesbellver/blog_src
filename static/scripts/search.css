@@ -11,6 +11,7 @@ form input {
 }
 
 .field {
+  display: block;
 	width: 240px;
 	height: 24px;
 	font-size: 13px;

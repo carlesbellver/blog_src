@@ -806,27 +806,35 @@ input.field {
 	-webkit-appearance: none;
 }
 
+@media screen and (max-width: 480px) {
+  input.field {
+    display: block;
+  }
+}
+
 input.submit {
-	height: 20px;
+	height: 24px;
+	width: 60px;
 	font-size: 12px;
 	font-weight: normal;
-	margin-left: 0;
-	border: none;
-	/* border: 2px solid #eee; */
+	margin-left: 10px;
+	border: 2px solid #eee;
 	background-color: #fff;
 	margin-bottom: 0;
+	text-align: center;
 	-webkit-appearance: none;
 }
 
 input.reset {
-	height: 20px;
+	height: 24px;
+	width: 60px;
 	font-size: 12px;
 	font-weight: normal;
-	margin-left: 0;
-	border: none;
-	/* border: 2px solid #eee; */
+	margin-left: 10px;
+	border: 2px solid #eee;
 	background-color: #fff;
 	margin-bottom: 0;
+	text-align: center;
 	-webkit-appearance: none;
 }
 
