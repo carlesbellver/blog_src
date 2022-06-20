@@ -3,6 +3,7 @@ url = "/2020/06/22/manton-reece-fixing.html"
 title = ""
 date = "2020-06-22T14:43:01+00:00"
 slug = "manton-reece-fixing"
+tags = ["retalls"]
 +++
 
 📎 Manton Reece: [Fixing the App Store for developers](https://www.manton.org/2020/06/22/fixing-the-app.html)

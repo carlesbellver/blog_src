@@ -9,4 +9,4 @@ Abans, quasi ningú s’interessava a llegir els meus llibres. Ara ni tan sols s
 
 No sé qui m’he pensat que sóc. Salinger?
 
-Per cert, la pàgina web d’[Unicorns](https://carlesbellver.net/contes/unicorns) no ho reflecteix, però les edicions en format de llibre electrònic (PDF, EPUB, Kindle) inclouen setze proses més, redactades just abans del confinament.
+Per cert, la pàgina web d’[*Unicorns*](https://carlesbellver.net/contes/unicorns) no ho reflecteix, però les edicions en format de llibre electrònic (PDF, EPUB, Kindle) inclouen setze proses més, redactades just abans del confinament.
