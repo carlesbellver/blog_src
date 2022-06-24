@@ -8,4 +8,4 @@ tags = ["retalls"]
 
 📎 [Scientists discover sea of fresh water under the ocean](https://qz.com/1650613/scientists-discover-sea-of-fresh-water-under-the-ocean/")
 
-Prop de la costa atlàntica dels EUA. De la mida dels aqüífers terrestrres més grans.
+Prop de la costa atlàntica dels EUA. De la mida dels aqüífers terrestres més grans.

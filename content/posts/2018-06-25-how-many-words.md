@@ -8,4 +8,4 @@ tags = ["retalls"]
 
 📎 [How many words do you need to speak a language?](https://www.bbc.com/news/world-44569277)
 
-Només necessitem aprendre cinquanta paraules d'un altre idioma perquè ens entenguin. Si les augmentàvem a vuit-centes, entendríem el 75 % de les converses diàries.
+Només necessitem aprendre cinquanta paraules d’un altre idioma perquè ens entenguin. Si les augmentàvem a vuit-centes, entendríem el 75 % de les converses diàries.

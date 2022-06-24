@@ -8,4 +8,4 @@ tags = ["retalls"]
 
 📎 [Sidewalk chalk drawing goes back 500 years](https://qz.com/quartzy/1650194/the-history-of-sidewalk-chalk-drawings/)
 
-Els captaires de la Itàlia del segle XVI dibuixaven marededéus fora de les catedrals per a guanyar-se unes monedes. Els pelegrins els anomenaven *madonnari*.
+Els captaires de la Itàlia del segle XVI dibuixaven marededéus a l'exterior de les catedrals per guanyar-se unes monedes. Els pelegrins els anomenaven *madonnari*.
