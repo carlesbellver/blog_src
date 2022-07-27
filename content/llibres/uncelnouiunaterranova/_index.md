@@ -4,7 +4,7 @@ description = "Un cel nou i una terra nova, seguit de set somnis d'escriptors i 
 publisher = "Unaria"
 publisher_link = "http://www.unariaediciones.com/u/catalogo/un-cel-nou-i-una-terra-nova/"
 date = 2015
-image = "cover_medium.jpg"
+image = "/llibres/uncelnouiunaterranova/cover_medium.jpg"
 template = "llibre"
 +++
 
