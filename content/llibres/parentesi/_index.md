@@ -4,7 +4,7 @@ description = "Parèntesi. Publicat originalment amb el títol L'home del calend
 note = "Publicat originalment amb el títol <i>L'home del calendari</i>."
 publisher = "Tria"
 date = 2011
-image = "cover_medium.jpg"
+image = "/llibres/parentesi/cover_medium.jpg"
 template = "llibre"
 +++
 

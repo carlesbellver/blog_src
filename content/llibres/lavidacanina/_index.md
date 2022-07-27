@@ -3,7 +3,7 @@ title = "La vida canina"
 description = "La vida canina. Premi de narrativa Vila d’Almassora 2004 (Brosquil, 2005)."
 publisher = "Brosquil"
 date = 2005
-image = "cover_medium.jpg"
+image = "/llibres/lavidacanina/cover_medium.jpg"
 template = "llibre"
 +++
 

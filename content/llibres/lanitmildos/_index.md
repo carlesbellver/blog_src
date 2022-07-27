@@ -3,7 +3,7 @@ title = "La nit mil dos"
 description = "La nit mil dos (Tria, 2013)."
 publisher = "Tria"
 date = 2013
-image = "cover_medium.jpg"
+image = "/llibres/lanitmildos/cover_medium.jpg"
 template = "llibre"
 +++
 
