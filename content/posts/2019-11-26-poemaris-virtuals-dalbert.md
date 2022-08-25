@@ -33,3 +33,4 @@ Inventari provisional, actualització permanent. Publicació continuada a [Faceb
 23. *Reincidències* (abril de 2022)
 24. *Espais ventats* (maig de 2022)
 25. *Absolut* (juliol de 2022)
+26. *Trossets* (agost de 2022)
