@@ -6,7 +6,7 @@ slug = "poemaris-virtuals-dalbert"
 image = "/uploads/2022/2022-05-08-poemaris-virtuals-agp.jpg"
 +++
 
-Inventari provisional, actualització permanent. Publicació continuada a [Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator).
+[Albert Garcia Pascual](https://www.elpontdeleslletres.cat/2011/03/02/albert-garcia-i-pascual/), anteriorment novel·lista i contista, ha publicat centenars o milers de poemes des de 2015 en els seus comptes de xarxes socials ([Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator)), agrupats mitjançant hashtags en una sèrie de *poemaris virtuals*.
 
 1. *Línies roges* (a partir de juliol de 2015)
 2. *Fora límits*
@@ -21,7 +21,7 @@ Inventari provisional, actualització permanent. Publicació continuada a [Faceb
 11. *Vermell fosc*
 12. *Prop de la lluna*
 13. *Traficant l’eternitat* (maig a novembre de 2019)
-14. *Breu Quadern de Blaves Solituds, Petites Desolacions i Rebel·lies Quotidianes* (novembre de 2019)
+14. [*Breu Quadern de Blaves Solituds, Petites Desolacions i Rebel·lies Quotidianes*](https://www.elpontdeleslletres.cat/2021/11/05/breu-quadern-albert-garcia-pascual/) (novembre de 2019)
 15. *Reexilis* (gener de 2020)
 16. *Trànsits* (agost de 2020)
 17. *Pluja d’hivern* (desembre de 2020)
