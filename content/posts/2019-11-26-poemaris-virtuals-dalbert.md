@@ -6,7 +6,7 @@ slug = "poemaris-virtuals-dalbert"
 image = "/uploads/2022/2022-05-08-poemaris-virtuals-agp.jpg"
 +++
 
-[Albert Garcia Pascual](https://www.elpontdeleslletres.cat/2011/03/02/albert-garcia-i-pascual/), anteriorment novel·lista i contista, ha publicat centenars o milers de poemes des de 2015 en els seus comptes de xarxes socials ([Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator)), agrupats mitjançant hashtags en una sèrie de *poemaris virtuals*.
+[Albert Garcia Pascual](https://www.elpontdeleslletres.cat/2011/03/02/albert-garcia-i-pascual/), anteriorment novel·lista i contista, ha publicat centenars o milers de poemes des de 2015 en els seus comptes de xarxes socials ([Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator)), agrupats en una sèrie de *poemaris virtuals* mitjançant els títols corresponents.
 
 1. *Línies roges* (a partir de juliol de 2015)
 2. *Fora límits*
