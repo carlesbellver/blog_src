@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://carlesbellver.net/2022/06/05/izquierda-ceniza/</loc>
-    <lastmod>2022-06-05T11:56:33+02:00</lastmod>
+    <loc>https://carlesbellver.net/tmp/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/</loc>
-    <lastmod>2022-06-05T11:56:33+02:00</lastmod>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tmp/3c3d6858fb20/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2022/09/01/gorbachov/</loc>
+    <lastmod>2022-09-01T19:07:53+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/posts/</loc>
-    <lastmod>2022-06-05T11:56:33+02:00</lastmod>
+    <lastmod>2022-09-01T19:07:53+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tags/retalls/</loc>
-    <lastmod>2022-06-05T11:56:33+02:00</lastmod>
+    <lastmod>2022-09-01T19:07:53+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tags/</loc>
+    <lastmod>2022-09-01T19:07:53+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2022/08/23/bombes/</loc>
+    <lastmod>2022-08-23T19:15:33+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/fotos/</loc>
+    <lastmod>2022-08-23T19:15:33+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/</loc>
+    <lastmod>2022-08-11T19:16:31+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2022/07/28/book-thief/</loc>
+    <lastmod>2022-07-28T20:55:41+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2022/07/27/alternative-physics/</loc>
+    <lastmod>2022-07-27T20:13:06+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2022/06/05/izquierda-ceniza/</loc>
     <lastmod>2022-06-05T11:56:33+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/05/22/fuster-ciscarista/</loc>
@@ -33,9 +57,6 @@
     <lastmod>2022-05-08T09:30:12+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tags/castell%C3%B3/</loc>
-    <lastmod>2022-05-08T09:30:12+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/fotos/</loc>
     <lastmod>2022-05-08T09:30:12+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/05/06/fusteries/</loc>
@@ -82,9 +103,6 @@
   </url><url>
     <loc>https://carlesbellver.net/2022/03/06/88436/</loc>
     <lastmod>2022-03-06T18:40:37+01:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tmp/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tmp/f8abb40a1063/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
@@ -3719,10 +3737,10 @@
     <loc>https://carlesbellver.net/contes/setsomnis/dunsanymorella/</loc>
     <lastmod>2015-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://carlesbellver.net/contes/setsomnis/extraterrestre/</loc>
+    <loc>https://carlesbellver.net/contes/setsomnis/lamidadekong/</loc>
     <lastmod>2015-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://carlesbellver.net/contes/setsomnis/lamidadekong/</loc>
+    <loc>https://carlesbellver.net/contes/setsomnis/extraterrestre/</loc>
     <lastmod>2015-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2015/11/11/000000.html</loc>
@@ -4668,8 +4686,6 @@
   </url><url>
     <loc>https://carlesbellver.net/cpe/1999/experiment/</loc>
   </url><url>
-    <loc>https://carlesbellver.net/cpe/1998/ordre/</loc>
-  </url><url>
     <loc>https://carlesbellver.net/cpe/2000/guinnes/</loc>
   </url><url>
     <loc>https://carlesbellver.net/cpe/1996/patafisica/</loc>
@@ -4687,6 +4703,8 @@
     <loc>https://carlesbellver.net/cpe/1998/formigo/</loc>
   </url><url>
     <loc>https://carlesbellver.net/cpe/1998/sadam/</loc>
+  </url><url>
+    <loc>https://carlesbellver.net/cpe/1998/ordre/</loc>
   </url><url>
     <loc>https://carlesbellver.net/cpe/1998/quimeres/</loc>
   </url><url>

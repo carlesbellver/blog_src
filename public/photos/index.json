@@ -1,10 +1,18 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "La vista cansada",
-  "icon": "/uploads/avatar.jpg",
+  "icon": "",
   "home_page_url": "https://carlesbellver.net",
   "feed_url": "https://carlesbellver.netphotos/index.json",
   "items": [
+      {
+        "id": "https://carlesbellver.net/2022/08/23/bombes/",
+        "title": "",
+        "date_published": "2022-08-23T19:15:33+02:00",
+        "url": "https://carlesbellver.net/2022/08/23/bombes/",
+          "image": "https://carlesbellver.net/uploads/2022/2022-08-23-bombes.jpg",
+        "content_text": "Refugi antiaeri, plaça Tetuan de Castelló. En la projecció audiovisual, foto de la plaça Emilio …"
+      },
       {
         "id": "https://carlesbellver.net/2022/05/08/42/",
         "title": "",
@@ -891,7 +899,7 @@
         "date_published": "2018-06-12T05:37:31+00:00",
         "url": "https://carlesbellver.net/2018/06/12/063731.html",
           "image": "https://carlesbellver.net/wp-content/uploads/2018/06/6f9cefe46b714d588889836fffdb99de.jpg",
-        "content_text": "Posverdad\n"
+        "content_text": "La veritat es lloga. Postveritat.\n"
       },
       {
         "id": "https://carlesbellver.net/2018/05/26/191143.html",
@@ -1307,7 +1315,7 @@
         "date_published": "2016-06-23T22:00:00+00:00",
         "url": "https://carlesbellver.net/2016/06/23/the-peanut-underground.html",
           "image": "https://carlesbellver.net/uploads/2019/ee82cfa0da.jpg",
-        "content_text": "By Bill Cawley \u0026amp; Stephen Altobello. Scan from Les Inrockuptibles #24, 1990.\n"
+        "content_text": "\nBy Bill Cawley \u0026amp; Stephen Altobello. Scan from Les Inrockuptibles #24, 1990.\n"
       },
       {
         "id": "https://carlesbellver.net/2016/05/11/management-folklore-fact/",

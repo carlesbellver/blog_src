@@ -19,7 +19,7 @@
       <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;https://carlesbellver.net/scripts/search.css&#34; /&gt;
 &lt;script src=&#34;https://carlesbellver.net/scripts/search.js&#34;&gt;&lt;/script&gt;
 &lt;form class=&#34;search&#34; onSubmit=&#34;return false;&#34;&gt;
-	&lt;input class=&#34;field&#34; type=&#34;text&#34; name=&#34;q&#34; id=&#34;input_search&#34; placeholder=&#34;Paraules clau&#34; onChange=&#34;runSearch(this.value.toLowerCase());&#34; /&gt;&lt;input class=&#34;submit&#34; type=&#34;submit&#34; value=&#34;cerca&#34; /&gt;
+	&lt;input class=&#34;field&#34; type=&#34;text&#34; name=&#34;q&#34; id=&#34;input_search&#34; placeholder=&#34;Paraules clau&#34; onChange=&#34;runSearch(this.value());&#34; /&gt;&lt;input class=&#34;submit&#34; type=&#34;submit&#34; value=&#34;cerca&#34; /&gt;
 &lt;/form&gt;
 &lt;div id=&#34;list_results&#34;&gt;
   &lt;p id=&#34;srch_notice&#34;&gt;S&#39;està carregant l&#39;índex…&lt;/p&gt;

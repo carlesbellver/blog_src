@@ -1,10 +1,45 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "La vista cansada",
-	"icon": "/uploads/avatar.jpg",
+	"icon": "",
 	"home_page_url": "https://carlesbellver.net",
 	"feed_url": "https://carlesbellver.netarchive/index.json",
 	"items": [
+			{
+				"title": "",
+				"date_published": "2022-09-01T19:07:53+02:00",
+				"url": "https://carlesbellver.net/2022/09/01/gorbachov/",
+				"tags": "retalls",
+				"content_text": "📎 Rafael Poch: Luces y sombras de Mijaíl Gorbachov (1931-2022)\n En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a …"
+			},
+			{
+				"title": "",
+				"date_published": "2022-08-23T19:15:33+02:00",
+				"url": "https://carlesbellver.net/2022/08/23/bombes/",
+				"tags": "fotos",
+				"content_text": "Refugi antiaeri, plaça Tetuan de Castelló. En la projecció audiovisual, foto de la plaça Emilio Castelar (ara Porta del Sol). La gent corre a amagar-se en sentir les alarmes.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2022-08-11T19:16:31+02:00",
+				"url": "https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/",
+				"tags": "retalls",
+				"content_text": "📎 Virtual Reality is as good as psychedelics at helping people reach transcendence\n En les quatre mètriques, Isness-D va provocar respostes indestriables de les associades amb les dosis mitjanes de psicodèlics. En l’escala d’experiència mística, els participants en Isness-D van informar d’una experiència tan intensa com la provocada per 20 mil·ligrams de psilocibina o 200 micrograms d’LSD, i més forta que la induïda per microdosis de qualsevol de les dues substàncies.\n "
+			},
+			{
+				"title": "",
+				"date_published": "2022-07-28T20:55:41+02:00",
+				"url": "https://carlesbellver.net/2022/07/28/book-thief/",
+				"tags": "retalls",
+				"content_text": "📎 Alleged book thief Filippo Bernardini may avoid trial in the US\nHi hagué un temps en què un misteriós lladre o hacker enganyava autors de renom perquè li enviaren els seus originals encara inèdits. Falsificava adreces de correu electrònic i es feia passar pel seu agent o per un empleat editorial a fi de guanyar-se la seua confiança. I quan aconseguia el botí no intentava traure’n profit: ni revenia els llibres, ni els filtrava, ni sotmetia els autors a cap mena de xantatge. No tornaven a saber res d’ell. Margaret Atwood o Ian McEwan van ser il·lustres víctimes seues, entre d’altres.\nImagine que la detenció de Filippo Bernardini el gener d’enguany va frustrar algunes expectatives. Degué arribar un punt en què no eres ningú en l’escena literària si no t’havien intentat furtar el darrer llibre. Jo mateix, sense cap motiu, em vaig sentir vagament decebut i vaig continuar publicant en obert com sempre. Diuen que el tal Bernardini treballava a Simon \u0026amp; Schuster negociant drets d’autor. …"
+			},
+			{
+				"title": "",
+				"date_published": "2022-07-27T20:13:06+02:00",
+				"url": "https://carlesbellver.net/2022/07/27/alternative-physics/",
+				"tags": "retalls",
+				"content_text": "📎 Roboticists discover alternative physics\nUn programa informàtic analitza les imatges que li proporciona una càmera i busca equacions —amb el mínim nombre de variables— que servisquen per calcular els moviments observats. Les equacions funcionen, però no s’assemblen a les nostres i no és fàcil esbrinar quines variables utilitzen.\n “Potser alguns fenòmens ens pareixen misteriosament complexos perquè intentem entendre’ls utilitzant les variables equivocades. En aquests experiments, el nombre de variables era el mateix cada vegada que reiniciàvem la intel·ligència artificial, però les variables eren diferents cada vegada. Així que sí, hi ha maneres alternatives de descriure l’univers i és molt possible que les nostres no siguen perfectes.”\n "
+			},
 			{
 				"title": "",
 				"date_published": "2022-06-05T11:56:33+02:00",
@@ -695,8 +730,8 @@
 				"title": "",
 				"date_published": "2021-06-28T21:50:09+02:00",
 				"url": "https://carlesbellver.net/2021/06/28/primo-levi/",
-				"tags": "retalls",
-				"content_text": " A hores d'ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (Primo Levi, 2002), persisteixen a creure que sí.\n 📎 Diego Gambetta, Primo Levi's Last Moments (postscriptum, 21 d'abril de 2005)\nEn aquest blog: Els darrers moments de Primo Levi (28 de juny de 2004).\n"
+				"tags": "retalls, citacions",
+				"content_text": " A hores d'ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (Primo Levi, 2002), persisteixen a creure que sí.\n 📎 Diego Gambetta, “Primo Levi’s Last Moments” (postscriptum, 21 d'abril de 2005)\nEn aquest blog: “Els darrers moments de Primo Levi” (28 de juny de 2004).\n"
 			},
 			{
 				"title": "",
@@ -1193,7 +1228,7 @@
 				"date_published": "2020-07-08T19:05:00+00:00",
 				"url": "https://carlesbellver.net/2020/07/08/de-qu-serveix.html",
 				"tags": "citacions",
-				"content_text": " De què serveix estudiar filosofia si tot el que aconsegueixes és poder parlar amb certa plausibilitat sobre algunes qüestions abstruses de lògica, etc., i no millora la teva manera de pensar sobre les qüestions importants de la vida quotidiana, si no et fa més conscient que cap… periodista pel que fa a l’ús de les frases perilloses que aquesta gent utilitza per als seus propis fins.\n —Ludwig Wittgenstein a Norman Malcolm\n"
+				"content_text": " De què serveix estudiar filosofia si tot el que aconsegueixes és poder parlar amb certa plausibilitat sobre algunes qüestions abstruses de lògica, etc., i no millora la teva manera de pensar sobre les qüestions importants de la vida quotidiana, si no et fa més conscient que cap… periodista pel que fa a l’ús de les frases perilloses que aquesta gent utilitza per als seus propis fins.\n —Ludwig Wittgenstein a Norman Malcolm.\n"
 			},
 			{
 				"title": "",
@@ -1213,7 +1248,7 @@
 				"title": "",
 				"date_published": "2020-06-22T14:43:01+00:00",
 				"url": "https://carlesbellver.net/2020/06/22/manton-reece-fixing.html",
-				"tags": "",
+				"tags": "retalls",
 				"content_text": "📎 Manton Reece: Fixing the App Store for developers\n Here are the 4 things Apple should do:\n Allow side-loading […] Don’t require in-app purchase […] Keep curating the App Store […] Lower the cut to 15% […]  Anything short of all this is a band-aid, not a permanent fix.\n "
 			},
 			{
@@ -1249,7 +1284,7 @@
 				"date_published": "2020-06-14T08:10:03+00:00",
 				"url": "https://carlesbellver.net/2020/06/14/des-de-la.html",
 				"tags": "",
-				"content_text": "\u0026lt;\u0026lt;\u0026lt;\u0026lt;\u0026lt;\u0026lt;\u0026lt; HEAD Des de la finestra de la cuina, les joves que circulaven anit a fosques amb vestits llargs de festa i la mascareta em pareixien espectres de l’anterior anormalitat. Des de la finestra de la cuina, les joves que circulaven anit a fosques amb mascareta i vestits llargs de festa em pareixien espectres de l’anterior anormalitat.\n       e77ae47 (update update 2021-06-14 08:58:12)\n       "
+				"content_text": "Des de la finestra de la cuina, les joves que circulaven anit a fosques amb vestits llargs de festa i la mascareta em pareixien espectres de l’anterior anormalitat.\n"
 			},
 			{
 				"title": "",
@@ -1802,7 +1837,7 @@
 				"date_published": "2019-11-26T19:20:00+00:00",
 				"url": "https://carlesbellver.net/2019/11/26/poemaris-virtuals-dalbert.html",
 				"tags": "",
-				"content_text": "Inventari provisional, actualització permanent. Publicació continuada a Facebook, Instagram, Twitter.\n Línies roges (a partir de juliol de 2015) Fora límits Fi de trajecte Vent de tardor Camí clos Camins Empremtes Dreceres Albes (març de 2017 a maig de 2018) Platges de boira Vermell fosc Prop de la lluna Traficant l’eternitat (maig a novembre de 2019) Breu Quadern de Blaves Solituds, Petites Desolacions i Rebel·lies Quotidianes (novembre de 2019) Reexilis (gener de 2020) Trànsits (agost de 2020) Pluja d’hivern (desembre de 2020) Clarors de Primavera (gener de 2021) Estius provisionals (abril de 2021) Camins dispersos (juny de 2021) Dispersions (octubre de 2021) Periples (febrer de 2022) Reincidències (abril de 2022) Espais ventats (maig de 2022)  "
+				"content_text": "Albert Garcia Pascual, anteriorment novel·lista i contista, ha publicat centenars o milers de poemes des de 2015 en els seus comptes de xarxes socials (Facebook, Instagram, Twitter), agrupats en una sèrie de poemaris virtuals mitjançant els títols corresponents.\n Línies roges (a partir de juliol de 2015) Fora límits Fi de trajecte Vent de tardor Camí clos Camins Empremtes Dreceres Albes (març de 2017 a maig de 2018) Platges de boira Vermell fosc Prop de la lluna Traficant l’eternitat (maig a novembre de 2019) Breu Quadern de Blaves Solituds, Petites Desolacions i Rebel·lies Quotidianes (novembre de 2019) Reexilis (gener de 2020) Trànsits (agost de 2020) Pluja d’hivern (desembre de 2020) Clarors de Primavera (gener de 2021) Estius provisionals (abril de 2021) Camins dispersos (juny de 2021) Dispersions (octubre de 2021) Periples (febrer de 2022) Reincidències (abril de 2022) Espais ventats (maig de 2022) Absolut (juliol de 2022) Trossets (agost de 2022) Recuits (agost de 2022)  "
 			},
 			{
 				"title": "",
@@ -2389,7 +2424,7 @@
 				"title": "",
 				"date_published": "2019-07-18T16:22:30+00:00",
 				"url": "https://carlesbellver.net/2019/07/18/juan-jos-mills.html",
-				"tags": "",
+				"tags": "ressenyes",
 				"content_text": "📖 Juan José Millás, La vida a ratos: més falsa novel·la que fals diari. Al llarg de cent noranta-quatre setmanes —o capítols—, Millás s'hi autoparodia. Com en les seves columnes, però a l’engròs.\n"
 			},
 			{
@@ -2523,14 +2558,14 @@
 				"date_published": "2019-06-24T11:31:00+00:00",
 				"url": "https://carlesbellver.net/2019/06/24/scientists-discovered-a.html",
 				"tags": "retalls",
-				"content_text": "📎 Scientists discover sea of fresh water under the ocean\nProp de la costa atlàntica dels EUA. De la mida dels aqüífers terrestrres més grans.\n"
+				"content_text": "📎 Scientists discover sea of fresh water under the ocean\nProp de la costa atlàntica dels EUA. De la mida dels aqüífers terrestres més grans.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2019-06-24T09:39:00+00:00",
 				"url": "https://carlesbellver.net/2019/06/24/sidewalk-chalk-drawing.html",
 				"tags": "retalls",
-				"content_text": "📎 Sidewalk chalk drawing goes back 500 years\nEls captaires de la Itàlia del segle XVI dibuixaven marededéus fora de les catedrals per a guanyar-se unes monedes. Els pelegrins els anomenaven madonnari.\n"
+				"content_text": "📎 Sidewalk chalk drawing goes back 500 years\nEls captaires de la Itàlia del segle XVI dibuixaven marededéus a l'exterior de les catedrals per guanyar-se unes monedes. Els pelegrins els anomenaven madonnari.\n"
 			},
 			{
 				"title": "",
@@ -5070,7 +5105,7 @@
 				"title": "",
 				"date_published": "2018-07-13T18:24:28+00:00",
 				"url": "https://carlesbellver.net/2018/07/13/192428.html",
-				"tags": "fotos",
+				"tags": "fotos, Castelló",
 				"content_text": "Refugi antiaeri de plaça Tetuan de Castelló. La baixada és esborronadora.\n"
 			},
 			{
@@ -5120,7 +5155,7 @@
 				"date_published": "2018-07-06T14:56:49+00:00",
 				"url": "https://carlesbellver.net/2018/07/06/155649.html",
 				"tags": "",
-				"content_text": "Avui s'ha inaugurat el refugi antiaeri de la plaça Tetuan de Castelló. Però jo m'hi vaig anticipar. Fa uns mesos, vaig escriure un conte en què aquest espai era una peça clau de la trama: Una història subterrània.\n"
+				"content_text": "✍ Avui s'ha inaugurat el refugi antiaeri de la plaça Tetuan de Castelló. Però jo m'hi vaig anticipar. Fa uns mesos, vaig escriure un conte en què aquest espai era una peça clau de la trama: “Una història subterrània”.\n"
 			},
 			{
 				"title": "",
@@ -5182,7 +5217,7 @@
 				"title": "",
 				"date_published": "2018-06-28T20:56:00+00:00",
 				"url": "https://carlesbellver.net/2018/06/28/215645.html",
-				"tags": "",
+				"tags": "citacions",
 				"content_text": "Deixe ací anotada la bio que tenia al Twitter, perquè m'agradava, tot i que no em pareixia adequada com a bio de Twitter.\n Future is already here (RF), unevenly distributed (WG) and short-lived (CB). Subject matters: technology, creativity and everything else in heaven and earth, H.\n RF = Radio Futura\nWG = William Gibson\nCB = Myself\nH = Horatius\n"
 			},
 			{
@@ -5190,7 +5225,7 @@
 				"date_published": "2018-06-27T19:13:16+00:00",
 				"url": "https://carlesbellver.net/2018/06/27/201316.html",
 				"tags": "ressenyes",
-				"content_text": "📖 Walter de la Mare, Memoirs of a Midget. Una novel·la extraordinària que hauria d'haver llegit fa molts anys. I Miyazaki podria haver-ne fet una pel·lícula. Epíleg interessantíssim d'Angela Carter. M.: Midgetina, Metaphor, Myself.\n"
+				"content_text": "📖 Walter de la Mare, Memoirs of a Midget. Una novel·la extraordinària que hauria d’haver llegit fa molts anys. I Miyazaki podria haver-ne fet una pel·lícula. Epíleg interessantíssim d’Angela Carter. M.: Midgetina, Metaphor, Myself.\n"
 			},
 			{
 				"title": "",
@@ -5204,7 +5239,7 @@
 				"date_published": "2018-06-27T12:59:00+00:00",
 				"url": "https://carlesbellver.net/2018/06/27/breaking-linear-classifiers.html",
 				"tags": "retalls",
-				"content_text": "📎 Breaking Linear Classifiers on ImageNet\n Podem agafar qualsevol imatge arbitrària (p. ex. \u0026quot;panda\u0026quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. \u0026quot;estruç\u0026quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s'estén a molts altres dominis (p. ex. sistemes de reconeixement de veu). ) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa lineal que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.\n "
+				"content_text": "📎 Breaking Linear Classifiers on ImageNet\n Podem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s'estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa lineal que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.\n "
 			},
 			{
 				"title": "",
@@ -5218,7 +5253,7 @@
 				"date_published": "2018-06-25T12:18:00+00:00",
 				"url": "https://carlesbellver.net/2018/06/25/how-many-words.html",
 				"tags": "retalls",
-				"content_text": "📎 How many words do you need to speak a language?\nNomés necessitem aprendre cinquanta paraules d'un altre idioma perquè ens entenguin. Si les augmentàvem a vuit-centes, entendríem el 75 % de les converses diàries.\n"
+				"content_text": "📎 How many words do you need to speak a language?\nNomés necessitem aprendre cinquanta paraules d’un altre idioma perquè ens entenguin. Si les augmentàvem a vuit-centes, entendríem el 75 % de les converses diàries.\n"
 			},
 			{
 				"title": "",
@@ -5245,7 +5280,7 @@
 				"title": "",
 				"date_published": "2018-06-21T14:32:00+00:00",
 				"url": "https://carlesbellver.net/2018/06/21/hay-que-sustituir.html",
-				"tags": "retalls",
+				"tags": "retalls, educació",
 				"content_text": "📎 Hay que sustituir el aula convencional por la “hiperaula”: más grande, más flexible, más abierta, más tecnológica, más acogedora\nEntrevista a Mariano Fernández Enguita en la revista d'ensenyament de CCOO.\n"
 			},
 			{
@@ -5281,14 +5316,14 @@
 				"date_published": "2018-06-12T15:49:00+00:00",
 				"url": "https://carlesbellver.net/2018/06/12/164900.html",
 				"tags": "ressenyes",
-				"content_text": "📖 Kurt Vonnegut, Escorxador-5. El soldat Billy Pilgrim es va desenganxar del temps quan el van capturar els alemanys. Una mica abans que l’enviessin a Dresden. Els platets voladors van venir després. Però abans i després ja no significaven gran cosa.\n"
+				"content_text": "📖 Kurt Vonnegut, Escorxador-5. El soldat Billy Pilgrim es va desenganxar del temps quan el van capturar els alemanys, una mica abans que l’enviessin a Dresden. Els platets voladors van venir després, però abans i després ja no significaven gran cosa.\n"
 			},
 			{
 				"title": "",
 				"date_published": "2018-06-12T05:37:31+00:00",
 				"url": "https://carlesbellver.net/2018/06/12/063731.html",
-				"tags": "fotos",
-				"content_text": "Posverdad\n"
+				"tags": "fotos, Castelló",
+				"content_text": "La veritat es lloga. Postveritat.\n"
 			},
 			{
 				"title": "",
@@ -5308,7 +5343,7 @@
 				"title": "",
 				"date_published": "2018-06-06T21:15:40+00:00",
 				"url": "https://carlesbellver.net/2018/06/06/221540.html",
-				"tags": "",
+				"tags": "ressenyes",
 				"content_text": "📖 George Orwell, La rebel·lió dels animals: el pròleg de 1984. Retrat mordaç —i veraç— de l’estalinisme i de la reversió del somni revolucionari de 1917.\n"
 			},
 			{
@@ -6470,7 +6505,7 @@
 				"title": "",
 				"date_published": "2018-02-13T17:25:23+00:00",
 				"url": "https://carlesbellver.net/2018/02/13/182523.html",
-				"tags": "ressenyes",
+				"tags": "ressenyes, citacions",
 				"content_text": "📖 Llegit: Jorge Wagensberg, Si la natura és la resposta, ¿quina era la pregunta?\n Malfio de la idea que no té cabuda en una frase […] Quan una idea no hi cap, en una frase, és que li falta essència i (o) li sobra matís.\n "
 			},
 			{
@@ -8353,8 +8388,8 @@
 				"title": "The Peanut Underground",
 				"date_published": "2016-06-23T22:00:00+00:00",
 				"url": "https://carlesbellver.net/2016/06/23/the-peanut-underground.html",
-				"tags": "fotos",
-				"content_text": "By Bill Cawley \u0026amp; Stephen Altobello. Scan from Les Inrockuptibles #24, 1990.\n"
+				"tags": "fotos, retalls",
+				"content_text": "\nBy Bill Cawley \u0026amp; Stephen Altobello. Scan from Les Inrockuptibles #24, 1990.\n"
 			},
 			{
 				"title": "",
@@ -8518,18 +8553,18 @@
 				"content_text": "En el volum quart de les seues memòries, per sempre inèdit, Edward John Moreton Drax Plunkett, divuitè baró Dunsany, anota l’adquisició del llibre A Traveller’s Rambling Reminescences of the Spanish War, escrit pel reverend Thomas Farr durant la primera guerra carlina. Unes setmanes més tard aconseguirà també el Handbook for Travellers in Spain de Richard Ford i Among the Carlists de John Furley. Li han causat una viva impressió la figura heroica del general Cabrera i les descripcions de Morella, la ciutat aèria, el seu baluard quasi inexpugnable. Si tanca els ulls és com si hi haguera estat, com si coneguera d’antuvi l’alta muralla que la circumda, les sis portes i les catorze torres, el castell al capdamunt del cim, els carrerons i les escalinates, les esglésies, el carrer principal porticat. Per ventura no degué situar-hi mentalment, en aquesta cruïlla d’antics regnes medievals, algun dels seus contes de guerrers i d’interminables recerques i després se’n va oblidar? Dunsany sospesa …"
 			},
 			{
-				"title": "L’extraterrestre",
-				"date_published": "2015-11-18T00:00:00+00:00",
-				"url": "https://carlesbellver.net/contes/setsomnis/extraterrestre/",
-				"tags": "",
-				"content_text": "Just abans d’aterrar, ja a baixa altura, sobrevolàrem bocabadats els canals de Schiaparelli. No ens acostumàvem als prodigis. En l’aeroport Ray Douglas, després de passar els controls i la duana, ens esperaven un homenot barbut amb turbant i una dona jove, en comparació menuda, no tan bruna com ell, que exhibien sengles pissarretes amb l’escut de la Generalitat i els nostres noms de pila gargotejats a baix: Josep, Vicent, Manel, etc. Ella va ser l’encarregada de donar-nos la benvinguda, amb un accent lleugerament exòtic, i ens va informar que ens faria de guia i d’intèrpret durant la nostra estada. “Mentre aprenen l’idioma”, va puntualitzar. Es deia Amália i era d’ascendència portuguesa, la qual cosa, ens va aclarir, explicava les seues vocals neutres, les e que es tancaven en i i una entonació que a mi em pareixia elegant i melangiosa, com de cantant de fados. El seu company, Baljinder, era el xofer panjabi —sikh— del minibús que ens traslladaria fins als nostres allotjaments. Amb ell …"
-			},
-			{
 				"title": "La mida de Kong",
 				"date_published": "2015-11-18T00:00:00+00:00",
 				"url": "https://carlesbellver.net/contes/setsomnis/lamidadekong/",
 				"tags": "",
 				"content_text": "Els que el van veure fent-se malbé pels casinos de Las Vegas, o arrossegant la seua humanitat vella i cansada sota els llums de neó al llarg del Boulevard South, una nit qualsevol a darrera hora, saben que Kong, la vuitena meravella del món, no era tan gran com el representa la imatgeria popular derivada de Hollywood. En Samuel C. Wright de la Unió de Funeràries de Nevada li va prendre les mides per encarregar la caixa i pot ser per tant més precís que ningú sobre aquest punt: quinze peus i dues polzades o, traduït, 4,62 metres d’alçada.\nL’engany era perceptible en algunes seqüències de la primera versió cinematogràfica de 1933: la mà de la bèstia ara s’engegantia per engrapar un vagó del metro, ara esdevenia tendrament petita per sostenir la dona rossa espaordida. Però això, en tot cas, va passar molt de temps enrere: en l’època dels vaixells, els gratacels de Nova York, els teatres, l’estupor del públic, els festivals, les carretades de fruita i els poals de rom, la fama i …"
+			},
+			{
+				"title": "L’extraterrestre",
+				"date_published": "2015-11-18T00:00:00+00:00",
+				"url": "https://carlesbellver.net/contes/setsomnis/extraterrestre/",
+				"tags": "",
+				"content_text": "Just abans d’aterrar, ja a baixa altura, sobrevolàrem bocabadats els canals de Schiaparelli. No ens acostumàvem als prodigis. En l’aeroport Ray Douglas, després de passar els controls i la duana, ens esperaven un homenot barbut amb turbant i una dona jove, en comparació menuda, no tan bruna com ell, que exhibien sengles pissarretes amb l’escut de la Generalitat i els nostres noms de pila gargotejats a baix: Josep, Vicent, Manel, etc. Ella va ser l’encarregada de donar-nos la benvinguda, amb un accent lleugerament exòtic, i ens va informar que ens faria de guia i d’intèrpret durant la nostra estada. “Mentre aprenen l’idioma”, va puntualitzar. Es deia Amália i era d’ascendència portuguesa, la qual cosa, ens va aclarir, explicava les seues vocals neutres, les e que es tancaven en i i una entonació que a mi em pareixia elegant i melangiosa, com de cantant de fados. El seu company, Baljinder, era el xofer panjabi —sikh— del minibús que ens traslladaria fins als nostres allotjaments. Amb ell …"
 			},
 			{
 				"title": "",
@@ -9201,7 +9236,7 @@
 				"date_published": "2013-06-12T22:00:00+00:00",
 				"url": "https://carlesbellver.net/2013/06/12/pourquoi-il-y.html",
 				"tags": "citacions",
-				"content_text": " […] la première question qu’on a droit de faire sera: pourquoi il y a plutôt quelque chose que rien? Car le rien est plus simple et plus facile que quelque chose.\n Leibniz, Principes de la nature et de la grâce fondés en raison (1714).\n(La formulació original de la pregunta filosòfica fonamental.)\n"
+				"content_text": " […] la première question qu’on a droit de faire sera: pourquoi il y a plutôt quelque chose que rien? Car le rien est plus simple et plus facile que quelque chose.\n —Leibniz, Principes de la nature et de la grâce fondés en raison (1714).\nLa formulació original de la pregunta filosòfica fonamental.\n"
 			},
 			{
 				"title": "Keep surrealism in your little heart",

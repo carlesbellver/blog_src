@@ -16,7 +16,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1654693099" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1662278932" />
 <style>
 
     [data-theme="dark"] {   
@@ -53,9 +53,9 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1654693099" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1662278932" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1654693099" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1662278932" />
 
 
 
@@ -70,18 +70,17 @@
 <link href="https://github.com/carlesbellver" rel="me">
 
 <meta name="og:title" content="📎 Breaking Linear Classifiers on ImageNet
- Podem agafar qualsevol imatge arbitrària (p. ex. &quot;panda&quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. &quot;estruç&quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu)."/>
+ Podem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals."/>
 <meta property="og:description" content="📎 Breaking Linear Classifiers on ImageNet
- Podem agafar qualsevol imatge arbitrària (p. ex. &quot;panda&quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. &quot;estruç&quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu)." />
+ Podem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://carlesbellver.net/2018/06/27/breaking-linear-classifiers.html" />
-<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/><meta property="article:published_time" content="2018-06-27T12:59:00+00:00" />
+<meta property="og:url" content="https://carlesbellver.net/2018/06/27/breaking-linear-classifiers.html" /><meta property="article:published_time" content="2018-06-27T12:59:00+00:00" />
 <meta property="article:modified_time" content="2018-06-27T12:59:00+00:00" />
 
 <meta name="twitter:title" content="📎 Breaking Linear Classifiers on ImageNet
- Podem agafar qualsevol imatge arbitrària (p. ex. &quot;panda&quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. &quot;estruç&quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu)."/>
+ Podem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals."/>
 <meta name="twitter:description" content="📎 Breaking Linear Classifiers on ImageNet
- Podem agafar qualsevol imatge arbitrària (p. ex. &quot;panda&quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. &quot;estruç&quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu)."/>
+ Podem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals."/>
 <meta name="twitter:site" content="@carlesbellver"/>
 
 
@@ -101,7 +100,7 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://carlesbellver.net/about"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  
   <div id="quickctrl">
     <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
@@ -236,7 +235,7 @@
           
           <p>📎 <a href="http://karpathy.github.io/2015/03/30/breaking-convnets/">Breaking Linear Classifiers on ImageNet</a></p>
 <blockquote>
-<p>Podem agafar qualsevol imatge arbitrària (p. ex. &quot;panda&quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. &quot;estruç&quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s'estén a molts altres dominis (p. ex. sistemes de reconeixement de veu). ) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa <em>lineal</em> que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.</p>
+<p>Podem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s'estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa <em>lineal</em> que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.</p>
 </blockquote>
 
 

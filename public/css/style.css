@@ -90,6 +90,11 @@ h3 {
   border-bottom: 1px solid #333;
 }
 
+blockquote h2, blockquote h3 {
+  margin-bottom: 0.5em;
+  border: none;
+}
+
 /* Links */
 
 a {
@@ -773,6 +778,66 @@ a.theme-switcher:hover {
   color: var(--switcher-color);
   text-decoration: none;
 }
+
+/* search */
+
+#search {
+	display: none;
+}
+
+form.search {
+  margin: 1em 0;
+  text-align: left;
+}
+
+form input {
+}
+
+input.field {
+	width: 240px;
+	height: 24px;
+	font-size: 13px;
+	font-weight: 400;
+	border: 2px solid #eee;
+	padding-left: 12px;
+	margin-top: 0;
+	background-color: #fff;
+	margin-bottom: 0;
+	-webkit-appearance: none;
+}
+
+@media screen and (max-width: 480px) {
+  input.field {
+    display: block;
+  }
+}
+
+input.submit {
+	height: 24px;
+	width: 60px;
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 10px;
+	border: 2px solid #eee;
+	background-color: #fff;
+	margin-bottom: 0;
+	text-align: center;
+	-webkit-appearance: none;
+}
+
+input.reset {
+	height: 24px;
+	width: 60px;
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 10px;
+	border: 2px solid #eee;
+	background-color: #fff;
+	margin-bottom: 0;
+	text-align: center;
+	-webkit-appearance: none;
+}
+
 
 /* Media Queries */
 
