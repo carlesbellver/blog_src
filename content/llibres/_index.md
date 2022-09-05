@@ -15,7 +15,7 @@ image = "llibres.jpg"
 
 Les edicions electròniques enllaçades en aquesta pàgina han estat preparades per mi, basant-me en els meus textos originals. He intentat incorporar-hi, sempre que ha estat possible, les correccions lingüístiques introduïdes per les editorials —procés en el qual dec haver-hi afegit noves errades. El resultat final només pot ser, per tant, responsabilitat meva.
 
-Podeu baixar els llibres i utilitzar-los lliurement d’acord amb els termes de la llicència [Reconeixement-NoComercial](http://creativecommons.org/licenses/by-nc/4.0/). És a dir, només els usos que impliquen una transacció econòmica requereixen la meva autorització prèvia, però heu de reconèixer **sempre** la meva autoria.
+Podeu baixar els llibres i utilitzar-los lliurement d’acord amb els termes de la llicència de Creative Commons [Reconeixement-NoComercial](http://creativecommons.org/licenses/by-nc/4.0/). És a dir, només els usos que impliquen una transacció econòmica requereixen la meva autorització prèvia, però heu de reconèixer **sempre** la meva autoria.
 
 També podeu trobar els fitxers dels llibres en diversos formats, incloent-ne el codi font, en el repositori següent de GitHub:
 
