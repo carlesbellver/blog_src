@@ -5,6 +5,7 @@ description = "Experiments i divagacions entre la tecnologia i la literatura."
 
 Experiments i divagacions. Entre la tecnologia i la literatura:
 
+  - [Inspiració](https://42.carlesbellver.net) (2022)
   - [Sant Jordi digital](/2022/04/22/sant-jordi/) (2022)
   - [(no)nft](https://notnft.carlesbellver.net/) (2022)
   - [unicorns.png](/2021/11/04/n-est-pas-un-livre/) (un llibre dins d'una imatge en format PNG) (2021)
