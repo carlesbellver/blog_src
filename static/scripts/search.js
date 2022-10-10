@@ -8,8 +8,6 @@ function downloadArchive() {
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       archive_items = JSON.parse(this.responseText);
-      alert("shit!");
-      console.log(archive_items.length);
       var notice = document.getElementById("srch_notice");
       notice.innerHTML = "";
       displayResults(archive_items);
