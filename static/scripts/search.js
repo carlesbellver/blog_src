@@ -1,16 +1,18 @@
 var MIN_WL = 3;
 
-var archive_results = {};
+var archive_items = {};
 downloadArchive();
 
 function downloadArchive() {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      archive_results = JSON.parse(this.responseText);
+      archive_items = JSON.parse(this.responseText);
+      alert("shit!");
+      console.log(archive_items.length);
       var notice = document.getElementById("srch_notice");
       notice.innerHTML = "";
-      displayResults(archive_results.items);
+      displayResults(archive_items);
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);
@@ -20,7 +22,7 @@ function downloadArchive() {
 function resetSearch() {
   var pattern_node = document.getElementById("search_pattern");
   pattern_node.innerHTML = "La vista cansada";
-  displayResults(archive_results.items);
+  displayResults(archive_items);
 }
 
 function runSearch(q) {
@@ -53,9 +55,9 @@ function runSearch(q) {
       console.log(q);
       var pattern_node = document.getElementById("search_pattern");
       pattern_node.innerHTML = qq;
-      for (var i = 0; i < archive_results.items.length; i++) {
+      for (var i = 0; i < archive_items.length; i++) {
         var score = 0;
-        var item = archive_results.items[i];
+        var item = archive_items[i];
         var title_lower = chrCleanup(item.title).toLowerCase();
         var tags_lower = chrCleanup(item.tags).toLowerCase();
         var text_lower = chrCleanup(item.content_text).toLowerCase();

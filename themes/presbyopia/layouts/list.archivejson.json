@@ -1,10 +1,4 @@
-{
-	"version": "https://jsonfeed.org/version/1",
-	"title": {{ .Site.Title | jsonify }},
-	"icon": "{{ .Site.Params.avatar }}",
-	"home_page_url": "{{ .Site.BaseURL }}",
-	"feed_url": "{{ .Site.BaseURL }}archive/index.json",
-	"items": [
+[
 		{{- $list := (where site.AllPages "Type" "in" site.Params.indexSections) -}}
 		{{- $len := (len $list) -}}
 		{{ range $index, $value := $list }}
@@ -20,4 +14,3 @@
 			{{ end -}}
 		{{ end }}
 	]
-}
