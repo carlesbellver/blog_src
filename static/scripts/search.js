@@ -29,9 +29,10 @@ function runSearch(q) {
     var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var count = 0;
-    if (q.length >= MIN_WL && q.length < 100) {
+    if (qq.length >= MIN_WL && qq.length < 100) {
       var results = [];
-      var q = chrCleanup(q);
+      var q = chrCleanup(qq);
+      // var q = qq.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript
       var literal = 0;
       var regExp = /^ *["“”](.+)["“”] *$/g;
       if (match = regExp.exec(q)){
