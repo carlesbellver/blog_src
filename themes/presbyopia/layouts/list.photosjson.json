@@ -14,7 +14,7 @@
         "date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
         "url": "{{ .Permalink }}",
           {{ range first 1 .Params.photos }}"image": "{{ . | absURL }}"{{ end }},
-        "content_text": {{ .Plain | truncate 100 | htmlUnescape | jsonify }}
+        "content_text": {{ .Plain | truncate 120 | htmlUnescape | jsonify }}
       }
       {{- if ne (add $index 1) $len -}},{{- end -}}
     {{ end }}
