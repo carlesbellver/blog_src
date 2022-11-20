@@ -3,8 +3,10 @@
     --bg-color: #fff; /* #f0f0f0; */
     --content-bg-color: #fff;
 
+    --foot-color: grey;
+
     --menu-color: #333;
-    --menu-bg-color: #f0f0f0;
+    --menu-bg-color: #fff;
 
     --link-color:#990000;
     --link-state-color:#990000;

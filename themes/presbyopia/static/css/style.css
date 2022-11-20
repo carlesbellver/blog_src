@@ -1,4 +1,4 @@
-/* Basic */
+  /* Basic */
 
 :root {
     --font: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
@@ -19,7 +19,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 18px;
+    font-size: 19px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     color: var(--font-color);
@@ -49,6 +49,8 @@ summary {
   right: 0;
   margin: 0;
   background-color: var(--menu-bg-color);
+  border-top: 2px solid #333;
+  border-bottom: 1px solid #ccc;
   color: var(--menu-color);
   font-family: var(--font-header);
   z-index: 10;
@@ -56,7 +58,7 @@ summary {
 
 .container {
   max-width: 600px;
-  margin: 100px auto;
+  margin: 75px auto;
   padding: 0 10px;
   z-index: 0;
 }
@@ -86,7 +88,7 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 19px;
   border-bottom: 1px solid #333;
 }
 
@@ -378,7 +380,7 @@ h1.blog-title {
 }
 
 h1.post-title {
-  margin: 0 0 1em 0;
+  margin: 0 0 0 0;
   font-family: var(--font-heading);
 }
 
@@ -681,7 +683,7 @@ article iframe {
 
 .pagination {
     display: flex;
-    margin-top: 3em;
+    margin-top: 1em;
     text-align: center;   
     font-family: var(--font-details);
     font-size: 14px;
@@ -723,11 +725,11 @@ article iframe {
 
 .common-footer {
     /* border-top: thin solid var(--hr-color); */
-    margin-top: 3em;
-    padding-top: 1.5em;
+    margin-top: 0;
+    padding-top: 0;
     font-family: var(--font-details);
     font-size: 14px;
-    color: var(--font-color);
+    color: var(--foot-color);
 }
 
 .common-footer-bottom {
@@ -748,7 +750,7 @@ ul.language-select > li, ul.footer-menu > li {
 }
 
 footer .copyright a {
-    color: var(--font-color);
+    color: var(--foot-color);
 }
 
 footer .copyright a:hover,
