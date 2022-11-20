@@ -19,7 +19,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 19px;
+    font-size: 18px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     color: var(--font-color);
@@ -88,7 +88,7 @@ h2 {
 }
 
 h3 {
-  font-size: 19px;
+  font-size: 18px;
   border-bottom: 1px solid #333;
 }
 
