@@ -12,7 +12,6 @@ Carles Bellver Torlà (Castelló de la Plana, 1967).
 
 <a rel="me" href="mailto:carles@carlesbellver.net">Correu</a> |
 <a rel="me" href="https://telegram.me/carlesbellver">Telegram</a> |
-<a rel="me" href="https://twitter.com/carlesbellver">Twitter</a> |
 <a rel="me" href="https://mastodon.social/@carlesbellver">Mastodon</a>
 
 ## Drets d'autor
