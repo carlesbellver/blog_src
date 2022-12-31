@@ -5,9 +5,10 @@
   "home_page_url": "{{ .Site.BaseURL }}",
   "feed_url": "{{ .Site.BaseURL }}photos/index.json",
   "items": [
-    {{- $list := (where site.RegularPages ".Params.photos" "!=" nil) -}}
+    {{- $list := (where site.Pages ".Params.photos" "ne" nil) -}}
     {{- $len := (len $list) -}}
     {{ range $index, $value := $list }}
+    {{- if .Params.photos -}}
       {
         "id": "{{ .Permalink }}",
         "title": {{ .Title | jsonify }},
@@ -16,7 +17,8 @@
           {{ range first 1 .Params.photos }}"image": "{{ . | absURL }}"{{ end }},
         "content_text": {{ .Plain | truncate 120 | htmlUnescape | jsonify }}
       }
-      {{- if ne (add $index 1) $len -}},{{- end -}}
+    {{ if ne (add $index 1) $len -}},{{- end }}
+    {{ end -}}
     {{ end }}
   ]
 }
