@@ -54,3 +54,11 @@
   cursor: pointer;
   opacity: 0.75;
 }
+
+@media (max-width: 600px) {
+  /* CSS that should be displayed if width is equal to or less than 600px goes here */
+  #microgram .photo-link {
+    width: 98%;
+    margin: 1%;
+  }
+}
