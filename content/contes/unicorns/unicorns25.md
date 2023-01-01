@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns25"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f4e6.svg">
+<img class="emoji" alt="emoji: package" src="/contes/unicorns/twemoji/1f4e6.svg">
 
 M’explicava el concepte tibetà de *tulpa*: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.
 

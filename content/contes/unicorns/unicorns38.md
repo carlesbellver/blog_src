@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns38"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f52d.svg">
+<img class="emoji" alt="emoji: telescope" src="/contes/unicorns/twemoji/1f52d.svg">
 
 —Els mapes de Schiaparelli van ser una temptativa notable, però la millor cartografia de Mart continua sent aquesta. I les imatges de la sonda Viking no han fet més que confirmar-ho.
 

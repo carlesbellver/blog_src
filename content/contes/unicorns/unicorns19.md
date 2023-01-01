@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns19"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f693.svg">
+<img class="emoji" alt="emoji: police car" src="/contes/unicorns/twemoji/1f693.svg">
 
 L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada nord-americana. El tiratge, escàs, es va difondre als cercles habituals, fins que algú es va esquinçar les vestidures. Es van aixecar sospites sobre l’autenticitat d’algunes escenes i sobre la identitat dels subjectes implicats. Jenkin va tocar el dos, mentre que el seu traductor francès, aclaparat per l’oprobi, es va suïcidar.
 

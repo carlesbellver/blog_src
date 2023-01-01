@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns05"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f577.svg">
+<img class="emoji" alt="emoji: spider" src="/contes/unicorns/twemoji/1f577.svg">
 
 —El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston vaig veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York ha detingut un pintor bohemi, al Village, per espantar els veïns amb el seu cocodril.
 

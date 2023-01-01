@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns60"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f4d5.svg">
+<img class="emoji" alt="emoji: closed book" src="/contes/unicorns/twemoji/1f4d5.svg">
 
 —No seria, doncs, pròpiament un idioma?
 

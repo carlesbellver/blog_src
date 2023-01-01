@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns21"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f4d4.svg">
+<img class="emoji" alt="emoji: notebook with decorative cover" src="/contes/unicorns/twemoji/1f4d4.svg">
 
 —T’ensenyaré un llenguatge secret.
 

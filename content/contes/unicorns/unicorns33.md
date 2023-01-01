@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns33"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f520.svg">
+<img class="emoji" alt="emoji: input latin uppercase" src="/contes/unicorns/twemoji/1f520.svg">
 
 *Years and years* eren els mots finals que m’havien quedat gravats quan em vaig tornar a despertar.
 Anys i anys, em repetia mentre em desensonyava, sense saber ja si feia referència al seu llarg sojorn al món o al temps que havia dedicat a encalçar-me.

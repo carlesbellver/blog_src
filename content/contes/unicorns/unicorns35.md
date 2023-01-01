@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns35"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f3d7.svg">
+<img class="emoji" alt="emoji: building construction" src="/contes/unicorns/twemoji/1f3d7.svg">
 
 Eufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa. Deien que sabia fabricar or. O que havia trobat monedes antigues dins d’una olla. Un misteri tan gran, doncs, com la desaparició del Quim, el seu proxeneta. Però estaven acostumades que els passessin coses inexplicables.
 

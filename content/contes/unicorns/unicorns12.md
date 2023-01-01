@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns12"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f5c4.svg">
+<img class="emoji" alt="emoji: file cabinet" src="/contes/unicorns/twemoji/1f5c4.svg">
 
 Quan tenia tretze anys, em vaig passar l’estiu reclòs a la biblioteca municipal. Les primeres setmanes, les enciclopèdies van calmar —sense assaciar-la— la meva curiositat intel·lectual. I després, quin buit a l’ànima —o entre l’estómac i el pit, on la posaven els grecs— quan vaig haver enllestit cada tom, per ordre, de la A a la Z. Va ser amb disgust i amb mandra —a falta de res millor— que vaig emprendre el prestatge de les novel·les. Per a sorpresa meva, abans d’arribar a Camus ja començava a albirar, com una revelació, que tenia davant dels ulls l’anhelat manual d’instruccions, la clau amb què desxifrar el què, el perquè i la resta d’interrogants sobre la gent que m’envoltava: tots els misteris que fins aleshores m’havien estat vedats.
 

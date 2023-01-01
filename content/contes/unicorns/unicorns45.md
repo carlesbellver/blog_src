@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns45"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f942.svg">
+<img class="emoji" alt="emoji: clinking glasses" src="/contes/unicorns/twemoji/1f942.svg">
 
 —Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans. Així que tot el que en pugui dir s’hauria de posar entre parèntesis.
 

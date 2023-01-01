@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns53"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f39b.svg">
+<img class="emoji" alt="emoji: control knobs" src="/contes/unicorns/twemoji/1f39b.svg">
 
 Havia comprat aquella andròmina a algú que assegurava haver treballat com a secretari de Von Braun i que l’oferia, entre d’altres *souvenirs* o *memorabilia*, per un preu elevadíssim. Ningú sabia del cert com funcionava. Se suposava que era un instrument que procedia de l’Alemanya nazi, d’aquell període en què va florir una ciència estranya, amb aplicacions insòlites i cruels.
 

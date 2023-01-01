@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns32"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/26a1.svg">
+<img class="emoji" alt="emoji: high voltage" src="/contes/unicorns/twemoji/26a1.svg">
 
 Una vesprada d’estiu, un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar. Digueu?
 

@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns46"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f4da.svg">
+<img class="emoji" alt="emoji: books" src="/contes/unicorns/twemoji/1f4da.svg">
 
 —El llibre era, no en tingueu cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.
 

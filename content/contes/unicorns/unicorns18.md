@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns18"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f47b.svg">
+<img class="emoji" alt="emoji: ghost" src="/contes/unicorns/twemoji/1f47b.svg">
 
 La figura de Lovecraft —escriptor de Providence que va donar tractament de ficció a la Miskatonic University i a les més agosarades de les seves proeses científiques— ha projectat per molts anys l’ombra del dubte sobre aquest campus menor de l’Ivy League. Per al gran públic, Arkham i el seu *college* serien tan quimèrics com Yoknapatawpha o Macondo, i les amenaces soterrades al glaç antàrtic, o en impossibles records primordials, res més que divertiments ancorats en fantasies teosòfiques i psicodèliques.
 

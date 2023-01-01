@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns50"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1fa7a.svg">
+<img class="emoji" alt="emoji: stethoscope" src="/contes/unicorns/twemoji/1fa7a.svg">
 
 —Continues escrivint?
 

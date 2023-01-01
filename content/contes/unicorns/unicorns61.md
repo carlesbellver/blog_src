@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns61"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/2620.svg">
+<img class="emoji" alt="emoji: pirate flag" src="/contes/unicorns/twemoji/2620.svg">
 
 Tres colpets suaus a la porta de la sala de professorat vella de l’ala nord —la més discreta—, una pausa i tres colpets més. Sense tardar m’han demanat que passés. Sabia que m’esperaven. He lliurat el nou telegrama i he marxat amb una reverència mentre el conciliàbul s’informava.
 

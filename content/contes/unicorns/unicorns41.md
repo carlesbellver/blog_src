@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns41"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f3e8.svg">
+<img class="emoji" alt="emoji: hotel" src="/contes/unicorns/twemoji/1f3e8.svg">
 
 Les intervencions de N. M. —àlies Irina, del grec *eirēnē*: pau— en els debats del primer Congrés de Futurologia, a Balaklava, van fer inexcusable la seva participació en el segon, un any després a Dubrovnik. Doctora en matemàtiques per la Universitat de Moscou, i en psicologia per l’Institut Pavlov de Leningrad, dirigia des de feia poc el laboratori d’exobiologia de la base secreta в/ч 26266.
 

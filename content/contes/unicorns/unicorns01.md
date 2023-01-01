@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns01"
 tags = ["contes"]
 +++
 
-<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/2615.svg">
+<img class="emoji" alt="emoji: hot beverage" src="/contes/unicorns/twemoji/2615.svg">
 
 La vaig conèixer en una sala d’estudi de l’antiga Facultat de Lletres de la Universitat de París. Ens vam mirar i al cap d’un minut em vaig adonar que eixia. Va ser una conversa breu, una mica incòmoda i tendra. Bevíem glops d’un cafè de màquina que pareixia verinós.
 
