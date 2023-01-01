@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns06"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/05.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f3e4.svg">
 
 S’apropava l’hora de tancar i la cua avançava amb lentitud exasperant, però no podia deixar l’enviament per a l’endemà perquè no estava segur que les còpies arribessin a temps, i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.
 
@@ -16,5 +16,3 @@ Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i ve
 Warren, més tard, m’ha aclarit el cas.
 
 —Es diu Nahum i va morir fa poc d’unes febres d’origen desconegut. Deu haver passat per acomiadar-se dels companys i comprovar com s’apanyen sense ell.
-
-

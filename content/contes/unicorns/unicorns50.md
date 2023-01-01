@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns50"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/49.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1fa7a.svg">
 
 —Continues escrivint?
 
@@ -28,5 +28,3 @@ Es va estarrufar.
 —Justament això intente evitar. A més d’una vulgaritat, seria senyal que no tinc remei. Qualsevol pot escriure una novel·la, com podràs comprovar a la primera llibreria de barri que trobis. Et confessaré que vaig estar a punt de caure en la temptació, però m’hi vaig saber resistir.
 
 —I la part del beure, com la portes?
-
-

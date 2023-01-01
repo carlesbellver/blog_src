@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns48"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/47.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f9f3.svg">
 
 No sóc gens afeccionat a viatjar —malgrat que aquesta vegada hagi travessat l’Atlàntic—, però l’anunci en aquell aparador va fer que m’hi aturés.
 
@@ -18,5 +18,3 @@ Em va dir, amb veu melosa, que guardava els fullets a dalt i va insistir que pug
 Però l’embruix era efímer. Es mostrava com era quan em va cridar amb els braços estesos. Crec que vaig fer cara d’espant, no de fàstic.
 
 —Tu tampoc no ets tan jove, ni tens més futur que jo!
-
-

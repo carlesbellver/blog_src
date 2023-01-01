@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns58"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/57.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1fa96.svg">
 
 Va tornar a ponderar l’heroisme dels *marines* —en aquesta nova operació imperialista que difonia la premsa— i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència. Vaig tocar l’ase. M’emprenyava el seu patrioterisme i ell se sentia ofès quan jo defensava el no a la guerra. No era la primera vegada que xocàvem.
 
@@ -17,5 +17,3 @@ Va tornar a ponderar l’heroisme dels *marines* —en aquesta nova operació im
 —Els únics joves nord-americans que van venir al meu país van ser els voluntaris de la Brigada Lincoln. Comunistes i companys de viatge. Els vostres governs van preferir sacrificar la nostra democràcia i deixar que s’hi perpetués el feixisme.
 
 M’adverteixen que no és segur per a mi, estudiant estranger, parlar amb tanta vehemència. Però no em preocupa el que em pogués passar, perquè beca i visat venceran prompte. Mentre tramitaven la meva democràtica expulsió, jo ja seria a l’aeroport.
-
-

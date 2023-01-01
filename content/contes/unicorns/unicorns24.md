@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns24"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/23.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/2697.svg">
 
 —Una errada en la numeració de les pàgines feia que paregués que en faltaven un parell. Van córrer rumors sobre el contingut censurat, eliminat a darrera hora amb el manual eixint d’impremta.
 
@@ -24,5 +24,3 @@ tags = ["contes"]
 —Jo no vaig escoltar res. Sóc dur d’orella.
 
 —Amb prou feines es van mascarar les bates. I amb això van donar per acabat el seu afer amb l’àtom. Ja es podien tornar a concentrar en la lectura de Paracels.
-
-

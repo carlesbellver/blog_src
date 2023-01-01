@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns21"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/20.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f4d4.svg">
 
 —T’ensenyaré un llenguatge secret.
 
@@ -24,5 +24,3 @@ Aquesta nit, va dir, compondrem cadascun un missatge i demà l’altre intentar�
 Crec que dubtava que jo m’estigués prenent l’estudi prou seriosament i em posava a prova. Li vaig escriure una carta d’amor. Ella va redactar una convocatòria d’una cèl·lula clandestina. El seu germà, aleshores, pertanyia a una organització comunista. Més endavant va ser confident de la policia. Nosaltres, en fi.
 
 Amb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.
-
-

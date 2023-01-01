@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns59"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/58.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f9df.svg">
 
 Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.
 
@@ -40,5 +40,3 @@ Comptava mentalment. Com voleu que compti un mort? Amb els dits no pot.
 —Quaranta, si més no.
 
 —Una eternitat.
-
-

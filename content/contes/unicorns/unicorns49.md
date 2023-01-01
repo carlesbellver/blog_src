@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns49"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/48.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f4be.svg">
 
 Aquest tros de plàstic que prove a fer servir com a màquina d’escriure electrònica es connecta a un televisor vell, menut, on esforçant-me puc veure què teclege, a una gravadora de cintes de casset, on se suposa que s’arxiven els textos, i a una impressora tèrmica que només funciona els dies senars.
 
@@ -16,5 +16,3 @@ Avui m’avorria. M’enervava el *writer’s block* —la síndrome de la panta
 He explicat el descobriment a Ismael, becari veterà, que en sabia altres coses i m’ha aportat detalls addicionals sobre la motivació del meu projecte.
 
 —Rice va comprar el paquet complet als encants, de tercera mà. Era un regal per al besnet, però el xiquet el va rebutjar, perquè ja tenia un PC, i llavors se li va acudir portar-ho ací.
-
-

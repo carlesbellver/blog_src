@@ -14,5 +14,3 @@ L’article amb la justificació del projecte i l’esbós dels resultats va ser
 Una limitació del ZX81 era la memòria RAM, que permetia treballar amb un màxim d’un kilobyte. Per això aquests textos tenen, exactament, mil vint-i-quatre caràcters, espais inclosos. Els vaig retrobar fa poc dins d’una carpeta. La impressió s’esvaïa, em vaig sentir nostàlgic i vaig pensar a transcriure’ls. No crec que interessin a ningú més que a mi.
 
 Ch. B.
-
-

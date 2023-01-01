@@ -8,7 +8,7 @@ url = "contes/unicorns/unicorns32"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/31.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/26a1.svg">
 
 Una vesprada d’estiu, un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar. Digueu?
 
@@ -21,5 +21,3 @@ I en aquest punt es va aturar un instant etern.
 *“Believe”*, va xiuxiuejar sibil·linament abans de penjar.
 
 A l’altre extrem, ara lluïa un riure sardònic el mateix cavaller alt, bru, que uns anys enrere havia executat demostracions d’electromagnetisme i de projecció d’imatges, el mateix que el trenta-u d’octubre anterior va persuadir un estudiant de Mont-real perquè preguntés a Houdini si no creia en els miracles i en les sagrades escriptures i provés si era de debò que aguantava tres bons colps de puny a l’estómac sense parpellejar.
-
-

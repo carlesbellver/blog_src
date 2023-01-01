@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns25"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/24.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/1f4e6.svg">
 
 M’explicava el concepte tibetà de *tulpa*: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.
 
@@ -20,5 +20,3 @@ Es referia al seu criat asiàtic. Ningú sabia d’on l’havia tret, i darreram
 No hauria calgut, però, que l’enviés al meu apartament dins d’una caixa de fusta. Les escletxes entre els taulons, havien estat disposades perquè pogués respirar, o perquè jo observés la seva esquena peluda, incòmodament corbada, no menys esfereïdora que els seus grunys? Es remenava, era evident que maldava per escapar d’aquell rigorós captiveri. Vaig telefonar a Danvers. Ara no podia venir, em va dir, però si tenia pressa em podia dictar la fórmula —ell va usar una altra paraula— que el faria esvanir-se.
 
 Em trobava tan alterat que vaig necessitar tres intents.
-
-

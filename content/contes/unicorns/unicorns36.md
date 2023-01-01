@@ -7,7 +7,7 @@ url = "contes/unicorns/unicorns36"
 tags = ["contes"]
 +++
 
-<img class="drawing" src="/contes/unicorns/tovallons/200/35.jpg">
+<img class="emoji" alt="emoji" src="/contes/unicorns/twemoji/270d.svg">
 
 Tot just una frase —set mots— en un tros de paper estripat i rebregat. El fet que no entengués l’idioma, li suposava algun problema? Em va contestar que no, que ell desxifrava símbols universals, inherents a l’escriptura.
 
@@ -16,5 +16,3 @@ Al matí ens havia impartit un seminari sobre grafologia que jo havia trobat cò
 La lletra gran, em va explicar, i els traços verticals ferms, denotaven seguretat, control. Els angles marcats assenyalaven l’hegemonia de la raó sobre els sentiments, el lideratge. Els traços superiors elevats: metes altes. La corba completa dels traços descendents: energia, habilitat en els negocis. Les línies separades: calma, temps. La rúbrica remetia d’alguna manera a l’antic Egipte. Un home, sens dubte, molt vell, però mentalment àgil, d’una intel·ligència superior. Una ment lògica i freda, impassible i despietada.
 
 Vaig veure com suava. Em va demanar que marxés i que m’emportés la nota. No va voler cobrar-me res.
-
-
