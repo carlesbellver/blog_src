@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "{{ .Date }}"
-tags = ["citacions"]
+tags = ["ressenyes"]
 slug = ""
 +++
 
