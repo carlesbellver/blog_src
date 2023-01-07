@@ -23,7 +23,7 @@ Premi de narrativa breu Josep Pascual Tirado 2015
 
 Edició de l’autor  
 Primera edició: Unaria, 2015  
-Revisió 2/20190406
+Revisió 3/20230107
 
 Copyright 2017 Carles Bellver Torlà
 
@@ -295,7 +295,7 @@ Quan es complien quatre hores de turment, de sobte va parar de ploure i ensems l
 
 ## Quinze anys després
 
-§18. Posa el punt final a la narració, sospira alleujat —satisfet d’haver enllestit els deures de vacances, per una vegada amb temps de sobres— i, després d’esperar uns segons més que s’assequi la tinta, tanca el quadern. Dreta al seu costat, una xiqueta d’uns quinze anys que fa una estona que l’observa, tot procurant endebades que no se le note la impaciència, li pregunta:
+§18. Posa el punt final a la narració, sospira alleujat —satisfet d’haver enllestit els deures de vacances, per una vegada amb temps de sobres— i, després d’esperar uns segons més que s’assequi la tinta, tanca el quadern. Dreta al seu costat, una xiqueta d’uns quinze anys que fa una estona que l’observa, tot procurant endebades que no se li note la impaciència, li pregunta:
 
 —Ja has acabat?
 
