@@ -8,5 +8,5 @@ tags = ["retalls"]
 
 📎 [How Fanta Was Created for Nazi Germany](https://www.atlasobscura.com/articles/fanta-soda-origins-nazi-germany)
 
-El popular refresc de taronja va ser creat a Alemanya durant la guerra a partir de peles de fruita, fibra de poma, polpa, sucre de remolatxa i residus líquids de la producció de formatge. El nom era abreviatura de fantasia.
+El popular refresc de taronja va ser creat a Alemanya durant la guerra a partir de peles de fruita, fibra de poma, polpa, sucre de remolatxa i residus líquids de la producció de formatge. El nom era abreviatura de *fantasia*.
 
