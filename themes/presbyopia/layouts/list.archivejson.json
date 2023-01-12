@@ -8,7 +8,7 @@
 				"date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
 				"url": "{{ .Permalink }}",
 				"tags": "{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}",
-				"content_text": {{ .Plain | truncate 1000 | htmlUnescape | jsonify }}
+				"content_text": {{ .Plain | truncate 2000 | jsonify }}
 			}
 			{{- if ne (add $index 1) $len -}},{{- end -}}
 			{{ end -}}
