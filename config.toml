@@ -95,6 +95,12 @@ paginate = 12
 		baseName = "index"
 		isPlainText = false
 		notAlternative = true
+	[outputFormats.FullArchiveJSON]
+		mediaType = "application/json"
+		path = "archive"
+		baseName = "archive"
+		isPlainText = true
+		notAlternative = true
 	[outputFormats.ArchiveJSON]
 		mediaType = "application/json"
 		path = "archive"
@@ -115,7 +121,7 @@ paginate = 12
 		notAlternative = true
     
 	[outputs]
-	  home = [ "HTML", "RSS", "JSON", "ArchiveHTML", "ArchiveJSON", "PhotosJSON" ]
+	  home = [ "HTML", "RSS", "JSON", "ArchiveHTML", "FullArchiveJSON", "ArchiveJSON", "PhotosJSON" ]
 	  page = [ "HTML" ]
 	  section = [ "HTML" ]
 
