@@ -17,6 +17,7 @@
     margin: 0;
     padding: 2px 5px;
     background: #eee;
+    border: none;
 }
 
 #webmentions .reacts img {
