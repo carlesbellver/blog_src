@@ -15,8 +15,8 @@
 #webmentions h2 {
     font-size: medium;
     margin: 0;
-    padding: 2px;
-    background: #ccc;
+    padding: 2px 5px;
+    background: #eee;
 }
 
 #webmentions .reacts img {
