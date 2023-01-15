@@ -3,6 +3,7 @@ title = ""
 date = "2023-01-06T20:02:14+01:00"
 tags = ["retalls"]
 slug = "dark-forest"
+synurl = "https://mastodon.social/@carlesbellver/109643887047275149"
 +++
 
 📎 [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
