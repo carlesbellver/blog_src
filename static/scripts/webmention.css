@@ -1,5 +1,5 @@
 #webmentions {
-    margin: 0;
+    margin: 20px 0;
     position: relative;
     z-index: 100;
     line-height: 1.2em;
@@ -15,8 +15,8 @@
 #webmentions h2 {
     font-size: medium;
     margin: 0;
-    padding: 2px 5px;
-    background: #eee;
+    padding: 0;
+    background: #fff;
     border: none;
 }
 
