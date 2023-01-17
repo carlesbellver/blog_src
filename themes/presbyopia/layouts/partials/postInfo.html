@@ -15,5 +15,3 @@
 </ul>
 
     {{ partial "license.html" . }}
-
-{{- if .Params.syndication -}}<ul class="syndication" style="display:none">{{- range $url := sort (uniq .Params.syndication) -}}<li><a class="u-syndication" href="{{ $url }}"></a></li>{{- end -}}</ul>{{- end -}}
