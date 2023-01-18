@@ -3,7 +3,7 @@ url = "/2014/01/20/entrevista-amb-un.html"
 title = "Entrevista amb un gerent"
 date = "2014-01-20T23:00:00+00:00"
 slug = "entrevista-amb-un"
-tags = ["retalls"]
+tags = ["retalls", "educació"]
 +++
 
 Aquest matí, una persona que entén d’aquestes coses m’ha dit que si volia llegir “una entrevista amb un bovo” (sic), ací en tenia una amb el “comptable” ([gerent?](http://orgchart.mit.edu/executive-vice-president-and-treasurer)) del MIT:
