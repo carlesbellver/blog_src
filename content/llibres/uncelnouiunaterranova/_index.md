@@ -11,7 +11,6 @@ template = "llibre"
 <img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
 {{< icon book >}} [EPUB](/files/uncelnouiunaterranova.epub)
-{{< icon book >}} [Kindle](/files/uncelnouiunaterranova.mobi)
 {{< icon book >}} [PDF](/files/uncelnouiunaterranova.pdf)
 
 Premi de narrativa breu Josep Pascual Tirado 2015.
