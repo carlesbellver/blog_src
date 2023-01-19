@@ -7,7 +7,7 @@ image = "/contes/unicorns/cover_medium.jpg"
 syndication = ["https://twitter.com/carlesbellver/status/1419047282067058689"]
 +++
 
-<img src="cover_small.jpg" alt="Portada edició electrònica"  style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
+<div style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em; font-size: 12px;text-align: center;"><img src="cover_small.jpg" alt="Portada edició electrònica"  style="" /><p><a href="unicorns_wallpaper_phone.jpg"><img src="unicorns_wallpaper_phone_th.jpg" style="width: 18px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_phone.jpg">Fons de pantalla per a telèfon</a></p><a href="unicorns_wallpaper_desktop.jpg"><img src="unicorns_wallpaper_desktop_th.jpg" style="width: 48px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_desktop.jpg">Fons de pantalla per a ordinador</a></p></div>
 
 Seixanta-quatre exercicis d'estil: de la comèdia de costums a la fantasia oriental i l'horror còsmic o psicològic.
 
