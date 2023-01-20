@@ -10,8 +10,8 @@ template = "llibre"
 
 <img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
-{{< icon book >}} [EPUB](/files/uncelnouiunaterranova.epub)
-{{< icon book >}} [PDF](/files/uncelnouiunaterranova.pdf)
+{{< icon book >}} <span class="small">[EPUB](/files/uncelnouiunaterranova.epub)</span>
+{{< icon book >}} <span class="small">[PDF](/files/uncelnouiunaterranova.pdf)</span>
 
 Premi de narrativa breu Josep Pascual Tirado 2015.
 
@@ -19,13 +19,11 @@ Premi de narrativa breu Josep Pascual Tirado 2015.
 
 **Set somnis d’escriptors i un d’una escriptora**. Vuit proses breus que evoquen els mons i les sensibilitats literàries de Jean Ferry, Augusto Monterroso, Lord Dunsany, R. L. Stevenson, H. P. Lovecraft, Ray Bradbury, Giovanni Papini i Maria Folch.
 
-- [Text de la presentació](mariafolch-uncelnouiunaterranova) en la llibreria Fòrum Babel. Maria Folch, 18 de desembre de 2015.
+  - [Text de la presentació](mariafolch-uncelnouiunaterranova) en la llibreria Fòrum Babel. Maria Folch, 18 de desembre de 2015.
+  - [Per al·lusions: l’apocalipsi i València](/2016/01/27/per-allusions-lapocalipsi.html)
+  - [El somni atribuït a una escriptora: Maria Folch i la basarda del general](/2016/03/13/el-somni-atribut.html)
 
 ## Ressenyes
 
 - [Un cel nou i una terra nova, Carles Bellver Torlà (Unària, 2015)](http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/) (Carme Pinyana, Descriu, 2018).
 
-## En el blog
-
-  - [Per al·lusions: l’apocalipsi i València](/2016/01/27/per-allusions-lapocalipsi.html)
-  - [El somni atribuït a una escriptora: Maria Folch i la basarda del general](/2016/03/13/el-somni-atribut.html)

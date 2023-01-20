@@ -1,11 +1,11 @@
   /* Basic */
 
 :root {
-    --font: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+    --font: Georgia, Cambria, Times, "Times New Roman", serif;
     --font-heading: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
     --font-header: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
     --font-details: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-    --font-bq: Georgia, serif;
+    --font-bq: Georgia, Cambria, Times, "Times New Roman", serif;
     --font-monospace: "Ubuntu Mono", Monaco, Menlo, monospace;
 }
 
@@ -19,7 +19,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     color: var(--font-color);
@@ -41,6 +41,16 @@ section,
 summary {
     display: block;
 }	
+
+.small {
+  font-family: var(--font-details);
+  font-size: 16px;
+}
+
+.tiny {
+  font-family: var(--font-details);
+  font-size: 13px;
+}
 
 .common-header {
   width: 100%;
@@ -70,7 +80,7 @@ main {
 /* Headers */
 
 h1, h2, h3 {
-  margin: 1em 0 0;
+  margin: 1em 0;
   font-family: var(--font-heading);
   font-weight: 300;
   text-transform: uppercase;
@@ -79,16 +89,16 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 40px;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 30px;
   border-bottom: 1px solid #333;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
   border-bottom: 1px solid #333;
 }
 
@@ -177,7 +187,7 @@ code,
 pre,
 kbd {
     font-family: var(--font-monospace);
-    font-size: 0.9em;
+    font-size: 0.85em;
     color: var(--pre-color);
 }
 
