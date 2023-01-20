@@ -124,4 +124,3 @@ paginate = 12
 	  home = [ "HTML", "RSS", "JSON", "ArchiveHTML", "FullArchiveJSON", "ArchiveJSON", "PhotosJSON" ]
 	  page = [ "HTML" ]
 	  section = [ "HTML" ]
-
