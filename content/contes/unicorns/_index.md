@@ -4,7 +4,7 @@ title = "Unicorns"
 subtitle = "Improvisacions en 1.024 caràcters"
 description = "Improvisacions en 1.024 caràcters."
 image = "/contes/unicorns/cover_medium.jpg"
-syndication = ["https://twitter.com/carlesbellver/status/1419047282067058689"]
+syndication = ["https://twitter.com/carlesbellver/status/1419047282067058689", "https://mastodon.social/@carlesbellver/109722908719576766"]
 +++
 
 <div style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em; line-height: 1.1; text-align: center;"><img src="cover_small.jpg" alt="Portada edició electrònica"  style="" /><p><a href="unicorns_wallpaper_phone.jpg"><img src="unicorns_wallpaper_phone_th.jpg" style="width: 18px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_phone.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla telèfon</a></p><a href="unicorns_wallpaper_desktop.jpg"><img src="unicorns_wallpaper_desktop_th.jpg" style="width: 48px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_desktop.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla ordinador</a></p></div>
