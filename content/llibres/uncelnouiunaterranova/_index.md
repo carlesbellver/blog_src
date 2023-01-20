@@ -10,8 +10,8 @@ template = "llibre"
 
 <img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
-{{< icon book >}} <span class="small">[EPUB](/files/uncelnouiunaterranova.epub)</span>
-{{< icon book >}} <span class="small">[PDF](/files/uncelnouiunaterranova.pdf)</span>
+{{< icon download >}} <span class="small">[EPUB](/files/uncelnouiunaterranova.epub)</span>
+{{< icon download >}} <span class="small">[PDF](/files/uncelnouiunaterranova.pdf)</span>
 
 Premi de narrativa breu Josep Pascual Tirado 2015.
 

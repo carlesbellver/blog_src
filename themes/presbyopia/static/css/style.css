@@ -97,6 +97,11 @@ h2 {
   border-bottom: 1px solid #333;
 }
 
+h2.subtitle {
+  font-size: 20px;
+  border-bottom: none;
+}
+
 h3 {
   font-size: 20px;
   border-bottom: 1px solid #333;

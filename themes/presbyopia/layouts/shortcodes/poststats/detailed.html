@@ -8,7 +8,7 @@
     {{ $scratch.Add "wordcount" .WordCount }}
 {{ end }}
 
-{{ $postCount :=  len ($posts) }}
+{{ $postCount := len ($posts) }}
 {{ $wordCount := $scratch.Get "wordcount" }}
 {{ $avgPostLength := div $wordCount $postCount }}
 <table class="post-stats-tbl">

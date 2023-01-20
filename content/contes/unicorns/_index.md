@@ -7,12 +7,12 @@ image = "/contes/unicorns/cover_medium.jpg"
 syndication = ["https://twitter.com/carlesbellver/status/1419047282067058689"]
 +++
 
-<div style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em; line-height: 1.1; text-align: center;"><img src="cover_small.jpg" alt="Portada edició electrònica"  style="" /><p><a href="unicorns_wallpaper_phone.jpg"><img src="unicorns_wallpaper_phone_th.jpg" style="width: 18px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_phone.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla per a telèfon</a></p><a href="unicorns_wallpaper_desktop.jpg"><img src="unicorns_wallpaper_desktop_th.jpg" style="width: 48px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_desktop.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla per a ordinador</a></p></div>
+<div style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em; line-height: 1.1; text-align: center;"><img src="cover_small.jpg" alt="Portada edició electrònica"  style="" /><p><a href="unicorns_wallpaper_phone.jpg"><img src="unicorns_wallpaper_phone_th.jpg" style="width: 18px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_phone.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla telèfon</a></p><a href="unicorns_wallpaper_desktop.jpg"><img src="unicorns_wallpaper_desktop_th.jpg" style="width: 48px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_desktop.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla ordinador</a></p></div>
 
 Seixanta-quatre exercicis d'estil: de la comèdia de costums a la fantasia oriental i l'horror còsmic o psicològic.
 
-{{< icon book >}} <span class="small">[EPUB](/files/unicorns.epub)</span>
-{{< icon book >}} <span class="small">[PDF](/files/unicorns.pdf)</span>
+{{< icon download >}} <span class="small">[EPUB](/files/unicorns.epub)</span>
+{{< icon download >}} <span class="small">[PDF](/files/unicorns.pdf)</span>
 
 [Proemi](unicorns00)
 
