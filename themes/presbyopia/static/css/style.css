@@ -406,6 +406,11 @@ h1.post-title {
     margin-top: 10px;
 }
 
+.post-list .dt-published {
+  font-family: var(--font-details);
+  font-size: 16px;
+}
+
 /* Articles */
 
 main article {

@@ -123,6 +123,7 @@ function displayResults(results) {
     var p_node = document.createElement("p");        
     var link_node = document.createElement("a");
     if (results[i]["date_published"].substring(0, 3) != "000" && results[i]["date_published"].substring(0, 3) != "197") {
+      link_node.classList.add("dt-published");
       var d = Date.parse(results[i]["date_published"]);
       var date_s = new Date(d).toISOString().substr(0, 10);
       var date_node = document.createTextNode(date_s); 
