@@ -119,6 +119,7 @@ function displayResults(results) {
   else {
     no_hits_node.innerHTML = results.length + "&nbsp;pàgines";
   }
+  results_node.innerHTML = "";
   for (let i = 0; i < results.length; i++) {
     var p_node = document.createElement("p");        
     var link_node = document.createElement("a");

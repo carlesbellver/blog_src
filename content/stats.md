@@ -2,4 +2,4 @@
 title: "Estadístiques"
 ---
 
-<!-- {{< poststats/detailed >}} -->
+{{< poststats/detailed >}}
