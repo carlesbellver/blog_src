@@ -9,7 +9,7 @@ tags = ["fotos"]
 
 <a title="Se prohíbe ensuciarse" href="http://www.flickr.com/photos/carlesbellver/12090678396/"><img alt="Foto: Se prohíbe ensuciarse" src="/uploads/2019/37645c09de.jpg" /></a>
 
-Vaig demanar a Maria Folch que [presentés](http://carlesbellver.net/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova.html) el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria parlar gaire. Tan sols uns pocs minuts, com vaig dir, *per al·lusions*. No repetiré ací cada observació que vaig fer, però sí que deixaré constància de dos o tres detalls que m’interessen particularment.
+Vaig demanar a Maria Folch que [presentés](http://carlesbellver.net/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova/) el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria parlar gaire. Tan sols uns pocs minuts, com vaig dir, *per al·lusions*. No repetiré ací cada observació que vaig fer, però sí que deixaré constància de dos o tres detalls que m’interessen particularment.
 
 Un. Certament no era cap secret que en “Un cel nou i una terra nova” —el conte que dóna títol al llibre— s’esdevé una mena d’apocalipsi. El relat dels fets, com va assenyalar Maria, comença sota un epígraf que no pot ser més explícit: “Just abans de la fi del món”. Amb la qual cosa tampoc pretenia resultar gens original. No mancàvem de proclames apocalíptiques, mentre jo escrivia. I segurament amb raó. Almenys a mi també m’ho pareixia, que la realitat se’ns estava ensorrant i que ens queia damunt a trossos. I encara m’ho pareix, és clar. No hi ha dia que no ens assabentem d’una altra calamitat. Però era optimista, i per això hi havia una segona part: “Quinze anys després”. És a dir, que s’acabava un món, però tot seguit en començava un altre. Més estrany encara, potser. Nou de trinca.
 
@@ -17,4 +17,4 @@ Dos. Hi havia una pregunta ineludible: per què l’acció transcorre a Valènci
 
 I tres… bé, allò de l’animalet i el somni d’una escriptora ho deixarem per a un altre dia, que és un assumpte que mereix un apunt per si mateix.
 
-(La foto. Gener de 2014. Em vaig agafar un dia lliure amb la intenció de passejar-me pel centre de València. Més que documentar-me, supose que volia comprovar que els carrers i les cases restaven als mateixos llocs. On els havia deixats.)
+(La foto. Gener de 2014. Em vaig agafar un dia lliure amb la intenció de passejar pel centre de València. Més que documentar-me, supose que volia comprovar que els carrers i les cases restaven als mateixos llocs. On els havia deixats.)

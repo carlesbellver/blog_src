@@ -5,4 +5,4 @@ tags = ["UJI"]
 slug = "revenants"
 +++
 
-Quan fan servir l’americanisme *egressat*, no puc evitar que em sone a *regressar*, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. *Les Revenants*.
+Quan fan servir l’americanisme ‘egressat’, no puc evitar que em sone a *regressar*, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. *Les Revenants*.
