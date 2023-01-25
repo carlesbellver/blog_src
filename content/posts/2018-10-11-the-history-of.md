@@ -4,9 +4,11 @@ title = ""
 date = "2018-10-11T14:02:00+00:00"
 slug = "the-history-of"
 tags = ["retalls"]
+x_url = "https://www.denizcemonduygu.com/philo/"
+x_title = "The History of Philosophy summarized & visualized"
+x_source = ""
 +++
 
-📎 [The History of Philosophy summarized & visualized](https://www.denizcemonduygu.com/philo/)
 
 Síntesi gràfica de la història de la filosofia occidental. Visualització de connexions (acord, desacord) entre idees i arguments clau.
 

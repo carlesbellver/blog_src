@@ -4,9 +4,11 @@ title = ""
 date = "2019-01-23T08:55:00+00:00"
 slug = "lautoritat-de-linescrutable"
 tags = ["retalls"]
+x_url = "http://lab.cccb.org/ca/lautoritat-de-linescrutable-entrevista-amb-cathy-oneil/"
+x_title = "L’autoritat de l’inescrutable: entrevista amb Cathy O’Neil"
+x_source = ""
 +++
 
-📎 [L’autoritat de l’inescrutable: entrevista amb Cathy O’Neil](http://lab.cccb.org/ca/lautoritat-de-linescrutable-entrevista-amb-cathy-oneil/)
 
 Ex-analista en el sector financer i autora del llibre *Armas de destrucción matemática*. Els algoritmes es dissenyen “a mida, en funció dels motius, valors i ideologies dels seus creadors” (o més aviat dels qui paguen als creadors). Per exemple:
 

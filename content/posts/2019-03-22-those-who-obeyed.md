@@ -4,9 +4,11 @@ title = ""
 date = "2019-03-22T20:02:00+00:00"
 slug = "those-who-obeyed"
 tags = ["retalls"]
+x_url = "http://www.spiegel.de/international/interview-with-anthropologist-richard-wrangham-a-1259252.html"
+x_title = "'Those Who Obeyed the Rules Were Favored by Evolution'"
+x_source = ""
 +++
 
-📎 ['Those Who Obeyed the Rules Were Favored by Evolution'](http://www.spiegel.de/international/interview-with-anthropologist-richard-wrangham-a-1259252.html)
 
 > L'antropòleg britànic Richard Wrangham creu que la nostra humanitat va començar amb l'assassinat d'un tirà.
 

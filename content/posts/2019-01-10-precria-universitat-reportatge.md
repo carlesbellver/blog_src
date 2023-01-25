@@ -4,9 +4,11 @@ title = ""
 date = "2019-01-10T13:04:00+00:00"
 slug = "precria-universitat-reportatge"
 tags = ["retalls", "educació"]
+x_url = "https://www.eltemps.cat/article/5841/precaria-universitat"
+x_title = "Precària universitat"
+x_source = ""
 +++
 
-📎 [Precària universitat](https://www.eltemps.cat/article/5841/precaria-universitat)
 
 Reportatge de Violeta Tena en *El Temps*. Diuen que una crisi és una oportunitat, i les elits extractives l'han aprofitada per a començar a desarmar el sistema públic universitari, amb l'objectiu de potenciar els seus negocis privats. En altres països d'Europa s'ha incrementat la inversió en educació, mentre que a Espanya s'ha reduït.
 

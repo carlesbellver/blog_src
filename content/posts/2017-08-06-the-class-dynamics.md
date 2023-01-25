@@ -4,9 +4,11 @@ title = ""
 date = "2017-08-06T11:36:00+00:00"
 slug = "the-class-dynamics"
 tags = ["retalls"]
+x_url = "https://qz.com/1034016/the-class-dynamics-of-breastfeeding-in-the-united-states-of-america/"
+x_title = "The class dynamics of breastfeeding in the United States of America"
+x_source = ""
 +++
 
-📎 [The class dynamics of breastfeeding in the United States of America](https://qz.com/1034016/the-class-dynamics-of-breastfeeding-in-the-united-states-of-america/)
 
 No em pareix desenraonat pensar que aquestes conclusions —basades en dades estadístiques— siguen vàlides per a altres països, per exemple el nostre. La lactància materna —amb els seus costos invisibles per a les classes treballadores— pot haver esdevingut una marca d’estatus. La llet artificial, en canvi, tenia l’aval social quan resultava molt més cara i només era a l’abast d’unes poques famílies privilegiades.
 

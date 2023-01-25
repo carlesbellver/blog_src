@@ -4,9 +4,11 @@ title = ""
 date = "2003-12-05T23:00:00+00:00"
 slug = "sorted-for-ease"
 tags = ["retalls", "drogues"]
+x_url = "http://www.independent.co.uk/arts-entertainment/books/features/sorted-for-ease-of-scribbling-5544661.html"
+x_title = "Sorted for ease of scribbling"
+x_source = ""
 +++
 
-📎 [Sorted for ease of scribbling](http://www.independent.co.uk/arts-entertainment/books/features/sorted-for-ease-of-scribbling-5544661.html)
 					
 > Necessiten narcòtics els artistes, més fins i tot que la gent normal? Richard Davenport-Hines examina els hàbits dels autors.
 

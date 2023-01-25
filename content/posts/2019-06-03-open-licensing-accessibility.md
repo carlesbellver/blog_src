@@ -4,9 +4,11 @@ title = ""
 date = "2019-06-03T11:44:00+00:00"
 slug = "open-licensing-accessibility"
 tags = ["retalls", "educació"]
+x_url = "https://firstmonday.org/ojs/index.php/fm/article/view/9180"
+x_title = "Open enough? Eight factors to consider when transitioning from closed to open resources and courses"
+x_source = ""
 +++
 
-📎 [Open enough? Eight factors to consider when transitioning from closed to open resources and courses](https://firstmonday.org/ojs/index.php/fm/article/view/9180)
 
 1. Llicències obertes.
 2. Estàndards d'usabilitat i accessibilitat.

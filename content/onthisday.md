@@ -4,7 +4,7 @@ slug = "onthisday"
 tags= ["special"]
 +++
 
-<div id="onthisday">
+<div id="onthisday" class="post-list">
   S'estan carregant els textos…
 </div>
 

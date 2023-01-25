@@ -4,9 +4,11 @@ title = ""
 date = "2017-12-02T07:54:00+00:00"
 slug = "here-are-significant"
 tags = ["retalls"]
+x_url = "https://singularityhub.com/2017/12/01/here-are-4-things-we-can-do-to-combat-climate-change-now/"
+x_title = "Here Are 4 Significant Things We Can Do to Combat Climate Change Now"
+x_source = ""
 +++
 
-📎 [Here Are 4 Significant Things We Can Do to Combat Climate Change Now](https://singularityhub.com/2017/12/01/here-are-4-things-we-can-do-to-combat-climate-change-now/)
 
 >  1. Aprovar lleis que incentiven la reducció de carboni.
 >  2. Adoptar massivament l’energia solar i la tecnologia de bateries.

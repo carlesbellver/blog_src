@@ -4,9 +4,11 @@ title = ""
 date = "2019-03-04T08:36:00+00:00"
 slug = "mariano-fernndez-enguita"
 tags = ["retalls", "educació"]
+x_url = "https://blog.enguita.info/2019/03/la-escuela-como-fabrica-de-disparates.html"
+x_title = "La escuela como fábrica de disparates —ayer y hoy"
+x_source = "Mariano Fernández Enguita"
 +++
 
-📎 Mariano Fernández Enguita: [La escuela como fábrica de disparates —ayer y hoy](https://blog.enguita.info/2019/03/la-escuela-como-fabrica-de-disparates.html)
 
 > Fa decennis que una part no desdenyable del professorat d'ensenyament secundari enyora el paradís perdut, que sempre és el de la llei anterior, el d'abans dels darrers mitjans de comunicació, etc.
 

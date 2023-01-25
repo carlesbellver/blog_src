@@ -4,9 +4,11 @@ title = ""
 date = "2020-02-15T07:37:40+00:00"
 slug = "in-the-long"
 tags = ["retalls"]
+x_url = "https://www.wired.com/story/will-ai-achieve-consciousness-wrong-question/"
+x_title = "Will AI Achieve Consciousness? Wrong Question"
+x_source = "Daniel Dennett"
 +++
 
-📎 Daniel Dennett: [Will AI Achieve Consciousness? Wrong Question](https://www.wired.com/story/will-ai-achieve-consciousness-wrong-question/)
 
 > A la llarga, una "IA forta", o intel·ligència artificial general, és possible en principi però no desitjable. L'IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!
 > 

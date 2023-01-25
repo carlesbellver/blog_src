@@ -3,9 +3,11 @@ title = ""
 date = "2022-04-23T10:15:46+02:00"
 tags = ["retalls", "educació"]
 slug = "video-games"
+x_url = "https://www.insidehighered.com/blogs/higher-ed-gamma/can-video-games-teach"
+x_title = "Can Video Games Teach?"
+x_source = ""
 +++
 
-📎 [Can Video Games Teach?](https://www.insidehighered.com/blogs/higher-ed-gamma/can-video-games-teach)
 
 Tinc la sensació que una bona part del discurs sobre jocs seriosos ve de persones, i d'ambients, que potser no s’havien pres encara prou seriosament els videojocs. Ni la cultura popular en general, de fet. Com si no hagueren donat prou importància a l'aprenentatge que es produïa, o es produeix, a més dels jocs, en tebeos, pel·lícules, cançons, etc., i no hagueren reflexionat sobre com traure’n profit per a l’educació formal.
 

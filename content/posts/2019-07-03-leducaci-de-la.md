@@ -4,9 +4,11 @@ title = "L'educació de la dona cristiana i el Palau del Batle de Vilafamés"
 date = "2019-07-03T15:39:00+00:00"
 slug = "leducaci-de-la"
 tags = ["retalls"]
+x_url = "https://www.dipcas.es/va/actualidad/diputaci-troba-un-llibre-de-lluis-vives-del-segle-xvi-entre-els-seus-fons-documentals"
+x_title = "Diputació troba un llibre de Lluis Vives del segle XVI entre els seus fons documentals"
+x_source = ""
 +++
 
-📎 [Diputació troba un llibre de Lluis Vives del segle XVI entre els seus fons documentals](https://www.dipcas.es/va/actualidad/diputaci-troba-un-llibre-de-lluis-vives-del-segle-xvi-entre-els-seus-fons-documentals)
 
 La Diputació de Castelló va presentar fa unes setmanes un exemplar de [*L'educació de la dona cristiana*](https://en.wikipedia.org/wiki/The_Education_of_a_Christian_Woman), de Joan Lluís Vives i March, trobat en el fons documental procedent de l'antic [Palau del Batle](https://ca.wikipedia.org/wiki/Museu_d%27Art_Contemporani_de_Vilafamés) de Vilafamés. L'obra va ser escrita originalment en llatí (*De Institutione Feminae Christianae*, 1523), i estava dedicada a Caterina d'Aragó, primera esposa d'Enric VIII d'Anglaterra. Però en aquest cas es tracta de la primera edició en castellà (1528), dedicada a Germana de Foix, segona esposa —i vídua— de Ferran el Catòlic.
 

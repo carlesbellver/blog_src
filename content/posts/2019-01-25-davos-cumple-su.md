@@ -4,9 +4,11 @@ title = ""
 date = "2019-01-25T09:07:00+00:00"
 slug = "davos-cumple-su"
 tags = ["retalls"]
+x_url = "https://www.eldiario.es/economia/Davos-desigualdad_0_860214718.html"
+x_title = "Davos cumple su misión de costumbre: debatir sobre cambios pero para mantener el statu quo económico"
+x_source = ""
 +++
 
-📎 [Davos cumple su misión de costumbre: debatir sobre cambios pero para mantener el statu quo económico](https://www.eldiario.es/economia/Davos-desigualdad_0_860214718.html)
 
 > «Fa por», diu el responsable d'un fons d'inversions sobre la proposta d'Alexandria Ocasio-Cortez d'elevar el tipus màxim fiscal al 70%.
 

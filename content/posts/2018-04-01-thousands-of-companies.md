@@ -4,9 +4,11 @@ title = ""
 date = "2018-04-01T09:13:00+00:00"
 slug = "thousands-of-companies"
 tags = ["retalls"]
+x_url = "https://m.slashdot.org/story/339089"
+x_title = "Thousands of Companies Are Spying On You"
+x_source = ""
 +++
 
-📎 [Thousands of Companies Are Spying On You](https://m.slashdot.org/story/339089)
 
 Transparència i regulació són l’única resposta al capitalisme de la vigilància.
 

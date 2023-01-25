@@ -3,9 +3,11 @@ title = ""
 date = "2021-12-19T19:13:43+01:00"
 tags = ["retalls"]
 slug = "ubisoft-nft"
+x_url = "https://www.inkl.com/news/report-ubisoft-s-own-developers-are-concerned-about-its-nft-push"
+x_title = "Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push"
+x_source = ""
 +++
 
-📎 [Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push](https://www.inkl.com/news/report-ubisoft-s-own-developers-are-concerned-about-its-nft-push)
 
 Comentaris filtrats dels programadors de l'empresa:
 

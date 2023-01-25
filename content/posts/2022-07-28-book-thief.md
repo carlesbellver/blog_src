@@ -3,9 +3,11 @@ title = ""
 date = "2022-07-28T20:55:41+02:00"
 tags = ["retalls"]
 slug = "book-thief"
+x_url = "https://www.theguardian.com/books/2022/jul/14/alleged-book-thief-filippo-bernardini-may-avoid-trial-in-the-us"
+x_title = "Alleged book thief Filippo Bernardini may avoid trial in the US"
+x_source = ""
 +++
 
-📎 [Alleged book thief Filippo Bernardini may avoid trial in the US](https://www.theguardian.com/books/2022/jul/14/alleged-book-thief-filippo-bernardini-may-avoid-trial-in-the-us)
 
 [Hi hagué un temps](https://www.lavanguardia.com/cultura/20201224/6146536/phishing-manuscritos-libros-mail.html) en què un misteriós lladre o *hacker* enganyava autors de renom perquè li enviaren els seus originals encara inèdits. Falsificava adreces de correu electrònic i es feia passar pel seu agent o per un empleat editorial a fi de guanyar-se la seua confiança. I quan aconseguia el botí no intentava traure’n profit: ni revenia els llibres, ni els filtrava, ni sotmetia els autors a cap mena de xantatge. No tornaven a saber res d’ell. Margaret Atwood o Ian McEwan van ser il·lustres víctimes seues, entre d’altres.
 

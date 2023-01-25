@@ -4,9 +4,11 @@ title = ""
 date = "2019-06-17T13:52:00+00:00"
 slug = "patients-spent-weeks"
 tags = ["retalls"]
+x_url = "https://www.amusingplanet.com/2019/06/cunningham-sanitarium.html"
+x_title = "Cunningham Sanitarium"
+x_source = ""
 +++
 
-📎 [Cunningham Sanitarium](https://www.amusingplanet.com/2019/06/cunningham-sanitarium.html)
 
 Els pacients passaven setmanes dins d’una esfera d’acer gegant —de cinc pisos— respirant aire al doble de la pressió atmosfèrica normal. El doctor Cunningham va ser un pioner d’aquesta teràpia —[oli de serp](https://en.wikipedia.org/wiki/Snake_oil)— d'oxigen hiperbàric.
 

@@ -4,9 +4,11 @@ title = ""
 date = "2017-01-12T17:01:00+00:00"
 slug = "la-historia-del"
 tags = ["retalls"]
+x_url = "http://www.eldiario.es/theguardian/Trump-Putin-aeropuerto-espionaje_0_600890031.html"
+x_title = "La historia del informe sobre Trump: fuentes secretas, un encuentro en un aeropuerto y John McCain"
+x_source = ""
 +++
 
-📎 [La historia del informe sobre Trump: fuentes secretas, un encuentro en un aeropuerto y John McCain](http://www.eldiario.es/theguardian/Trump-Putin-aeropuerto-espionaje_0_600890031.html)
 
 Jo crec que una escena com aquesta només podia passar en un aeroport com el de Castelló, on no deu ser habitual trobar-se ningú llegint el Financial Times. I l'espia devia viure en un poble com Benlloc, Vilanova o les Coves. O en un mas de Rosildos.
 

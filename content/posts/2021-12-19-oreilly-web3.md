@@ -3,9 +3,11 @@ title = ""
 date = "2021-12-19T19:28:53+01:00"
 tags = ["retalls"]
 slug = "oreilly-web3"
+x_url = "https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/"
+x_title = "Why it's too early to get excited about Web3"
+x_source = ""
 +++
 
-📎 [Why it's too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 
 Tim O’Reilly, que va [definir la Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) fa setze anys, reflexiona una mica a contracor sobre aquest futur possible. S'assembla més a la bombolla de les punt com o a la bombolla financera? Quins punts de contacte té amb el món real o amb necessitats reals, si és que en té? Quina utilitat? Quan explotarà? Què en quedarà?
 

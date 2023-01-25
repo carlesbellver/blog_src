@@ -4,9 +4,11 @@ title = ""
 date = "2018-11-29T14:31:00+00:00"
 slug = "a-very-concise"
 tags = ["retalls"]
+x_url = "http://digital-archaeology.org/a-concise-creative-history-of-computers/"
+x_title = "A (very) Concise Creative History of Computers"
+x_source = ""
 +++
 
-📎 [A (very) Concise Creative History of Computers](http://digital-archaeology.org/a-concise-creative-history-of-computers/)
 
 De les cartes d'amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en *Westworld* (1973). Amb unes reflexions finals sobre l'arqueologia digital:
 

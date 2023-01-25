@@ -4,9 +4,11 @@ title = ""
 date = "2018-10-29T09:05:00+00:00"
 slug = "humancaused-biases-we"
 tags = ["retalls"]
+x_url = "https://thenextweb.com/contributors/2018/10/27/4-human-caused-biases-machine-learning/"
+x_title = "4 human-caused biases we need to fix for machine learning"
+x_source = ""
 +++
 
-📎 [4 human-caused biases we need to fix for machine learning](https://thenextweb.com/contributors/2018/10/27/4-human-caused-biases-machine-learning/)
 
   1. Biaix de la mostra: les dades utilitzades per a entrenar el model no són prou representatives.
   2. Biaix de prejudicis: les dades estan influenciades per estereotips culturals o d'altres tipus.

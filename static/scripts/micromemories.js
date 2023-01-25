@@ -13,19 +13,19 @@ function renderPost(post) {
   ElHTML = ''
   var d = Date.parse(post.date_published)
   var date_s = new Date(d).toISOString().substr(0, 10);
-  ElHTML += '<p><a href="'+post.url+'">'+date_s+'</a>'
+  ElHTML += '<p><a href="'+post.url+'" class="u-url dt">'+date_s+'</a>'
   /* if (post.photos[0]) { */
   if (post.tags.includes("fotos")) {
     ElHTML += " &#x1F5BC;"
   }
-  if (post.title != '') {
-    ElHTML += ' <a href="'+post.url+'">'+post.title+'</a>'
+  if (post.title != undefined && post.title != '') {
+    ElHTML += ' <a href="'+post.url+'" class="u-url">'+post.title+'</a>'
   }
   var s = post.content_text;
   if (s.length > 200) {
     s = s.substr(0, 200) + "…"
   }
-  ElHTML += ' <span>'+s+'</span></p>'
+  ElHTML += ' <span class="summary"><a href="'+post.url+'" class="summary">'+s+'</a></span></p>'
   return ElHTML
 }
 

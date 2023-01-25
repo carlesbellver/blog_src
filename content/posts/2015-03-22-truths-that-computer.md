@@ -4,9 +4,11 @@ title = ""
 date = "2015-03-22T23:00:00+00:00"
 slug = "truths-that-computer"
 tags = ["retalls"]
+x_url = "http://macleodsawyer.com/2015/03/06/nine-truths-computer-programmers-know-that-most-people-dont/"
+x_title = "9 Truths Computer Programmers Know That Most People Don't"
+x_source = ""
 +++
 
-📎 [9 Truths Computer Programmers Know That Most People Don't](http://macleodsawyer.com/2015/03/06/nine-truths-computer-programmers-know-that-most-people-dont/)
 
 > 1. Sota el capó, la majoria del programari crític que utilitzeu cada dia conté un nombre aterridor de trucs i dreceres que a penes encaixen en un conjunt funcional.
 > 2. Al voltant del 25 % de les hores de programació d'una aplicació es dediquen a esbrinar quines coses farà malament l'usuari final.

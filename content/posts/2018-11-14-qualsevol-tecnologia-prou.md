@@ -4,9 +4,11 @@ title = ""
 date = "2018-11-14T16:16:00+00:00"
 slug = "qualsevol-tecnologia-prou"
 tags = ["retalls"]
+x_url = "http://lab.cccb.org/ca/arthur-c-clarke-qualsevol-tecnologia-prou-avancada-es-indistingible-de-la-magia/"
+x_title = "«Qualsevol tecnologia prou avançada és indistingible de la màgia.»"
+x_source = ""
 +++
 
-📎 [«Qualsevol tecnologia prou avançada és indistingible de la màgia.»](http://lab.cccb.org/ca/arthur-c-clarke-qualsevol-tecnologia-prou-avancada-es-indistingible-de-la-magia/)
 
 CCCBLAB. Sis visions lliures de la citació de Clarke:
 

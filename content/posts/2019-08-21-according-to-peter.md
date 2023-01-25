@@ -4,9 +4,11 @@ title = ""
 date = "2019-08-21T09:48:00+00:00"
 slug = "according-to-peter"
 tags = ["retalls"]
+x_url = "https://singularityhub.com/2019/08/20/these-are-the-meta-trends-shaping-the-future-at-breakneck-speed/"
+x_title = "These Are the Meta-Trends Shaping the Future (at Breakneck Speed)"
+x_source = ""
 +++
 
-📎 [These Are the Meta-Trends Shaping the Future (at Breakneck Speed)](https://singularityhub.com/2019/08/20/these-are-the-meta-trends-shaping-the-future-at-breakneck-speed/)
 
 Segons Peter Diamandis, de la Singularity University:
 

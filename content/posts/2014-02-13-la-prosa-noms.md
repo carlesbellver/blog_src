@@ -4,6 +4,9 @@ title = "La prosa només és bona en la mesura que s'apropa a la poesia"
 date = "2014-02-13T23:00:00+00:00"
 slug = "la-prosa-noms"
 tags = ["citacions", "retalls"]
+x_url = "http://www.theparisreview.org/interviews/2642/the-art-of-fiction-no-96-francine-du-plessix-gray"
+x_title = "Paris Review - The Art of Fiction No. 96"
+x_source = "Francine du Plessix Gray"
 +++
 
 > La prosa només és bona en tant que s'apropa a la condició de la poesia: aquella condició en què no es pot canviar un ritme, ni una partícula de so, sense molestar tota la pàgina.

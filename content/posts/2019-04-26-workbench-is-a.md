@@ -4,8 +4,10 @@ title = ""
 date = "2019-04-26T08:00:00+00:00"
 slug = "workbench-is-a"
 tags = ["retalls"]
+x_url = "https://source.opennews.org/articles/workbench-data-journalism-open-source-platform/"
+x_title = "Workbench: open source data journalism platform"
+x_source = ""
 +++
 
-📎 [Workbench: open source data journalism platform](https://source.opennews.org/articles/workbench-data-journalism-open-source-platform/)
 
 Obtenir dades (incloent *scraping*), netejar-les, analitzar-les, visualitzar-les i compartir-les.

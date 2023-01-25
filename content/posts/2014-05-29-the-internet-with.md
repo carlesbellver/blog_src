@@ -4,9 +4,11 @@ title = ""
 date = "2014-05-29T22:00:00+00:00"
 slug = "the-internet-with"
 tags = ["retalls"]
+x_url = "http://idlewords.com/bt14.htm"
+x_title = "The Internet With A Human Face"
+x_source = ""
 +++
 
-📎 [The Internet With A Human Face](http://idlewords.com/bt14.htm)
 
 Transcripció d’una conferència de Maciej Cegłowski. Crítica de la cultura del món en línia. La Internet registra i recorda massa coses: *Bug or feature?*
 

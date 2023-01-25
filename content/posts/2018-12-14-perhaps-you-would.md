@@ -4,9 +4,11 @@ title = ""
 date = "2018-12-14T07:26:00+00:00"
 slug = "perhaps-you-would"
 tags = ["retalls"]
+x_url = "https://qz.com/1494831/penguin-infested-pebble-island-in-the-falklands-is-up-for-sale/"
+x_title = "Perhaps you would like to own your own Falkland Island, complete with penguins"
+x_source = ""
 +++
 
-📎 [Perhaps you would like to own your own Falkland Island, complete with penguins](https://qz.com/1494831/penguin-infested-pebble-island-in-the-falklands-is-up-for-sale/)
 
 > Malgrat la platja de còdols de quatre milles, no es tracta de cap paradís tropical. El clima s'assembla més aviat al de Gal·les, o potser al nord d'Oregon: molta, molta pluja, intercalada amb plugim, boira i aiguats ocasionals.
 

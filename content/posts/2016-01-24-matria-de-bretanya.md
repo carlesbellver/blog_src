@@ -4,6 +4,7 @@ title = "Matèria de Bretanya"
 date = "2016-01-24T23:00:00+00:00"
 slug = "matria-de-bretanya"
 tags = ["ressenyes", "citacions"]
+x_title = "Matèria de Bretanya"
 +++
 
 <img src="https://www.escriptors.cat/sites/default/files/styles/medium/public/2019-02/5219materiabretanya.g.jpg?itok=lusHxDQO" style="height: 250px; width: auto;" />

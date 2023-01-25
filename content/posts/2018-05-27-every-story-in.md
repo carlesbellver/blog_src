@@ -4,9 +4,11 @@ title = ""
 date = "2018-05-27T21:07:00+00:00"
 slug = "every-story-in"
 tags = ["retalls"]
+x_url = "http://www.bbc.com/culture/story/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots"
+x_title = "Every story in the world has one of these six basic plots"
+x_source = ""
 +++
 
-📎 [Every story in the world has one of these six basic plots](http://www.bbc.com/culture/story/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots)
 
 Mitjançant l'[anàlisi de sentiment](https://ca.wikipedia.org/wiki/Anàlisi_de_sentiment) —una tècnica estadística aplicada sovint a missatges de xarxes socials— el Computational Story Lab de la Universitat de Vermont ha minat més de mil set-centes novel·les en anglès per revelar sis tipus bàsics de trames:
 

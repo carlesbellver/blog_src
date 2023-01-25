@@ -4,9 +4,11 @@ title = ""
 date = "2018-12-11T12:57:00+00:00"
 slug = "narradors-virtuals-o"
 tags = ["retalls"]
+x_url = "http://lab.cccb.org/ca/narradors-virtuals-o-el-teatre-abans-de-shakespeare/"
+x_title = "Narradors virtuals, o el teatre abans de Shakespeare"
+x_source = ""
 +++
 
-📎 [Narradors virtuals, o el teatre abans de Shakespeare](http://lab.cccb.org/ca/narradors-virtuals-o-el-teatre-abans-de-shakespeare/)
 
 Quatre paraules clau: immersió, interacció, empatia i exploració.
 

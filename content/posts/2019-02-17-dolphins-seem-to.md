@@ -4,9 +4,11 @@ title = ""
 date = "2019-02-17T10:29:00+00:00"
 slug = "dolphins-seem-to"
 tags = ["retalls", "drogues"]
+x_url = "https://www.smithsonianmag.com/smart-news/dolphins-seem-to-use-toxic-pufferfish-to-get-high-180948219/"
+x_title = "Dolphins Seem to Use Toxic Pufferfish to Get High"
+x_source = ""
 +++
 
-📎 [Dolphins Seem to Use Toxic Pufferfish to Get High](https://www.smithsonianmag.com/smart-news/dolphins-seem-to-use-toxic-pufferfish-to-get-high-180948219/)
 
 En un documental de la BBC, un grup de dofins assetgen i provoquen un peix globus fins que, aterrit, allibera el seu verí.
 

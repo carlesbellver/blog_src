@@ -4,9 +4,11 @@ title = ""
 date = "2015-04-08T22:00:00+00:00"
 slug = "sir-ken-robinson"
 tags = ["retalls", "educació"]
+x_url = "http://donaldclarkplanb.blogspot.com/2015/04/sir-ken-robinson-creative-with-truth.html"
+x_title = "Sir Ken Robinson: ‘Creative’ with the truth?"
+x_source = ""
 +++
 
-📎 [Sir Ken Robinson: ‘Creative’ with the truth?](http://donaldclarkplanb.blogspot.com/2015/04/sir-ken-robinson-creative-with-truth.html)
 
 Sir Ken Robinson s’ha guanyat una fama notable com a conferenciant. Llàstima que el seu discurs sobre els defectes del sistema educatiu resulti tan lleuger: una sèrie de llocs comuns, adornats amb anècdotes i escassos de base teòrica o empírica. O fins i tot trampós: el mantra de la creativitat difícilment justifica manipular dades. Donald Clark explica prou bé el cas en aquest apunt.
 

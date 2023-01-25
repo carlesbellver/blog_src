@@ -84,7 +84,7 @@ h1, h2, h3 {
   font-family: var(--font-heading);
   font-weight: 300;
   text-transform: uppercase;
-  line-height: 1.2;
+  line-height: 1.33;
   text-align: left;
 }
 
@@ -395,20 +395,52 @@ h1.blog-title {
 }
 
 h1.post-title {
-  margin: 0.5em 0;
+  margin: 0.5em 0 1em;
   font-family: var(--font-heading);
 }
 
-.post-list h1.post-title {
+.post-list {
+  font-size: 16px;
 }
 
 .post-short-list:first-of-type {
     margin-top: 10px;
 }
 
-.post-list .dt-published {
+.post-list h1.post-title {
+}
+
+.post-list a.u-url {
+  display: inline;
   font-family: var(--font-details);
-  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.post-list .dt-published, .post-list .dt {
+  font-family: var(--font-details);
+  color: var(--font-color);
+}
+
+.post-list a:hover .dt-published {
+  color: var(--link-color);
+}
+
+.post-list .p-summary a, .post-list .summary {
+  font-family: var(--font-details);
+  color: var(--font-color);
+}
+
+.post-list .p-summary a:hover {
+  font-family: var(--font-details);
+  color: var(--link-color);
+}
+
+.post-list img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 40px;
+  height: auto;
 }
 
 /* Articles */
@@ -497,6 +529,16 @@ main article .content:after {
 
 article header h1 a {
     color: var(--font-color);
+    border: none;
+    text-decoration: none;
+}
+
+article header h1.external {
+    font-size: 32px;
+}
+
+article header h1.external a {
+    color: var(--link-state-color);
     border: none;
     text-decoration: none;
 }

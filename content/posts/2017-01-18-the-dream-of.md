@@ -4,9 +4,11 @@ title = ""
 date = "2017-01-18T23:00:00+00:00"
 slug = "the-dream-of"
 tags = ["retalls"]
+x_url = "http://venturebeat.com/2017/01/10/inside-project-ara-googles-revolutionary-modular-phone/"
+x_title = "The dream of Ara: Inside the rise and fall of the world's most revolutionary phone"
+x_source = ""
 +++
 
-📎 [The dream of Ara: Inside the rise and fall of the world's most revolutionary phone](http://venturebeat.com/2017/01/10/inside-project-ara-googles-revolutionary-modular-phone/)
 
 Micos (o ossos) marins dins del teu telèfon. Projecte cancel·lat.
 

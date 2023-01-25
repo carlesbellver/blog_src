@@ -4,9 +4,11 @@ title = ""
 date = "2020-06-14T18:14:00+00:00"
 slug = "art-kavanagh-posts"
 tags = ["retalls"]
+x_url = "https://www.artkavanagh.ie/aphantasia-posts.html"
+x_title = "Art Kavanagh posts about aphantasia"
+x_source = ""
 +++
 
-📎 [Art Kavanagh posts about aphantasia](https://www.artkavanagh.ie/aphantasia-posts.html)
 
 Aquesta [condició](https://en.wikipedia.org/wiki/Aphantasia) és, també en el meu cas, una cosa que he descobert darrerament sobre mi. Els apunts i reflexions d’aquest autor sobre el tema m’estan resultant molt interessants.
 

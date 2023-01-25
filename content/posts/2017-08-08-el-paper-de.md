@@ -4,9 +4,11 @@ title = ""
 date = "2017-08-08T07:56:00+00:00"
 slug = "el-paper-de"
 tags = ["retalls"]
+x_url = "http://blocs.mesvilaweb.cat/xavierdiez/?p=269999"
+x_title = "El paper de la violència en la Transició"
+x_source = ""
 +++
 
-📎 [El paper de la violència en la Transició](http://blocs.mesvilaweb.cat/xavierdiez/?p=269999)
 
 Xavier Diez ressenya el llibre de Xavier Casals *La Transición española: el voto ignorado de las armas*. Amb més de sis-cents morts en més de dues mil accions violentes documentades, la transició del franquisme a la democràcia va ser molt menys pacífica i exemplar del que vol fer creure la propaganda oficial. Però la tesi de l'autor és que la violència, paradoxalment, ajudà a consolidar la reforma del sistema.
 

@@ -4,9 +4,11 @@ title = ""
 date = "2020-03-13T18:57:00+00:00"
 slug = "the-reference-to"
 tags = ["retalls"]
+x_url = "https://www.amusingplanet.com/2020/03/the-earliest-depiction-of-jesus-was.html"
+x_title = "The Earliest Depiction of Jesus Was a Mocking Tribute to Christianity"
+x_source = ""
 +++
 
-📎 [The Earliest Depiction of Jesus Was a Mocking Tribute to Christianity](https://www.amusingplanet.com/2020/03/the-earliest-depiction-of-jesus-was.html)
 
 El grafit d'Alexamenos. Roma, entre el segle I i el segle III. Crist crucificat amb cap d'ase.
 

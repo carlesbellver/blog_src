@@ -3,9 +3,11 @@ title = ""
 date = "2021-03-31T15:45:46+02:00"
 tags = ["retalls"]
 slug = "nft-dangerous-trap"
+x_url = "https://seths.blog/2021/03/nfts-are-a-dangerous-trap/"
+x_title = "NFTs are a dangerous trap"
+x_source = ""
 +++
 
-📎 [NFTs are a dangerous trap](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 
 > Com la majoria de paranys, són misteriosos, després atractius i aleshores ja és massa tard.
 > 

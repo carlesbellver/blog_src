@@ -4,9 +4,11 @@ title = ""
 date = "2019-01-22T10:22:00+00:00"
 slug = "why-data-is"
 tags = ["retalls"]
+x_url = "https://www.thenewatlantis.com/publications/why-data-is-never-raw"
+x_title = "Why Data Is Never Raw"
+x_source = ""
 +++
 
-📎 [Why Data Is Never Raw](https://www.thenewatlantis.com/publications/why-data-is-never-raw)
 
 Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades.
 

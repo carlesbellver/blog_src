@@ -4,9 +4,11 @@ title = ""
 date = "2019-03-22T13:51:00+00:00"
 slug = "is-jodorowskys-dune"
 tags = ["retalls"]
+x_url = "http://www.bbc.com/culture/story/20190312-is-jodorowskys-dune-the-greatest-film-never-made"
+x_title = "Is Jodorowsky’s Dune the greatest film never made?"
+x_source = ""
 +++
 
-📎 [Is Jodorowsky’s Dune the greatest film never made?](http://www.bbc.com/culture/story/20190312-is-jodorowskys-dune-the-greatest-film-never-made)
 
 Ara que s’anuncia una nova versió cinematogràfica de la novel·la de Frank Herbert, seria bo recordar un intent anterior: no la versió de David Lynch de 1984, sinó la que no es va arribar a rodar deu anys abans, aquella en la qual Dalí aspirava a interpretar el paper d’emperador per cent mil dòlars l’hora, i que es va quedar només en un extens *storyboard*.
 

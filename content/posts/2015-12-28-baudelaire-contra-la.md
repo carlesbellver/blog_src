@@ -4,6 +4,7 @@ title = "Baudelaire contra la premsa i amb els blogs"
 date = "2015-12-28T23:00:00+00:00"
 slug = "baudelaire-contra-la"
 tags = ["ressenyes"]
+x_title = "Trenta-tres nits amb Baudelaire"
 +++
 
 > El “petit diari” burxava el “diari de gran format”; els blogs i les xarxes són els nostres diaris petits d’ara. Sense ells, a vegades ens vindrien ganes de desaparèixer. D’anar a qualsevol lloc fora del món digital.

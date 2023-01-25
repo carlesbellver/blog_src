@@ -4,9 +4,11 @@ title = ""
 date = "2018-12-11T08:36:00+00:00"
 slug = "your-apps-know"
 tags = ["retalls"]
+x_url = "https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html"
+x_title = "Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret"
+x_source = ""
 +++
 
-📎 [Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
 
 Diversos tipus d'aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:
 

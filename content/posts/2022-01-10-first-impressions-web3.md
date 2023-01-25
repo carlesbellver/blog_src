@@ -3,9 +3,11 @@ title = ""
 date = "2022-01-10T17:31:26+01:00"
 tags = ["retalls"]
 slug = "first-impressions-web3"
+x_url = "https://moxie.org/2022/01/07/web3-first-impressions.html"
+x_title = "Moxie Marlinspike >> My first impressions of web3"
+x_source = ""
 +++
 
-📎 [Moxie Marlinspike >> My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
 > Per fer utilitzables aquestes tecnologies, l'espai s'està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.
 

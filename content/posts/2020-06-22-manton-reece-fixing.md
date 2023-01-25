@@ -4,9 +4,11 @@ title = ""
 date = "2020-06-22T14:43:01+00:00"
 slug = "manton-reece-fixing"
 tags = ["retalls"]
+x_url = "https://www.manton.org/2020/06/22/fixing-the-app.html"
+x_title = "Fixing the App Store for developers"
+x_source = "Manton Reece"
 +++
 
-📎 Manton Reece: [Fixing the App Store for developers](https://www.manton.org/2020/06/22/fixing-the-app.html)
 
 > Here are the 4 things Apple should do:
 > 

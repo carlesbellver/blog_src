@@ -4,9 +4,11 @@ title = ""
 date = "2019-01-09T11:47:00+00:00"
 slug = "mariano-fernndez-enguita"
 tags = ["retalls", "educació"]
+x_url = "http://blog.enguita.info/2019/01/la-singularidad-escolar-ya-esta-aqui.html"
+x_title = "La singularidad escolar ya está aquí"
+x_source = "Mariano Fernández Enguita"
 +++
 
-📎 Mariano Fernández Enguita: [La singularidad escolar ya está aquí](http://blog.enguita.info/2019/01/la-singularidad-escolar-ya-esta-aqui.html)
 
 És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d'allí s'està traslladant a altres àmbits.
 

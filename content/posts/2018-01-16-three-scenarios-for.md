@@ -4,9 +4,11 @@ title = ""
 date = "2018-01-16T08:53:00+00:00"
 slug = "three-scenarios-for"
 tags = ["retalls"]
+x_url = "https://twitter.com/nicolas_colin/status/951421093222510592"
+x_title = "Three scenarios for the new age"
+x_source = ""
 +++
 
-📎 [Three scenarios for the new age](https://twitter.com/nicolas_colin/status/951421093222510592")
 
 Nicolas Colin: l'hegemonia mundial al segle XXI. Qui liderarà el nou paradigma? Xina? La Unió Europea? Les noves nacions d'Internet o estats en xarxa fundats per Silicon Valley?
 

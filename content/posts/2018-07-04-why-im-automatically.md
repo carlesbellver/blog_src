@@ -4,9 +4,11 @@ title = ""
 date = "2018-07-04T09:50:00+00:00"
 slug = "why-im-automatically"
 tags = ["retalls"]
+x_url = "https://vickylai.com/verbose/delete-old-tweets-ephemeral/"
+x_title = "Why I'm automatically deleting my old tweets"
+x_source = ""
 +++
 
-📎 [Why I'm automatically deleting my old tweets](https://vickylai.com/verbose/delete-old-tweets-ephemeral/)
 
 Els tuits haurien de ser efímers.
 

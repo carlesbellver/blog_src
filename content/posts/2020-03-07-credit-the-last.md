@@ -4,9 +4,11 @@ title = ""
 date = "2020-03-07T18:41:00+00:00"
 slug = "credit-the-last"
 tags = ["retalls"]
+x_url = "https://quoteinvestigator.com/2020/03/06/three-plots/"
+x_title = "There Are Three Main Plots for the Human Interest Story: Boy-Meets-Girl, The Little Tailor, and The Man-Who-Learned-Better"
+x_source = ""
 +++
 
-📎 [There Are Three Main Plots for the Human Interest Story: Boy-Meets-Girl, The Little Tailor, and The Man-Who-Learned-Better](https://quoteinvestigator.com/2020/03/06/three-plots/)
 
 > La darrera categoria és una aportació de L. Ron Hubbard; jo havia pensat durant anys que només hi havia dos arguments: ell em va assenyalar el tercer tipus.
 

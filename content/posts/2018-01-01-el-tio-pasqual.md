@@ -4,9 +4,11 @@ title = "El tio Pasqual i Nel·lo el Tripero"
 date = "2018-01-01T13:10:00+00:00"
 slug = "el-tio-pasqual"
 tags = ["retalls"]
+x_url = "https://gitanizate.wordpress.com/2017/12/19/pasqual-martinez-i-garcia-escritor-gitano-valenciano-del-siglo-xix/"
+x_title = "Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX"
+x_source = ""
 +++
 
-📎 [Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX](https://gitanizate.wordpress.com/2017/12/19/pasqual-martinez-i-garcia-escritor-gitano-valenciano-del-siglo-xix/)
 
 <img src="/wp-content/uploads/2018/01/Nelo.jpg" class="alignnone size-medium wp-image-769" width="300" height="300" alt="Portada del llibre: Rahonament y coloqui nou de Nelo el Tripero">
 

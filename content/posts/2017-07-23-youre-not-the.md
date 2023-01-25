@@ -4,9 +4,11 @@ title = ""
 date = "2017-07-23T16:50:00+00:00"
 slug = "youre-not-the"
 tags = ["retalls","citacions"]
+x_url = "http://quoteinvestigator.com/2017/07/16/product/"
+x_title = "You’re Not the Customer; You’re the Product"
+x_source = ""
 +++
 
-📎 [You’re Not the Customer; You’re the Product](http://quoteinvestigator.com/2017/07/16/product/)
 
 La història completa d'aquesta citació, que tant es repeteix i que originalment no es referia a Internet, sinó a la televisió. Richard Serra, 1973:
 

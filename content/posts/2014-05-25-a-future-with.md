@@ -4,9 +4,11 @@ title = ""
 date = "2014-05-25T22:00:00+00:00"
 slug = "a-future-with"
 tags = ["retalls", "educació"]
+x_url = "http://www.hackeducation.com/2013/10/15/minding-the-future-openva/"
+x_title = "A Future With Only 10 Universities"
+x_source = ""
 +++
 
-📎 [A Future With Only 10 Universities](http://www.hackeducation.com/2013/10/15/minding-the-future-openva/)
 
 Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun): “En cinquanta anys… només hi haurà al món deu institucions d'educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i *big data*, etc.
 

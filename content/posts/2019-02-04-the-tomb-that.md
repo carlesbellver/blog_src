@@ -4,9 +4,11 @@ title = ""
 date = "2019-02-04T13:12:00+00:00"
 slug = "the-tomb-that"
 tags = ["retalls"]
+x_url = "https://www.amusingplanet.com/2019/02/the-tomb-that-inspired-londons-iconic.html"
+x_title = "The Tomb That Inspired Britain's Iconic Telephone Box"
+x_source = ""
 +++
 
-📎 [The Tomb That Inspired Britain's Iconic Telephone Box](https://www.amusingplanet.com/2019/02/the-tomb-that-inspired-londons-iconic.html)
 
 El disseny original de la famosa cabina telefònica roja, tan típicament britànica, es basava en la tomba de l'esposa de l'arquitecte John Soane. Per si —els de la meva quinta— no vau tenir prou amb la pel·lícula d'Antonio Mercero, protagonitzada per José Luis López Vázquez.
 

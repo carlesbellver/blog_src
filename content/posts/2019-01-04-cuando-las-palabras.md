@@ -4,9 +4,11 @@ title = ""
 date = "2019-01-04T23:01:00+00:00"
 slug = "cuando-las-palabras"
 tags = ["retalls"]
+x_url = "https://elpais.com/elpais/2018/12/13/ciencia/1544704324_116932.amp.html"
+x_title = "Cuando las palabras médicas las carga el diablo"
+x_source = ""
 +++ 
 
-📎  [Cuando las palabras médicas las carga el diablo](https://elpais.com/elpais/2018/12/13/ciencia/1544704324_116932.amp.html)  
 
 Les cèl·lules de Clara, la síndrome d’Asperger o la de Reiter, la granulomatosi de Wegener, la malaltia de Seitelberger o la de Hallervorden–Spatz…  
 

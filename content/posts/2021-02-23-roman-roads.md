@@ -3,9 +3,11 @@ title = ""
 date = "2021-02-23T19:49:05+01:00"
 tags = ["retalls"]
 slug = "roman-roads"
+x_url = "https://sashamaps.net/docs/maps/roman-roads-index/"
+x_title = "Roman Roads Index | Sasha Trubetskoy"
+x_source = ""
 +++
 
-📎 [Roman Roads Index | Sasha Trubetskoy](https://sashamaps.net/docs/maps/roman-roads-index/)
 
 Mapes de les carreteres romanes amb l'estil visual dels plànols de línies de metro. L'Imperi complet, la Gran Bretanya, Itàlia, Ibèria i la Gàl·lia.
 

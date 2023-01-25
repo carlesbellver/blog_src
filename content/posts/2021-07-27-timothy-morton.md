@@ -3,9 +3,11 @@ title = ""
 date = "2021-07-27T18:29:31+02:00"
 tags = ["retalls"]
 slug = "timothy-morton"
+x_url = "https://www.lavanguardia.com/cultura/20210727/7626653/ecologia-naturaleza-timothy-morton-eficiencia-creatividad-trump-arte-futuro-fascismo.html"
+x_title = "Timothy Morton: “Al hablar de ecología hacemos sentir a la gente estúpida y malvada todo el tiempo”"
+x_source = ""
 +++
 
-📎 [Timothy Morton: “Al hablar de ecología hacemos sentir a la gente estúpida y malvada todo el tiempo”](https://www.lavanguardia.com/cultura/20210727/7626653/ecologia-naturaleza-timothy-morton-eficiencia-creatividad-trump-arte-futuro-fascismo.html)
 
 Vivim el final d'una època que ve de la revolució neolítica. “El capitalisme es un procés algorísmic, extreure vida de la biosfera de manera més i més eficient sense parar”. Caldrà creativitat per eixir-se'n. Deixar de parlar de *naturalesa*, per exemple, com quelcom a banda de nosaltres, o de *sostenibilitat*, perquè aquest sistema és insostenible. I al voltant de tot això, una part essencial de la nostra concepció del món està morint: la idea que els homes blancs manen de tot.
 

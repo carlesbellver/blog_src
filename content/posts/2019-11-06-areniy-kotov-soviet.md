@@ -4,6 +4,9 @@ title = ""
 date = "2019-11-06T18:31:09+00:00"
 slug = "areniy-kotov-soviet"
 tags = ["retalls"]
+x_url = "https://www.atlasobscura.com/articles/soviet-architecture-photos"
+x_title = "A Photographer's Ode to Everyday Soviet Architecture"
+x_source = ""
 +++
 
 Areniy Kotov, *Soviet Cities: Labour, Life &amp; Leisure*:

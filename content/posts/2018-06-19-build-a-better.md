@@ -4,9 +4,11 @@ title = ""
 date = "2018-06-19T13:56:00+00:00"
 slug = "build-a-better"
 tags = ["retalls"]
+x_url = "http://idlewords.com/talks/build_a_better_monster.htm"
+x_title = "Build a Better Monster: Morality, Machine Learning, and Mass Surveillance"
+x_source = ""
 +++
 
-📎 [Build a Better Monster: Morality, Machine Learning, and Mass Surveillance](http://idlewords.com/talks/build_a_better_monster.htm)
 
 Maciej Cegłowski: la base econòmica de la Internet és la vigilància. Les solucions a curt termini (seguretat, fugacitat i retirada de fons) són factibles, però necessitem canvis estructurals.
 

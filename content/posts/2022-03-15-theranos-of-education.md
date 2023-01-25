@@ -3,9 +3,11 @@ title = ""
 date = "2022-03-15T10:24:37+01:00"
 tags = ["retalls", "educació"]
 slug = "theranos-of-education"
+x_url = "https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education"
+x_title = "Who is the Theranos of Education?"
+x_source = ""
 +++
 
-📎 [Who is the Theranos of Education?](https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education)
 
 Theranos, l'empresa del sector de la biotecnologia que va intentar enganyar a tothom amb fantasioses tècniques d'anàlisi de sang… i ho va aconseguir durant un temps. Podria passar això en el món de l'educació? O ja ha passat? Dos casos molt semblants: tant Altschool (escoles amb tecnologies avançades) com Knewton (programari per a l'aprenentatge adaptatiu) havien de revolucionar l'educació i es van esvair en pocs anys.
 

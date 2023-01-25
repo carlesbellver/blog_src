@@ -4,6 +4,7 @@ title = ""
 date = "2019-07-09T21:42:28+00:00"
 slug = "llegit-miquel-torres"
 tags = ["ressenyes"]
+x_title = "Temps de rock’n’roll"
 +++
 
 📖 Llegit: Miquel Torres, [*Temps de rock'n'roll*](https://valenciaplaza.com/el-rock-el-temps-i-miquel-torres).

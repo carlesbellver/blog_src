@@ -4,9 +4,11 @@ title = ""
 date = "2018-12-20T15:14:00+00:00"
 slug = "widespread-blurring-of"
 tags = ["retalls"]
+x_url = "https://fas.org/blogs/security/2018/12/widespread-blurring-of-satellite-images-reveals-secret-facilities/"
+x_title = "Widespread Blurring of Satellite Images Reveals Secret Facilities"
+x_source = ""
 +++
 
-📎 [Widespread Blurring of Satellite Images Reveals Secret Facilities](https://fas.org/blogs/security/2018/12/widespread-blurring-of-satellite-images-reveals-secret-facilities/)
 
 Yandex —el Google rus— ha acceptat difuminar en els seus mapes certes localitzacions d'Israel i Túrquia. I això té conseqüències potser inesperades.
 

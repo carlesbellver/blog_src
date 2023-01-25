@@ -57,6 +57,9 @@ function runSearch(q) {
       for (var i = 0; i < archive_items.length; i++) {
         var score = 0;
         var item = archive_items[i];
+        if (item.title == undefined) {
+          item.title = "";
+        }
         var title_lower = chrCleanup(item.title).toLowerCase();
         var tags_lower = chrCleanup(item.tags).toLowerCase();
         var text_lower = chrCleanup(item.content_text).toLowerCase();
@@ -125,6 +128,7 @@ function displayResults(results) {
     var link_node = document.createElement("a");
     if (results[i]["date_published"].substring(0, 3) != "000" && results[i]["date_published"].substring(0, 3) != "197") {
       link_node.classList.add("dt-published");
+      link_node.classList.add("u-url");
       var d = Date.parse(results[i]["date_published"]);
       var date_s = new Date(d).toISOString().substr(0, 10);
       var date_node = document.createTextNode(date_s); 
@@ -132,14 +136,26 @@ function displayResults(results) {
     }
     link_node.href = results[i]["url"];
     var title_node = null;
-    if (results[i]["title"].length > 0) {
+    if (results[i]["title"] && results[i]["title"].length > 0) {
       title_node = document.createElement("span");
-      title_node.innerHTML = ' <a href="'+results[i]["url"]+'">' + results[i]["title"] + "</a>"
-      s = results[i]["title"] + " " + results[i]["content_text"];
+      title_node.innerHTML = ' <a class="u-url" href="'+results[i]["url"]+'">' + results[i]["title"] + "</a>"
+      /* s = results[i]["title"] + " " + results[i]["content_text"]; */
     }
+    else {
+      var s = results[i]["content_text"];
+      if (s.length > 100) {
+        s = s.substr(0, 100) + "…";
+      }
+      title_node = document.createElement("span");
+      if (results[i]["tags"].includes("fotos")) {
+        title_node.innerHTML = " &#x1F5BC;"
+      }
+      title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary"><a href="'+results[i]["url"]+'">'+s+"</a></span>";
+    }
+/*    
     var s = results[i]["content_text"];
     if (s.length > 200) {
-      s = s.substr(0, 200) + "…";
+      s = s.substr(0, 100) + "…";
     }
     var text_node = document.createElement("span");
     text_node.innerHTML = " " + s;
@@ -149,10 +165,12 @@ function displayResults(results) {
       pic_node.innerHTML = " &#x1F5BC;"
       p_node.appendChild(pic_node);
     }
+*/
+    p_node.appendChild(link_node);
     if (title_node != null) {
       p_node.appendChild(title_node);
     }
-    p_node.appendChild(text_node);
+    /* p_node.appendChild(text_node); */
     results_node.appendChild(p_node);
   }
 }

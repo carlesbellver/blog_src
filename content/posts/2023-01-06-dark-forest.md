@@ -4,9 +4,11 @@ date = "2023-01-06T20:02:14+01:00"
 tags = ["retalls"]
 slug = "dark-forest"
 syndication = ["https://mastodon.social/@carlesbellver/109643887047275149"]
+x_url = "https://maggieappleton.com/ai-dark-forest"
+x_title = "The Expanding Dark Forest and Generative AI"
+x_source = ""
 +++
 
-📎 [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
 
 > La [teoria del bosc fosc](https://maggieappleton.com/cozy-web) de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d'espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, "creadors de contingut" farcits de paraules clau i brossa manipulada algorítmicament.
 

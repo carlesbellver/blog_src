@@ -4,9 +4,11 @@ title = ""
 date = "2018-12-25T11:30:00+00:00"
 slug = "artificial-intelligence-creates"
 tags = ["retalls"]
+x_url = "http://www.openculture.com/2018/12/artificial-intelligence-creates-realistic-photos-of-people-none-of-whom-actually-exist.html"
+x_title = "Artificial Intelligence Creates Realistic Photos of People, None of Whom Actually Exist"
+x_source = ""
 +++
 
-📎 [Artificial Intelligence Creates Realistic Photos of People, None of Whom Actually Exist](http://www.openculture.com/2018/12/artificial-intelligence-creates-realistic-photos-of-people-none-of-whom-actually-exist.html)
 
 > …una separació no supervisada, apresa automàticament, d'atributs d'alt nivell (p. ex. posa i identitat quan s'entrena amb cares humanes) i variacions estocàstiques en les imatges generades (p. ex. pigues, cabells).
 

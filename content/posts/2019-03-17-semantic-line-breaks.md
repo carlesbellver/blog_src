@@ -4,9 +4,11 @@ title = ""
 date = "2019-03-17T14:49:00+00:00"
 slug = "semantic-line-breaks"
 tags = ["retalls"]
+x_url = "https://sembr.org/"
+x_title = "Semantic Line Breaks"
+x_source = ""
 +++
 
-📎 [Semantic Line Breaks](https://sembr.org/)
 
 Les idees simples solen ser les més productives: 
 

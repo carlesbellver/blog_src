@@ -3,9 +3,11 @@ title = ""
 date = "2021-12-24T13:10:48+01:00"
 tags = ["retalls"]
 slug = "automatic-muse"
+x_url = "https://www.roughtype.com/?p=9100"
+x_title = "The automatic muse"
+x_source = ""
 +++
 
-📎 [The automatic muse](https://www.roughtype.com/?p=9100)
 
 Nicholas Carr defensa el potencial creatiu dels algoritmes de generació automàtica de text i els compara amb les sessions d'espiritisme i escriptura automàtica de W. B. Yeats i Georgie Hyde Lees.
 

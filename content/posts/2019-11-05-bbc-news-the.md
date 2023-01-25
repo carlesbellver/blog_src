@@ -4,9 +4,11 @@ title = ""
 date = "2019-11-05T12:40:00+00:00"
 slug = "bbc-news-the"
 tags = ["retalls"]
+x_url = "https://www.bbc.com/news/av/world-africa-50126963/the-kenyan-ghost-writers-doing-lazy-western-students-work"
+x_title = "The ghost writers helping 'lazy' Western students"
+x_source = "BBC News"
 +++
 
-📎 BBC News: [The ghost writers helping 'lazy' Western students](https://www.bbc.com/news/av/world-africa-50126963/the-kenyan-ghost-writers-doing-lazy-western-students-work).
 
 A Kenya hi ha joves que es guanyen la vida (pareix que bastant bé) redactant treballs per a estudiants universitaris britànics i dels EUA. Part d'un mercat global d'uns mil milions de dòlars anuals.
 

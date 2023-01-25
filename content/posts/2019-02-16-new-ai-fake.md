@@ -4,9 +4,11 @@ title = ""
 date = "2019-02-16T18:46:00+00:00"
 slug = "new-ai-fake"
 tags = ["retalls"]
+x_url = "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction"
+x_title = "New AI fake text generator may be too dangerous to release, say creators"
+x_source = ""
 +++
 
-📎 [New AI fake text generator may be too dangerous to release, say creators](https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction)
 
 > Els creadors d'un revolucionari sistema d'intel·ligència artificial que pot redactar notícies i textos de ficció —batejat com "deepfake per a textos"— han pres la decisió inusual de no difondre públicament la seva recerca, per por de possibles usos indeguts.
 

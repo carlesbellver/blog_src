@@ -4,9 +4,11 @@ title = ""
 date = "2018-06-18T08:53:00+00:00"
 slug = "looking-for-life"
 tags = ["retalls"]
+x_url = "https://www.newyorker.com/science/elements/looking-for-life-on-a-flat-earth"
+x_title = "Looking for Life on a Flat Earth"
+x_source = ""
 +++
 
-📎 [Looking for Life on a Flat Earth](https://www.newyorker.com/science/elements/looking-for-life-on-a-flat-earth)
 
 Reportatge sobre els creients de la terra plana i les seves creences paranoiques. Pel que fa a la NASA:
 

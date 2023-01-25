@@ -23,7 +23,7 @@ paginate = 12
   readMore = true
   mainSections = ["posts"]
   indexSections = ["posts", "contes", "llibres", "taller"]
-  noPosts = 8
+  noPosts = 12
 
 [social]
   twitter = "carlesbellver"

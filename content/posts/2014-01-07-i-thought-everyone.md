@@ -4,6 +4,9 @@ title = "I thought everyone would be a blogger"
 date = "2014-01-07T23:00:00+00:00"
 slug = "i-thought-everyone"
 tags = ["citacions", "retalls"]
+x_url = "http://scripting.com/about.html"
+x_title = "About Scripting News"
+x_source = "Dave Winer"
 +++
 
 > At the beginning of blogging I thought everyone would be a blogger. I was wrong. Most people don’t have the impulse to say what they think.

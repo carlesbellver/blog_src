@@ -4,9 +4,11 @@ title = ""
 date = "2017-08-10T16:24:00+00:00"
 slug = "catalunya-patria-o"
 tags = ["retalls"]
+x_url = "http://www.lavanguardia.com/opinion/20170805/43329802265/catalunya-patria-muerte.html"
+x_title = "Catalunya: ¿patria o muerte?"
+x_source = ""
 +++
 
-📎 [Catalunya: ¿patria o muerte?](http://www.lavanguardia.com/opinion/20170805/43329802265/catalunya-patria-muerte.html)
 
 Manuel Castells en La Vanguardia. Els governs d'Espanya i Catalunya es preparen per a la confrontació. Què passarà després de l'1-O?
 

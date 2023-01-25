@@ -4,9 +4,11 @@ title = ""
 date = "2018-12-05T22:46:00+00:00"
 slug = "blockchain-study-finds"
 tags = ["retalls"]
+x_url = "https://www.theregister.co.uk/AMP/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/"
+x_title = "Blockchain study finds 0.00% success rate and vendors don't call back when asked for evidence"
+x_source = ""
 +++
 
-📎 [Blockchain study finds 0.00% success rate and vendors don't call back when asked for evidence](https://www.theregister.co.uk/AMP/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/)
 
 > Hem documentat quaranta-tres casos d'ús de cadenes de blocs… Hem trobat una proliferació de comunicats de premsa, *white papers* i articles escrits amb estil persuasiu. Però no hem trobat documentació, ni proves dels resultats que se suposava que s'obtenien amb les cadenes de blocs. Tampoc hem trobat les lliçons apreses o els coneixements pràctics que sí que estan disponibles per a altres tecnologies en desenvolupament.
 

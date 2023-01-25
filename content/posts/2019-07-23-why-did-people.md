@@ -4,9 +4,11 @@ title = ""
 date = "2019-07-23T19:05:00+00:00"
 slug = "why-did-people"
 tags = ["retalls"]
+x_url = "https://www.amusingplanet.com/2019/07/crannogs-neolithic-era-artificial.html"
+x_title = "Crannogs: Neolithic-Era Artificial Islands"
+x_source = ""
 +++
 
-📎 [Crannogs: Neolithic-Era Artificial Islands](https://www.amusingplanet.com/2019/07/crannogs-neolithic-era-artificial.html)
 
 > Per què aquella gent va invertir tant de temps, esforç i recursos tirant pedres, de fins a dues-cents cinquanta quilograms, per construir illots en un lloc on no hi havia manca de terres habitables o illes naturals, és un misteri.
 

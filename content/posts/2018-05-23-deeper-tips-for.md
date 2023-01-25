@@ -4,9 +4,11 @@ title = ""
 date = "2018-05-23T15:30:00+00:00"
 slug = "deeper-tips-for"
 tags = ["retalls"]
+x_url = "https://www.downes.ca/post/68122"
+x_title = "12 Deeper Tips for Great Public Speaking"
+x_source = ""
 +++
 
-📎 [12 Deeper Tips for Great Public Speaking](https://www.downes.ca/post/68122)
 
 Stephen Downes comenta els [12 tips for great speaking](http://www.steve-wheeler.co.uk/2018/05/12-tips-for-great-speaking.html) de Steve Wheeler.
 

@@ -4,9 +4,11 @@ date = "2023-01-21T13:40:51+01:00"
 tags = ["retalls"]
 slug = "catalunya-roja"
 syndication = []
+x_url = "https://www.lavanguardia.com/opinion/20230121/8698199/catalunya-roja.html"
+x_title = "Catalunya Roja"
+x_source = ""
 +++
 
-📎 [Catalunya Roja](https://www.lavanguardia.com/opinion/20230121/8698199/catalunya-roja.html)
 
 Ignacio Sánchez-Cuenca sobre les diferències ideològiques a l’UE i a Espanya. Segons l’[Eurobaròmetre](https://www.europarl.europa.eu/at-your-service/es/be-heard/eurobarometer/2019-european-elections-entered-a-new-dimension) posterior a les eleccions de 2019, Espanya és el país més esquerrà d’Europa (4,4) i Romania el més dretà (6,1). Catalunya (3,6) i Euskadi són les més *roges*, i Madrid (4,9) la que menys. L'escala va del zero (extrema esquerra) al deu (extrema dreta).
 

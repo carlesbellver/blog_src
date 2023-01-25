@@ -4,9 +4,11 @@ title = ""
 date = "2018-12-19T09:44:00+00:00"
 slug = "genetic-information-as"
 tags = ["retalls"]
+x_url = "https://arstechnica.com/science/2018/12/genetic-information-as-self-fulfilling-prophecy/"
+x_title = "Genetic information as self-fulfilling prophecy"
+x_source = ""
 +++
 
-📎 [Genetic information as self-fulfilling prophecy](https://arstechnica.com/science/2018/12/genetic-information-as-self-fulfilling-prophecy/)
 
 La informació genètica pot exercir un potent efecte placebo… o nocebo. En aquest experiment realitzat a Stanford, s'analitzava l'ADN dels subjectes participants i tot seguit se'ls informava sobre la seva capacitat innata per a fer exercici físic i sobre el seu risc d'obesitat. En l'hora següent, es va comprovar que els afavorits per la loteria del genotip podien córrer més temps que abans o s'atipaven més ràpid, al contrari que els seus companys: *independentment que a uns o a altres se'ls hagués dit la veritat o se'ls hagués mentit*.
 

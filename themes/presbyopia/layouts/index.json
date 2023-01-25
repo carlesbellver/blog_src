@@ -16,6 +16,8 @@
 				{{- end }}
 				{{ if .Title -}}
 				"title": {{ .Title | jsonify }},
+				{{- else if .Params.x_title -}}
+				"title": {{ .Params.x_title | jsonify }},
 				{{- end -}}
 				{{- $s := .Content | jsonify -}}
 				{{- $s := replace $s "\\u003c" "<" -}}

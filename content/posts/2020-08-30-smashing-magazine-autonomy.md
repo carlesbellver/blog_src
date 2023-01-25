@@ -4,9 +4,11 @@ title = ""
 date = "2020-08-30T07:20:00+00:00"
 slug = "smashing-magazine-autonomy"
 tags = ["retalls"]
+x_url = "https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/"
+x_title = "Autonomy Online: A Case For The IndieWeb"
+x_source = ""
 +++
 
-📎 [Autonomy Online: A Case For The IndieWeb](https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/) (Smashing Magazine)
 
 La resistència infatigable —i l’evolució tecnològica— del web social anterior a Facebook i la resta de plataformes. La teva veu des del teu web personal i la interconnexió d’uns amb altres en temps real mitjançant estàndards.
 

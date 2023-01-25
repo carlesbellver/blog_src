@@ -4,6 +4,9 @@ title = ""
 date = "2018-01-19T09:28:00+00:00"
 slug = "everywhere-i-go"
 tags = ["retalls","citacions"]
+x_url = "https://quoteinvestigator.com/2018/01/18/stifle/"
+x_title = "Quote Investigator"
+x_source = ""
 +++
 
 > A tot arreu on vaig, em pregunten si penso que les universitats asfixien els escriptors. Crec que no n'asfixien prou.
