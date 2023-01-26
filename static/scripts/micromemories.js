@@ -21,11 +21,13 @@ function renderPost(post) {
   if (post.title != undefined && post.title != '') {
     ElHTML += ' <a href="'+post.url+'" class="u-url">'+post.title+'</a>'
   }
-  var s = post.content_text;
-  if (s.length > 200) {
-    s = s.substr(0, 200) + "…"
+  else {
+    var s = post.content_text;
+    if (s.length > 100) {
+    s = s.substr(0, 100) + "…"
   }
-  ElHTML += ' <span class="summary"><a href="'+post.url+'" class="summary">'+s+'</a></span></p>'
+    ElHTML += ' <span class="summary"><a href="'+post.url+'" class="summary">'+s+'</a></span></p>'
+  }
   return ElHTML
 }
 

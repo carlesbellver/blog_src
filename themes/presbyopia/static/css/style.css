@@ -400,7 +400,7 @@ h1.post-title {
 }
 
 .post-list {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .post-short-list:first-of-type {
@@ -418,11 +418,15 @@ h1.post-title {
 
 .post-list .dt-published, .post-list .dt {
   font-family: var(--font-details);
+  font-size: 18px;
   color: var(--font-color);
 }
 
 .post-list a:hover .dt-published {
   color: var(--link-color);
+}
+
+.post-list .p-name {
 }
 
 .post-list .p-summary a, .post-list .summary {
