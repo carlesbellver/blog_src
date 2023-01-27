@@ -26,7 +26,7 @@ function renderPost(post) {
     if (s.length > 100) {
     s = s.substr(0, 100) + "…"
   }
-    ElHTML += ' <span class="summary"><a href="'+post.url+'" class="summary">'+s+'</a></span></p>'
+    ElHTML += ' <span class="summary"><a href="'+post.url+'">'+s+'</a></span></p>'
   }
   return ElHTML
 }

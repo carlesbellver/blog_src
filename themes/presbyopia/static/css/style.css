@@ -422,19 +422,19 @@ h1.post-title {
   color: var(--font-color);
 }
 
-.post-list a:hover .dt-published {
+.post-list a:hover.dt-published, .post-list a.dt:hover {
   color: var(--link-color);
 }
 
 .post-list .p-name {
 }
 
-.post-list .p-summary a, .post-list .summary {
+.post-list .p-summary a, .post-list a.summary {
   font-family: var(--font-details);
   color: var(--font-color);
 }
 
-.post-list .p-summary a:hover {
+.post-list .p-summary a:hover, .post-list a.summary:hover {
   font-family: var(--font-details);
   color: var(--link-color);
 }
