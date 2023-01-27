@@ -1,11 +1,12 @@
 +++
 title = ""
 date = "2021-04-10T16:32:09+02:00"
-tags = []
+tags = ["retalls"]
 slug = "7-whatsapp-alternatives"
+x_url = "https://protonmail.com/blog/whatsapp-alternatives/"
+x_title = "7 WhatsApp alternatives that won’t share your data with Facebook"
+x_source = ""
 +++
-
-📎 [7 WhatsApp alternatives that won’t share your data with Facebook](https://protonmail.com/blog/whatsapp-alternatives/)
 
 Comparativa d'aplicacions de missatgeria de codi font obert respectuoses amb la privacitat. WhatsApp xifra les converses d'extrem a extrem, però comparteix amb Facebook tota mena de metadades útils per al seu negoci de segmentació de publicitat.
 

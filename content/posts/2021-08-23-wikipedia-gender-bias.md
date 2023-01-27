@@ -1,11 +1,12 @@
 +++
 title = ""
 date = "2021-08-23T22:41:03+02:00"
-tags = []
 slug = "wikipedia-gender-bias"
+tags = ["retalls"]
+x_url = "https://www.cbc.ca/news/science/wikipedia-bias-1.6129073"
+x_title = "Canadian Nobel scientist's deletion from Wikipedia points to wider bias, study finds"
+x_source = ""
 +++
-
-📎 [Canadian Nobel scientist's deletion from Wikipedia points to wider bias, study finds](https://www.cbc.ca/news/science/wikipedia-bias-1.6129073)
 
 > Un estudi de la sociòloga nord-americana Francesca Tripodi mostra que els editors voluntaris de la Wikipedia proposen l'eliminació de pàgines referents a dones en una proporció superior a les pàgines sobre homes. Ha comprovat que les dones només representen el 19% de totes les pàgines, però sumen una quarta part de les recomanacions de supressió de pàgines.
 > 
