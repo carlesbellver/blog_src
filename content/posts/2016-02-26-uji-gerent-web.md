@@ -15,6 +15,6 @@ Inicialment ens havíem basat en la tecnologia Gopher. Perquè, sí, Internet ja
 
 Més informació sobre el projecte original:
 
-📎 [El Gopher como CWIS
+📄 [El Gopher como CWIS
 (*Campus Wide Information System*)
 en la Universitat Jaume I](http://nti.uji.es/docs/nti/castello.html)
