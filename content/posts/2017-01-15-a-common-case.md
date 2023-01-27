@@ -10,4 +10,4 @@ tags = ["citacions"]
  
 > A common case of “team work.” Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out and his brother gives him more. Joseph said, “Drunks are me best customers. I sell more’s me bruder does. Dey buy me out so I kin go home.” He sells every afternoon and night. Extra late Saturday night and is at it again at 6 A.M Sunday. Hartford, Conn. 4 March 1909.
 
-📎 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_common_case_of_%22team_work.%22_Smaller_boy,_Joseph_Bishop,_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg)
+—[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_common_case_of_%22team_work.%22_Smaller_boy,_Joseph_Bishop,_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg)

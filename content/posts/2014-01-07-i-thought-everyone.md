@@ -13,5 +13,5 @@ x_source = "Dave Winer"
 > 
 > So when you meet one, you’ll know it: if they write letters to the editor, or if they volunteered to go to the blackboard when they were students. In my day, we were the kinds of people who started underground newspapers, or who volunteered for the student radio station at college.
 
-📎 Dave Winer, [About Scripting News](http://scripting.com/about.html).
+—Dave Winer, [About Scripting News](http://scripting.com/about.html).
 

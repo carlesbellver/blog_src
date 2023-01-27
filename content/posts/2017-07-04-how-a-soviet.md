@@ -9,6 +9,4 @@ x_title = "How a Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic"
 x_source = ""
 +++
 
-Abans que als EUA miressin les cabres de fit a fit:
-
-📎 [How a Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic](http://www.atlasobscura.com/articles/dog-telepathy)
+Abans que als EUA miressin les cabres de fit a fit.

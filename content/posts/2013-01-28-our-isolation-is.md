@@ -5,8 +5,8 @@ date = "2013-01-28T23:00:00+00:00"
 slug = "our-isolation-is"
 tags = ["retalls","citacions"]
 x_url = "http://www.brainpickings.org/index.php/2013/01/25/dorion-sagan-sex/"
-x_title = "Brain Pickings"
-x_source = ""
+x_title = "Dorion Sagan on the First Ejaculation in Earth’s History"
+x_source = "Brain Pickings"
 +++
 
 > Quan connectem amb una altra persona, en el sexe o en l'amor (o, més rarament, ambdós) demostrem que el nostre aïllament no és permanent. En la plenitud del temps, tots podem estar vinculats.

@@ -3,9 +3,11 @@ url = "/2018/02/15/why-rss-still.html"
 title = ""
 date = "2018-02-15T18:54:00+00:00"
 slug = "why-rss-still"
+tags = ["retalls"]
+x_url = "https://fieldguide.gizmodo.com/why-rss-feeds-still-beat-facebook-and-twitter-for-track-1800722740"
+x_title = "Why RSS Still Beats Facebook and Twitter for Tracking News"
+x_source = ""
 +++
-
-📎 [Why RSS Still Beats Facebook and Twitter for Tracking News](https://fieldguide.gizmodo.com/why-rss-feeds-still-beat-facebook-and-twitter-for-track-1800722740)
 
 Informar-se mitjançant les xarxes socials privades (Facebook, Twitter) implica cedir el control a uns nous intermediaris, diferents dels anteriors (els mitjans de comunicació de masses tradicionals: premsa, ràdio, televisió), però molt semblants en un aspecte essencial: són ells qui trien —ara amb algorismes, més o menys sofisticats— quins continguts mostrar-te en funció dels seus interessos, no dels teus.
 

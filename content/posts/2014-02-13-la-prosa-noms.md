@@ -11,7 +11,7 @@ x_source = "Francine du Plessix Gray"
 
 > La prosa només és bona en tant que s'apropa a la condició de la poesia: aquella condició en què no es pot canviar un ritme, ni una partícula de so, sense molestar tota la pàgina.
 
-📎 Francine du Plessix Gray, [Paris Review - The Art of Fiction No. 96](http://www.theparisreview.org/interviews/2642/the-art-of-fiction-no-96-francine-du-plessix-gray) (Summer 1987, No. 103).
+—Francine du Plessix Gray, [Paris Review - The Art of Fiction No. 96](http://www.theparisreview.org/interviews/2642/the-art-of-fiction-no-96-francine-du-plessix-gray) (Summer 1987, No. 103).
 
 Divendres de la setmana passada, en la presentació de [La nit mil dos](http://carlesbellver.net/llibres/lanitmildos) a Castelló, pensava justament en aquestes paraules quan vaig dir que “algú ha dit que la prosa només és bona en la mesura en què s’apropa a la poesia, i jo no puc estar-hi més d’acord”.
 

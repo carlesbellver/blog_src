@@ -11,7 +11,7 @@ x_source = "Carme Junyent"
 
 > És això, que s’ha de canviar la societat. I la llengua ja seguirà el canvi, si és que n’hi ha d’haver cap.
 
- 📎 Carme Junyent: [“Que s’acabi aquesta comèdia de desdoblar en masculí i femení”](http://www.vilaweb.cat/noticia/4153027/20131031/carme-junyent-sacabi-comedia-desdoblar-masculi-femeni.html).
+—Carme Junyent: [“Que s’acabi aquesta comèdia de desdoblar en masculí i femení”](http://www.vilaweb.cat/noticia/4153027/20131031/carme-junyent-sacabi-comedia-desdoblar-masculi-femeni.html).
 
 I jo em dic que la societat no és unitària, no pot ser-ho mai. Que parts de la societat ja van canviant, ja anem canviant. I potser és per això que, amb tota la nostra ignorància i ingenuïtat d’afeccionats a parlar, també volem fer canviar parts del llenguatge. Potser és que aquest canvi de la llengua ja hi és, ja es va fent present, i agrada a alguna gent i a una altra no.
 
