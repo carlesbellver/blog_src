@@ -9,5 +9,4 @@ x_title = "Las desigualdades económicas marcan el nivel de supervivencia de los
 x_source = ""
 +++
 
-
-Richard Sullivan: "L'oncoplutocracia, mitjançant la qual només els pacients i països rics es beneficien dels progressos contra el càncer, s'ha d'aturar".
+Richard Sullivan: “L’oncoplutocracia, mitjançant la qual només els pacients i països rics es beneficien dels progressos contra el càncer, s’ha d'aturar”.
