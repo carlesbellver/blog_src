@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 > Com el “Slow Food”, el Slow Media va contra un consum ràpid i a favor d'elegir els ingredients amb cura i concentrar-se en la preparació. Els mitjans lents són acollidors i hospitalaris.
-
-📎 [The Slow Media Manifesto](http://en.slow-media.net/manifesto)

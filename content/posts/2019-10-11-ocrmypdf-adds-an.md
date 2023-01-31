@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 OCRmyPDF afegeix una capa de text OCR a fitxers PDF escanejats, de manera que s'hi pugui buscar o copiar text.
-
-📎 [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)

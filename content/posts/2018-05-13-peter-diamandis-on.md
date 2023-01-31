@@ -9,6 +9,6 @@ x_title = "Peter Diamandis on Overcoming Murphy’s Law"
 x_source = "Quote Investigator"
 +++
 
-> “Si alguna cosa pot sortir malament, arregla-ho! (A la merda Murphy!)”
+> “Si alguna cosa pot sortir malament, arregla-la! (A la merda Murphy!)”
 
-📎 Quote Investigator: [Peter Diamandis on Overcoming Murphy’s Law](https://quoteinvestigator.com/2018/05/11/not-murphy/)
+—Quote Investigator: [Peter Diamandis on Overcoming Murphy’s Law](https://quoteinvestigator.com/2018/05/11/not-murphy/)

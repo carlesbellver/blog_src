@@ -18,5 +18,3 @@ x_source = "Hanna Thomas"
 > - Lúdic
 > - Iteratiu
 > - Encoratjador i relacional
-
-📎 Hanna Thomas: [Why Don’t We Just Call Agile What It Is: Feminist](https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba)

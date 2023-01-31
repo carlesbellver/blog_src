@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 Sandro Miller i John Malkovich recreen més de seixanta fotografies icòniques, incloent-hi retrats de Salvador Dalí, el Che Guevara i Albert Einstein.
-
-📎 [John Malkovich poses as history's most famous figures](https://edition.cnn.com/style/amp/john-malkovich-sandro-miller/)

@@ -3,9 +3,11 @@ url = "/2020/04/12/as-discute-habermas.html"
 title = ""
 date = "2020-04-12T19:31:49+00:00"
 slug = "as-discute-habermas"
+tags = ["retalls"]
+x_url = "https://elpais.com/cultura/2020/04/08/babelia/1586361642_479728.html"
+x_title = "Así discute Habermas"
+x_source = ""
 +++
-
-📎 [Así discute Habermas](https://elpais.com/cultura/2020/04/08/babelia/1586361642_479728.html)
 
 > “¿Puede interpretarse también el asesinato planificado de millones de personas, del que hoy ya no ignoramos nada, como un error que nos fue deparado como un destino en el contexto de la historia del ser?”
 > 

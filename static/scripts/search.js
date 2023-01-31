@@ -1,16 +1,24 @@
 var MIN_WL = 3;
 
-var archive_items = {};
-downloadArchive();
+const urlParams = new URLSearchParams(window.location.search);
+const q = urlParams.get('q');
 
-function downloadArchive() {
+var archive_items = {};
+downloadArchive(q);
+
+function downloadArchive(q) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       archive_items = JSON.parse(this.responseText);
       var notice = document.getElementById("srch_notice");
       notice.innerHTML = "";
-      displayResults(archive_items);
+      if (q) {
+        runSearch(q);
+      }
+      else {
+        displayResults(archive_items);
+      }
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);

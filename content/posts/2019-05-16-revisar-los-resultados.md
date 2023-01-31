@@ -10,5 +10,3 @@ x_source = "Jorge Dioni"
 +++
 
 La coagulació d'un estil de vida en Ciudadanos. Un model de ciutat difusa, sense serveis, sense comerços, amb enclavaments de seguretat i exclusió. “El nadador” de John Cheever al fons.
-
-📎 Jorge Dioni: [PAUers. Una aproximación](https://apuntesdeclase.lamarea.com/analisis/pauers-una-aproximacion/)

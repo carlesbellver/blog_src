@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 Alternatives ètiques, fàcils d'utilitzar i respectuoses amb la privacitat per als webs i apps socials més populars: Facebook, Twitter, Instagram, YouTube, WhatsApp, Gmail…
-
-📎 [switching.social](https://switching.social/)

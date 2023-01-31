@@ -10,5 +10,3 @@ x_source = "Stefano Mancuso"
 +++
 
 > …cubrir literalmente todo de plantas …con relación a todas las otras soluciones es la más efectiva y barata, y tenemos todas las técnicas para hacerlo.
-
-📎 Stefano Mancuso: [“Debemos cubrir nuestras ciudades de vegetación”](https://www.lavanguardia.com/lacontra/20190624/463063232452/debemos-cubrir-nuestras-ciudades-de-vegetacion.html)

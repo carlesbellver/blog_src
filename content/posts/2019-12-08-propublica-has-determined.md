@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 Un mètode pseudocientífic d'identificació de culpables, basat en l'anàlisi de l'escriptura, fa furor en els cossos policials dels EUA i d'altres països.
-
-📎 ['Why Are Cops Around the World Using This Outlandish Mind-Reading Tool?'](https://m.slashdot.org/story/364382)

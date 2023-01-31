@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 El *Libro de los epítomes*, catàleg de la biblioteca d'Hernando Colón —fill de Cristòfor Colom—, inclou resums de milers de llibres, molts dels quals desapareguts.
-
-📎 ['Extraordinary' 500-year-old library catalogue reveals books lost to time](https://www.theguardian.com/books/2019/apr/10/extraordinary-500-year-old-library-catalogue-reveals-books-lost-to-time-libro-de-los-epitomes)

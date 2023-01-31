@@ -3,9 +3,11 @@ url = "/2019/10/21/quartz-the-world.html"
 title = ""
 date = "2019-10-21T20:41:19+00:00"
 slug = "quartz-the-world"
+tags = ["retalls"]
+x_url = "https://qz.com/is/the-world-in-50-years/themes/"
+x_title = "The World in 50 Years"
+x_source = "Quartz"
 +++
-
-📎 Quartz: [The World in 50 Years](https://qz.com/is/the-world-in-50-years/themes/)
 
 La ciència-ficció en què creuen les elits.
 

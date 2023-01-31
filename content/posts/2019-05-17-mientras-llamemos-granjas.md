@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 > …mientras llamemos granjas a unas naves que en realidad son fábricas; mientras hablemos de ganadería sin especificar el método de producción…
-
-📎 [Ganadería: con “apellido”, por favor](https://www.elsaltodiario.com/saltamontes/ganaderia-con-apellido-por-favor)

@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 > El digital és un gran accelerador de l’escalfament global. Fomenta la producció d'objectes a una escala inimaginable. I la majoria d’aquestes coses són brossa.
-
-📎 [Digital is garbage](http://gerrymcgovern.com/digital-is-garbage/)

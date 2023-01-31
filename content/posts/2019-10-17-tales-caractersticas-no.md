@@ -23,5 +23,3 @@ x_source = "Umberto Eco"
 12. Masclisme
 13. Populisme qualitatiu
 14. Neollengua
-
-📎 Umberto Eco: [Los 14 síntomas del fascismo eterno](https://ctxt.es/es/20190116/Politica/23898/Umberto-Eco-documento-CTXT-fascismo-nazismo-extrema-derecha.htm)

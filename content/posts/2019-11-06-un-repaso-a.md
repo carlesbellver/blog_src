@@ -10,5 +10,3 @@ x_source = ""
 +++
 
 El feixisme s'assenta sempre sobre una sòlida base de mentides i més mentides.
-
-📎 [Lo que nadie respondió a Santiago Abascal en el debate](https://www.eldiario.es/escolar/nadie-respondio-Santiago-Abascal-debate_6_960364003.html)
