@@ -34,6 +34,7 @@ function resetSearch() {
 function runSearch(q) {
   if (typeof(q) == "string" && q.length) {
     var qq = q.trim().toLowerCase();
+    window.history.pushState({}, null, "/archive/?q="+qq);
     var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var count = 0;
