@@ -11,9 +11,9 @@
 <script src="/scripts/search.js"></script>
 
 <form class="search" onSubmit="return false;">
-	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="runSearch(this.value.toLowerCase());" />
-	<input class="submit" role="button" type="submit" value="Busca" onClick="runSearch(document.getElementById('input_search'));" />
-	<input class="reset" role="button" type="reset" value="Esborra" onClick="resetSearch();" />
+	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="document.location.href='/archive/?q='+this.value.toLowerCase();">
+	<input class="submit" role="button" type="submit" value="Busca" onClick="document.location.href='/archive/?q='+document.getElementById('input_search').toLowerCase();">
+	<input class="reset" role="button" type="reset" value="Reinicia" onClick="document.location.href='/archive/?q='">
 </form>
 
   <article id="list_results" class="post-list">

@@ -1,4 +1,5 @@
 var MIN_WL = 3;
+var SUMMARY_LENGTGH = 80;
 
 const urlParams = new URLSearchParams(window.location.search);
 const q = urlParams.get('q');
@@ -28,20 +29,22 @@ function downloadArchive(q) {
 function resetSearch() {
   var pattern_node = document.getElementById("search_pattern");
   pattern_node.innerHTML = "La vista cansada";
+  q = "";
+  document.location.href='/archive/?q=';
   displayResults(archive_items);
 }
 
 function runSearch(q) {
   if (typeof(q) == "string" && q.length) {
     var qq = q.trim().toLowerCase();
-    window.history.pushState({}, null, "/archive/?q="+qq);
     var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var count = 0;
     if (qq.length >= MIN_WL && qq.length < 100) {
       var results = [];
       var q = chrCleanup(qq);
-      // var q = qq.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript
+      // var q = qq.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      // https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript
       var literal = 0;
       var regExp = /^ *["“”](.+)["“”] *$/g;
       if (match = regExp.exec(q)){
@@ -144,42 +147,27 @@ function displayResults(results) {
       link_node.appendChild(date_node);
     }
     link_node.href = results[i]["url"];
-    var title_node = null;
+    var s = results[i]["content_text"];
+    if (s.length > SUMMARY_LENGTGH) {
+      s = s.substr(0, SUMMARY_LENGTGH) + "…";
+    }
+    var title_node = document.createElement("span");
     if (results[i]["title"] && results[i]["title"].length > 0) {
-      title_node = document.createElement("span");
-      title_node.innerHTML = ' <a class="u-url" href="'+results[i]["url"]+'">' + results[i]["title"] + "</a>"
-      /* s = results[i]["title"] + " " + results[i]["content_text"]; */
+      title_node.innerHTML = ' <a class="u-url" href="'+results[i]["url"]+'">' + results[i]["title"] + '</a>';
+      if (q && s) {
+        title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary">'+ s +'</span>';
+      }
     }
     else {
-      var s = results[i]["content_text"];
-      if (s.length > 100) {
-        s = s.substr(0, 100) + "…";
-      }
-      title_node = document.createElement("span");
       if (results[i]["tags"].includes("fotos")) {
-        title_node.innerHTML = " &#x1F5BC;"
+        title_node.innerHTML = title_node.innerHTML + " &#x1F5BC;"
       }
       title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary"><a href="'+results[i]["url"]+'">'+s+"</a></span>";
     }
-/*    
-    var s = results[i]["content_text"];
-    if (s.length > 200) {
-      s = s.substr(0, 100) + "…";
-    }
-    var text_node = document.createElement("span");
-    text_node.innerHTML = " " + s;
-    p_node.appendChild(link_node);
-    if (results[i]["tags"].includes("fotos")) {
-      var pic_node = document.createElement("span");
-      pic_node.innerHTML = " &#x1F5BC;"
-      p_node.appendChild(pic_node);
-    }
-*/
     p_node.appendChild(link_node);
     if (title_node != null) {
       p_node.appendChild(title_node);
     }
-    /* p_node.appendChild(text_node); */
     results_node.appendChild(p_node);
   }
 }
