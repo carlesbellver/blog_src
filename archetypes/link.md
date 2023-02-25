@@ -3,9 +3,9 @@ title = ""
 date = "{{ .Date }}"
 tags = ["retalls"]
 slug = ""
-x-url = ""
-x-title = ""
-x-source = ""
+x_url = ""
+x_title = ""
+x_source = ""
 syndication = []
 +++
 
