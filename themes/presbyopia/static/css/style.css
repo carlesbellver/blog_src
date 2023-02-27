@@ -282,7 +282,11 @@ ul ol, ol ol, ul ul {
     margin: 0em 2em;
 }
 
+/* footnotes */
 
+div.footnotes {
+  font-size: 90%;
+}
 
 /* Header */
 
