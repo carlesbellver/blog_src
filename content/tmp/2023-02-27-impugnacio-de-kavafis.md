@@ -3,7 +3,7 @@ title = "Impugnació de Kavafis"
 description = "Esborrany per a l'homenatge d'El Pont a Albert Garcia Pascual."
 date = "2023-02-27T19:50:59+01:00"
 tags = []
-slug = ""
+slug = "5f81f840563c"
 syndication = []
 +++
 

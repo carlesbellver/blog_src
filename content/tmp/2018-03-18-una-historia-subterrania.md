@@ -3,6 +3,7 @@ title = "Una història subterrània"
 description = "Un conte fantàstic, potser infantil, al voltant del refugi antiaeri de la plaça de Tetuan de Castelló."
 image = "/tmp/media/uhs-capita-roig.png"
 date = "2018-03-18"
+slug = "32ec15b3dede"
 +++
 
 <img alt="Il·lustració: fanal" src="/tmp/media/uhs-fanal.png" />

@@ -3,6 +3,7 @@ title = "Rendez-vous"
 description = "—Doncs resulta que fa un parell de dies es va presentar a sa casa aquesta estudiant francesa, la Lilith. Tan contenta de tornar a veure Gerard, perquè deia que el va conèixer a Madagascar, quan ell hi va anar convidat per l’Instituto Cervantes…"
 date = "2022-09-03"
 titleIt = true
+slug = "3c3d6858fb20"
 +++
 
 —Doncs resulta que fa un parell de dies es va presentar a sa casa aquesta estudiant francesa, la Lilith. Tan contenta de tornar a veure Gerard, perquè deia que el va conèixer a Madagascar, quan ell hi va anar convidat per l’Instituto Cervantes. Després de guanyar el Planeta amb aquella novel·la que havia reescrit en castellà. De l’original en català, ironies de la vida, no en va fer cas ningú. Tu la vas llegir?

@@ -3,6 +3,7 @@ title = "Una qüestió de mètrica (i d'errates)"
 description = "Esborrany per a l'homenatge d’El Pont a Joan Fuster."
 image = "/uploads/2019/fb9ebfd41f.jpg"
 date = "2022-03-04"
+slug = "f8abb40a1063"
 +++
 
 <img src="/uploads/2019/fb9ebfd41f.jpg" />

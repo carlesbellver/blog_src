@@ -3,6 +3,7 @@ title = "Esborranys privats"
 date = "2022-03-22 09:00"
 +++
 
+  - [Impugnació de Kavafis](/tmp/5f81f840563c)
   - [*Rendez-vous*](/tmp/3c3d6858fb20)
   - [Una qüestió de mètrica (i d’errates)](/tmp/f8abb40a1063)
   - [*Pop art*](/tmp/eeb6c5b9e819)

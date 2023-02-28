@@ -2,6 +2,7 @@
 title = "Els morts dels altres"
 description = "En tornar a Castelló, a la mateixa andana, el cap de l'estació de trens em va lliurar un telegrama adreçat al meu nom. Venia signat amb pseudònim, però no necessitava pas indagar qui el remetia."
 date = "2021-08-15"
+slug = "42d50c9ade15"
 +++
 
 En tornar a Castelló, a la mateixa andana, el cap de l'estació de trens em va lliurar un telegrama adreçat al meu nom. Venia signat amb pseudònim, però no necessitava pas indagar qui el remetia. L'antiga whiskeria on em citava era ara un saló de tatuatge. El titular del negoci, concentrat en el seu catàleg de cors assagetats, calaveres i dracs, ni tan sols no va alçar el cap quan li vaig preguntar. Va assenyalar amb el polze la porta al seu darrere i a penes va murmurar:
