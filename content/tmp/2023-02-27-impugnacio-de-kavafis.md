@@ -5,7 +5,10 @@ date = "2023-02-27T19:50:59+01:00"
 tags = []
 slug = "5f81f840563c"
 syndication = []
+image = "/tmp/media/styx.jpg"
 +++
+
+<a href="https://commons.wikimedia.org/wiki/File:Crossing_the_River_Styx.jpg" title="Joachim Patinir: Caront creuant l'Estígia"><img src="/tmp/media/styx.jpg" alt="Joachim Patinir: Caront creuant l'Estígia"></a>
 
 Una vegada li van fer un comentari sobre un poema que havia escrit, quelcom referent a Kavafis[^1] —veges per on— que el va complaure força quan ho va escoltar. Ara no se’n recordava exactament i no podia preguntar-ho a qui li ho va dir. Poser més avant sí que li ho podria preguntar. Segur que sí. Va tornar a mirar el mòbil. Continuava sense cobertura. Aquestes boires, sens dubte, no deixaven passar les ones electromagnètiques de cinquena generació. Ni les de moltes altres generacions. Però encara era operatiu i el podia utilitzar com a llibreta de notes. Calia documentar aquest periple.
 
