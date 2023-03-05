@@ -869,7 +869,7 @@ a.theme-switcher {
   background: var(--switcher-bg-color);
   color: var(--switcher-color);
   /* font-size: 13px; */
-  font-size: 0.66em;
+  font-size: 0.9em;
   text-transform: uppercase;
   text-decoration: none;
 }
