@@ -1,6 +1,6 @@
 +++
 title = "L’home amb barba i l’home sense barba"
-description = "Text de la presentació conjunta d'El llibre de tòpics de Carles Bellver Torlà i Aquell matí era perfecte d'Albert Garcia Pascual en la BarnaCon. Barcelona, 1 de novembre de 2002."
+description = "Text de la presentació conjunta d'El llibre de tòpics de Carles Bellver Torlà i Aquell matí era perfecte d'Albert Garcia Pascual en la BarnaCon. Sebastià Roig, Barcelona, 1 de novembre de 2002."
 note = "Text de la presentació conjunta d'<a href=\"/llibres/elllibredetopics\"><i>El llibre de tòpics</i></a> de Carles Bellver Torlà i <i>Aquell matí era perfecte</i> d'Albert Garcia Pascual en la BarnaCon. Barcelona, 1 de novembre de 2002."
 author = "Sebastià Roig"
 date = "2002-11-01"
@@ -81,6 +81,6 @@ Un consell d’amic: no sigueu garrepes i passeu per caixa. Els vostres néts us
 
 Moltes gràcies.
 
-Barcelona, 1 de novembre de 2002
+Sebastià Roig, Barcelona, 1 de novembre de 2002.
 
 <img src="/llibres/elllibredetopics/catalan-sf-authors.jpg">

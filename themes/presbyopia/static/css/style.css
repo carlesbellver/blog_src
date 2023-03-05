@@ -563,6 +563,14 @@ article header h1.external a {
   text-decoration: none;
 }
 
+.author {
+  margin: 0 0 10px;
+  font-family: var(--font-details);
+  font-size: 1em;
+  text-transform: uppercase;
+  color: var(--font-color);
+}
+
 .note {
   margin: 0 0 10px;
   font-family: var(--font-details);

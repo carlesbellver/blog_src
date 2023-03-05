@@ -20,6 +20,12 @@
       <h2 class="subtitle">{{ trim .Params.subtitle " " }}</h2>
       {{- end }}
       
+      {{ if .Params.Author }}
+        <div class="author">
+          {{ .Params.Author | safeHTML }}
+        </div>      
+      {{- end }}
+      
       {{ if .Params.Note }}
         <div class="note">
           {{ .Params.Note | safeHTML }}
