@@ -83,4 +83,4 @@ Moltes gràcies.
 
 Sebastià Roig, Barcelona, 1 de novembre de 2002.
 
-<img src="/llibres/elllibredetopics/catalan-sf-authors.jpg">
+<a href="/2002/12/15/catalan-sf-authors/" title="Jo passava per allí"><img width="600" height="300" src="/uploads/2002/2002-12-15-catalan-sf-authors.jpg"></a>
