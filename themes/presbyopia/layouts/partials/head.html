@@ -20,8 +20,6 @@
 
 <link rel="stylesheet" href="{{ "css/poststats.css" | absURL }}?rnd={{ now.Unix }}" />
 
-<link rel="stylesheet" href="{{ "/scripts/webmention.css" | absURL }}?rnd={{ now.Unix }}" />
-
 {{ range .Site.Params.customCSS -}}
 <link rel="stylesheet" href="{{ . | absURL }}?rnd={{ now.Unix }}">
 {{- end }}
@@ -37,9 +35,13 @@
 <link href="https://mastodon.social/@carlesbellver" rel="me">
 <link href="https://twitter.com/carlesbellver" rel="me">
 <link href="https://github.com/carlesbellver" rel="me">
+
+{{ if .Site.Params.Webmentions -}}
 <!-- Webmentions -->
 <link rel="webmention" href="https://webmention.io/carlesbellver.net/webmention" />
 <link rel="pingback" href="https://webmention.io/carlesbellver.net/xmlrpc" />
+<link rel="stylesheet" href="{{ "/scripts/webmention.css" | absURL }}?rnd={{ now.Unix }}" />
+{{- end }}
 
 {{ partial "opengraph.html" . }}
 {{ partial "twitter_cards.html" . }}
