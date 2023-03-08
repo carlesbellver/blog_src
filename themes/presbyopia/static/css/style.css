@@ -448,7 +448,7 @@ h1.post-title {
 }
 
 .post-list a.dt-published, .post-list a.dt {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .post-list a:hover .dt-published, .post-list a.dt:hover {
