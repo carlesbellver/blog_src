@@ -4,7 +4,6 @@ date = "2023-03-05T17:57:55+01:00"
 tags = []
 slug = "fe8444caccd9"
 syndication = []
-image = "/tmp/media/itaca-caront-albert_compressed.jpg"
 +++
 
 Com a escriptor, Albert Garcia Pascual va ser proteic. També ho va ser, segurament, en molts altres aspectes de la seua vida. Durant un temps, mentre es va dedicar professionalment a la informàtica, li agradava descriure’s com a “petit empresari, malgrat la seua alçada” (vegeu, per exemple, el seu perfil al portal web de l’Associació d’Escriptors en Llengua Catalana). Més avant, va exercir de funcionari a l’Institut Nacional d’Estadística i paral·lelament es va definir a Twitter com a “escriptor interí”. I més recentment, després de desplaçar de Castelló a Culla el seu centre de gravetat —sempre ens va unir Battiato i ens continuarà unint—, havia emprès estudis de periodisme amb renovada il·lusió d’adolescent (el mateix entusiasme vital que l’havia mogut a aprendre a tocar l’ukulele).

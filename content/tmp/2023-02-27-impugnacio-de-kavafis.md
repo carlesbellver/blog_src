@@ -5,10 +5,8 @@ date = "2023-02-27T19:50:59+01:00"
 tags = []
 slug = "5f81f840563c"
 syndication = []
-image = "/tmp/media/styx.jpg"
+image = "/tmp/media/itaca-caront-albert_compressed.jpg"
 +++
-
-<a href="https://commons.wikimedia.org/wiki/File:Crossing_the_River_Styx.jpg" title="Joachim Patinir: Caront creuant l'Estígia"><img src="/tmp/media/styx.jpg" alt="Joachim Patinir: Caront creuant l'Estígia"></a>
 
 Una vegada li van fer un comentari sobre un poema que havia escrit, quelcom referent a Kavafis[^1] —veges per on— que el va complaure força quan ho va escoltar. Ara no se’n recordava exactament i no podia preguntar-ho a qui li ho va dir. Poser més avant sí que li ho podria preguntar. Segur que sí. Va tornar a mirar el mòbil. Continuava sense cobertura. Aquestes boires, sens dubte, no deixaven passar les ones electromagnètiques de cinquena generació. Ni les de moltes altres generacions. Però encara era operatiu i el podia utilitzar com a llibreta de notes. Calia documentar aquest periple.
 
@@ -21,3 +19,6 @@ I mentrestant, l’avi, el senyor gran del barret de palla i actitud obliqua, qu
 —Deixeu-vos estar de romanços, senyor Kavafis. Ni aquesta embarcació va a Ítaca, ni el camí serà llarg, ni és permès de distraure el barquer. No deveu voler que us pose a remar, veritat?
 
 [^1]:	Aquest relat naix de la suma —o és el producte— del poema “Ítaca” i un parell dels *Contes inversos* d’Albert Garcia Pascual.
+
+<img src="/tmp/media/itaca-caront-albert_compressed.jpg">
+
