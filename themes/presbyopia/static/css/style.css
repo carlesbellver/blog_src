@@ -775,6 +775,7 @@ article iframe {
 }
 
 h2.comments-heading {
+  margin-bottom: 0;
   font-size: 1.25em;
 }
 

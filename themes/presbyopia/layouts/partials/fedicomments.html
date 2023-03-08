@@ -8,8 +8,8 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.5/purify.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
-  var host = 'mastodon.social';
-  var user = 'carlesbellver';
+  var host = '{{ .Site.Params.MastodonHost }}';
+  var user = '{{ .Site.Params.MastodonUser }}';
   var postUrl = '{{ index (.Params.syndication) 0 | safeURL }}'
   console.log(postUrl)
   var id = postUrl.match(/(\d+)$/)[1];
@@ -90,7 +90,7 @@
             document.getElementById('comments-list').innerHTML = "";
             render_toots(data['descendants'], id, 0)
         } else {
-          document.getElementById('comments-list').innerHTML = "<p>Per ara sense comentaris.</p>";
+          document.getElementById('comments-list').innerHTML = "";
         }
 
         commentsLoaded = true;

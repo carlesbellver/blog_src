@@ -16,6 +16,7 @@ paginate = 12
   avatar =  "/uploads/ulleres_200.jpg"
   description = ""
   MastodonUser = "carlesbellver"
+  MastodonHost = "mastodon.social"
   TwitterUser = "carlesbellver"
   GitHubUser = "carlesbellver"
   paginationSinglePost = false
@@ -26,10 +27,6 @@ paginate = 12
   noPosts = 12
   webmentions = false
   fediverse = true
-
-[social]
-  twitter = "carlesbellver"
-  mastodon = "carlesbellver"
 
 [permalinks]
   posts = "/:year/:month/:day/:slug"
