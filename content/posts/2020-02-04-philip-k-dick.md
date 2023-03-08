@@ -5,7 +5,7 @@ date = "2020-02-04T19:03:00+00:00"
 slug = "philip-k-dick"
 tags = ["fotos"]
 photos = ["/uploads/2020/a3b9424db8.jpg"]
-syndication = ["https://twitter.com/carlesbellver/status/1216434391582498817"]
+syndication = []
 +++
 
 Philip K. Dick solia consultar l'[I Ching](https://ca.wikipedia.org/wiki/Yijing). Jo tinc més tirada a les [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta [microconsola portàtil](https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479). És com dur a la butxaca un petit oracle.

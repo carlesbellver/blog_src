@@ -767,6 +767,87 @@ article iframe {
 .citacions blockquote:before {
 }
 
+/* comments */
+
+.comments {
+  font-family: var(--font-details);
+  font-size: 0.8em;
+}
+
+h2.comments-heading {
+  font-size: 1.25em;
+}
+
+.mastodon-comment {
+  margin: 1em 0;
+  padding: 0;
+}
+
+.mastodon-comment p {
+  margin: 0;
+}
+
+.mastodon-comment a {
+  color: var(--font-color);
+  text-decoration: none;
+}
+
+.mastodon-comment .author {
+  margin: 0;
+  font-size: 1em;
+  text-transform: none;
+}
+
+.mastodon-comment .author a {
+  color: var(--font-color);
+  text-decoration: none;
+}
+
+.mastodon-comment .author .avatar img {
+  float: left;
+  margin-right: 0.5em;
+  min-width: 20px;
+  border-radius: 5px;
+}
+
+.mastodon-comment .author .details {
+  font-size: 0.875em;
+}
+
+.mastodon-comment .author .details .name {
+  text-transform: uppercase;
+}
+
+.mastodon-comment .author .details .user {
+}
+
+.mastodon-comment .author .date {
+}
+
+.mastodon-comment .content {
+  margin: 0;
+}
+.mastodon-comment .content p:first-child {
+}
+
+.mastodon-comment .status > div {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.mastodon-comment .status a {
+}
+
+.mastodon-comment .status .replies.active a {
+}
+
+.mastodon-comment .status .reblogs.active a {
+}
+
+.mastodon-comment .status .favourites.active a {
+}
+
+
 /* Other pages */
 .terms {
   list-style-type: none;

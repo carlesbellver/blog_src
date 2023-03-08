@@ -20,7 +20,12 @@
         <main id="main" tabindex="-1"> 
             {{ block "main" . }}{{ end }}
         </main>
-        {{ if site.Params.webmentions -}}        {{ partial "webmentions.html" . }}{{- end }}
+        {{ if site.Params.webmentions -}}
+          {{ partial "webmentions.html" . }}
+        {{- end }}
+        {{ if .Site.Params.fediverse -}}
+          {{ partial "fedicomments.html" . }}
+        {{ end -}}
         {{ block "footer" . }}
             {{ partial "footer.html" . }}
         {{ end }}

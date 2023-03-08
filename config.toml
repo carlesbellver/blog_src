@@ -25,11 +25,11 @@ paginate = 12
   indexSections = ["posts", "contes", "llibres", "taller"]
   noPosts = 12
   webmentions = false
+  fediverse = true
 
 [social]
   twitter = "carlesbellver"
   mastodon = "carlesbellver"
-  mastodonComments = true
 
 [permalinks]
   posts = "/:year/:month/:day/:slug"

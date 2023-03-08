@@ -41,7 +41,7 @@
       {{ partial "postInfo.html" . }}
 
     </article>
-
+    
     {{ if and (.Site.Params.paginationSinglePost) (ne .Type "page") }}
         {{ partial "paginationPost.html" . }}
     {{ end }}
