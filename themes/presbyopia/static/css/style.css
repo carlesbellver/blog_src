@@ -126,6 +126,10 @@ a {
   text-decoration: none;
 }
 
+.content a, .comments a {
+  text-decoration: underline;
+}
+
 a:hover,
 a:focus,
 a:active {
@@ -428,6 +432,12 @@ h1.post-title {
   display: inline;
   font-family: var(--font-details);
   text-transform: uppercase;
+  text-decoration: none;
+}
+
+.post-list a.u-url:hover {
+  color: var(--link-color);
+  text-decoration: underline;
 }
 
 .post-list .dt-published, .post-list .dt {
@@ -437,7 +447,11 @@ h1.post-title {
   color: var(--font-color);
 }
 
-.post-list a:hover.dt-published, .post-list a.dt:hover {
+.post-list a.dt-published, .post-list a.dt {
+  text-decoration: underline;
+}
+
+.post-list a:hover .dt-published, .post-list a.dt:hover {
   color: var(--link-color);
 }
 
