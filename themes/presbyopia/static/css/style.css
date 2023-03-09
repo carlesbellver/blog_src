@@ -247,7 +247,7 @@ blockquote {
 
 .citacions blockquote:before {
   display: block;
-  margin: -50px 0 -160px -10px;
+  margin: -50px 0 -175px -10px;
   content: "“";
   font-family: var(--font-bq);
   /* font-size: 200px; */
@@ -265,6 +265,21 @@ blockquote {
 
 .citacions blockquote blockquote:before {
   display: none;
+}
+
+.citacions blockquote {
+  font-family: var(--font-bq);
+  /* font-size: 21px; */
+  font-size: 1.1em;
+}
+
+.post-list .citacions blockquote {
+  font-family: var(--font);
+  /* font-size: 17px; */
+  font-size: 0.85em;
+}
+
+.citacions blockquote:before {
 }
 
 blockquote > p {
@@ -763,23 +778,6 @@ article iframe {
 
 .post-summary > p {
   display: block;
-}
-
-/* Article tags */
-
-.citacions blockquote {
-  font-family: var(--font-bq);
-  /* font-size: 21px; */
-  font-size: 1.05em;
-}
-
-.post-list .citacions blockquote {
-  font-family: var(--font);
-  /* font-size: 17px; */
-  font-size: 0.85em;
-}
-
-.citacions blockquote:before {
 }
 
 /* comments */
