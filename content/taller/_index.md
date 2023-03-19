@@ -3,9 +3,9 @@ title = "Taller"
 description = "Experiments i divagacions entre la tecnologia i la literatura."
 +++
 
-Experiments i divagacions. Entre la tecnologia i la literatura:
+Experiments i divagacions entre la tecnologia i la literatura.
 
-  - [Lo-fi writer](/2024/03/19/lofiwriter/)
+  - [Lo-fi writer](/2023/03/19/lofiwriter/) (2023)
   - [Inspiració](https://42.carlesbellver.net) (2022)
   - [Sant Jordi digital](/2022/04/22/sant-jordi/) (2022)
   - [(no)nft](https://notnft.carlesbellver.net/) (2022)
