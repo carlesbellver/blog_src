@@ -19,3 +19,4 @@ Experiments i divagacions entre la tecnologia i la literatura.
   - [24 hores Ch. B.](24horesChB) (2009)
   - [Petit Wilbur](/2010/12/14/la-veu-de.html)
   - [*Contes per a extraterrestres*](/cpe/) (1993-2000)
+
