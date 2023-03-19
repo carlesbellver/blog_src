@@ -3,7 +3,7 @@ title = "Generant històries amb ChatGPT"
 date = "2023-03-19T10:19:24+01:00"
 tags = []
 slug = "lofiwriter"
-syndication = []
+syndication = ["https://mastodon.social/@carlesbellver/110051193243202635"]
 image = "/uploads/2023/2023-03-19-lofiwriter.jpg"
 +++
 
