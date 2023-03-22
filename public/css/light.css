@@ -1,10 +1,12 @@
 :root {
-    --font-color: #333;
-    --bg-color: #fff; /* #f0f0f0; */
+    --font-color: #000;
+    --bg-color: #fff;
     --content-bg-color: #fff;
 
-    --menu-color: #333;
-    --menu-bg-color: #f0f0f0;
+    --foot-color: #666;
+
+    --menu-color: #666;
+    --menu-bg-color: #fff;
 
     --link-color:#990000;
     --link-state-color:#990000;
@@ -16,7 +18,7 @@
     --pre-color: #666;
     --pre-bg-color: #f0f0f0;
     
-    --bq-bar-color: #ccc;
+    --bq-bar-color: #666;
     --bq-color: #666;
     
     --hr-color: #eee;
@@ -24,7 +26,7 @@
     --pagination-bg-color: #fafafa;
     --pagination-link-color: #696969;
 
-    --post-info-color: grey;
+    --post-info-color: #666;
 
     --switcher-color: #fff;
     --switcher-bg-color: #333; 

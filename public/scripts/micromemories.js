@@ -1,3 +1,5 @@
+var SUMMARY_LENGTGH = 80;
+
 function formatDate(date) {
     var d = new Date(date),
         month = '' + (d.getMonth() + 1),
@@ -13,20 +15,22 @@ function renderPost(post) {
   ElHTML = ''
   var d = Date.parse(post.date_published)
   var date_s = new Date(d).toISOString().substr(0, 10);
-  ElHTML += '<p><a href="'+post.url+'">'+date_s+'</a>'
+  ElHTML += '<p><a href="'+post.url+'" class="u-url dt">'+date_s+'</a>';
   /* if (post.photos[0]) { */
   if (post.tags.includes("fotos")) {
     ElHTML += " &#x1F5BC;"
   }
-  if (post.title != '') {
-    ElHTML += ' <a href="'+post.url+'">'+post.title+'</a>'
-  }
   var s = post.content_text;
-  if (s.length > 200) {
-    s = s.substr(0, 200) + "…"
+  if (s.length > SUMMARY_LENGTGH) {
+    s = s.substr(0, SUMMARY_LENGTGH) + "…";
   }
-  ElHTML += ' <span>'+s+'</span></p>'
-  return ElHTML
+  if (post.title != undefined && post.title != '') {
+    ElHTML += ' <a href="'+post.url+'" class="u-url">'+post.title+'</a> <span class="summary">'+s+'</span>';
+  }
+  else {
+    ElHTML += ' <a href="'+post.url+'" class="summary">'+s+'</a></p>';
+  }
+  return ElHTML;
 }
 
 function renderNoContent() {
@@ -75,7 +79,7 @@ xhr.onreadystatechange = function(e) {
     if (xhr.response.length == 0) {
       postList = renderNoContent();
     } else {
-      xhr.response.items.forEach(function(post) {
+      xhr.response.forEach(function(post) {
         if (post.url.match(/\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\//) && post.date_published.search("-"+preferredDate) != -1) {
           postList = postList + renderPost(post);
         }

@@ -1,16 +1,25 @@
 var MIN_WL = 3;
+var SUMMARY_LENGTGH = 80;
 
-var archive_results = {};
-downloadArchive();
+const urlParams = new URLSearchParams(window.location.search);
+const q = urlParams.get('q');
 
-function downloadArchive() {
+var archive_items = {};
+downloadArchive(q);
+
+function downloadArchive(q) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      archive_results = JSON.parse(this.responseText);
+      archive_items = JSON.parse(this.responseText);
       var notice = document.getElementById("srch_notice");
       notice.innerHTML = "";
-      displayResults(archive_results.items);
+      if (q) {
+        runSearch(q);
+      }
+      else {
+        displayResults(archive_items);
+      }
     }
   };
   xmlhttp.open("GET", "/archive/index.json", true);
@@ -20,7 +29,9 @@ function downloadArchive() {
 function resetSearch() {
   var pattern_node = document.getElementById("search_pattern");
   pattern_node.innerHTML = "La vista cansada";
-  displayResults(archive_results.items);
+  q = "";
+  document.location.href='/archive/?q=';
+  displayResults(archive_items);
 }
 
 function runSearch(q) {
@@ -29,9 +40,11 @@ function runSearch(q) {
     var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var count = 0;
-    if (q.length >= MIN_WL && q.length < 100) {
+    if (qq.length >= MIN_WL && qq.length < 100) {
       var results = [];
-      var q = chrCleanup(q);
+      var q = chrCleanup(qq);
+      // var q = qq.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      // https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript
       var literal = 0;
       var regExp = /^ *["“”](.+)["“”] *$/g;
       if (match = regExp.exec(q)){
@@ -49,17 +62,21 @@ function runSearch(q) {
           terms_p = terms_p.slice(0, 4);
         }
         q = terms_p.join(" ");
+        terms = terms_p;
       }
       console.log(q);
       var pattern_node = document.getElementById("search_pattern");
       pattern_node.innerHTML = qq;
-      for (var i = 0; i < archive_results.items.length; i++) {
+      for (var i = 0; i < archive_items.length; i++) {
         var score = 0;
-        var item = archive_results.items[i];
+        var item = archive_items[i];
+        if (item.title == undefined) {
+          item.title = "";
+        }
         var title_lower = chrCleanup(item.title).toLowerCase();
         var tags_lower = chrCleanup(item.tags).toLowerCase();
         var text_lower = chrCleanup(item.content_text).toLowerCase();
-        if (literal || terms_p.length > 1) {
+        if (literal || terms.length > 1) {
           if (title_lower.includes(q)) {
             score += 10;
           }
@@ -71,19 +88,20 @@ function runSearch(q) {
           }
         }
         if (!literal) {
-          for (let i = 0; i < terms_p.length; i++) {
-            if (terms_p[i].length >= MIN_WL) {
+          for (let i = 0; i < terms.length; i++) {
+            if (terms[i].length >= MIN_WL) {
               /* word boundary + term + 0-2 chars + word boundary */
-              var exp = "\\b" + terms_p[i] + "[a-z]{0,2}\\b";
-              var re = new RegExp(exp);
+              var exp = "\\b" + terms[i] + "[a-z]{0,2}\\b";
+              var re = new RegExp(exp, "gi");
               if (title_lower.match(re)) {
                 score += 10;
               }
               if (tags_lower.match(re)) {
                 score += 5;
               }
-              if (text_lower.match(re)) {
-                score += 1;
+              mm = text_lower.match(re);
+              if (mm) {
+                score += mm.length;
               }
             }
           }
@@ -118,38 +136,40 @@ function displayResults(results) {
   else {
     no_hits_node.innerHTML = results.length + "&nbsp;pàgines";
   }
+  results_node.innerHTML = "";
   for (let i = 0; i < results.length; i++) {
     var p_node = document.createElement("p");        
     var link_node = document.createElement("a");
     if (results[i]["date_published"].substring(0, 3) != "000" && results[i]["date_published"].substring(0, 3) != "197") {
+      link_node.classList.add("dt-published");
+      link_node.classList.add("u-url");
       var d = Date.parse(results[i]["date_published"]);
       var date_s = new Date(d).toISOString().substr(0, 10);
       var date_node = document.createTextNode(date_s); 
       link_node.appendChild(date_node);
     }
     link_node.href = results[i]["url"];
-    var title_node = null;
-    if (results[i]["title"].length > 0) {
-      title_node = document.createElement("span");
-      title_node.innerHTML = ' <a href="'+results[i]["url"]+'">' + results[i]["title"] + "</a>"
-      s = results[i]["title"] + " " + results[i]["content_text"];
-    }
     var s = results[i]["content_text"];
-    if (s.length > 200) {
-      s = s.substr(0, 200) + "…";
+    if (s.length > SUMMARY_LENGTGH) {
+      s = s.substr(0, SUMMARY_LENGTGH) + "…";
     }
-    var text_node = document.createElement("span");
-    text_node.innerHTML = " " + s;
+    var title_node = document.createElement("span");
+    if (results[i]["title"] && results[i]["title"].length > 0) {
+      title_node.innerHTML = ' <a class="u-url" href="'+results[i]["url"]+'">' + results[i]["title"] + '</a>';
+      if (q && s) {
+        title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary">'+ s +'</span>';
+      }
+    }
+    else {
+      if (results[i]["tags"].includes("fotos")) {
+        title_node.innerHTML = title_node.innerHTML + " &#x1F5BC;"
+      }
+      title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary"><a href="'+results[i]["url"]+'">'+s+"</a></span>";
+    }
     p_node.appendChild(link_node);
-    if (results[i]["tags"].includes("fotos")) {
-      var pic_node = document.createElement("span");
-      pic_node.innerHTML = " &#x1F5BC;"
-      p_node.appendChild(pic_node);
-    }
     if (title_node != null) {
       p_node.appendChild(title_node);
     }
-    p_node.appendChild(text_node);
     results_node.appendChild(p_node);
   }
 }
