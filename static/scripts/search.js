@@ -62,6 +62,7 @@ function runSearch(q) {
           terms_p = terms_p.slice(0, 4);
         }
         q = terms_p.join(" ");
+        terms = terms_p;
       }
       console.log(q);
       var pattern_node = document.getElementById("search_pattern");
@@ -75,7 +76,7 @@ function runSearch(q) {
         var title_lower = chrCleanup(item.title).toLowerCase();
         var tags_lower = chrCleanup(item.tags).toLowerCase();
         var text_lower = chrCleanup(item.content_text).toLowerCase();
-        if (literal || terms_p.length > 1) {
+        if (literal || terms.length > 1) {
           if (title_lower.includes(q)) {
             score += 10;
           }
@@ -87,19 +88,20 @@ function runSearch(q) {
           }
         }
         if (!literal) {
-          for (let i = 0; i < terms_p.length; i++) {
-            if (terms_p[i].length >= MIN_WL) {
+          for (let i = 0; i < terms.length; i++) {
+            if (terms[i].length >= MIN_WL) {
               /* word boundary + term + 0-2 chars + word boundary */
-              var exp = "\\b" + terms_p[i] + "[a-z]{0,2}\\b";
-              var re = new RegExp(exp);
+              var exp = "\\b" + terms[i] + "[a-z]{0,2}\\b";
+              var re = new RegExp(exp, "gi");
               if (title_lower.match(re)) {
                 score += 10;
               }
               if (tags_lower.match(re)) {
                 score += 5;
               }
-              if (text_lower.match(re)) {
-                score += 1;
+              mm = text_lower.match(re);
+              if (mm) {
+                score += mm.length;
               }
             }
           }
