@@ -1,184 +1,184 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "La vista cansada",
-	"icon": "https://carlesbellver.net",
-	"home_page_url": "https://carlesbellver.net",
-	"feed_url": "https://carlesbellver.netfeed.json",
+	"icon": "https://carlesbellver.net/",
+	"home_page_url": "https://carlesbellver.net/",
+	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
-				"id": "https://carlesbellver.net/2022/09/01/gorbachov/",
+				"id": "https://carlesbellver.net/2023/03/25/69506/",
 				
-				"content_html": "<p>📎 Rafael Poch: <a href=\"https://ctxt.es/es/20220801/Firmas/40610/\">Luces y sombras de Mijaíl Gorbachov (1931-2022)</a></p>\n<blockquote>\n<p>En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.</p>\n</blockquote>\n",
-				"date_published": "2022-09-01T19:07:53+02:00",
-				"url": "https://carlesbellver.net/2022/09/01/gorbachov/"
+				"content_html": "<p>Avui hem comprat mandarines amb patent israeliana.</p>\n<img alt=\"Foto zenital d'unes mandarines en un bol\" src=\"/uploads/2023/2023-03-25-69506.jpg\">\n",
+				"date_published": "2023-03-25T19:38:36+01:00",
+				"url": "https://carlesbellver.net/2023/03/25/69506/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/08/23/bombes/",
+				"id": "https://carlesbellver.net/2023/03/24/63432/",
 				
-				"content_html": "<p>Refugi antiaeri, plaça Tetuan de Castelló. En la projecció audiovisual, foto de la plaça Emilio Castelar (ara Porta del Sol). La gent corre a amagar-se en sentir les alarmes.</p>\n<img alt=\"Foto d'un túnel del refugi antiaeri de la plaça Tetuán de Castelló.\" src=\"/uploads/2022/2022-08-23-bombes.jpg\">\n",
-				"date_published": "2022-08-23T19:15:33+02:00",
-				"url": "https://carlesbellver.net/2022/08/23/bombes/"
+				"content_html": "<p>A 24 de març, unes persones molt amables m’han portat una cistella de Nadal. És la cosa més coherent que m’ha passat avui a l’#UJI.</p>\n<img alt=\"Foto d'una cistella de Nadal damunt de la taula del despatx.\" src=\"/uploads/2023/2023-03-24-63432.jpg\">\n",
+				"date_published": "2023-03-24T14:10:48+01:00",
+				"url": "https://carlesbellver.net/2023/03/24/63432/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/",
+				"id": "https://carlesbellver.net/2023/03/23/91111/",
+				"title": "3 Things to Learn from a Child, 7 from a Thief: Bob Dylan’s Favorite Hasidic Teaching",
+				"content_html": "<p>Ser sempre feliç; no parar quiet; plorar per qualsevol cosa. Treballar de nit; una nit i una altra; ser solidari amb els companys de feina; arriscar la vida; no sobrevalorar els bens materials; suportar colps i tortures; creure en la teua feina.</p>\n<p>Idealització de la infància i del lladronici?</p>\n",
+				"date_published": "2023-03-23T18:05:31+01:00",
+				"url": "https://carlesbellver.net/2023/03/23/91111/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/03/22/09417/",
 				
-				"content_html": "<p>📎 <a href=\"https://www.technologyreview.com/2022/08/06/1056727/vr-virtual-reality-psychedelics-transcendence/\">Virtual Reality is as good as psychedelics at helping people reach transcendence</a></p>\n<blockquote>\n<p>En les quatre mètriques, Isness-D va provocar respostes indestriables de les associades amb les dosis mitjanes de psicodèlics. En l’escala d’experiència mística, els participants en Isness-D van informar d’una experiència tan intensa com la provocada per 20 mil·ligrams de psilocibina o 200 micrograms d’LSD, i més forta que la induïda per microdosis de qualsevol de les dues substàncies.</p>\n</blockquote>\n",
-				"date_published": "2022-08-11T19:16:31+02:00",
-				"url": "https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/"
+				"content_html": "<p>Si voleu guardar un secret, teniu dues opcions:</p>\n<ol>\n<li>Xifrar-lo amb un algoritme suficientment segur, p. ex. AES-256.</li>\n<li>Adreçar-lo a Recursos Humans per registre d’entrada, i mai no se’n sabrà res més.</li>\n</ol>\n",
+				"date_published": "2023-03-22T19:23:47+01:00",
+				"url": "https://carlesbellver.net/2023/03/22/09417/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/07/28/book-thief/",
+				"id": "https://carlesbellver.net/2023/03/19/lofiwriter/",
+				"title": "Generant històries amb ChatGPT",
+				"content_html": "<img src=\"/uploads/2023/2023-03-19-lofiwriter.jpg\" alt=\"Pintura a l'oli d'un robot escrivint en un quadern. Generada per DALL·E.\">\n<p>A última hora i per primera vegada en trenta-dos anys, l’UJI va decidir tancar el campus per <a href=\"https://ca.m.wikipedia.org/wiki/Festes_de_la_Magdalena\">Magdalena</a> i donar-nos vacances. Una part d’aquestes hores inesperades de lleure les he dedicat a continuar jugant amb l’API de ChatGPT i programar un petit bot (<a href=\"https://mastodon.social/@lofiwriter\">@lofiwriter</a>) que genera textos amb pretensions literàries.</p>\n<p>El <em>prompt</em> que envia el bot a l’API és d’aquest estil:</p>\n<blockquote>\n<p><em>Draft a short story imitating the style of Jeanette Winterson. Mention or imply a mistake and a windstorm. Be imaginative and ironic. Avoid sentimentality and grandiloquence. Length: between two and five sentences. Language: English.</em></p>\n</blockquote>\n<p>L’autora o autor que cal imitar els trac d’una llista que vaig demanar al mateix ChatGPT (<em>“Give me a list of one hundred acclaimed modernist or postmodern writers, including international ones”</em>), de manera que m’assegure que els coneix. Les paraules clau venen de diverses llistes del mateix tipus: llocs, objectes, etc.</p>\n<p>A més a més d’un relat (<em>“short story”</em>) el bot pot sol·licitar altres formes (l’extensió i el nombre de paraules clau depenen de la forma triada):</p>\n<ul>\n<li>Una idea per a una novel·la.</li>\n<li>Una idea per a una pel·lícula.</li>\n<li>Un diàleg entre dos personatges.</li>\n<li>Les frases inicials d’una novel·la.</li>\n<li>Les frases finals d’una novel·la.</li>\n<li>Un koan.</li>\n<li>Un haiku (i altres tipus de poemes breus).</li>\n<li>Un aforisme.</li>\n<li>Una meditació.</li>\n</ul>\n<p>Després d’obtenir una resposta, el bot demana a ChatGPT que la traduïsca al català i publica ambdues versions en <a href=\"https://mastodon.social/@lofiwriter\">Mastodon</a>.</p>\n<p>Fins ara, havent assajat diferents variacions, diria que els resultats obtinguts són més prompte mediocres (en català, ni tan sols aconsegueix un nivell acceptable de correcció lingüística). Com a inspiració, em va funcionar millor l’aleatorietat pura dels <a href=\"https://42.carlesbellver.net\">exemples del DIEC</a>.</p>\n",
+				"date_published": "2023-03-19T10:19:24+01:00",
+				"url": "https://carlesbellver.net/2023/03/19/lofiwriter/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/03/19/17280/",
+				"title": "Negativity drives online news consumption",
+				"content_html": "<p>Quantificant l’avantatge competitiu de les males notícies.</p>\n<blockquote>\n<p>Per a un titular de longitud mitjana, cada paraula negativa addicional augmentava el percentatge de clics en un 2,3%.</p>\n</blockquote>\n",
+				"date_published": "2023-03-19T10:15:11+01:00",
+				"url": "https://carlesbellver.net/2023/03/19/17280/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/03/13/censusgpt/",
+				"title": "Census GPT",
+				"content_html": "<p>Aquest web contesta preguntes sobre el cens dels EUA utilitzant ChatGPT. Com ho fa? La clau està en la funció <code>make_default_messages</code> del fitxer <a href=\"https://github.com/caesarHQ/textSQL/blob/main/api/app/api/utils/sql_gen/text_to_sql.py\"><code>text_to_sql.py</code></a>, que explica a ChatGPT l’estructura de la base de dades del cens. A partir d’això i d’uns pocs exemples, ChatGPT pot traduir les preguntes subsegüents de l’usuari a sentències SQL que el web executarà i processarà.</p>\n<pre tabindex=\"0\"><code>def make_default_messages(table_names: List[str]):\n  return [\n    {\n      &#34;role&#34;: &#34;system&#34;,\n      &#34;content&#34;: (\n        &#34;You are a helpful assistant for generating syntactically correct read-only SQL to answer a given question or command, generally about crime, demographics, and population.&#34;\n        &#34;\\n&#34;\n        &#34;The following are schemas of tables you can query:\\n&#34;\n        &#34;---------------------\\n&#34; + generate_msg_with_schemas(table_names) +\n        &#34;\\n\\n&#34;\n        &#34;---------------------\\n&#34;\n        &#34;Use state abbreviations for states.&#34;\n        &#34; Table &#39;crime_by_city&#39; does not have columns &#39;zip_code&#39; or &#39;county&#39;.&#34;\n        &#34; Do not use ambiguous column names.&#34;\n        &#34; For example, &#39;city&#39; can be ambiguous because both tables &#39;acs_census_data&#39; and &#39;crime_by_city&#39; have a column named &#39;city&#39;.&#34;\n        &#34; Always specify the table where you are using the column.&#34;\n        &#34; If you include a &#39;city&#39; column in the result table, include a &#39;state&#39; column too.&#34;\n        &#34; If you include a &#39;county&#39; column in the result table, include a &#39;state&#39; column too.&#34;\n        &#34; Make sure each value in the result table is not null.\\n&#34;\n      )\n    },\n</code></pre><p>etc.</p>\n",
+				"date_published": "2023-03-13T10:12:41+01:00",
+				"url": "https://carlesbellver.net/2023/03/13/censusgpt/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/03/08/92507/",
+				"title": "Why do Nigerian Scammers Say They are from Nigeria?",
+				"content_html": "<p>Aquest estudi de 2012 de Cormac Herley (Microsoft Research) suggereix que les deficiències argumentals i d’estil del correu brossa podrien ser un avantatge per als estafadors, ja que només picaria la gent més crèdula. És a dir, les víctimes ideals.</p>\n<blockquote>\n<p>Les històries estrambòtiques sobre milionaris de l'Àfrica occidental pareixen més còmiques que altra cosa. La nostra anàlisi suggereix que això és un avantatge per a l'atacant, no un inconvenient. Com que el seu atac té una baixa densitat de víctimes, l'estafador “nigerià” té una necessitat imperiosa de reduir els falsos positius. Mitjançant l'enviament d'un correu electrònic que rebutjarà tothom excepte les persones més crèdules, l'estafador aconsegueix que els objectius més prometedors s'autoseleccionen i inclina al seu favor la balança de vertaders i falsos positius.</p>\n</blockquote>\n",
+				"date_published": "2023-03-08T17:22:15+01:00",
+				"url": "https://carlesbellver.net/2023/03/08/92507/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/03/01/89971/",
 				
-				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/books/2022/jul/14/alleged-book-thief-filippo-bernardini-may-avoid-trial-in-the-us\">Alleged book thief Filippo Bernardini may avoid trial in the US</a></p>\n<p><a href=\"https://www.lavanguardia.com/cultura/20201224/6146536/phishing-manuscritos-libros-mail.html\">Hi hagué un temps</a> en què un misteriós lladre o <em>hacker</em> enganyava autors de renom perquè li enviaren els seus originals encara inèdits. Falsificava adreces de correu electrònic i es feia passar pel seu agent o per un empleat editorial a fi de guanyar-se la seua confiança. I quan aconseguia el botí no intentava traure’n profit: ni revenia els llibres, ni els filtrava, ni sotmetia els autors a cap mena de xantatge. No tornaven a saber res d’ell. Margaret Atwood o Ian McEwan van ser il·lustres víctimes seues, entre d’altres.</p>\n<p>Imagine que la detenció de <a href=\"https://www.bbc.com/news/entertainment-arts-59893035\">Filippo Bernardini</a> el gener d’enguany va frustrar algunes expectatives. Degué arribar un punt en què no eres ningú en l’escena literària si no t’havien intentat furtar el darrer llibre. Jo mateix, sense cap motiu, em vaig sentir vagament decebut i vaig continuar publicant en obert com sempre. Diuen que el tal Bernardini treballava a Simon &amp; Schuster negociant drets d’autor. El va detindre l’FBI a l’aeroport John F. Kennedy de Nova York i ningú ha explicat encara per què feia el que feia, si és que realment era ell qui ho feia.</p>\n",
-				"date_published": "2022-07-28T20:55:41+02:00",
-				"url": "https://carlesbellver.net/2022/07/28/book-thief/"
+				"content_html": "<blockquote>\n<p>Un escriptor com aquest no pot ser mai popular. Vola massa lent i alhora massa alt.</p>\n</blockquote>\n<p>—E. M. Forster, <a href=\"https://en.m.wikisource.org/wiki/Pharos_and_Pharillon/The_Poetry_of_C._P._Cavafy\">«La poesia de K. P. Kavafis»</a>.</p>\n<p>(Evidentment, no comptava amb Lluís Llach.)</p>\n",
+				"date_published": "2023-03-01T17:59:49+01:00",
+				"url": "https://carlesbellver.net/2023/03/01/89971/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/07/27/alternative-physics/",
+				"id": "https://carlesbellver.net/2023/02/28/65807/",
 				
-				"content_html": "<p>📎 <a href=\"https://phys.org/news/2022-07-roboticists-alternative-physics.html\">Roboticists discover alternative physics</a></p>\n<p>Un programa informàtic analitza les imatges que li proporciona una càmera i busca equacions —amb el mínim nombre de variables— que servisquen per calcular els moviments observats. Les equacions funcionen, però no s’assemblen a les nostres i no és fàcil esbrinar quines variables utilitzen.</p>\n<blockquote>\n<p>“Potser alguns fenòmens ens pareixen misteriosament complexos perquè intentem entendre’ls utilitzant les variables equivocades. En aquests experiments, el nombre de variables era el mateix cada vegada que reiniciàvem la intel·ligència artificial, però les variables eren diferents cada vegada. Així que sí, hi ha maneres alternatives de descriure l’univers i és molt possible que les nostres no siguen perfectes.”</p>\n</blockquote>\n",
-				"date_published": "2022-07-27T20:13:06+02:00",
-				"url": "https://carlesbellver.net/2022/07/27/alternative-physics/"
+				"content_html": "<p>Segons un tòpic sortosament anacrònic, el funcionari que pencava <em>massa</em> feia quedar malament els seus companys més parsimoniosos i els posava en un compromís. Aquesta nit he somniat que la institució pública on treballe regulava —vigilava i castigava— l’“excés de dedicació” (sic). Quina ànsia he passat.</p>\n",
+				"date_published": "2023-02-28T07:30:10+01:00",
+				"url": "https://carlesbellver.net/2023/02/28/65807/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/",
+				"id": "https://carlesbellver.net/2023/02/26/00207/",
 				
-				"content_html": "<p>📎 Ignacio Sánchez-Cuenca: <a href=\"https://ctxt.es/es/20220601/Firmas/39900/\">La izquierda ceniza</a></p>\n<blockquote>\n<p>Triturada la utopía, en cualquiera de sus formas, la crítica hiperbólica del mundo contemporáneo es una carga muy pesada de sobrellevar […] La izquierda no se quedaría sin espacio propio por el hecho de reconocer la complejidad del mundo, con su intrincada mezcla de aspectos positivos y negativos. Se pueden celebrar hasta los pequeños avances sin por ello renunciar a la lucha por la mejora en todos los ámbitos posibles de aquellas situaciones de opresión, discriminación y explotación que perviven y se enquistan.</p>\n</blockquote>\n",
-				"date_published": "2022-06-05T11:56:33+02:00",
-				"url": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/"
+				"content_html": "<p>Dues coses que em feien sentir molta angúnia quan era menut: les misses i el flamenc. Encara procure evitar-les.</p>\n",
+				"date_published": "2023-02-26T09:30:11+01:00",
+				"url": "https://carlesbellver.net/2023/02/26/00207/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/",
+				"id": "https://carlesbellver.net/2023/02/25/37429/",
+				"title": "ChatGPT",
+				"content_html": "<p>L’article de Manuel Castells sobre ChatGPT és una perfecta il·lustració d’on pot arribar avui en dia aquesta eina. Quan algú pensa que el nivell del text generat és bo, sol ser perquè ell mateix no domina el tema.</p>\n",
+				"date_published": "2023-02-25T16:04:14+01:00",
+				"url": "https://carlesbellver.net/2023/02/25/37429/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/",
+				"title": "What Is ChatGPT Doing… and Why Does It Work?",
+				"content_html": "<blockquote>\n<p>El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &quot;continuació raonable&quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.</p>\n<p>El que fa, bàsicament, és preguntar-se una vegada i una altra: &quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un <em>token</em>, que podria ser només una part d'una paraula, i per això de vegades pot &quot;inventar&quot; paraules noves.)</p>\n<p>A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &quot;pla&quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l'atzar paraules amb menys probabilitat, obtenim un text més &quot;interessant&quot;.</p>\n</blockquote>\n",
+				"date_published": "2023-02-23T09:44:05+01:00",
+				"url": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/02/16/chatgpt/",
 				
-				"content_html": "<blockquote>\n<p>Naturalment, Fuster era ciscarista, a diferència de molts dels seus seguidors. Les raons són molt naturals: Fuster era molt més intel·ligent i pragmàtic que la majoria dels seus <em>followers</em>. Ell va entendre de seguida que la Llei d'Ús i Ensenyament del Valencià era revolucionària, el primer estri legal favorable a la llengua des dels Decrets de Nova Planta…</p>\n</blockquote>\n<p>📎 Joan Garí, <a href=\"http://oficidelector.blogspot.com/2022/05/fuster-en-la-seua-salsa.html\">“Fuster en la seua salsa”</a> (ressenya del llibre de Salvador Vendrell <a href=\"https://www.onadaedicions.com/llibres/producte/A+casa+Joan+Fuster+Les+tertulies+de+Sueca\"><em>A casa Joan Fuster. Les tertúlies de Sueca</em></a>).</p>\n",
-				"date_published": "2022-05-22T09:35:45+02:00",
-				"url": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/"
+				"content_html": "<p>Últimament he fet bastants proves amb ChatGPT, he llegit sobre el tema i n’hem parlat molt a la feina, fins que hem arribat a plasmar algunes idees en un <a href=\"https://cent.uji.es/pub/chatgpt\">document</a> adreçat al professorat. Però em fa l’efecte que algunes persones que han opinat sobre aquesta tecnologia han tingut accés a una versió més potent i més fiable que la meua. No el ChatGPT Plus de 20 €/m, sinó un encara millor, potser exclusiu per a iniciats. Només així m’explique les seues aparents exageracions.</p>\n",
+				"date_published": "2023-02-16T16:32:49+01:00",
+				"url": "https://carlesbellver.net/2023/02/16/chatgpt/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/",
-				"title": "Els tòpics són la religió de les classes mitjanes",
-				"content_html": "<blockquote>\n<p>—…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?</p>\n<p>—Crec que ell va dir l'<em>ethos</em>.</p>\n<p>—Perquè l'originalitat és pertorbadora, correcte?</p>\n<p>—Depèn del context.</p>\n<p>—Com?</p>\n<p>—Hi ha contextos de classe mitjana on s'espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S'imposa.</p>\n</blockquote>\n<p>—John Fowles, “The Cloud” (<em>The Ebony Tower</em>).</p>\n",
-				"date_published": "2022-05-15T18:45:59+02:00",
-				"url": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/"
+				"id": "https://carlesbellver.net/2023/02/02/60696/",
+				"title": "Enshittification",
+				"content_html": "<p>En català, com en francès, no necessitem cap neologisme per expressar l’estat actual d’Internet.</p>\n<blockquote>\n<p>…<em>emmerder</em> already exists and has its own shades of meaning.</p>\n</blockquote>\n",
+				"date_published": "2023-02-02T18:59:11+01:00",
+				"url": "https://carlesbellver.net/2023/02/02/60696/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/05/08/prorroga/",
+				"id": "https://carlesbellver.net/2023/01/21/catalunya-roja/",
+				"title": "Catalunya Roja",
+				"content_html": "<p>Ignacio Sánchez-Cuenca sobre les diferències ideològiques a l’UE i a Espanya. Segons l’<a href=\"https://www.europarl.europa.eu/at-your-service/es/be-heard/eurobarometer/2019-european-elections-entered-a-new-dimension\">Eurobaròmetre</a> posterior a les eleccions de 2019, Espanya és el país més esquerrà d’Europa (4,4) i Romania el més dretà (6,1). Catalunya (3,6) i Euskadi són les més <em>roges</em>, i Madrid (4,9) la que menys. L'escala va del zero (extrema esquerra) al deu (extrema dreta).</p>\n<p>Diversos factors poden explicar que la gent opine de mitjana d’una manera i vote (almenys aparentment) d’una altra manera. Però el que m’han fet evocar aquestes dades és una altra cosa. Allò que va dir Joan Fuster (<a href=\"https://elramellet.blogspot.com/2011/06/sera-desquerres-o-no-sera.html\">en una entrevista amb Amadeu Fabregat</a>): <em>que el País Valencià seria d’esquerres o no seria</em>. Si l’<em>statu quo</em> ja et va bé —i per això ets conservador—, per què hauries de voler canviar-lo?</p>\n<blockquote>\n<p>La percepción de una parte importante de las poblaciones catalana y vasca de que sus respectivas naciones no gozan del reconocimiento nacional que deberían tener, o la creencia de que sufren algún tipo de discriminación o maltrato, produce una tensión política entre centro y periferia que desplaza los valores ideológicos hacia la izquierda.</p>\n</blockquote>\n",
+				"date_published": "2023-01-21T13:40:51+01:00",
+				"url": "https://carlesbellver.net/2023/01/21/catalunya-roja/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/01/06/dark-forest/",
+				"title": "The Expanding Dark Forest and Generative AI",
+				"content_html": "<blockquote>\n<p>La <a href=\"https://maggieappleton.com/cozy-web\">teoria del bosc fosc</a> de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d'espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, &quot;creadors de contingut&quot; farcits de paraules clau i brossa manipulada algorítmicament.</p>\n</blockquote>\n<p>El nou repte, diu Maggie Appleton, és provar que no som algoritmes d’intel·ligència artificial: una mena de test de Turing invers. En aquest apunt del seu web esbossa cinc opcions, les més interessants de les quals serien les tres primeres:</p>\n<ol>\n<li><strong>Triangular la realitat objectiva</strong>. Com més específic i local siga el context, quant més contacte hi haja amb el món real, més inassolible seria el resultat per a una IA que no pot contrastar les dades amb cap font externa (ací, per cert, rau també la solució del pseudoproblema del plagi en els treballs acadèmics).</li>\n<li><strong>Ser originals, crítics i sofisticats</strong>. Fugir de la mediocritat: és a dir, de l’estadística que alimenta les IA. Els models probabilístics “escupen text que sona a treball de notable alt… Això apujarà el nivell d’exigència per a tothom”.</li>\n<li><strong>Desenvolupar un estil personal</strong>. En termes de lingüística clàssica: “Hem codificat <em>la langue</em> en un punt exacte del temps. El que ens queda per a jugar és <em>la parla</em>.” L’estil, recordem, <a href=\"/2019/12/10/i-know-jerry.html\">“és allò que fas <em>malament</em>”</a>, allò que no pots deixar de fer i et caracteritza, segons Neil Gaiman/Jerry Garcia.</li>\n</ol>\n",
+				"date_published": "2023-01-06T20:02:14+01:00",
+				"url": "https://carlesbellver.net/2023/01/06/dark-forest/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/01/05/panoli/",
+				"title": "panoli",
+				"content_html": "<blockquote>\n<p>Del valenciano <em>panoli</em>; propiamente ‘fruta de sartén’, contracc. de <em>pa en oli</em> ‘pan con aceite’, en cat. <em>pa amb oli</em>.</p>\n<ol>\n<li><em>adj. coloq.</em> Dicho de una persona: Simple y fácil de engañar. <em>U. t. c. s.</em></li>\n</ol>\n</blockquote>\n<p>—RAE</p>\n<img alt=\"Panoli a l'aparador d'una pastisseria\" src=\"/uploads/2023/2023-01-05-panoli.jpg\">\n",
+				"date_published": "2023-01-05T13:13:41+01:00",
+				"url": "https://carlesbellver.net/2023/01/05/panoli/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/01/03/72876/",
+				"title": "Un poco menos que ángeles",
+				"content_html": "<p>📖 <em>Un poco menos que ángeles</em>. No recorde com vaig descobrir <a href=\"https://en.wikipedia.org/wiki/Barbara_Pym\">Barbara Pym</a> (primera en la llista d’escriptores i escriptors britànics més injustament menystinguts, segons Philip Larkin i David Cecil). Més moderna que Jane Austen, més subtil que Evelyn Waugh. <em>Less Than Angels</em> és una de les novel·les més memorables que vaig llegir el 2022. Els alts i baixos de l’amor, molt d’humor i observació perspicaç de la vida d’homes i dones, a casa i a la facultat d’antropologia.</p>\n",
+				"date_published": "2023-01-03T20:08:04+01:00",
+				"url": "https://carlesbellver.net/2023/01/03/72876/"
+			},
+			{
+				"id": "https://carlesbellver.net/2022/12/31/06424/",
 				
-				"content_html": "<p>Encara em queden uns pocs exemplars digitals d’<a href=\"/contes/unicorns\"><em>Unicorns</em></a> per signar, així que mantindré l’<a href=\"/2022/04/22/sant-jordi/\">oferta</a> fins a fi d’existències.</p>\n",
-				"date_published": "2022-05-08T18:25:00+02:00",
-				"url": "https://carlesbellver.net/2022/05/08/prorroga/"
+				"content_html": "<p>L’any que ve ja toca.</p>\n<img alt=\"Pintura a l'oli d'un ovni sobre un camp per DALLE·2\" src=\"/uploads/2022/2022-12-31-06424.jpg\">\n",
+				"date_published": "2022-12-31T18:07:14+01:00",
+				"url": "https://carlesbellver.net/2022/12/31/06424/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/05/08/42/",
+				"id": "https://carlesbellver.net/2022/12/26/57574/",
 				
-				"content_html": "<p>La resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat.</p>\n<img alt=\"Grafit amb el número 42 en un poal d'escombraries.\" src=\"/uploads/2022/2022-05-08-42.jpg\">\n",
-				"date_published": "2022-05-08T09:30:12+02:00",
-				"url": "https://carlesbellver.net/2022/05/08/42/"
+				"content_html": "<blockquote>\n<p>M'agradaria tenir una comprensió més perfecta de les coses, però no vull comprar-la tan cara com costa. La meva intenció és passar tranquil·lament, i no laboriosament, el que em queda de vida. Per res em veig trencant-me el cap: no per la ciència, per valuosa que sigui. No busco als llibres res que no sigui donar-me plaer amb una diversió honesta; o si estudio, només hi busco la ciència que tracti del coneixement de mi mateix i que m'instrueixi a morir bé i a viure bé.</p>\n</blockquote>\n<p>—Michel de Montaigne, <em>Essais</em> (1595), llibre II, capítol 10.</p>\n",
+				"date_published": "2022-12-26T13:26:30+01:00",
+				"url": "https://carlesbellver.net/2022/12/26/57574/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/05/06/fusteries/",
+				"id": "https://carlesbellver.net/2022/12/22/30256/",
 				
-				"content_html": "<p>📖 Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que trenta anys després participaria en l’homenatge que li retrien els escriptors de Castelló. En una discreta segona fila, evidentment, darrere de figures venerables com Vicent Pitarch, Lluís Meseguer i Toni Royo. Tots tres encarregats de presentar avui divendres, a la Fira del Llibre de Castelló, aquestes <a href=\"https://www.elpontdeleslletres.cat/2022/05/11/fusteries-del-pont/\">Fusteries d’El Pont</a>.</p>\n<img src=\"/uploads/2022/2022-05-06-fusteries.jpg\" alt=\"D'esquerra a dreta, Toni Royo, Vicent Pitarch i Lluís Meseguer en la Fira del Llibre de Castelló.\">\n",
-				"date_published": "2022-05-06T19:07:01+00:00",
-				"url": "https://carlesbellver.net/2022/05/06/fusteries/"
+				"content_html": "<p>Bon Nadal.</p>\n<img alt=\"Felicitació de Nadal amb una imatge dels Reis d'Orient extreta de l'Atles Català de Cresques Abraham (1375).\" src=\"/uploads/2022/2022-12-22-30256.jpg\">\n",
+				"date_published": "2022-12-22T18:31:01+01:00",
+				"url": "https://carlesbellver.net/2022/12/22/30256/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/04/30/far-west/",
+				"id": "https://carlesbellver.net/2022/12/16/20791/",
 				
-				"content_html": "<p>L’extrem occident. <em>Far West</em>.</p>\n<img alt=\"Un cavallet del Corpus passant pel carrer sota l'atenta mirada d'un transeünt.\" src=\"/uploads/2022/2022-04-30-far-west.jpg\">\n",
-				"date_published": "2022-04-30T17:55:03+02:00",
-				"url": "https://carlesbellver.net/2022/04/30/far-west/"
+				"content_html": "<p>Els ramats dels dinars de Nadal palesen que ningú creix. Mai. Atavismes que afloren de sota els abrics i la cosmètica civilitzatòria. Qui era roí de menut continua sent-ho cinquanta anys després. Els documentals sobre primats em van ensenyar molt més del que podia imaginar.</p>\n",
+				"date_published": "2022-12-16T21:00:06+01:00",
+				"url": "https://carlesbellver.net/2022/12/16/20791/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/04/27/facebook-does-not-know/",
+				"id": "https://carlesbellver.net/2022/12/13/55/",
 				
-				"content_html": "<p>📎 <a href=\"https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes\">Facebook Doesn’t Know What It Does With Your Data, Or Where It Goes: Leaked Document</a></p>\n<blockquote>\n<p>Facebook s’enfronta al que descriu internament com un “tsunami” de les regulacions de privadesa arreu del món, que obligarà l’empresa a canviar dràsticament la manera de tractar les dades personals dels usuaris. I el problema “fonamental”, admet l'empresa, és que Facebook no té ni idea d’on van totes les seues dades d’usuari, ni què n'està fent, <a href=\"https://www.documentcloud.org/documents/21716382-facebook-data-lineage-internal-document\">segons un document intern filtrat obtingut per Motherboard</a>.</p>\n</blockquote>\n",
-				"date_published": "2022-04-27T14:34:40+02:00",
-				"url": "https://carlesbellver.net/2022/04/27/facebook-does-not-know/"
+				"content_html": "<p>Avui he fet cinquanta-cinc anys. N’han passat quasi quaranta, per tant, des que els invents del senyor Clive Sinclair em van començar a ensenyar aquesta altra forma d’escriptura —o de màgia: la programació— que <a href=\"/2021/04/14/healing-power-javascript/\">fa que passen coses</a>.</p>\n<img src=\"/uploads/2022/2022-12-13-55.jpg\" alt=\"Foto de Carles Bellver Torlà amb una samarreta amb el retol Sinclair ZX Spectrum i el nombre 55 sobreimprès.\">",
+				"date_published": "2022-12-13T19:44:14+01:00",
+				"url": "https://carlesbellver.net/2022/12/13/55/"
 			},
 			{
-				"id": "https://carlesbellver.net/2022/04/23/video-games/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.insidehighered.com/blogs/higher-ed-gamma/can-video-games-teach\">Can Video Games Teach?</a></p>\n<p>Tinc la sensació que una bona part del discurs sobre jocs seriosos ve de persones, i d'ambients, que potser no s’havien pres encara prou seriosament els videojocs. Ni la cultura popular en general, de fet. Com si no hagueren donat prou importància a l'aprenentatge que es produïa, o es produeix, a més dels jocs, en tebeos, pel·lícules, cançons, etc., i no hagueren reflexionat sobre com traure’n profit per a l’educació formal.</p>\n<p>La meua opinió sobre el tema —totalment irrellevant— és que, als jocs, s’hi sol jugar seriosament —<a href=\"/2014/03/14/julio-cortzar-jugbamos.html\">com deia Julio Cortázar</a>— i que és bo equilibrar la balança amb un disseny seriós dels jocs. També, evidentment, des d’un punt de vista pedagògic.</p>\n<p>En l'article enllaçat més amunt, m’ha cridat l’atenció especialment el lligam que s'hi estableix entre els videojocs i el concepte de flux encunyat per <a href=\"https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi\">Csikszentmihalyi</a>. Precisament, va ser aquesta experiència d’immersió mental en els jocs la que va donar origen en 1962 al concepte de <a href=\"/2015/09/16/de-la-revelaci.html\">ciberespai</a>, com a mitjà, més enllà de la realitat física, en què ens trobem quan interactuem amb o mitjançant dispositius electrònics.</p>\n<p>El ciberespai: una idea amb molta història que ara el senyor Z. vol monopolitzar i explotar comercialment, canviant-li el nom per metavers.</p>\n",
-				"date_published": "2022-04-23T10:15:46+02:00",
-				"url": "https://carlesbellver.net/2022/04/23/video-games/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/04/22/sant-jordi/",
-				"title": "Sant Jordi digital",
-				"content_html": "<p>Oferta de Sant Jordi, vàlida fins al 8 de maig: si voleu que us signe un llibre en format electrònic, no teniu més que dir-m’ho i us enviaré un EPUB d’<a href=\"/contes/unicorns/\"><em>Unicorns</em></a> personalitzat i gratuït.</p>\n<p>S’admeten peticions per <a href=\"/about/\">correu, Telegram, Mastodon o Twitter</a>. Indiqueu en quina adreça de correu voleu rebre el llibre i quin nom ha d’aparèixer en la dedicatòria.</p>\n<p>En aquesta edició especial s’inclouen els seixanta-quatre dibuixos gargotejats per l’autor, a la manera d’Arthur Laffer, en els tovallons de paper de l’Arkham Café (s’ha de dir que no tenen, evidentment, cap valor artístic).</p>\n<img src=\"/uploads/2022/2022-04-22-tovallons_800.jpg\" alt=\"Mosaic amb les seixanta-quatre il·lustracions\">",
-				"date_published": "2022-04-22T11:00:50+02:00",
-				"url": "https://carlesbellver.net/2022/04/22/sant-jordi/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/04/04/gran-ciutat/",
-				
-				"content_html": "<p>Bon dia. Ja ens queda menys: al voltant de cent setanta anys #Castelló #UJI</p>\n<blockquote>\n<p>Si vols crear una gran ciutat, crea una gran universitat i espera dos-cents anys.</p>\n</blockquote>\n<p>📎 <a href=\"https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html\">Bruce Katz, urbanista de ciutats globals</a></p>\n",
-				"date_published": "2022-04-04T08:00:35+02:00",
-				"url": "https://carlesbellver.net/2022/04/04/gran-ciutat/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
-				
-				"content_html": "<p>L’amor lliure (i feliç).</p>\n<img alt=\"Grafit en una paret: “Be lesbian” i un cor somrient\" src=\"/uploads/2022/2022-04-01-amor-lliure.jpg\">\n",
-				"date_published": "2022-04-01T19:30:14+02:00",
-				"url": "https://carlesbellver.net/2022/04/01/amor-lliure/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/31/art-transports-us/",
-				
-				"content_html": "<p>📎 <a href=\"https://psyche.co/ideas/when-art-transports-us-where-do-we-actually-go\">When art transports us, where do we actually go?</a></p>\n<p>Aquesta pregunta m'ha recordat la <a href=\"/2015/09/16/de-la-revelaci.html\">definició clàssica de <em>ciberespai</em></a>: el <em>lloc</em> no físic on ens trobem quan parlem per telèfon (és a dir, això mateix que ara volen continuar esprement comercialment amb el nom de “metavers”).</p>\n<p>Hi ha, en fi, altres mons, i no sé si són en aquest, però són accessibles des d'aquest.</p>\n<blockquote>\n<p>L'obra d'art, però, obre un món heterònom que no experimente com a pertanyent a la unitat espaciotemporal del món real.</p>\n</blockquote>\n",
-				"date_published": "2022-03-31T20:07:23+02:00",
-				"url": "https://carlesbellver.net/2022/03/31/art-transports-us/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/29/rafael-llopis/",
-				
-				"content_html": "<p>M’assabente que <a href=\"https://es.wikipedia.org/wiki/Rafael_Llopis\">Rafael Llopis</a> va morir la setmana passada. Gràcies a ell —i a les traduccions de <a href=\"https://es.wikipedia.org/wiki/Francisco_Torres_Oliver\">Francisco Torres Oliver</a>— vam conèixer les meravelloses al·lucinacions de Lovecraft en aquells llibrets de butxaca d'Alianza Editorial. La seva edició —i l’enciclopèdica introducció— de <em>Los mitos de Cthulhu</em> ens van descobrir un món que va durar més enllà dels límits estrets de l’adolescència.</p>\n",
-				"date_published": "2022-03-29T19:50:46+02:00",
-				"url": "https://carlesbellver.net/2022/03/29/rafael-llopis/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/15/theranos-of-education/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education\">Who is the Theranos of Education?</a></p>\n<p>Theranos, l'empresa del sector de la biotecnologia que va intentar enganyar a tothom amb fantasioses tècniques d'anàlisi de sang… i ho va aconseguir durant un temps. Podria passar això en el món de l'educació? O ja ha passat? Dos casos molt semblants: tant Altschool (escoles amb tecnologies avançades) com Knewton (programari per a l'aprenentatge adaptatiu) havien de revolucionar l'educació i es van esvair en pocs anys.</p>\n<blockquote>\n<p>Després de consultar un munt de mestres, empresaris, inversors i altres professionals de l'educació sobre la base de les característiques de Theranos (líder carismàtic, capital de risc inicial que sembla desaparèixer, afirmacions no provades i cobertura mediàtica i bombo seguits de silenci), dues grans companyies s'esmentaven una vegada i una altra.</p>\n</blockquote>\n",
-				"date_published": "2022-03-15T10:24:37+01:00",
-				"url": "https://carlesbellver.net/2022/03/15/theranos-of-education/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/13/gemutlichkeit/",
-				
-				"content_html": "<blockquote>\n<p><em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>OANS ZWOA DREI! G’SUFFA!</em></p>\n</blockquote>\n<p>Col·legi Universitari de Castelló. Cap a 1990? <a href=\"https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADnez_Guzm%C3%A1n\">Vicent Martínez Guzmán</a> ens il·lustrava sobre les dificultats per a <a href=\"https://publicacions.iec.cat/repository/pdf/00000082/00000067.pdf\">traduir amb precisió el mot alemany <em>Gemüt</em></a>, en el context de la filosofia de Husserl, i <a href=\"http://eticaydemocracia.uji.es/cvs/salvador/cv.pdf\">Salvador Cabedo Manuel</a> ens va sorprendre —ens va desconcertar— entonant aquesta cançoneta popular alemanya. Típica de les cerveseries, ens va explicar tot seguit. Trenta anys després, la trobe transcrita en una novel·la de Jonathan Coe i recorde l’anècdota. Un brindis, un brindis per aixecar l'ànim! <em>Der Gemütlichkeit!</em> La vida i la filosofia.</p>\n<p><a href=\"https://www.flickr.com/photos/usnationalarchives/4726903479\" title=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"><img src=\"/uploads/2022/2022-03-13-gemutlichkeit.jpg\" alt=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"></a></p>\n",
-				"date_published": "2022-03-13T10:48:55+01:00",
-				"url": "https://carlesbellver.net/2022/03/13/gemutlichkeit/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/07/jovexsempre/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.nomepierdoniuna.net/blu-boi-emac-2022-vivimos-en-un-mundo-tan-cambiante-y-agresivo-que-es-imposible-dejar-atras-la-juventud/\">Blu Boi (Emac 2022): “Vivimos en un mundo tan cambiante y agresivo que es imposible dejar atrás la juventud”</a></p>\n<blockquote>\n<p>El título no se plantea como una oda a la juventud sino como una descripción del momento en el que me encuentro en el que las cosas no avanzan. Puede que cuando tenga treinta y cinco años siga en un punto similar de emociones vinculadas a la precariedad y ansiedad, y eso es lo que yo entiendo por juventud. Se supone que debe ser un proceso de aprendizaje vinculado con la inexperiencia, el miedo y el descubrimiento, aunque vivimos en un mundo tan cambiante y agresivo que me parece imposible haber dejado atrás esa situación en los próximos cuatro años. Llamar <em>Jove x sempre</em> al disco es mi manera de cagarme en todo y quedarme a gusto.</p>\n</blockquote>\n",
-				"date_published": "2022-03-07T16:26:43+01:00",
-				"url": "https://carlesbellver.net/2022/03/07/jovexsempre/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/06/88436/",
-				
-				"content_html": "<p>Diuen que ningú llegeix —o escriu— ja blogs, però jo avui he endreçat el meu.</p>\n",
-				"date_published": "2022-03-06T18:40:37+01:00",
-				"url": "https://carlesbellver.net/2022/03/06/88436/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/23/busties-secretes/",
-				
-				"content_html": "<p>Les organitzacions clandestines utilitzaven sovint bústies secretes per a comunicar-se.</p>\n<img alt=\"Bústia\" src=\"/uploads/2022/2022-02-23-busties-secretes.jpg\">\n",
-				"date_published": "2022-02-23T21:30:14+01:00",
-				"url": "https://carlesbellver.net/2022/02/23/busties-secretes/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/23/challenging-neoliberalism/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/\">Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism</a></p>\n<blockquote>\n<p>Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l'economia i la societat actuals:</p>\n<blockquote>\n<p>Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.</p>\n</blockquote>\n</blockquote>\n",
-				"date_published": "2022-02-23T09:08:04+01:00",
-				"url": "https://carlesbellver.net/2022/02/23/challenging-neoliberalism/"
+				"id": "https://carlesbellver.net/2022/12/05/66828/",
+				"title": "The Twitter Files Were Designed To Make You Mad",
+				"content_html": "<blockquote>\n<p>En algun moment sents que estàs sent manipulat per formar part de la telenovel·la d'un home ric […] Però el cas és que Twitter sempre ha funcionat així, animant-te a tenir opinió sobre un tema que fa deu minuts desconeixies completament.</p>\n</blockquote>\n",
+				"date_published": "2022-12-05T20:00:57+01:00",
+				"url": "https://carlesbellver.net/2022/12/05/66828/"
 			}
 	]
 }
