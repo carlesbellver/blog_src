@@ -12,7 +12,7 @@ googlefonts = ["Special Elite"]
 
 **Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.**
 
-A més d’una valoració general d’allò més espaterrant, transcrita a continuació, l’informe inclou una sinopsi de cada conte d’[*Unicorns*](/contes/unicorns/). Al meu parer són resums de molt poca qualitat, gramaticalment deficients i gens perspicaços, possiblement generats mitjançant algun procediment informàtic automatitzat com ara ChatGPT.
+Junt amb una valoració general d’allò més espaterrant, transcrita a continuació, l’informe inclou una sinopsi de cada conte d’[*Unicorns*](/contes/unicorns/). Al meu parer són resums de molt poca qualitat, gramaticalment deficients i gens perspicaços, possiblement generats mitjançant algun procediment informàtic automatitzat com ara ChatGPT.
 
 > S'ha interceptat un conjunt de documents que consta de seixanta-quatre textos, els quals abasten un ampli ventall de temes. Diversos textos estan relacionats amb el món acadèmic i les discussions filosòfiques. Tanmateix, alguns poden suposar un risc per a la seguretat nacional a causa de la menció de casos potencials d'espionatge, experimentació nuclear i possible comunicació amb els morts. A més, altres textos tracten de la creació de llenguatges, desaparicions misterioses i conceptes estranys i ocults. L'accés a aquests textos s'ha de controlar acuradament i s'han de prendre precaucions per evitar una divulgació no autoritzades, atès que alguns continguts poden causar malestar social pels temes foscos i estranys.
 > 
@@ -22,9 +22,9 @@ Algunes preguntes que em veig obligat a plantejar-me:
 
 1. Per què va cridar l’atenció de la CIA el meu inofensiu recull de microcontes?
 2. Hauré de posar un *disclaimer* davant de cadascuna de les meues creacions literàries, tal com ja vaig haver de fer amb la [“Història del *Tombatossals*”](/contes/tombatossals/) quan algunes ànimes càndides la van prendre per informació fidedigna?
-3. Explicaria açò que cap editorial haja volgut publicar el recull?
+3. Podria explicar açò que cap editorial haja volgut publicar el recull?
 
-A continuació podeu consultar l’informe complet si us ve de gust.
+Més avall, si us ve de gust, podeu consultar l’informe complet.
 
 ---
 
@@ -34,7 +34,7 @@ A set of documents containing 64 texts was intercepted, covering a wide range of
 
 Further investigation is advised, especially of [#24](/contes/unicorns/unicorns24) [#31](/contes/unicorns/unicorns31) [#41](/contes/unicorns/unicorns41) [#60](/contes/unicorns/unicorns60).
 
-\*\*\*
+<p style="text-align: center;">---</p>
 
 [#01](/contes/unicorns/unicorns01) The author meets a french student in the University of Paris and invites her to a lecture on unicorns after finding an advertisement for a colloquium in her folder.
 
@@ -163,5 +163,7 @@ Further investigation is advised, especially of [#24](/contes/unicorns/unicorns2
 [#63](/contes/unicorns/unicorns63) The author visits a degraded apartment building and sees someone he used to know, Valérie, who is holding a mirror as if waiting for a unicorn.
 
 [#64](/contes/unicorns/unicorns64) A group of explorers search for a lost city in the jungle, discussing ancient myths and legends regarding the city, and the dreamer wakes up realizing lost cities, like lost loves, can never be found again.
+
+<p style="text-align: center;">/END</p>
 
 </div>
