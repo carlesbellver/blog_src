@@ -28,7 +28,7 @@ A continuació podeu consultar l’informe complet si us ve de gust.
 
 ---
 
-<div style="margin: 2em 1em; font-family: 'Special Elite'; font-size: 0.95em;">
+<div style="margin: 2em 1em; font-family: 'Special Elite'; font-size: 0.95em;  line-height: 1.75;">
 
 A set of documents containing 64 texts was intercepted, covering a wide range of topics. Several texts relate to academia and philosophical discussions. However, some texts may pose a risk to national security due to their mention of potential espionage, nuclear experimentation, and possible communication with the dead. Additionally, other texts deal with the creation of languages, mysterious disappearances and strange, occult concepts. Access to these texts should be carefully monitored, and precautions must be taken to prevent unauthorized disclosures, given the potential for some contents to cause social unrest due to their dark and eerie themes.
 
