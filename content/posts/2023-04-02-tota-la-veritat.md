@@ -20,6 +20,6 @@ El resultat presentava un aire fred i distant, com si un testimoni imparcial i p
 
 Quina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:
 
-> La llista següent resumeix el contingut d'un conjunt de documents. Redacta un informe molt breu que avalue l'oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l'estil d'una agència d'intel·ligència.
+> La llista següent resumeix el contingut d’un conjunt de documents. Redacta un informe molt breu que avalue l’oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l’estil d’una agència d’intel·ligència.
 
 Aquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del [fals informe](/contes/unicorns/report). Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.
