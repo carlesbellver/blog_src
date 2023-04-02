@@ -603,11 +603,13 @@ article header h1.external a {
 
 .note {
   margin: 0 0 10px;
+  padding: 0.5em;
   font-family: var(--font-details);
   /* font-size: 14px; */
   font-size: 0.7em;
   text-transform: uppercase;
   color: var(--post-info-color);
+  background-color: var(--note-bg-color);
 }
 
 .note i, .note em {

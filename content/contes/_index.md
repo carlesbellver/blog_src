@@ -1,6 +1,7 @@
 +++
 title = "Contes"
 description = "Contes de Carles Bellver Torlà."
+date = "2018-12-11"
 +++
 
 Alguns contes solts.

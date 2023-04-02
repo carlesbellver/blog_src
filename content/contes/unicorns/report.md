@@ -6,6 +6,7 @@ url = "contes/unicorns/report"
 tags = ["contes"]
 image = "uploads/2023/2023-03-31-unicorn-skeleton-1.jpg"
 googlefonts = ["Special Elite"]
+note = "⚠️ ALERTA: <a href=\"/2023/04/02/tota-la-veritat/\">aquest informe és fals</a>."
 +++
 
 <img src="/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg" alt="Pintura a l'oli de l'esquelet d'un unicorn. Generada per DALL·E.">
