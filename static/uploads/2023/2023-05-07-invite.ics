@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//iCal-event-generator//github.com/baochunli//
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Presentació de LA TEMPESTA CONTRA LES ROQUES\, poesia i memòria 
+ d’Albert Garcia Pascual
+DTSTART;TZID=Europe/Madrid:20230507T183000
+DTEND;TZID=Europe/Madrid:20230507T193000
+UID:b795a946-e449-11ed-90a5-b601dfc5a1cf
+CREATED:20230426T154846Z
+DESCRIPTION:https://www.elpontdeleslletres.cat/2023/04/24/tempesta/
+LOCATION:Fira del Llibre de Castelló
+ORGANIZER;CN="El Pont Cooperativa de Lletres";ROLE=CHAIR:MAILTO:contacte@elpontdeleslletres.cat
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Presentació de LA TEMPESTA CONTRA LES ROQUES\, poesia i memò
+ ria d’Albert Garcia Pascual starts in 60 minutes
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
