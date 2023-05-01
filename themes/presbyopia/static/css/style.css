@@ -138,6 +138,15 @@ a:active {
   text-decoration: underline;
 }
 
+#onthisday a {
+  text-decoration: none;
+}
+
+
+#onthisday a:hover, #onthisday a:focus, #onthisday a:active {
+  text-decoration: underline;
+}
+
 a:active,
 a:hover {
   outline: 0;
@@ -473,7 +482,7 @@ h1.post-title {
 .post-list .p-name {
 }
 
-.post-list .p-summary a, .post-list a.summary {
+.post-list .p-summary a, .post-list a.summary, .summary {
   font-family: var(--font-details);
   color: var(--font-color);
 }
