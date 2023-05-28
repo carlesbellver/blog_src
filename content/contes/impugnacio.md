@@ -2,10 +2,10 @@
 license = "by-nc"
 title = "Impugnació de Kavafis"
 description = "Esborrany per a l'homenatge d'El Pont a Albert Garcia Pascual."
-note = "Inclòs en <a href=\"https://www.elpontdeleslletres.cat/2023/05/09/la-tempesta-contra-les-roques/\">La tempesta contra les roques. Poesia i memòria d’Albert Garcia Pascual</a>"
-date = "2023-02-27T19:50:59+01:00"
+note = "Inclòs en <a href=\"https://www.elpontdeleslletres.cat/2023/05/09/la-tempesta-contra-les-roques/\">La tempesta contra les roques. Poesia i memòria d’Albert Garcia Pascual</a>."
+date = "2023-05-28T17:40:00+02:00"
 tags = []
-slug = "5f81f840563c"
+slug = "impugnacio"
 syndication = []
 image = "/tmp/media/itaca-caront-albert_compressed.jpg"
 +++
