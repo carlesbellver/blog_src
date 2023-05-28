@@ -12,15 +12,15 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
-<a name="1"></a>
+<a name="2002.1"></a>
 
-> Bellver colla una volta de caragol del relat fantàstic, per a substituir l'horror de Cthulhu per l'humor absurd.
+> Bellver colla una volta de caragol del relat fantàstic, per a substituir l’horror de Cthulhu per l’humor absurd.
 
 —Albert Toldrà (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
 
 <hr>
 
-<a name="2"></a>
+<a name="2002.2"></a>
 
 > El Carles ens recrea un món lovecraftià de haiku.
 
@@ -28,17 +28,17 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
-<a name="3"></a>
+<a name="2002.3"></a>
 
-> Allò ben cert és que mai no trobarem un llibre escrit d'aquesta manera en Bromera, per exemple.
+> Allò ben cert és que mai no trobarem un llibre escrit d’aquesta manera en Bromera, per exemple.
 
 —Josep A. Mas (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
 
 <hr>
 
-<a name="4"></a>
+<a name="2003.1"></a>
 
-> Certament, tot i precedents en la literatura en català d'aquestes actituds —Calders, Sarsanedas, Perucho, i sobretot, Jaume Cabré—, aquesta important aposta intel·lectualista mereix una lectura que, de tota manera, també presenta el risc de perdre's en subtileses i pressuposicions.  
+> Certament, tot i precedents en la literatura en català d’aquestes actituds —Calders, Sarsanedas, Perucho, i sobretot, Jaume Cabré—, aquesta important aposta intel·lectualista mereix una lectura que, de tota manera, també presenta el risc de perdre’s en subtileses i pressuposicions.  
 > \[…]  
 > Tots aquests relats són els millors escrits mai a Castelló.
 
@@ -46,7 +46,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
-<a name="5"></a>
+<a name="2005.1"></a>
 
 > …un llibre molt bo amb un grapat de contes excepcionals…
 
@@ -54,15 +54,15 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
-<a name="6"></a>
+<a name="2006.1"></a>
 
-> I aquesta necessitat de continuar la lectura d'un relat amb la del relat següent és en part deguda a la màgia que Carles Bellver sap imprimir als seus contes i a la capacitat de generar un interès lector sense haver d'arribar a finals conclusius i sorprenents.
+> I aquesta necessitat de continuar la lectura d’un relat amb la del relat següent és en part deguda a la màgia que Carles Bellver sap imprimir als seus contes i a la capacitat de generar un interès lector sense haver d’arribar a finals conclusius i sorprenents.
 
 —Marc Romera (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
-<a name="7"></a>
+<a name="2011.1"></a>
 
 > Són relats que mantenen, de manera deliberada i eficaç, certa tendència a la insinuació, a la sugestió i a l’evocació, tres propensions característiques del discurs poètic que Bellver conrea en prosa.
 
@@ -70,7 +70,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
-<a name="8"></a>
+<a name="2011.2"></a>
 
 > Això és pitjor que llegir poesia. Hi ha històries que les has de llegir vàries vegades.
 
@@ -78,7 +78,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
-<a name="9"></a>
+<a name="2014.1"></a>
 
 > Amb, com a rerefons, un pòsit de lectures més o menys declarades i, en el centre, un motor de nostàlgia que desencadena el relat de relats.
 
@@ -86,7 +86,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
-<a name="10"></a>
+<a name="2018.1"></a>
 
 > Carles Bellver, una vegada més amb aquest llibre, acuradament redactat, i amb certa dosi d’humor de fons, resulta certament inquietant.
 
