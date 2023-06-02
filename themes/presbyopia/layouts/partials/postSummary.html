@@ -8,6 +8,6 @@
       {{ else if .Params.x_title }}
         <a href="{{ .Permalink }}" class="u-url" title="Enllaç permanent"><span class="p-name">{{ .Params.x_title }}</span> </a>
       {{ else }}
-      <span class="p-summary"><a href="{{ .Permalink }}">{{ .Summary | plainify | truncate 100 }}</a></span>
+      <span class="p-summary">{{ .Summary | plainify | truncate 250 }}</span> <a href="{{ .Permalink }}">[+]</a>
       {{ end }}
     </p>

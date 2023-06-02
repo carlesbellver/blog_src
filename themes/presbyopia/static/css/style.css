@@ -55,6 +55,10 @@ summary {
   font-size: 0.66em;
 }
 
+.ical {
+  text-transform: uppercase;
+}
+
 .common-header {
   width: 100%;
   position: fixed;
@@ -480,6 +484,10 @@ h1.post-title {
 }
 
 .post-list .p-name {
+}
+
+.post-list .p-summary, .summary {
+  font-family: var(--font-details);
 }
 
 .post-list .p-summary a, .post-list a.summary, .summary {

@@ -164,7 +164,8 @@ function displayResults(results) {
       if (results[i]["tags"].includes("fotos")) {
         title_node.innerHTML = title_node.innerHTML + " &#x1F5BC;"
       }
-      title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary"><a href="'+results[i]["url"]+'">'+s+"</a></span>";
+      /* title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary"><a href="'+results[i]["url"]+'">'+s+"</a></span>"; */
+      title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary">'+s+'</span> <a href="'+results[i]["url"]+'">[+]</a>';
     }
     p_node.appendChild(link_node);
     if (title_node != null) {
