@@ -108,7 +108,8 @@ h2 {
 
 h2.subtitle {
   /* font-size: 20px; */
-  font-size: 1em;
+  margin-top: -0.5em;
+  font-size: 1.25em;
   border-bottom: none;
 }
 
@@ -427,6 +428,10 @@ header nav div#quicklinks {
 
 /* Pages */
 
+header.post-header {
+  margin: 0 0 1em;
+}
+
 h1.blog-title {
   margin: 1em 0;
   padding: 0;
@@ -439,8 +444,12 @@ h1.blog-title {
   text-transform: uppercase;
 }
 
+header .note a {
+  color: var(--link-color);
+}
+
 h1.post-title {
-  margin: 0.5em 0 1em;
+  margin: 0 0 0.5em;
   font-family: var(--font-heading);
 }
 
