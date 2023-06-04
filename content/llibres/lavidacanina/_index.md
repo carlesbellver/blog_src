@@ -18,6 +18,7 @@ L’autor ens presenta els relats que componen aquest llibre com si els haguessi
 
 ## Ressenyes
 
-- ["Sota l'epidermis de la realitat"](2005-09-25-mediterraneo-cuadernos-lavidacanina.pdf) (Vicent Usó, El Periódico Mediterráneo, 25 de setembre de 2005).
-- ["Contes de bojos"](2006-01-27-levante-posdata-lavidacanina.pdf) (Manel Garcia Grau, Levante, 27 de gener de 2006).
-- ["Contes de bojos"](http://elpais.com/diario/2006/05/11/quaderncat/1147308321_850215.html) (Marc Romera, El País, 11 de maig de 2006).
+- [“Sota l’epidermis de la realitat”](uso-epm) (Vicent Usó, El Periódico Mediterráneo, 25 de setembre de 2005).
+- [“Les forces ocultes”](uso-avui) (Vicent Usó, Avui, 23 de novembre de 2005).
+- [“Contes de bojos”](garcia-emv) (Manel Garcia Grau, Levante-EMV, 27 de gener de 2006).
+- [“Contes de bojos”](romera-elpais) (Marc Romera, El País, 11 de maig de 2006).

@@ -1,0 +1,17 @@
++++
+title = "Contes de bojos"
+description = "Ressenya de “La vida canina” per Manel Garcia Grau. Publicada originalment en el suplement Posdata de Levante-EMV, 20 de gener de 2006."
+note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><em>La vida canina</em></a> publicada originalment en el suplement Posdata de Levante-EMV, 20 de gener de 2006."
+author = "Manel Garcia Grau"
+date = "2006-01-20"
++++ 
+
+Carles Bellver Torlà (Castelló, 1967) ens presenta els trenta-dos relats breus d’aquest llibre com si els hagueren escrit els pacients d’un gabinet psiquiàtric. Aquesta obra, la quarta de la seua producció, no ve sinó a confirmar el que alguns estudiosos de la literatura en català, en un recent estudi d’abast local, l’anomenaven —amb total justícia— com el millor escriptor de narrativa curta en català nascut a Castelló el darrer terç del segle XX. Tres llibres anteriors que ens feien entreveure com les seues preferències literàries, com es pot comprovar fàcilment a *La vida canina*, tendeixen al fantàstic i al surrealisme, allò que l’autor anomenà com una “poètica del deliri”, connectada expressament amb la follia, el tràngol i la incapacitat de comprendre totalment aquest món en què vivim.
+
+El llibre s’inicia amb un pròleg del propi autor en què se’ns ‘explica’ la raó per la qual ha decidit recollir tots aqiuests relats: una ‘suposada’ notícia apareguda en un diari sobre el descobriment d’un centre psiquiàtric il·legal i dirigit per un misteriós doctor Beauvoir. I acaba amb un epíleg, escrit també en primera persona per l’autor, on se’ns transcriu una suposada carta enviada per un lector anònim que dóna dades per desxifrar —o atorgar pistes— el misteri de l’esmentat doctor. El resultat de tot plegat és una sucosa antologia d’històries fantàstiques i una crònica de casos clínics a la manera, com ens diu l’autor, del doctor Oliver Sacks.
+
+Unes històries en què ens assabentem d’aparicions i desaparicions, de trobades improbables, confusions inversemblants, persones que de sobte es posen a parlar en hongarès i unes altres que s’enyoren de viure com gossos, ja que cadascun dels contes ens narren situacions extretes o bé de la vida privada de cada pacient o bé de reflexions —o fets coneguts de la història— amb què cadascun d’aquests ens parla de la seua particular visió de la vida.
+
+Esmentar, per exemple, per la seua capacitat de jugar sempre amb la ironia i un pèl de sarcasme ben esmolat, contes com ara “Coup d’état”, que comença amb un “Demà he quedat a les Nacions Unides” dit per un d’aquests pacients; o el titulat “Kant i el mico”, un dels més suggerents, que situa l’acció el 1793 a Königsberg, quan a Kant l’afaitava un mico, ajudant del doctor Battista; o bé “Les nits de la Cave”, on el narrador, ara en tercera persona, conta la disbauxa i els amors de Boris Vian en aquest cafè-teatre; o bé el darrer, titulat, simptomàticament, “Vides de gossos”, que dóna un sentit irònic als motius pels quals l’autor ha decidit ‘suposadament’ recollir aquestes trenta-dues històries: un relat surrealista en què els dos protagonistes es comporten com gossos i enyoren, com si foren virtuts excepcionals, les capacitats olfactives i instintives d’aquests animals. 
+
+Tot plegat, un conjunt de bones i breus històries en què els diferents i embogits personatges ens fan veure que moltes vegades no entenem per què ni com passen les coses, però passen, com si s’hagueren tornat vertaderament boges.
