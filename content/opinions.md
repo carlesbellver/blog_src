@@ -50,7 +50,15 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > …un llibre molt bo amb un grapat de contes excepcionals…
 
-—Blog El Llibreter (2005) sobre [*La vida canina*](/llibres/lavidacanina/).
+—Blog *El Llibreter* (2005) sobre [*La vida canina*](/llibres/lavidacanina/).
+
+<hr>
+
+<a name="2005.2"></a>
+
+> A partir d’un matís, d’un episodi, Bellver —sense abandonar una prosa escassament procliu als escarafalls— s’aplica a desvetllar-nos que les aparences enganyen, que, sota l’epidermis d’aquesta aparent normalitat, s’amaguen forces ocultes, àmbits misteriosos, secrets insondables.
+
+—Vicent Usó (2005) sobre [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
@@ -59,6 +67,14 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 > I aquesta necessitat de continuar la lectura d’un relat amb la del relat següent és en part deguda a la màgia que Carles Bellver sap imprimir als seus contes i a la capacitat de generar un interès lector sense haver d’arribar a finals conclusius i sorprenents.
 
 —Marc Romera (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
+
+<hr>
+
+<a name="2006.2"></a>
+
+> …allò que l’autor anomenà com una «poètica del deliri», connectada expressament amb la follia, el tràngol i la incapacitat de comprendre totalment aquest món en què vivim.
+
+—Manel Garcia Grau (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
