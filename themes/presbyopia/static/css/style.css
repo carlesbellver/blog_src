@@ -611,7 +611,7 @@ article header h1.external a {
 }
 
 .author {
-  margin: 0 0 10px;
+  margin: 0 0 1em;
   font-family: var(--font-details);
   font-size: 1em;
   text-transform: uppercase;
@@ -619,7 +619,7 @@ article header h1.external a {
 }
 
 .note {
-  margin: 0 0 10px;
+  margin: 0 0 1em;
   padding: 0.5em;
   font-family: var(--font-details);
   /* font-size: 14px; */
