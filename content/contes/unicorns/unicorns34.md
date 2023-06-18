@@ -1,16 +1,19 @@
 +++
 title = "Primer conte de fades"
-description = "Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un noiet."
+description = "Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un xiquet."
 date = "2018-12-14"
+titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns34"
 tags = ["contes"]
+image = "/contes/unicorns/images/unicorns34.jpg"
 +++
 
-<img class="emoji" alt="emoji: passenger ship" src="/contes/unicorns/twemoji/1f6f3.svg">
-
-Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un noiet. La van fer desfilar cap a ell entre els convidats, gairebé nua, lligada amb una corretja ben cenyida al coll. Li van dir entre rialles: és teva, pots fer-li el que vulguis. I això va fer, a partir d’aquella nit.
+Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un xiquet. La van fer desfilar cap a ell entre els convidats, gairebé nua, lligada amb una corretja ben cenyida al coll. Li van dir entre rialles: és teua, pots fer-li el que vulgues. I això va fer, a partir d’aquella nit.
 
 En general la tractava bé.
 
-A l’abril, amb el canvi d’estació, es va sentir deprimit i se la va emportar a un creuer per la Mediterrània. En una escala, ella va aprofitar la seva ressaca —el xampany francès— per a robar-lo i subornar uns mariners que el van apallissar. Va fugir i va agafar un tren i un avió, ambdós a l’atzar. Un any més tard, una companya va contar una història que coincidia punt per punt amb la seva. No es va creure, però, que ell la busqués, que un detectiu es passegés pel barri xino amb un contracte matrimonial com a esquer. Era tard per a empassar-se el primer conte de fades, o de prínceps i cortesanes, amb què la volguessin entabanar.
+A l’abril, amb el canvi d’estació, es va sentir deprimit i se la va emportar a un creuer per la Mediterrània. En una escala, ella va aprofitar la seua ressaca —el xampany francès— per a robar-lo i subornar uns mariners que el van apallissar. Va fugir i va agafar un tren i un avió, ambdós a l’atzar. Un any més tard, una companya va contar una història que coincidia punt per punt amb la seua. No es va creure, però, que ell la buscara, que un detectiu es passejara pel barri xino amb un contracte matrimonial com a esquer. Era tard per a empassar-se el primer conte de fades, o de prínceps i cortesanes, amb què la volgueren entabanar.
+
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns34.jpg" alt="Pintura a l’oli d’un transatlàntic."><figcaption><em>Queen of R’lyeh II</em> (Reina de R’lyeh II)</figcaption></figure>
+

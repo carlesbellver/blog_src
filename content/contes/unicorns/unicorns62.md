@@ -2,12 +2,12 @@
 title = "Darrera defensa"
 description = "La vaig veure al monestir de Strahov, en una petita Wunderkammer annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres."
 date = "2018-12-28"
+titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns62"
 tags = ["contes"]
+image = "/contes/unicorns/images/unicorns62.jpg"
 +++
-
-<img class="emoji" alt="emoji: unicorn" src="/contes/unicorns/twemoji/1f984.svg">
 
 La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres. En vam parlar a la nit, en tornar a l’hotel.
 
@@ -26,3 +26,6 @@ La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la S
 —De vegades em desconcertes. De debò que no veig on vols anar a parar.
 
 Enlloc, sens dubte. Només es tractava d’una maniobra de distracció desesperada.
+
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns62.jpg" alt="Pintura a l’oli d’un unicorn ajagut enmig del bosc. Imitació de John William Godward."><figcaption><em>Dying unicorn</em> (Unicorn moribund)</figcaption></figure>
+

@@ -2,12 +2,12 @@
 title = "Una eternitat"
 description = "Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final."
 date = "2018-12-27"
+titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns59"
 tags = ["contes"]
+image = "/contes/unicorns/images/unicorns59.jpg"
 +++
-
-<img class="emoji" alt="emoji: woman zombie" src="/contes/unicorns/twemoji/1f9df.svg">
 
 Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.
 
@@ -23,9 +23,9 @@ Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers 
 
 —M’han foradat la jaqueta, m’han fet malbé tota la roba…
 
-—Si només t’haguessin foradat la jaqueta…
+—Si només t’hagueren foradat la jaqueta…
 
-El trontolleig del carro els assossegava. Gairebé com si els engronsessin. Com si tornessin al claustre matern. Els dipositaven formant rengleres, el cap d’un amb els peus del següent, perquè en cabessin més. Quan en completaven una, en començaven una altra.
+El trontolleig del carro els assossegava. Gairebé com si els engronsaren. Com si tornaren al claustre matern. Els dipositaven formant rengleres, el cap d’un amb els peus del següent, perquè en caberen més. Quan en completaven una, en començaven una altra.
 
 —Quin ordre!
 
@@ -35,8 +35,11 @@ El trontolleig del carro els assossegava. Gairebé com si els engronsessin. Com 
 
 —I durarà anys, ja ho veureu.
 
-Comptava mentalment. Com voleu que compti un mort? Amb els dits no pot.
+Comptava mentalment. Com voleu que compte un mort? Amb els dits no pot.
 
 —Quaranta, si més no.
 
 —Una eternitat.
+
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns59.jpg" alt="Pintura a l’oli de l’entrada d’un cementeri."><figcaption><em>Cemetery gates</em> (Les portes del cementeri)</figcaption></figure>
+

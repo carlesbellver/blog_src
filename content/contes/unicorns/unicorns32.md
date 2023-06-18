@@ -6,9 +6,8 @@ titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns32"
 tags = ["contes"]
+image = "/contes/unicorns/images/unicorns32.jpg"
 +++
-
-<img class="emoji" alt="emoji: high voltage" src="/contes/unicorns/twemoji/26a1.svg">
 
 Una vesprada d’estiu, un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar. Digueu?
 
@@ -20,4 +19,7 @@ I en aquest punt es va aturar un instant etern.
 
 *“Believe”*, va xiuxiuejar sibil·linament abans de penjar.
 
-A l’altre extrem, ara lluïa un riure sardònic el mateix cavaller alt, bru, que uns anys enrere havia executat demostracions d’electromagnetisme i de projecció d’imatges, el mateix que el trenta-u d’octubre anterior va persuadir un estudiant de Mont-real perquè preguntés a Houdini si no creia en els miracles i en les sagrades escriptures i provés si era de debò que aguantava tres bons colps de puny a l’estómac sense parpellejar.
+A l’altre extrem, ara lluïa un riure sardònic el mateix cavaller alt, bru, que uns anys enrere havia executat demostracions d’electromagnetisme i de projecció d’imatges, el mateix que el trenta-u d’octubre anterior va persuadir un estudiant de Mont-real perquè preguntara a Houdini si no creia en els miracles i en les sagrades escriptures i provara si era de debò que aguantava tres bons colps de puny a l’estómac sense parpellejar.
+
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns32.jpg" alt="Pintura a l’oli. Edificis en primer pla i un llamp al rerefons."><figcaption><em>Lightning over Harlem</em> (Llamp sobre Harlem)</figcaption></figure>
+

@@ -774,11 +774,27 @@ article .content img.drawing {
   height: 200px;
 }
 
-article figcaption {
-  color: grey;
+article .content figure {
+  width: 60%;
+  margin: 3em auto;
+  padding: 0;
+}
+
+article .content figure img {
+  width: 100%;
+  margin: 0 0 0.5em;
+  padding: 0;
+}
+
+article .content figure figcaption {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-details);
+  font-size: 0.8em;
   text-align: center;
-  font-size: 0.9em;
-  margin-bottom: 2em;
+  text-transform: uppercase;
+  color: var(--foot-color);
 }
 
 article video,
