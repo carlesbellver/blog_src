@@ -9,7 +9,7 @@ tags = ["contes"]
 image = "/contes/unicorns/images/unicorns05.jpg"
 +++
 
-—El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston van veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York ha detingut un pintor bohemi, al Village, per espantar els veïns amb el seu cocodril.
+—El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston van veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York ha detingut un pintor bohemi, al Village, per espantar els veïns amb el seu caiman.
 
 —No ens hauríem d’estranyar, doncs, que Dexter vulga tenir per mascota una aranya gegant?
 
@@ -25,7 +25,7 @@ image = "/contes/unicorns/images/unicorns05.jpg"
 
 —No crec que tingueu cap possibilitat de guanyar.
 
-—La dona de fer feines va plegar i no pot aconseguir una substituta. El passadís, darrere del vestíbul, era ple d’immundícia. No caldrà que us diga que no vaig passar del llindar.
+—La dona de fer feines va plegar i no pot aconseguir una substituta. El terra, darrere d'ell, era ple d’immundícies. No caldrà que us diga que no vaig creuar el llindar de la porta.
 
 —Algú hauria de fer alguna cosa, senyors.
 
