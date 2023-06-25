@@ -21,5 +21,5 @@ Tenia, en resum, un pressentiment sobre la seua identitat.
 El ressò d’un nom que evocava les piràmides i els espais interestel·lars em ballava pel cap, i en una altra època m’hauria rigut de la pueril superstició que m’impedia pronunciar-lo.
 Però reconec —per més que em faça vergonya— que ara no gosaria dir-lo en veu alta, ni escriure’l en aquest full en lletres majúscules.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns33.jpg" alt="Pintura a l’oli imitant una fotografia antiga. Un petit grup de persones al capdamunt d’unes ruïnes, amb una piràmide egípcia al darrere."><figcaption><em>Diana in Egypt</em> (Diana a Egipte)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns33.jpg" alt="Pintura a l’oli imitant una fotografia antiga. Un petit grup de persones al capdamunt d’unes ruïnes, amb una piràmide egípcia al darrere."><figcaption><em>And it was then that he came out of Egypt</em> (I va ser llavors que va venir d’Egipte)</figcaption></figure>
 

@@ -9,11 +9,11 @@ tags = ["contes"]
 image = "/contes/unicorns/images/unicorns61.jpg"
 +++
 
-Tres colpets suaus a la porta de la sala de professorat vella de l’ala nord —la més discreta—, una pausa i tres colpets més. Sense tardar m’han demanat que passara. Sabia que m’esperaven. He lliurat el nou telegrama i he marxat amb una reverència mentre el conciliàbul s’informava.
+Tres colpets suaus a la porta de la sala de professorat vella de l’ala nord —la més discreta—, una pausa i tres colpets més. Sense trigar m’han demanat que passara. Sabia que m’esperaven. He lliurat el nou telegrama i he marxat fent una reverència mentre el conciliàbul s’informava.
 
 —Avui tampoc no podrà venir. Demà sens falta.
 
-M’he aturat un moment a fora per escoltar les primeres reaccions, abans de tornar a baixar per l’escala principal fins al vestíbul. Des d’allí he buscat una altra vegada la consergeria, he agafat el passadís de darrere i l’escala de servei i en tombar al recolze he entrat a la cambra de calderes, on Nebaud ha establert provisionalment el centre d’operacions. Assegut davant de l’escriptori —improvisat amb uns taulons i un parell de bidons buits— jugava amb els titelles petits que ell mateix havia fabricat, i als quals havia posat noms.
+M’he aturat un moment a fora per escoltar les primeres reaccions, abans de tornar a baixar per l’escala principal fins al vestíbul. Des d’allí he buscat una altra vegada la porteria, he agafat el passadís de darrere i l’escala de servei i en tombar al recolze he entrat a la cambra de calderes, on Nebaud ha establert provisionalment el seu centre d’operacions. Assegut davant de l’escriptori —improvisat amb un tauló i un parell de bidons buits—, jugava amb els titelles petits que ell mateix havia fabricat i als quals havia posat noms.
 
 —Què t’han dit?
 

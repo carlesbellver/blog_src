@@ -9,9 +9,9 @@ tags = ["contes"]
 image = "/contes/unicorns/images/unicorns59.jpg"
 +++
 
-Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.
+Una alba glaçada al llit sec d’un riu, davant d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga se’ls havia fet la nit i que breu el final.
 
-—Us en recordeu, d’aquell sergent que et deixava triar amb quina porra t’apallissaria?
+—Us en recordeu, d’aquell sergent que et deixava triar amb quina porra t’esbatussaria?
 
 —A mi no m’han deixat triar quina bala em matava.
 
@@ -25,7 +25,7 @@ Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers 
 
 —Si només t’hagueren foradat la jaqueta…
 
-El trontolleig del carro els assossegava. Gairebé com si els engronsaren. Com si tornaren al claustre matern. Els dipositaven formant rengleres, el cap d’un amb els peus del següent, perquè en caberen més. Quan en completaven una, en començaven una altra.
+El trontolleig del carro els assossegava. Quasi com si els engronsaren. Com si tornaren al claustre matern. Els feien jaure formant rengleres, el cap d’un amb els peus del següent, perquè en caberen més. Quan en completaven una, en començaven una altra.
 
 —Quin ordre!
 
@@ -35,7 +35,7 @@ El trontolleig del carro els assossegava. Gairebé com si els engronsaren. Com s
 
 —I durarà anys, ja ho veureu.
 
-Comptava mentalment. Com voleu que compte un mort? Amb els dits no pot.
+Comptava mentalment. Com voldreu que compte un mort? Amb els dits no pot.
 
 —Quaranta, si més no.
 

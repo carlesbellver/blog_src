@@ -13,7 +13,7 @@ Quan tenia tretze anys, em vaig passar l’estiu reclòs a la biblioteca municip
 
 (El mapa no és el territori, i les novel·les no són la vida, però alimentaven l’esperança de no perdre-m’hi.)
 
-(I l’emoció estètica? Això seria una altra història, una darrera troballa, tan fortuïta com aquesta, esdevinguda en un prestatge adjacent.)
+(I l’emoció estètica? Això seria una altra història, una tercera troballa, tan fortuïta com aquesta, esdevinguda en un prestatge adjacent.)
 
 <figure class="illustration"><img src="/contes/unicorns/images/unicorns12.jpg" alt="Pintura a l’oli. Una prestatgeria curulla de llibres."><figcaption><em>The library</em> (La biblioteca)</figcaption></figure>
 

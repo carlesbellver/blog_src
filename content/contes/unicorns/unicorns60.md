@@ -17,5 +17,5 @@ image = "/contes/unicorns/images/unicorns60.jpg"
 
 Aquell mateix vespre, Rice es va afanyar a demanar per correu el *Diccionari Català-Valencià-Balear*. Avui han arribat els deu volums en una caixa i ja ha començat a estudiar-los amb deler.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns60.jpg" alt="Imitació del famós díptic de Marilyn Monroe per Andy Warhol amb una fotografia de mossèn Alcover."><figcaption><em>Mossèn Alcover diptych by Andy Warhol</em> (Díptic de mossèn Alcover per Andy Warhol)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns60.jpg" alt="Imitació del famós díptic de Marilyn Monroe per Andy Warhol amb una fotografia de mossèn Alcover."><figcaption><em>Mossèn Alcover diptych by Andy Warhol</em> (Díptic de mossèn Alcover per Andy Warhol)</figcaption></figure>
 

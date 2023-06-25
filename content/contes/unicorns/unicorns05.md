@@ -27,7 +27,7 @@ image = "/contes/unicorns/images/unicorns05.jpg"
 
 —La dona de fer feines va plegar i no pot aconseguir una substituta. El passadís, darrere del vestíbul, era ple d’immundícia. No caldrà que us diga que no vaig passar del llindar.
 
-—Algú haurà de fer alguna cosa, senyors.
+—Algú hauria de fer alguna cosa, senyors.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns05.jpg" alt="Pintura a l’oli. Una bestiola peluda amb potes llargues i ulls oberts."><figcaption><em>The connecting link between a sea-urchin, a spider, and the devil</em> (La baula perduda entre un eriçó de mar, una aranya i el diable)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns05.jpg" alt="Pintura a l’oli. Una bestiola peluda amb potes llargues i ulls oberts."><figcaption><em>The missing link between a sea-urchin, a spider, and the devil</em> (La baula perduda entre un eriçó de mar, una aranya i el diable)</figcaption></figure>
 

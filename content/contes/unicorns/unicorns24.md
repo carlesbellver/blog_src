@@ -19,11 +19,11 @@ image = "/contes/unicorns/images/unicorns24.jpg"
 
 —I el preu, 49,50 dòlars, era un dineral als anys cinquanta.
 
-—Ellery s’ho va empassar. Amb un grup d’estudiants, es van tancar i van intentar replicar les receptes secretes aplicant enginyeria inversa. Al vespre del segon dia es va escoltar l’explosió.
+—Ellery s’ho va empassar. Amb un grup d’estudiants, es van tancar i van intentar replicar les receptes secretes aplicant enginyeria inversa. Al vespre del segon dia es va escoltar l’esclafit.
 
-—Jo no vaig escoltar res. Sóc dur d’orella.
+—Jo no vaig sentir res. Sóc dur d’orella.
 
 —Amb prou feines es van mascarar les bates. I amb això van donar per acabat el seu afer amb l’àtom. Ja es podien tornar a concentrar en la lectura de Paracels.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns24.jpg" alt="Pintura a l’oli. Imatge esquemàtica d’un àtom segons el model de Rutherford."><figcaption><em>Atom</em> (Àtom)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns24.jpg" alt="Pintura a l’oli. Imatge esquemàtica d’un àtom segons el model de Rutherford."><figcaption><em>Atom</em> (Àtom)</figcaption></figure>
 

@@ -17,9 +17,9 @@ S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 
 —Però llavors ens valdrien la història o la prehistòria més convencionals, o l’evolució de les espècies. No necessitaríem anar a buscar cap mena d’explicació insòlita o alternativa.
 
-—No ho has entès? Necessàriament cal que hi haja un secret, que no ens hagen contat com és de debò que hem vingut a parar ací. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teua repugnant concepció.
+—No ho has entès? Necessàriament cal que hi haja un secret, que no ens hagen contat com és de debò que hem anat a raure on som. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teua repugnant concepció.
 
-—Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz vingui a penetrar-la i se n’emporti el tresor més ben guardat.
+—Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz entre a penetrar-la i se n’emporte el tresor més ben guardat.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns37.jpg" alt="Pintura a l’oli. Entrada d’un tunel ferroviari, cel blau a dalt. Imitació de René Magritte."><figcaption><em>Tunnel entrance</em> (Entrada de túnel)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns37.jpg" alt="Pintura a l’oli. Entrada d’un tunel ferroviari, cel blau a dalt. Imitació de René Magritte."><figcaption><em>Tunnel entrance</em> (L’entrada del túnel)</figcaption></figure>
 

@@ -13,7 +13,7 @@ Havia comprat aquella andròmina a algú que assegurava haver treballat com a se
 
 —Mitjançant un ús imaginatiu de la funció d’ona de la mecànica quàntica, es pot mesurar la proporció d’esdeveniments propers que s’estan esdevenint *realment*.
 
-Això digué. Em va fer l’efecte que el mateix Schrödinger se’n reia en silenci amb mi, i que Einstein s’estirava els cabells. *C’est pataphysique…*
+Això va dir. Em va fer l’efecte que el mateix Schrödinger se’n reia en silenci amb mi, i que Einstein s’estirava els cabells. *C’est pataphysique…*
 
 —El que em té confós és que els mesuraments han estat consistentment baixos tots els dies, d’un 20 a un 30 %. Però quan l’utilitze en somni, l’agulla se sol aturar cap al 90 %.
 

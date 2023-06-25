@@ -13,15 +13,15 @@ image = "/contes/unicorns/images/unicorns21.jpg"
 
 —L’has inventat tu?
 
-—No. L’he après amb un llibre vell.
+—No. L’he après en un llibre vell.
 
 Recorde que la idea em va parèixer massa infantil, impròpia de la seua edat, fins i tot comptant que tenia un any menys que jo.
 
-Va portar el llibre i me’l va ensenyar. L’havia agafat a casa del seu oncle, llaurador i lletraferit. Era una gramàtica teòrica, sense molts exemples. Ens vam distraure tota la vesprada amb allò. I les vesprades següents també. Ella pensava estudiar filologia anglesa. Jo preferia el llatí i el grec.
+Va portar el llibre i me’l va deixar fullejar. L’havia trobat a casa del seu oncle, llaurador i lletraferit. Era una gramàtica teòrica, sense molts exemples. Ens vam distraure tota la vesprada amb allò. I les vesprades següents també. Ella pensava estudiar filologia anglesa. Jo preferia el llatí i el grec.
 
-Aquesta nit, va dir, compondrem cadascun un missatge i demà l’altre intentarà entendre’l.
+Aquesta nit, va dir, compondrem cadascun un missatge i demà l’altre intentarà desxifrar-lo.
 
-Crec que dubtava que jo m’estiguera prenent l’estudi prou seriosament i em posava a prova. Li vaig escriure una carta d’amor. Ella va redactar una convocatòria d’una cèl·lula clandestina. El seu germà, aleshores, pertanyia a una organització comunista. Més endavant va ser confident de la policia. Nosaltres, en fi.
+Crec que dubtava que jo m’estiguera prenent l’estudi prou seriosament i em posava a prova. Li vaig escriure una carta d’amor. Ella va redactar una convocatòria d’una cèl·lula clandestina. El seu germà, aleshores, militava en una organització comunista. Va assumir sacrificis i desgràcies. Nosaltres, en fi.
 
 Amb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.
 

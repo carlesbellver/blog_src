@@ -9,7 +9,7 @@ tags = ["contes"]
 image = "/contes/unicorns/images/unicorns11.jpg"
 +++
 
-Per comptes de viatge de final de curs, vam passar un cap de setmana al xalet dels pares d’un company que, ells sí, eren a l’estranger i no s’havien d’assabentar de l’ús que fèiem de la seua segona residència. Jo era més gran que els altres i guardava certes distàncies. La darrera nit vam escoltar elapés de Llach, de Leonard Cohen i de Jonathan Richman, mentre un dormitori romania ocupat i ella s’havia assegut davant de l’Olivetti, indiferent a les protestes pel soroll del tecleig.
+Per compte de viatge de final de curs, vam passar un cap de setmana al xalet dels pares d’un company que, ells sí, eren a l’estranger i no s’havien d’assabentar de l’ús que fèiem de la seua segona residència. Jo era més gran que els altres i guardava certes distàncies. La darrera nit vam escoltar elapés de Llach, de Leonard Cohen i de Jonathan Richman, mentre un dormitori romania ocupat i ella s’havia assegut davant de l’Olivetti, indiferent a les protestes pel soroll del tecleig.
 
 En un sol full, em va traçar un perfil psicològic més acurat que el que m’haguera pogut fer cap professional fins llavors. L’endemà me’l vaig endur dins la bossa i ens vam acomiadar amb un bes a la galta i paraules dolces.
 

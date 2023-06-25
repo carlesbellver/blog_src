@@ -17,7 +17,7 @@ Llavors, un dia d’estiu, em vaig adonar que seia en una altra taula a la plaç
 
 Estrafeia tan bé la seua veu que m’ho hauria cregut, però no l’havia vista moure els llavis. Una altra vegada el meu dimoni, al meu costat.
 
-—No hi pots tenir somnis bruts sense que ho sàpiguen —va murmurar sardònic—. És una mena de sisè sentit.
+—No pots tenir mai somnis bruts sense que ho sàpiguen —va murmurar sardònic—. És una mena de sisè sentit.
 
 El ressol del vespre m’enlluernava. No sabia on mirar. Ell les mirava a elles de fit a fit, especialment a ella. En els seus ulls, m’hi veia a mi a la nit. Vaig voler marxar, però em va fer la traveta i vaig caure arrossegant la cadira. El xerric, les rialles, la vergonya. Ell ja no hi era.
 

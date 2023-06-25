@@ -15,7 +15,7 @@ Ara i adés, jo mirava a través de la finestra cap a les altes muntanyes que s�
 
 Em contà el seu viatge. Tingué accés a documentació molt valuosa. Apunts microfilmats d’alumnes de Russell i llibres que li havien pertangut. Entre d’altres, un del qual només recordava —o només recorde jo ara aquest detall— que en una nota al peu s’indicava que encara hi havia dracs a la Xina en temps històrics, mentre que el text principal afirmava que s’extingiren abans.
 
-Per la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però, la presencià ell, anys enrere, a la Xina, o tots dos plegats al seu apartament? Ja no podríem esbrinar-ho mai?
+Per la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però, la va presenciar ell, anys arrere, a la Xina, o els dos junts al seu apartament? Ja no podrem esbrinar-ho mai?
 
 <figure class="illustration"><img src="/contes/unicorns/images/unicorns08.jpg" alt="Pintura a l’oli. Retrat de Bertrand Russell i Dora Black. Ella porta roba xinesa."><figcaption><em>Bertrand Russell and Dora Black in China</em> (Bertrand Russell i Dora Black a la Xina)</figcaption></figure>
 

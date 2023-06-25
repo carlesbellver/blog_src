@@ -9,13 +9,13 @@ tags = ["contes"]
 image = "/contes/unicorns/images/unicorns39.jpg"
 +++
 
-Es deia Asenath i els seus ulls massa clars, lleugerament sortints, no parpellejaven mai. Era, evidentment, oceanògrafa. Havia deixat enrere els quaranta anys, però per als estàndards de Miskatonic comptava com una jove promesa. Defensava teories poc ortodoxes —que havien tingut cert ressò— sobre les estructures submarines de Y’ha-nthlei, i el consell d’ancians local volia veure-hi la seua empremta intel·lectual. Una oportunitat de renovació: l’esperança d’un impossible *aggiornamento*. Una vegada més, confonien desigs amb realitat. La conferència degué decebre’ls horriblement.
+Es deia Asenath i els seus ulls massa clars, lleugerament ixents, no parpellejaven mai. Era, evidentment, oceanògrafa. Havia deixat arrere els quaranta anys, però per als estàndards de Miskatonic comptava com una jove promesa. Defensava teories poc ortodoxes —que havien tingut cert ressò— sobre les estructures submarines de Y’ha-nthlei, i el consell d’ancians local volia veure-hi la seua empremta intel·lectual. Una oportunitat de renovació: l’esperança d’un impossible *aggiornamento*. Una vegada més, confonien desigs amb realitat. La conferència degué decebre’ls horriblement.
 
 Abans de marxar es va fixar en mi. Entre esguards d’incredulitat i desdeny, amb molt de gust vaig acompanyar-la mentre esperava el taxi.
 
-—Faça’s un favor —em va dir— i fota el camp tan aviat com puga. Açò no és un *college*. El que han aixecat ací aquests seqüaços de Charles Fort és una casa de boigs.
+—Faça’s un favor —em va dir— i fota el camp tan prompte com puga. Açò no és una universitat. El que han alçat ací aquests seqüaços de Charles Fort és una casa de boigs.
 
 La meua beca, vaig tranquil·litzar-la, no durarà molt. Però no vaig gosar confessar-li que frisava per tocar el dos.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns39.jpg" alt="Pintura a l’oli. Illot o escull enmig d’una mar tempestuosa."><figcaption><em>The fall of Atlantis</em> (La caiguda de l’Atlàntida)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns39.jpg" alt="Pintura a l’oli. Illot o escull enmig d’una mar tempestuosa."><figcaption><em>The fall of Atlantis</em> (La caiguda de l’Atlàntida)</figcaption></figure>
 

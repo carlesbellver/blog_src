@@ -775,8 +775,8 @@ article .content img.drawing {
 }
 
 article .content figure {
-  width: 60%;
-  margin: 3em auto;
+  width: 100%;
+  margin: 1em auto;
   padding: 0;
 }
 

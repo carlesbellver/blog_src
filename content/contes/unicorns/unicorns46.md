@@ -9,15 +9,15 @@ tags = ["contes"]
 image = "/contes/unicorns/images/unicorns46.jpg"
 +++
 
-—El llibre era, no en tingueu cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.
+—El llibre era, no en tenim cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.
 
-—Però diuen que se’l va inventar un escriptor argentí, més aviat excèntric i a sobre cec.
+—Però diuen que se’l va empescar un escriptor argentí, bastant excèntric i a més a més cec.
 
 —Em pareix que això és cercar cinc peus al gat.
 
-—Que només n’hi haguera una traducció a l’alemany, anterior a la guerra, va a favor dels escèptics. Allò que no és escrit en anglès no existeix.
+—Que només n’hi haguera una traducció a l’alemany, d’abans de la guerra, va a favor dels escèptics. Allò que no és escrit en anglès no existeix.
 
-—A més a més, els nazis van proscriure Franz Kuhn pels contes xinesos verds del *Jin Ping Mei*. I després, els seus arxius es van cremar en algun bombardeig aliat.
+—A més a més, els nazis van proscriure Franz Kuhn pels contes xinesos verds del *Jin Ping Mei*. I després els seus arxius es van cremar en algun bombardeig aliat.
 
 —No tothom té accés a una biblioteca com la nostra, o com la de Buenos Aires.
 

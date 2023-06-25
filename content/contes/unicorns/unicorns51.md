@@ -17,7 +17,7 @@ image = "/contes/unicorns/images/unicorns51.jpg"
 
 —Per això calia extraure l’arna amb tanta cura.
 
-—Sense menystenir mai el potencial creatiu del caos. L’ARPA recull aquesta mena d’insectes des de 1958. Els experiments han confirmat que provoquen respostes inesperades també en cervells humans, no sols electrònics. Alliberen la imaginació en tots els camps del pensament, l’acció i les arts.
+—Sense menystenir mai el potencial creatiu del caos. L’ARPA recull aquesta mena d’insectes des de 1958. Els experiments han corroborat que provoquen respostes inesperades també en cervells humans, no sols electrònics. Alliberen la imaginació en tots els camps del pensament, l’acció i les arts.
 
 (No hauria calgut esperar que, després d’esmerçar dues setmanes a informar-se i debatre sobre ordinadors, arribaren a conclusions d’allò més convencionals.)
 

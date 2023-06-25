@@ -17,9 +17,9 @@ Era evident que només es podia referir a les dues —o tres— posteriors, a qu
 
 —Només els afeccionats a la psicologia podeu arribar a ser tan ridículs com la mateixa psicologia acadèmica.
 
-Li vaig arrabassar la foto i vaig marxar, ho sé, amb un excés de teatralitat. Un parell de carrers més enllà, abans del riu, em vaig adonar que també li havia pres el llibre i el vaig llençar en una paperera. Adéu-siau, Jean-Paul Sartre.
+Li vaig arrabassar la foto i vaig marxar, ho sé, amb un excés de teatralitat. Un parell de carrers més enllà, abans del riu, em vaig adonar que també li havia pres el llibre i el vaig llançar en una paperera. Adéu-siau, Jean-Paul Sartre.
 
 I bé, doncs, continuem.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns02.jpg" alt="Polaroid. Retrat d’una dona jove. Els cabells esbullats li tapen els ulls."><figcaption>Polaroid (Col·lecció de l’autor)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns02.jpg" alt="Polaroid. Retrat d’una dona jove. Els cabells esbullats li tapen els ulls."><figcaption>Polaroid (Col·lecció de l’autor)</figcaption></figure>
 

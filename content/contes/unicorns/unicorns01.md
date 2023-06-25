@@ -13,7 +13,7 @@ La vaig conèixer en una sala d’estudi de l’antiga Facultat de Lletres de la
 
 Devia tenir dos o tres anys més que jo. Més tard, quan va marxar, va fer com si es descuidara una de les seues carpetes. A dins vaig trobar l’anunci d’un col·loqui —*“Hommage à la Licorne”*— il·lustrat amb un detall dels cèlebres tapissos del Museu de Cluny. En un full en blanc havia escrit les seues dades. Em va sorprendre que tinguera tres noms: Marie Valérie Mathilde. Em preguntava com li devien dir les seues amigues o la seua família.
 
-Al vespre vaig anar a buscar-la. La seua companya de pis em va comunicar que no hi era. Li vaig lliurar la carpeta i li vaig demanar que li diguera que ens podíem veure dissabte a la conferència del professor canadenc: *“Are There Unicorns? Towards A (Neo)-Kantian Answer”*. Un enfocament interessant.
+Al vespre vaig anar a buscar-la. La seua companya de pis em va informar que no hi era. Li vaig lliurar la carpeta i li vaig demanar que li diguera que ens podíem veure dijous a la conferència del professor canadenc: *“Are There Unicorns? Towards A (Neo)-Kantian Answer”*. Un enfocament interessant.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns01.jpg" alt="Pintura a l’oli. Dos gots de paper fumejant i un cendrer damunt d’una taula."><figcaption><em>Coffee break</em> (Pausa per a prendre un cafè)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns01.jpg" alt="Pintura a l’oli. Dos gots de paper fumejant i un cendrer damunt d’una taula."><figcaption><em>Coffee break</em> (Pausa per a prendre un cafè)</figcaption></figure>
 

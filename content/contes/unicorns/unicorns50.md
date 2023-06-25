@@ -21,7 +21,7 @@ Es va estarrufar.
 
 —Això és molt poc, no?
 
-—La quantitat precisa que a mi em convé, segons el mètode patentat al MIT.
+—La quantitat precisa que a mi em convé, segons el mètode patentat pel MIT.
 
 —Doncs a mi em pareix una llàstima que no escrigues una novel·la.
 

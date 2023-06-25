@@ -13,7 +13,7 @@ Aquest tros de plàstic que prove a fer servir com a màquina d’escriure elect
 
 Avui m’avorria. M’enervava el *writer’s block* —la síndrome de la pantalla en blanc— i he preferit lliurar-me a una recerca en l’hemeroteca. Segons la revista *Byte* (vol. 8, núm. 1), açò no seria exactament un Sinclair ZX81, com jo creia, sinó la seua versió nord-americana: el Timex Sinclair 1000, que va començar a vendre’s per 99,95 dòlars el juliol de 1982.
 
-He explicat el descobriment a Elijah, becari veterà, que en sabia altres coses i m’ha aportat detalls addicionals sobre la motivació del meu projecte.
+He explicat el descobriment a Connor, becari veterà, que en sabia altres coses i m’ha aportat detalls addicionals sobre la motivació del meu projecte.
 
 —Rice va comprar el paquet complet als encants, de tercera mà. Era un regal per al besnet, però el xiquet el va rebutjar, perquè ja tenia un PC, i llavors se li va acudir portar-ho ací.
 

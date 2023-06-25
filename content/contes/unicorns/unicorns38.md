@@ -15,7 +15,7 @@ Es va aturar en un full per mostrar-nos el croquis de la regió de Cydonia, dins
 
 —Evidentment això —va explicar— no és pas cap cara, sinó un simple joc d’ombres. Però les piràmides hi són.
 
-Em van cridar l’atenció, als marges, les inscripcions en un alfabet desconegut i els dibuixos d’animals i plantes fantàstics. Aquestes pàgines havien estat calcades d’un text medieval, que al seu torn era una còpia apòcrifa de fragments dels cèlebres *Manuscrits Pnakòtics*, incomprensibles i imaginaris.
+Als marges, em van cridar l’atenció les inscripcions en un alfabet desconegut i els dibuixos d’animals i plantes fantàstics. Aquestes pàgines havien estat calcades d’un text medieval, que al seu torn era una còpia apòcrifa de fragments dels cèlebres *Manuscrits pnakòtics*, incomprensibles i imaginaris.
 
 —Van fer una bona feinada, aquells dos postgraduats.
 
