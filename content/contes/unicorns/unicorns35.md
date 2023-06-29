@@ -15,5 +15,5 @@ Primer va continuar vivint a la cambra de dalt, al costat de la meua, envoltada 
 
 Vivien un somni autogestionari que només va durar un trimestre. Al setembre van rebre l’avís d’una immobiliària. Eufrosina havia venut la casa i l’enderrocarien per construir pisos dúplex. Va ser una desbandada. Totes van acabar malament.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns35.jpg" alt="Pintura a l’oli. Carreró amb bastides."><figcaption><em>Scaffolding</em> (Bastides)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns35.jpg" alt="Pintura a l’oli. Carreró amb bastides."><figcaption><em>Scaffolding</em><br>Bastides<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

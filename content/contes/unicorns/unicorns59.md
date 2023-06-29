@@ -41,5 +41,5 @@ Comptava mentalment. Com voldreu que compte un mort? Amb els dits no pot.
 
 —Una eternitat.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns59.jpg" alt="Pintura a l’oli de l’entrada d’un cementeri."><figcaption><em>Cemetery gates</em> (Les portes del cementeri)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns59.jpg" alt="Pintura a l’oli de l’entrada d’un cementeri."><figcaption><em>Cemetery gates</em><br>Les portes del cementeri<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

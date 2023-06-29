@@ -17,5 +17,5 @@ Abans de marxar em va explicar un altre conte xinès recollit per Kuhn. En una p
 
 —D’ella, el llibre no en diu res més.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns47.jpg" alt="Pintura a l’oli. Retrat d’una dona jove xinesa i un dimoni d’estil xinès."><figcaption><em>Chinese woman and demon</em> (Dona xinesa i dimoni)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns47.jpg" alt="Pintura a l’oli. Retrat d’una dona jove xinesa i un dimoni d’estil xinès."><figcaption><em>Chinese woman and demon</em><br>Dona xinesa i dimoni<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

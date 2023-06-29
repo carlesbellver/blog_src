@@ -23,5 +23,5 @@ I en aquest punt es va aturar un instant etern.
 
 A l’altre extrem, ara lluïa un riure sardònic el mateix cavaller alt, bru, que uns anys arrere havia executat demostracions d’electromagnetisme i de projecció d’imatges, el mateix que el trenta-u d’octubre anterior va persuadir un estudiant de Mont-real perquè preguntara a Houdini si no creia en els miracles i en les sagrades escriptures i provara si era de debò que aguantaria tres colps de puny a l’estómac sense parpellejar.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns32.jpg" alt="Pintura a l’oli. Edificis en primer pla i un llamp al rerefons."><figcaption><em>Lightning over Harlem</em> (Llamp sobre Harlem)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns32.jpg" alt="Pintura a l’oli. Edificis en primer pla i un llamp al rerefons."><figcaption><em>Lightning over Harlem</em><br>Llamp sobre Harlem<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

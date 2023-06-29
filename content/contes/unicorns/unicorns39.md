@@ -17,5 +17,5 @@ Abans de marxar es va fixar en mi. Entre esguards d’incredulitat i desdeny, am
 
 La meua beca, vaig tranquil·litzar-la, no durarà molt. Però no vaig gosar confessar-li que frisava per tocar el dos.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns39.jpg" alt="Pintura a l’oli. Illot o escull enmig d’una mar tempestuosa."><figcaption><em>The fall of Atlantis</em> (La caiguda de l’Atlàntida)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns39.jpg" alt="Pintura a l’oli. Illot o escull enmig d’una mar tempestuosa."><figcaption><em>The fall of Atlantis</em><br>La caiguda de l’Atlàntida<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

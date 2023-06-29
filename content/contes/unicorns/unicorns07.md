@@ -15,5 +15,5 @@ Un dels moments crítics en la història de la Miskatonic University seria sens 
 
 L’activitat acadèmica es va reprendre a mitjan anys seixanta. Primer de forma clandestina. Més endavant, durant l’administració Carter, ja amb el permís dels organismes oficials i la convalidació de títols. Sorprèn constatar que molts dels docents en exercici, encara avui, continuen essent els mateixos que abans de l’episodi repressiu. La seua extraordinària longevitat invitaria a pensar que algú, en algun moment, va culminar les recerques de Paracels.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns07.jpg" alt="Pintura a l’oli. Moltes mans s’aixequen per brindar amb copes de xampany. Barrets i robes blancs i roigs."><figcaption><em>July 7th</em> (7 de juliol)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns07.jpg" alt="Pintura a l’oli. Moltes mans s’aixequen per brindar amb copes de xampany. Barrets i robes blancs i roigs."><figcaption><em>July 7th</em><br>7 de juliol<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

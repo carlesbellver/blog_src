@@ -21,5 +21,5 @@ No hauria calgut, però, que l’enviara al meu apartament dins d’una caixa de
 
 Em trobava tan alterat que vaig necessitar tres intents.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns25.jpg" alt="Pintura a l’oli. Un ull entre les escletxes d’uns taulons."><figcaption><em>The eye</em> (L’ull)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns25.jpg" alt="Pintura a l’oli. Un ull entre les escletxes d’uns taulons."><figcaption><em>The eye</em><br>L’ull<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

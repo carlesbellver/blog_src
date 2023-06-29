@@ -23,5 +23,5 @@ Vaig observar els noms a la carpeta: Sagan i Hoagland. I la data: juny de 1958. 
 
 —Bé, un d’ells no era més que un farsant. Un manifasser.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns38.jpg" alt="Pintura a l’oli d’una sonda espacial en òrbita."><figcaption><em>Viking Orbiter</em> (Sonda Viking)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns38.jpg" alt="Pintura a l’oli d’una sonda espacial en òrbita."><figcaption><em>Viking Orbiter</em><br>Sonda Viking<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

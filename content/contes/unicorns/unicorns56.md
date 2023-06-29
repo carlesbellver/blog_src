@@ -17,5 +17,5 @@ L’havien ben ensarronat. El tutor va aparèixer al llindar al cap d’un lapse
 
 Va deixar anar una riota sinistra. La secretària es va aixecar i se li va arrambar. Reia ella també —com una hiena— quan van marxar ambdós plegats, passadís enllà. Danvers va restar sol amb el seu pànic. Es va passar la nit udolant, fins a la matinada. Al rompent de l’alba es va assossegar prou per agafar l’estilogràfica i signar el contracte.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns56.jpg" alt="Pintura a l’oli. Gàrgola que representa un animal udolant a la cornisa d’un edifici. Altres edificis al fons."><figcaption><em>Howling gargoyle</em> (Gàrgola udolant)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns56.jpg" alt="Pintura a l’oli. Gàrgola que representa un animal udolant a la cornisa d’un edifici. Altres edificis al fons."><figcaption><em>Howling gargoyle</em><br>Gàrgola udolant<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -15,5 +15,5 @@ Devia tenir dos o tres anys més que jo. Més tard, quan va marxar, va fer com s
 
 Al vespre vaig anar a buscar-la. La seua companya de pis em va informar que no hi era. Li vaig lliurar la carpeta i li vaig demanar que li diguera que ens podíem veure dijous a la conferència del professor canadenc: *“Are There Unicorns? Towards A (Neo)-Kantian Answer”*. Un enfocament interessant.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns01.jpg" alt="Pintura a l’oli. Dos gots de paper fumejant i un cendrer damunt d’una taula."><figcaption><em>Coffee break</em> (Pausa per a prendre un cafè)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns01.jpg" alt="Pintura a l’oli. Dos gots de paper fumejant i un cendrer damunt d’una taula."><figcaption><em>Coffee break</em><br>Pausa per a prendre un cafè<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

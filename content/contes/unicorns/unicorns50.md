@@ -29,5 +29,5 @@ Es va estarrufar.
 
 —I la part del beure, com la portes?
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns50.jpg" alt="Pintura a l’oli, estil fauvista. Un home assegut en una butaca i un altre en un sofà, encarats."><figcaption><em>Therapists</em> (Terapeutes)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns50.jpg" alt="Pintura a l’oli, estil fauvista. Un home assegut en una butaca i un altre en un sofà, encarats."><figcaption><em>Therapists</em><br>Terapeutes<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

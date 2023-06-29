@@ -13,5 +13,5 @@ Ateses les circumstàncies, era lògic que s’estengueren els rumors sobre dela
 
 Danvers maleí tricorns, sotanes i sevillanes. L’esborronava el que va qualificar de “primitivisme africà”. El posseïa, sens dubte, un racisme de classe après com a *White Anglo-Saxon Protestant*.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns57.jpg" alt="Retrat a l’oli d’una ballarina flamenca amb un ventall."><figcaption><em>Spanish bailaora</em> (Ballarina espanyola)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns57.jpg" alt="Retrat a l’oli d’una ballarina flamenca amb un ventall."><figcaption><em>Spanish bailaora</em><br>Ballarina espanyola<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

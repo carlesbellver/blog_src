@@ -15,5 +15,5 @@ Se celebrava l’aniversari de la institució a l’atri del rectorat. Cambrers 
 
 Avui m’he despertat amb migranya. No recorde res del que em va dir, només la seua veu, la capacitat de persuasió i el meu esbalaïment.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns16.jpg" alt="Pintura a l’oli. Quartet de cambra. Estil surrealista, reminiscent de Giorgio de Chirico."><figcaption><em>Quartet</em> (Quartet)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns16.jpg" alt="Pintura a l’oli. Quartet de cambra. Estil surrealista, reminiscent de Giorgio de Chirico."><figcaption><em>Quartet</em><br>Quartet<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -19,5 +19,5 @@ Però l’embruix va ser efímer. Es va mostrar com era quan em va cridar amb el
 
 —Tu tampoc no ets tan jove, ni tens més futur que jo!
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns48.jpg" alt="Pintura a l’oli, estil impressionista. Barcasses en un riu ample."><figcaption><em>Mekong river</em> (Riu Mekong)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns48.jpg" alt="Pintura a l’oli, estil impressionista. Barcasses en un riu ample."><figcaption><em>Mekong river</em><br>Riu Mekong<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -15,5 +15,5 @@ Carter, que suplantava un físic nuclear francès, s’entrevistà discretament 
 
 Quan aquests fets, inevitablement, transcendiren, comportaren la caiguda en desgràcia de Carter davant el Departament d’Estat, per tercera vegada i potser definitiva.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns41.jpg" alt="Pintura a l’oli. Dues tasses de cafè, un got i una botella damunt d’una taula."><figcaption><em>At the café</em> (A la cafeteria)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns41.jpg" alt="Pintura a l’oli. Dues tasses de cafè, un got i una botella damunt d’una taula."><figcaption><em>At the café</em><br>A la cafeteria<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

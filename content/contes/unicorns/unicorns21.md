@@ -25,5 +25,5 @@ Crec que dubtava que jo m’estiguera prenent l’estudi prou seriosament i em p
 
 Amb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns21.jpg" alt="Pintura a l’oli d’estil naïf. Un xic i una xica seuen junts davant d’una taula amb un llibre obert."><figcaption><em>Homework</em> (Deures)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns21.jpg" alt="Pintura a l’oli d’estil naïf. Un xic i una xica seuen junts davant d’una taula amb un llibre obert."><figcaption><em>Homework</em><br>Deures<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

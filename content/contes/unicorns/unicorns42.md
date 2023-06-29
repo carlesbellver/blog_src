@@ -17,5 +17,5 @@ L’espill, és clar, estava connectat a les làmpades i al díode. Amb el motor
 
 Anticipava, més que mai, una difícil negociació.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns42.jpg" alt="Pintura a l’oli, estil naïf. Un home amb barret de copa, d’esquena davant d’un espill. La imatge que s’hi reflecteix pareix d’una dona."><figcaption><em>Mirror mirror</em> (Espill, espill)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns42.jpg" alt="Pintura a l’oli, estil naïf. Un home amb barret de copa, d’esquena davant d’un espill. La imatge que s’hi reflecteix pareix d’una dona."><figcaption><em>Mirror mirror</em><br>Espill, espill<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

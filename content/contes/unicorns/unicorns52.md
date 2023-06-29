@@ -19,5 +19,5 @@ Passava la mà per damunt de les tecles, com si les acaronara. L’aparell tenia
 
 A la nit no podia dormir. Sentia que algú m’observava. Em vaig alçar i em vaig abocar a la finestra. A baix, entre els salzes, el representant m’aguaitava. Portava la màquina sota el braç, dins de la seua funda.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns52.jpg" alt="Pintura a l’oli. Màquina d’escriure antiga, de color negre."><figcaption><em>The hideous typewriter</em> (L’horrible màquina d’escriure)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns52.jpg" alt="Pintura a l’oli. Màquina d’escriure antiga, de color negre."><figcaption><em>The hideous typewriter</em><br>L’horrible màquina d’escriure<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

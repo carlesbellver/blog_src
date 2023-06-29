@@ -15,5 +15,5 @@ Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però
 
 (El seu cognom era Kléber.)
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns63.jpg" alt="Pintura a l’oli. Una dona en escorç es mira en un espill de mà."><figcaption><em>Reflection</em> (Reflexió)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns63.jpg" alt="Pintura a l’oli. Una dona en escorç es mira en un espill de mà."><figcaption><em>Reflection</em><br>Reflexió<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

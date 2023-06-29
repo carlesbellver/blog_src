@@ -17,5 +17,5 @@ Havien passat molts anys. Jo era vell, ella també, i amb prou feines ens recone
 
 Recorde que una vegada em va dir que si ho somniaves ja no passava.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns22.jpg" alt="Pintura a l’oli. Part d’una cara, possiblement de dona, la boca oberta ensenyant les dents."><figcaption><em>The bite</em> (La mossegada)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns22.jpg" alt="Pintura a l’oli. Part d’una cara, possiblement de dona, la boca oberta ensenyant les dents."><figcaption><em>The bite</em><br>La mossegada<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -27,5 +27,5 @@ La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la S
 
 Enlloc, sens dubte. Només es tractava d’una maniobra de distracció desesperada.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns62.jpg" alt="Pintura a l’oli d’un unicorn ajagut enmig del bosc. Imitació de John William Godward."><figcaption><em>Dying unicorn</em> (Unicorn moribund)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns62.jpg" alt="Pintura a l’oli d’un unicorn ajagut enmig del bosc. Imitació de John William Godward."><figcaption><em>Dying unicorn</em><br>Unicorn moribund<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

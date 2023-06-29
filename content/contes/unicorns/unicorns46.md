@@ -31,5 +31,5 @@ image = "/contes/unicorns/images/unicorns46.jpg"
 
 (Els hauria pogut explicar que així em sentia exactament cada dia, com si la resta de la gent i jo —o cadascú— visquérem en mons diferents. I cap fora real.)
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns46.jpg" alt="Pintura a l’oli, estil impressionista. Un home assegut llegint un llibre, més llibres damunt de la taula i a la prestatgeria de darrere."><figcaption><em>The scholar</em> (L’erudit)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns46.jpg" alt="Pintura a l’oli, estil impressionista. Un home assegut llegint un llibre, més llibres damunt de la taula i a la prestatgeria de darrere."><figcaption><em>The scholar</em><br>L’erudit<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

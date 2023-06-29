@@ -15,5 +15,5 @@ Carter parlava de muralles ciclòpies, blocs de basalt colgats per segles de lia
 
 Potser Carter parla massa. La seua peroració m’atabalava. Ha estat en aquest punt que m’he despertat. Eren quarts de cinc del matí i he entès que les ciutats perdudes, com els amors perduts, no es retroben ja mai.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns64.jpg" alt="Pintura a l’oli. Piràmide mesoamericana envoltada de vegetació selvàtica."><figcaption><em>Pyramid</em> (Piràmide)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns64.jpg" alt="Pintura a l’oli. Piràmide mesoamericana envoltada de vegetació selvàtica."><figcaption><em>Pyramid</em><br>Piràmide<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

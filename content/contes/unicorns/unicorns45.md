@@ -29,5 +29,5 @@ image = "/contes/unicorns/images/unicorns45.jpg"
 
 —I encara en podia ser més. Dimarts s’havia refet i estava segur que ella va fingir, que es va portar *com una puta* només per desplaure’l i que la deixara estar. No em coneix, va dir, no em rendiré tan fàcilment.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns45.jpg" alt="Pintura a l’oli estil naïf. Homes i dones amb vestits elegants en una festa."><figcaption><em>The party</em> (La festa)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns45.jpg" alt="Pintura a l’oli estil naïf. Homes i dones amb vestits elegants en una festa."><figcaption><em>The party</em><br>La festa<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

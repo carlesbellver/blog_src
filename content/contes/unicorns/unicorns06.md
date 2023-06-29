@@ -17,5 +17,5 @@ Warren, més tard, m’ha aclarit el cas.
 
 —Es diu Nahum i va morir fa poc d’unes febres d’origen desconegut. Deu haver passat per acomiadar-se dels companys i comprovar com s’apanyen sense ell.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns06.jpg" alt="Pintura a l’oli. Un home gran amb bossa de carter, assegut, fa cara de cansat."><figcaption><em>The Old Mailman</em> (El vell carter)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns06.jpg" alt="Pintura a l’oli. Un home gran amb bossa de carter, assegut, fa cara de cansat."><figcaption><em>The Old Mailman</em><br>El vell carter<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

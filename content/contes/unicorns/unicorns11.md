@@ -17,5 +17,5 @@ A València vam seguir especialitats diferents i no ens vèiem gaire. Vaig porta
 
 Quan ens creuem, encara intercanviem salutacions i educats somriures.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns11.jpg" alt="Pintura a l’oli. Una dona asseguda tecleja amb una màquina d’escriure."><figcaption><em>The typist</em> (La mecanògrafa)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns11.jpg" alt="Pintura a l’oli. Una dona asseguda tecleja amb una màquina d’escriure."><figcaption><em>The typist</em><br>La mecanògrafa<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

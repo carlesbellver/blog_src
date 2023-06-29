@@ -17,5 +17,5 @@ Dyer, entusiasmat, fantasiejava:
 
 Era tan gran la seua fe en la ciència, i en ells mateixos, que descartaven per principi cap errada en les proves, o en els supòsits en què es basaven aquestes. O, potser, havien desenvolupat una addicció d’allò més perillosa a les conclusions esbalaïdores.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns40.jpg" alt="Pintura a l’oli. Home davant d’un trenc."><figcaption><em>The geologist</em> (El geòleg)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns40.jpg" alt="Pintura a l’oli. Home davant d’un trenc."><figcaption><em>The geologist</em><br>El geòleg<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

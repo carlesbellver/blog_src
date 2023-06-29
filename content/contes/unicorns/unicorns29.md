@@ -13,5 +13,5 @@ La companya de pis de Valérie —no li agradava que li diguera *només* Valéri
 
 Però la nostra relació s’estava tibant. Havia fumat haixix i vaig dir-li *Valia*. Em va mirar amb tant d’odi que no sabia on amagar-me. Després em va trobar dins d’un armari i em va pegar, però la que plorava era ella.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns29.jpg" alt="Pintura a l’oli. Un ornitorrinc trau el cap dins d‘un armari obert, sota un calaix."><figcaption><em>My friend the platypus</em> (El meu amic l’ornitorrinc)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns29.jpg" alt="Pintura a l’oli. Un ornitorrinc trau el cap dins d‘un armari obert, sota un calaix."><figcaption><em>My friend the platypus</em><br>El meu amic l’ornitorrinc<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -15,5 +15,5 @@ Examinàvem sota el flexo la seua darrera adquisició: un exemplar d’*Il newto
 
 Són tots, en efecte, vells, i cap dona forma part del claustre d’aquesta venerable institució. La primera persona del plural es podia interpretar, en el seu cas, com un acte de modèstia, però la proclama era abans que res el reconeixement d’un fracàs col·lectiu, la constatació que havien arribat a la fi del trajecte i es trobaven en una via morta. De sobte, em vaig adonar de les volves de pols suspeses a l’aire, com àtoms de Demòcrit.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns23.jpg" alt="Pintura a l’oli. Una finestra oberta, partícules de pols en suspensió a contraclaror."><figcaption><em>Dust</em> (Pols)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns23.jpg" alt="Pintura a l’oli. Una finestra oberta, partícules de pols en suspensió a contraclaror."><figcaption><em>Dust</em><br>Pols<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

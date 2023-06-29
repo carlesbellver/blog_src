@@ -15,5 +15,5 @@ Quan tenia tretze anys, em vaig passar l’estiu reclòs a la biblioteca municip
 
 (I l’emoció estètica? Això seria una altra història, una segona troballa, tan fortuïta com aquesta, esdevinguda en un prestatge adjacent.)
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns12.jpg" alt="Pintura a l’oli. Una prestatgeria curulla de llibres."><figcaption><em>The library</em> (La biblioteca)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns12.jpg" alt="Pintura a l’oli. Una prestatgeria curulla de llibres."><figcaption><em>The library</em><br>La biblioteca<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -17,5 +17,5 @@ He explicat el descobriment a Connor, becari veterà, que en sabia altres coses 
 
 —Rice va comprar el paquet complet als encants, de tercera mà. Era un regal per al besnet, però el xiquet el va rebutjar, perquè ja tenia un PC, i llavors se li va acudir portar-ho ací.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns49.jpg" alt="Portada de la revista BYTE. Un home assegut teclejant amb un ordinador antic."><figcaption><em>BYTE magazine</em> (Revista BYTE)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns49.jpg" alt="Portada de la revista BYTE. Un home assegut teclejant amb un ordinador antic."><figcaption><em>BYTE magazine</em><br>Revista BYTE<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

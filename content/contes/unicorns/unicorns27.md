@@ -15,5 +15,5 @@ Exemplars vius, vull dir. Miss Tilton, conservadora del museu, em va guiar fins 
 
 Em va fer pensar en sirenes i en manatís. Però allò era pitjor. Molt més sinistre. Una rata marina, gegantesca, en un aquari brut. Quan em vaig adonar que era quasi l’hora de tancar, i que havíem passat massa temps mirant-nos l’un a l’altre, vaig marxar corrents d’aquell *Jardin des Plantes* gòtic.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns27.jpg" alt="Pintura a l’oli. La cara d’una sirena sota l’aigua, ulls i boca grans."><figcaption><em>The mermaid</em> (La sirena)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns27.jpg" alt="Pintura a l’oli. La cara d’una sirena sota l’aigua, ulls i boca grans."><figcaption><em>The mermaid</em><br>La sirena<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

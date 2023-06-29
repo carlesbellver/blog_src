@@ -13,5 +13,5 @@ Hi havia dubtes, o si més no versions diferents, sobre l’origen de la contami
 
 Fins i tot, es deia, més endavant havia mort també el funcionari que va gestionar el lliurament a l’oficina de correus. La psicosi va durar unes setmanes, el temps just perquè començara a aflorar un nou report fals.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns04.jpg" alt="Pintura a l’oli. Escena nocturna. Siluetes d’edificis i un meteorit caient."><figcaption><em>Meteorite over Arkham</em> (Meteorit sobre Arkham)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns04.jpg" alt="Pintura a l’oli. Escena nocturna. Siluetes d’edificis i un meteorit caient."><figcaption><em>Meteorite over Arkham</em><br>Meteorit sobre Arkham<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

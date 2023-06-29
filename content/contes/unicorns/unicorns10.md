@@ -19,5 +19,5 @@ Al carrer, quan ja ens havíem acomiadat, em va dir:
 
 Tenia raó. No hauria de parlar del que no entenc. No solc fer-ho. I tanmateix, m’hi llance tan bon punt em posen una cervesa o em deixen sol davant d’un processador de textos.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns10.jpg" alt="Pintura a l’oli. Una dona rossa en escorç es pentina una trena."><figcaption><em>Eudoxia</em></figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns10.jpg" alt="Pintura a l’oli. Una dona rossa en escorç es pentina una trena."><figcaption><em>Eudoxia</em><br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

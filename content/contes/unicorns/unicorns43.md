@@ -13,5 +13,5 @@ Acabava d’unir-se al laboratori quan s’hi va trobar amb Ismaïl, el cosmonau
 
 En aquell instant, sense que ho saberen encara, s’estava definint la geometria de les seues relacions mútues. Però era una geometria anòmala, no euclidiana. L’ambivalència d’un dels angles, la inexplicable i fantasmal presència de Carter, feia que sumaren, evidentment, més de cent-vuitanta graus.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns43.jpg" alt="Retrat a l’oli de tres astronautes amb els seus vestits espacials."><figcaption><em>Astronauts</em> (Astronautes)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns43.jpg" alt="Retrat a l’oli de tres astronautes amb els seus vestits espacials."><figcaption><em>Astronauts</em><br>Astronautes<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

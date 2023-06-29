@@ -21,5 +21,5 @@ S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 
 —Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz entre a penetrar-la i se n’emporte el tresor més ben guardat.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns37.jpg" alt="Pintura a l’oli. Entrada d’un tunel ferroviari, cel blau a dalt. Imitació de René Magritte."><figcaption><em>Tunnel entrance</em> (L’entrada del túnel)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns37.jpg" alt="Pintura a l’oli. Entrada d’un tunel ferroviari, cel blau a dalt. Imitació de René Magritte."><figcaption><em>Tunnel entrance</em><br>L’entrada del túnel<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

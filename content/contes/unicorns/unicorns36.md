@@ -17,5 +17,5 @@ La lletra gran, em va explicar, i els traços verticals ferms, denotaven seguret
 
 Vaig veure com suava. Em va demanar que marxara i que m’emportara la nota. No va voler cobrar-me res.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns36.jpg" alt="Línies manuscrites en un quadern."><figcaption><em>Writing</em> (Escriptura)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns36.jpg" alt="Línies manuscrites en un quadern."><figcaption><em>Writing</em><br>Escriptura<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

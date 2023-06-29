@@ -21,5 +21,5 @@ Li vaig arrabassar la foto i vaig marxar, ho sé, amb un excés de teatralitat. 
 
 I bé, doncs, continuem.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns02.jpg" alt="Polaroid. Retrat d’una dona jove. Els cabells esbullats li tapen els ulls."><figcaption>Polaroid (Col·lecció de l’autor)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns02.jpg" alt="Polaroid. Retrat d’una dona jove. Els cabells esbullats li tapen els ulls."><figcaption>Polaroid<br>Col·lecció de l’autor<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

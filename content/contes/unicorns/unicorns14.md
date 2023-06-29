@@ -13,5 +13,5 @@ Era dia de festa major. Marieta i Fabrizio em van presentar a les autoritats loc
 
 En arribar el moment, les coloraines de robes i banderoles, el rebombori, els esbufecs dels cavalls, m’impressionaren. Algú m’agarrà el braç amb més força que no havia transmès jo a l’estocada. L’emissari va empal·lidir. Tothom buscava aquells dos homes. Em van pregar que marxara i que oblidara el que havia succeït. Al cotxe, en el viatge de tornada, ningú volgué mencionar l’incident.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns14.jpg" alt="Retrat a l’oli d’un jove cavaller que empunya una daga. Estil renaixentista."><figcaption><em>The young man with the dagger</em> (El jove del punyalet)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns14.jpg" alt="Retrat a l’oli d’un jove cavaller que empunya una daga. Estil renaixentista."><figcaption><em>The young man with the dagger</em><br>El jove del punyalet<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

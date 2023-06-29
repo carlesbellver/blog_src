@@ -13,5 +13,5 @@ La figura de Lovecraft —escriptor de Providence que va donar tractament de fic
 
 Millor així, accepten Armitage i companyia. Millor la ignorància de la xusma que ser arrossegats per una histèria col·lectiva. Al seu torn, ells tendeixen a negar que Lovecraft —cognom força improbable— haja existit mai, i presumeixen que els seus relats van ser obra d’un *ghost writer* en nòmina del govern. Es perllonguen les discussions sobre la seua possible identitat. Les sospites apunten al pretès marmessor —August Derleth—, però en el fons tothom dubta també que ell, de fet, fora una persona real.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns18.jpg" alt="Imatge fotogràfica. Retrat d’un home que s’assembla una mica a Lovecraft. Al seu darrere, en la penombra, una prestageria amb llibres i la silueta emmarcada d’un polp sobre fons blanc."><figcaption><em>Untitled</em> (Sense títol)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns18.jpg" alt="Imatge fotogràfica. Retrat d’un home que s’assembla una mica a Lovecraft. Al seu darrere, en la penombra, una prestageria amb llibres i la silueta emmarcada d’un polp sobre fons blanc."><figcaption><em>Untitled</em><br>Sense títol<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -21,5 +21,5 @@ image = "/contes/unicorns/images/unicorns51.jpg"
 
 (No hauria calgut esperar que, després d’esmerçar dues setmanes a informar-se i debatre sobre ordinadors, arribaren a conclusions d’allò més convencionals.)
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns51.jpg" alt="Pintura a l’oli. Detall d‘una panerola damunt d’una placa d’ordinador."><figcaption><em>The bug</em> (L’insecte)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns51.jpg" alt="Pintura a l’oli. Detall d‘una panerola damunt d’una placa d’ordinador."><figcaption><em>The bug</em><br>L’insecte<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

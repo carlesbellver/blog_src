@@ -797,6 +797,10 @@ article .content figure figcaption {
   color: var(--foot-color);
 }
 
+article .content figure figcaption .ai-disclaimer {
+  font-size: 0.9em;
+}
+
 article video,
 article iframe {
   max-width: 100%;

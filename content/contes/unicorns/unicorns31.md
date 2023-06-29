@@ -15,5 +15,5 @@ image = "/contes/unicorns/images/unicorns31.jpg"
 
 —Un dels últims de què es va ocupar. Va provar que espiaven la clientela potencial i que atresoraven un gran arxiu de dades privades, així que era versemblant que hagueren suplantat alguns difunts. Això no explicava la funció d’una estranya maquina de tubs d’èter que hom va trobar després, però la reputació del negoci va resultar danyada irremeiablement i van haver de plegar.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns31.jpg" alt="Pintura a l’oli. Retrat d’una dona parlant per telèfon."><figcaption><em>On the phone</em> (Al telèfon)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns31.jpg" alt="Pintura a l’oli. Retrat d’una dona parlant per telèfon."><figcaption><em>On the phone</em><br>Al telèfon<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

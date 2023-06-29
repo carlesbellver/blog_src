@@ -29,5 +29,5 @@ image = "/contes/unicorns/images/unicorns05.jpg"
 
 —Algú hauria de fer alguna cosa, senyors.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns05.jpg" alt="Pintura a l’oli. Una bestiola peluda amb potes llargues i ulls oberts."><figcaption><em>The missing link between a sea-urchin, a spider, and the devil</em> (La baula perduda entre un eriçó de mar, una aranya i el diable)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns05.jpg" alt="Pintura a l’oli. Una bestiola peluda amb potes llargues i ulls oberts."><figcaption><em>The missing link between a sea-urchin, a spider, and the devil</em><br>La baula perduda entre un eriçó de mar, una aranya i el diable<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

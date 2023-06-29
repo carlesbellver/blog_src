@@ -15,5 +15,5 @@ Tot d’una, un truc a la porta ens interrompia. Esperàvem a saber a quina crid
 
 (L’asma em feia xiular els bronquis a mesura que el fum s’espessia. Tan bon punt alguna se n’adonava, s’afanyaven totes a apagar les cigarretes i a ventar-me amb les mans.)
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns09.jpg" alt="Pintura a l’oli. En la foscor, sota un llum feble, persones reunides al voltant d’una taula, damunt de la qual hi ha un parell de botelles."><figcaption><em>The table talk</em> (La sobretaula)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns09.jpg" alt="Pintura a l’oli. En la foscor, sota un llum feble, persones reunides al voltant d’una taula, damunt de la qual hi ha un parell de botelles."><figcaption><em>The table talk</em><br>La sobretaula<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

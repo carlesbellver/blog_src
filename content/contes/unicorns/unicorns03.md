@@ -15,5 +15,5 @@ De tant en tant, un record retorna i fereix. Dins d’un somni o en acabant d’
 
 No puc saber amb seguretat quina d’aquestes dues persones sóc. No voldria saber-ho, però ho sospite.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns03.jpg" alt="Pintura a l’oli. Botella amb una calavera a l’etiqueta."><figcaption><em>Poison</em> (Verí)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns03.jpg" alt="Pintura a l’oli. Botella amb una calavera a l’etiqueta."><figcaption><em>Poison</em><br>Verí<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

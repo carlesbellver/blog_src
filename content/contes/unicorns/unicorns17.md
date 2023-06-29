@@ -13,5 +13,5 @@ Estudiaven un informe de l’Oficina de Serveis Estratègics que havia estat par
 
 Pensava que aquest era un debat ja resolt. Una vegada em van contar que algú havia encarregat una nòvia per catàleg en un entresol del carrer de Colom. Li van ensenyar fotos de dones sud-americanes, eslaves i asiàtiques. L’única que s’ajustava al seu pressupost era oriünda, precisament, d’una certa República de Leng. Els amics d’ell la van conèixer i feien comentaris grollers sobre la seua olor i les robes bigarrades. Em vaig estimar més no explicar-ho per no aigualir la festa a ningú.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns17.jpg" alt="Imitació d’un mapa antic amb llegendes il·legibles."><figcaption><em>Central Asia</em> (Àsia central)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns17.jpg" alt="Imitació d’un mapa antic amb llegendes il·legibles."><figcaption><em>Central Asia</em><br>Àsia central<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

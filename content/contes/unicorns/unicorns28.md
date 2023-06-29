@@ -13,5 +13,5 @@ En eixir de l’estació, el meu company de vagó irlandès es va deixar caure d
 
 *”Timete Deus…”*, va començar a recitar embarbussant-se, però la nàusea l’aturà i perbocà estrepitosament. Si aquesta agonia era el preu a pagar, jo preferia ignorar la veritat i abraçar l’engany. Li vaig manllevar la petaca, tot confiant que el whisky atenuaria l’empremta indeleble i avui podria tornar a contemplar els estels en pau, com si res no haguera canviat.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns28.jpg" alt="Pintura a l’oli. Part de l‘esfera terrestre es retalla contra el firmament."><figcaption><em>Constellation</em> (Constel·lació)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns28.jpg" alt="Pintura a l’oli. Part de l‘esfera terrestre es retalla contra el firmament."><figcaption><em>Constellation</em><br>Constel·lació<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

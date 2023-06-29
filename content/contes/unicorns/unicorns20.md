@@ -15,5 +15,5 @@ Malauradament, després del parèntesi forçós del maccarthisme ja no s’hi va
 
 He pogut comprovar, en tot cas, que perdura al campus el record del seu magisteri i de la seua personalitat. A la botiga oficial de *merchandising*, hi resten encara uns pocs exemplars de *Tintín al Tibet* amb les seues dedicatòries apòcrifes, bellament cal·ligrafiades.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns20.jpg" alt="Pintura a l’oli. Retrat d’un grup de lames tibetans vestits amb túniques de color safrà."><figcaption><em>The lamas</em> (Els lames)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns20.jpg" alt="Pintura a l’oli. Retrat d’un grup de lames tibetans vestits amb túniques de color safrà."><figcaption><em>The lamas</em><br>Els lames<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

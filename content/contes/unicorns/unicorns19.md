@@ -15,5 +15,5 @@ Quan el propietari d’un edifici ruïnós de la rue d’Auseil, a la vora de l�
 
 Entretant, al pis de dalt sonava una música que pareixia d’un altre món.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns19.jpg" alt="Pintura a l’oli. Escena nocturna: un carreró amb fanals encesos i notes musicals que s’enlairen."><figcaption><em>The music of Erich Zann</em> (La música d’Erich Zann)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns19.jpg" alt="Pintura a l’oli. Escena nocturna: un carreró amb fanals encesos i notes musicals que s’enlairen."><figcaption><em>The music of Erich Zann</em><br>La música d’Erich Zann<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

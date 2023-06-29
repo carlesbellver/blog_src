@@ -21,5 +21,5 @@ M’he aturat un moment a fora per escoltar les primeres reaccions, abans de tor
 
 —A veure si aquesta vegada se’n fan l’ànim.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns61.jpg" alt="Pintura a l’oli. Quatre titelles grotescos."><figcaption><em>Grotesque puppets</em> (Titelles grotescos)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns61.jpg" alt="Pintura a l’oli. Quatre titelles grotescos."><figcaption><em>Grotesque puppets</em><br>Titelles grotescos<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

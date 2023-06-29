@@ -13,5 +13,5 @@ Li havien arribat reports de les excavacions de l’Institut Urusvati, en una va
 
 —Però ell mateix insinuava que Zura no existeix. És el buit, l’aigua fosca damunt de la qual s’assenta la civilització, el no-res que és a sota i ens sosté, disposat sempre a engolir-nos… I com ens podria sostenir el no-res?
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns55.jpg" alt="Pintura a l’oli de les escales descendents d’un baoli indi."><figcaption><em>Stepwell in Delhi</em> (Pou escalonat a Delhi)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns55.jpg" alt="Pintura a l’oli de les escales descendents d’un baoli indi."><figcaption><em>Stepwell in Delhi</em><br>Pou escalonat a Delhi<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

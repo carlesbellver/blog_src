@@ -17,5 +17,5 @@ Em contà el seu viatge. Tingué accés a documentació molt valuosa. Apunts mic
 
 Per la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però, la va presenciar ell, anys arrere a la Xina, o els dos junts al seu apartament? Ja no podrem esbrinar-ho mai?
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns08.jpg" alt="Pintura a l’oli. Retrat de Bertrand Russell i Dora Black. Ella porta roba xinesa."><figcaption><em>Bertrand Russell and Dora Black in China</em> (Bertrand Russell i Dora Black a la Xina)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns08.jpg" alt="Pintura a l’oli. Retrat de Bertrand Russell i Dora Black. Ella porta roba xinesa."><figcaption><em>Bertrand Russell and Dora Black in China</em><br>Bertrand Russell i Dora Black a la Xina<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

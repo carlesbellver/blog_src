@@ -19,5 +19,5 @@ Això va dir. Em va fer l’efecte que el mateix Schrödinger se’n reia en sil
 
 Vaig fer petar els dits diverses vegades. Fins i tot el vaig pessigar. No trobava la manera d’aconseguir que ens despertàrem, ni ell, ni jo.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns53.jpg" alt="Pintura a l’oli d’un comptador Geiger."><figcaption><em>Counter</em> (Comptador)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns53.jpg" alt="Pintura a l’oli d’un comptador Geiger."><figcaption><em>Counter</em><br>Comptador<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

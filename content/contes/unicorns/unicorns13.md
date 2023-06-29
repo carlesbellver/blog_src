@@ -17,5 +17,5 @@ També deu ser l’únic que utilitza com a font la separata dels *Annalen der N
 
 No va ser res més que un pensament dit en veu alta, un exabrupte. Però, com si haguera esmentat el dimoni o el secretari d’estat, tothom va callar, es van girar cap a mi i arrufant les celles em van fulminar. *“Silly young man”*, va remugar O’Brien. I havent formulat el dictamen, van recollir els estris, es van aixecar i van marxar.
 
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns13.jpg" alt="Retrat de Ludwig Wittgenstein. Imita l’estil d’Egon Schiele."><figcaption><em>Ludwig Wittgenstein according to Egon Schiele</em> (Ludwig Wittgenstein segons Egon Schiele)</figcaption></figure>
+<figure class="illustration"><img src="/contes/unicorns/images/unicorns13.jpg" alt="Retrat de Ludwig Wittgenstein. Imita l’estil d’Egon Schiele."><figcaption><em>Ludwig Wittgenstein according to Egon Schiele</em><br>Ludwig Wittgenstein segons Egon Schiele<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 
