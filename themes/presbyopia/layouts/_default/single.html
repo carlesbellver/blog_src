@@ -38,7 +38,9 @@
         {{ if .Params.latitude }}{{ partial "map.html" . }}{{ end }}
         {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
       </div>
-            
+      
+      {{ partial "postDirections.html" }}
+      
       {{ partial "postInfo.html" . }}
 
     </article>

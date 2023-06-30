@@ -1,0 +1,6 @@
+    {{ if or (.Parent.Prev .Parent.Next) }}
+      <div class="post-directions">
+        {{ if .Parent.Prev }}PREV{{ end }}
+        {{ if .Parent.Next }}NEXT{{ end }}
+      </div>
+    {{ end }}
