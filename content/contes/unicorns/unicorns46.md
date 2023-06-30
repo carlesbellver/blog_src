@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns46"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns46.jpg"
+prev = "/contes/unicorns/unicorns45"
+next = "/contes/unicorns/unicorns47"
 +++
 
 —El llibre era, no en tenim cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.

@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns16"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns16.jpg"
+prev = "/contes/unicorns/unicorns15"
+next = "/contes/unicorns/unicorns17"
 +++
 
 Era l’única dona que assistia a la recepció i l’única que he vist mai al campus. Abans, entre els vells, m’havia paregut una xiqueta de tretze o catorze anys, possiblement la neta d’alguna eminència xaruga. Ara li’n faria tres o quatre més, prou per ser al primer curs d’universitat. Si no ací, potser a Harvard o a Brown.

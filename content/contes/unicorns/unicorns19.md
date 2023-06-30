@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns19"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns19.jpg"
+prev = "/contes/unicorns/unicorns18"
+next = "/contes/unicorns/unicorns20"
 +++
 
 L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada nord-americana. El tiratge, escàs, es va difondre als cercles habituals, fins que algú es va esquinçar les vestidures. Es van suscitar sospites sobre l’autenticitat d’algunes escenes i sobre la identitat dels subjectes implicats. Jenkin va tocar el dos, mentre que el seu traductor francès, aclaparat per l’oprobi, es va suïcidar.

@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns36"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns36.jpg"
+prev = "/contes/unicorns/unicorns35"
+next = "/contes/unicorns/unicorns37"
 +++
 
 Tot just una frase —set mots— en un tros de paper estripat i rebregat. El fet que no entenguera l’idioma, li suposava algun problema? Em va contestar que no, que ell desxifrava símbols universals, inherents a l’escriptura.

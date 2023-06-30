@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns56"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns56.jpg"
+prev = "/contes/unicorns/unicorns55"
+next = "/contes/unicorns/unicorns57"
 +++
 
 Mentre l’esperava, la secretària del seu tutor li va demanar si podia ajudar-lo amb unes notes que calia mecanografiar. Càndidament va accedir a dictar-li-les i a la segona frase es va adonar del sentit i la procedència reals d’aquell fragment. Però —per això mateix?— no va poder aturar-se i va continuar recitant el full en veu alta, vocalitzant la lletania d’abominables perversions.

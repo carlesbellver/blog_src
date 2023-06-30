@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns58"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns58.jpg"
+prev = "/contes/unicorns/unicorns57"
+next = "/contes/unicorns/unicorns59"
 +++
 
 Va tornar a ponderar l’heroisme dels *marines* —en aquesta nova operació imperialista que difonia la premsa— i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència. Em vaig indignar. M’emprenyava el seu patrioterisme i ell se sentia ofès quan jo defensava el no a la guerra. No era la primera vegada que xocàvem.

@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns62"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns62.jpg"
+prev = "/contes/unicorns/unicorns61"
+next = "/contes/unicorns/unicorns63"
 +++
 
 La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres. En vam parlar a la nit, en tornar a l’hotel.

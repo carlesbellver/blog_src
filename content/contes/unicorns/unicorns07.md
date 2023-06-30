@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns07"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns07.jpg"
+prev = "/contes/unicorns/unicorns06"
+next = "/contes/unicorns/unicorns08"
 +++
 
 Un dels moments crítics en la història de la Miskatonic University seria sens dubte la seua clausura el dilluns 7 de juliol de 1958, just quan, paradoxalment, la voràgine maccarthista arribava a la seua fi. Bona part del professorat va patir presó preventiva, llargues i feixugues investigacions i la prohibició temporal de treballar en cap altra institució educativa.

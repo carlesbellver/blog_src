@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns54"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns54.jpg"
+prev = "/contes/unicorns/unicorns53"
+next = "/contes/unicorns/unicorns55"
 +++
 
 M’he aturat davant de l’única mòmia nord-americana de la col·lecció. Arkham, Massachusetts, n’informava exiguament la fitxa. Un exemplar, entenc, valuós, potser un indi *pennacook*, tot i que el rictus i els parracs em suggerien més prompte una bubota.

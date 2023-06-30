@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns60"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns60.jpg"
+prev = "/contes/unicorns/unicorns59"
+next = "/contes/unicorns/unicorns61"
 +++
 
 —No seria, doncs, pròpiament un idioma?

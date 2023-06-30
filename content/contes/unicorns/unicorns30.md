@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns30"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns30.jpg"
+prev = "/contes/unicorns/unicorns29"
+next = "/contes/unicorns/unicorns31"
 +++
 
 Em vaig preguntar si era possible que s’assemblaren tant i que no foren la mateixa persona. Però, alhora, no tenia cap dubte que era una altra, gairebé oposada: els cabells més curts, més parisencs, la manera de vestir, més informal, i sobretot, la desimboltura bohèmia, la mancança d’afectació aristocràtica. Jo havia begut i fumat. Sentia una audàcia i una agilitat verbal segurament infundades. No em va sorprendre prou que em permetera acompanyar-la a casa seua. En la fosca intimitat dels seus llençols, em vaig convèncer que qualsevol semblança havia estat un miratge.

@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns38"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns38.jpg"
+prev = "/contes/unicorns/unicorns37"
+next = "/contes/unicorns/unicorns39"
 +++
 
 —Els mapes de Schiaparelli van ser una temptativa notable, però la millor cartografia de Mart continua sent aquesta. I les imatges de la sonda Viking no han fet més que confirmar-ho.

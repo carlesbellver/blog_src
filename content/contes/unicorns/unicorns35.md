@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns35"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns35.jpg"
+prev = "/contes/unicorns/unicorns34"
+next = "/contes/unicorns/unicorns36"
 +++
 
 Eufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa. Deien que sabia fabricar or. O que havia trobat monedes antigues dins d’una olla. Un misteri que comprenia també la desaparició del Quim, el seu proxeneta. Però estaven acostumades que els passaren coses inexplicables.

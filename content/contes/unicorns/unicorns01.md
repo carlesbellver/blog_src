@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns01"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns01.jpg"
+prev = "/contes/unicorns/unicorns00"
+next = "/contes/unicorns/unicorns02"
 +++
 
 La vaig conèixer en una sala d’estudi de l’antiga Facultat de Lletres de la Universitat de París. Ens vam mirar i al cap d’un minut em vaig adonar que eixia. Va ser una conversa breu, una mica incòmoda i tendra. Bevíem glops d’un cafè de màquina que pareixia verinós.

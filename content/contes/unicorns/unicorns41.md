@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns41"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns41.jpg"
+prev = "/contes/unicorns/unicorns40"
+next = "/contes/unicorns/unicorns42"
 +++
 
 Les intervencions de N. M. —àlies Irina, del grec *eirēnē*: pau— als debats del primer Congrés de Futurologia, a Balaklava, van fer inexcusable la seua participació al segon, un any després a Dubrovnik. Doctora en matemàtiques per la Universitat de Moscou, i en psicologia per l’Institut Pavlov de Leningrad, dirigia des de feia poc el laboratori d’exobiologia de la base secreta в/ч 26266.

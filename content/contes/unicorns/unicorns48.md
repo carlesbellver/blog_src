@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns48"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns48.jpg"
+prev = "/contes/unicorns/unicorns47"
+next = "/contes/unicorns/unicorns49"
 +++
 
 No sóc gens afeccionat a viatjar —malgrat que aquesta vegada haja travessat l’Atlàntic—, però l’anunci en aquell aparador va fer que m’hi aturara.

@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns27"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns27.jpg"
+prev = "/contes/unicorns/unicorns26"
+next = "/contes/unicorns/unicorns28"
 +++
 
 En el meu primer dia lliure, vaig planejar una excursió en tren per la rodalia d’Arkham. L’únic episodi remarcable d’aquesta breu escapada s’esdevingué a Innsmouth. El museu d’història estava dedicat sobretot a un orde maçònic local, però el seu tresor més preat eren uns exemplars d’un mamífer marí, originari de la Polinèsia i radicat allí arran del comerç del segle XIX.

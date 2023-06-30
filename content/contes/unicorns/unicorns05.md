@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns05"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns05.jpg"
+prev = "/contes/unicorns/unicorns04"
+next = "/contes/unicorns/unicorns06"
 +++
 
 —El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston van veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York ha detingut un pintor bohemi, al Village, per espantar els veïns amb el seu caiman.

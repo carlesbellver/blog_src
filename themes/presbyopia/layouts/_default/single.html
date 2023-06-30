@@ -39,7 +39,7 @@
         {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
       </div>
       
-      {{ partial "postDirections.html" }}
+      {{ partial "postDirections.html" . }}
       
       {{ partial "postInfo.html" . }}
 

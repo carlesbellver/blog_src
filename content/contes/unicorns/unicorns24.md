@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns24"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns24.jpg"
+prev = "/contes/unicorns/unicorns23"
+next = "/contes/unicorns/unicorns25"
 +++
 
 —Una errada en la numeració de les pàgines feia que pareguera que en faltaven un parell. Van córrer rumors sobre el contingut censurat, eliminat a darrera hora amb el manual eixint d’impremta.

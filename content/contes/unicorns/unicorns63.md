@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns63"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns63.jpg"
+prev = "/contes/unicorns/unicorns62"
+next = "/contes/unicorns/unicorns64"
 +++
 
 Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom. El bloc de pisos on vivia ha sofert una certa degradació. La façana necessitaria una bona mà de pintura. I el pati que li donava un aire de Place des Vosges per a rendes modestes agrairia l’atenció d’un jardiner. La porta del carrer era oberta. A la bústia que va ser seua —i de la seua amiga Clémentine— hi ha uns altres noms que algú ha ratllat. Volia donar una ullada a aquells dos ascensors, un molt més ampli del que era habitual i l’altre estranyament angost. Això sempre ens va fer riure.

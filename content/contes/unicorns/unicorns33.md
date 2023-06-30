@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns33"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns33.jpg"
+prev = "/contes/unicorns/unicorns32"
+next = "/contes/unicorns/unicorns34"
 +++
 
 *Years and years* eren els mots finals que m’havien quedat gravats quan em vaig tornar a despertar.

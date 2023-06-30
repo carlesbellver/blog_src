@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns09"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns09.jpg"
+prev = "/contes/unicorns/unicorns08"
+next = "/contes/unicorns/unicorns10"
 +++
 
 M’enviaven al bar de baix amb els diners comptats i jo pujava amb les dues botelles —perquè n’hi havia que eren de conyac i n’hi havia que eren d’anís— i el cartó de tabac americà. Elles m’ho regraciaven amb un gotet —jo era d’anís— i una nova tanda d’històries: variacions sobre els tràngols que havien passat i els viaranys pels quals van venir a parar en aquell casalot del carreró, el mateix en què d’un temps ençà residia jo també.

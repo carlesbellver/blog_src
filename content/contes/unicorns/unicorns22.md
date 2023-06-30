@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns22"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns22.jpg"
+prev = "/contes/unicorns/unicorns21"
+next = "/contes/unicorns/unicorns23"
 +++
 
 Una nit vaig somniar que li implorava que em perdonara i ella es mofava de mi. Taral·lejava una cançoneta, feia una cabriola i em clavava les dents a la mà. Però tornar a veure la seua cara radiant em va causar una impressió molt més forta que la mossegada.

@@ -6,7 +6,7 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns65"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns65.jpg"
+prev = "/contes/unicorns/unicorns64"
 +++
 
 No crec que ningú es moleste a comptar els caràcters de cada una —o de cap— d’aquestes proses: si és que algú es molesta a llegir-les. Fora en va, per tant, aclarir que la memòria RAM lliure d’un ZX81 era tot just d’uns centenars de bytes; o que era ampliable fins a 64 KB; o que el codi ASCII ni tan sols era compatible amb les vocals accentuades del català; i que les codificacions més modernes, com l’UTF-8, dediquen més d’un octet a cadascun d’aquests caràcters *exòtics*; etc., etc.

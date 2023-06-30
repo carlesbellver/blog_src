@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns02"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns02.jpg"
+prev = "/contes/unicorns/unicorns01"
+next = "/contes/unicorns/unicorns03"
 +++
 
 Els cabells esbullats, els llavis pintats i un gran somriure. Feia vent, aquell matí. Aquesta foto seua, una mica borrosa, l’única que tenia i que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li. La va examinar amb interès i em va demanar qui era.

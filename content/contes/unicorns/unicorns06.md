@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns06"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns06.jpg"
+prev = "/contes/unicorns/unicorns05"
+next = "/contes/unicorns/unicorns07"
 +++
 
 S’apropava l’hora de tancar i la cua avançava amb lentitud exasperant, però no podia deixar l’enviament per a l’endemà perquè no estava segur que les còpies arribaren a temps, i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.

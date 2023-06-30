@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns21"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns21.jpg"
+prev = "/contes/unicorns/unicorns20"
+next = "/contes/unicorns/unicorns22"
 +++
 
 —T’ensenyaré un llenguatge secret.

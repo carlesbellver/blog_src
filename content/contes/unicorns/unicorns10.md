@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns10"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns10.jpg"
+prev = "/contes/unicorns/unicorns09"
+next = "/contes/unicorns/unicorns11"
 +++
 
 Em va demanar què pensava d’ella. Li vaig dir que era rossa, apassionada i irreflexiva. Era evident que no m’ho hauria d’haver preguntat i jo no li hauria d’haver contestat. Qualsevol altre dia no hauria emprat aquests adjectius per a definir-la. Hauria procurat no fer mal a ningú amb l’elecció de les paraules.

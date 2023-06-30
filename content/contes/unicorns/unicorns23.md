@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns23"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns23.jpg"
+prev = "/contes/unicorns/unicorns22"
+next = "/contes/unicorns/unicorns24"
 +++
 
 Examinàvem sota el flexo la seua darrera adquisició: un exemplar d’*Il newtonianismo per le dame*, col·lecció de diàlegs amb què el savi venecià Francesco Algarotti va contribuir a divulgar la *Philosophiae naturalis* d’Isaac Newton. A mi em feia recordar, és clar, les lliçons epistolars de Leibniz a Sophie de Hannover i a la seua filla Sophie-Charlotte, publicades recentment amb el títol *Filosofia per a princeses*.

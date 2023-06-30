@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns28"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns28.jpg"
+prev = "/contes/unicorns/unicorns27"
+next = "/contes/unicorns/unicorns29"
 +++
 
 En eixir de l’estació, el meu company de vagó irlandès es va deixar caure de genolls a terra i el vaig haver de rodejar, però en adonar-me que assenyalava amb l’índex el cel fosc, vaig alçar el cap jo també per admirar junts la visió del caos estenent-se pel firmament. Un caos reptant que infectava l’ordre incipient de les constel·lacions i impedia que prosperara aquell cosmos embrionari, migrat, que hem cregut copsar des dels pitagòrics i des d’abans dels pitagòrics, des dels astrònoms egipcis i babilònics. Un cosmos que ara, en aquest instant prodigiós, se’ns revelava com un engany: una mentida piadosa, una il·lusió infantil.

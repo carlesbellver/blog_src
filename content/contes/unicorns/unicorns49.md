@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns49"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns49.jpg"
+prev = "/contes/unicorns/unicorns48"
+next = "/contes/unicorns/unicorns50"
 +++
 
 Aquest tros de plàstic que prove a fer servir com a màquina d’escriure electrònica es connecta a un televisor vell, menut, on esforçant-me puc veure què teclege, a una gravadora de cintes de casset, on se suposa que s’arxiven els textos, i a una impressora tèrmica que només funciona els dies senars.

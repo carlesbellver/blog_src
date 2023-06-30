@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns44"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns44.jpg"
+prev = "/contes/unicorns/unicorns43"
+next = "/contes/unicorns/unicorns45"
 +++
 
 M’inspirava un tendre amor platònic, però el torrent dels somnis, brusc i impetuós, tendia a ser d’un to molt més lúbric que els meus sentiments.

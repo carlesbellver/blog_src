@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns52"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns52.jpg"
+prev = "/contes/unicorns/unicorns51"
+next = "/contes/unicorns/unicorns53"
 +++
 
 Mentre teclejava el text d’ahir, un representant de màquines d’escriure ensenyava a Rice el seu últim model.

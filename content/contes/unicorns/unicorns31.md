@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns31"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns31.jpg"
+prev = "/contes/unicorns/unicorns30"
+next = "/contes/unicorns/unicorns32"
 +++
 
 —Setembre de 1926. Un any abans que AT&T inaugurara la connexió transatlàntica amb Londres, un mes abans que Houdini morira d’una peritonitis i al mateix temps que Lovecraft començava a escriure *La crida de Cthulhu* a sa casa de Providence, on s’havia instal·lat de nou, un emprenedor anònim va obrir a Nova York un servei telefònic de comunicació amb el més enllà. “Torneu a escoltar la seua veu”, invitava la publicitat. “Continueu parlant amb els vostres éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en ambients de classe alta.

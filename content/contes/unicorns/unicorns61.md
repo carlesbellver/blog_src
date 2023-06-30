@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns61"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns61.jpg"
+prev = "/contes/unicorns/unicorns60"
+next = "/contes/unicorns/unicorns62"
 +++
 
 Tres colpets suaus a la porta de la sala de professorat vella de l’ala nord —la més discreta—, una pausa i tres colpets més. Sense trigar m’han demanat que passara. Sabia que m’esperaven. He lliurat el nou telegrama i he marxat fent una reverència mentre el conciliàbul s’informava.

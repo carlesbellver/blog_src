@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns25"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns25.jpg"
+prev = "/contes/unicorns/unicorns24"
+next = "/contes/unicorns/unicorns26"
 +++
 
 M’explicava el concepte tibetà de *tulpa*: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.

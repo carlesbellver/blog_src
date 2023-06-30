@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns45"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns45.jpg"
+prev = "/contes/unicorns/unicorns44"
+next = "/contes/unicorns/unicorns46"
 +++
 
 —Declare per endavant la meua ineptitud per a entendre els rituals d’aparellament humans. Així que tot el que en puga dir s’hauria de posar entre parèntesis.

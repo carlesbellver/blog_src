@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns15"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns15.jpg"
+prev = "/contes/unicorns/unicorns14"
+next = "/contes/unicorns/unicorns16"
 +++
 
 Vaig guanyar el premi de narrativa amb un recull inspirat en l’estada al psiquiàtric, però ara trobe que *La vida canina* és un títol massa subtil: ningú no podrà evitar que el llibre, quan es publique, vaja a parar a la secció d’animals de companyia.

@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns34"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns34.jpg"
+prev = "/contes/unicorns/unicorns33"
+next = "/contes/unicorns/unicorns35"
 +++
 
 Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un xiquet. La van fer desfilar cap a ell entre els convidats, quasi nua, lligada amb una corretja ben cenyida al coll. Entre riotes li van dir: és teua, pots fer-li allò que vulgues. I això va fer, d’aquella nit en avant.

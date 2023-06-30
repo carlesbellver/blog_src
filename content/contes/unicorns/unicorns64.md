@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns64"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns64.jpg"
+prev = "/contes/unicorns/unicorns63"
+next = "/contes/unicorns/unicorns65"
 +++
 
 Buscàvem una ciutat perduda a la selva tropical. Acampàvem en tendes a la penombra del sotabosc, damunt d’un fang primordial. L’ambient era xafogós. De tot s’emparava la floridura.

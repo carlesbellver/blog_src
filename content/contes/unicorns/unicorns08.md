@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns08"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns08.jpg"
+prev = "/contes/unicorns/unicorns07"
+next = "/contes/unicorns/unicorns09"
 +++
 
 La seua tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín. M’ho explicava a la seua biblioteca, mentre jo fullejava una primera edició de *The Analysis of Mind* (Allen & Unwin, 1921), excel·lentment conservada, i assaboria la copa de *scotch* que m’havia oferit. Ell, tanmateix, preferia com sempre el vi de Porto.

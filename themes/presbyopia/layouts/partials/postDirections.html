@@ -1,6 +1,6 @@
-    {{ if or (.Parent.Prev .Parent.Next) }}
+    {{ if or (.Params.prev) (.Params.next) }}
       <div class="post-directions">
-        {{ if .Parent.Prev }}PREV{{ end }}
-        {{ if .Parent.Next }}NEXT{{ end }}
+        {{ if .Params.prev }}<span class="prev"><a href="{{ .Params.prev }}" title="anterior"><img class="icon" src="{{ site.BaseURL }}svg.icons/arrow-circle-left.svg" /></a> <a href="{{ .Params.prev }}" title="anterior">anterior</a></span>{{ end }}
+        {{ if .Params.next }}<span class="next"><a href="{{ .Params.next }}" title="següent">següent</a> <a href="{{ .Params.next }}" title="següent"><img class="icon" src="{{ site.BaseURL }}svg.icons/arrow-circle-right.svg" /></a></span>{{ end }}
       </div>
     {{ end }}

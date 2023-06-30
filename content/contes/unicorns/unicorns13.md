@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns13"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns13.jpg"
+prev = "/contes/unicorns/unicorns12"
+next = "/contes/unicorns/unicorns14"
 +++
 
 Aquest deu ser l’únic departament de filosofia del món en què es comença l’estudi del *Tractatus* pel final. És a dir, per la carta de Wittgenstein a Ludwig von Ficker, en què declarava que el sentit de l’obra és ètic i que la part més important és la que no podia escriure.

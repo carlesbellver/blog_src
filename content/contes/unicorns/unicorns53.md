@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns53"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns53.jpg"
+prev = "/contes/unicorns/unicorns52"
+next = "/contes/unicorns/unicorns54"
 +++
 
 Havia comprat aquella andròmina a algú que assegurava haver treballat com a secretari de Von Braun i que l’oferia, entre d’altres *souvenirs* o *memorabilia*, per un preu elevadíssim. Ningú sabia del cert com funcionava. Se suposava que era un instrument que procedia de l’Alemanya nazi, d’aquell període en què va florir una ciència estranya, amb aplicacions insòlites i cruels.

@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns37"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns37.jpg"
+prev = "/contes/unicorns/unicorns36"
+next = "/contes/unicorns/unicorns38"
 +++
 
 S’havien acabat les diapositives i ningú no es decidia a parlar-ne.

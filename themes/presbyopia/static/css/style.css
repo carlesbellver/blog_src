@@ -604,12 +604,24 @@ main article .content:after {
 
 .post-directions {
   background: var(--bg-color);
-  margin-top: 10px;
+  margin: 1em 0 2em;
   max-width: 100%;
   padding: 5px 0;
   font-family: var(--font-details);
   font-size: 0.7em;
   text-transform: uppercase;
+  color: var(--post-info-color);
+}
+
+.post-directions .prev {
+  float: left;
+}
+
+.post-directions .next {
+  float: right;
+}
+
+.post-directions a {
   color: var(--post-info-color);
 }
 
@@ -809,7 +821,7 @@ article .content figure figcaption {
 }
 
 article .content figure figcaption .ai-disclaimer {
-  font-size: 0.9em;
+  font-size: 0.875em;
 }
 
 article video,

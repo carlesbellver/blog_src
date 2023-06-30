@@ -7,6 +7,8 @@ license = "by-nc"
 url = "contes/unicorns/unicorns32"
 tags = ["contes"]
 image = "/contes/unicorns/images/unicorns32.jpg"
+prev = "/contes/unicorns/unicorns31"
+next = "/contes/unicorns/unicorns33"
 +++
 
 Un vespre d’estiu, un llamp va esquinçar de cap a punta el cel blau damunt de Harlem. Va sonar el telèfon i Bess va contestar.
