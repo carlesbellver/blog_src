@@ -6,6 +6,7 @@ date = "2018-12-11"
 
 Alguns contes solts.
 
+- [“La novel·la de Wittgenstein”](roman)
 - [“Impugnació de Kavafis”](impugnacio)
 - [*Unicorns*](unicorns) (improvisacions en 1.024 caràcters)
 - [“Una història subterrània”](/tmp/32ec15b3dede/)
