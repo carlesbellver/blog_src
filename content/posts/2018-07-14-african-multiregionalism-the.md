@@ -9,6 +9,5 @@ x_title = "African Multiregionalism: the New Story of Humanity's Origins"
 x_source = ""
 +++
 
-
 > Diversos descobriments recents suggereixen que la nostra espècie no va sorgir d’un sol punt geogràfic. En lloc d'això, tot el continent va ser el nostre bressol.
 
