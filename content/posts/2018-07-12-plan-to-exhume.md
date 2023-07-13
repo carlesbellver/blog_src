@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> Paul Preston… va dir que Espanya era una anomalia a Europa per mantenir un "lloc de pelegrinatge per al seu dictador feixista" —no hi ha monuments a Adolf Hitler a Alemanya o a Àustria, ni a Benito Mussolini a Itàlia.
+> Paul Preston… va dir que Espanya era una anomalia a Europa per mantenir un “lloc de pelegrinatge per al seu dictador feixista” —no hi ha monuments a Adolf Hitler a Alemanya o a Àustria, ni a Benito Mussolini a Itàlia.
 

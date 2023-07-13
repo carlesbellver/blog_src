@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> …la demanda d'energia d'Internet està creixent exponencialment. Cada byte addicional que es transfereix implica més energia, i això en molts països significa més CO₂.
+> …la demanda d’energia d’Internet està creixent exponencialment. Cada byte addicional que es transfereix implica més energia, i això en molts països significa més CO₂.
 
