@@ -9,6 +9,5 @@ x_title = "First Object Teleported From Earth To Orbit"
 x_source = ""
 +++
 
-
-Entrellaçament quàntic. Fotó teletransportat de la Terra a un satèl·lit a 500 km d'altura.
+Entrellaçament quàntic. Fotó teletransportat de la Terra a un satèl·lit a 500 km d’altura.
 
