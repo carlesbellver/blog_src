@@ -8,7 +8,7 @@ image = "/uploads/2023/2023-07-13-roman.jpg"
 
 <img src="/uploads/2023/2023-07-13-roman.jpg" alt="Portada d’una novel·la fictícia de Ludwig Wittgenstein. Títol en alemany: “Auswärtige Angelegenheiten”. Il·lustració: dibuix amb llapissos de colors d’una mosca molt grossa atrapada dins d’una botella. La botella porta impresa la bandera del Regne Unit.">
 
-> Quina és el teu objectiu en filosofia? Mostrar a la mosca l’eixida de la botella.
+> Quin és el teu objectiu en filosofia? Mostrar a la mosca l’eixida de la botella.
 
 —Ludwig Wittgenstein
 
