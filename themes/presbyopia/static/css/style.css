@@ -729,10 +729,12 @@ img.thumbnail {
 
 .post-info a {
   color: var(--post-info-color);
+  text-decoration: none;
 }
 
 .post-info a:hover {
   color: var(--link-state-color);
+  text-decoration: underline;
 }
 
 .post-taxonomies {
