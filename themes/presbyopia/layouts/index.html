@@ -9,6 +9,7 @@
     </div>
 
   <article class="post-list">
+  <h2>Darrers apunts</h2>
 	{{ $list := (where site.RegularPages "Type" "in" site.Params.mainSections) }}
 	{{ range first site.Params.noPosts $list }}
     
