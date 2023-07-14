@@ -4,6 +4,7 @@ date = "2023-07-12T00:05:25+02:00"
 tags = ["contes"]
 syndication = []
 image = "/uploads/2023/2023-07-13-roman.jpg"
+description = "Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein."
 +++
 
 <img src="/uploads/2023/2023-07-13-roman.jpg" alt="Portada d’una novel·la fictícia de Ludwig Wittgenstein. Títol en alemany: “Auswärtige Angelegenheiten”. Il·lustració: dibuix amb llapissos de colors d’una mosca molt grossa atrapada dins d’una botella. La botella porta impresa la bandera del Regne Unit.">
