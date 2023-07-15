@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="UTF-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: La novel·la de Wittgenstein</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689399243" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689399243" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689399243" />
+
+
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="La novel·la de Wittgenstein"/>
+<meta property="og:description" content="Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/contes/roman/" /><meta property="og:image" content="https://carlesbellver.net/uploads/2023/2023-07-13-roman.jpg" />
+<meta property="article:published_time" content="2023-07-12T00:05:25+02:00" />
+<meta property="article:modified_time" content="2023-07-12T00:05:25+02:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/2023/2023-07-13-roman.jpg"/>
+<meta name="twitter:title" content="La novel·la de Wittgenstein"/>
+<meta name="twitter:description" content="Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein."/>
+
+
+
+
+<meta name="page-source-path" content="contes/roman.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/" title="">Blog</a>
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post contes h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/contes/" title="Contes">Contes</a>
+          
+          </li>
+        
+        <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 5 minuts</span></li>
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">La novel·la de Wittgenstein</h1>
+
+      
+      
+      
+      
+      
+
+      </header>      
+            
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <img src="https://carlesbellver.net/uploads/2023/2023-07-13-roman.jpg" alt="Portada d’una novel·la fictícia de Ludwig Wittgenstein. Títol en alemany: “Auswärtige Angelegenheiten”. Il·lustració: dibuix amb llapissos de colors d’una mosca molt grossa atrapada dins d’una botella. La botella porta impresa la bandera del Regne Unit.">
+<blockquote>
+<p>Quin és el teu objectiu en filosofia? Mostrar a la mosca l’eixida de la botella.</p>
+</blockquote>
+<p>—Ludwig Wittgenstein</p>
+<blockquote>
+<p>Certament, jo canviaria totes les obres de Whitehead o Wittgenstein per les novel·les que haurien d’haver escrit.</p>
+</blockquote>
+<p>—Colin Wilson</p>
+<p>Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein. Ja ho havia intentat —seria més exacte dir que m’ho vaig plantejar— molts anys abans, quan estudiava filosofia. però hi havia bones traduccions del <em>Tractatus</em>, de les <em>Investigacions filosòfiques</em> i pràcticament de la totalitat de la seua obra, fins i tot dels seus diaris privats o d’apunts presos per l’alumnat en les seues classes. De manera que en aquell temps em vaig deixar véncer per la peresa intel·lectual.</p>
+<p>Aleshores, en tot cas, ningú sospitava que el geni vienès haguera escrit mai cap novel·la. Crec que va ser l’autor anglès Colin Wilson, arran d’una revelació en un somni, el primer que va interpretar en aquest sentit algunes al·lusions poc clares en les <em>Vermischte Bermerkungen</em>. Però Wilson estava marcat per la seua afecció als temes místics i paranormals i per tant la seua hipòtesi va ser menystinguda. Tanmateix, al cap d’uns anys, algú va trobar el manuscrit a l’arxiu d’un hotel de Dublín, on Wittgenstein es va retirar temporalment quan va renunciar a la càtedra de Cambridge.</p>
+<p>Quina feliç casualitat que la descoberta coincidira amb el setantè aniversari de la mort del filòsof i, per consegüent, amb el pas de la seua obra al domini públic, si més no a la Unió Europea i en molts altres països arreu del món. L’editorial que havia adquirit el text, doncs, no hauria de pagar drets d’autor, ni necessitaria el permís dels marmessors per a publicar-lo.</p>
+<p>La novel·la es titulava <em>Auswärtige Angelegenheiten</em> (<em>Afers estrangers</em>) i era una narració policíaca, com les que Wittgenstein es complaïa a llegir en les revistes de <em>pulp</em> nord-americanes que li enviava el seu amic i exalumne Norman Malcolm. Un detectiu de la comissaria de Viena es desplaçava al Regne Unit per col·laborar en la resolució de l’assassinat d’un compatriota, mecenes de les arts, que havia mort enverinat amb estricnina. L’argument, a base d’acció <em>hard-boiled</em> i misteris que s’enredaven i es desenredaven un rere l'altre, era enginyós i absorbent. I els personatges resultaven memorables, inclosos els secundaris: la refinada aristòcrata francesa examant del finat, per exemple, o l’obtús inspector de la Cambridge Borough Police. Però el més remarcable de tot era el sentit de l’humor del protagonista, particularment mordaç pel que feia a nombrosos aspectes del que ell anomenava la “civilització anglesa”.</p>
+<p>La intensa campanya publicitària encarregada per Schaum, amb espots a la ràdio, televisió i xarxes socials, va suscitar una gran expectació a Àustria i a Alemanya, que es va contagiar de seguida a altres països (d’això puc donar fe jo mateix). Però a la Gran Bretanya i als Estats Units va primar l’escepticisme.</p>
+<p>Un article d’investigació en <em>The New Yorker</em> va estendre la sospita que el llibre podria ser un frau: un muntatge creat mitjançant un algorisme d’Intel·ligència Artificial que hauria assimilat les obres completes del filòsof i seria capaç de reproduir el seu estil, tot traslladant-lo a la narrativa de ficció. S’aportava com a prova una anàlisi completa de la novel·la, executada també per ordinador, segons la qual l’índex de consistència interna del text era massa elevat per a haver-lo escrit una persona. Dit d’una altra manera: estava massa ben escrit per a ser humà.</p>
+<p>Schaum, però, va replicar que Wittgenstein havia redactat només un primer esborrany de la història, més aviat preliminar, i va admetre haver utilitzat la Intel·ligència Artificial per polir-ne els defectes i emplenar alguns buits de la trama. Una tasca editorial, subratllava la nota de premsa, absolutament rutinària, habitual amb tota mena de llibres i d’autors, que s’havia pogut acomplir ara d’una forma molt més àgil i eficient gràcies als avanços de la computació. Allò que a un revisor li hauria suposat setmanes o mesos de feina, la màquina ho havia enllestit en una estona, per una fracció del cost i amb una nivell de qualitat òptim.</p>
+<p>A més a més, Schaum va exposar públicament el manuscrit i el va sotmetre a l’examen d’un comitè independent. Els treballs d’aquests experts, però, es van anar dilatant per manca d’acord respecte a alguns detalls menors, circumstància que impedí d’arribar a cap conclusió definitiva i feu augmentar la incertesa. Va ser per aquest motiu que es van suspendre les traduccions previstes i jo —aquesta vegada sí— em vaig decidir a aprendre l’idioma.</p>
+<p>No sóc qui per a pronunciar-me sobre l’autenticitat de la novel·la. Només puc dir que vaig gaudir de llegir-la. Crec que fins i tot em va permetre d’entendre millor algunes idees bàsiques de la filosofia de Wittgenstein que se m’havien resistit fins ara. En canvi, no estic segur d’haver copsat al final qui era de debò l’assassí. Però aquest dèficit meu de comprensió ja no em sorprèn i no li done massa importància. Em passa sovint, no només amb llibres i pel·lícules sinó també en la vida real. Em sent, per dir-ho amb una de les seues metàfores més cèlebres, com la mosca atrapada dins de la botella, esperant en va que el filòsof li ensenye l’eixida.</p>
+<div class="small">NOTA. Aquesta història no ha estat generada mitjançant ChatGPT, sinó amb un procediment fins a cert punt anàleg: llegir molt, tota mena de coses; mirar d’assimilar el que llegeixes; remesclar-ho d’una manera que puga parèixer original i interessant, si més no per a tu mateix.</small>
+
+        <img src="https://carlesbellver.net/uploads/2023/2023-07-13-roman.jpg" class="sn">
+      </div>
+      
+          
+
+      
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/contes/roman/"><span class="post-date dt-published">2023-07-12</span></a></li>
+      
+      <li><ul class="post-tags"><li><img class="icon" src="https://carlesbellver.net//svg.icons/tag.svg" alt="tag" /> <a href="https://carlesbellver.net/tags/contes">contes</a></li> </ul></li>
+      
+      <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 5 minuts</span></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2023
+        </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
