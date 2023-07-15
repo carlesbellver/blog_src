@@ -12,9 +12,9 @@
       <h2 class="subtitle">{{ trim .Params.subtitle " " }}</h2>
       {{- end }}
       
-      {{ if .Params.Author }}
+      {{ if .Params.Author -}}
         <div class="author">
-          {{ .Params.Author | safeHTML }}
+          {{ .Params.Author }}
         </div>      
       {{- end }}
       

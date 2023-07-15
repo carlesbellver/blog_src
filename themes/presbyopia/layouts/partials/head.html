@@ -5,7 +5,8 @@
 <meta name="referrer" content="no-referrer-when-downgrade">
 
 <title>{{ .Site.Params.Author }}{{ if (not .IsHome) }} :: {{ if (.Title) }}{{ .Title }}{{ else if (.Params.X_title) }}{{ .Params.X_title }}{{ else }}{{ .Params.date | time.Format "2006-01-02 15:04" }}{{ end }}{{ end }}</title>
-<meta name="description" content="{{ .Site.Params.Description }}">
+<meta name="author" content="{{- if .Params.Author }}{{ .Params.Author }}{{ else }}{{ .Site.Params.Author }}{{- end -}}">
+<meta name="description" content="{{ .Description }}">
 
 {{ with .OutputFormats.Get "rss" -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
