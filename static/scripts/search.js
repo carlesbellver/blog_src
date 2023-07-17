@@ -110,6 +110,10 @@ function runSearch(q) {
           item.score = score;
           results.push(item);
           count++;
+          /* console.log(item.url + " " + tags_lower);
+          if (item.tags.includes("fotos")) {
+            console.log("MATCH");
+          } */
         }
       }
     }
@@ -154,17 +158,19 @@ function displayResults(results) {
       s = s.substr(0, SUMMARY_LENGTGH) + "…";
     }
     var title_node = document.createElement("span");
+    title_node.innerHTML = '';
+    /* Picture? */
+    if (results[i]["tags"].includes("fotos")) {
+        title_node.innerHTML = title_node.innerHTML + " &#x1F5BC;"
+      }
+    /* Title? */
     if (results[i]["title"] && results[i]["title"].length > 0) {
-      title_node.innerHTML = ' <a class="u-url" href="'+results[i]["url"]+'">' + results[i]["title"] + '</a>';
+      title_node.innerHTML = title_node.innerHTML + ' <a class="u-url" href="'+results[i]["url"]+'">' + results[i]["title"] + '</a>';
       if (q && s) {
         title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary">'+ s +'</span>';
       }
     }
-    else {
-      if (results[i]["tags"].includes("fotos")) {
-        title_node.innerHTML = title_node.innerHTML + " &#x1F5BC;"
-      }
-      /* title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary"><a href="'+results[i]["url"]+'">'+s+"</a></span>"; */
+    else { /* untitled */
       title_node.innerHTML = title_node.innerHTML + ' <span class="p-summary">'+s+'</span> <a href="'+results[i]["url"]+'">[+]</a>';
     }
     p_node.appendChild(link_node);
