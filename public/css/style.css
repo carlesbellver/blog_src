@@ -55,6 +55,10 @@ summary {
   font-size: 0.66em;
 }
 
+.ical {
+  text-transform: uppercase;
+}
+
 .common-header {
   width: 100%;
   position: fixed;
@@ -104,7 +108,8 @@ h2 {
 
 h2.subtitle {
   /* font-size: 20px; */
-  font-size: 1em;
+  margin-top: -0.5em;
+  font-size: 1.25em;
   border-bottom: none;
 }
 
@@ -423,6 +428,10 @@ header nav div#quicklinks {
 
 /* Pages */
 
+header.post-header {
+  margin: 0 0 1em;
+}
+
 h1.blog-title {
   margin: 1em 0;
   padding: 0;
@@ -435,8 +444,12 @@ h1.blog-title {
   text-transform: uppercase;
 }
 
+header .note a {
+  color: var(--link-color);
+}
+
 h1.post-title {
-  margin: 0.5em 0 1em;
+  margin: 0 0 0.5em;
   font-family: var(--font-heading);
 }
 
@@ -480,6 +493,10 @@ h1.post-title {
 }
 
 .post-list .p-name {
+}
+
+.post-list .p-summary, .summary {
+  font-family: var(--font-details);
 }
 
 .post-list .p-summary a, .post-list a.summary, .summary {
@@ -585,6 +602,29 @@ main article .content:after {
   color: var(--link-state-color);
 }
 
+.post-directions {
+  background: var(--bg-color);
+  margin: 1em 0 2em;
+  max-width: 100%;
+  padding: 5px 0;
+  font-family: var(--font-details);
+  font-size: 0.7em;
+  text-transform: uppercase;
+  color: var(--post-info-color);
+}
+
+.post-directions .prev {
+  float: left;
+}
+
+.post-directions .next {
+  float: right;
+}
+
+.post-directions a {
+  color: var(--post-info-color);
+}
+
 article header h1 a {
   color: var(--font-color);
   border: none;
@@ -603,7 +643,7 @@ article header h1.external a {
 }
 
 .author {
-  margin: 0 0 10px;
+  margin: 0 0 1em;
   font-family: var(--font-details);
   font-size: 1em;
   text-transform: uppercase;
@@ -611,7 +651,7 @@ article header h1.external a {
 }
 
 .note {
-  margin: 0 0 10px;
+  margin: 0 0 1em;
   padding: 0.5em;
   font-family: var(--font-details);
   /* font-size: 14px; */
@@ -689,10 +729,12 @@ img.thumbnail {
 
 .post-info a {
   color: var(--post-info-color);
+  text-decoration: none;
 }
 
 .post-info a:hover {
   color: var(--link-state-color);
+  text-decoration: underline;
 }
 
 .post-taxonomies {
@@ -757,11 +799,31 @@ article .content img.drawing {
   height: 200px;
 }
 
-article figcaption {
-  color: grey;
+article .content figure {
+  width: 100%;
+  margin: 1em auto;
+  padding: 0;
+}
+
+article .content figure img {
+  width: 100%;
+  margin: 0 0 0.5em;
+  padding: 0;
+}
+
+article .content figure figcaption {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-details);
+  font-size: 0.8em;
   text-align: center;
-  font-size: 0.9em;
-  margin-bottom: 2em;
+  text-transform: uppercase;
+  color: var(--foot-color);
+}
+
+article .content figure figcaption .ai-disclaimer {
+  font-size: 0.875em;
 }
 
 article video,

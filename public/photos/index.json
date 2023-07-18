@@ -6,6 +6,21 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2023/07/14/roman/",
+        "title": "La novel·la de Wittgenstein",
+        "date_published": "2023-07-14T16:35:45+02:00",
+        "url": "/2023/07/14/roman/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-07-13-roman.jpg",
+        "content_text": " Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein.\n"
+    },
+    {
+        "id": "/2023/06/03/15301/",
+        "date_published": "2023-06-03T20:01:53+02:00",
+        "url": "/2023/06/03/15301/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-06-03-15301.jpg",
+        "content_text": "Sala Sant Miquel. Canvi de paradigma. Col·lecció Juan Redón.\n"
+    },
+    {
         "id": "/2023/04/23/angels-dimonis/",
         "date_published": "2023-04-23T23:30:50+02:00",
         "url": "/2023/04/23/angels-dimonis/",
@@ -826,7 +841,7 @@
         "date_published": "2018-07-13T18:24:28+00:00",
         "url": "/2018/07/13/192428.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/07/753035be075c46f7b6ba827eb30f1cbb.jpg",
-        "content_text": "Refugi antiaeri de plaça Tetuan de Castelló. La baixada és esborronadora.\n"
+        "content_text": "Refugi antiaeri de la plaça Tetuan de Castelló. La baixada és esborronadora.\n"
     },
     {
         "id": "/2018/07/10/160812.html",
