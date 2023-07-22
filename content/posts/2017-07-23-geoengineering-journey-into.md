@@ -12,5 +12,5 @@ x_source = ""
 
 Resssenya de *The Planet Remade*, d’Oliver Morton. La crisi climàtica no es pot resoldre, però podria ser gestionada.
 
-> La seva esperança es troba plasmada en la bellesa de l’enginyeria elegant i l’alegria en un món de vida pròspera: “una reimaginació de com es poden barrejar els humans i la natura, una nova consciència del que es pot fer pel planeta en lloc d’una deferència cega envers allò que s’afirma que són els seus límits”. Veu el futur com la creació d’“un nosaltres… que pot definir un camí millor”.
+> La seua esperança es troba plasmada en la bellesa de l’enginyeria elegant i l’alegria en un món de vida pròspera: “una reimaginació de com es poden barrejar els humans i la natura, una nova consciència del que es pot fer pel planeta en lloc d’una deferència cega envers allò que s’afirma que són els seus límits”. Veu el futur com la creació d’“un nosaltres… que pot definir un camí millor”.
 
