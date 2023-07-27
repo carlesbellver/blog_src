@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Segons l'agregació de prediccions: un 50 % de probabilitats que maquines autònomes puguen acomplir totes les tasques millor i més barat que els treballadors humans en quaranta-cinc anys.
+Segons l’agregació de prediccions: un 50 % de probabilitats que maquines autònomes puguen acomplir totes les tasques millor i més barat que els treballadors humans en quaranta-cinc anys.
 
