@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> El 1958, el sociòleg Michael Young va encunyar el terme “meritocràcia” en una novel·la distòpica que advertia sobre els horrors de classificar els humans per la seva intel·ligència.
+> El 1958, el sociòleg Michael Young va encunyar el terme “meritocràcia” en una novel·la distòpica que advertia sobre els horrors de classificar els humans per la seua intel·ligència.
