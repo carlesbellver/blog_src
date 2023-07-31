@@ -9,6 +9,5 @@ x_title = "A Spectre is Haunting Unicode"
 x_source = ""
 +++
 
-
-Els *caràcters fantasma* JIS X 0208: 幽霊文字. Ningú no sap què signifiquen, d'on van eixir o com s'haurien de pronunciar.
+Els *caràcters fantasma* JIS X 0208: 幽霊文字. Ningú no sap què signifiquen, d’on van eixir o com s’haurien de pronunciar.
 

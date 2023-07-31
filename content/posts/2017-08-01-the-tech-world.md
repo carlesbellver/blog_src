@@ -9,5 +9,4 @@ x_title = "The Tech World Is Convinced 2021 Is Going to Be the Best Year Ever"
 x_source = ""
 +++
 
-
 Menjareu *nuggets* de pollastre criats al laboratori en els vostres cotxes autònoms i donareu gràcies pel control de natalitat masculí.
