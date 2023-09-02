@@ -10,4 +10,6 @@ x_source = ""
 +++
 
 
-Impressions d'art modern generades en línia cada trenta segons. “Probablement tindreu només una oportunitat per a baixar-les”.
+Impressions d'art modern generades en línia cada trenta segons.
+
+> Probablement tindreu només una oportunitat per a baixar-les.
