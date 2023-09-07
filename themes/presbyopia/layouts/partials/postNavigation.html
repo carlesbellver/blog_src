@@ -3,7 +3,7 @@
         {{ if .Parent }}
           <li>
           {{ if eq .Parent.Name "Posts" }}
-            <a href="{{ .Site.BaseURL }}" title="Blog">{{ .Site.Title }}</a>
+            <a href="{{ .Site.BaseURL }}" title="Inici">Inici</a>
           {{ else if eq .Parent.Name "Esborranys privats" }}
             Esborrany privat
           {{ else if .Parent.Name }}
