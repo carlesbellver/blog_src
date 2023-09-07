@@ -1,3 +1,8 @@
-Bloc de notes públic de [Carles Bellver Torlà](/about/). Retalls, esborranys, experiments. Els meus [llibres](/llibres/), també.
+---
+---
+
+- email: <a rel="me" href="mailto:carles@carlesbellver.net">carles@carlesbellver.net</a>
+- fediverse: <a rel="me" href="https://mastodon.social/@carlesbellver">@carlesbellver@mastodon.social</a>
+- telegram: <a rel="me" href="https://telegram.me/carlesbellver">@carlesbellver</a>
 
 <a href="/feed.xml" title="RSS">{{< icon "rss" >}}</a> <a href="/feed.xml" title="RSS" class="small">RSS</a>
