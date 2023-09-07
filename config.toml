@@ -41,12 +41,6 @@ paginate = 12
 [menu]
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
     identifier = "onthisday"
     name = "Tal dia com avui"
     url = "/onthisday/"
