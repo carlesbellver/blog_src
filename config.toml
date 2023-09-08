@@ -24,7 +24,7 @@ paginate = 12
   readMore = true
   mainSections = ["posts"]
   indexSections = ["posts", "contes", "llibres", "taller"]
-  noPosts = 5
+  noPosts = 6
   webmentions = false
   fediverse = true
 

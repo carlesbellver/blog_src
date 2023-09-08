@@ -9,11 +9,9 @@
     </div>
 
   <article class="post-list">
-	{{ $list := (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+	{{ $list := where (where site.RegularPages "Type" "in" site.Params.indexSections) ".Title" "!=" "" }}
 	{{ range first site.Params.noPosts $list }}
-    
     {{ partial "postSummary.html" . }}
-    
 	{{ end }}
 	</article>
 	
