@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> Alibaba afirma que el seu programa pot produir 20.000 línies d'anuncis publicitaris per segon i que les empreses l'utilitzen gairebé un milió de vegades al dia.
+> Alibaba afirma que el seu programa pot produir 20.000 línies d’anuncis publicitaris per segon i que les empreses l’utilitzen gairebé un milió de vegades al dia.
