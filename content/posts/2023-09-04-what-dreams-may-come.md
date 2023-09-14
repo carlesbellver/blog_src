@@ -1,0 +1,12 @@
++++
+title = ""
+date = "2023-09-04T08:37:00"
+tags = ["ressenyes"]
+slug = "what-dreams-may-come"
+x_url = ""
+x_title = "What dreams may come"
+x_source = "Richard Matheson"
+syndication = []
++++
+
+📖 Richard Matheson, *[What dreams may come](https://en.wikipedia.org/wiki/What_Dreams_May_Come_(Matheson_novel))*. Menys una novel·la que una dramatització de doctrines teosòfiques i *new age* sobre la vida després de la vida, inspirada parcialment en la *Divina Comèdia*. Conté escenes reeixides i memorables, com la baixada als inferns, el purgatori versió suburbi nord-americà o la sala de descans per a nouvinguts.
