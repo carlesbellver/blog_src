@@ -6,7 +6,7 @@ slug = "pedro-valln-gramtica"
 tags = ["retalls"]
 x_title = "Gramática parda en la galaxia Podemos"
 x_url = "https://www.lavanguardia.com/politica/20180916/451833243953/manuel-monereo-matteo-salvini-unidos-podemos.html"
-x_src = "Pedro Vallín"
+x_source = "Pedro Vallín"
 +++
 
 > La historia del siglo XX ilustra lo determinante que es la organización jerárquica de los enemigos, lo trascendente que es el escalafón del mal.

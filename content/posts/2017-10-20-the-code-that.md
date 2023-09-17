@@ -4,9 +4,10 @@ title = ""
 date = "2017-10-20T14:58:00+00:00"
 slug = "the-code-that"
 tags = ["retalls"]
+x_url = "https://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/"
+x_title = "The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule"
+x_source = ""
 +++
-
-&#128206; [The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule](https://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/)
 
 > Heus ací una visualització de dades molt anys seixanta de la quantitat de codi que es va escriure. Vegeu Margaret Hamilton, directora d'enginyeria del programari del projecte, dreta al costat d'una pila de paper que conté el programari.
 

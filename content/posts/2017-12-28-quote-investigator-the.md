@@ -10,5 +10,5 @@ x_source = "Quote Investigator"
 +++
 
 
-> Les anècdotes no constitueixen ciència social. Han d'estar documentades per alguna noció de la freqüència de la seva ocurrència.  
+> Les anècdotes no constitueixen ciència social. Han d’estar documentades per alguna noció de la freqüència de la seva ocurrència.  
 > —Paul A. Samuelson

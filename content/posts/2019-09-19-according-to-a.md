@@ -9,4 +9,4 @@ x_title = "Squirrels Listen To Birds' Conversations As Signal of Safety"
 x_source = ""
 +++
 
-Els esquirols no sols escolten els crits d'alerta dels ocells, sinó que interpreten la seva piuladissa habitual com a senyal d'absència de perill.
+Els esquirols no sols escolten els crits d’alerta dels ocells, sinó que interpreten la seua piuladissa habitual com a senyal d'absència de perill.

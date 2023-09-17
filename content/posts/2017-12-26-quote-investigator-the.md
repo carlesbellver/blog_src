@@ -4,8 +4,9 @@ title = ""
 date = "2017-12-26T17:41:00+00:00"
 slug = "quote-investigator-the"
 tags = ["retalls"]
+x_url = "https://quoteinvestigator.com/2017/12/25/data/"
+x_title = "The Plural of Anecdote is Data"
+x_source = "Quote Investigator"
 +++
-
-&#128206; Quote Investigator: [The Plural of Anecdote is Data](https://quoteinvestigator.com/2017/12/25/data/)
 
 I al contrari: [The Plural of Anecdote Is Not Data](https://quoteinvestigator.com/2017/12/27/plural/).
