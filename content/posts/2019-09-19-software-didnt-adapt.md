@@ -9,4 +9,4 @@ x_title = "On “AI” replacing jobs and humans"
 x_source = ""
 +++
 
-> El programari no es va adaptar al món. Vam adaptar el món al programari […] Per tal que aquests sistemes funcionin, els processos s'han de simplificar, s'ha d'eliminar la complexitat. Això, sovint, té un cost.
+> El programari no es va adaptar al món. Vam adaptar el món al programari […] Per tal que aquests sistemes funcionen, els processos s’han de simplificar, s’ha d’eliminar la complexitat. Això, sovint, té un cost.
