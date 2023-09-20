@@ -3,6 +3,9 @@ var SUMMARY_LENGTGH = 80;
 
 const urlParams = new URLSearchParams(window.location.search);
 const q = urlParams.get('q');
+if (q) {
+  document.getElementById('input_search').value = q;
+}
 
 var archive_items = {};
 downloadArchive(q);
