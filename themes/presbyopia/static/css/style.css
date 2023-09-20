@@ -88,6 +88,14 @@ main {
   margin-bottom: 2em;
 }
 
+.homepage-content ul {
+  padding-inline-start: 1.2em;
+}
+
+.homepage-content ul li {
+  padding-left: 0;
+}
+
 /* Headers */
 
 h1, h2, h3 {
