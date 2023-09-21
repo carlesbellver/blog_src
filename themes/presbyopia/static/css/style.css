@@ -55,8 +55,10 @@ summary {
   font-size: 0.66em;
 }
 
-.ical {
+.content a.ical {
+  text-decoration: none;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 .common-header {
@@ -103,6 +105,7 @@ h1, h2, h3 {
   font-family: var(--font-heading);
   font-weight: 300;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   line-height: 1.33;
   text-align: left;
 }
@@ -373,6 +376,7 @@ header nav {
 header nav a {
   margin-left: 10px;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 header nav a:first-of-type {
@@ -448,12 +452,8 @@ h1.blog-title {
   margin: 1em 0;
   padding: 0;
   font-family: var(--font-heading);
-  /* font-size: 24px;
-  font-weight: normal; */
-  text-transform: none;
   line-height: 1.2em;
   text-align: left;
-  text-transform: uppercase;
 }
 
 header .note a {
@@ -481,6 +481,7 @@ h1.post-title {
   display: inline;
   font-family: var(--font-details);
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   text-decoration: none;
 }
 
@@ -585,6 +586,7 @@ main article .content:after {
   /* font-size: 14px; */
   font-size: 0.7em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--post-info-color);
 }
 
@@ -622,6 +624,7 @@ main article .content:after {
   font-family: var(--font-details);
   font-size: 0.7em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--post-info-color);
 }
 
@@ -659,6 +662,7 @@ article header h1.external a {
   font-family: var(--font-details);
   font-size: 1em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--font-color);
 }
 
@@ -669,6 +673,7 @@ article header h1.external a {
   /* font-size: 14px; */
   font-size: 0.7em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--post-info-color);
   background-color: var(--note-bg-color);
 }
@@ -689,6 +694,7 @@ article header h1.external a {
   font-size: 0.7em;
   color: var(--post-info-color);
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 img.icon {
@@ -724,6 +730,7 @@ img.thumbnail {
   font-size: 0.7em;
   color: var(--post-info-color);
   text-transform: uppercase;
+  
 }
 
 .post-info ul {
@@ -779,6 +786,7 @@ img.thumbnail {
 .reply-by-email {
   margin-left: 10px;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 article .content img, .index-content img {
@@ -831,6 +839,7 @@ article .content figure figcaption {
   font-size: 0.8em;
   text-align: center;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--foot-color);
 }
 
@@ -917,6 +926,7 @@ h2.comments-heading {
 
 .mastodon-comment .author .details .name {
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 .mastodon-comment .author .details .user {
@@ -976,6 +986,7 @@ h2.comments-heading {
 .pagination-item a {
   color: var(--pagination-link-color);
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 .pagination-item a:hover, 
@@ -1053,6 +1064,7 @@ a.theme-switcher {
   /* font-size: 13px; */
   font-size: 0.9em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   text-decoration: none;
 }
 
