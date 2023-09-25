@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> El sistema, creat per investigadors de la Universitat de Califòrnia a Santa Barbara, utilitza un únic encaminador wifi fora de la sala per a mesurar l'atenuació i les caigudes de senyal.
+> El sistema, creat per investigadors de la Universitat de Califòrnia a Santa Barbara, utilitza un únic encaminador wifi fora de la sala per a mesurar l’atenuació i les caigudes de senyal.
 

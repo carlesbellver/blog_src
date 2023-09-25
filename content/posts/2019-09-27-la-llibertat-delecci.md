@@ -6,6 +6,6 @@ slug = "la-llibertat-delecci"
 tags = ["fotos", "uji"]
 +++
 
-La llibertat d'elecció neoliberal adaptada a l'alimentació col·lectiva.
+La llibertat d’elecció neoliberal adaptada a l’alimentació col·lectiva.
 
 <img src="/uploads/2019/8bdb819f75.jpg" width="600" height="600" alt="" />
