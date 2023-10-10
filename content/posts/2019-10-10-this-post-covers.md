@@ -9,5 +9,4 @@ x_title = "Paper to Paperless: A Guide to Digitalizing Your Journals with a Scan
 x_source = ""
 +++
 
-
-Els aspectes pràctics de la digitalització d'un quadern de notes. Incloent-hi un script per a afegir una taula de continguts a un PDF.
+Els aspectes pràctics de la digitalització d’un quadern de notes. Incloent-hi un script per a afegir una taula de continguts a un PDF.
