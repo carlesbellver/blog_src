@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> Situant anuncis que només es mostren si l'objectiu es troba en un bloc determinat, l’atacant pot rastrejar els moviments de l'objectiu en l’espai i el temps. Les xarxes d’anuncis també permeten als atacants enumerar les aplicacions instal·lades en el dispositiu de l'objectiu i recuperar dades demogràfiques sensibles.
+> Situant anuncis que només es mostren si l’objectiu es troba en un bloc determinat, l’atacant pot rastrejar els moviments de l’objectiu en l’espai i el temps. Les xarxes d’anuncis també permeten als atacants enumerar les aplicacions instal·lades en el dispositiu de l’objectiu i recuperar dades demogràfiques sensibles.

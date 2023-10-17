@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-El Nou d'Octubre com a spoiler del futur turc que ens espera si no reaccionem. La transició valenciana va ser de les més violentas d'Espanya. Però potser no tot són motius per a doldre'ns-en. No estem sols i en som més.
+El Nou d’Octubre com a spoiler del futur turc que ens espera si no reaccionem. La transició valenciana va ser de les més violentas d’Espanya. Però potser no tot són motius per a doldre’ns-en. No estem sols i en som més.

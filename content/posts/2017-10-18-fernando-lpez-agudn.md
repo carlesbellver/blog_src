@@ -10,5 +10,5 @@ x_source = "Fernando López Agudín"
 +++
 
 
-Toda constitució és reflex jurídic d'una correlació de forces socials i territorials.
+Toda constitució és reflex jurídic d’una correlació de forces socials i territorials.
 

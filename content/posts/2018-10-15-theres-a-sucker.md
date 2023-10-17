@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> En conclusió, ambdues frases "cada minut naix un ximplet" i "cada minut naix un idiota", tenien inicialment atribucions anònimes. Amb el pas del temps van ser reassignades a persones destacades de cada període. Tot i això, només n'ha perdurat la fama de P. T. Barnum.
+> En conclusió, ambdues frases "cada minut naix un ximplet" i "cada minut naix un idiota", tenien inicialment atribucions anònimes. Amb el pas del temps van ser reassignades a persones destacades de cada període. Tot i això, només n’ha perdurat la fama de P. T. Barnum.

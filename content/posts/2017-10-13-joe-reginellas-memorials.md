@@ -9,4 +9,4 @@ x_title = "Joe Reginella’s Memorials to Disasters That Never Happened"
 x_source = ""
 +++
 
-L’estampida d'elefants del pont de Brooklyn i el desastre del polp gegant del ferri de Staten Island, entre d'altres.
+L’estampida d’elefants del pont de Brooklyn i el desastre del polp gegant del ferri de Staten Island, entre d’altres.

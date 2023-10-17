@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Art de carrer conceptual. Senyals d'avís i altres intervencions humorístiques i inesperades. Public Projects — Michael Pederson.
+Art de carrer conceptual. Senyals d’avís i altres intervencions humorístiques i inesperades. Public Projects — Michael Pederson.
