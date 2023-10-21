@@ -5,4 +5,4 @@ tags = []
 slug = "frankfurt"
 +++
 
-En una altra vida, o en somni, jo també [vaig anar a la Fira de Frankfurt](https://carlesbellver.net/contes/unicorns/unicorns15/).
+En una altra vida, o en somni, jo també [vaig anar a la Fira de Frankfurt](/contes/unicorns/unicorns15/).

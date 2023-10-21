@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> *Maere, mara, mahr, mahrt, mårt* — amb qualsevol nom, era i continua sent un visitant terrorífic […] una cosa que se sabia que es colava a les cambres de la gent durant la nit, es deixava caure damunt del cos i causava malsons […] la víctima sentia una pesantor […] i era incapaç de moure's.
+> *Maere, mara, mahr, mahrt, mårt* — amb qualsevol nom, era i continua sent un visitant terrorífic […] una cosa que se sabia que es colava a les cambres de la gent durant la nit, es deixava caure damunt del cos i causava malsons […] la víctima sentia una pesantor […] i era incapaç de moure’s.

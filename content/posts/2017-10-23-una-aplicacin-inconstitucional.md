@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Joaquín Urías, professor de Dret Constitucional i ex-lletrat del Tribunal Constitucional. ¿Carta blanca per usurpar les competències de qualsevol comunitat autònoma amb què es discrepe?
+Carta blanca per usurpar les competències de qualsevol comunitat autònoma amb què es discrepe? Joaquín Urías, professor de Dret Constitucional i ex-lletrat del Tribunal Constitucional.
