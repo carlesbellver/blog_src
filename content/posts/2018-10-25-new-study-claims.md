@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> …la informació compartida per aquestes aplicacions de tercers pot incloure l'edat, el sexe, la ubicació i la llista de les altres aplicacions que té instal·lades l'usuari… Google i Facebook en són els majors beneficiaris.
+> …la informació compartida per aquestes aplicacions de tercers pot incloure l’edat, el sexe, la ubicació i la llista de les altres aplicacions que té instal·lades l’usuari… Google i Facebook en són els majors beneficiaris.

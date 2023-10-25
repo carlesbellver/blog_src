@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> El 2011, un autor anònim va encunyar el terme “terrorisme estocàstic” per referir-se a “l’ús de la comunicació de masses amb la intenció d'incitar actors aleatoris a dur a terme actes violents o terroristes que són estadísticament previsibles, però individualment imprevisibles”, o, en altres paraules, “terror de llop solitari per control remot".
+> El 2011, un autor anònim va encunyar el terme “terrorisme estocàstic” per referir-se a “l’ús de la comunicació de masses amb la intenció d’incitar actors aleatoris a dur a terme actes violents o terroristes que són estadísticament previsibles, però individualment imprevisibles”, o, en altres paraules, “terror de llop solitari per control remot".

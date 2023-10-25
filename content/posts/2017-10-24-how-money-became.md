@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> Fins a la dècada de 1850, de fet, la forma més popular i dominant de mesurament social a l’Amèrica del segle XIX (i a Europa) era una col·lecció d’indicadors socials coneguts llavors com a “estadístiques morals”, que quantificaven fenòmens com la prostitució, l’empresonament, l'alfabetització, la delinqüència, l'educació, la demència, la pobresa, l'esperança de vida i les malalties.
+> Fins a la dècada de 1850, de fet, la forma més popular i dominant de mesurament social a l’Amèrica del segle XIX (i a Europa) era una col·lecció d’indicadors socials coneguts llavors com a “estadístiques morals”, que quantificaven fenòmens com la prostitució, l’empresonament, l’alfabetització, la delinqüència, l’educació, la demència, la pobresa, l’esperança de vida i les malalties.

@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> L’any passat, un novel·lista se'n va anar de viatge pels Estats Units. Aquest viatge era un intent d’emular Jack Kerouac: eixir a la carretera i trobar alguna cosa essencial per escriure'n l'experiència. Hi ha, però, una diferència clau… Aquest escriptor era només un micròfon, un GPS i una càmera connectats a un ordinador portàtil, i un munt d'àlgebra lineal.
+> L’any passat, un novel·lista se’n va anar de viatge pels Estats Units. Aquest viatge era un intent d’emular Jack Kerouac: eixir a la carretera i trobar alguna cosa essencial per escriure’n l’experiència. Hi ha, però, una diferència clau… Aquest escriptor era només un micròfon, un GPS i una càmera connectats a un ordinador portàtil, i un munt d’àlgebra lineal.

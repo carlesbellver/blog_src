@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> …dels deu tipus de plàstics que garbellaven els investigadors, en van detectar nou. De mitjana, van trobar vint partícules de microplàstics per cent grams de caca… “A tot arreu on busquem microplàstics, n'hi trobem”.
+> …dels deu tipus de plàstics que garbellaven els investigadors, en van detectar nou. De mitjana, van trobar vint partícules de microplàstics per cent grams de caca… “A tot arreu on busquem microplàstics, n’hi trobem”.

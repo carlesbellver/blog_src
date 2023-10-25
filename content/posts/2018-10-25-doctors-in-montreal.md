@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> “Al segle XXI, la cultura serà el que l'activitat física era per a la salut al segle XX”.
+> “Al segle XXI, la cultura serà el que l’activitat física era per a la salut al segle XX”.

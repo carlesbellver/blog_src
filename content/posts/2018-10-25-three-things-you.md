@@ -10,6 +10,6 @@ x_source = ""
 +++
 
 
-  - L'autor/a d'una obra et pot prohibir atribuir-li l'obra.
-  - Es permet la utilització *privada* de materials adaptats d'obres amb llicències SA i ND.
+  - L'autor/a d’una obra et pot prohibir atribuir-li l’obra.
+  - Es permet la utilització *privada* de materials adaptats d’obres amb llicències SA i ND.
   - Les llicències ND permeten crear i utilitzar obres adaptades, però no compartir-les.

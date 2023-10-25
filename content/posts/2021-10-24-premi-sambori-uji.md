@@ -8,4 +8,4 @@ slug = "premi-sambori-uji"
 
 Premi Sambori #UJI
 
-<img alt="Premi Sambori 2004. Menció d'honor Universitat Jaume I." src="/uploads/2021/2021-10-24-premi-sambori-uji.jpg">
+<img alt="Premi Sambori 2004. Menció d’honor Universitat Jaume I." src="/uploads/2021/2021-10-24-premi-sambori-uji.jpg">
