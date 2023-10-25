@@ -9,4 +9,4 @@ x_title = "Why Richard Stallman doesn’t matter"
 x_source = "Stefano Maffulli"
 +++
 
-> La FSF hauria d'haver nodrit i conreat nous líders des de fa temps, líders que miressin al futur, entenguessin la informàtica en núvol i mòbil i les seves amenaces per a una societat lliure.
+> La FSF hauria d’haver nodrit i conreat nous líders des de fa temps, líders que miraren al futur, entengueren la informàtica en núvol i mòbil i les seues amenaces per a una societat lliure.

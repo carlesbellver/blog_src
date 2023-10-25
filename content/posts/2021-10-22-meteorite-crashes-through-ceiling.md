@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-> Ruth Hamilton dormia profundament a casa seva a la Colúmbia Britànica quan la van despertar els lladrucs del seu gos, seguits d'una “explosió”. Va saltar, va encendre el llum i va veure un forat al sostre. El rellotge marcava les 23:35.
+> Ruth Hamilton dormia profundament a sa casa a la Colúmbia Britànica quan la van despertar els lladrucs del seu gos, seguits d’una “explosió”. Va saltar, va encendre el llum i va veure un forat al sostre. El rellotge marcava les 23:35.
 > 
 > Primer va pensar que havia caigut un arbre damunt de la casa. Però tots els arbres hi eren. Va trucar al 911 i, mentre parlava amb un operador, va veure un gran objecte gris carbó entre els seus dos coixins florals.
