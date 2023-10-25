@@ -5,7 +5,7 @@ date = "2013-11-24T23:00:00+00:00"
 slug = "lovni-al-damunt"
 +++
 
-Una altra de les coses que Beauvoir [diu que va veure](https://carlesbellver.net/contes/lavistacansada.html):
+Una altra de les coses que Beauvoir [diu que va veure](/contes/lavistacansada):
 
 > Un estel de foc erràtic, un misteri celeste —un *objecte volador no identificat*— per damunt del Desert de les Palmes.
 
