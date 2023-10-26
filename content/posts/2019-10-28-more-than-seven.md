@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-L'home que s'emborratxava sense beure perquè el seu cos fabricava cervesa. Després de set anys li van diagnosticar una malaltia rara anomenada “[auto-brewery syndrome](http://dx.doi.org/10.1136/bmjgast-2019-000325)” i li van prescriure un tractament amb antifongs. Però hi va recaure breument quan va prendre dues substàncies prohibides: pizza i soda.
+L’home que s’emborratxava sense beure perquè el seu cos fabricava cervesa. Després de set anys li van diagnosticar una malaltia rara anomenada “[auto-brewery syndrome](http://dx.doi.org/10.1136/bmjgast-2019-000325)” i li van prescriure un tractament amb antifongs. Però hi va recaure breument quan va prendre dues substàncies prohibides: pizza i soda.

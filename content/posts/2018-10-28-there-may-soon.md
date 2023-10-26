@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> A mesura que els governs empenyen cap a una Internet escindida, les corporacions nord-americanes fan poc per contrarestar la balcanització i, en canvi, fan tot el que calgui per expandir les seves operacions. Si el futur d’internet és una guerra freda tripartida, Silicon Valley vol guanyar diners en aquests tres mons.
+> A mesura que els governs empenyen cap a una Internet escindida, les corporacions nord-americanes fan poc per contrarestar la balcanització i, en canvi, fan tot el que calga per expandir les seues operacions. Si el futur d’internet és una guerra freda tripartida, Silicon Valley vol guanyar diners en aquests tres mons.
 
