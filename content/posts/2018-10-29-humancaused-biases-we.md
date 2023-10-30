@@ -11,7 +11,7 @@ x_source = ""
 
 
   1. Biaix de la mostra: les dades utilitzades per a entrenar el model no són prou representatives.
-  2. Biaix de prejudicis: les dades estan influenciades per estereotips culturals o d'altres tipus.
+  2. Biaix de prejudicis: les dades estan influenciades per estereotips culturals o d’altres tipus.
   3. Biaix de mesura: hi ha un problema amb el dispositiu utilitzat per a observar o mesurar.
   4. Biaix algorítmic: els models amb una alta variació poden adaptar-se fàcilment a la complexitat, però són sensibles al soroll; els models amb un biaix elevat són menys sensibles a les variacions i propensos a no detectar la complexitat.
 

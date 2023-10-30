@@ -9,4 +9,4 @@ x_source = "Nicholas Carr"
 +++
 
 
-> Desenredar el discurs personal del discurs públic és clarificador. Revela el doble paper que juguen les empreses de xarxes socials. Transmeten missatges personals en nom d'individus i emeten una varietat de continguts al públic en general. Els dos negocis tenen característiques molt diferents, com hem vist, i exigeixen diferents tipus de supervisió.
+> Desenredar el discurs personal del discurs públic és clarificador. Revela el doble paper que juguen les empreses de xarxes socials. Transmeten missatges personals en nom d’individus i emeten una varietat de continguts al públic en general. Els dos negocis tenen característiques molt diferents, com hem vist, i exigeixen diferents tipus de supervisió.

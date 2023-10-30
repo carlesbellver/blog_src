@@ -15,7 +15,7 @@ x_source = "Carme Junyent"
 
 I jo em dic que la societat no és unitària, no pot ser-ho mai. Que parts de la societat ja van canviant, ja anem canviant. I potser és per això que, amb tota la nostra ignorància i ingenuïtat d’afeccionats a parlar, també volem fer canviar parts del llenguatge. Potser és que aquest canvi de la llengua ja hi és, ja es va fent present, i agrada a alguna gent i a una altra no.
 
-Perquè, ens ho ha dir Carme Junyent, o qualsevol altra filòloga —o filòleg—, en quin moment haurà canviat prou la societat perquè sigui justificat canviar el llenguatge? I, en arribar aqueix moment just, la transformació de la gramàtica, “si és que n’hi d’haver cap”, s’esdevindrà metafísicament, o l’haurem feta les persones?
+Perquè, ens ho ha dir Carme Junyent, o qualsevol altra filòloga —o filòleg—, en quin moment haurà canviat prou la societat perquè siga justificat canviar el llenguatge? I, en arribar aqueix moment just, la transformació de la gramàtica, “si és que n’hi d’haver cap”, s’esdevindrà metafísicament, o l’haurem feta les persones?
 
-Són dubtes que em plantejo en seguir tota aquesta discussió, tan vella com [Stalin](/2009/04/14/estalinistes.html) i molt més, [molt més](/2016/09/24/sexe-i-gnere.html).
+Són dubtes que em plantege en seguir tota aquesta discussió, tan vella com [Stalin](/2009/04/14/estalinistes.html) i molt més, [molt més](/2016/09/24/sexe-i-gnere.html).
 

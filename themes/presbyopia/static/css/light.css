@@ -10,9 +10,9 @@
     --menu-color: #666;
     --menu-bg-color: #fff;
 
-    --link-color:#0066cc;
-    --link-state-color:#0066cc;
-    --link-state-border-color: rgba(0, 0, 153, 1);
+    --link-color:#990000;
+    --link-state-color:#990000;
+    --link-state-border-color: rgba(153, 0, 0, 1);
 
     --thead-bg-color: lightgrey;
     --table-border-color: lightgrey;
