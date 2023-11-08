@@ -6,7 +6,7 @@ slug = "n-est-pas-un-livre"
 photos = ["/uploads/2021/2021-11-04-unicorns.png"]
 +++
 
-Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d'aquesta imatge.
+Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d’aquesta imatge.
 
 <img alt="Una imatge en format PNG que conté un fitxer de text" src="/uploads/2021/2021-11-04-unicorns.png">
 

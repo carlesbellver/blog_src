@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Dennis Hof, propietari d'un bordell, va morir el mes passat després de celebrar el seu setanta-dosè aniversari. La causa de la mort encara s'està investigant. Ha estat elegit per a l'assemblea municipal amb més de 7,000 vots.
+Dennis Hof, propietari d’un bordell, va morir el mes passat després de celebrar el seu setanta-dosè aniversari. La causa de la mort encara s'està investigant. Ha estat elegit per a l’assemblea municipal amb més de 7.000 vots.

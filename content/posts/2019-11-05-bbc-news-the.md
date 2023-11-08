@@ -10,6 +10,6 @@ x_source = "BBC News"
 +++
 
 
-A Kenya hi ha joves que es guanyen la vida (pareix que bastant bé) redactant treballs per a estudiants universitaris britànics i dels EUA. Part d'un mercat global d'uns mil milions de dòlars anuals.
+A Kenya hi ha joves que es guanyen la vida (pareix que bastant bé) redactant treballs per a estudiantat universitaris britànics i dels EUA. Part d’un mercat global d'uns mil milions de dòlars anuals.
 
 > …així que és una mena de relació simbiòtica. Jo sé fer la feina, tu ets malfeiner, tu tens diners, jo faig els teus deures i guanye diners.

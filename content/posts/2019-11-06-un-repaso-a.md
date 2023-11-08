@@ -9,4 +9,4 @@ x_title = "Lo que nadie respondió a Santiago Abascal en el debate"
 x_source = ""
 +++
 
-El feixisme s'assenta sempre sobre una sòlida base de mentides i més mentides.
+El feixisme s’assenta sempre sobre una sòlida base de mentides i més mentides.

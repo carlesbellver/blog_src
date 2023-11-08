@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Twitter no esborra els comptes falsos, perquè li convé presentar-se als inversors amb un nombre d'usuaris molt més alt.
+Twitter no esborra els comptes falsos, perquè li convé presentar-se als inversors amb un nombre d’usuaris molt més alt.

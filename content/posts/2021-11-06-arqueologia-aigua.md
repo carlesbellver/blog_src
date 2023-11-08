@@ -6,6 +6,6 @@ photos = ["/uploads/2021/2021-11-06-arqueologia-aigua.jpg"]
 slug = "arqueologia-aigua"
 +++
 
-Arqueologia de l'aigua.
+Arqueologia de l’aigua.
 
 <img alt="" src="/uploads/2021/2021-11-06-arqueologia-aigua.jpg">

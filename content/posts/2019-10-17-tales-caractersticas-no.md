@@ -1,6 +1,5 @@
 +++
 url = "/2019/10/17/tales-caractersticas-no.html"
-title = "Els catorze senyals del feixisme"
 date = "2019-10-17T19:20:39+00:00"
 slug = "tales-caractersticas-no"
 tags = ["retalls"]
