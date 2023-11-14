@@ -9,4 +9,4 @@ x_title = "8 Unbelievable Things You Never Knew About Tracking"
 x_source = ""
 +++
 
-Les empreses d'Internet trafiquen amb les nostres dades. Però difícilment podem escapar-ne, perquè a hores d'ara formen part del teixit social, cívic i laboral, així que no tenim elecció real.
+Les empreses d’Internet trafiquen amb les nostres dades. Però difícilment podem escapar-ne, perquè a hores d’ara formen part del teixit social, cívic i laboral, així que no tenim elecció real.

@@ -8,4 +8,4 @@ slug = "confinament"
 
 Confinament estricte.
 
-<img alt="Portes d'una botiga i d'una casa a mig paredar." src="/uploads/2021/2021-11-13-confinament.jpg">
+<img alt="Portes d’una botiga i d’una casa a mig paredar." src="/uploads/2021/2021-11-13-confinament.jpg">

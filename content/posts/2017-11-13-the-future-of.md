@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> No sols pareix que Leemon hagi resolt el problema de l’escalabilitat amb un rendiment, seguretat i equitat significativament millorats, sinó que ho ha fet eliminant la necessitat del tipus de càlcul massiu i d'un consum d’energia insostenible característics de líders de la indústria com Bitcoin i Ethereum.
+> No sols pareix que Leemon hagi resolt el problema de l’escalabilitat amb un rendiment, seguretat i equitat significativament millorats, sinó que ho ha fet eliminant la necessitat del tipus de càlcul massiu i d’un consum d’energia insostenible característics de líders de la indústria com Bitcoin i Ethereum.

@@ -10,4 +10,4 @@ x_source = "Pedro Vallín"
 +++
 
 
-V, sota la màscara de Fawkes, trama una revolució quirúrgica per dur a terme una utopia democratista i popular. Fleck, en canvi, és un boig que dispara indiscriminadament, sense plantejar cap alternativa al sistema i sense més horitzó que la seva amargura individual.
+V, sota la màscara de Fawkes, trama una revolució quirúrgica per dur a terme una utopia democratista i popular. Fleck, en canvi, és un boig que dispara indiscriminadament, sense plantejar cap alternativa al sistema i sense més horitzó que la seua amargura individual.
