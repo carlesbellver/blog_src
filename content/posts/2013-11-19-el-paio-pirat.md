@@ -9,7 +9,7 @@ x_title = "“Facebook és un fitxer policíac obert!”"
 x_source = "Enric Casasses"
 +++
 
-> Fas servir el Word per exemple i acabes entrant entrant en l’esfera mental d’un paio que deu estar pirat i tan ficat en els programes que no sap què volem els de fora.
+> Fas servir el Word per exemple i acabes entrant en l’esfera mental d’un paio que deu estar pirat i tan ficat en els programes que no sap què volem els de fora.
 
 —Enric Casasses: [“Facebook és un fitxer policíac obert!”](http://www.vilaweb.cat/noticia/4156951/20131119/enric-casasses-facebook-fitxer-policiac-obert.html)
 
