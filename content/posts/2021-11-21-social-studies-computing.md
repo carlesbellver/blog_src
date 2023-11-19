@@ -12,4 +12,4 @@ slug = "social-studies-computing"
 5. “Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans”.
 6. “De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”.
 
-Selecció de comunicacions presentades en el Segon Congrés d'Estudis Socials de la Computació (2021). Títols traduïts per mi.
+Selecció de comunicacions presentades al Segon Congrés d’Estudis Socials de la Computació (2021). Títols traduïts per mi.

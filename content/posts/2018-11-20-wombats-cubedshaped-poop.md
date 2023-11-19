@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> El laboratori de Hu se centra en la resolució de misteris excretors del regne animal; fa tres anys, Hu va rebre un premi Ig Nobel per la seva recerca sobre la velocitat de la micció dels mamífers.
+> El laboratori de Hu se centra en la resolució de misteris excretors del regne animal; fa tres anys, Hu va rebre un premi Ig Nobel per la seua recerca sobre la velocitat de la micció dels mamífers.
