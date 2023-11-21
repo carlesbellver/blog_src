@@ -10,7 +10,7 @@ x_source = ""
 +++
 
 
-Ron English va comprar *Slave Labor*. Aerosol sobre formigó, emmarcat en fusta corrent: una imatge d’un nen inclinat sobre una màquina de cosir, manufacturant banderes britàniques. El seu pla és cobrir-lo amb una capa blanca a fi de protestar pel robatori i la mercantilització de l'art de carrer. Però pensa revendre'l.
+Ron English va comprar *Slave Labor*. Aerosol sobre formigó, emmarcat en fusta corrent: una imatge d’un nen inclinat sobre una màquina de cosir, manufacturant banderes britàniques. El seu pla és cobrir-lo amb una capa blanca a fi de protestar pel robatori i la mercantilització de l’art de carrer. Però pensa revendre’l.
 
 > Per descomptat, vendré la pintura emblanquinada per un milió de dòlars. Estic boig, però no sóc estúpid.
 

@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> Per què els bots són tan eficaços per difondre informació falsa? El coautor de l'estudi, Filippo Menczer, atribueix aquest èxit a l'anomenat "biaix social": la tendència humana a parar més atenció a les coses que semblen populars.
+> Per què els bots són tan eficaços per a difondre informació falsa? El coautor de l’estudi, Filippo Menczer, atribueix aquest èxit a l’anomenat "biaix social": la tendència humana a parar més atenció a les coses que pareixen populars.
