@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> Denominat alternativament prototipatge de ciència-ficció, predicció del futur o construcció de mons,  l'objectiu d'aquestes empreses generalment és el mateix: ajudar els clients a crear ficcions anticipatives per generar idees i propietat intel·lectual a fi de progressar o treure beneficis.
+> Denominat alternativament prototipatge de ciència-ficció, predicció del futur o construcció de mons,  l’objectiu d’aquestes empreses generalment és el mateix: ajudar els clients a crear ficcions anticipatives per generar idees i propietat intel·lectual a fi de progressar o traure beneficis.

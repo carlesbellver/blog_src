@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> Vaig voler entendre les cadenes de blocs per culpa del bombo incessant. Alguns governs creuen que Bitcoin és una amenaça existencial per a l'ordre mundial i alguns tipus de capital risc juren que les cadenes de blocs donaran lloc a una època daurada de la transparència. Però tu em dius que és bàsicament una base de dades sofisticada.
+> Vaig voler entendre les cadenes de blocs per culpa del bombo incessant. Alguns governs creuen que Bitcoin és una amenaça existencial per a l’ordre mundial i alguns tipus de capital risc juren que les cadenes de blocs donaran lloc a una època daurada de la transparència. Però tu em dius que és bàsicament una base de dades sofisticada.
 

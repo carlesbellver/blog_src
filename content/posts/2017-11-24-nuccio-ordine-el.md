@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-La universitat en perill i el naufragi d'Europa.
+La universitat en perill i el naufragi d’Europa.
 

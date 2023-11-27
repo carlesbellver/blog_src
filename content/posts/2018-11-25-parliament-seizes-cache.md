@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> En una altra actuació excepcional, el parlament va enviar un sergent d'armes al seu hotel amb un avís final i un termini de dues hores per complir l'ordre. Quan el fundador de la firma de programari [Six4Three] no ho va fer, se suposa que va ser escortat al parlament. El van informar que s'arriscava a multes i fins i tot a presó si no lliurava els documents.
+> En una altra actuació excepcional, el parlament va enviar un sergent d’armes al seu hotel amb un avís final i un termini de dues hores per complir l’ordre. Quan el fundador de la firma de programari \[Six4Three] no ho va fer, se suposa que va ser escortat al parlament. El van informar que s’arriscava a multes i fins i tot a presó si no lliurava els documents.
 

@@ -14,6 +14,6 @@ x_source = ""
   2. Els pares són *immigrants digitals* i no en saben res.
   3. El temps que es passa amb aparells és temps perdut, en comparació amb converses *reals* o jugar al carrer.
   4. El paper dels pares és controlar, restringir i prohibir, perquè els riscos digitals superen enormement les oportunitats.
-  5. Els nens no es preocupen per la seva privadesa en línia.
+  5. Els xiquets no es preocupen per la seua privadesa en línia.
   6. L’alfabetització mediàtica és *la* resposta als problemes de l’era digital.
 

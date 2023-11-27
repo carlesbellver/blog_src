@@ -11,4 +11,4 @@ syndication = ["https://mastodon.social/@carlesbellver/110312238767419565"]
 
 {{< ical "/uploads/2023/2023-05-07-invite.ics" >}}
 
-El pròxim diumenge 7 de maig, a les 18:30, presentarem en la Fira del Llibre de Castelló l’obra col·lectiva *La tempesta contra les roques. Poesia i memòria d’Albert Garcia Pascual*. A continuació, les companyes i companys d’El Pont recitaran alguns dels poemes del llibre.
+El pròxim diumenge 7 de maig, a les 18:30, presentarem en la Fira del Llibre de Castelló l’obra col·lectiva [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/05/09/tempesta-contra-les-roques/) (Poesia i memòria d’Albert Garcia Pascual). A continuació, les companyes i companys d’El Pont recitaran alguns dels poemes del llibre.

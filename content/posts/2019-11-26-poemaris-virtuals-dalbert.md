@@ -7,7 +7,7 @@ slug = "poemaris-virtuals-dalbert"
 image = "/uploads/2022/2022-05-08-poemaris-virtuals-agp.jpg"
 +++
 
-A partir de juliol de 2015, [Albert Garcia Pascual](https://www.elpontdeleslletres.cat/2011/03/02/albert-garcia-i-pascual/), anteriorment novel·lista i contista, va publicar en els seus comptes de xarxes socials ([Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator)) centenars o milers de poemes, agrupats mitjançant els títols corresponents en una sèrie de *poemaris virtuals* que s’enumeren a continuació.
+A partir de juliol de 2015, [Albert Garcia Pascual](https://www.elpontdeleslletres.cat/2011/03/02/albert-garcia-i-pascual/), anteriorment novel·lista i contista, va anar publicant en els seus comptes de xarxes socials ([Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator)) centenars o milers de poemes, agrupats mitjançant els títols corresponents en una sèrie de *poemaris virtuals* que s’enumeren a continuació.
 
 1. *Línies roges* (a partir de juliol de 2015)
 2. *Fora límits*
@@ -36,3 +36,5 @@ A partir de juliol de 2015, [Albert Garcia Pascual](https://www.elpontdeleslletr
 25. *Absolut* (juliol de 2022)
 26. *Trossets* (agost de 2022)
 27. *Recuits* (agost de 2022)
+
+**Postdata 7 de maig de 2023**. Des d’[El Pont](https://www.elpontdeleslletres.cat/), hem recollit en format electrònic tots els poemes publicats per Albert en les xarxes a partir de setembre de 2022: [*Darrers poemes*](https://www.elpontdeleslletres.cat/2023/04/23/darrers-poemes-albert-garcia-pascual/). Així mateix, hem editat una obra col·lectiva dedicada a la seua memòria: [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/05/09/tempesta-contra-les-roques/).

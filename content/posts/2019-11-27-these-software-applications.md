@@ -10,4 +10,4 @@ x_source = "Ben Werdmüller"
 +++
 
 
-Dividir les aplicacions: conservar la gestió de dades a casa —per seguretat— i pujar l'API al núvol —per agilitar-ne la gestió i les actualitzacions.
+Dividir les aplicacions: conservar la gestió de dades a casa —per seguretat— i pujar l’API al núvol —per agilitar-ne la gestió i les actualitzacions.

@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> Nihilisme de la privacitat: malgrat conèixer aquests riscos, molta gent diu que s'ha resignat a la idea que ens espiaran i que no hi ha res que hi puguem fer.
+> Nihilisme de la privacitat: malgrat conèixer aquests riscos, molta gent diu que s’ha resignat a la idea que ens espiaran i que no hi ha res que hi puguem fer.
