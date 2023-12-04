@@ -12,7 +12,7 @@ x_source = ""
 
 >  1. Què és un bitcoin?
 >  2. Com ha esdevingut tan valuós?
->  3. Per què hauria d'usar Bitcoin?
+>  3. Per què hauria d’usar Bitcoin?
 >  4. Com pot valdre cent cinquanta mil milions de dòlars?
 >  5. Com en puc aconseguir?
 >  6. Com els bescanvie?

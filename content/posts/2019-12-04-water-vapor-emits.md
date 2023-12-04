@@ -9,4 +9,4 @@ x_title = "Why Your 5G Phone Connection Could Mean Lousy Weather Forecasts"
 x_source = ""
 +++
 
-Els satèl·lits meteorològics capten el senyal —feble— del vapor d'aigua a 23.8 GHz, dins de l'espectre del 5G. L'extensió d'aquesta tecnologia podria dificultar els mesuraments —no se sabria si es detecten núvols o connexions de dades— i faria menys fiables les prediccions.
+Els satèl·lits meteorològics capten el senyal —feble— del vapor d’aigua a 23.8 GHz, dins de l’espectre del 5G. L’extensió d’aquesta tecnologia podria dificultar els mesuraments —no se sabria si es detecten núvols o connexions de dades— i faria menys fiables les prediccions.

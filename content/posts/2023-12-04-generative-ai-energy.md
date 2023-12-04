@@ -1,12 +1,12 @@
 +++
 title = ""
-date = "2023-12-04T19:33:29+01:00"
+date = "2023-12-04T11:33:29+01:00"
 tags = ["retalls"]
 slug = "generative-ai-energy"
 x_url = "https://ramaonhealthcare.com/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/"
 x_title = "Making an image with generative AI uses as much energy as charging your phone"
 x_source = ""
-syndication = []
+syndication = ["https://mastodon.social/@carlesbellver/111521492548382212"]
 +++
 
 📎 [Making an image with generative AI uses as much energy as charging your phone](https://ramaonhealthcare.com/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/)
