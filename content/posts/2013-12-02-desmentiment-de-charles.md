@@ -7,7 +7,7 @@ slug = "desmentiment-de-charles"
 
 > Jo no sóc Peter Pan, perdut en els Kensington Gardens de Castelló [1]. Ni el doble metafísic -la projecció mental- d’un no ningú [2]. No he viscut un any dins d’una paròdia sinistra d’un tebeo d’Hergé [3], ni he vist mai fantasmes [4]. No he encomanat a ningú la publicació d’unes falses memòries [5]. No m’he sotmès a cap mena de pràctiques parapsicològiques [6]. Sóc una persona real i normal [7]. Tan real i tan normal com ho pugui ser qualsevol, ateses les circumstàncies de cadascú [8].
 
-Així comença [La nit mil dos](/llibres/nitmildos/) d’en Charles Beauvoir.
+Així comença [La nit mil dos](/llibres/lanitmildos/) d’en Charles Beauvoir.
 
 [1] Es refereix, és clar, al Parc de Ribalta.
 
