@@ -1,5 +1,5 @@
 +++
-title = "100% Charles Beauvoir"
+title = "100 % Charles Beauvoir"
 +++
 
 Charles Beauvoir és un personatge proteïforme que apareix recurrentment en els meus llibres. L’any 2009 ja vaig utilitzar Twitter per publicar un dels seus relats, narrat en primera persona i en temps real al llarg d’un llarg dia: [24 hores Ch. B.](/taller/24horesChB/). Aquesta vegada, en canvi, l’experiència ha consistit a fer-li escriure històries autocontingudes, empaquetades cadascuna en els cent quaranta -o menys- caràcters d’un tuit. Van ser en total cent tuits, cent microcontes, més un extra de regal, difosos entre l’1 i el 21 de desembre de 2012. La inspiració em va venir de l’enigmàtic i fascinant [@AuthenticWmGibs](https://twitter.com/AuthenticWmGibs).
