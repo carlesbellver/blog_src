@@ -66,10 +66,10 @@ Imatges de la presentació i notes per a l’acte d’[homenatge de la SCCFF a E
 
 ## (9)
 
-<a href="Poe-09.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-09.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;">Fotograma de la pel·lícula [*L’estudiant de Praga*](https://en.wikipedia.org/wiki/The_Student_of_Prague_(1913_film)), adaptació lliure de “William Wilson”</span>
+<a href="Poe-09.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-09.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;">Fotograma de la pel·lícula [*L’estudiant de Praga*](https://en.wikipedia.org/wiki/The_Student_of_Prague_%281913_film%29), adaptació lliure de “William Wilson”</span>
 
 - I encara n’hi ha més. Té relats, podríem dir-ne, indefinibles.
-- [“William Wilson”](https://en.wikipedia.org/wiki/William_Wilson_(short_story)): el tema del doble (*doppelgänger*).
+- [“William Wilson”](https://en.wikipedia.org/wiki/William_Wilson_%28short_story%29): el tema del doble (*doppelgänger*).
 
 ## (10)
 
