@@ -8,5 +8,6 @@ tags = ["retalls","citacions"]
 
 > …the unedited voice of an individual.
 
-—[Blog definition by Dave Winer](http://threads2.scripting.com/2013/june/bloggerVsJournalist)
+—[Blog definition by Dave Winer](http://scripting.com/davenet/2003/10/08/nineYearsOfDavenet.html#2)
+
 

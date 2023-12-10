@@ -4,11 +4,11 @@ title = ""
 date = "2016-08-22T22:00:00+00:00"
 slug = "the-cia-puts"
 tags = ["retalls"]
+x_url = "http://www.openculture.com/2016/08/cia-puts-hundreds-of-declassified-documents-about-ufo-sightings-online.html"
+x_title = "The CIA Puts Hundreds of Declassified Documents About UFO Sightings Online, Plus 10 Tips for Investigating Flying Saucers"
 +++
 
-🛸 [The CIA Puts Hundreds of Declassified Documents About UFO Sightings Online, Plus 10 Tips for Investigating Flying Saucers](http://www.openculture.com/2016/08/cia-puts-hundreds-of-declassified-documents-about-ufo-sightings-online.html)
-
-> …des del passat mes de gener, el públic ha tingut [accés complet i obert a tots aquests documents](https://www.cia.gov/library/readingroom/collection/ufos-fact-or-fiction) \[principalment de finals de la dècada de 1940 i 1950] a Internet. Per celebrar la importància de l’àmplia disponibilitat d’aquest arxiu, l’Agència va elaborar [dues llistes de cinc documents diferents](https://www.cia.gov/news-information/blog/2016/take-a-peek-into-our-x-files.html) cadascuna, amb les quals es “destaquen alguns documents que tant els escèptics com els creients trobaran interessants.” […]
+> …des del passat mes de gener, el públic ha tingut [accés complet i obert a tots aquests documents](https://www.cia.gov/library/readingroom/collection/ufos-fact-or-fiction) \[principalment de finals de la dècada de 1940 i 1950] a Internet. Per celebrar la importància de l’àmplia disponibilitat d’aquest arxiu, l’Agència va elaborar [dues llistes de cinc documents diferents](https://web.archive.org/web/20160320044350/https://www.cia.gov/news-information/blog/2016/take-a-peek-into-our-x-files.html) cadascuna, amb les quals es “destaquen alguns documents que tant els escèptics com els creients trobaran interessants.” […]
 >
 >  1. Establiu un grup per investigar i avaluar els avistaments.
 >  2. Determineu els objectius de la vostra investigació.

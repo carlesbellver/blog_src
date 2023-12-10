@@ -11,4 +11,4 @@ x_source = ""
 
 > “Es verdad que las plantas tienen comportamientos alucinantes, pero el que una planta tenga conciencia de dónde está y de lo que tiene alrededor no está demostrado, y nos puede conducir a una conclusión errónea porque tendemos a atribuir cualidades humanas a los comportamientos vegetales”
 
-I retenir per als humans l'exclusivitat de l'experiència subjectiva —perquè d'això parlem quan parlem de consciència—, o estendre-la com a molt als parents més pròxims, no deu ser al seu torn antropocentrisme?
+I retenir per als humans l’exclusivitat de l’experiència subjectiva —perquè d’això parlem quan parlem de consciència—, o estendre-la com a molt als parents més pròxims, no deu ser al seu torn antropocentrisme?

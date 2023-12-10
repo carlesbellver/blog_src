@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-Millor que no facin passar la prova a una bona part d'humans adults que circulen pels carrers.
+Millor que no facin passar la prova a una bona part d’humans adults que circulen pels carrers.
 
 > Amb només quatre mesos d’edat, els ocells tenien un rendiment igual de bo que els simis per a comprendre els nombres, seguir indicacions i moltes més tasques.
