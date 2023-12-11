@@ -426,7 +426,7 @@ frueixo del còctel. Del pastitx.
 > Magazine".
 
 Improbable potser, però molt real. [Lovecraft
-Magazine](http://www.ictisp.com/~qj389195/lovecraft/menu.html) va
+Magazine](https://tercerafundacion.net/biblioteca/ver/coleccion/650) va
 arribar a tirar una dotzena de números, molt ben editats, de 2000 a
 2003, i jo vaig tenir l'honor de col·laborar-hi regularment.
 (Posteriorment vaig recollir aquells articles, juntament amb altres
