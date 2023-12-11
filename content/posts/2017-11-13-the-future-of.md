@@ -4,9 +4,9 @@ title = ""
 date = "2017-11-13T12:56:00+00:00"
 slug = "the-future-of"
 tags = ["retalls"]
-x_url = "https://www.hiddenforcespod.com/leemon-baird-hashgraph-distributed-ledger-technology-blockchain/"
+x_url = "https://web.archive.org/web/20171113122932/https://www.hiddenforcespod.com/leemon-baird-hashgraph-distributed-ledger-technology-blockchain/"
 x_title = "The Future Of Distributed Ledger Technology Is Not Blockchain. It's Hashgraph. A Conversation with Leemon Baird"
-x_source = ""
+x_source = "[archived]"
 +++
 
 
