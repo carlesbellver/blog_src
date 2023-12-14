@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Compartir l'espai de treball amb membres de l'equip de desenvolupament i col·laborar en el codi en temps real.
+Compartir l’espai de treball amb membres de l’equip de desenvolupament i col·laborar en el codi en temps real.
 

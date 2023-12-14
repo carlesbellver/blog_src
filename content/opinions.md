@@ -1,7 +1,7 @@
 +++
 title = "Opinions"
 slug = "opinions"
-url = "/opinions"
+url = "opinions"
 description = "Què han dit dels meus llibres algunes de les poques persones que els han llegit."
 date = "2021-04-23T22:00:00+00:00"
 image = "/uploads/ulleres.jpg"
@@ -75,6 +75,12 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 > …allò que l’autor anomenà com una «poètica del deliri», connectada expressament amb la follia, el tràngol i la incapacitat de comprendre totalment aquest món en què vivim.
 
 —Manel Garcia Grau (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
+
+<hr>
+
+> Els seus relats —sens dubte, els més reeixits que hagen sortit mai de la ploma d’un autor castellonenc— s’articulen com vertaders mecanismes de rellotgeria, d’acord amb la millor tradició del gènere, i palesen una profunda unitat estilística, una densa trama intertextual, sovint a cavall de diversos gèneres, que es complau a esborrar les fronteres entre la realitat i la ficció i amb els jocs intel·lectuals i les bromes erudites o surrealistes, a la manera de Lovecraft, Borges, Calvino o Perucho.
+
+—Josep J. Conill (2010) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/) i [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 

@@ -7,7 +7,7 @@ slug = "les-llegendes-de"
 
 [Jacques Bergier](https://fr.wikipedia.org/wiki/Jacques_Bergier) —jueu, nascut a Odessa, emigrat a França, enginyer químic, devorador de *science-fiction*, resistent contra el nazisme, supervivent de Mauthausen, agent secret, humorista i fantasista incontenible— va titular les seves memòries —potser el seu llibre més interessant— *Je ne suis pas une légende*. Però el *motto* de molts dels seus escrits ben bé podria haver estat la cèlebre expressió italiana: *“Se non è vero, è ben trovato”*.
 
-## With Poe, in a dream
+## *With Poe, in a dream*
 
 > Per poder seguir aquest camí, Lovecraft havia començat en primer lloc absorbint una gran part del saber humà. No he mantingut mai correspondència amb un ésser semblantment omniscient. Coneixia un nombre incalculable d’idiomes —incloses quatre llengües africanes: damora, suahili, xulu i zani— i de dialectes. Escrivia amb gran erudició sobre matemàtiques, cosmogonies relativistes, la civilització asteca, l’antiga Creta, la química orgànica. Absorbia aquest saber per una mena d’osmosi extraordinària. Quan li vaig escriure a fi de felicitar-lo per haver descrit un barri poc conegut de París en “La música d’Erich Zann”, en demanar-li si havia visitat mai París, em va contestar: “Amb Poe, en un somni” (*“With Poe, in a dream”*).
 
@@ -21,7 +21,7 @@ slug = "les-llegendes-de"
 
 —*Le Matin des magiciens, introduction au réalisme fantastique*, 1960 (amb Louis Pauwels).
 
-## Renifleurs
+## *Renifleurs*
 
 > «Al contrari del que creieu, serà el viatge de tornada el més perillós. Vigilen de prop els estrangers, susceptibles de transmetre missatges o de fer creuar la frontera béns pertanyents a jueus alemanys. Tenen agents especials que anomenen “ensumadors”, capaços segons que es diu de reconèixer un jueu per l’olor. Sigueu, doncs, molt prudent i no cregueu haver guanyat tan bon punt hàgiu completat la vostra missió».
 > 
