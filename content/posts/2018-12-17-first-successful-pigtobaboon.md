@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Quatre babuïns amb cors de porc trasplantats en un laboratori de la Ludwig-Maximilians-Universität de Munic. La idea és poder utilitzar els òrgans en humans. Per a evitar el rebuig, s'han utilitzat tècniques d'edició genètica i els immunosupressors habituals. L'alternativa són els cors artificials.
+Quatre babuïns amb cors de porc trasplantats en un laboratori de la Ludwig-Maximilians-Universität de Munic. La idea és poder utilitzar els òrgans en humans. Per a evitar el rebuig, s’han utilitzat tècniques d’edició genètica i els immunosupressors habituals. L’alternativa són els cors artificials.

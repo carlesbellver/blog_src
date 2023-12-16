@@ -10,6 +10,6 @@ x_source = ""
 +++
 
 
-> En la làpida, una de les més senzilles del cementeri municipal, es podia llegir la data en què hauria mort Aitor Iureta Oteiza, l'onze d'agost de 2014 als vuitanta-dos anys.
+> En la làpida, una de les més senzilles del cementeri municipal, es podia llegir la data en què hauria mort Aitor Iureta Oteiza, l’onze d'agost de 2014 als vuitanta-dos anys.
 
-Un nínxol buit, darrere d'una làpida amb el nom d'una persona inexistent: un fantasma, abans i després de mort. Corrupció i ritus funeraris: fer passar el torn dels enterraments per assegurar a algú una millor posició en el trànsit a l'altre món. Els límits del realisme són massa estrets per a imaginar aquesta societat, en la literatura i en la política.
+Un nínxol buit, darrere d'una làpida amb el nom d’una persona inexistent: un fantasma, abans i després de mort. Corrupció i ritus funeraris: fer passar el torn dels enterraments per assegurar a algú una millor posició en el trànsit a l’altre món. Els límits del realisme són massa estrets per a imaginar aquesta societat, tant en la literatura com en la política.
