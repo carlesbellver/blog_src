@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Facebook no gosa vendre obertament les dades dels seus usuaris, però les ha compartit amb Microsoft, Amazon, Spotify i altres gegants tecnològics en benefici mutu. “Les dades personals són el petroli del segle XXI, un recurs que val milers de milions de dòlars per a aquells que el poden extreure i refinar més eficientment.” Sempre sense informar-ne, encara menys demanar consentiment, aprofitant l'immens buit legal dels EUA i la nostra passivitat com a usuaris.
+Facebook no gosa vendre obertament les dades dels seus usuaris, però les ha compartit amb Microsoft, Amazon, Spotify i altres gegants tecnològics en benefici mutu. “Les dades personals són el petroli del segle XXI, un recurs que val milers de milions de dòlars per a aquells que el poden extraure i refinar més eficientment.” Sempre sense informar-ne, encara menys demanar consentiment, aprofitant l’immens buit legal dels EUA i la nostra passivitat com a usuaris.

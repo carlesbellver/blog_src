@@ -13,4 +13,4 @@ Comentaris filtrats dels programadors de l'empresa:
 
 > “Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”
 > 
-> “Com podeu mirar la propietat privada, l'especulació, l'escassetat artificial i l'egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l'art»?”
+> “Com podeu mirar la propietat privada, l’especulació, l’escassetat artificial i l’egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l’art»?”
