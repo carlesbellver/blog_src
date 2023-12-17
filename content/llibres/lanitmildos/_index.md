@@ -17,4 +17,4 @@ template = "llibre"
 ## Ressenyes
 
 - [“Intensitat narrativa”](2014-11-21-caracters-lanitmildos.pdf) (Francesc Pérez i Moragón, *Caràcters* núm. 68, 2014)
-- [“Relat d'una llarga nit farcida d'històries”](https://jqueralt.codeberg.page/lectures/mildos/) (Joan Queralt, 2023)
+- [“Relat d’una llarga nit farcida d’històries”](https://jqueralt.codeberg.page/lectures/mildos/) (Joan Queralt, 2023)
