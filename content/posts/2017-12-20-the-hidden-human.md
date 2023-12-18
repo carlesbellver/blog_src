@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> …la majoria del treball preliminar d'entrenament dels sistemes d'aprenentatge automàtic, la resolució de problemes que el programari no pot resoldre i la resolució d'errors, encara ho fan persones.
+> …la majoria del treball preliminar d’entrenament dels sistemes d’aprenentatge automàtic, la resolució de problemes que el programari no pot resoldre i la resolució d’errors, encara ho fan persones.

@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Persones emparellades amb obres d'art.
+Persones emparellades amb obres d’art.
