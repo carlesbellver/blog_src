@@ -1,0 +1,11 @@
++++
+title = ""
+date = "2023-12-20T18:35:30+01:00"
+tags = []
+slug = "nou-llibre"
+syndication = []
++++
+
+Aquelles frases que [fa tres anys](/2020/12/20/pop-art/) començaven a créixer orgànicament són ara el principi d’un relat molt més llarg, part d’un nou recull que l’any que ve intentaré publicar.
+
+<img alt="Animació de l’evolució d’un document de text al llarg de versions successives" src="/uploads/2020/2020-12-20-pop-art.gif" style="max-height:560px">
