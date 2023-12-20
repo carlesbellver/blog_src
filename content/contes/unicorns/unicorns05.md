@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns05"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns05.jpg"
+image = "/contes/unicorns/twemoji/1f577.svg"
 prev = "/contes/unicorns/unicorns04"
 next = "/contes/unicorns/unicorns06"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f577.svg" />
 
 —El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston van veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York ha detingut un pintor bohemi, al Village, per espantar els veïns amb el seu caiman.
 
@@ -30,6 +32,4 @@ next = "/contes/unicorns/unicorns06"
 —La dona de fer feines va plegar i no pot aconseguir una substituta. El terra, darrere d'ell, era ple d’immundícies. No caldrà que us diga que no vaig creuar el llindar de la porta.
 
 —Algú hauria de fer alguna cosa, senyors.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns05.jpg" alt="Pintura a l’oli. Una bestiola peluda amb potes llargues i ulls oberts."><figcaption><em>The missing link between a sea-urchin, a spider, and the devil</em><br>La baula perduda entre un eriçó de mar, una aranya i el diable<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

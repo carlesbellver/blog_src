@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns38"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns38.jpg"
+image = "/contes/unicorns/twemoji/1f52d.svg"
 prev = "/contes/unicorns/unicorns37"
 next = "/contes/unicorns/unicorns39"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f52d.svg" />
 
 —Els mapes de Schiaparelli van ser una temptativa notable, però la millor cartografia de Mart continua sent aquesta. I les imatges de la sonda Viking no han fet més que confirmar-ho.
 
@@ -24,6 +26,4 @@ Als marges, em van cridar l’atenció les inscripcions en un alfabet desconegut
 Vaig observar els noms a la carpeta: Sagan i Hoagland. I la data: juny de 1958. Molt abans que la NASA hi enviara un coet.
 
 —Bé, un d’ells no era més que un farsant. Un manifasser.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns38.jpg" alt="Pintura a l’oli d’una sonda espacial en òrbita."><figcaption><em>Viking Orbiter</em><br>Sonda Viking<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

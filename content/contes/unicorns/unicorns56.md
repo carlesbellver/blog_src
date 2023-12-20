@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns56"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns56.jpg"
+image = "/contes/unicorns/twemoji/1f58b.svg"
 prev = "/contes/unicorns/unicorns55"
 next = "/contes/unicorns/unicorns57"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f58b.svg" />
 
 Mentre l’esperava, la secretària del seu tutor li va demanar si podia ajudar-lo amb unes notes que calia mecanografiar. Càndidament va accedir a dictar-li-les i a la segona frase es va adonar del sentit i la procedència reals d’aquell fragment. Però —per això mateix?— no va poder aturar-se i va continuar recitant el full en veu alta, vocalitzant la lletania d’abominables perversions.
 
@@ -18,6 +20,4 @@ L’havien ben ensarronat. El tutor va aparèixer al llindar al cap d’un lapse
 —Felicitacions —li va dir—. Ara ja sou un dels nostres.
 
 Va deixar anar una riota sinistra. La secretària es va aixecar i se li va arrambar. Reia ella també —com una hiena— quan van marxar ambdós plegats, passadís enllà. Danvers va restar sol amb el seu pànic. Es va passar la nit udolant, fins a la matinada. Al rompent de l’alba es va assossegar prou per agafar l’estilogràfica i signar el contracte.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns56.jpg" alt="Pintura a l’oli. Gàrgola que representa un animal udolant a la cornisa d’un edifici. Altres edificis al fons."><figcaption><em>Howling gargoyle</em><br>Gàrgola udolant<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

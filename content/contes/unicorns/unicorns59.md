@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns59"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns59.jpg"
+image = "/contes/unicorns/twemoji/1f9df.svg"
 prev = "/contes/unicorns/unicorns58"
 next = "/contes/unicorns/unicorns60"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f9df.svg" />
 
 Una alba glaçada al llit sec d’un riu, davant d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga se’ls havia fet la nit i que breu el final.
 
@@ -42,6 +44,4 @@ Comptava mentalment. Com voldreu que compte un mort? Amb els dits no pot.
 —Quaranta, si més no.
 
 —Una eternitat.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns59.jpg" alt="Pintura a l’oli de l’entrada d’un cementeri."><figcaption><em>Cemetery gates</em><br>Les portes del cementeri<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

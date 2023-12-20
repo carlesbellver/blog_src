@@ -6,10 +6,12 @@ titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns33"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns33.jpg"
+image = "/contes/unicorns/twemoji/1f520.svg"
 prev = "/contes/unicorns/unicorns32"
 next = "/contes/unicorns/unicorns34"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f520.svg" />
 
 *Years and years* eren els mots finals que m’havien quedat gravats quan em vaig tornar a despertar.
 Anys i anys, em repetia mentre em desensonyava, sense saber ja si feia referència al seu llarg sojorn al món o al temps que havia dedicat a encalçar-me.
@@ -22,6 +24,4 @@ O no era llum, sinó una forma més elaborada de foscor.
 Tenia, en resum, un pressentiment sobre la seua identitat.
 El ressò d’un nom que evocava les piràmides i els espais interestel·lars em ballava pel cap, i en una altra època m’hauria rigut de la pueril superstició que m’impedia pronunciar-lo.
 Però reconec —per més que em faça vergonya— que ara no gosaria dir-lo en veu alta, ni escriure’l en aquest full en lletres majúscules.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns33.jpg" alt="Pintura a l’oli imitant una fotografia antiga. Un petit grup de persones al capdamunt d’unes ruïnes, amb una piràmide egípcia al darrere."><figcaption><em>And it was then that he came out of Egypt</em><br>I va ser llavors que va venir d’Egipte<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

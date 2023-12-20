@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns50"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns50.jpg"
+image = "/contes/unicorns/twemoji/1fa7a.svg"
 prev = "/contes/unicorns/unicorns49"
 next = "/contes/unicorns/unicorns51"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1fa7a.svg" />
 
 —Continues escrivint?
 
@@ -30,6 +32,4 @@ Es va estarrufar.
 —Justament això intente evitar. A més d’una vulgaritat, seria senyal que no tinc remei. Qualsevol pot escriure una novel·la, com podràs comprovar a la primera llibreria de barri que trobes. Et confessaré que vaig estar a punt de caure en la temptació, però m’hi vaig saber resistir.
 
 —I la part del beure, com la portes?
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns50.jpg" alt="Pintura a l’oli, estil fauvista. Un home assegut en una butaca i un altre en un sofà, encarats."><figcaption><em>Therapists</em><br>Terapeutes<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

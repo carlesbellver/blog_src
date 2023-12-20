@@ -6,10 +6,12 @@ titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns45"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns45.jpg"
+image = "/contes/unicorns/twemoji/1f942.svg"
 prev = "/contes/unicorns/unicorns44"
 next = "/contes/unicorns/unicorns46"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f942.svg" />
 
 —Declare per endavant la meua ineptitud per a entendre els rituals d’aparellament humans. Així que tot el que en puga dir s’hauria de posar entre parèntesis.
 
@@ -30,6 +32,4 @@ next = "/contes/unicorns/unicorns46"
 —Quin tros d’idiota.
 
 —I encara en podia ser més. Dimarts s’havia refet i estava segur que ella va fingir, que es va portar *com una puta* només per desplaure’l i que la deixara estar. No em coneix, va dir, no em rendiré tan fàcilment.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns45.jpg" alt="Pintura a l’oli estil naïf. Homes i dones amb vestits elegants en una festa."><figcaption><em>The party</em><br>La festa<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

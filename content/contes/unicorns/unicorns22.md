@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns22"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns22.jpg"
+image = "/contes/unicorns/twemoji/1f9b7.svg"
 prev = "/contes/unicorns/unicorns21"
 next = "/contes/unicorns/unicorns23"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f9b7.svg" />
 
 Una nit vaig somniar que li implorava que em perdonara i ella es mofava de mi. Taral·lejava una cançoneta, feia una cabriola i em clavava les dents a la mà. Però tornar a veure la seua cara radiant em va causar una impressió molt més forta que la mossegada.
 
@@ -18,6 +20,4 @@ Una altra nit rebia un telegrama. Per alguna raó estava segur que l’enviava e
 Havien passat molts anys. Jo era vell, ella també, i amb prou feines ens reconeixíem, però sabíem, ambdós, que érem nosaltres. Em contava que tenia una filla i un fill, i nets. Jo intentava explicar-me i ella es mostrava perplexa. M’aclaria que no em va culpar mai, que entenia que les circumstàncies van ser despietades i que se’n condolia. Ens abraçàvem, sota la benèvola vigilància del seu marit, mestre jubilat com ella.
 
 Recorde que una vegada em va dir que si ho somniaves ja no passava.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns22.jpg" alt="Pintura a l’oli. Part d’una cara, possiblement de dona, la boca oberta ensenyant les dents."><figcaption><em>The bite</em><br>La mossegada<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

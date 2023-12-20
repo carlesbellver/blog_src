@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns21"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns21.jpg"
+image = "/contes/unicorns/twemoji/1f4d4.svg"
 prev = "/contes/unicorns/unicorns20"
 next = "/contes/unicorns/unicorns22"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f4d4.svg" />
 
 —T’ensenyaré un llenguatge secret.
 
@@ -26,6 +28,4 @@ Aquesta nit, va dir, compondrem cadascun un missatge i demà l’altre intentar�
 Crec que dubtava que jo m’estiguera prenent l’estudi prou seriosament i em posava a prova. Li vaig escriure una carta d’amor. Ella va redactar una convocatòria d’una cèl·lula clandestina. El seu germà, aleshores, militava en una organització comunista. Va assumir sacrificis i desgràcies. Nosaltres, en fi.
 
 Amb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns21.jpg" alt="Pintura a l’oli d’estil naïf. Un xic i una xica seuen junts davant d’una taula amb un llibre obert."><figcaption><em>Homework</em><br>Deures<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

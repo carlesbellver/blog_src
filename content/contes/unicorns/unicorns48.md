@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns48"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns48.jpg"
+image = "/contes/unicorns/twemoji/1f9f3.svg"
 prev = "/contes/unicorns/unicorns47"
 next = "/contes/unicorns/unicorns49"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f9f3.svg" />
 
 No sóc gens afeccionat a viatjar —malgrat que aquesta vegada haja travessat l’Atlàntic—, però l’anunci en aquell aparador va fer que m’hi aturara.
 
@@ -20,6 +22,4 @@ Em va dir, amb veu melosa, que guardava els fullets a dalt i va insistir que puj
 Però l’embruix va ser efímer. Es va mostrar com era quan em va cridar amb els braços oberts. Crec que vaig fer cara d’espant, no de fàstic.
 
 —Tu tampoc no ets tan jove, ni tens més futur que jo!
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns48.jpg" alt="Pintura a l’oli, estil impressionista. Barcasses en un riu ample."><figcaption><em>Mekong river</em><br>Riu Mekong<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

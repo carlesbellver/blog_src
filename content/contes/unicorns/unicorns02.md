@@ -6,10 +6,12 @@ titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns02"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns02.jpg"
+image = "/contes/unicorns/twemoji/1f6ae.svg"
 prev = "/contes/unicorns/unicorns01"
 next = "/contes/unicorns/unicorns03"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f6ae.svg" />
 
 Els cabells esbullats, els llavis pintats i un gran somriure. Feia vent, aquell matí. Aquesta foto seua, una mica borrosa, l’única que tenia i que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li. La va examinar amb interès i em va demanar qui era.
 
@@ -22,6 +24,4 @@ Era evident que només es podia referir a les dues —o tres— posteriors, a qu
 Li vaig arrabassar la foto i vaig marxar, ho sé, amb un excés de teatralitat. Un parell de carrers més enllà, abans del riu, em vaig adonar que també li havia pres el llibre i el vaig llançar en una paperera. Adéu-siau, Jean-Paul Sartre.
 
 I bé, doncs, continuem.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns02.jpg" alt="Polaroid. Retrat d’una dona jove. Els cabells esbullats li tapen els ulls."><figcaption>Polaroid<br>Col·lecció de l’autor<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

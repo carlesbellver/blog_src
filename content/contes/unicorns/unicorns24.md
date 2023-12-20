@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns24"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns24.jpg"
+image = "/contes/unicorns/twemoji/2697.svg"
 prev = "/contes/unicorns/unicorns23"
 next = "/contes/unicorns/unicorns25"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/2697.svg" />
 
 —Una errada en la numeració de les pàgines feia que pareguera que en faltaven un parell. Van córrer rumors sobre el contingut censurat, eliminat a darrera hora amb el manual eixint d’impremta.
 
@@ -26,6 +28,4 @@ next = "/contes/unicorns/unicorns25"
 —Jo no vaig sentir res. Sóc dur d’orella.
 
 —Amb prou feines es van mascarar les bates. I amb això van donar per acabat el seu afer amb l’àtom. Ja es podien tornar a concentrar en la lectura de Paracels.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns24.jpg" alt="Pintura a l’oli. Imatge esquemàtica d’un àtom segons el model de Rutherford."><figcaption><em>Atom</em><br>Àtom<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

@@ -6,10 +6,12 @@ titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns58"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns58.jpg"
+image = "/contes/unicorns/twemoji/1fa96.svg"
 prev = "/contes/unicorns/unicorns57"
 next = "/contes/unicorns/unicorns59"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1fa96.svg" />
 
 Va tornar a ponderar l’heroisme dels *marines* —en aquesta nova operació imperialista que difonia la premsa— i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència. Em vaig indignar. M’emprenyava el seu patrioterisme i ell se sentia ofès quan jo defensava el no a la guerra. No era la primera vegada que xocàvem.
 
@@ -18,6 +20,4 @@ Va tornar a ponderar l’heroisme dels *marines* —en aquesta nova operació im
 —Els únics joves nord-americans que van venir al meu país van ser els voluntaris de la Brigada Lincoln. Comunistes i companys de viatge. Els vostres governs van preferir sacrificar la nostra república i deixar que s’hi perpetuara el feixisme.
 
 M’adverteixen que no és segur per a mi, estudiant estranger, parlar amb tanta vehemència. Però no em preocupa el que em poguera passar, perquè beca i visat caduquen prompte. Mentre tramitaven la meua democràtica expulsió, jo ja seria a l’aeroport.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns58.jpg" alt="Pintura a l’oli de l’oncle Sam apuntant amb el dit índex."><figcaption><em>Uncle Sam</em><br>L’oncle Sam<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

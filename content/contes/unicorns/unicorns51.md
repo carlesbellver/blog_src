@@ -6,10 +6,12 @@ titleIt = true
 license = "by-nc"
 url = "contes/unicorns/unicorns51"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns51.jpg"
+image = "/contes/unicorns/twemoji/1f41b.svg"
 prev = "/contes/unicorns/unicorns50"
 next = "/contes/unicorns/unicorns52"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f41b.svg" />
 
 —Grace B. M. Hopper, oficial de marina i professora a Harvard, va ser la primera a identificar un insecte com a origen dels errors d’un ordinador. L’arna que pertorbava el funcionament del Mark II es conserva al Naval Surface Warfare Center de Dahlgren, Virgínia.
 
@@ -22,6 +24,4 @@ next = "/contes/unicorns/unicorns52"
 —Sense menystenir mai el potencial creatiu del caos. L’ARPA recull aquesta mena d’insectes des de 1958. Els experiments han corroborat que provoquen respostes inesperades també en cervells humans, no sols electrònics. Alliberen la imaginació en tots els camps del pensament, l’acció i les arts.
 
 (No hauria calgut esperar que, després d’esmerçar dues setmanes a informar-se i debatre sobre ordinadors, arribaren a conclusions d’allò més convencionals.)
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns51.jpg" alt="Pintura a l’oli. Detall d‘una panerola damunt d’una placa d’ordinador."><figcaption><em>The bug</em><br>L’insecte<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

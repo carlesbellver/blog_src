@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns37"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns37.jpg"
+image = "/contes/unicorns/twemoji/1f573.svg"
 prev = "/contes/unicorns/unicorns36"
 next = "/contes/unicorns/unicorns38"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f573.svg" />
 
 S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 
@@ -22,6 +24,4 @@ S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 —No ho has entès? Necessàriament cal que hi haja un secret, que no ens hagen contat com és de debò que hem anat a raure on som. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teua repugnant concepció.
 
 —Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz entre a penetrar-la i se n’emporte el tresor més ben guardat.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns37.jpg" alt="Pintura a l’oli. Entrada d’un tunel ferroviari, cel blau a dalt. Imitació de René Magritte."><figcaption><em>Tunnel entrance</em><br>L’entrada del túnel<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

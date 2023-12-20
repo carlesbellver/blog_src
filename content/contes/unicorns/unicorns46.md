@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns46"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns46.jpg"
+image = "/contes/unicorns/twemoji/1f4da.svg"
 prev = "/contes/unicorns/unicorns45"
 next = "/contes/unicorns/unicorns47"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f4da.svg" />
 
 —El llibre era, no en tenim cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.
 
@@ -32,6 +34,4 @@ next = "/contes/unicorns/unicorns47"
 —Una altra citació dubtosa.
 
 (Els hauria pogut explicar que així em sentia exactament cada dia, com si la resta de la gent i jo —o cadascú— visquérem en mons diferents. I cap fora real.)
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns46.jpg" alt="Pintura a l’oli, estil impressionista. Un home assegut llegint un llibre, més llibres damunt de la taula i a la prestatgeria de darrere."><figcaption><em>The scholar</em><br>L’erudit<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 

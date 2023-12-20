@@ -6,10 +6,12 @@ titleIt = false
 license = "by-nc"
 url = "contes/unicorns/unicorns06"
 tags = ["contes"]
-image = "/contes/unicorns/images/unicorns06.jpg"
+image = "/contes/unicorns/twemoji/1f3e4.svg"
 prev = "/contes/unicorns/unicorns05"
 next = "/contes/unicorns/unicorns07"
 +++
+
+<img class="emoji" src="/contes/unicorns/twemoji/1f3e4.svg" />
 
 S’apropava l’hora de tancar i la cua avançava amb lentitud exasperant, però no podia deixar l’enviament per a l’endemà perquè no estava segur que les còpies arribaren a temps, i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.
 
@@ -18,6 +20,4 @@ Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i mi
 Warren, més tard, m’ha aclarit el cas.
 
 —Es diu Nahum i va morir fa poc d’unes febres d’origen desconegut. Deu haver passat per acomiadar-se dels companys i comprovar com s’apanyen sense ell.
-
-<figure class="illustration"><img src="/contes/unicorns/images/unicorns06.jpg" alt="Pintura a l’oli. Un home gran amb bossa de carter, assegut, fa cara de cansat."><figcaption><em>The Old Mailman</em><br>El vell carter<br><span class="ai-disclaimer">Imatge generada per Intel·ligència Artificial</span></figcaption></figure>
 
