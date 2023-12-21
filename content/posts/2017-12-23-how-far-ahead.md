@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> …Els edificis de Google són productes derivats de les seves imatges de satèl·lit o aèries. I alguns dels llocs de Google són productes secundaris de les seves imatges de Street View. Això fa que les “àrees d’interès” siguin un subproducte de subproductes. Google està creant dades a partir de dades.
+> …Els edificis de Google són productes derivats de les seues imatges de satèl·lit o aèries. I alguns dels llocs de Google són productes secundaris de les seues imatges de Street View. Això fa que les “àrees d’interès” siguin un subproducte de subproductes. Google està creant dades a partir de dades.
