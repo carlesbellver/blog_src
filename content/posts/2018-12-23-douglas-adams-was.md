@@ -12,8 +12,4 @@ x_source = ""
 
 > Començarem a interactuar amb aquestes coses com ho faríem amb un ésser humà, com si no passara res estrany. Perquè hi ha quelcom inherent a la ment humana que fa que desesperadament vulguem personificar-ho tot. Potser ja ho heu fet. A la meua família ho fem… I cadascú ho fem d’una manera diferent.
 
-<<<<<<< HEAD
-La mare, ens diu l'autor, tracta els altaveus intel·ligents amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l'altra”. I la filla menuda, bé, Alexa encara no l’entén.
-=======
-La mare, ens diu l’autor, tracta els altaveus intel·ligents amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l'altra”. I la filla petita, bé, Alexa encara no l'entén.
->>>>>>> 615e08943 (update 2023-12-22 12:01:12)
+La mare, ens diu l’autor, tracta els altaveus intel·ligents amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l’altra”. I la filla petita, bé, Alexa encara no l’entén.
