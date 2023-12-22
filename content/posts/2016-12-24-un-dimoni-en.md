@@ -2,6 +2,7 @@
 url = "/2016/12/24/un-dimoni-en.html"
 title = "Un dimoni en pràctiques"
 date = "2016-12-24T23:00:00+00:00"
+draft = true
 slug = "un-dimoni-en"
 +++
 
