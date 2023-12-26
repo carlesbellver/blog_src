@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-> Gairebé tots els ordinadors i dispositius mòbils que la gent compra avui dia són més lents que els models habituals d’ordinadors dels anys 70 i 80. Els ordinadors de taula per a jocs amb baixa latència i l’iPad Pro poden entrar en la mateixa gamma que les màquines ràpides de fa trenta a quaranta anys, però la majoria de dispositius disponibles per a la venda ni tan sols s'hi aproximen.
+> Gairebé tots els ordinadors i dispositius mòbils que la gent compra avui dia són més lents que els models habituals d’ordinadors dels anys 70 i 80. Els ordinadors de taula per a jocs amb baixa latència i l’iPad Pro poden entrar en la mateixa gamma que les màquines ràpides de fa trenta a quaranta anys, però la majoria de dispositius disponibles per a la venda ni tan sols s’hi aproximen.
