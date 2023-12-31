@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-Quan es va morir el 1997, Jeanne Calment tenia cent vint-i-dos anys: el rècord mundial de longevitat. Però un investigador rus creu que en realitat havia mort l'any 1934 i que des d'aleshores la va suplantar la seva filla, amb la intenció d'estalviar-se els drets de successió.
+Quan es va morir el 1997, Jeanne Calment tenia cent vint-i-dos anys: el rècord mundial de longevitat. Però un investigador rus creu que en realitat havia mort l’any 1934 i que des d’aleshores la va suplantar la seua filla, amb la intenció d’estalviar-se els drets de successió.
