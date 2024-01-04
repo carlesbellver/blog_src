@@ -10,7 +10,7 @@ x_source = ""
 +++
 
 
-Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun): “En cinquanta anys… només hi haurà al món deu institucions d'educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i *big data*, etc.
+Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun): “En cinquanta anys… només hi haurà al món deu institucions d’educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i *big data*, etc.
 
 Incloïa també, per a més inri, una llista de les universitats elegides al final dels temps:
 
@@ -27,7 +27,7 @@ Incloïa també, per a més inri, una llista de les universitats elegides al fin
 
 Per sort, com deia ella, res d’això és inevitable.
 
-> Resistència. Comunitat. Xarxes obertes. Continguts oberts. Compartir. Un espai —en línia o fora de línia— que no sigui dictat per les forces del mercat. Perícia local. Suport local. Aprofitar la tecnologia per connectar l'estudiantat local i la perícia local amb la resta del món. Tenir cura de l'estudiantat. Connexions humanes. Meravella. Serendipitat intel·lectual. Però sobretot resistència. Una visió més forta i cridanera del que hauria de ser un futur de l’educació superior, i la tecnologia, més just, progressiu i accessible. En realitat, és bastant fàcil preveure com seria l’escenari de malson d’una apocalipsi de l’educació superior. És fàcil veure’n senyals en els titulars. Diria que el major repte és tenir una visió del futur de l’educació superior més agosarada i cridanera.
+> Resistència. Comunitat. Xarxes obertes. Continguts oberts. Compartir. Un espai —en línia o fora de línia— que no sigui dictat per les forces del mercat. Perícia local. Suport local. Aprofitar la tecnologia per connectar l’estudiantat local i la perícia local amb la resta del món. Tenir cura de l’estudiantat. Connexions humanes. Meravella. Serendipitat intel·lectual. Però sobretot resistència. Una visió més forta i cridanera del que hauria de ser un futur de l’educació superior, i la tecnologia, més just, progressiu i accessible. En realitat, és bastant fàcil preveure com seria l’escenari de malson d’una apocalipsi de l’educació superior. És fàcil veure’n senyals en els titulars. Diria que el major repte és tenir una visió del futur de l’educació superior més agosarada i cridanera.
 
 Amén.
 
