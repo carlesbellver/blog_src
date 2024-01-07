@@ -10,4 +10,4 @@ x_source = "Javier Pérez Royo"
 +++
 
 
-L'auto, des de la perspectiva del delicte de rebel·lió, es esperpèntic.
+L’auto, des de la perspectiva del delicte de rebel·lió, es esperpèntic.

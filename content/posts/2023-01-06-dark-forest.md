@@ -10,7 +10,7 @@ x_source = ""
 +++
 
 
-> La [teoria del bosc fosc](https://maggieappleton.com/cozy-web) de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d'espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, "creadors de contingut" farcits de paraules clau i brossa manipulada algorítmicament.
+> La [teoria del bosc fosc](https://maggieappleton.com/cozy-web) de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d’espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, “creadors de contingut” farcits de paraules clau i brossa manipulada algorítmicament.
 
 El nou repte, diu Maggie Appleton, és provar que no som algoritmes d’intel·ligència artificial: una mena de test de Turing invers. En aquest apunt del seu web esbossa cinc opcions, les més interessants de les quals serien les tres primeres:
 

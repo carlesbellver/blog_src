@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> Odiaria la desaparició o ni que fos la decadència del concepte. Prefereixo pensar que era un esglaó essencial: que encara continuem bloguejant, a gran escala i a petita escala, sense fer servir aquest terme per a descriure les nostres accions.
+> Odiaria la desaparició o ni que fora la decadència del concepte. Preferisc pensar que era un esglaó essencial: que encara continuem bloguejant, a gran escala i a petita escala, sense fer servir aquest terme per a descriure les nostres accions.
 

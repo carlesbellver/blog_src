@@ -12,4 +12,4 @@ x_source = ""
 
 Les cèl·lules de Clara, la síndrome d’Asperger o la de Reiter, la granulomatosi de Wegener, la malaltia de Seitelberger o la de Hallervorden–Spatz…  
 
-> Durant l'època del nazisme, sense les restriccions de l'ètica i amb els grans recursos que el partit nazi atorgava a les investigacions mèdiques, es van realitzar, al mateix temps, i paradoxalment, grans avenços per a la medicina i retrocessos gegantins per a la humanitat. Com a resultat, encara avui hi ha múltiples epònims mèdics de nazis declarats o afins al nazisme.
+> Durant l’època del nazisme, sense les restriccions de l’ètica i amb els grans recursos que el partit nazi atorgava a les investigacions mèdiques, es van realitzar, al mateix temps, i paradoxalment, grans avenços per a la medicina i retrocessos gegantins per a la humanitat. Com a resultat, encara avui hi ha múltiples epònims mèdics de nazis declarats o afins al nazisme.

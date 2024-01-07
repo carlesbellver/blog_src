@@ -12,7 +12,7 @@ x_source = ""
 
 La vida familiar secreta de les plantes:
 
-> Algunes espècies limiten fins a quin punt s'estenen les seves arrels, altres canvien la quantitat de flors que produeixen i unes poques s'inclinen o mouen les fulles per minimitzar l'ombra a les plantes veïnes, afavorint els individus emparentats.
+> Algunes espècies limiten fins a quin punt s’estenen les seues arrels, altres canvien la quantitat de flors que produeixen i unes poques s’inclinen o mouen les fulles per minimitzar l’ombra a les plantes veïnes, afavorint els individus emparentats.
 
-En podríem treure beneficis pràctics, a més a més: millorar les collites d'arròs, o facilitar la regeneració dels boscos, per exemple.
+En podríem traure beneficis pràctics, a més a més: millorar les collites d’arròs, o facilitar la regeneració dels boscos, per exemple.
 

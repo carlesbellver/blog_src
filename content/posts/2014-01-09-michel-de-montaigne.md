@@ -9,7 +9,7 @@ x_title = "How to Live: Lessons from Montaigne"
 x_source = "Brain Pickings"
 +++
 
-> Aquesta idea —escriure sobre un/a mateix/a per crear un mirall en què altres persones reconeguen la seva pròpia humanitat— no ha existit sempre. S’havia d’inventar. I, a diferència de moltes invencions culturals, es pot rastrejar fins a una sola persona: Michel Eyquem de Montaigne […]
+> Aquesta idea —escriure sobre un/a mateix/a per crear un mirall en què altres persones reconeguen la seua pròpia humanitat— no ha existit sempre. S’havia d’inventar. I, a diferència de moltes invencions culturals, es pot rastrejar fins a una sola persona: Michel Eyquem de Montaigne […]
 
 —Sarah Bakewell (font: 📎 [Brain Pickings](http://www.brainpickings.org/index.php/2014/01/07/how-to-live-montaigne/)).
 

@@ -12,5 +12,5 @@ x_source = ""
 
 > …si Houellebecq se casa, el amor es siempre posible.
 
-Però Ayén tem que la felicitat conjugal pugui haver afectat la qualitat de la seva darrera novel·la. Que la infelicitat sigui l’única font legítima de l’art és un vell tòpic.
+Però Ayén tem que la felicitat conjugal puga haver afectat la qualitat de la seua darrera novel·la. Que la infelicitat siga l’única font legítima de l’art és un vell tòpic.
 
