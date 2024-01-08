@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Seguia la *Inland Customs Line* ("Línia Duanera Interior"): una barrera burocràtica creada a fi de poder imposar un taxa elevada sobre la sal a la gent que vivia al costat on mancava la sal.
+Seguia la *Inland Customs Line* (“Línia Duanera Interior”): una barrera burocràtica creada a fi de poder imposar un taxa elevada sobre la sal a la gent que vivia al costat on mancava la sal.
 
