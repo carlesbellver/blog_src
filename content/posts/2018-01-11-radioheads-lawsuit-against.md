@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> El hip-hop i el rap van eternament plens de reclamacions per robatori creatiu. Tot el gènere del jazz és essencialment un estudi sobre el plagi [...] Que la música pop acostumi a abusar de la mateixa infame progressió de quatre cordes tampoc ajuda gens. Afirmar que qualsevol cançó és del tot original seria dir que es distingeix de milers d’anys d’història musical […]
+> El hip-hop i el rap van eternament plens de reclamacions per robatori creatiu. Tot el gènere del jazz és essencialment un estudi sobre el plagi […] Que la música pop acostume a abusar de la mateixa infame progressió de quatre cordes tampoc ajuda gens. Afirmar que qualsevol cançó és del tot original seria dir que es distingeix de milers d’anys d’història musical […]
 
