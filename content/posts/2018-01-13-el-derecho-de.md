@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Miguel Pasquau Liaño, magistrat. La reducció dels drets fonamentals a ornament del sistema i el discurs benpensant com a antesala de l'autoritarisme.
+Miguel Pasquau Liaño, magistrat. La reducció dels drets fonamentals a ornament del sistema i el discurs benpensant com a antesala de l’autoritarisme.
 
