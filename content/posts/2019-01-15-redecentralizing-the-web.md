@@ -10,7 +10,7 @@ x_source = ""
 +++
 
 
-El Web va ser dissenyat originalment com una xarxa descentralitzada, però aviat va començar a patir successives onades centralitzadores: primer va ser la guerra dels navegadors, després la dels cercadors i finalment l'espoli de les nostres dades en les autodenominades xarxes socials. Ara, amb el projecte [Solid](https://solid.mit.edu/), Tim Berners-Lee intenta retornar el control —el poder— a l'usuariat. Ruben Verborgh ho explica de manera bastant entenedora.
+El Web va ser dissenyat originalment com una xarxa descentralitzada, però prompte va començar a patir successives onades centralitzadores: primer va ser la guerra dels navegadors, després la dels cercadors i finalment l’espoli de les nostres dades en les autodenominades xarxes socials. Ara, amb el projecte [Solid](https://solid.mit.edu/), Tim Berners-Lee intenta retornar el control —el poder— a l’usuariat. Ruben Verborgh ho explica de manera bastant entenedora.
 
-> Els reptes i les solucions no són de naturalesa purament tècnica, sinó que s'integren en un trencaclosques socioeconòmic més gran, al qual tothom està convidat a contribuir.
+> Els reptes i les solucions no són de naturalesa purament tècnica, sinó que s’integren en un trencaclosques socioeconòmic més gran, al qual tothom està convidat a contribuir.
 
