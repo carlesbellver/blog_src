@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Espanya és el sisè país d'Europa que menys inverteix en educació superior respecte al PIB.
+Espanya és el sisè país d’Europa que menys inverteix en educació superior respecte al PIB.
 
