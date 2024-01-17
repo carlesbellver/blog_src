@@ -9,7 +9,7 @@ x_title = "Everywhere I Go I’m Asked If I Think Universities Stifle Writers. I
 x_source = ""
 +++
 
-> A tot arreu on vaig, em pregunten si penso que les universitats asfixien els escriptors. Crec que no n'asfixien prou.
+> A tot arreu on vaig, em pregunten si penso que les universitats asfixien els escriptors. Crec que no n’asfixien prou.
 
 —Flannery O’Connor, 1960 (font: [Quote Investigator](https://quoteinvestigator.com/2018/01/18/stifle/)).
 

@@ -10,4 +10,4 @@ x_source = ""
 +++
 
 
-La primera torre experimental (de cent metres d'alçada) ha millorat la qualitat de l'aire en una àrea circumdant d'uns deu quilòmetres quadrats, produint deu milions de metres cúbics d'aire net en pocs mesos. Tot just necessita energia durant el dia. La base està envoltada d'hivernacles que absorbeixen l'aire contaminat i s'escalfen amb energia solar.
+La primera torre experimental (de cent metres d’alçada) ha millorat la qualitat de l’aire en una àrea circumdant d’uns deu quilòmetres quadrats, produint deu milions de metres cúbics d’aire net en pocs mesos. Tot just necessita energia durant el dia. La base està envoltada d’hivernacles que absorbeixen l’aire contaminat i s’escalfen amb energia solar.
