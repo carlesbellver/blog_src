@@ -9,9 +9,7 @@ x_title = "“Las apuestas arriesgadas definen el futuro y permiten hacerlo nues
 x_source = ""
 +++
 
-Aquest matí, una persona que entén d’aquestes coses m’ha dit que si volia llegir “una entrevista amb un bovo” (sic), ací en tenia una amb el “comptable” ([gerent?](http://orgchart.mit.edu/executive-vice-president-and-treasurer)) del MIT:
-
-📎 [“Las apuestas arriesgadas definen el futuro y permiten hacerlo nuestro”](http://elpais.com/elpais/2014/01/17/eps/1389957867_975072.html) (El País Semanal)
+Aquest matí, una persona que entén d’aquestes coses m’ha dit que si volia llegir “una entrevista amb un bovo” (sic), ací en tenia una amb el “comptable” ([gerent?](http://orgchart.mit.edu/executive-vice-president-and-treasurer)) del MIT.
 
 Per què li dedicava aquesta desqualificació? No em consten les seues raons subjectives, però, després de llegir l’entrevista, a mi mateix se me n’acudeixen unes quantes. Entre altres:
 

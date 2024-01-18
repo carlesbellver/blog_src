@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-> Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se'ls pregunta utilitzant tests estàndard d'avaluació de salut mental, i que fins i tot mostren signes de problemes amb l'alcohol.
+> Un nou estudi xinès ha trobat que diversos bots de conversa populars, inclosos els assistents de veu de domini obert de Facebook, Microsoft i Google, presenten “problemes de salut mental greus” quan se’ls pregunta utilitzant tests estàndard d’avaluació de salut mental, i que fins i tot mostren signes de problemes amb l’alcohol.
 
 🤖🍷
