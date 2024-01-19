@@ -10,7 +10,7 @@ x_source = ""
 +++
 
 
-> Un esbufec i un estremiment col·lectiu van recórrer palpablement la sala, plena d'especialistes en biblioteconomia, la primera vegada que vaig escoltar un conferenciant explicant com s'escriuen les entrades de la Wikipedia.
+> Un esbufec i un estremiment col·lectiu van recórrer palpablement la sala, plena d’especialistes en biblioteconomia, la primera vegada que vaig escoltar un conferenciant explicant com s’escriuen les entrades de la Wikipedia.
 
-El punt d'inflexió va arribar segurament el 2005, quan la revista *Nature* va publicar una comparativa amb la Britannica que concloïa que la qualitat era similar. L'autor d'aquest article, que ja defensava aleshores l'ús de la Wikipedia, enumera ací algunes raons per a preferir-la. La primera és el seu abast més ampli, i esmenta exemples d'articles que no apareixen en enciclopèdies convencionals.
+El punt d’inflexió va arribar segurament el 2005, quan la revista *Nature* va publicar una comparativa amb la *Britannica* que concloïa que la qualitat era similar. L’autor d’aquest article, que ja defensava aleshores l’ús de la Wikipedia, enumera ací algunes raons per a preferir-la. La primera és el seu abast més ampli, i esmenta exemples d’articles que no apareixen en enciclopèdies convencionals.
 
