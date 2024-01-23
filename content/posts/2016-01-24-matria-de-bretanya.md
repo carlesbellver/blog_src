@@ -29,6 +29,6 @@ O, en la traducció de la Wikipedia al francès modern:
 > Tandis que ceux de Rome sont savants et chargés de signification  
 > et que ceux de France voient chaque jour leur authenticité confirmée!
 
-No hi ha més que tres temes, doncs: els de França, els de Bretanya i els de Roma la gran. El realisme modern, el conte fantàstic i el cànon clàssic, podríem dir-ne, en una interpretació actualitzada i personalment esbiaixada. Cadascú pren les seves opcions, segons les seves possibilitats i d’acord amb les seves necessitats. No caldrà dir quina mena de narracions, irreals i seductores, em van captivar a mi quan era jovenet, i em van acostar per l’atzar d’un títol al text de Carmelina. El qual, confesse, he sabut entendre —i apreciar— molt millor ara, passats alguns decennis.
+No hi ha més que tres temes, doncs: els de França, els de Bretanya i els de Roma la gran. El realisme modern, el conte fantàstic i el cànon clàssic, podríem dir-ne, en una interpretació actualitzada i personalment esbiaixada. Cadascú pren les seues opcions, segons les seues possibilitats i d’acord amb les seues necessitats. No caldrà dir quina mena de narracions, irreals i seductores, em van captivar a mi quan era jovenet, i em van acostar per l’atzar d’un títol al text de Carmelina. El qual, confesse, he sabut entendre —i apreciar— molt millor ara, passats alguns decennis.
 
 <img src="/uploads/2019/c9f022d810.jpg" />
