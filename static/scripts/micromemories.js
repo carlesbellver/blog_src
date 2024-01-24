@@ -28,7 +28,7 @@ function renderPost(post) {
       s = s.substr(0, SUMMARY_LENGTGH) + "…";
     }
     if (post.tags.includes("fotos")) {
-      s = "&#x1F5BC; " + s;
+      s += " &#x1F5BC;";
     }
     ElHTML += ' <span class="p-summary">'+s+'</span> <a href="'+post.url+'">[+]</a>';
   }
