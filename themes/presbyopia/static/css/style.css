@@ -147,7 +147,7 @@ a {
 }
 
 .content a, .comments a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover,
@@ -158,8 +158,12 @@ a:active {
   text-decoration: underline;
 }
 
+a:visited: {
+  color: var(--link-visited-color);
+}
+
 #onthisday a {
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 
