@@ -12,24 +12,28 @@ function formatDate(date) {
 }
 
 function renderPost(post) {
-  ElHTML = ''
+  console.log('SHIT');
+  ElHTML = '<div class="h-entry">';
   var d = Date.parse(post.date_published)
+  var date_iso = new Date(d).toISOString();
   var date_s = new Date(d).toISOString().substr(0, 10);
-  ElHTML += '<p><a href="'+post.url+'" class="u-url dt">'+date_s+'</a>';
-  /* if (post.photos[0]) { */
-  if (post.tags.includes("fotos")) {
-    ElHTML += " &#x1F5BC;"
-  }
-  var s = post.content_text;
-  if (s.length > SUMMARY_LENGTGH) {
-    s = s.substr(0, SUMMARY_LENGTGH) + "…";
-  }
+  ElHTML += '<div class="post-list-item-date"><a href="'+post.url+'" class="dt-published"><span="dt-published" datetime="'+date_iso+'">'+date_s+'</span></a></div>';
+  ElHTML += '<div class="post-list-item-title">';
   if (post.title != undefined && post.title != '') {
-    ElHTML += ' <a href="'+post.url+'" class="u-url">'+post.title+'</a> <span class="summary">'+s+'</span>';
+    ElHTML += '<a href="'+post.url+'" class="u-url"><span class="p-name">'+post.title+'</a>';
   }
   else {
-    ElHTML += ' <a href="'+post.url+'" class="summary">'+s+'</a></p>';
+    var s = post.content_text;
+    if (s.length > SUMMARY_LENGTGH) {
+      s = s.substr(0, SUMMARY_LENGTGH) + "…";
+    }
+    if (post.tags.includes("fotos")) {
+      s = "&#x1F5BC; " + s;
+    }
+    ElHTML += ' <span class="p-summary">'+s+'</span> <a href="'+post.url+'">[+]</a>';
   }
+  ElHTML += '</div>'
+  ElHTML += '</div>'
   return ElHTML;
 }
 
