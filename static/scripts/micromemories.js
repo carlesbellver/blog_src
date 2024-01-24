@@ -16,7 +16,7 @@ function renderPost(post) {
   ElHTML = '<div class="h-entry">';
   var d = Date.parse(post.date_published)
   var date_iso = new Date(d).toISOString();
-  var date_s = new Date(d).toISOString().substr(0, 10);
+  var date_s = date_iso.substr(0, 10);
   ElHTML += '<div class="post-list-item-date"><a href="'+post.url+'" class="dt-published"><span="dt-published" datetime="'+date_iso+'">'+date_s+'</span></a></div>';
   ElHTML += '<div class="post-list-item-title">';
   if (post.title != undefined && post.title != '') {
