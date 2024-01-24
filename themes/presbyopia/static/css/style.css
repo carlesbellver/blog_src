@@ -154,12 +154,7 @@ a:hover,
 a:focus,
 a:active {
   color: var(--link-state-color);
-  /* border-bottom: 1px solid var(--link-state-border-color); */
   text-decoration: underline;
-}
-
-a:visited: {
-  color: var(--link-visited-color);
 }
 
 #onthisday a {
