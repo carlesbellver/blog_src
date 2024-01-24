@@ -29,6 +29,11 @@
 
 <link rel="stylesheet" href="{{ "css/poststats.css" | absURL }}?rnd={{ now.Unix }}" />
 
+{{ if .Site.Params.lightbox -}}
+<link rel="stylesheet" href="{{ "css/lightbox.css" | absURL }}?rnd={{ now.Unix }}" />
+<script type="text/javascript" src="{{ "js/lightbox.js" | absURL }}?rnd={{ now.Unix }}"></script>
+{{- end -}}
+
 {{ range .Site.Params.customCSS -}}
 <link rel="stylesheet" href="{{ . | absURL }}?rnd={{ now.Unix }}">
 {{- end }}
