@@ -469,6 +469,21 @@ h1.post-title {
   font-size: 0.9em;
 }
 
+.post-list div.h-entry {
+  display: flex;
+  margin: 0.5em 0;
+}
+
+.post-list div.post-list-item-date {
+  display: inline;
+  margin-right: 0.5em;
+  white-space: nowrap;
+}
+
+.post-list div.post-list-item-title {
+  display: inline;
+}
+
 .post-short-list:first-of-type {
   margin-top: 10px;
 }
@@ -491,7 +506,6 @@ h1.post-title {
 
 .post-list .dt-published, .post-list .dt {
   font-family: var(--font-details);
-  /* font-size: 18px; */
   font-size: 0.9em;
   color: var(--font-color);
 }
