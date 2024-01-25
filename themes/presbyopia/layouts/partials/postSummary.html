@@ -3,7 +3,6 @@
       <div class="post-list-item-date">
         <a href="{{ .Permalink }}" class="dt-published" title="Enllaç permanent"><span class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05-0700" }}">{{ .Date.Format "2006-01-02" }}</span></a>
         {{- if .Params.synurl -}}<a class="u-syndication" href="{{ .Params.synurl }}"></a>{{- end -}}
-        {{- if .Params.Photos -}} 🖼️️ {{- end -}}
       </div>
       <div class="post-list-item-title">
         {{ if .Title }}
@@ -11,7 +10,7 @@
         {{ else if .Params.x_title }}
           <a href="{{ .Permalink }}" class="u-url" title="Enllaç permanent"><span class="p-name">{{ .Params.x_title }}</span> </a>
         {{ else }}
-          <span class="p-summary">{{ .Summary | plainify | truncate 250 }}</span> <a href="{{ .Permalink }}">[+]</a>
+          <span class="p-summary">{{ .Summary | plainify | truncate 250 }}</span> {{- if .Params.Photos }} 🖼️️ {{ end -}}<a href="{{ .Permalink }}">[+]</a>
         {{ end }}
       </div>
     </div>
