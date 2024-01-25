@@ -465,7 +465,6 @@ h1.post-title {
 }
 
 .post-list {
-  /* font-size: 18px; */
   font-size: 0.9em;
 }
 
@@ -1150,6 +1149,19 @@ input.reset {
 /* Media Queries */
 
 @media screen and (max-width: 480px) {
+
+  .post-list div.h-entry {
+    display: block;
+  }
+
+  .post-list div.post-list-item-date {
+    display: block;
+  }
+
+  .post-list div.post-list-item-title {
+    display: block;
+  }
+
 }
 
 @media (max-width: 840px) {
