@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Més de dotze mil quilos d'excrements humans cada any al campament base de l'Everest.
+Més de dotze mil quilos d’excrements humans cada any al campament base de l'Everest.
 

@@ -9,6 +9,6 @@ x_title = "Dorion Sagan on the First Ejaculation in Earth’s History"
 x_source = "Brain Pickings"
 +++
 
-> Quan connectem amb una altra persona, en el sexe o en l'amor (o, més rarament, ambdós) demostrem que el nostre aïllament no és permanent. En la plenitud del temps, tots podem estar vinculats.
+> Quan connectem amb una altra persona, en el sexe o en l’amor (o, més rarament, ambdós) demostrem que el nostre aïllament no és permanent. En la plenitud del temps, tots podem estar vinculats.
 
 —Dorion Sagan, via 📎 [Brain Pickings](http://www.brainpickings.org/index.php/2013/01/25/dorion-sagan-sex/).
