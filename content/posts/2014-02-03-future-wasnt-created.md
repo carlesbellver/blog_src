@@ -9,7 +9,7 @@ x_title = "A Future Without Schooling?"
 x_source = "Stephen Downes"
 +++
 
-> La Internet, el Web, els continguts oberts i l'accés obert, els entorns virtuals d'ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seegers. No ho oblideu mai.
+> La Internet, el Web, els continguts oberts i l’accés obert, els entorns virtuals d’ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seegers. No ho oblideu mai.
 
 —[Stephen Downes](http://www.downes.ca/post/61708).
 

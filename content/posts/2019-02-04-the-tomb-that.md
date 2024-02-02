@@ -10,6 +10,6 @@ x_source = ""
 +++
 
 
-El disseny original de la famosa cabina telefònica roja, tan típicament britànica, es basava en la tomba de l'esposa de l'arquitecte John Soane. Per si —els de la meva quinta— no vau tenir prou amb la pel·lícula d'Antonio Mercero, protagonitzada per José Luis López Vázquez.
+El disseny original de la famosa cabina telefònica roja, tan típicament britànica, es basava en la tomba de l’esposa de l’arquitecte John Soane. Per si —els de la meua quinta— no vau tenir prou amb la famosa pel·lícula d’Antonio Mercero, protagonitzada per José Luis López Vázquez.
 
 <img src="https://3.bp.blogspot.com/-C5Ex5ITUM80/XFQqqkiNXLI/AAAAAAAAeCQ/2u_PNB26O0gG6ow7jdC9l2bmO2qpxp5GQCLcBGAs/s1600/john-soane-tomb-5.jpg">
