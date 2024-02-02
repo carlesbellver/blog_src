@@ -28,6 +28,7 @@ paginate = 12
   webmentions = false
   fediverse = true
   lightbox = false
+  stats = true
 
 [permalinks]
   posts = "/:year/:month/:day/:slug"
