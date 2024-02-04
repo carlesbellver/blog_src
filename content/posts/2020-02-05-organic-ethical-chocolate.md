@@ -10,6 +10,6 @@ x_title = "Organic & Ethical Chocolate"
 x_source = ""
 +++
 
-El berenar d'avui.
+El berenar d’avui.
 
 <img src="/uploads/2020/38cb60c68c.jpg" width="600" height="600" alt="" />
