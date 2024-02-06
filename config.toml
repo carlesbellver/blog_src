@@ -27,7 +27,7 @@ paginate = 12
   noPosts = 6
   webmentions = false
   fediverse = true
-  lightbox = false
+  lightbox = true
   stats = true
 
 [permalinks]
