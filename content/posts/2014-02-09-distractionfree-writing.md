@@ -1,6 +1,5 @@
 +++
 url = "/2014/02/09/distractionfree-writing.html"
-title = "Distraction-free writing"
 date = "2014-02-09T23:00:00+00:00"
 slug = "distractionfree-writing"
 tags = ["retalls"]
@@ -10,5 +9,6 @@ x_title = "Hugo Gernsback Isolator"
 x_source = ""
 +++
 
+*Distraction free writing.*
 
-
+<img src="/uploads/2014/2014-02-09-hugo-gernsback-isolator.jpg">
