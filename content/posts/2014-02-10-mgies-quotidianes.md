@@ -12,5 +12,5 @@ S’escriuen massa llibres, es fan massa fotografies. [Joan Fontcuberta](http://
 
 Jo m’estimo més pensar-ho així: una altra màgia a l’abast de tothom. Vaig més amb [Isidore Ducasse](http://ca.wikipedia.org/wiki/Comte_de_Lautr%C3%A9amont):
 
-> *La poésie doit être faite par tous. Non par un.”*
+> *La poésie doit être faite par tous. Non par un.*
 

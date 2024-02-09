@@ -8,4 +8,4 @@ slug = "mon-sencer"
 
 El món sencer a la porta de casa. Carrer Sant Blai #Castelló.
 
-<img alt="Globus terraqüi. Grafit a la porta d'una casa." src="/uploads/2022/2022-02-10-mon-sencer.jpg">
+<img alt="Globus terraqüi. Grafit en una porta al carrer." src="/uploads/2022/2022-02-10-mon-sencer.jpg">

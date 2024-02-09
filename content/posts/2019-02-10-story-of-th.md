@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> Joana de Leeds va decidir que la seva vida de pietat i pobresa com a monja era avorrida, així que va fingir que era morta i va fugir del convent, a York, tot deixant un ninot perquè l’enterressim al seu lloc. Estava gaudint d'un estil de vida més animat a trenta milles de distància, a Beverley, quan un escandalitzat arquebisbe de York es va assabentar de l’escapada i va ordenar el seu retorn immediat.
+> Joana de Leeds va decidir que la seua vida de pietat i pobresa com a monja era avorrida, així que va fingir que era morta i va fugir del convent, a York, tot deixant un ninot perquè l’enterraren al seu lloc. Estava gaudint d’un estil de vida més animat a trenta milles de distància, a Beverley, quan un escandalitzat arquebisbe de York es va assabentar de l’escapada i va ordenar el seu retorn immediat.
 
