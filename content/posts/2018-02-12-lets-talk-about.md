@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> …en un moment en què ens basem més que mai en el desenvolupaments científics per a solucionar els problemes mundials, una de les xarxes d’ordinadors més potents del món està fent un treball ociós només per provar als altres que s'ha fet aquest treball.
+> …en un moment en què ens basem més que mai en el desenvolupaments científics per a solucionar els problemes mundials, una de les xarxes d’ordinadors més potents del món està fent un treball ociós només per provar als altres que s’ha fet aquest treball.
 

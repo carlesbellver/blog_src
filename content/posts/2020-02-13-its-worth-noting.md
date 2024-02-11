@@ -10,7 +10,7 @@ x_source = ""
 +++
 
 
-Hi ha webs on l'estudiantat pot pagar perquè algú li escrigui el treball… o perquè l'escrigui o reescrigui una màquina. No ens hauria d'estranyar, atès que pretenem que les màquines corregeixin aquests mateixos treballs.
+Hi ha webs on l’estudiantat pot pagar perquè algú li escriga el treball… o perquè l’escriga o reescriga una màquina. No ens hauria d’estranyar, atès que pretenem que les màquines corregisquen aquests mateixos treballs.
 
-> Val la pena assenyalar que algunes empreses estan creant programari per a corregir automàticament els treballs i estalviar temps als professorat. De manera que, si el professorat corregeix amb robots, potser se'n segueix que l'estudiantat demanarà als robots que li facin la feina.
+> Val la pena assenyalar que algunes empreses estan creant programari per a corregir automàticament els treballs i estalviar temps als professorat. De manera que, si el professorat corregeix amb robots, potser se’n segueix que l’estudiantat demanarà als robots que li facen la feina.
 

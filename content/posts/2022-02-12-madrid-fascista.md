@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Otto Skorzeny, Leon Degrelle, un gelater italià i un agent doble alemany, Oswald Mosley… El festival internacional del feixisme al Madrid franquista.
+Otto Skorzeny, Leon Degrelle, un gelater italià i un agent doble alemany, més Oswald Mosley, etc. El festival internacional del feixisme al Madrid franquista.

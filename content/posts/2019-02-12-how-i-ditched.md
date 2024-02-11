@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Un lloc web en Wordpress.com costa 4€/mes si vols eliminar la publicitat i utilitzar un nom de domini propi. El preu puja a 8€/mes si vols personalitzar el disseny editant el CSS. Ací s'explica com registrar un nom de domini molt econòmic, crear el teu web amb un generador estàtic (Hugo) en el teu ordinador personal i allotjar-lo en GitHub gratis.
+Un lloc web en Wordpress.com costa 4 €/mes si vols eliminar la publicitat i utilitzar un nom de domini propi. El preu puja a 8 €/mes si vols personalitzar el disseny editant el CSS. Ací s’explica com registrar un nom de domini molt econòmic, crear el teu web amb un generador estàtic (Hugo) en el teu ordinador personal i allotjar-lo en GitHub gratis.
 

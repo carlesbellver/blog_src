@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> Els guionistes, no els actors, manen en *The Simpsons*… El resultat és un programa ple de referències a l'art, la literatura, la cultura pop, la política i la ciència.
+> Els guionistes, no els actors, manen en *The Simpsons*… El resultat és un programa ple de referències a l’art, la literatura, la cultura pop, la política i la ciència.
 
