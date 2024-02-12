@@ -10,7 +10,7 @@ tags = ["citacions"]
 
 — Jorge Wagensberg, *Si la natura és la resposta, ¿quina era la pregunta?*
 
-Heus ací, en cinc paraules, el nucli de la [paradoxa de Wiley](http://opencontent.org/docs/paradox.html) sobre la reusabilitat dels objectes d’aprenentatge. I, a més a més, perfectament generalitzat. De fet, no pareix que Wagensberg estigués pensant en objectes, sinó en subjectes:
+Heus ací, en cinc paraules, el nucli de la [paradoxa de Wiley](http://opencontent.org/docs/paradox.html) sobre la reusabilitat dels objectes d’aprenentatge. I, a més a més, perfectament generalitzat. De fet, no pareix que Wagensberg estiguera pensant en objectes, sinó en subjectes:
 
 > [90] Un especialista només té futur en entorns de baixa incertesa.  
 > […]  
