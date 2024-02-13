@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Consultors privats atribueixen el seu auge a "les deficiències en el sector sanitari públic, que continua patint les mesures restrictives preses el 2012".
+Consultors privats atribueixen el seu auge a “les deficiències en el sector sanitari públic, que continua patint les mesures restrictives preses el 2012”.
 

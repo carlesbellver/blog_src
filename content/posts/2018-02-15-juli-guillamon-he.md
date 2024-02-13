@@ -12,4 +12,4 @@ x_source = ""
 
 > Jo sempre dic que tenim una literatura autista, de gent que escriu per a l’espai sideral…
 
-Si ets autista, és normal que escriguis literatura autista, o marciana. La gent normal no sol escriure literatura.
+Si ets autista, és normal que escrigues literatura autista, o marciana. La gent normal no sol escriure literatura.

@@ -10,7 +10,7 @@ x_source = "Daniel Dennett"
 +++
 
 
-> A la llarga, una "IA forta", o intel·ligència artificial general, és possible en principi però no desitjable. L'IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!
+> A la llarga, una “IA forta”, o intel·ligència artificial general, és possible en principi però no desitjable. L’IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!
 > 
 > La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que dominen la imaginació popular és encara gran, tot i que molta gent, tant llega com experta, aconsegueix subestimar-la.
 
