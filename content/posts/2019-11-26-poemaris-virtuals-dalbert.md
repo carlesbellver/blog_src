@@ -37,4 +37,4 @@ A partir de juliol de 2015, [Albert Garcia Pascual](https://www.elpontdeleslletr
 26. *Trossets* (agost de 2022)
 27. *Recuits* (agost de 2022)
 
-**Postdata 7 de maig de 2023**. Des d’[El Pont](https://www.elpontdeleslletres.cat/), hem recollit en format electrònic tots els poemes publicats per Albert en les xarxes a partir de setembre de 2022: [*Darrers poemes*](https://www.elpontdeleslletres.cat/2023/04/23/darrers-poemes-albert-garcia-pascual/). Així mateix, hem editat una obra col·lectiva dedicada a la seua memòria: [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/05/09/tempesta-contra-les-roques/).
+**Postdata 7 de maig de 2023**. Des d’[El Pont](https://www.elpontdeleslletres.cat/), hem recollit en format electrònic tots els poemes publicats per Albert en les xarxes entre agost de 2020 i octubre de 2022: [*Darrers poemes*](https://www.elpontdeleslletres.cat/2023/04/23/darrers-poemes-albert-garcia-pascual/). Així mateix, hem editat una obra col·lectiva dedicada a la seua memòria: [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/05/09/tempesta-contra-les-roques/).
