@@ -9,4 +9,4 @@ x_title = "El regreso de Fu Manchú"
 x_source = "Enric Juliana"
 +++
 
-Mao Zedong, Gerald Ford i Franco. Intel·ligència artificial, 5G i el MWC. La primacia de la geopolítica. “Si conociésemos en tiempo real las claves de todo lo importante que ocurre, enloqueceríamos.” Ecos de Lovecraft i no tan sols de Sax Rohmer?
+Mao Zedong, Gerald Ford i Franco. Intel·ligència artificial, 5G i el MWC. La primacia de la geopolítica. “Si conociésemos en tiempo real las claves de todo lo importante que ocurre, enloqueceríamos.” Ecos de Lovecraft —obertura de *La crida de Cthulhu*— i no tan sols de Sax Rohmer?
