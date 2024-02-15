@@ -12,5 +12,5 @@ x_source = ""
 
 En un documental de la BBC, un grup de dofins assetgen i provoquen un peix globus fins que, aterrit, allibera el seu verí.
 
-> Els éssers humans no són les úniques criatures que pateixen problemes d'abús de substàncies. Els cavalls mengen herbes al·lucinògenes, els elefants s’emborratxen amb fruita madura i el mufló de les Muntanyes Rocalloses adora el liquen narcòtic. L'addicció dels micos a fruits rics en sucres i etanol, de fet, pot explicar la nostra atracció per l'alcohol, segons alguns investigadors.
+> Els éssers humans no són les úniques criatures que pateixen problemes d’abús de substàncies. Els cavalls mengen herbes al·lucinògenes, els elefants s’emborratxen amb fruita madura i el mufló de les Muntanyes Rocalloses adora el liquen narcòtic. L’addicció dels micos a fruits rics en sucres i etanol, de fet, pot explicar la nostra atracció per l’alcohol, segons alguns investigadors.
 
