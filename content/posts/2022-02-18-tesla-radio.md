@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-> La ràdio… ja sé que sóc el seu pare, però no m'agrada. Simplement no m'agrada. És una molèstia. No l'escolte mai. La ràdio és una distracció i t'impedeix concentrar-te. Hi ha massa distraccions en aquesta vida per a un pensament de qualitat; i és la qualitat del pensament, no la quantitat, el que compta.
+> La ràdio… ja sé que sóc el seu pare, però no m’agrada. Simplement no m’agrada. És una molèstia. No l’escolte mai. La ràdio és una distracció i t’impedeix concentrar-te. Hi ha massa distraccions en aquesta vida per a un pensament de qualitat; i és la qualitat del pensament, no la quantitat, el que compta.
 
 —Nikola Tesla
