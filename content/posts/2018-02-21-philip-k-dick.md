@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> Vivim en el futur de Philip K. Dick, no en el de George Orwell o Aldous Huxley. Açò no s'assembla al totalitarisme, tret que acluques molt fort els ulls.
+> Vivim en el futur de Philip K. Dick, no en el de George Orwell o Aldous Huxley. Açò no s’assembla al totalitarisme, tret que acluques molt fort els ulls.
 

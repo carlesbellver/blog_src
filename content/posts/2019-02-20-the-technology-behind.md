@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-> Tot i que els resultats —impressionants— són un salt notable respecte al que han aconseguit els models lingüístics existents, la tècnica involucrada no és exactament nova. En realitat, l’avenç va ser impulsat principalment alimentant l'algoritme cada vegada amb més dades d’entrenament: un truc que també ha estat responsable de la majoria dels altres avenços recents pel que fa a ensenyar la intel·ligència artificial a llegir i escriure.
+> Tot i que els resultats —impressionants— són un salt notable respecte al que han aconseguit els models lingüístics existents, la tècnica involucrada no és exactament nova. En realitat, l’avenç va ser impulsat principalment alimentant l’algoritme cada vegada amb més dades d’entrenament: un truc que també ha estat responsable de la majoria dels altres avenços recents pel que fa a ensenyar la intel·ligència artificial a llegir i escriure.
 

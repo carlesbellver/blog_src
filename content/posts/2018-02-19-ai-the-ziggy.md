@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-La velocitat de la llum limita la comunicació. La majoria de civilitzacions avançades “s’expandirien cap a l’interior… no cap a l’exterior, on perdrien la paciència esperant resposta”. No els podríem veure perquè, perduts en els seus propis pensaments, no tindrien gens d'interès a ser vistos.
+La velocitat de la llum limita la comunicació. La majoria de civilitzacions avançades “s’expandirien cap a l’interior… no cap a l’exterior, on perdrien la paciència esperant resposta”. No els podríem veure perquè, perduts en els seus propis pensaments, no tindrien gens d’interès a ser vistos.
 

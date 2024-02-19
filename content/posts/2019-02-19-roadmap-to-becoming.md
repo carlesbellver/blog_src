@@ -10,5 +10,5 @@ x_source = ""
 +++
 
 
-Continua augmentant la complexitat de les tecnologies web, i no es previsible (ni seria lògic) que es redueixi. SoLiD (Social Linked Data) és el projecte de Tim Berners-Lee per a crear un web social obert.
+Continua augmentant la complexitat de les tecnologies web, i no es previsible (ni seria lògic) que es reduïsca. SoLiD (Social Linked Data) és el projecte de Tim Berners-Lee per a crear un web social obert.
 
