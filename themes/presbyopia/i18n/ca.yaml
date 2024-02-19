@@ -38,7 +38,7 @@ skipToContent:
   other: "principal"
 
 darkTheme:
-  other: "tema fosc"
+  other: "fosc"
 
 lightTheme:
-  other: "tema clar"
+  other: "clar"
