@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-> Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l'economia i la societat actuals:
+> Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seua convicció que el neoliberalisme no és adequat per a l’economia i la societat actuals:
 > 
 > > Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.
