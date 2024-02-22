@@ -542,6 +542,15 @@ h1.post-title {
   height: auto;
 }
 
+.post-list img.inline {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  width: 24px;
+  height: 24px;
+  vertical-align: top;
+}
+
 /* Articles */
 
 main article {

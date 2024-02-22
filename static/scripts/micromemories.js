@@ -19,6 +19,9 @@ function renderPost(post) {
   var date_s = date_iso.substr(0, 10);
   ElHTML += '<div class="post-list-item-date"><a href="'+post.url+'" class="dt-published"><span="dt-published" datetime="'+date_iso+'">'+date_s+'</span></a></div>';
   ElHTML += '<div class="post-list-item-title">';
+  if (post.tags.includes("fotos")) {
+    ElHTML += "<img src=\"/svg.icons/eye.svg\" class=\"inline\"> ";
+  }
   if (post.title != undefined && post.title != '') {
     ElHTML += '<a href="'+post.url+'" class="u-url"><span class="p-name">'+post.title+'</a>';
   }
@@ -27,9 +30,9 @@ function renderPost(post) {
     if (s.length > SUMMARY_LENGTGH) {
       s = s.substr(0, SUMMARY_LENGTGH) + "…";
     }
-    if (post.tags.includes("fotos")) {
+    /* if (post.tags.includes("fotos")) {
       s += " &#x1F5BC;";
-    }
+    } */
     ElHTML += ' <span class="p-summary">'+s+'</span> <a href="'+post.url+'">[+]</a>';
   }
   ElHTML += '</div>'
