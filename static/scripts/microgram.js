@@ -1,4 +1,4 @@
-var max = 120;
+var max = 250;
 
 var container = document.getElementById('microgram');
 
@@ -7,6 +7,7 @@ function renderImage(image) {
     var linkEl = document.createElement('a');
     linkEl.href = image['url'];
     linkEl.className = 'photo-link';
+    linkEl.title = image['date_published'].substring(0, 10);
     /* linkEl.title = image['content_text']; */
     container.appendChild(linkEl);
 
@@ -60,11 +61,12 @@ xhr.onreadystatechange = function(e) {
                       renderImage(image);
                       count++;
                     }
-                }
+                }                
             });
+            console.log("Fotos: " + count);
         }
     }
 }
 
 microgram.innerHTML = '';
-microgram.appendChild(container);
+/* microgram.appendChild(container); */

@@ -166,8 +166,11 @@ function displayResults(results) {
 				s = s.substr(0, SUMMARY_LENGTGH) + "…";
 			}
 			item_title_node.innerHTML = '';
+      if (results[i]["tags"].includes("retalls")) {
+        item_title_node.innerHTML = item_title_node.innerHTML + "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
+      }
       /* Picture? */
-			if (results[i]["tags"].includes("fotos")) {
+			else if (results[i]["tags"].includes("fotos")) {
 					item_title_node.innerHTML = item_title_node.innerHTML + "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
 			}
 			/* Title? */

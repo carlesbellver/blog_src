@@ -2,7 +2,7 @@
 title = ""
 date = "2016-05-11T14:38:37+02:00"
 tags = ["fotos", "UJI"]
-photos = ["/uploads/2021/2016-05-11-management-folklore-fact.jpg"]
+photos = ["/uploads/2016/2016-05-11-management-folklore-fact.jpg"]
 slug = "management-folklore-fact"
 +++
 

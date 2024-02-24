@@ -19,7 +19,10 @@ function renderPost(post) {
   var date_s = date_iso.substr(0, 10);
   ElHTML += '<div class="post-list-item-date"><a href="'+post.url+'" class="dt-published"><span="dt-published" datetime="'+date_iso+'">'+date_s+'</span></a></div>';
   ElHTML += '<div class="post-list-item-title">';
-  if (post.tags.includes("fotos")) {
+  if (post.tags.includes("retalls")) {
+    ElHTML += "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
+  }
+  else if (post.tags.includes("fotos")) {
     ElHTML += "<img src=\"/svg.icons/eye.svg\" class=\"inline\"> ";
   }
   if (post.title != undefined && post.title != '') {
