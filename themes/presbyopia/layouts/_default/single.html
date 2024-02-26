@@ -35,7 +35,7 @@
             
       <div class="content e-content">
         {{ partial "ht_content.html" . }}
-        {{ if .Params.latitude }}{{ partial "map.html" . }}{{ end }}
+        {{ if .Params.map }}{{ partial "map.html" . }}{{ end }}
         {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
       </div>
       

@@ -4,8 +4,7 @@ title = ""
 date = "2019-11-01T18:36:00+00:00"
 slug = "fira-del-llibre"
 tags = ["llocs"]
-latitude = 39.98520
-longitude = -0.03734
+map = [39.98520, -0.03734]
 
 +++
 
