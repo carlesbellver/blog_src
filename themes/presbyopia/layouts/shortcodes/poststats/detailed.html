@@ -1,7 +1,7 @@
-{{ $posts := where site.RegularPages "Type" "in" "posts" }}
+{{ $posts := where site.RegularPages "Type" "in" site.Params.indexSections }}
 
-{{ $titlePostsCount := len ( where $posts ".Params.title"  "!=" "" ) }}
-{{ $microPostsCount := len ( where $posts ".Params.title"  "=" "" ) }}
+{{ $titlePostsCount := len ( where $posts ".Params.title" "!=" nil ) }}
+{{ $microPostsCount := len ( where $posts ".Params.title"  "=" nil ) }}
 
 {{ $scratch := newScratch }}
 {{ range $posts }}

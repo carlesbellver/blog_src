@@ -55,8 +55,10 @@ summary {
   font-size: 0.66em;
 }
 
-.ical {
+.content a.ical {
+  text-decoration: none;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 .common-header {
@@ -84,6 +86,18 @@ main {
   outline:none;
 }
 
+.homepage-content {
+  margin-bottom: 2em;
+}
+
+.homepage-content ul {
+  padding-inline-start: 1.2em;
+}
+
+.homepage-content ul li {
+  padding-left: 0;
+}
+
 /* Headers */
 
 h1, h2, h3 {
@@ -91,6 +105,7 @@ h1, h2, h3 {
   font-family: var(--font-heading);
   font-weight: 300;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   line-height: 1.33;
   text-align: left;
 }
@@ -102,7 +117,7 @@ h1 {
 
 h2 {
   /* font-size: 30px; */
-  font-size: 1.5em;
+  font-size: 1.25em;
   border-bottom: 1px solid #333;
 }
 
@@ -132,19 +147,18 @@ a {
 }
 
 .content a, .comments a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover,
 a:focus,
 a:active {
   color: var(--link-state-color);
-  /* border-bottom: 1px solid var(--link-state-border-color); */
   text-decoration: underline;
 }
 
 #onthisday a {
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 
@@ -361,6 +375,7 @@ header nav {
 header nav a {
   margin-left: 10px;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 header nav a:first-of-type {
@@ -436,12 +451,8 @@ h1.blog-title {
   margin: 1em 0;
   padding: 0;
   font-family: var(--font-heading);
-  /* font-size: 24px;
-  font-weight: normal; */
-  text-transform: none;
   line-height: 1.2em;
   text-align: left;
-  text-transform: uppercase;
 }
 
 header .note a {
@@ -454,8 +465,22 @@ h1.post-title {
 }
 
 .post-list {
-  /* font-size: 18px; */
   font-size: 0.9em;
+}
+
+.post-list div.h-entry {
+  display: flex;
+  margin: 0.5em 0;
+}
+
+.post-list div.post-list-item-date {
+  display: inline;
+  margin-right: 0.5em;
+  white-space: nowrap;
+}
+
+.post-list div.post-list-item-title {
+  display: inline;
 }
 
 .post-short-list:first-of-type {
@@ -469,6 +494,7 @@ h1.post-title {
   display: inline;
   font-family: var(--font-details);
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   text-decoration: none;
 }
 
@@ -479,7 +505,6 @@ h1.post-title {
 
 .post-list .dt-published, .post-list .dt {
   font-family: var(--font-details);
-  /* font-size: 18px; */
   font-size: 0.9em;
   color: var(--font-color);
 }
@@ -515,6 +540,15 @@ h1.post-title {
   padding: 0;
   width: 40px;
   height: auto;
+}
+
+.post-list img.inline {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  width: 24px;
+  height: 24px;
+  vertical-align: top;
 }
 
 /* Articles */
@@ -573,6 +607,7 @@ main article .content:after {
   /* font-size: 14px; */
   font-size: 0.7em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--post-info-color);
 }
 
@@ -610,6 +645,7 @@ main article .content:after {
   font-family: var(--font-details);
   font-size: 0.7em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--post-info-color);
 }
 
@@ -647,6 +683,7 @@ article header h1.external a {
   font-family: var(--font-details);
   font-size: 1em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--font-color);
 }
 
@@ -657,6 +694,7 @@ article header h1.external a {
   /* font-size: 14px; */
   font-size: 0.7em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--post-info-color);
   background-color: var(--note-bg-color);
 }
@@ -677,6 +715,7 @@ article header h1.external a {
   font-size: 0.7em;
   color: var(--post-info-color);
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 img.icon {
@@ -712,6 +751,7 @@ img.thumbnail {
   font-size: 0.7em;
   color: var(--post-info-color);
   text-transform: uppercase;
+  
 }
 
 .post-info ul {
@@ -767,6 +807,7 @@ img.thumbnail {
 .reply-by-email {
   margin-left: 10px;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 article .content img, .index-content img {
@@ -819,6 +860,7 @@ article .content figure figcaption {
   font-size: 0.8em;
   text-align: center;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   color: var(--foot-color);
 }
 
@@ -905,6 +947,7 @@ h2.comments-heading {
 
 .mastodon-comment .author .details .name {
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 .mastodon-comment .author .details .user {
@@ -964,6 +1007,7 @@ h2.comments-heading {
 .pagination-item a {
   color: var(--pagination-link-color);
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 .pagination-item a:hover, 
@@ -1041,6 +1085,7 @@ a.theme-switcher {
   /* font-size: 13px; */
   font-size: 0.9em;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
   text-decoration: none;
 }
 
@@ -1110,10 +1155,22 @@ input.reset {
 	-webkit-appearance: none;
 }
 
-
 /* Media Queries */
 
 @media screen and (max-width: 480px) {
+
+  .post-list div.h-entry {
+    display: block;
+  }
+
+  .post-list div.post-list-item-date {
+    display: block;
+  }
+
+  .post-list div.post-list-item-title {
+    display: block;
+  }
+
 }
 
 @media (max-width: 840px) {
