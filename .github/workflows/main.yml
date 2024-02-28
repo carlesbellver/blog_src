@@ -28,7 +28,7 @@ jobs:
           publish_branch: master
           #keep_files: true
       - name: Deployment rsync
-        uses: burnett01/rsync-deployments@4.1
+        uses: burnett01/rsync-deployments@6.0.0
         with:
           switches: -avzr --delete --exclude=/.well-known --exclude=/.htaccess
           path: public/
