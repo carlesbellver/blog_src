@@ -12,4 +12,4 @@ x_source = ""
 
 És tot façana.
 
-<a href="http://www.amusingplanet.com/2018/03/the-ruins-of-st-pauls-church-macau.html"><img src="https://lh3.googleusercontent.com/-DaO3L47M1j4/WpeqOQlWWuI/AAAAAAABWNA/Jc1nKFv-S7kzXfVRDPu8sKpjfWMV181TQCHMYCw/st--paul-church-macau-106"></a>
+<a href="http://www.amusingplanet.com/2018/03/the-ruins-of-st-pauls-church-macau.html"><img src="/uploads/2018/2018-03-01-the-ruins-of.jpg" alt="Façana de l’església de Sant Pau a Macau, pintura de Wilhelm Heine, 1854" title="Façana de l’església de Sant Pau a Macau, pintura de Wilhelm Heine, 1854"></a>
