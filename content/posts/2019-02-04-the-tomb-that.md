@@ -1,11 +1,10 @@
 +++
 url = "/2019/02/04/the-tomb-that.html"
-title = ""
 date = "2019-02-04T13:12:00+00:00"
 slug = "the-tomb-that"
 tags = ["retalls"]
 x_url = "https://www.amusingplanet.com/2019/02/the-tomb-that-inspired-londons-iconic.html"
-x_title = "The Tomb That Inspired Britain's Iconic Telephone Box"
+title = "The Tomb That Inspired Britain's Iconic Telephone Box"
 x_source = ""
 +++
 

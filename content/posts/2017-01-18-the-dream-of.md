@@ -1,11 +1,10 @@
 +++
 url = "/2017/01/18/the-dream-of.html"
-title = ""
 date = "2017-01-18T23:00:00+00:00"
 slug = "the-dream-of"
 tags = ["retalls"]
 x_url = "http://venturebeat.com/2017/01/10/inside-project-ara-googles-revolutionary-modular-phone/"
-x_title = "The dream of Ara: Inside the rise and fall of the world's most revolutionary phone"
+title = "The dream of Ara: Inside the rise and fall of the world's most revolutionary phone"
 x_source = ""
 +++
 

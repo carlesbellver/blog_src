@@ -1,11 +1,10 @@
 +++
 url = "/2020/09/29/nicholas-carr-what.html"
-title = ""
 date = "2020-09-29T17:38:00+00:00"
 slug = "nicholas-carr-what"
 tags = ["retalls"]
 x_url = "http://www.roughtype.com/?p=8528"
-x_title = "What is it like to be a smartphone?"
+title = "What is it like to be a smartphone?"
 x_source = "Nicholas Carr"
 +++
 

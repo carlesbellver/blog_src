@@ -1,11 +1,10 @@
 +++
 url = "/2019/02/17/dolphins-seem-to.html"
-title = ""
 date = "2019-02-17T10:29:00+00:00"
 slug = "dolphins-seem-to"
 tags = ["retalls", "drogues"]
 x_url = "https://www.smithsonianmag.com/smart-news/dolphins-seem-to-use-toxic-pufferfish-to-get-high-180948219/"
-x_title = "Dolphins Seem to Use Toxic Pufferfish to Get High"
+title = "Dolphins Seem to Use Toxic Pufferfish to Get High"
 x_source = ""
 +++
 

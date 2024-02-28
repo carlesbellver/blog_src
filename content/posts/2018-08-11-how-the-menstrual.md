@@ -1,11 +1,10 @@
 +++
 url = "/2018/08/11/how-the-menstrual.html"
-title = ""
 date = "2018-08-11T23:57:00+00:00"
 slug = "how-the-menstrual"
 tags = ["retalls"]
 x_url = "http://www.bbc.com/future/story/20180806-how-the-menstrual-cycle-changes-womens-brains-every-month"
-x_title = "How the menstrual cycle changes women’s brains – for better"
+title = "How the menstrual cycle changes women’s brains – for better"
 x_source = ""
 +++
 

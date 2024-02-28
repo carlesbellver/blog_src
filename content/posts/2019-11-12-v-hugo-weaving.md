@@ -1,11 +1,10 @@
 +++
 url = "/2019/11/12/v-hugo-weaving.html"
-title = ""
 date = "2019-11-12T18:38:00+00:00"
 slug = "v-hugo-weaving"
 tags = ["retalls"]
 x_url = "https://www.lavanguardia.com/politica/20191104/471354816385/joker-v-de-vendetta-campana-electoral-barcelona.html"
-x_title = "Barcelona de Fawkes, Barcelona de Fleck"
+title = "Barcelona de Fawkes, Barcelona de Fleck"
 x_source = "Pedro Vallín"
 +++
 

@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-06-14T18:56:28+02:00"
 tags = ["citacions"]
 slug = "ana-maria-shua"
 syndication = []
-x_title = "Es pura literatura"
+title = "Es pura literatura"
 x_source = "Ana María Shua"
 +++
 

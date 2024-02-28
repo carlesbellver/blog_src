@@ -1,6 +1,5 @@
 +++
 url = "/2017/01/06/john-berger-lesperana.html"
-title = ""
 date = "2017-01-06T23:00:00+00:00"
 slug = "john-berger-lesperana"
 tags = ["citacions"]

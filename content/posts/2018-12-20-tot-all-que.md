@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/20/tot-all-que.html"
-title = ""
 date = "2018-12-20T12:14:00+00:00"
 slug = "tot-all-que"
 tags = ["retalls"]
 x_url = "https://metode.cat/revistes-metode/article/tot-allo-que-saben-de-nosaltres.html"
-x_title = "Tot allò que saben de nosaltres"
+title = "Tot allò que saben de nosaltres"
 x_source = ""
 +++
 

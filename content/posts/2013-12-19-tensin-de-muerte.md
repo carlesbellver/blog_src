@@ -1,6 +1,5 @@
 +++
 url = "/2013/12/19/tensin-de-muerte.html"
-title = ""
 date = "2013-12-19T23:00:00+00:00"
 slug = "tensin-de-muerte"
 tags = ["fotos"]

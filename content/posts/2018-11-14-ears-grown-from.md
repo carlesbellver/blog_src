@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/14/ears-grown-from.html"
-title = ""
 date = "2018-11-14T16:12:00+00:00"
 slug = "ears-grown-from"
 tags = ["retalls"]
 x_url = "https://singularityhub.com/2018/11/13/an-ear-grown-from-apples-why-the-key-to-tissue-engineering-could-be-plants/"
-x_title = "Ears Grown From Apples? The Promise of Plants for Engineering Human Tissue"
+title = "Ears Grown From Apples? The Promise of Plants for Engineering Human Tissue"
 x_source = ""
 +++
 

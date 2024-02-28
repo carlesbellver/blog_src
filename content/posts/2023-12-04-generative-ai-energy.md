@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-12-04T11:33:29+01:00"
 tags = ["retalls"]
 slug = "generative-ai-energy"
 x_url = "https://www.technologyreview.com/2023/12/01/1084189/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/"
-x_title = "Making an image with generative AI uses as much energy as charging your phone"
+title = "Making an image with generative AI uses as much energy as charging your phone"
 x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/111521492548382212"]
 +++

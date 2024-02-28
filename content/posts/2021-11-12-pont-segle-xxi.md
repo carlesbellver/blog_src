@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2021-11-10T17:31:36+01:00"
 tags = ["fotos", "Castelló"]
 photos = ["/uploads/2021/2021-11-10-pont-segle-xxi.jpg"]

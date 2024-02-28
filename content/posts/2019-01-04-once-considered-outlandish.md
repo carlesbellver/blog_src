@@ -1,11 +1,10 @@
 +++
 url = "/2019/01/04/once-considered-outlandish.html"
-title = ""
 date = "2019-01-04T17:10:00+00:00"
 slug = "once-considered-outlandish"
 tags = ["retalls"]
 x_url = "https://www.sciencemag.org/news/2019/01/once-considered-outlandish-idea-plants-help-their-relatives-taking-root"
-x_title = "Once considered outlandish, the idea that plants help their relatives is taking root"
+title = "Once considered outlandish, the idea that plants help their relatives is taking root"
 x_source = ""
 +++
 

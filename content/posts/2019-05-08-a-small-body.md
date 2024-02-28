@@ -1,11 +1,10 @@
 +++
 url = "/2019/05/08/a-small-body.html"
-title = ""
 date = "2019-05-08T14:06:00+00:00"
 slug = "a-small-body"
 tags = ["retalls"]
 x_url = "https://www.nytimes.com/2019/05/06/health/conference-room-air.html"
-x_title = "Is Conference Room Air Making You Dumber?"
+title = "Is Conference Room Air Making You Dumber?"
 x_source = ""
 +++
 

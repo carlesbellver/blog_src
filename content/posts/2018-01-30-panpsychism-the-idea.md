@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/30/panpsychism-the-idea.html"
-title = ""
 date = "2018-01-30T12:23:00+00:00"
 slug = "panpsychism-the-idea"
 tags = ["retalls"]
 x_url = "https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/"
-x_title = "Panpsychism: The idea that consciousness is a fundamental feature of physical matter is gaining academic credibility"
+title = "Panpsychism: The idea that consciousness is a fundamental feature of physical matter is gaining academic credibility"
 x_source = ""
 +++
 

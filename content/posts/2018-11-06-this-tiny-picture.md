@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/06/this-tiny-picture.html"
-title = ""
 date = "2018-11-06T10:40:00+00:00"
 slug = "this-tiny-picture"
 tags = ["retalls"]
 x_url = "https://motherboard.vice.com/en_us/article/bj4wxm/tiny-picture-twitter-complete-works-of-shakespeare-steganography"
-x_title = "This Tiny Picture on Twitter Contains the Complete Works of Shakespeare"
+title = "This Tiny Picture on Twitter Contains the Complete Works of Shakespeare"
 x_source = ""
 +++
 

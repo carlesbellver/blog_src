@@ -1,11 +1,10 @@
 +++
 url = "/2018/03/28/redirect-fb-algorithms.html"
-title = ""
 date = "2018-03-28T16:10:00+00:00"
 slug = "redirect-fb-algorithms"
 tags = ["retalls"]
 x_url = "http://ignatiawebs.blogspot.com.es/2018/03/redirect-fb-algorithms-now-and-4.html"
-x_title = "Redirect FB algorithms now and 4 lessons from Cambridge Analytica"
+title = "Redirect FB algorithms now and 4 lessons from Cambridge Analytica"
 x_source = ""
 +++
 

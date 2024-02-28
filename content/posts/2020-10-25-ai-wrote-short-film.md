@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2020-10-25T09:34:08+01:00"
 tags = ["retalls"]
 slug = "ai-wrote-short-film"
 x_url = "https://singularityhub.com/2020/10/23/an-ai-wrote-this-short-film-and-its-sort-of-fascinating/"
-x_title = "OpenAI's GPT-3 Wrote This Short Film—Even the Twist at the End"
+title = "OpenAI's GPT-3 Wrote This Short Film—Even the Twist at the End"
 x_source = ""
 +++
 

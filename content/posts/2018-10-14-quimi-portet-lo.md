@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/14/quimi-portet-lo.html"
-title = ""
 date = "2018-10-14T18:48:00+00:00"
 slug = "quimi-portet-lo"
 tags = ["retalls"]
 x_url = "https://www.jotdown.es/2018/10/quimi-portet-lo-que-yo-siempre-he-hecho-es-musica-popular-contemporanea-no-hago-rock-ni-blues-ni-ska-ni-musica-popular-catalana/"
-x_title = "Quimi Portet: «Lo que yo siempre he hecho es música popular contemporánea»"
+title = "Quimi Portet: «Lo que yo siempre he hecho es música popular contemporánea»"
 x_source = ""
 +++
 

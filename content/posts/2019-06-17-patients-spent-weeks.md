@@ -1,11 +1,10 @@
 +++
 url = "/2019/06/17/patients-spent-weeks.html"
-title = ""
 date = "2019-06-17T13:52:00+00:00"
 slug = "patients-spent-weeks"
 tags = ["retalls"]
 x_url = "https://www.amusingplanet.com/2019/06/cunningham-sanitarium.html"
-x_title = "Cunningham Sanitarium"
+title = "Cunningham Sanitarium"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2020/06/14/art-kavanagh-posts.html"
-title = ""
 date = "2020-06-14T18:14:00+00:00"
 slug = "art-kavanagh-posts"
 tags = ["retalls"]
 x_url = "https://www.artkavanagh.ie/aphantasia-posts.html"
-x_title = "Art Kavanagh posts about aphantasia"
+title = "Art Kavanagh posts about aphantasia"
 x_source = ""
 +++
 

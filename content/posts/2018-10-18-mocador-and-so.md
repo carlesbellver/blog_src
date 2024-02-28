@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/18/mocador-and-so.html"
-title = ""
 date = "2018-10-18T09:14:00+00:00"
 slug = "mocador-and-so"
 tags = ["retalls"]
 x_url = "https://www.atlasobscura.com/foods/mocadora"
-x_title = "Mocadorà"
+title = "Mocadorà"
 x_source = ""
 +++
 

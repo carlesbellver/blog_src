@@ -1,11 +1,10 @@
 +++
 url = "/2019/02/13/the-real-reason.html"
-title = ""
 date = "2019-02-13T15:04:00+00:00"
 slug = "the-real-reason"
 tags = ["retalls"]
 x_url = "https://www.technologyreview.com/s/612874/the-real-reason-america-is-scared-of-huawei-internet-connected-everything/"
-x_title = "The real reason America is scared of Huawei: internet-connected everything"
+title = "The real reason America is scared of Huawei: internet-connected everything"
 x_source = ""
 +++
 

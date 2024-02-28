@@ -1,11 +1,10 @@
 +++
 url = "/2014/12/26/la-desmercantilizacin-de.html"
-title = ""
 date = "2014-12-26T23:00:00+00:00"
 slug = "la-desmercantilizacin-de"
 tags = ["retalls"]
 x_url = "http://www.sinpermiso.info/textos/index.php?id=7584"
-x_title = "El precariado ante el espejo. “Tengo que ponerme en tu pellejo”"
+title = "El precariado ante el espejo. “Tengo que ponerme en tu pellejo”"
 x_source = "Guy Standing"
 +++
 

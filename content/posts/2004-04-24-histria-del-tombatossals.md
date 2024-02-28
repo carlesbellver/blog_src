@@ -1,6 +1,5 @@
 +++
 url = "/2004/04/24/histria-del-tombatossals.html"
-title = ""
 date = "2004-04-24T23:00:00+00:00"
 slug = "histria-del-tombatossals"
 +++

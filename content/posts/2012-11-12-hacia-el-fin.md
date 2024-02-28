@@ -1,11 +1,10 @@
 +++
 url = "/2012/11/12/hacia-el-fin.html"
-title = ""
 date = "2012-11-12T23:00:00+00:00"
 slug = "hacia-el-fin"
 tags = ["retalls"]
 x_url = "http://cultura.elpais.com/cultura/2012/11/09/actualidad/1352470952_766370.html"
-x_title = "Hacia el fin de la crueldad"
+title = "Hacia el fin de la crueldad"
 x_source = ""
 +++
 

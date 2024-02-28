@@ -1,11 +1,10 @@
 +++
 url = "/2017/12/18/cmo-sera-espaa.html"
-title = ""
 date = "2017-12-18T09:31:00+00:00"
 slug = "cmo-sera-espaa"
 tags = ["retalls"]
 x_url = "https://www.elsaltodiario.com/opinion/jorge-armesto-como-seria-espana-sin-el-nacionalismo-espanol"
-x_title = "¿Cómo sería España sin el nacionalismo español?"
+title = "¿Cómo sería España sin el nacionalismo español?"
 x_source = ""
 +++
 

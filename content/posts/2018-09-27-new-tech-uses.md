@@ -1,11 +1,10 @@
 +++
 url = "/2018/09/27/new-tech-uses.html"
-title = ""
 date = "2018-09-27T12:07:00+00:00"
 slug = "new-tech-uses"
 tags = ["retalls"]
 x_url = "https://techcrunch.com/2018/09/25/new-tech-uses-wi-fi-to-count-people-through-walls/"
-x_title = "Una nova tecnologia utilitza la wifi per comptar gent a través de les parets"
+title = "Una nova tecnologia utilitza la wifi per comptar gent a través de les parets"
 x_source = ""
 +++
 

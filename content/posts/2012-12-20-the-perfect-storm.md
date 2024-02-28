@@ -1,11 +1,10 @@
 +++
 url = "/2012/12/20/the-perfect-storm.html"
-title = ""
 date = "2012-12-20T23:00:00+00:00"
 slug = "the-perfect-storm"
 tags = ["retalls"]
 x_url = "http://popenici.com/2012/12/03/storm/"
-x_title = "The Perfect Storm for Universities"
+title = "The Perfect Storm for Universities"
 x_source = ""
 +++
 

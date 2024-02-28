@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-06-28T21:50:09+02:00"
 tags = ["retalls", "citacions"]
 slug = "primo-levi"
 x_url = "http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments"
-x_title = "“Primo Levi’s Last Moments”"
+title = "“Primo Levi’s Last Moments”"
 x_source = "Diego Gambetta"
 +++
 

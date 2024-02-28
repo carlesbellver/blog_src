@@ -13,8 +13,6 @@
         "id": "{{ .Permalink | relURL }}",
         {{- if .Title }}
         "title": {{ .Title | jsonify }},
-        {{- else if .Params.x_title }}
-        "title": {{ if .Params.x_source -}}{{ printf "%s [%s]" .Params.x_title .Params.x_source | jsonify }}{{ else -}}{{ .Params.x_title | jsonify }}{{ end -}},
         {{- end }}
         "date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
         "url": "{{ .Permalink | relURL }}",

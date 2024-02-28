@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/28/six-myths-about.html"
-title = ""
 date = "2018-11-28T22:37:00+00:00"
 slug = "six-myths-about"
 tags = ["retalls"]
 x_url = "http://blogs.lse.ac.uk/parenting4digitalfuture/2018/10/10/six-myths-about-children-in-the-digital-age/"
-x_title = "Six myths about children in the digital age"
+title = "Six myths about children in the digital age"
 x_source = ""
 +++
 

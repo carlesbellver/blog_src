@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/08/martin-rees-un.html"
-title = ""
 date = "2018-12-08T20:25:00+00:00"
 slug = "martin-rees-un"
 tags = ["retalls"]
 x_url = "https://blocs.mesvilaweb.cat/vicent/?p=270024"
-x_title = "Martin Rees, un “mortista antiquat”"
+title = "Martin Rees, un “mortista antiquat”"
 x_source = ""
 +++
 

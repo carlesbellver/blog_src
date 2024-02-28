@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/27/kola-superdeep-borehole.html"
-title = ""
 date = "2018-12-27T08:21:00+00:00"
 slug = "kola-superdeep-borehole"
 tags = ["retalls"]
 x_url = "http://www.amusingplanet.com/2018/12/kola-superdeep-borehole.html"
-x_title = "Kola Superdeep Borehole"
+title = "Kola Superdeep Borehole"
 x_source = ""
 +++
 

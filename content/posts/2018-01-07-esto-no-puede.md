@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/07/esto-no-puede.html"
-title = ""
 date = "2018-01-07T17:57:00+00:00"
 slug = "esto-no-puede"
 tags = ["retalls"]
 x_url = "http://m.eldiario.es/zonacritica/puede-acabar-bien_6_726587345.html"
-x_title = "Esto no puede acabar bien nunca"
+title = "Esto no puede acabar bien nunca"
 x_source = "Javier Pérez Royo"
 +++
 

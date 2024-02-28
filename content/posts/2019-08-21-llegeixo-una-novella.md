@@ -1,6 +1,5 @@
 +++
 url = "/2019/08/21/llegeixo-una-novella.html"
-title = ""
 date = "2019-08-21T09:14:37+00:00"
 slug = "llegeixo-una-novella"
 tags = ["ressenyes"]

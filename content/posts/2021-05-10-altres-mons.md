@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2021-05-10T19:05:05+02:00"
 tags = []
 slug = "altres-mons"

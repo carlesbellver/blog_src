@@ -1,6 +1,5 @@
 +++
 url = "/2020/05/30/el-darrer-somni.html"
-title = ""
 date = "2020-05-30T06:32:59+00:00"
 slug = "el-darrer-somni"
 tags = ["UJI"]

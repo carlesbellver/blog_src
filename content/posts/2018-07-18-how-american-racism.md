@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/18/how-american-racism.html"
-title = ""
 date = "2018-07-18T23:16:00+00:00"
 slug = "how-american-racism"
 tags = ["retalls"]
 x_url = "https://www.newyorker.com/magazine/2018/04/30/how-american-racism-influenced-hitler/amp"
-x_title = "How American Racism Influenced Hitler"
+title = "How American Racism Influenced Hitler"
 x_source = ""
 +++
 

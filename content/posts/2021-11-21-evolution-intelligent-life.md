@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-11-21T19:32:38+01:00"
 tags = ["retalls"]
 slug = "evolution-intelligent-life"
 x_url = "https://singularityhub.com/2021/11/21/evolution-tells-us-we-might-be-the-only-intelligent-life-in-the-universe/"
-x_title = "Evolution Tells Us We Might Be the Only Intelligent Life in the Universe"
+title = "Evolution Tells Us We Might Be the Only Intelligent Life in the Universe"
 x_source = ""
 +++
 

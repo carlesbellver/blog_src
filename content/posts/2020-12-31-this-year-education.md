@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2020-12-31T10:35:37+01:00"
 tags = ["retalls", "educació"]
 slug = "this-year-education"
 x_url = "http://hackeducation.com/2020/12/30/fuck-this-year"
-x_title = "Remember This Year"
+title = "Remember This Year"
 x_source = ""
 +++
 

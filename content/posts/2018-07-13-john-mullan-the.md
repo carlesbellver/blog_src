@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/13/john-mullan-the.html"
-title = ""
 date = "2018-07-13T13:30:00+00:00"
 slug = "john-mullan-the"
 tags = ["retalls"]
 x_url = "https://web.archive.org/web/20180626234251/https://www.bl.uk/romantics-and-victorians/articles/the-origins-of-the-gothic"
-x_title = "John Mullan: The origins of the Gothic"
+title = "John Mullan: The origins of the Gothic"
 x_source = "[archived]"
 +++
 

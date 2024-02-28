@@ -1,6 +1,5 @@
 +++
 url = "/2019/12/12/unicorns-portada-original.html"
-title = ""
 date = "2019-12-12T08:00:06+00:00"
 slug = "unicorns-portada-original"
 tags = ["fotos"]

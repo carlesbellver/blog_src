@@ -1,11 +1,10 @@
 +++
 url = "/2020/03/25/el-projecte-va.html"
-title = ""
 date = "2020-03-25T07:29:18+00:00"
 slug = "el-projecte-va"
 tags = ["retalls"]
 x_url = "https://www.xataka.com/moviles/provincia-a-provincia-grupos-al-15-personas-asi-funciona-seguimiento-ciudadanos-operadoras"
-x_title = "De provincia a provincia y con grupos de al menos 15 personas: así funciona el seguimiento de los ciudadanos por las operadoras"
+title = "De provincia a provincia y con grupos de al menos 15 personas: así funciona el seguimiento de los ciudadanos por las operadoras"
 x_source = ""
 +++
 

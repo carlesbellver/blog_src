@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2023-10-11T18:30:26+02:00"
 tags = ["fotos"]
 photos = ["/uploads/2023/2023-10-11-nit-mil-dos.jpg"]

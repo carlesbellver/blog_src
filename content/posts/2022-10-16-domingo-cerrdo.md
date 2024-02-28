@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2022-10-16T17:18:38+02:00"
 tags = ["fotos"]
 photos = ["/uploads/2022/2022-10-16-domingo-cerrdo.jpg"]

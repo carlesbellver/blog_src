@@ -1,11 +1,10 @@
 +++
 url = "/2019/09/18/creo-que-estamos.html"
-title = ""
 date = "2019-09-18T15:04:00+00:00"
 slug = "creo-que-estamos"
 tags = ["retalls"]
 x_url = "https://www.eldiario.es/internacional/gobiernos-empezando-autoridad-plataformas-tecnologicas_0_942806555.html"
-x_title = "Edward Snowden: “Los gobiernos están empezando a delegar su autoridad a las grandes plataformas tecnológicas”"
+title = "Edward Snowden: “Los gobiernos están empezando a delegar su autoridad a las grandes plataformas tecnológicas”"
 x_source = ""
 +++
 

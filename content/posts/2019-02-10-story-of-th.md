@@ -1,11 +1,10 @@
 +++
 url = "/2019/02/10/story-of-th.html"
-title = ""
 date = "2019-02-10T18:57:00+00:00"
 slug = "story-of-th"
 tags = ["retalls"]
 x_url = "https://www.churchtimes.co.uk/articles/2019/8-february/news/uk/story-of-14th-century-nun-who-faked-her-own-death-to-escape-from-a-convent-in-york-is-unearthed"
-x_title = "Story of 14th century nun who faked her own death to escape from a convent in York is unearthed"
+title = "Story of 14th century nun who faked her own death to escape from a convent in York is unearthed"
 x_source = ""
 +++
 

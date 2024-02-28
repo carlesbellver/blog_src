@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2020-09-16T21:40:00"
 tags = []
 slug = "fins-on-cal-corregir"
 x_url = "https://www.catorze.cat/biblioteca/fins-cal-corregir-72840/"
-x_title = "Fins on cal corregir?"
+title = "Fins on cal corregir?"
 x_source = "Catorze.cat"
 syndication = []
 +++

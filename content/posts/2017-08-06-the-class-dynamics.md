@@ -1,11 +1,10 @@
 +++
 url = "/2017/08/06/the-class-dynamics.html"
-title = ""
 date = "2017-08-06T11:36:00+00:00"
 slug = "the-class-dynamics"
 tags = ["retalls"]
 x_url = "https://qz.com/1034016/the-class-dynamics-of-breastfeeding-in-the-united-states-of-america/"
-x_title = "The class dynamics of breastfeeding in the United States of America"
+title = "The class dynamics of breastfeeding in the United States of America"
 x_source = ""
 +++
 

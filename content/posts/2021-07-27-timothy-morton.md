@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-07-27T18:29:31+02:00"
 tags = ["retalls"]
 slug = "timothy-morton"
 x_url = "https://www.lavanguardia.com/cultura/20210727/7626653/ecologia-naturaleza-timothy-morton-eficiencia-creatividad-trump-arte-futuro-fascismo.html"
-x_title = "Timothy Morton: “Al hablar de ecología hacemos sentir a la gente estúpida y malvada todo el tiempo”"
+title = "Timothy Morton: “Al hablar de ecología hacemos sentir a la gente estúpida y malvada todo el tiempo”"
 x_source = ""
 +++
 

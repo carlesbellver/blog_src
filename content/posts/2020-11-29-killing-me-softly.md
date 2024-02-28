@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2020-11-29T09:39:03+01:00"
 tags = ["retalls"]
 slug = "killing-me-softly"
 x_url = "https://chelseahotel.blog/killing-me-softly/"
-x_title = "Killing Me Softly"
+title = "Killing Me Softly"
 x_source = "ChelseaHotel.blog"
 +++
 

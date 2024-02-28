@@ -1,6 +1,5 @@
 +++
 url = "/2019/11/16/valncia-plaa-del.html"
-title = ""
 date = "2019-11-16T12:48:44+00:00"
 slug = "valncia-plaa-del"
 tags = ["fotos"]

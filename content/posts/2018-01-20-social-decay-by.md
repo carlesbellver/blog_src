@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/20/social-decay-by.html"
-title = ""
 date = "2018-01-20T10:29:00+00:00"
 slug = "social-decay-by"
 tags = ["retalls"]
 x_url = "https://www.behance.net/gallery/52646779/Social-Decay"
-x_title = "Social Decay by Andrei Lacatusu"
+title = "Social Decay by Andrei Lacatusu"
 x_source = ""
 +++
 

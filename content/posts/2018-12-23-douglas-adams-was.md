@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/23/douglas-adams-was.html"
-title = ""
 date = "2018-12-23T20:01:00+00:00"
 slug = "douglas-adams-was"
 tags = ["retalls"]
 x_url = "https://arstechnica.com/gadgets/2018/12/douglas-adams-was-right-get-ready-to-talk-with-digital-personalities/"
-x_title = "Douglas Adams was right: “Genuine people personalities” are coming to our gadgets"
+title = "Douglas Adams was right: “Genuine people personalities” are coming to our gadgets"
 x_source = ""
 +++
 

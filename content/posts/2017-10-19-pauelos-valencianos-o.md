@@ -1,11 +1,10 @@
 +++
 url = "/2017/10/19/pauelos-valencianos-o.html"
-title = ""
 date = "2017-10-19T09:47:00+00:00"
 slug = "pauelos-valencianos-o"
 tags = ["retalls"]
 x_url = "http://ctxt.es/es/20171004/Firmas/15479/valencia-nou-d'octubre-ultraderecha-ctxt.htm"
-x_title = "Pañuelos valencianos o cerrojos turcos"
+title = "Pañuelos valencianos o cerrojos turcos"
 x_source = ""
 +++
 

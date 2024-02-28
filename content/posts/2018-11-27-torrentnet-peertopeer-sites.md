@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/27/torrentnet-peertopeer-sites.html"
-title = ""
 date = "2018-11-27T08:49:00+00:00"
 slug = "torrentnet-peertopeer-sites"
 tags = ["retalls"]
 x_url = "https://medium.com/@lmatteis/torrentnet-bd4f6dab15e4"
-x_title = "TorrentNet"
+title = "TorrentNet"
 x_source = ""
 +++
 

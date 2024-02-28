@@ -1,6 +1,5 @@
 +++
 url = "/2020/08/12/san-lifard-dorleans.html"
-title = ""
 date = "2020-08-12T17:00:00+00:00"
 slug = "san-lifard-dorleans"
 +++

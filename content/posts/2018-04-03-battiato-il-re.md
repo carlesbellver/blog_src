@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/03/battiato-il-re.html"
-title = ""
 date = "2018-04-03T22:56:00+00:00"
 slug = "battiato-il-re"
 tags = ["retalls"]
 x_url = "http://www.musicaememoria.com/Battiato-ReMondo.htm"
-x_title = "Battiato: Il re del mondo"
+title = "Battiato: Il re del mondo"
 x_source = ""
 +++
 

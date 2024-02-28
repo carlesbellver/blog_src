@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-11-09T18:48:13+01:00"
 tags = ["retalls"]
 slug = "museum-forgeries-andy-warhol"
 x_url = "https://moforgeries.org/?mc_cid=cf06f5ec38&mc_eid=ba93faa1c4"
-x_title = "“Possibly Real Copy Of ‘Fairies’ by Andy Warhol” BY MSCHF, 2021"
+title = "“Possibly Real Copy Of ‘Fairies’ by Andy Warhol” BY MSCHF, 2021"
 x_source = ""
 +++
 

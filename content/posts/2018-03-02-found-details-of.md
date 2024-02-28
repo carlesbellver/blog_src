@@ -1,11 +1,10 @@
 +++
 url = "/2018/03/02/found-details-of.html"
-title = ""
 date = "2018-03-02T08:58:00+00:00"
 slug = "found-details-of"
 tags = ["retalls"]
 x_url = "https://www.atlasobscura.com/articles/picasso-tallest-concrete-sculpture-florida"
-x_title = "Found: Details of Picasso's Plan for His Most Massive Work of Art"
+title = "Found: Details of Picasso's Plan for His Most Massive Work of Art"
 x_source = ""
 +++
 

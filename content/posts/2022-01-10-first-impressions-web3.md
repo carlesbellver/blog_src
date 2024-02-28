@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-01-10T17:31:26+01:00"
 tags = ["retalls"]
 slug = "first-impressions-web3"
 x_url = "https://moxie.org/2022/01/07/web3-first-impressions.html"
-x_title = "My first impressions of web3"
+title = "My first impressions of web3"
 x_source = "Moxie Marlinspike"
 +++
 

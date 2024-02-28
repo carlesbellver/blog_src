@@ -5,7 +5,6 @@ date = "2014-01-20T23:00:00+00:00"
 slug = "entrevista-amb-un"
 tags = ["retalls", "educació"]
 x_url = "http://elpais.com/elpais/2014/01/17/eps/1389957867_975072.html"
-x_title = "“Las apuestas arriesgadas definen el futuro y permiten hacerlo nuestro”"
 x_source = ""
 +++
 

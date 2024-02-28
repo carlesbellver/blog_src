@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/05/blockchain-study-finds.html"
-title = ""
 date = "2018-12-05T22:46:00+00:00"
 slug = "blockchain-study-finds"
 tags = ["retalls"]
 x_url = "https://www.theregister.co.uk/AMP/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/"
-x_title = "Blockchain study finds 0.00% success rate and vendors don't call back when asked for evidence"
+title = "Blockchain study finds 0.00% success rate and vendors don't call back when asked for evidence"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/30/harrison-schmitt-el.html"
-title = ""
 date = "2018-01-30T12:24:00+00:00"
 slug = "harrison-schmitt-el"
 tags = ["retalls"]
 x_url = "http://www.microsiervos.com/archivo/espacio/harrison-schmidt-astronauta-alergico-luna.html"
-x_title = "Harrison Schmitt, el astronauta que resultó ser alérgico a la Luna"
+title = "Harrison Schmitt, el astronauta que resultó ser alérgico a la Luna"
 x_source = ""
 +++
 

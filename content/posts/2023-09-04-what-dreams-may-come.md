@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-09-04T08:37:00"
 tags = ["ressenyes"]
 slug = "what-dreams-may-come"
 x_url = ""
-x_title = "What dreams may come"
+title = "What dreams may come"
 x_source = "Richard Matheson"
 syndication = []
 +++

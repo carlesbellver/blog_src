@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/20/wombats-cubedshaped-poop.html"
-title = ""
 date = "2018-11-20T07:32:00+00:00"
 slug = "wombats-cubedshaped-poop"
 tags = ["retalls"]
 x_url = "https://qz.com/1468534/wombats-cubed-shaped-poop-could-solve-a-manufacturing-mystery/"
-x_title = "Wombat's cubed-shaped poop could solve a manufacturing mystery"
+title = "Wombat's cubed-shaped poop could solve a manufacturing mystery"
 x_source = ""
 +++
 

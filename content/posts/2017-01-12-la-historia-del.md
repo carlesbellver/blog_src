@@ -1,11 +1,10 @@
 +++
 url = "/2017/01/12/la-historia-del.html"
-title = ""
 date = "2017-01-12T17:01:00+00:00"
 slug = "la-historia-del"
 tags = ["retalls"]
 x_url = "http://www.eldiario.es/theguardian/Trump-Putin-aeropuerto-espionaje_0_600890031.html"
-x_title = "La historia del informe sobre Trump: fuentes secretas, un encuentro en un aeropuerto y John McCain"
+title = "La historia del informe sobre Trump: fuentes secretas, un encuentro en un aeropuerto y John McCain"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2019/01/22/els-fantasmes-del.html"
-title = ""
 date = "2019-01-22T09:35:00+00:00"
 slug = "els-fantasmes-del"
 tags = ["retalls"]
 x_url = "https://enarchenhologos.blogspot.com/2019/01/els-fantasmes-del-parc-del-laberint.html"
-x_title = "Els fantasmes del Parc del Laberint d'Horta"
+title = "Els fantasmes del Parc del Laberint d'Horta"
 x_source = ""
 +++
 

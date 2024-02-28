@@ -1,11 +1,10 @@
 +++
 url = "/2019/04/09/the-technology-of.html"
-title = ""
 date = "2019-04-09T12:12:56+00:00"
 slug = "the-technology-of"
 tags = ["retalls"]
 x_url = "https://www.wired.com/story/coding-is-for-everyoneas-long-as-you-speak-english/"
-x_title = "Coding Is for Everyone—as Long as You Speak English"
+title = "Coding Is for Everyone—as Long as You Speak English"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2019/07/27/en-espaa-el.html"
-title = ""
 date = "2019-07-27T10:47:52+00:00"
 slug = "en-espaa-el"
 tags = ["retalls"]
 x_url = "https://ctxt.es/es/20190724/Firmas/27571/Editorial-investidura-cordon-sanitario-podemos-nacionalistas-PSOE-Sanchez.htm"
-x_title = "Cordón sanitario a Podemos (y nacionalistas)"
+title = "Cordón sanitario a Podemos (y nacionalistas)"
 x_source = "Editorial CTXT"
 +++
 

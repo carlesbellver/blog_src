@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-02-24T07:25:35+01:00"
 tags = ["retalls"]
 slug = "software-bug-arizona-prisons"
 x_url = "https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release"
-x_title = "Whistleblowers: Software Bug Keeping Some Inmates In Prisons Beyond Release Dates"
+title = "Whistleblowers: Software Bug Keeping Some Inmates In Prisons Beyond Release Dates"
 x_source = ""
 +++
 

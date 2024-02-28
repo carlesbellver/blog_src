@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2022-05-06 19:07:01"
 tags = ["fotos", "Castelló"]
 slug = "fusteries"

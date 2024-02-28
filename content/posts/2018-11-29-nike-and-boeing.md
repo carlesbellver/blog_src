@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/29/nike-and-boeing.html"
-title = ""
 date = "2018-11-29T07:28:00+00:00"
 slug = "nike-and-boeing"
 tags = ["retalls"]
 x_url = "https://medium.com/s/thenewnew/nike-and-boeing-are-paying-sci-fi-writers-to-predict-their-futures-fdc4b6165fa4"
-x_title = "Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures"
+title = "Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures"
 x_source = ""
 +++
 

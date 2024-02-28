@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-10-30T09:56:55+02:00"
 tags = ["retalls"]
 slug = "carr-fix-social-media"
 x_url = "https://www.thenewatlantis.com/publications/how-to-fix-social-media"
-x_title = "How to Fix Social Media"
+title = "How to Fix Social Media"
 x_source = "Nicholas Carr"
 +++
 

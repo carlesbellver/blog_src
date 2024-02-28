@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2022-03-13T10:48:55+01:00"
 tags = []
 slug = "gemutlichkeit"

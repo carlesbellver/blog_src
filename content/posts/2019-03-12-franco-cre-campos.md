@@ -1,11 +1,10 @@
 +++
 url = "/2019/03/12/franco-cre-campos.html"
-title = ""
 date = "2019-03-12T08:39:00+00:00"
 slug = "franco-cre-campos"
 tags = ["retalls"]
 x_url = "https://www.eldiario.es/sociedad/Franco-campos-concentracion-Espana-calculado_0_876663097.html"
-x_title = "Franco creó 300 campos de concentración en España, un 50% más de lo calculado hasta ahora"
+title = "Franco creó 300 campos de concentración en España, un 50% más de lo calculado hasta ahora"
 x_source = ""
 +++
 

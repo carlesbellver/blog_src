@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-05-28T09:30:29+02:00"
 tags = ["ressenyes"]
 slug = "workoftime"
 x_url = ""
-x_title = "Great Work of Time"
+title = "Great Work of Time"
 x_source = "John Crowley"
 syndication = ["https://mastodon.social/@carlesbellver/110445931340241986"]
 +++

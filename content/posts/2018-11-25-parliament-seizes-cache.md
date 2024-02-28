@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/25/parliament-seizes-cache.html"
-title = ""
 date = "2018-11-25T12:39:00+00:00"
 slug = "parliament-seizes-cache"
 tags = ["retalls"]
 x_url = "https://www.theguardian.com/technology/2018/nov/24/mps-seize-cache-facebook-internal-papers"
-x_title = "Parliament seizes cache of Facebook internal papers"
+title = "Parliament seizes cache of Facebook internal papers"
 x_source = ""
 +++
 

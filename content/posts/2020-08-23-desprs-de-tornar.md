@@ -1,6 +1,5 @@
 +++
 url = "/2020/08/23/desprs-de-tornar.html"
-title = ""
 date = "2020-08-23T21:45:50+00:00"
 slug = "desprs-de-tornar"
 +++

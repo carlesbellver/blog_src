@@ -1,6 +1,5 @@
 +++
 url = "/2020/03/21/gnesi-la-diversitat.html"
-title = ""
 date = "2020-03-21T16:38:12+00:00"
 slug = "gnesi-la-diversitat"
 +++

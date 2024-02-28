@@ -1,11 +1,10 @@
 +++
 url = "/2018/09/28/facebook-is-giving.html"
-title = ""
 date = "2018-09-28T09:02:00+00:00"
 slug = "facebook-is-giving"
 tags = ["retalls"]
 x_url = "https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051"
-x_title = "Facebook Is Giving Advertisers Access to Your Shadow Contact Information"
+title = "Facebook Is Giving Advertisers Access to Your Shadow Contact Information"
 x_source = ""
 +++
 

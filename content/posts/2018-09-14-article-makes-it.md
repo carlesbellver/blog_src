@@ -1,11 +1,10 @@
 +++
 url = "/2018/09/14/article-makes-it.html"
-title = ""
 date = "2018-09-14T08:27:00+00:00"
 slug = "article-makes-it"
 tags = ["retalls"]
 x_url = "https://werd.io/view/5b993db9d3c9b266de19aa72"
-x_title = "Article 13 makes it official. It's time to embrace decentralization"
+title = "Article 13 makes it official. It's time to embrace decentralization"
 x_source = ""
 +++
 

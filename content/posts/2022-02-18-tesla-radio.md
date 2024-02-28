@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-02-18T18:32:08+01:00"
 tags = ["retalls"]
 slug = "tesla-radio"
 x_url = "https://quoteinvestigator.com/2022/02/15/radio/"
-x_title = "The Radio Is a Distraction and Keeps You from Concentrating"
+title = "The Radio Is a Distraction and Keeps You from Concentrating"
 x_source = ""
 +++
 

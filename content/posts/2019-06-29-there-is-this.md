@@ -1,11 +1,10 @@
 +++
 url = "/2019/06/29/there-is-this.html"
-title = ""
 date = "2019-06-29T18:12:00+00:00"
 slug = "there-is-this"
 tags = ["retalls", "citacions"]
 x_url = "https://www.downes.ca/post/69648"
-x_title = "L’altra gent"
+title = "L’altra gent"
 x_source = "OLDaily"
 +++
 

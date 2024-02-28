@@ -1,6 +1,5 @@
 +++
 url = "/2017/04/12/la-meva-prxima.html"
-title = ""
 date = "2017-04-12T22:00:00+00:00"
 slug = "la-meva-prxima"
 tags = ["contes"]

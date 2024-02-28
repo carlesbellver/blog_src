@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-04-10T16:32:09+02:00"
 tags = ["retalls"]
 slug = "7-whatsapp-alternatives"
 x_url = "https://protonmail.com/blog/whatsapp-alternatives/"
-x_title = "7 WhatsApp alternatives that won’t share your data with Facebook"
+title = "7 WhatsApp alternatives that won’t share your data with Facebook"
 x_source = ""
 +++
 

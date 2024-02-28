@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/05/sleeping-twice-a.html"
-title = ""
 date = "2018-04-05T09:42:00+00:00"
 slug = "sleeping-twice-a"
 tags = ["retalls"]
 x_url = "https://www.geek.com/science/sleeping-twice-a-day-is-better-healthier-and-more-natural-1735963/"
-x_title = "Sleeping Twice A Day is Better, Healthier, and More Natural"
+title = "Sleeping Twice A Day is Better, Healthier, and More Natural"
 x_source = ""
 +++
 

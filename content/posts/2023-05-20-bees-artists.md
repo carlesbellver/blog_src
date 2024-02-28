@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-05-20T19:37:30+02:00"
 tags = ["retalls"]
 slug = "bees-artists"
 x_url = "https://theconversation.com/bees-can-do-so-much-more-than-you-think-from-dancing-to-being-little-art-critics-204039"
-x_title = "Bees can do so much more than you think – from dancing to being little art critics"
+title = "Bees can do so much more than you think – from dancing to being little art critics"
 x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/110402218710203926"]
 +++

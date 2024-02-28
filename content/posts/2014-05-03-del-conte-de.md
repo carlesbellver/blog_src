@@ -4,7 +4,6 @@ title = "Del conte de fades i de la novel·la"
 date = "2014-05-03T22:00:00+00:00"
 slug = "del-conte-de"
 tags = ["ressenyes", "citacions"]
-x_title = "Clea"
 +++
 
 > Però per ventura no és la vida un conte de fades el sentit del qual se’ns va escapant a mesura que ens fem grans?

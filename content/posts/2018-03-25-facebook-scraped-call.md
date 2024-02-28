@@ -1,11 +1,10 @@
 +++
 url = "/2018/03/25/facebook-scraped-call.html"
-title = ""
 date = "2018-03-25T09:09:00+00:00"
 slug = "facebook-scraped-call"
 tags = ["retalls"]
 x_url = "https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/#p3"
-x_title = "Facebook scraped call, text message data for years from Android phones"
+title = "Facebook scraped call, text message data for years from Android phones"
 x_source = ""
 +++
 

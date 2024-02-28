@@ -1,11 +1,10 @@
 +++
 url = "/2015/04/11/spiegel-interview-with.html"
-title = ""
 date = "2015-04-11T22:00:00+00:00"
 slug = "spiegel-interview-with"
 tags = ["retalls"]
 x_url = "http://www.spiegel.de/international/zeitgeist/a-1023506.html"
-x_title = "SPIEGEL Interview with Slavoj Zizek"
+title = "SPIEGEL Interview with Slavoj Zizek"
 x_source = ""
 +++
 

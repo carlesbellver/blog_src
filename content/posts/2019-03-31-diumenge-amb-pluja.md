@@ -1,6 +1,5 @@
 +++
 url = "/2019/03/31/diumenge-amb-pluja.html"
-title = ""
 date = "2019-03-31T15:04:41+00:00"
 slug = "diumenge-amb-pluja"
 tags = ["fotos"]

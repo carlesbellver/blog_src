@@ -1,6 +1,5 @@
 +++
 url = "/2019/04/02/tiempos-modernos-horas.html"
-title = ""
 date = "2019-04-02T17:35:06+00:00"
 slug = "tiempos-modernos-horas"
 photos = ["/uploads/2019/7fb3118d5d.jpg"]

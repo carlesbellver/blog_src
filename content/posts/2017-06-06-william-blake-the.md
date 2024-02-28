@@ -1,11 +1,10 @@
 +++
 url = "/2017/06/06/william-blake-the.html"
-title = ""
 date = "2017-06-06T22:00:00+00:00"
 slug = "william-blake-the"
 tags = ["retalls"]
 x_url = "http://www.tate.org.uk/art/artworks/blake-the-ghost-of-a-flea-n05889"
-x_title = "William Blake: The Ghost of a Flea"
+title = "William Blake: The Ghost of a Flea"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2019/05/07/a-fi-dentrenar.html"
-title = ""
 date = "2019-05-07T09:47:00+00:00"
 slug = "a-fi-dentrenar"
 tags = ["retalls"]
 x_url = "https://www.reuters.com/article/us-facebook-ai/facebook-labels-posts-by-hand-posing-privacy-questions-idUSKCN1SC01T"
-x_title = "Facebook 'labels' posts by hand, posing privacy questions"
+title = "Facebook 'labels' posts by hand, posing privacy questions"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/24/cow-could-soon.html"
-title = ""
 date = "2018-04-24T09:18:00+00:00"
 slug = "cow-could-soon"
 tags = ["retalls"]
 x_url = "https://www.theguardian.com/science/2018/apr/20/cow-could-soon-be-largest-mammal-left-due-to-human-activity-study-says"
-x_title = "Cow could soon be largest land mammal left due to human activity"
+title = "Cow could soon be largest land mammal left due to human activity"
 x_source = ""
 +++
 

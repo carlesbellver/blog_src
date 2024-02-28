@@ -1,6 +1,5 @@
 +++
 url = "/2014/05/22/era-un-daquests.html"
-title = ""
 date = "2014-05-22T22:00:00+00:00"
 slug = "era-un-daquests"
 tags = ["citacions"]

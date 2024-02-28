@@ -1,6 +1,5 @@
 +++
 url = "/2019/04/02/la-famosainfame-e.html"
-title = ""
 date = "2019-04-02T06:37:04+00:00"
 slug = "la-famosainfame-e"
 tags = ["fotos"]

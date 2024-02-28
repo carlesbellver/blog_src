@@ -1,11 +1,10 @@
 +++
 url = "/2019/03/22/those-who-obeyed.html"
-title = ""
 date = "2019-03-22T20:02:00+00:00"
 slug = "those-who-obeyed"
 tags = ["retalls"]
 x_url = "http://www.spiegel.de/international/interview-with-anthropologist-richard-wrangham-a-1259252.html"
-x_title = "'Those Who Obeyed the Rules Were Favored by Evolution'"
+title = "'Those Who Obeyed the Rules Were Favored by Evolution'"
 x_source = ""
 +++
 

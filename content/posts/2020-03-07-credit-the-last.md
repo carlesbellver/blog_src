@@ -1,11 +1,10 @@
 +++
 url = "/2020/03/07/credit-the-last.html"
-title = ""
 date = "2020-03-07T18:41:00+00:00"
 slug = "credit-the-last"
 tags = ["retalls"]
 x_url = "https://quoteinvestigator.com/2020/03/06/three-plots/"
-x_title = "There Are Three Main Plots for the Human Interest Story: Boy-Meets-Girl, The Little Tailor, and The Man-Who-Learned-Better"
+title = "There Are Three Main Plots for the Human Interest Story: Boy-Meets-Girl, The Little Tailor, and The Man-Who-Learned-Better"
 x_source = ""
 +++
 

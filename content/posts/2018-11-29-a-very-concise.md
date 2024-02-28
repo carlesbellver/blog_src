@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/29/a-very-concise.html"
-title = ""
 date = "2018-11-29T14:31:00+00:00"
 slug = "a-very-concise"
 tags = ["retalls"]
 x_url = "http://digital-archaeology.org/a-concise-creative-history-of-computers/"
-x_title = "A (very) Concise Creative History of Computers"
+title = "A (very) Concise Creative History of Computers"
 x_source = ""
 +++
 

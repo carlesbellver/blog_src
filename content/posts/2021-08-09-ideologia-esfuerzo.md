@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-08-09T10:56:41+02:00"
 tags = ["retalls"]
 slug = "ideologia-esfuerzo"
 x_url = "https://elpais.com/sociedad/2014/01/12/actualidad/1389560466_742504.html"
-x_title = "La ideología del esfuerzo"
+title = "La ideología del esfuerzo"
 x_source = "José Moya Otero"
 +++
 

@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-10-27T18:35:15+02:00"
 tags = ["retalls"]
 slug = "medicamentos-fabulosos"
 x_url = "https://theconversation.com/carne-de-momia-y-cuerno-de-unicornio-los-magicos-origenes-de-la-farmacia-167683"
-x_title = "Carne de momia y cuerno de unicornio: los mágicos orígenes de la farmacia"
+title = "Carne de momia y cuerno de unicornio: los mágicos orígenes de la farmacia"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2018/02/15/why-rss-still.html"
-title = ""
 date = "2018-02-15T18:54:00+00:00"
 slug = "why-rss-still"
 tags = ["retalls"]
 x_url = "https://fieldguide.gizmodo.com/why-rss-feeds-still-beat-facebook-and-twitter-for-track-1800722740"
-x_title = "Why RSS Still Beats Facebook and Twitter for Tracking News"
+title = "Why RSS Still Beats Facebook and Twitter for Tracking News"
 x_source = ""
 +++
 

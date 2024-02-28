@@ -1,6 +1,5 @@
 +++
 url = "/2020/06/16/animalets-aqutics-de.html"
-title = ""
 date = "2020-06-16T20:05:22+00:00"
 slug = "animalets-aqutics-de"
 tags = ["fotos", "UJI"]

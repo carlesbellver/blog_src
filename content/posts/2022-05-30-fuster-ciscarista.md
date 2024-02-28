@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-05-22T09:35:45+02:00"
 tags = ["retalls", "citacions"]
 slug = "fuster-ciscarista"
 x_url = "http://oficidelector.blogspot.com/2022/05/fuster-en-la-seua-salsa.html"
-x_title = "“Fuster en la seua salsa”"
+title = "“Fuster en la seua salsa”"
 x_source = "Joan Garí"
 +++
 

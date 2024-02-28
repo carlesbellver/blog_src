@@ -1,11 +1,10 @@
 +++
 url = "/2020/08/25/evgeny-morozov-estoy.html"
-title = ""
 date = "2020-08-25T10:22:18+00:00"
 slug = "evgeny-morozov-estoy"
 tags = ["retalls"]
 x_url = "https://www.eldiario.es/tecnologia/favor-tecnologia-vinculada-sistema-politico-economico-distinto-lograr-justicia_128_6137941.html"
-x_title = "“Estoy a favor de la tecnología, pero tiene que estar vinculada a un sistema político y económico distinto para lograr justicia”"
+title = "“Estoy a favor de la tecnología, pero tiene que estar vinculada a un sistema político y económico distinto para lograr justicia”"
 x_source = "Evgeny Morozov"
 +++
 

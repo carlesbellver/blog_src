@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/29/youtube-and-the.html"
-title = ""
 date = "2018-11-29T11:43:00+00:00"
 slug = "youtube-and-the"
 tags = ["retalls"]
 x_url = "https://juliareda.eu/2018/11/youtube-article-13/"
-x_title = "YouTube and the music industry are both wrong on Article 13"
+title = "YouTube and the music industry are both wrong on Article 13"
 x_source = ""
 +++
 

@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2021-08-21T09:46:28+02:00"
 tags = []
 slug = "mascareta"

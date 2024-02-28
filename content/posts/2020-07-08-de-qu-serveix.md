@@ -1,6 +1,5 @@
 +++
 url = "/2020/07/08/de-qu-serveix.html"
-title = ""
 date = "2020-07-08T19:05:00+00:00"
 slug = "de-qu-serveix"
 tags = ["citacions"]

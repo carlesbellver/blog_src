@@ -1,11 +1,10 @@
 +++
 url = "/2019/01/11/how-cartographers-for.html"
-title = ""
 date = "2019-01-11T12:10:00+00:00"
 slug = "how-cartographers-for"
 tags = ["retalls"]
 x_url = "https://gizmodo.com/how-cartographers-for-the-u-s-military-inadvertently-c-1830758394"
-x_title = "How Cartographers for the U.S. Military Inadvertently Created a House of Horrors in South Africa"
+title = "How Cartographers for the U.S. Military Inadvertently Created a House of Horrors in South Africa"
 x_source = ""
 +++
 

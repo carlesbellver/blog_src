@@ -1,6 +1,5 @@
 +++
 url = "/2020/04/23/lany-passat-vaig.html"
-title = ""
 date = "2020-04-23T06:00:35+00:00"
 slug = "lany-passat-vaig"
 +++

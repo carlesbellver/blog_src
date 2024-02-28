@@ -1,11 +1,10 @@
 +++
 url = "/2019/10/01/encuesta-de-hbitos.html"
-title = ""
 date = "2019-10-01T07:14:00+00:00"
 slug = "encuesta-de-hbitos"
 tags = ["retalls"]
 x_url = "https://www.culturaydeporte.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/ehc/2018-2019/presentacion.html"
-x_title = "Encuesta de Hábitos y Prácticas Culturales en España 2018-2019"
+title = "Encuesta de Hábitos y Prácticas Culturales en España 2018-2019"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2019/01/09/cartografia-oberta-a.html"
-title = ""
 date = "2019-01-09T09:03:00+00:00"
 slug = "cartografia-oberta-a"
 tags = ["retalls"]
 x_url = "http://lab.cccb.org/ca/a-cartografia-oberta-a-lafrica-comunitat-i-be-comu/"
-x_title = "Cartografia oberta a l’Àfrica: comunitat i bé comú"
+title = "Cartografia oberta a l’Àfrica: comunitat i bé comú"
 x_source = ""
 +++
 

@@ -1,6 +1,5 @@
 +++
 url = "/2020/07/12/el-dabril-passat.html"
-title = ""
 date = "2020-07-12T15:20:00+00:00"
 slug = "el-dabril-passat"
 +++

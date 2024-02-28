@@ -1,11 +1,10 @@
 +++
 url = "/2003/12/05/sorted-for-ease.html"
-title = ""
 date = "2003-12-05T23:00:00+00:00"
 slug = "sorted-for-ease"
 tags = ["retalls", "drogues"]
 x_url = "http://www.independent.co.uk/arts-entertainment/books/features/sorted-for-ease-of-scribbling-5544661.html"
-x_title = "Sorted for ease of scribbling"
+title = "Sorted for ease of scribbling"
 x_source = ""
 +++
 

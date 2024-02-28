@@ -1,11 +1,10 @@
 +++
 url = "/2017/12/28/theres-healing-power.html"
-title = ""
 date = "2017-12-28T13:24:00+00:00"
 slug = "theres-healing-power"
 tags = ["retalls"]
 x_url = "https://singularityhub.com/2017/12/27/theres-healing-power-in-the-secret-electrical-language-of-our-cells/"
-x_title = "There's Healing Power in the Secret Electrical Language of Our Cells"
+title = "There's Healing Power in the Secret Electrical Language of Our Cells"
 x_source = ""
 +++
 

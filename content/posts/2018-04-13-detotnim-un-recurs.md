@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/13/detotnim-un-recurs.html"
-title = ""
 date = "2018-04-13T13:19:00+00:00"
 slug = "detotnim-un-recurs"
 tags = ["retalls"]
 x_url = "http://www.termcat.cat/ca/Comentaris_Terminologics/Apunts_Terminologics/337"
-x_title = "“De-tot-ònim”: un recurs antic però ben viu"
+title = "“De-tot-ònim”: un recurs antic però ben viu"
 x_source = ""
 +++
 

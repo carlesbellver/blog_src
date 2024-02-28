@@ -4,7 +4,7 @@ date = "2018-11-10T09:26:00+00:00"
 slug = "what-if-the"
 tags = ["retalls"]
 x_url = "https://www.nytimes.com/2018/11/07/magazine/placebo-effect-medicine.html"
-x_title = "What if the placebo effect isn’t a trick?"
+title = "What if the placebo effect isn’t a trick?"
 x_source = ""
 +++
 

@@ -1,6 +1,5 @@
 +++
 url = "/2019/04/05/bbedit-possiblement-el.html"
-title = ""
 date = "2019-04-05T18:10:21+00:00"
 slug = "bbedit-possiblement-el"
 +++

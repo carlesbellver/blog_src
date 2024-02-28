@@ -1,6 +1,5 @@
 +++
 url = "/2019/10/29/carrer-de-sant.html"
-title = ""
 date = "2019-10-29T16:48:03+00:00"
 slug = "carrer-de-sant"
 tags = ["fotos"]

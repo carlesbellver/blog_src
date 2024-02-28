@@ -1,11 +1,10 @@
 +++
 url = "/2019/11/13/los-datos-revelan.html"
-title = ""
 date = "2019-11-13T16:33:00+00:00"
 slug = "los-datos-revelan"
 tags = ["retalls"]
 x_url = "https://ctxt.es/es/20191106/Politica/29494/Ignacio-Sanchez-Cuenca-analisis-elecciones-Vox-nacionalismo-xenofobia.htm"
-x_title = "Noticia electoral sobre Vox para la izquierda"
+title = "Noticia electoral sobre Vox para la izquierda"
 x_source = ""
 +++
 

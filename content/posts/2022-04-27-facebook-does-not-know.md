@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-04-27T14:34:40+02:00"
 tags = ["retalls"]
 slug = "facebook-does-not-know"
 x_url = "https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes"
-x_title = "Facebook Doesn’t Know What It Does With Your Data, Or Where It Goes: Leaked Document"
+title = "Facebook Doesn’t Know What It Does With Your Data, Or Where It Goes: Leaked Document"
 x_source = ""
 +++
 

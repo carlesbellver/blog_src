@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-02-23T09:44:05+01:00"
 tags = ["retalls"]
 slug = "stephen-wolfram-chatgpt"
 x_url = "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
-x_title = "What Is ChatGPT Doing… and Why Does It Work?"
+title = "What Is ChatGPT Doing… and Why Does It Work?"
 x_source = "Stephen Wolfram"
 syndication = []
 +++

@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/14/xavier-diez-la.html"
-title = ""
 date = "2018-11-14T16:05:00+00:00"
 slug = "xavier-diez-la"
 tags = ["retalls"]
 x_url = "https://blocs.mesvilaweb.cat/xavierdiez/?p=270485"
-x_title = "La bacanal feixista"
+title = "La bacanal feixista"
 x_source = "Xavier Diez"
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2017/12/09/friction-and-silo.html"
-title = ""
 date = "2017-12-09T09:50:00+00:00"
 slug = "friction-and-silo"
 tags = ["retalls"]
 x_url = "http://www.manton.org/2017/12/friction-and-silo-dead-ends.html"
-x_title = "Friction and silo dead-ends"
+title = "Friction and silo dead-ends"
 x_source = ""
 +++
 

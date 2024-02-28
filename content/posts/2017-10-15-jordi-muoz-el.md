@@ -1,11 +1,10 @@
 +++
 url = "/2017/10/15/jordi-muoz-el.html"
-title = ""
 date = "2017-10-15T20:11:00+00:00"
 slug = "jordi-muoz-el"
 tags = ["retalls"]
 x_url = "http://www.publico.es/politica/entrevista-jordi-munoz-independentismo-convertido-elemento-estructural-sociedad-catalana.html"
-x_title = "Jordi Muñoz: “El independentismo se ha convertido en un elemento estructural de la sociedad catalana”"
+title = "Jordi Muñoz: “El independentismo se ha convertido en un elemento estructural de la sociedad catalana”"
 x_source = ""
 +++
 

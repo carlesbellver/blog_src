@@ -1,6 +1,5 @@
 +++
 url = "/2019/06/10/when-twitter-came.html"
-title = ""
 date = "2019-06-10T08:27:00+00:00"
 slug = "when-twitter-came"
 tags = ["retalls"]

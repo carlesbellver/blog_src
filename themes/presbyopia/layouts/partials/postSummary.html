@@ -9,8 +9,6 @@
         {{- else if .Params.Photos }} <img class="inline" src="{{ site.BaseURL }}svg.icons/eye.svg" /> {{ end -}}
         {{ if .Title }}
           <a href="{{ .Permalink }}" class="u-url" title="Enllaç permanent"><span class="p-name">{{ .Title }}</span> </a>
-        {{ else if .Params.x_title }}
-          <a href="{{ .Permalink }}" class="u-url" title="Enllaç permanent"><span class="p-name">{{ .Params.x_title }}</span> </a>
         {{ else }}
           <span class="p-summary">{{ .Summary | plainify | truncate 250 }}</span> <a href="{{ .Permalink }}">[+]</a>
         {{ end }}

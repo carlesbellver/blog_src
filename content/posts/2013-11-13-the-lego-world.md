@@ -5,7 +5,6 @@ date = "2013-11-13T23:00:00+00:00"
 slug = "the-lego-world"
 tags = ["retalls", "citacions"]
 x_url = "http://www.theverge.com/2013/11/12/4849860/the-cult-of-cthulhu-real-prayer-for-a-fake-tentacle"
-x_title = "The cult of Cthulhu: real prayer for a fake tentacle"
 x_source = "Joseph L. Flatley"
 +++
 

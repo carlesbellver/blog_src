@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/10/neither-paper-nor.html"
-title = ""
 date = "2018-10-10T11:49:00+00:00"
 slug = "neither-paper-nor"
 tags = ["retalls"]
 x_url = "https://www.baldurbjarnason.com/2018/09/03/neither-paper-nor-digital-does-active-reading-well/"
-x_title = "Neither Paper Nor Digital Does Active Reading Well"
+title = "Neither Paper Nor Digital Does Active Reading Well"
 x_source = ""
 +++
 

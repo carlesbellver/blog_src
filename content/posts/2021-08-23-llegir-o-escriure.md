@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-08-23T18:03:00"
 tags = []
 slug = "llegir-o-escriure"
 x_url = "https://www.lrp.cat/lrp-arts/article/2007700-la-mainada-llegeix-menys-en-catala.html?ItemId=4332"
-x_title = "“La mainada llegeix menys en català”"
+title = "“La mainada llegeix menys en català”"
 x_source = ""
 syndication = []
 +++

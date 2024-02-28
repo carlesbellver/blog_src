@@ -1,11 +1,10 @@
 +++
 url = "/2017/07/19/the-bank-of.html"
-title = ""
 date = "2017-07-19T17:19:00+00:00"
 slug = "the-bank-of"
 tags = ["retalls"]
 x_url = "https://qz.com/1032117/janeausten200-jane-austen-is-on-the-new-uk-banknote/"
-x_title = "The Bank of England printed a flirtatious lie on its new Jane Austen banknote"
+title = "The Bank of England printed a flirtatious lie on its new Jane Austen banknote"
 x_source = ""
 +++
 

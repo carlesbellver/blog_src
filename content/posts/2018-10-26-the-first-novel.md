@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/26/the-first-novel.html"
-title = ""
 date = "2018-10-26T11:53:00+00:00"
 slug = "the-first-novel"
 tags = ["retalls"]
 x_url = "https://singularityhub.com/2018/10/25/ai-wrote-a-road-trip-novel-is-it-a-good-read/"
-x_title = "The First Novel Written by AI Is Here—and It's as Weird as You'd Expect It to Be"
+title = "The First Novel Written by AI Is Here—and It's as Weird as You'd Expect It to Be"
 x_source = ""
 +++
 

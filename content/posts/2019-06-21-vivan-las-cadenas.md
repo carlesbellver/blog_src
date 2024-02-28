@@ -1,6 +1,5 @@
 +++
 url = "/2019/06/21/vivan-las-cadenas.html"
-title = ""
 date = "2019-06-21T15:02:00+00:00"
 slug = "vivan-las-cadenas"
 tags = ["fotos"]

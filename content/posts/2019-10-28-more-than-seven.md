@@ -1,11 +1,10 @@
 +++
 url = "/2019/10/28/more-than-seven.html"
-title = ""
 date = "2019-10-28T16:55:55+00:00"
 slug = "more-than-seven"
 tags = ["retalls"]
 x_url = "https://arstechnica.com/science/2019/10/man-charged-with-dwi-after-alcohol-fermenting-yeast-in-his-gut-got-him-wasted/"
-x_title = "Man kept getting drunk without drinking. Docs found brewer’s yeast in his guts"
+title = "Man kept getting drunk without drinking. Docs found brewer’s yeast in his guts"
 x_source = ""
 +++
 

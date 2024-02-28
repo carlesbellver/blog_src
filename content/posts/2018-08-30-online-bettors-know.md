@@ -1,11 +1,10 @@
 +++
 url = "/2018/08/30/online-bettors-know.html"
-title = ""
 date = "2018-08-30T09:27:00+00:00"
 slug = "online-bettors-know"
 tags = ["retalls"]
 x_url = "https://www.theatlantic.com/science/archive/2018/08/scientists-can-collectively-sense-which-psychology-studies-are-weak/568630/"
-x_title = "Online Bettors Know If Psychology Studies Will Replicate"
+title = "Online Bettors Know If Psychology Studies Will Replicate"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2020/02/04/simon-weckert-performance.html"
-title = ""
 date = "2020-02-04T11:19:00+00:00"
 slug = "simon-weckert-performance"
 tags = ["retalls"]
 x_url = "http://www.simonweckert.com/googlemapshacks.html"
-x_title = "Google Maps Hacks"
+title = "Google Maps Hacks"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2017/11/23/choice-of-alcoholic.html"
-title = ""
 date = "2017-11-23T09:12:00+00:00"
 slug = "choice-of-alcoholic"
 tags = ["retalls", "drogues"]
 x_url = "http://www.bbc.com/news/health-42050438"
-x_title = "Choice of alcoholic drink 'determines different moods'"
+title = "Choice of alcoholic drink 'determines different moods'"
 x_source = ""
 +++
 

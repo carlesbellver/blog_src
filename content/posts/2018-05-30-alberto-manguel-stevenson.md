@@ -1,11 +1,10 @@
 +++
 url = "/2018/05/30/alberto-manguel-stevenson.html"
-title = ""
 date = "2018-05-30T21:22:00+00:00"
 slug = "alberto-manguel-stevenson"
 tags = ["retalls"]
 x_url = "http://eltrapezi.com/stevenson-sota-les-palmeres/"
-x_title = "Alberto Manguel: Stevenson sota les palmeres"
+title = "Alberto Manguel: Stevenson sota les palmeres"
 x_source = ""
 +++
 

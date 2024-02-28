@@ -1,11 +1,10 @@
 +++
 url = "/2019/09/05/i-use-these.html"
-title = ""
 date = "2019-09-05T08:44:00+00:00"
 slug = "i-use-these"
 tags = ["retalls"]
 x_url = "https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba"
-x_title = "Why Don’t We Just Call Agile What It Is: Feminist"
+title = "Why Don’t We Just Call Agile What It Is: Feminist"
 x_source = "Hanna Thomas"
 +++
 

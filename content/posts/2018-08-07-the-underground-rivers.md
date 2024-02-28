@@ -1,11 +1,10 @@
 +++
 url = "/2018/08/07/the-underground-rivers.html"
-title = ""
 date = "2018-08-07T23:22:00+00:00"
 slug = "the-underground-rivers"
 tags = ["retalls"]
 x_url = "https://www.amusingplanet.com/2018/08/the-underground-rivers-of-london.html"
-x_title = "The Underground Rivers of London"
+title = "The Underground Rivers of London"
 x_source = ""
 +++
 

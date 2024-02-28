@@ -1,11 +1,10 @@
 +++
 url = "/2017/12/05/bitcoin-seven-questions.html"
-title = ""
 date = "2017-12-05T08:51:00+00:00"
 slug = "bitcoin-seven-questions"
 tags = ["retalls"]
 x_url = "https://arstechnica.com/tech-policy/2017/12/bitcoin-a-beginners-guide/"
-x_title = "Bitcoin: Seven questions you were too embarrassed to ask"
+title = "Bitcoin: Seven questions you were too embarrassed to ask"
 x_source = ""
 +++
 

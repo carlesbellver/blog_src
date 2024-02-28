@@ -1,11 +1,10 @@
 +++
 url = "/2018/05/02/choosing-a-responsive.html"
-title = ""
 date = "2018-05-02T15:48:00+00:00"
 slug = "choosing-a-responsive"
 tags = ["retalls"]
 x_url = "https://css-tricks.com/choosing-a-responsive-email-framework%E2%80%8Amjml-vs-foundation-for-emails/"
-x_title = "Choosing a Responsive Email Framework: MJML vs. Foundation for Emails"
+title = "Choosing a Responsive Email Framework: MJML vs. Foundation for Emails"
 x_source = ""
 +++
 

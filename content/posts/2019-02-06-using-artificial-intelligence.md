@@ -1,11 +1,10 @@
 +++
 url = "/2019/02/06/using-artificial-intelligence.html"
-title = ""
 date = "2019-02-06T10:27:00+00:00"
 slug = "using-artificial-intelligence"
 tags = ["retalls"]
 x_url = "https://css-tricks.com/using-artificial-intelligence-to-generate-alt-text-on-images/"
-x_title = "Using Artificial Intelligence to Generate Alt Text on Images"
+title = "Using Artificial Intelligence to Generate Alt Text on Images"
 x_source = ""
 +++
 

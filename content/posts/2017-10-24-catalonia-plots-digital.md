@@ -1,11 +1,10 @@
 +++
 url = "/2017/10/24/catalonia-plots-digital.html"
-title = ""
 date = "2017-10-24T09:47:00+00:00"
 slug = "catalonia-plots-digital"
 tags = ["retalls"]
 x_url = "http://www.wired.co.uk/article/catalan-government-independence-internet-spain"
-x_title = "Catalonia plots digital government in exile in bid for independence"
+title = "Catalonia plots digital government in exile in bid for independence"
 x_source = ""
 +++
 

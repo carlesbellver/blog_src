@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/24/tipu-sultans-mechanical.html"
-title = ""
 date = "2018-01-24T08:38:00+00:00"
 slug = "tipu-sultans-mechanical"
 tags = ["retalls"]
 x_url = "http://www.amusingplanet.com/2018/01/tipu-sultans-mechanical-tiger.html"
-x_title = "Tipu Sultan’s Mechanical Tiger"
+title = "Tipu Sultan’s Mechanical Tiger"
 x_source = ""
 +++
 

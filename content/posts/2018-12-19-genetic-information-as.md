@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/19/genetic-information-as.html"
-title = ""
 date = "2018-12-19T09:44:00+00:00"
 slug = "genetic-information-as"
 tags = ["retalls"]
 x_url = "https://arstechnica.com/science/2018/12/genetic-information-as-self-fulfilling-prophecy/"
-x_title = "Genetic information as self-fulfilling prophecy"
+title = "Genetic information as self-fulfilling prophecy"
 x_source = ""
 +++
 

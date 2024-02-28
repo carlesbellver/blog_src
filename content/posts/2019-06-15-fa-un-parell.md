@@ -1,6 +1,5 @@
 +++
 url = "/2019/06/15/fa-un-parell.html"
-title = ""
 date = "2019-06-15T20:47:50+00:00"
 slug = "fa-un-parell"
 +++

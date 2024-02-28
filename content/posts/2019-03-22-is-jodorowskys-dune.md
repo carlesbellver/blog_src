@@ -1,11 +1,10 @@
 +++
 url = "/2019/03/22/is-jodorowskys-dune.html"
-title = ""
 date = "2019-03-22T13:51:00+00:00"
 slug = "is-jodorowskys-dune"
 tags = ["retalls"]
 x_url = "http://www.bbc.com/culture/story/20190312-is-jodorowskys-dune-the-greatest-film-never-made"
-x_title = "Is Jodorowsky’s Dune the greatest film never made?"
+title = "Is Jodorowsky’s Dune the greatest film never made?"
 x_source = ""
 +++
 

@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-08-28T12:37:28+02:00"
 tags = ["retalls"]
 slug = "stable-diffusion"
 x_url = "https://sambleckley.com/writing/dont-fire-your-illustrator.html"
-x_title = "Don’t Fire Your Illustrator"
+title = "Don’t Fire Your Illustrator"
 x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/110968094766157624"]
 +++

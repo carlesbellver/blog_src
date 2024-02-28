@@ -1,11 +1,10 @@
 +++
 url = "/2018/09/06/why-czechs-dont.html"
-title = ""
 date = "2018-09-06T08:40:00+00:00"
 slug = "why-czechs-dont"
 tags = ["retalls"]
 x_url = "http://www.bbc.com/travel/story/20180820-why-czechs-dont-speak-german"
-x_title = "Why Czechs don’t speak German"
+title = "Why Czechs don’t speak German"
 x_source = ""
 +++
 

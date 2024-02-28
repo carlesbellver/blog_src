@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2021-08-20T10:56:40+02:00"
 tags = []
 slug = "futurecrunch"

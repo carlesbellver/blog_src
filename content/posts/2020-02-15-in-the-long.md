@@ -1,11 +1,10 @@
 +++
 url = "/2020/02/15/in-the-long.html"
-title = ""
 date = "2020-02-15T07:37:40+00:00"
 slug = "in-the-long"
 tags = ["retalls"]
 x_url = "https://www.wired.com/story/will-ai-achieve-consciousness-wrong-question/"
-x_title = "Will AI Achieve Consciousness? Wrong Question"
+title = "Will AI Achieve Consciousness? Wrong Question"
 x_source = "Daniel Dennett"
 +++
 

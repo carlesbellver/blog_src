@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/14/african-multiregionalism-the.html"
-title = ""
 date = "2018-07-14T16:19:00+00:00"
 slug = "african-multiregionalism-the"
 tags = ["retalls"]
 x_url = "https://www.theatlantic.com/science/archive/2018/07/the-new-story-of-humanitys-origins/564779/"
-x_title = "African Multiregionalism: the New Story of Humanity's Origins"
+title = "African Multiregionalism: the New Story of Humanity's Origins"
 x_source = ""
 +++
 

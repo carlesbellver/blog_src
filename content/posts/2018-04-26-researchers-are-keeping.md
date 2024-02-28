@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/26/researchers-are-keeping.html"
-title = ""
 date = "2018-04-26T09:15:00+00:00"
 slug = "researchers-are-keeping"
 tags = ["retalls"]
 x_url = "https://www.technologyreview.com/s/611007/researchers-are-keeping-pig-brains-alive-outside-the-body/"
-x_title = "Researchers are keeping pig brains alive outside the body"
+title = "Researchers are keeping pig brains alive outside the body"
 x_source = ""
 +++
 

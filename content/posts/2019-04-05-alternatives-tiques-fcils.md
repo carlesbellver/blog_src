@@ -1,11 +1,10 @@
 +++
 url = "/2019/04/05/alternatives-tiques-fcils.html"
-title = ""
 date = "2019-04-05T08:15:03+00:00"
 slug = "alternatives-tiques-fcils"
 tags = ["retalls"]
 x_url = "https://switching.social/"
-x_title = "switching.social"
+title = "switching.social"
 x_source = ""
 +++
 

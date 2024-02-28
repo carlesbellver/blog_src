@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-02-23T09:08:04+01:00"
 tags = ["retalls"]
 slug = "challenging-neoliberalism"
 x_url = "https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/"
-x_title = "Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism"
+title = "Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism"
 x_source = ""
 +++
 

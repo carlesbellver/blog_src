@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/24/monkeyselfie-lawsuit-finally.html"
-title = ""
 date = "2018-04-24T12:02:00+00:00"
 slug = "monkeyselfie-lawsuit-finally"
 tags = ["retalls"]
 x_url = "https://arstechnica.com/tech-policy/2018/04/monkey-selfie-lawsuit-finally-ends-court-affirms-adorable-macaque-cant-sue/"
-x_title = "Monkey-selfie lawsuit finally ends: Court affirms adorable macaque can’t sue"
+title = "Monkey-selfie lawsuit finally ends: Court affirms adorable macaque can’t sue"
 x_source = ""
 +++
 

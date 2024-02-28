@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-08-05T18:20:36+02:00"
 tags = ["retalls"]
 slug = "google-crap"
 x_url = "https://www.baldurbjarnason.com/2021/the-group-think-hoot/"
-x_title = "Nobody gives a hoot about groupthink"
+title = "Nobody gives a hoot about groupthink"
 x_source = ""
 +++
 

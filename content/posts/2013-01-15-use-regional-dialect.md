@@ -1,6 +1,5 @@
 +++
 url = "/2013/01/15/use-regional-dialect.html"
-title = ""
 date = "2013-01-15T23:00:00+00:00"
 slug = "use-regional-dialect"
 tags = ["citacions"]

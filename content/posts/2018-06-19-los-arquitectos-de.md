@@ -1,11 +1,10 @@
 +++
 url = "/2018/06/19/los-arquitectos-de.html"
-title = ""
 date = "2018-06-19T07:37:00+00:00"
 slug = "los-arquitectos-de"
 tags = ["retalls", "copyright"]
 x_url = "https://www.eldiario.es/tecnologia/arquitectos-Internet-revelan-copyright-Bruselas_0_783571970.html"
-x_title = "Los arquitectos de Internet se rebelan contra el copyright de Bruselas: “Es una amenaza para las libertades”"
+title = "Los arquitectos de Internet se rebelan contra el copyright de Bruselas: “Es una amenaza para las libertades”"
 x_source = ""
 +++
 

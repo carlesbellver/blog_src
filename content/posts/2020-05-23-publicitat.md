@@ -1,6 +1,5 @@
 +++
 url = "/2020/05/23/publicitat.html"
-title = ""
 date = "2020-05-23T20:16:48+00:00"
 slug = "publicitat"
 tags = ["fotos", "intl"]

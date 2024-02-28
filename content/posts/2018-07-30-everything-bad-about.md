@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/30/everything-bad-about.html"
-title = ""
 date = "2018-07-30T15:38:00+00:00"
 slug = "everything-bad-about"
 tags = ["retalls"]
 x_url = "https://qz.com/1342757/everything-bad-about-facebook-is-bad-for-the-same-reason/"
-x_title = "Everything bad about Facebook is bad for the same reason"
+title = "Everything bad about Facebook is bad for the same reason"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/27/trump-stochastic-terror.html"
-title = ""
 date = "2018-10-27T07:48:00+00:00"
 slug = "trump-stochastic-terror"
 tags = ["retalls"]
 x_url = "https://qz.com/1436267/trump-stochastic-terror-and-the-hate-that-ends-in-violence/"
-x_title = "Trump, stochastic terror and the hate that ends in violence"
+title = "Trump, stochastic terror and the hate that ends in violence"
 x_source = ""
 +++
 

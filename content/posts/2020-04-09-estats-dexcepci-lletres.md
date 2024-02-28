@@ -1,6 +1,5 @@
 +++
 url = "/2020/04/09/estats-dexcepci-lletres.html"
-title = ""
 date = "2020-04-09T14:55:00+00:00"
 slug = "estats-dexcepci-lletres"
 tags = ["retalls"]

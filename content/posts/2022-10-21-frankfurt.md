@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2022-10-21T19:42:09+02:00"
 tags = []
 slug = "frankfurt"

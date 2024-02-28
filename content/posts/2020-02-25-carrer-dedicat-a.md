@@ -1,6 +1,5 @@
 +++
 url = "/2020/02/25/carrer-dedicat-a.html"
-title = ""
 date = "2020-02-25T20:15:28+00:00"
 slug = "carrer-dedicat-a"
 tags = ["fotos", "Castelló"]

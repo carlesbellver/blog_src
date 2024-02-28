@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/15/theres-a-sucker.html"
-title = ""
 date = "2018-10-15T08:43:00+00:00"
 slug = "theres-a-sucker"
 tags = ["retalls"]
 x_url = "https://quoteinvestigator.com/2014/04/11/fool-born/"
-x_title = "There’s a Sucker Born Every Minute"
+title = "There’s a Sucker Born Every Minute"
 x_source = ""
 +++
 

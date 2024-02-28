@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-09-01T19:07:53+02:00"
 tags = ["retalls"]
 slug = "gorbachov"
 x_url = "https://ctxt.es/es/20220801/Firmas/40610/"
-x_title = "Luces y sombras de Mijaíl Gorbachov (1931-2022)"
+title = "Luces y sombras de Mijaíl Gorbachov (1931-2022)"
 x_source = "Rafael Poch"
 +++
 

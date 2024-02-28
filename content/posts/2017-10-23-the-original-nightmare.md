@@ -1,11 +1,10 @@
 +++
 url = "/2017/10/23/the-original-nightmare.html"
-title = ""
 date = "2017-10-23T16:55:00+00:00"
 slug = "the-original-nightmare"
 tags = ["retalls"]
 x_url = "https://www.atlasobscura.com/articles/original-nightmare-demon-suffocation-night-terror"
-x_title = "The Original ‘Nightmare’ Was a Demon That Sat on Your Chest and Suffocated You"
+title = "The Original ‘Nightmare’ Was a Demon That Sat on Your Chest and Suffocated You"
 x_source = ""
 +++
 

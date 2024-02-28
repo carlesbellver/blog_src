@@ -1,6 +1,5 @@
 +++
 url = "/2019/10/31/efemride-des-del.html"
-title = ""
 date = "2019-10-31T16:30:02+00:00"
 slug = "efemride-des-del"
 +++

@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/11/radioheads-lawsuit-against.html"
-title = ""
 date = "2018-01-11T07:29:00+00:00"
 slug = "radioheads-lawsuit-against"
 tags = ["retalls", "copyright"]
 x_url = "https://quartzy.qz.com/1174713/radioheads-lawsuit-against-lana-del-rey-shows-all-music-is-stolen/"
-x_title = "Radiohead’s lawsuit against Lana Del Rey shows how all music is stolen"
+title = "Radiohead’s lawsuit against Lana Del Rey shows how all music is stolen"
 x_source = ""
 +++
 

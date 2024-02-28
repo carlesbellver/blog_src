@@ -1,6 +1,5 @@
 +++
 url = "/2020/06/15/selected-global-causes.html"
-title = ""
 date = "2020-06-15T21:32:00+00:00"
 slug = "selected-global-causes"
 tags = ["retalls"]

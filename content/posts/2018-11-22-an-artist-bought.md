@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/22/an-artist-bought.html"
-title = ""
 date = "2018-11-22T07:29:00+00:00"
 slug = "an-artist-bought"
 tags = ["retalls"]
 x_url = "https://qz.com/quartzy/1471278/artist-ron-english-bought-a-banksy-piece-just-so-he-could-destroy-it/"
-x_title = "An artist bought a Banksy piece just so he could destroy it"
+title = "An artist bought a Banksy piece just so he could destroy it"
 x_source = ""
 +++
 

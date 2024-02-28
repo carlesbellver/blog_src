@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2021-12-25T09:30:10+01:00"
 tags = ["fotos"]
 photos = ["/uploads/2021/2021-12-25-venus-willendorf.jpg"]

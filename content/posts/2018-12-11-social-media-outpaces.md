@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/11/social-media-outpaces.html"
-title = ""
 date = "2018-12-11T17:32:00+00:00"
 slug = "social-media-outpaces"
 tags = ["retalls"]
 x_url = "http://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/"
-x_title = "Social media outpaces print newspapers in the U.S. as news source"
+title = "Social media outpaces print newspapers in the U.S. as news source"
 x_source = ""
 +++
 

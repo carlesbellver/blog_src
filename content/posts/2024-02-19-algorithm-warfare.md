@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2024-02-19T19:19:53+01:00"
 tags = ["retalls"]
 slug = "algorithm-warfare"
 x_url = "https://www.theframelab.org/p/algorithm-warfare-how-elon-musk-uses"
-x_title = "Algorithm Warfare: How Elon Musk uses Twitter to control brains"
+title = "Algorithm Warfare: How Elon Musk uses Twitter to control brains"
 x_source = "Gil Duran & George Lakoff"
 syndication = ["https://mastodon.social/@carlesbellver/111965457681663702"]
 +++

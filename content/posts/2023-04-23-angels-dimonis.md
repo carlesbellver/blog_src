@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2023-04-23T23:30:50+02:00"
 tags = ["citacions"]
 slug = "angels-dimonis"

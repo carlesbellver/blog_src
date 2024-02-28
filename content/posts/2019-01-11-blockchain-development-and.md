@@ -1,11 +1,10 @@
 +++
 url = "/2019/01/11/blockchain-development-and.html"
-title = ""
 date = "2019-01-11T09:05:00+00:00"
 slug = "blockchain-development-and"
 tags = ["retalls"]
 x_url = "https://www.mckinsey.com/industries/financial-services/our-insights/blockchains-occam-problem"
-x_title = "Blockchain development and the Occam problem"
+title = "Blockchain development and the Occam problem"
 x_source = ""
 +++
 

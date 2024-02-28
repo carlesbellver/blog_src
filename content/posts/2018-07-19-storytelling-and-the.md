@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/19/storytelling-and-the.html"
-title = ""
 date = "2018-07-19T09:01:00+00:00"
 slug = "storytelling-and-the"
 tags = ["retalls"]
 x_url = "http://kinlane.com/2018/07/16/storytelling-and-the-nothing/"
-x_title = "Storytelling And The Technological Nothing"
+title = "Storytelling And The Technological Nothing"
 x_source = ""
 +++
 

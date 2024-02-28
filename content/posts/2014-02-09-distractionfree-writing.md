@@ -5,7 +5,7 @@ slug = "distractionfree-writing"
 tags = ["retalls"]
 image = ["/uploads/2014/2014-02-09-hugo-gernsback-isolator.jpg"]
 x_url = "http://laughingsquid.com/the-isolator-a-bizarre-helmet-for-encouraging-concentration-1925/"
-x_title = "Hugo Gernsback Isolator"
+title = "Hugo Gernsback Isolator"
 x_source = ""
 +++
 

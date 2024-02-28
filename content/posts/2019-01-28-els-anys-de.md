@@ -1,11 +1,10 @@
 +++
 url = "/2019/01/28/els-anys-de.html"
-title = ""
 date = "2019-01-28T19:05:00+00:00"
 slug = "els-anys-de"
 tags = ["retalls"]
 x_url = "https://www.ccma.cat/324/els-122-anys-de-la-dona-mes-vella-del-mon-podrien-ser-un-frau/noticia/2900400/"
-x_title = "Els 122 anys de la dona més vella del món podrien ser un frau"
+title = "Els 122 anys de la dona més vella del món podrien ser un frau"
 x_source = ""
 +++
 

@@ -4,7 +4,7 @@ date = "2019-10-17T19:20:39+00:00"
 slug = "tales-caractersticas-no"
 tags = ["retalls"]
 x_url = "https://ctxt.es/es/20190116/Politica/23898/Umberto-Eco-documento-CTXT-fascismo-nazismo-extrema-derecha.htm"
-x_title = "Los 14 síntomas del fascismo eterno"
+title = "Los 14 síntomas del fascismo eterno"
 x_source = "Umberto Eco"
 +++
 

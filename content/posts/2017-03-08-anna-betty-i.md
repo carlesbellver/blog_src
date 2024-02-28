@@ -1,6 +1,5 @@
 +++
 url = "/2017/03/08/anna-betty-i.html"
-title = ""
 date = "2017-03-08T23:00:00+00:00"
 slug = "anna-betty-i"
 tags = ["citacions"]

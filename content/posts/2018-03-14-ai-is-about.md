@@ -1,11 +1,10 @@
 +++
 url = "/2018/03/14/ai-is-about.html"
-title = ""
 date = "2018-03-14T18:15:00+00:00"
 slug = "ai-is-about"
 tags = ["retalls","citacions"]
 x_url = "https://doi.org/10.1007/s13347-017-0259-1"
-x_title = "“Digital’s Cleaving Power and Its Consequences”"
+title = "“Digital’s Cleaving Power and Its Consequences”"
 x_source = "Luciano Floridi"
 +++
 

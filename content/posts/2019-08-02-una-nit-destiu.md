@@ -1,6 +1,5 @@
 +++
 url = "/2019/08/02/una-nit-destiu.html"
-title = ""
 date = "2019-08-02T15:00:21+00:00"
 slug = "una-nit-destiu"
 +++

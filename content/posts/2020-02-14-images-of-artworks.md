@@ -1,11 +1,10 @@
 +++
 url = "/2020/02/14/images-of-artworks.html"
-title = ""
 date = "2020-02-14T14:45:48+00:00"
 slug = "images-of-artworks"
 tags = ["retalls"]
 x_url = "https://hyperallergic.com/536360/images-of-100000-artworks-from-paris-museum-collections-now-freely-available-to-the-public/"
-x_title = "Images of 100,000 Artworks From Paris Museum Collections Now Freely Available to the Public"
+title = "Images of 100,000 Artworks From Paris Museum Collections Now Freely Available to the Public"
 x_source = ""
 +++
 

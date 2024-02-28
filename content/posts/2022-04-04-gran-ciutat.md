@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-04-04T08:00:35+02:00"
 tags = ["retalls", "citacions", "Castelló", "UJI", "educació"]
 slug = "gran-ciutat"
 x_url = "https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html"
-x_title = "Bruce Katz, urbanista de ciutats globals"
+title = "Bruce Katz, urbanista de ciutats globals"
 x_source = ""
 +++
 

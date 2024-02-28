@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2022-03-29T19:50:46+02:00"
 tags = []
 slug = "rafael-llopis"

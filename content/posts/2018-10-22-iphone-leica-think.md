@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/22/iphone-leica-think.html"
-title = ""
 date = "2018-10-22T09:57:00+00:00"
 slug = "iphone-leica-think"
 tags = ["retalls"]
 x_url = "http://theonlinephotographer.typepad.com/the_online_photographer/2015/08/iphone-leica.html"
-x_title = "iPhone = Leica"
+title = "iPhone = Leica"
 x_source = ""
 +++
 

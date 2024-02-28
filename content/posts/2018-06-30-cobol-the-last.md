@@ -1,11 +1,10 @@
 +++
 url = "/2018/06/30/cobol-the-last.html"
-title = ""
 date = "2018-06-30T21:47:00+00:00"
 slug = "cobol-the-last"
 tags = ["retalls"]
 x_url = "https://qz.com/email/quartz-obsession/1316525/"
-x_title = "COBOL"
+title = "COBOL"
 x_source = ""
 +++
 

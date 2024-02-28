@@ -1,6 +1,5 @@
 +++
 url = "/2014/09/13/nietzsche-escndalo-para.html"
-title = ""
 date = "2014-09-13T22:00:00+00:00"
 slug = "nietzsche-escndalo-para"
 tags = ["citacions"]

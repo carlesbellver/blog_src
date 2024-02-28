@@ -1,11 +1,10 @@
 +++
 url = "/2014/09/21/why-women-have.html"
-title = ""
 date = "2014-09-21T22:00:00+00:00"
 slug = "why-women-have"
 tags = ["retalls"]
 x_url = "http://nymag.com/scienceofus/2014/09/dudes-have-horrible-memories.html"
-x_title = "Why Women Have More Childhood Memories Than Men"
+title = "Why Women Have More Childhood Memories Than Men"
 x_source = ""
 +++
 

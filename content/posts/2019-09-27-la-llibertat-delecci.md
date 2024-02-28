@@ -1,6 +1,5 @@
 +++
 url = "/2019/09/27/la-llibertat-delecci.html"
-title = ""
 date = "2019-09-27T09:59:21+00:00"
 slug = "la-llibertat-delecci"
 tags = ["fotos", "uji"]

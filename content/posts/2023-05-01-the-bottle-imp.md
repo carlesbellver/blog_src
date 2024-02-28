@@ -1,11 +1,10 @@
 +++
-title = ""
 date = "2023-05-01T19:31:38+02:00"
 tags = ["ressenyes"]
 slug = "the-bottle-imp"
 syndication = []
 x_url = ""
-x_title = "The Bootle Imp"
+title = "The Bootle Imp"
 x_source = "R. L. Stevenson"
 +++
 

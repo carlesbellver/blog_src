@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/06/a-russian-city.html"
-title = ""
 date = "2018-12-06T08:47:00+00:00"
 slug = "a-russian-city"
 tags = ["retalls"]
 x_url = "https://qz.com/1484347/a-russian-city-is-embroiled-in-protests-over-immanuel-kant/"
-x_title = "A Russian city is embroiled in protests over Immanuel Kant"
+title = "A Russian city is embroiled in protests over Immanuel Kant"
 x_source = ""
 +++
 

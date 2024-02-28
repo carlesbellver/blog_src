@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/14/evelyn-berezin-dies.html"
-title = ""
 date = "2018-12-14T09:14:00+00:00"
 slug = "evelyn-berezin-dies"
 tags = ["retalls"]
 x_url = "http://trackchangesbook.tumblr.com/post/181046156423/evelyn-berezin-93-dies-built-the-first-true"
-x_title = "Evelyn Berezin, 93, Dies; Built the First True Word Processor"
+title = "Evelyn Berezin, 93, Dies; Built the First True Word Processor"
 x_source = ""
 +++
 

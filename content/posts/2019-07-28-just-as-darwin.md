@@ -1,11 +1,10 @@
 +++
 url = "/2019/07/28/just-as-darwin.html"
-title = ""
 date = "2019-07-28T07:43:00+00:00"
 slug = "just-as-darwin"
 tags = ["retalls","citacions"]
 x_url = "https://www.marxists.org/archive/marx/works/1883/death/burial.htm"
-x_title = "Engels’ Speech at the Grave of Karl Marx. London, March 17, 1883"
+title = "Engels’ Speech at the Grave of Karl Marx. London, March 17, 1883"
 x_source = ""
 +++
 

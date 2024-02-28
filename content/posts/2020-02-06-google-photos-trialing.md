@@ -1,11 +1,10 @@
 +++
 url = "/2020/02/06/google-photos-trialing.html"
-title = ""
 date = "2020-02-06T15:54:18+00:00"
 slug = "google-photos-trialing"
 tags = ["retalls"]
 x_url = "https://ww.9to5google.com/2020/01/31/google-photos-print-subscription/"
-x_title = "Google Photos trialing subscription to get best pics printed"
+title = "Google Photos trialing subscription to get best pics printed"
 x_source = ""
 +++
 

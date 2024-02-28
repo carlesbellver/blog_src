@@ -1,11 +1,10 @@
 +++
 url = "/2017/10/20/xavier-diez-descoles.html"
-title = ""
 date = "2017-10-20T12:57:00+00:00"
 slug = "xavier-diez-descoles"
 tags = ["retalls"]
 x_url = "https://blocs.mesvilaweb.cat/xavierdiez/?p=270064"
-x_title = "D’escoles i adoctrinaments"
+title = "D’escoles i adoctrinaments"
 x_source = "Xavier Diez"
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/18/why-was-the.html"
-title = ""
 date = "2018-12-18T07:37:00+00:00"
 slug = "why-was-the"
 tags = ["retalls"]
 x_url = "https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive?fbclid=IwAR1Pao_3wIm2cusVCp6GC4E0R4ZMdKe1OjdsgLtlF-DitbNpRnABdz8xxMY"
-x_title = "Why 536 was ‘the worst year to be alive’"
+title = "Why 536 was ‘the worst year to be alive’"
 x_source = ""
 +++
 

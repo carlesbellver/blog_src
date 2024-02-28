@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/30/how-photographers-captured.html"
-title = ""
 date = "2018-01-30T13:23:00+00:00"
 slug = "how-photographers-captured"
 tags = ["retalls"]
 x_url = "https://www.atlasobscura.com/articles/how-photographer-captured-incarceration-japanese-americans-wwii-miyatake-lange-adams-albers"
-x_title = "How Photographers Captured the Incarceration of Japanese Americans During WWII"
+title = "How Photographers Captured the Incarceration of Japanese Americans During WWII"
 x_source = ""
 +++
 

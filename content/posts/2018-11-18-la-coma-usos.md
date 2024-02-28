@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/18/la-coma-usos.html"
-title = ""
 date = "2018-11-18T09:57:00+00:00"
 slug = "la-coma-usos"
 tags = ["retalls"]
 x_url = "http://lletresitics.blogspot.com/2012/10/la-coma-usos-generals.html"
-x_title = "La coma, usos generals"
+title = "La coma, usos generals"
 x_source = ""
 +++
 

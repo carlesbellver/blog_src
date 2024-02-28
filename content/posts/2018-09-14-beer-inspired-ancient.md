@@ -1,11 +1,10 @@
 +++
 url = "/2018/09/14/beer-inspired-ancient.html"
-title = ""
 date = "2018-09-14T10:44:00+00:00"
 slug = "beer-inspired-ancient"
 tags = ["retalls", "drogues"]
 x_url = "https://qz.com/quartzy/1389173/beer-inspired-ancient-farmers-to-grow-cereals/"
-x_title = "Beer inspired ancient farmers to grow cereals"
+title = "Beer inspired ancient farmers to grow cereals"
 x_source = ""
 +++
 

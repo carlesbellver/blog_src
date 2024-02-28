@@ -1,6 +1,5 @@
 +++
 url = "/2013/09/29/there-is-art.html"
-title = ""
 date = "2013-09-29T22:00:00+00:00"
 slug = "there-is-art"
 tags = ["citacions"]

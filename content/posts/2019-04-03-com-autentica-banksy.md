@@ -1,11 +1,10 @@
 +++
 url = "/2019/04/03/com-autentica-banksy.html"
-title = ""
 date = "2019-04-03T08:15:00+00:00"
 slug = "com-autentica-banksy"
 tags = ["retalls"]
 x_url = "https://reprage.com/post/how-banksy-authenticates-his-work"
-x_title = "How Banksy Authenticates His Work"
+title = "How Banksy Authenticates His Work"
 x_source = ""
 +++
 

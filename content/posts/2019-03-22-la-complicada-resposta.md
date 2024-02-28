@@ -1,11 +1,10 @@
 +++
 url = "/2019/03/22/la-complicada-resposta.html"
-title = ""
 date = "2019-03-22T15:34:00+00:00"
 slug = "la-complicada-resposta"
 tags = ["retalls"]
 x_url = "https://ara.cat/societat/meteo/complicada-resposta-perque-diumenge-Pasqua_0_2201180059.html"
-x_title = "La (complicada) resposta a per què aquest diumenge no és Pasqua"
+title = "La (complicada) resposta a per què aquest diumenge no és Pasqua"
 x_source = ""
 +++
 

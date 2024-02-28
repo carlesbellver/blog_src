@@ -1,11 +1,10 @@
 +++
 url = "/2019/01/02/la-longvit-de.html"
-title = ""
 date = "2019-01-02T09:50:00+00:00"
 slug = "la-longvit-de"
 tags = ["retalls"]
 x_url = "https://www.afp.com/fr/infos/334/la-longevite-de-jeanne-calment-mise-en-doute-par-des-scientifiques-russes-doc-1bw6b92"
-x_title = "La longévité de Jeanne Calment mise en doute par des scientifiques russes"
+title = "La longévité de Jeanne Calment mise en doute par des scientifiques russes"
 x_source = ""
 +++
 

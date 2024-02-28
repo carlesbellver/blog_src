@@ -1,11 +1,10 @@
 +++
 url = "/2019/10/11/ocrmypdf-adds-an.html"
-title = ""
 date = "2019-10-11T17:37:00+00:00"
 slug = "ocrmypdf-adds-an"
 tags = ["retalls"]
 x_url = "https://github.com/jbarlow83/OCRmyPDF"
-x_title = "OCRmyPDF"
+title = "OCRmyPDF"
 x_source = ""
 +++
 

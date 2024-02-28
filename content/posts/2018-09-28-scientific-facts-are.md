@@ -1,11 +1,10 @@
 +++
 url = "/2018/09/28/scientific-facts-are.html"
-title = ""
 date = "2018-09-28T09:04:00+00:00"
 slug = "scientific-facts-are"
 tags = ["retalls"]
 x_url = "https://scholarlykitchen.sspnet.org/2018/09/27/guest-post-scientific-facts-are-they-like-myths-told-through-fairytales-and-spread-by-gossip/"
-x_title = "Scientific Facts — Are they like Myths, Told through Fairytales and Spread by Gossip?"
+title = "Scientific Facts — Are they like Myths, Told through Fairytales and Spread by Gossip?"
 x_source = ""
 +++
 

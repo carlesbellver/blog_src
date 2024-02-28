@@ -1,11 +1,10 @@
 +++
 url = "/2019/07/23/why-did-people.html"
-title = ""
 date = "2019-07-23T19:05:00+00:00"
 slug = "why-did-people"
 tags = ["retalls"]
 x_url = "https://www.amusingplanet.com/2019/07/crannogs-neolithic-era-artificial.html"
-x_title = "Crannogs: Neolithic-Era Artificial Islands"
+title = "Crannogs: Neolithic-Era Artificial Islands"
 x_source = ""
 +++
 

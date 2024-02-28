@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/06/la-memoria-histrica.html"
-title = ""
 date = "2018-01-06T15:12:00+00:00"
 slug = "la-memoria-histrica"
 tags = ["retalls"]
 x_url = "http://eldiario.es/internacional/EEUU-memoria-historica_0_723378246.html"
-x_title = "La memoria histórica alcanza a los símbolos racistas del Sur en Estados Unidos"
+title = "La memoria histórica alcanza a los símbolos racistas del Sur en Estados Unidos"
 x_source = ""
 +++
 

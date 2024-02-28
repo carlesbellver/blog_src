@@ -1,6 +1,5 @@
 +++
 url = "/2020/01/19/el-gerent-representa.html"
-title = ""
 date = "2020-01-19T22:31:00+00:00"
 slug = "el-gerent-representa"
 tags = ["citacions"]

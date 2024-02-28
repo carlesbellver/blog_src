@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/14/brutalist-web-design.html"
-title = ""
 date = "2018-07-14T10:14:00+00:00"
 slug = "brutalist-web-design"
 tags = ["retalls"]
 x_url = "https://brutalist-web.design/"
-x_title = "Brutalist Web Design"
+title = "Brutalist Web Design"
 x_source = ""
 +++
 

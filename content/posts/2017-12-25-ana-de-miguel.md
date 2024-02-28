@@ -1,11 +1,10 @@
 +++
 url = "/2017/12/25/ana-de-miguel.html"
-title = ""
 date = "2017-12-25T12:27:00+00:00"
 slug = "ana-de-miguel"
 tags = ["retalls"]
 x_url = "https://smoda.elpais.com/moda/actualidad/ana-miguel-filosofia/"
-x_title = "“Considerar que dar las campanadas medio desnuda es un acto feminista es un error garrafal”"
+title = "“Considerar que dar las campanadas medio desnuda es un acto feminista es un error garrafal”"
 x_source = "Ana de Miguel"
 +++
 

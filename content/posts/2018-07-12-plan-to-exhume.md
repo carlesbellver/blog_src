@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/12/plan-to-exhume.html"
-title = ""
 date = "2018-07-12T14:40:00+00:00"
 slug = "plan-to-exhume"
 tags = ["retalls"]
 x_url = "https://www.nytimes.com/2018/07/07/world/europe/spain-franco.html"
-x_title = "Plan to Exhume Franco Renews Spain’s Wrestle With History"
+title = "Plan to Exhume Franco Renews Spain’s Wrestle With History"
 x_source = ""
 +++
 

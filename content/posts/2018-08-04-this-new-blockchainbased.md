@@ -1,11 +1,10 @@
 +++
 url = "/2018/08/04/this-new-blockchainbased.html"
-title = ""
 date = "2018-08-04T17:40:00+00:00"
 slug = "this-new-blockchainbased"
 tags = ["retalls"]
 x_url = "https://www.technologyreview.com/s/611757/this-new-ethereum-based-assassination-market-platform-could-cause-napster-size-legal/"
-x_title = "This new blockchain-based betting platform could cause Napster-size legal headaches"
+title = "This new blockchain-based betting platform could cause Napster-size legal headaches"
 x_source = ""
 +++
 

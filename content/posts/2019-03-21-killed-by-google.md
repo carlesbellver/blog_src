@@ -1,11 +1,10 @@
 +++
 url = "/2019/03/21/killed-by-google.html"
-title = ""
 date = "2019-03-21T13:41:00+00:00"
 slug = "killed-by-google"
 tags = ["retalls"]
 x_url = "https://killedbygoogle.com/"
-x_title = "Killed by Google - The Google Graveyard & Cemetery"
+title = "Killed by Google - The Google Graveyard & Cemetery"
 x_source = ""
 +++
 

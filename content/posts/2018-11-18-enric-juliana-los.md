@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/18/enric-juliana-los.html"
-title = ""
 date = "2018-11-18T13:20:00+00:00"
 slug = "enric-juliana-los"
 tags = ["retalls"]
 x_url = "https://www.lavanguardia.com/opinion/20181118/452999385280/los-cuatro-jinetes.html"
-x_title = "Enric Juliana: Los cuatro jinetes"
+title = "Enric Juliana: Los cuatro jinetes"
 x_source = ""
 +++
 

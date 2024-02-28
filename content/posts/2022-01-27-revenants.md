@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2022-01-27T18:18:56+01:00"
 tags = ["UJI"]
 slug = "revenants"

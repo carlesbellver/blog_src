@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/09/xavier-diez-lamor.html"
-title = ""
 date = "2018-12-09T23:19:00+00:00"
 slug = "xavier-diez-lamor"
 tags = ["retalls"]
 x_url = "https://blocs.mesvilaweb.cat/xavierdiez/?p=270508"
-x_title = "L’amor liberalitzat"
+title = "L’amor liberalitzat"
 x_source = "Xavier Diez"
 +++
 

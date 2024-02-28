@@ -1,11 +1,10 @@
 +++
 url = "/2019/03/10/from-hard-drive.html"
-title = ""
 date = "2019-03-10T09:52:00+00:00"
 slug = "from-hard-drive"
 tags = ["retalls"]
 x_url = "https://www.theregister.co.uk/2019/03/07/hard_drive_eavesdropping/"
-x_title = "From hard drive to over-heard drive: Boffins convert spinning rust into eavesdropping mic"
+title = "From hard drive to over-heard drive: Boffins convert spinning rust into eavesdropping mic"
 x_source = ""
 +++
 

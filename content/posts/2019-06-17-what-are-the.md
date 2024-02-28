@@ -1,11 +1,10 @@
 +++
 url = "/2019/06/17/what-are-the.html"
-title = ""
 date = "2019-06-17T15:09:00+00:00"
 slug = "what-are-the"
 tags = ["retalls"]
 x_url = "https://idlewords.com/2019/06/the_new_wilderness.htm"
-x_title = "The New Wilderness"
+title = "The New Wilderness"
 x_source = ""
 +++
 

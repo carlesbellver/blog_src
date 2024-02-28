@@ -1,11 +1,10 @@
 +++
 url = "/2018/03/19/i-made-steve.html"
-title = ""
 date = "2018-03-19T19:44:00+00:00"
 slug = "i-made-steve"
 tags = ["retalls"]
 x_url = "https://www.theguardian.com/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-bannon-trump"
-x_title = "‘I made Steve Bannon’s psychological warfare tool’: meet the data war whistleblower"
+title = "‘I made Steve Bannon’s psychological warfare tool’: meet the data war whistleblower"
 x_source = ""
 +++
 

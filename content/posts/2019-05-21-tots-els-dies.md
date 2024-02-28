@@ -1,6 +1,5 @@
 +++
 url = "/2019/05/21/tots-els-dies.html"
-title = ""
 date = "2019-05-21T15:30:02+00:00"
 slug = "tots-els-dies"
 +++

@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/31/the-how-why.html"
-title = ""
 date = "2018-10-31T12:03:00+00:00"
 slug = "the-how-why"
 tags = ["retalls"]
 x_url = "https://singularityhub.com/2018/10/29/the-how-why-and-whether-of-digital-avatars-that-live-on-after-we-die/"
-x_title = "The How, Why, and Whether of Custom Digital Avatars That Live on After We Die"
+title = "The How, Why, and Whether of Custom Digital Avatars That Live on After We Die"
 x_source = ""
 +++
 

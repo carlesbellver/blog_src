@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/05/facebook-gave-some.html"
-title = ""
 date = "2018-12-05T20:23:00+00:00"
 slug = "facebook-gave-some"
 tags = ["retalls"]
 x_url = "https://www.nytimes.com/2018/12/05/technology/facebook-documents-uk-parliament.html"
-x_title = "Facebook Gave Some Companies Special Access to Users’ Data, Documents Show"
+title = "Facebook Gave Some Companies Special Access to Users’ Data, Documents Show"
 x_source = ""
 +++
 

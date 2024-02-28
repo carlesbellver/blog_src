@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-01-20T19:30:00+01:00"
 tags = ["retalls"]
 slug = "depressed-alcoholic-chatbots"
 x_url = "https://www.unite.ai/analyzing-depressed-and-alcoholic-chatbots/"
-x_title = "Analyzing Depressed and Alcoholic Chatbots - Unite.AI"
+title = "Analyzing Depressed and Alcoholic Chatbots - Unite.AI"
 x_source = ""
 +++
 

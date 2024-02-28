@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/13/los-silencios-de.html"
-title = ""
 date = "2018-04-13T13:15:00+00:00"
 slug = "los-silencios-de"
 tags = ["retalls"]
 x_url = "https://blocs.mesvilaweb.cat/xavierdiez/?p=270246"
-x_title = "Los silencios de nuestros amigos"
+title = "Los silencios de nuestros amigos"
 x_source = "Xavier Diez"
 +++
 

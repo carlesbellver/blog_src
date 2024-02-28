@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/28/napoleons-english-lessons.html"
-title = ""
 date = "2018-12-28T23:38:00+00:00"
 slug = "napoleons-english-lessons"
 tags = ["retalls"]
 x_url = "http://www.openculture.com/2018/12/napoleons-english-lessons.html"
-x_title = "Napoleon’s English Lessons: How the Military Leader Studied English to Escape the Boredom of Life in Exile"
+title = "Napoleon’s English Lessons: How the Military Leader Studied English to Escape the Boredom of Life in Exile"
 x_source = ""
 +++
 

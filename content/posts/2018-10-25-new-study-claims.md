@@ -1,11 +1,10 @@
 +++
 url = "/2018/10/25/new-study-claims.html"
-title = ""
 date = "2018-10-25T10:03:00+00:00"
 slug = "new-study-claims"
 tags = ["retalls"]
 x_url = "https://www.techspot.com/news/77077-new-study-claims-data-harvesting-among-android-apps.html"
-x_title = "New study claims data harvesting among Android apps is “out of control”"
+title = "New study claims data harvesting among Android apps is “out of control”"
 x_source = ""
 +++
 

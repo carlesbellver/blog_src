@@ -1,11 +1,10 @@
 +++
 url = "/2019/08/06/why-companies-and.html"
-title = ""
 date = "2019-08-06T14:22:00+00:00"
 slug = "why-companies-and"
 tags = ["retalls"]
 x_url = "https://singularityhub.com/2019/08/06/why-companies-and-armies-are-hiring-science-fiction-writers/"
-x_title = "Why Companies and Armies Are Hiring Science Fiction Writers"
+title = "Why Companies and Armies Are Hiring Science Fiction Writers"
 x_source = ""
 +++
 

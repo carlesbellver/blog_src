@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-05-16T18:29:24+02:00"
 tags = ["retalls"]
 slug = "impacte-ambiental-edicio-digital"
 x_url = "https://lab.cccb.org/ca/limpacte-ambiental-de-ledicio-digital/"
-x_title = "L’impacte ambiental de l’edició digital"
+title = "L’impacte ambiental de l’edició digital"
 x_source = ""
 +++
 

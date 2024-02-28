@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/07/independentismo-no-independentista.html"
-title = ""
 date = "2018-07-07T15:26:00+00:00"
 slug = "independentismo-no-independentista"
 tags = ["retalls"]
 x_url = "https://www.eldiario.es/interferencias/proces-catalunya-estereotipos_6_789931005.html"
-x_title = "Independentismo no independentista, la complejidad del procés y sus estereotipos"
+title = "Independentismo no independentista, la complejidad del procés y sus estereotipos"
 x_source = ""
 +++
 

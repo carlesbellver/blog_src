@@ -1,11 +1,10 @@
 +++
 url = "/2020/07/29/ole-bjrn-rekdal.html"
-title = ""
 date = "2020-07-29T14:13:00+00:00"
 slug = "ole-bjrn-rekdal"
 tags = ["retalls"]
 x_url = "https://journals.sagepub.com/doi/full/10.1177/0306312714535679"
-x_title = "Academic urban legends"
+title = "Academic urban legends"
 x_source = "Ole Bjørn Rekdal (2014)"
 +++
 

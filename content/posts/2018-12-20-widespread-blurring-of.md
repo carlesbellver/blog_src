@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/20/widespread-blurring-of.html"
-title = ""
 date = "2018-12-20T15:14:00+00:00"
 slug = "widespread-blurring-of"
 tags = ["retalls"]
 x_url = "https://fas.org/blogs/security/2018/12/widespread-blurring-of-satellite-images-reveals-secret-facilities/"
-x_title = "Widespread Blurring of Satellite Images Reveals Secret Facilities"
+title = "Widespread Blurring of Satellite Images Reveals Secret Facilities"
 x_source = ""
 +++
 

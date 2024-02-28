@@ -1,6 +1,5 @@
 +++
 url = "/2019/12/01/diu-john-fowles.html"
-title = ""
 date = "2019-12-01T08:50:00+00:00"
 slug = "diu-john-fowles"
 tags = []

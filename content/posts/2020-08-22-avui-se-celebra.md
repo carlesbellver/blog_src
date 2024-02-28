@@ -1,6 +1,5 @@
 +++
 url = "/2020/08/22/avui-se-celebra.html"
-title = ""
 date = "2020-08-22T09:44:25+00:00"
 slug = "avui-se-celebra"
 +++

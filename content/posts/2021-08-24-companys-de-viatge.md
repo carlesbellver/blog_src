@@ -1,5 +1,4 @@
 +++
-title = ""
 date = "2021-08-24T12:53:14+02:00"
 tags = ["citacions"]
 slug = "companys-de-viatge"

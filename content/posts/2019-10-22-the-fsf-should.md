@@ -1,11 +1,10 @@
 +++
 url = "/2019/10/22/the-fsf-should.html"
-title = ""
 date = "2019-10-22T08:36:00+00:00"
 slug = "the-fsf-should"
 tags = ["retalls"]
 x_url = "https://maffulli.net/2019/10/17/why-richard-stallman-doesnt-matter/"
-x_title = "Why Richard Stallman doesn’t matter"
+title = "Why Richard Stallman doesn’t matter"
 x_source = "Stefano Maffulli"
 +++
 

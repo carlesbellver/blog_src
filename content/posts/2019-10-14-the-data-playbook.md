@@ -1,11 +1,10 @@
 +++
 url = "/2019/10/14/the-data-playbook.html"
-title = ""
 date = "2019-10-14T11:40:58+00:00"
 slug = "the-data-playbook"
 tags = ["retalls"]
 x_url = "https://www.preparecenter.org/toolkit/data-playbook-toolkit"
-x_title = "Data Playbook Toolkit"
+title = "Data Playbook Toolkit"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2020/05/10/in-a-recent.html"
-title = ""
 date = "2020-05-10T17:51:00+00:00"
 slug = "in-a-recent"
 tags = ["retalls"]
 x_url = "https://www.rt.com/op-ed/481831-coronavirus-kill-bill-capitalism-communism/"
-x_title = "Coronavirus is ‘Kill Bill’-esque blow to capitalism and could lead to reinvention of communism"
+title = "Coronavirus is ‘Kill Bill’-esque blow to capitalism and could lead to reinvention of communism"
 x_source = "Slavoj Zizek"
 +++
 

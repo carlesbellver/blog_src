@@ -1,11 +1,10 @@
 +++
 url = "/2018/01/01/el-tio-pasqual.html"
-title = "El tio Pasqual i Nel·lo el Tripero"
 date = "2018-01-01T13:10:00+00:00"
 slug = "el-tio-pasqual"
 tags = ["retalls"]
 x_url = "https://web.archive.org/web/20180201094232/https://gitanizate.wordpress.com/2017/12/19/pasqual-martinez-i-garcia-escritor-gitano-valenciano-del-siglo-xix/"
-x_title = "Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX"
+title = "Pasqual Martínez i Garcia, escritor gitano valenciano del siglo XIX"
 x_source = "[archived]"
 +++
 

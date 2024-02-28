@@ -1,11 +1,10 @@
 +++
 url = "/2017/10/18/mobile-ad-technique.html"
-title = ""
 date = "2017-10-18T19:36:00+00:00"
 slug = "mobile-ad-technique"
 tags = ["retalls"]
 x_url = "https://boingboing.net/2017/10/18/adint.html"
-x_title = "Mobile ad technique allows stalkers to follow you around a city for less than $1000"
+title = "Mobile ad technique allows stalkers to follow you around a city for less than $1000"
 x_source = ""
 +++
 

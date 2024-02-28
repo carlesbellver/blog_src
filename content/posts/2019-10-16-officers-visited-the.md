@@ -1,11 +1,10 @@
 +++
 url = "/2019/10/16/officers-visited-the.html"
-title = ""
 date = "2019-10-16T15:58:15+00:00"
 slug = "officers-visited-the"
 tags = ["retalls"]
 x_url = "https://www.bbc.com/news/world-europe-50054044"
-x_title = "Dutch family 'waiting for end of time' discovered in basement"
+title = "Dutch family 'waiting for end of time' discovered in basement"
 x_source = ""
 +++
 

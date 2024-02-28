@@ -1,6 +1,5 @@
 +++
 url = "/2019/06/07/miskatonic-university-digital.html"
-title = ""
 date = "2019-06-07T18:30:00+00:00"
 slug = "miskatonic-university-digital"
 tags = ["contes","intl"]

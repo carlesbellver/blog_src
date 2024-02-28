@@ -1,11 +1,10 @@
 +++
 url = "/2019/10/15/la-sentencia-salva.html"
-title = ""
 date = "2019-10-15T16:49:00+00:00"
 slug = "la-sentencia-salva"
 tags = ["retalls"]
 x_url = "https://ctxt.es/es/20191009/Firmas/28864/Editorial-Sentencia-Cat-Proces-sedicion.htm"
-x_title = "Una sentencia contra la democracia"
+title = "Una sentencia contra la democracia"
 x_source = "Editorial ctxt.es"
 +++
 

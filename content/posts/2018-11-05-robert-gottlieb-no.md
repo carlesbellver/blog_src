@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/05/robert-gottlieb-no.html"
-title = ""
 date = "2018-11-05T16:00:00+00:00"
 slug = "robert-gottlieb-no"
 tags = ["retalls"]
 x_url = "https://www.lavanguardia.com/cultura/20181103/452692858164/no-suelto-un-texto-hasta-estar-seguro-de-que-es-su-mejor-version.html"
-x_title = "“No suelto un texto hasta estar seguro de que es su mejor versión”"
+title = "“No suelto un texto hasta estar seguro de que es su mejor versión”"
 x_source = ""
 +++
 

@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2022-07-27T20:13:06+02:00"
 tags = ["retalls"]
 slug = "alternative-physics"
 x_url = "https://phys.org/news/2022-07-roboticists-alternative-physics.html"
-x_title = "Roboticists discover alternative physics"
+title = "Roboticists discover alternative physics"
 x_source = ""
 +++
 

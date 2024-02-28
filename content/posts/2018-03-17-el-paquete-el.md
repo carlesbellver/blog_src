@@ -1,11 +1,10 @@
 +++
 url = "/2018/03/17/el-paquete-el.html"
-title = ""
 date = "2018-03-17T17:26:00+00:00"
 slug = "el-paquete-el"
 tags = ["retalls"]
 x_url = "https://qz.com/email/quartz-obsession/1230913/"
-x_title = "El Paquete"
+title = "El Paquete"
 x_source = ""
 +++
 

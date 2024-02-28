@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/06/ittybitty-itty-bitty.html"
-title = ""
 date = "2018-07-06T10:38:00+00:00"
 slug = "ittybitty-itty-bitty"
 tags = ["retalls"]
 x_url = "http://about.bitty.site/"
-x_title = "itty.bitty"
+title = "itty.bitty"
 x_source = ""
 +++
 

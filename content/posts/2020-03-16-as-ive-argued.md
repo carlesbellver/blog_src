@@ -1,11 +1,10 @@
 +++
 url = "/2020/03/16/as-ive-argued.html"
-title = ""
 date = "2020-03-16T18:51:01+00:00"
 slug = "as-ive-argued"
 tags = ["retalls"]
 x_url = "http://blog.edtechie.net/openness/open-ed-as-the-anti-disruption/"
-x_title = "Open ed as the anti-disruption"
+title = "Open ed as the anti-disruption"
 x_source = "Martin Weller"
 +++
 

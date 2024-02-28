@@ -1,11 +1,10 @@
 +++
 url = "/2018/04/01/thousands-of-companies.html"
-title = ""
 date = "2018-04-01T09:13:00+00:00"
 slug = "thousands-of-companies"
 tags = ["retalls"]
 x_url = "https://m.slashdot.org/story/339089"
-x_title = "Thousands of Companies Are Spying On You"
+title = "Thousands of Companies Are Spying On You"
 x_source = ""
 +++
 

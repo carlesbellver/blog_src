@@ -1,6 +1,5 @@
 +++
 url = "/2019/06/22/kafka-un-mdico.html"
-title = ""
 date = "2019-06-22T09:46:00+00:00"
 slug = "kafka-un-mdico"
 tags = ["citacions"]

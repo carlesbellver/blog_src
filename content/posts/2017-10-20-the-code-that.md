@@ -1,11 +1,10 @@
 +++
 url = "/2017/10/20/the-code-that.html"
-title = ""
 date = "2017-10-20T14:58:00+00:00"
 slug = "the-code-that"
 tags = ["retalls"]
 x_url = "https://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/"
-x_title = "The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule"
+title = "The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule"
 x_source = ""
 +++
 

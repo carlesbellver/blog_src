@@ -1,11 +1,10 @@
 +++
 url = "/2018/08/08/women-die-more.html"
-title = ""
 date = "2018-08-08T18:22:00+00:00"
 slug = "women-die-more"
 tags = ["retalls"]
 x_url = "https://slashdot.org/story/344366"
-x_title = "Women Die More From Heart Attacks Than Men — Unless the ER Doc Is Female"
+title = "Women Die More From Heart Attacks Than Men — Unless the ER Doc Is Female"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
-title = ""
 date = "2023-01-06T20:02:14+01:00"
 tags = ["retalls"]
 slug = "dark-forest"
 syndication = ["https://mastodon.social/@carlesbellver/109643887047275149"]
 x_url = "https://maggieappleton.com/ai-dark-forest"
-x_title = "The Expanding Dark Forest and Generative AI"
+title = "The Expanding Dark Forest and Generative AI"
 x_source = ""
 +++
 

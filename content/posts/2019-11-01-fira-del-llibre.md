@@ -1,6 +1,5 @@
 +++
 url = "/2019/11/01/fira-del-llibre.html"
-title = ""
 date = "2019-11-01T18:36:00+00:00"
 slug = "fira-del-llibre"
 tags = ["llocs"]

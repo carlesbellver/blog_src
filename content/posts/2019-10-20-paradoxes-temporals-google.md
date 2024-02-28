@@ -1,6 +1,5 @@
 +++
 url = "/2019/10/20/paradoxes-temporals-google.html"
-title = ""
 date = "2019-10-20T15:21:04+00:00"
 slug = "paradoxes-temporals-google"
 +++

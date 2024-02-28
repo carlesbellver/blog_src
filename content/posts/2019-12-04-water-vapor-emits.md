@@ -1,11 +1,10 @@
 +++
 url = "/2019/12/04/water-vapor-emits.html"
-title = ""
 date = "2019-12-04T07:52:00+00:00"
 slug = "water-vapor-emits"
 tags = ["retalls"]
 x_url = "https://singularityhub.com/2019/12/04/why-your-5g-phone-connection-could-mean-lousy-weather-forecasts/"
-x_title = "Why Your 5G Phone Connection Could Mean Lousy Weather Forecasts"
+title = "Why Your 5G Phone Connection Could Mean Lousy Weather Forecasts"
 x_source = ""
 +++
 

@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-03-13T10:12:41+01:00"
 tags = ["retalls"]
 slug = "censusgpt"
 x_url = "https://censusgpt.com/"
-x_title = "Census GPT"
+title = "Census GPT"
 x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/110015246254853555"]
 +++

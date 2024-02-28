@@ -1,11 +1,10 @@
 +++
 url = "/2018/11/21/availability-of-cookies.html"
-title = ""
 date = "2018-11-21T09:29:00+00:00"
 slug = "availability-of-cookies"
 tags = ["retalls", "educació"]
 x_url = "https://onlinelibrary.wiley.com/doi/full/10.1111/medu.13627"
-x_title = "Availability of cookies during an academic course session affects evaluation of teaching"
+title = "Availability of cookies during an academic course session affects evaluation of teaching"
 x_source = ""
 +++
 

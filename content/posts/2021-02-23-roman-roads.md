@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-02-23T19:49:05+01:00"
 tags = ["retalls"]
 slug = "roman-roads"
 x_url = "https://sashamaps.net/docs/maps/roman-roads-index/"
-x_title = "Roman Roads Index | Sasha Trubetskoy"
+title = "Roman Roads Index | Sasha Trubetskoy"
 x_source = ""
 +++
 

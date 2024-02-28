@@ -1,11 +1,10 @@
 +++
 url = "/2018/03/16/la-sembra-sagnant.html"
-title = ""
 date = "2018-03-16T16:24:00+00:00"
 slug = "la-sembra-sagnant"
 tags = ["retalls"]
 x_url = "https://www.eltemps.cat/article/3548/la-sembra-sagnant-de-laviacio-feixista"
-x_title = "La sembra sagnant de l’aviació feixista"
+title = "La sembra sagnant de l’aviació feixista"
 x_source = ""
 +++
 

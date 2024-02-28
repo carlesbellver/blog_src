@@ -1,11 +1,10 @@
 +++
 url = "/2018/07/02/when-audiences-come.html"
-title = ""
 date = "2018-07-02T07:34:00+00:00"
 slug = "when-audiences-come"
 tags = ["retalls", "citacions"]
 x_url = "https://quoteinvestigator.com/2018/07/01/funny-look/"
-x_title = "When Audiences Come To See Authors Lecture, It Is Largely in the Hope That We’ll Be Funnier To Look at Than To Read"
+title = "When Audiences Come To See Authors Lecture, It Is Largely in the Hope That We’ll Be Funnier To Look at Than To Read"
 x_source = ""
 +++
 

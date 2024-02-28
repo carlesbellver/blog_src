@@ -1,11 +1,10 @@
 +++
 url = "/2019/09/03/all-these-prints.html"
-title = ""
 date = "2019-09-03T20:48:00+00:00"
 slug = "all-these-prints"
 tags = ["retalls"]
 x_url = "https://github.com/EvgenyKashin/ganarts"
-x_title = "This T-shirt does not exist"
+title = "This T-shirt does not exist"
 x_source = ""
 +++
 

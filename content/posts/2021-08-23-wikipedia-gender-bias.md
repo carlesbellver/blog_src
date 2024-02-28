@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-08-23T22:41:03+02:00"
 slug = "wikipedia-gender-bias"
 tags = ["retalls"]
 x_url = "https://www.cbc.ca/news/science/wikipedia-bias-1.6129073"
-x_title = "Canadian Nobel scientist's deletion from Wikipedia points to wider bias, study finds"
+title = "Canadian Nobel scientist's deletion from Wikipedia points to wider bias, study finds"
 x_source = ""
 +++
 

@@ -1,6 +1,5 @@
 +++
 url = "/2019/08/15/avui-celebrem-als.html"
-title = ""
 date = "2019-08-15T15:04:42+00:00"
 slug = "avui-celebrem-als"
 tags = ["fotos"]

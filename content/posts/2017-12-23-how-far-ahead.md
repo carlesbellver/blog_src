@@ -1,11 +1,10 @@
 +++
 url = "/2017/12/23/how-far-ahead.html"
-title = ""
 date = "2017-12-23T08:17:00+00:00"
 slug = "how-far-ahead"
 tags = ["retalls"]
 x_url = "https://www.justinobeirne.com/google-maps-moat"
-x_title = "How far ahead of Apple Maps is Google Maps?"
+title = "How far ahead of Apple Maps is Google Maps?"
 x_source = ""
 +++
 

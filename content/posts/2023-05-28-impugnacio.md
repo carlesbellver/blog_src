@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-05-28T18:14:23+02:00"
 tags = ["retalls"]
 slug = "impugnacio"
 x_url = "https://carlesbellver.net/contes/impugnacio"
-x_title = "Impugnació de Kavafis"
+title = "Impugnació de Kavafis"
 x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/110447253421013263"]
 +++

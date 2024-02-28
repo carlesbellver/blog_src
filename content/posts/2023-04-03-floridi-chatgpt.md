@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2023-04-03T14:05:09+02:00"
 tags = ["retalls"]
 slug = "floridi-chatgpt"
 x_url = "https://thephilosophyofinformation.blogspot.com/2023/04/between-rock-and-hard-place-sci-fi.html"
-x_title = "Luciano Floridi: “Bloquejar ChatGPT és una mesura draconiana. Aprenguem a utilitzar-lo i legislem”"
+title = "Luciano Floridi: “Bloquejar ChatGPT és una mesura draconiana. Aprenguem a utilitzar-lo i legislem”"
 x_source = ""
 syndication = []
 +++

@@ -1,6 +1,5 @@
 +++
 url = "/2017/04/27/nothing-to-say.html"
-title = ""
 date = "2017-04-27T17:18:01+00:00"
 slug = "nothing-to-say"
 +++

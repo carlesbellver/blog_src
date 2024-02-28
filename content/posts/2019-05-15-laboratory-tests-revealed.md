@@ -1,11 +1,10 @@
 +++
 url = "/2019/05/15/laboratory-tests-revealed.html"
-title = ""
 date = "2019-05-15T16:41:40+00:00"
 slug = "laboratory-tests-revealed"
 tags = ["retalls"]
 x_url = "https://www.theartnewspaper.com/news/hidden-cupid-resurfaces-in-one-of-vermeer-s-best-known-works"
-x_title = "Hidden Cupid resurfaces in one of Vermeer’s best-known works after two and a half centuries"
+title = "Hidden Cupid resurfaces in one of Vermeer’s best-known works after two and a half centuries"
 x_source = ""
 +++
 

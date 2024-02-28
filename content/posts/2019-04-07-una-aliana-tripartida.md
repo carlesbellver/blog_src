@@ -1,6 +1,5 @@
 +++
 url = "/2019/04/07/una-aliana-tripartida.html"
-title = ""
 date = "2019-04-07T14:04:50+00:00"
 slug = "una-aliana-tripartida"
 +++

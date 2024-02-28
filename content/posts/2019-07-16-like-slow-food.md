@@ -1,11 +1,10 @@
 +++
 url = "/2019/07/16/like-slow-food.html"
-title = ""
 date = "2019-07-16T09:56:00+00:00"
 slug = "like-slow-food"
 tags = ["retalls"]
 x_url = "http://en.slow-media.net/manifesto"
-x_title = "The Slow Media Manifesto"
+title = "The Slow Media Manifesto"
 x_source = ""
 +++
 

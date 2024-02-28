@@ -1,6 +1,5 @@
 +++
 url = "/2013/06/29/blog-definition-by.html"
-title = ""
 date = "2013-06-29T22:00:00+00:00"
 slug = "blog-definition-by"
 tags = ["retalls","citacions"]

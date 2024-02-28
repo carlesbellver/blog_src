@@ -1,11 +1,10 @@
 +++
 url = "/2017/03/01/la-verdadera-brecha.html"
-title = ""
 date = "2017-03-01T23:00:00+00:00"
 slug = "la-verdadera-brecha"
 tags = ["retalls", "educació"]
 x_url = "http://blog.enguita.info/2017/02/del-clip-al-clic-postfacio-el-estado-de.html"
-x_title = "Del clip al clic -Postfacio: El estado de la educación escolar (ante el entorno digital)"
+title = "Del clip al clic -Postfacio: El estado de la educación escolar (ante el entorno digital)"
 x_source = "Mariano Fernández Enguita"
 +++
 

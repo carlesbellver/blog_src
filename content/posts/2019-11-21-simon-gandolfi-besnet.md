@@ -1,6 +1,5 @@
 +++
 url = "/2019/11/21/simon-gandolfi-besnet.html"
-title = ""
 date = "2019-11-21T16:09:09+00:00"
 slug = "simon-gandolfi-besnet"
 +++

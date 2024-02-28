@@ -1,11 +1,10 @@
 +++
 url = "/2019/09/21/the-altai-region.html"
-title = ""
 date = "2019-09-21T19:33:00+00:00"
 slug = "the-altai-region"
 tags = ["retalls"]
 x_url = "https://www.amusingplanet.com/2019/09/the-mountains-where-space-junk-litter.html"
-x_title = "The Mountain Where Space Junk Litters"
+title = "The Mountain Where Space Junk Litters"
 x_source = ""
 +++
 

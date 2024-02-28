@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2020-12-12T13:25:29+01:00"
 tags = ["retalls"]
 slug = "plantes-consciencia"
 x_url = "https://www.vozpopuli.com/altavoz/next/verdad-plantas-ven-hablan_0_1414959049.html"
-x_title = "¿Es verdad que las plantas “ven” y “hablan” entre ellas?"
+title = "¿Es verdad que las plantas “ven” y “hablan” entre ellas?"
 x_source = ""
 +++
 

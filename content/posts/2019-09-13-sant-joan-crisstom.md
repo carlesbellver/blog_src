@@ -1,6 +1,5 @@
 +++
 url = "/2019/09/13/sant-joan-crisstom.html"
-title = ""
 date = "2019-09-13T05:30:02+00:00"
 slug = "sant-joan-crisstom"
 +++

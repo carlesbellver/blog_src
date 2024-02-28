@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2024-01-31T15:18:11+01:00"
 tags = ["retalls"]
 slug = "arora-goyal"
 x_url = "https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/"
-x_title = "New Theory Suggests Chatbots Can Understand Text"
+title = "New Theory Suggests Chatbots Can Understand Text"
 x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/111851037754363225"]
 +++

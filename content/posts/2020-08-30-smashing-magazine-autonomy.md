@@ -1,11 +1,10 @@
 +++
 url = "/2020/08/30/smashing-magazine-autonomy.html"
-title = ""
 date = "2020-08-30T07:20:00+00:00"
 slug = "smashing-magazine-autonomy"
 tags = ["retalls"]
 x_url = "https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/"
-x_title = "Autonomy Online: A Case For The IndieWeb"
+title = "Autonomy Online: A Case For The IndieWeb"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2017/12/08/un-big-data.html"
-title = ""
 date = "2017-12-08T16:10:00+00:00"
 slug = "un-big-data"
 tags = ["retalls"]
 x_url = "https://www.yorokobu.es/cerdismo-dominguero/"
-x_title = "Un big data contra el cerdismo dominguero"
+title = "Un big data contra el cerdismo dominguero"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2020/07/05/la-ruta-esclavista.html"
-title = ""
 date = "2020-07-05T12:29:00+00:00"
 slug = "la-ruta-esclavista"
 tags = ["retalls"]
 x_url = "https://www.lavanguardia.com/cultura/20200623/481915539437/barcelona-ruta-esclavista-abolicionismo-monumento-a-colon-marques-de-comillas-el-negret.html"
-x_title = "La ruta esclavista por las calles de Barcelona"
+title = "La ruta esclavista por las calles de Barcelona"
 x_source = ""
 +++
 

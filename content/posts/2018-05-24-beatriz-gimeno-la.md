@@ -1,11 +1,10 @@
 +++
 url = "/2018/05/24/beatriz-gimeno-la.html"
-title = ""
 date = "2018-05-24T10:30:00+00:00"
 slug = "beatriz-gimeno-la"
 tags = ["retalls"]
 x_url = "https://www.eldiario.es/nidos/Beatriz-Gimeno_0_774122804.html"
-x_title = "Beatriz Gimeno: “La lactancia está sirviendo para marcar el estándar de la buena y la mala madre”"
+title = "Beatriz Gimeno: “La lactancia está sirviendo para marcar el estándar de la buena y la mala madre”"
 x_source = ""
 +++
 

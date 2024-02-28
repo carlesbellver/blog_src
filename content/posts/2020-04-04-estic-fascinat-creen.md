@@ -1,6 +1,5 @@
 +++
 url = "/2020/04/04/estic-fascinat-creen.html"
-title = ""
 date = "2020-04-04T17:36:43+00:00"
 slug = "estic-fascinat-creen"
 +++

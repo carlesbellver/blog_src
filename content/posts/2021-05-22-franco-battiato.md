@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-05-22T09:11:51+02:00"
 tags = ["retalls"]
 slug = "franco-battiato"
 x_url = "https://www.rockdelux.com/musica/franco-battiato--quien-soy"
-x_title = "Franco Battiato: ¿quién soy?"
+title = "Franco Battiato: ¿quién soy?"
 x_source = ""
 +++
 

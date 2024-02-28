@@ -1,11 +1,10 @@
 +++
 url = "/2018/09/18/csar-rendueles-herejes.html"
-title = ""
 date = "2018-09-18T14:04:00+00:00"
 slug = "csar-rendueles-herejes"
 tags = ["retalls"]
 x_url = "https://elpais.com/cultura/2018/09/13/babelia/1536828693_419316.html"
-x_title = "Herejes de la religión digital"
+title = "Herejes de la religión digital"
 x_source = "César Rendueles"
 +++
 

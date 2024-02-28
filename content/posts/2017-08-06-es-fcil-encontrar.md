@@ -1,11 +1,10 @@
 +++
 url = "/2017/08/06/es-fcil-encontrar.html"
-title = ""
 date = "2017-08-06T08:27:00+00:00"
 slug = "es-fcil-encontrar"
 tags = ["retalls"]
 x_url = "http://www.eldiario.es/hojaderouter/seguridad/encontrar-rastro-laberinto-anonimos-tecnologicas_0_671933044.html"
-x_title = "Es fácil encontrar tu rastro en el laberinto de datos “anónimos” de las tecnológicas"
+title = "Es fácil encontrar tu rastro en el laberinto de datos “anónimos” de las tecnológicas"
 x_source = ""
 +++
 

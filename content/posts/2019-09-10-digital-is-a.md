@@ -1,11 +1,10 @@
 +++
 url = "/2019/09/10/digital-is-a.html"
-title = ""
 date = "2019-09-10T14:25:00+00:00"
 slug = "digital-is-a"
 tags = ["retalls"]
 x_url = "http://gerrymcgovern.com/digital-is-garbage/"
-x_title = "Digital is garbage"
+title = "Digital is garbage"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2018/06/19/build-a-better.html"
-title = ""
 date = "2018-06-19T13:56:00+00:00"
 slug = "build-a-better"
 tags = ["retalls"]
 x_url = "http://idlewords.com/talks/build_a_better_monster.htm"
-x_title = "Build a Better Monster: Morality, Machine Learning, and Mass Surveillance"
+title = "Build a Better Monster: Morality, Machine Learning, and Mass Surveillance"
 x_source = ""
 +++
 

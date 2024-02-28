@@ -1,11 +1,10 @@
 +++
 url = "/2017/07/23/how-a-group.html"
-title = ""
 date = "2017-07-23T10:55:00+00:00"
 slug = "how-a-group"
 tags = ["retalls"]
 x_url = "http://www.atlasobscura.com/articles/disneyland-yippies-1970"
-x_title = "How a Group of '70s Radicals Tried (and Failed) to Invade Disneyland"
+title = "How a Group of '70s Radicals Tried (and Failed) to Invade Disneyland"
 x_source = ""
 +++
 

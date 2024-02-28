@@ -1,11 +1,10 @@
 +++
 url = "/2020/05/16/el-teletrabajo-es.html"
-title = ""
 date = "2020-05-16T10:59:00+00:00"
 slug = "el-teletrabajo-es"
 tags = ["retalls"]
 x_url = "https://www.eldiario.es/tribunaabierta/Teletrabajo-modelo-organizativo-consciente_6_1024757523.html"
-x_title = "Teletrabajo: hacia un modelo organizativo consciente"
+title = "Teletrabajo: hacia un modelo organizativo consciente"
 x_source = "Ricardo Chiva Gómez"
 +++
 

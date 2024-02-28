@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/25/artificial-intelligence-creates.html"
-title = ""
 date = "2018-12-25T11:30:00+00:00"
 slug = "artificial-intelligence-creates"
 tags = ["retalls"]
 x_url = "http://www.openculture.com/2018/12/artificial-intelligence-creates-realistic-photos-of-people-none-of-whom-actually-exist.html"
-x_title = "Artificial Intelligence Creates Realistic Photos of People, None of Whom Actually Exist"
+title = "Artificial Intelligence Creates Realistic Photos of People, None of Whom Actually Exist"
 x_source = ""
 +++
 

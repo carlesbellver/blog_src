@@ -1,10 +1,9 @@
 +++
-title = ""
 date = "2021-09-17T09:30:00+02:00"
 tags = []
 slug = "clive-sinclair"
 x_url = ""
-x_title = "Home computing pioneer Sir Clive Sinclair dies aged 81"
+title = "Home computing pioneer Sir Clive Sinclair dies aged 81"
 x_source = ""
 +++
 

@@ -1,11 +1,10 @@
 +++
 url = "/2020/05/10/cloudready.html"
-title = ""
 date = "2020-05-10T16:16:23+00:00"
 slug = "cloudready"
 tags = ["retalls"]
 x_url = "https://www.neverware.com/"
-x_title = "CloudReady"
+title = "CloudReady"
 x_source = ""
 +++
 

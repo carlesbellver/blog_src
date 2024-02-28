@@ -1,6 +1,5 @@
 +++
 url = "/2019/04/20/realidad-esta-pesadilla.html"
-title = ""
 date = "2019-04-20T17:21:00+00:00"
 slug = "realidad-esta-pesadilla"
 tags = ["citacions"]

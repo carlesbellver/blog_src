@@ -1,11 +1,10 @@
 +++
 url = "/2018/12/19/as-facebook-raised.html"
-title = ""
 date = "2018-12-19T15:43:00+00:00"
 slug = "as-facebook-raised"
 tags = ["retalls"]
 x_url = "https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html"
-x_title = "As Facebook Raised a Privacy Wall, It Carved an Opening for Tech Giants"
+title = "As Facebook Raised a Privacy Wall, It Carved an Opening for Tech Giants"
 x_source = ""
 +++
 
