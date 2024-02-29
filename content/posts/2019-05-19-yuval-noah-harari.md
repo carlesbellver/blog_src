@@ -6,4 +6,4 @@ tags = ["ressenyes"]
 title = "Sàpiens. Una breu història de la humanitat"
 +++
 
-📖 Yuval Noah Harari, *Sàpiens. Una breu història de la humanitat*. La suma de coneixements i la visió sinòptica resulten tan fascinants com inspiradores, tot i que en algunes pàgines deceben la lleugeresa i la superficialitat dels raonaments. El que em preocupa és adonar-me que en les poques àrees que conec una miqueta —bàsicament dues: *big data* i filosofia de la ment—, fa afirmacions més que qüestionables.
+{{< icon book >}} Yuval Noah Harari, *Sàpiens. Una breu història de la humanitat*. La suma de coneixements i la visió sinòptica resulten tan fascinants com inspiradores, tot i que en algunes pàgines deceben la lleugeresa i la superficialitat dels raonaments. El que em preocupa és adonar-me que en les poques àrees que conec una miqueta —bàsicament dues: *big data* i filosofia de la ment—, fa afirmacions més que qüestionables.

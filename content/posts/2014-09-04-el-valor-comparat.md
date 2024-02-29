@@ -45,5 +45,5 @@ Una revisió de la bibliografia sobre el tema confirma les sospites: fins i tot 
 > 
 > Si calculem el valor comparat d’aquests fems, amb els preus que hem assignat a les matèries fertilitzants, trobem que una tona de fem d’obrer val 9 fr. 74 c., i una tona de fem de burgès 15 fr. 47 c.
 
-📖 Achille Müntz, Adam Charles Girard: [*Les engrais*](http://archive.org/details/lesengrais02giragoog) (1891). T. 1, pàg. 388-389.
+{{< icon book >}} Achille Müntz, Adam Charles Girard: [*Les engrais*](http://archive.org/details/lesengrais02giragoog) (1891). T. 1, pàg. 388-389.
 

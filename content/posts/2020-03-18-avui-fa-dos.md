@@ -6,4 +6,4 @@ slug = "avui-fa-dos"
 
 Avui fa dos anys que vaig publicar aquest conte (potser infantil, però no molt) inspirat en el refugi antiaeri de la plaça Tetuan de Castelló:
 
-📖 [Una història subterrània](https://carlesbellver.net/contes/unahistoriasubterrania.html)
+{{< icon book >}} [Una història subterrània](https://carlesbellver.net/contes/unahistoriasubterrania.html)

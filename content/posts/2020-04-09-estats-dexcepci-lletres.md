@@ -5,7 +5,7 @@ slug = "estats-dexcepci-lletres"
 tags = ["retalls"]
 +++
 
-📖 [Estats d’excepció. Lletres per al rescabalament](http://elpontdeleslletres.cat/estatsdexcepcio/)
+{{< icon book >}} [Estats d’excepció. Lletres per al rescabalament](http://elpontdeleslletres.cat/estatsdexcepcio/)
 
 Llibre col·lectiu d’El Pont, en el nostre desè aniversari, bellament escrit, il·lustrat i editat. En PDF, gratis.
 

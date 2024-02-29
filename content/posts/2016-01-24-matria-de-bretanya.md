@@ -8,7 +8,7 @@ tags = ["ressenyes", "citacions"]
 
 <img src="https://www.escriptors.cat/sites/default/files/styles/medium/public/2019-02/5219materiabretanya.g.jpg?itok=lusHxDQO" style="height: 250px; width: auto;" />
 
-📖 Vaig llegir *Matèria de Bretanya*, de [Carmelina Sánchez-Cutillas](http://www.escriptors.cat/autors/cutillass/pagina.php?id_sec=2781), fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors.
+{{< icon book >}} Vaig llegir *Matèria de Bretanya*, de [Carmelina Sánchez-Cutillas](http://www.escriptors.cat/autors/cutillass/pagina.php?id_sec=2781), fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors.
 
 Un llibre fascinant, d’una fama més que justa, premi Octubre-Andròmina de narrativa de 1975 i reeditat moltes vegades. Però no és del llibre que volia escriure ací quatre ratlles. Tampoc no vull desvelar la raó del títol: la referència a la cèlebre [matèria de Bretanya](https://fr.wikipedia.org/wiki/Mati%C3%A8re_de_Bretagne) o cicle artúric. Simplement em proposava deixar una nota sobre l’origen d’aquesta denominació, encunyada pel poeta francès [Jean Bodel](https://fr.wikipedia.org/wiki/Jean_Bodel), cap a l’any 1200, al pròleg de la *Chanson des Saisnes* (“Cançó dels saxons”), poema èpic sobre la guerra de Carlemany amb els saxons:
 

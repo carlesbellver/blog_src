@@ -7,4 +7,4 @@ title = "The Testaments"
 x_source = "Margaret Atwood"
 +++
 
-📖 Margaret Atwood, *The Testaments*. La visió atroç d'*El conte de la serventa* deriva en aquest relat juvenil d’iniciació i alliberament.
+{{< icon book >}} Margaret Atwood, *The Testaments*. La visió atroç d'*El conte de la serventa* deriva en aquest relat juvenil d’iniciació i alliberament.
