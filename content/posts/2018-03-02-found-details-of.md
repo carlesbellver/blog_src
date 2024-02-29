@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Un monument de formigó de trenta metres que hauria dominat el campus de la USF a Tampa i que no es va fer mai. La junta rectora hi va donar l'aprovació el 9 d'abril de 1973, un dia després de la mort de Picasso, però no va acceptar finançar el pressupost estimat de deu milions de dòlars.
+Un monument de formigó de trenta metres que hauria dominat el campus de la USF a Tampa i que no es va fer mai. La junta rectora hi va donar l’aprovació el 9 d’abril de 1973, un dia després de la mort de Picasso, però no va acceptar finançar el pressupost estimat de deu milions de dòlars.

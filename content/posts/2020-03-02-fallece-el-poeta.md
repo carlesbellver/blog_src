@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Jo tenia quinze anys, el 4 de març de 1983, i encara recorde aquell moment televisiu, quan Wojtyła va esbroncar Ernesto Cardenal literalment davant de tothom i vaig entendre quina mena de persona era cada un. (“Haga como yo,” imagine que devia amollar Wojtyła a Cardenal, “no se meta en política”. Però en polonès o en llatí.)
+Jo tenia quinze anys, el 4 de març de 1983, i encara recorde aquell moment tan televisiu, quan Wojtyła va esbroncar Ernesto Cardenal literalment davant de tothom i vaig entendre quina mena de persona era cada un. (“Haga como yo,” imagine que devia amollar Wojtyła a Cardenal, “no se meta en política”. Però en polonès, o en llatí.)
