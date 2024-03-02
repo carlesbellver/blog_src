@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Segons Daniel Ellsberg, les situacions descrites no s'allunyaven pas de la realitat.
+Segons Daniel Ellsberg, les situacions descrites no s’allunyaven pas de la realitat.
 
