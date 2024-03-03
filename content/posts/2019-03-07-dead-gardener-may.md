@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Un jardiner apareix mort i tot seguit sengles bombes maten dues persones amb qui havia tingut diferències. La policia alemanya sospita que el jardiner havia posat els explosius i tem que pogués haver preparat més trampes.
+Un jardiner apareix mort i tot seguit sengles bombes maten dues persones amb qui havia tingut diferències. La policia alemanya sospita que el jardiner havia posat els explosius i tem que poguera haver preparat més trampes.
 

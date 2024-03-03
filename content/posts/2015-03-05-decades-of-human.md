@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-A l'Everest, dotze mil quilos d'excrements humans contaminen la neu —l'aigua— cada any.
+A l’Everest, dotze mil quilos d’excrements humans contaminen la neu —l’aigua— cada any.
 

@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Escacs en el Sinclair ZX81. En 1 KB de RAM! Els dies furiosos i excitants dels vuit bits, quan les limitacions del maquinari definien l'experiència de la programació.
+Escacs en el Sinclair ZX81. En 1 KB de RAM! Els dies furiosos i excitants dels vuit bits, quan les limitacions del maquinari definien l’experiència de la programació.
 

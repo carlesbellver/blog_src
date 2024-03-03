@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-Un equip d'investigació ha provat que el so ambient fa vibrar els components mecànics dels discos durs, i que analitzant aquestes vibracions es pot enregistrar i transcriure la veu humana: és a dir, qualsevol conversa prop de l'ordinador. Més motius per a la paranoia. I per a canviar tots els discos per unitats d'estat sòlid.
+Un equip d’investigació ha provat que el so ambient fa vibrar els components mecànics dels discos durs, i que analitzant aquestes vibracions es pot enregistrar i transcriure la veu humana: és a dir, qualsevol conversa prop de l’ordinador. Més motius per a la paranoia. I per a canviar tots els discos per unitats d’estat sòlid.
 
-> Aquests micròfons no intencionats capten la parla amb la suficient fidelitat perquè el servei Shazam reconegui una cançó.
+> Aquests micròfons no intencionats capten la parla amb la suficient fidelitat perquè el servei Shazam reconega una cançó.
