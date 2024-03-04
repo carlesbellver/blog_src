@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> En resum, l'IndieWeb tracta sobre utilitzar el web mateix com a xarxa social, mitjançant un conjunt d’estàndards oberts per a la comunicació i la identificació de contingut i persones.
+> En resum, l’IndieWeb tracta sobre utilitzar el web mateix com a xarxa social, mitjançant un conjunt d’estàndards oberts per a la comunicació i la identificació de contingut i persones.

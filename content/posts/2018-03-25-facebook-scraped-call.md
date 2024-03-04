@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Si vau donar permís a Facebook per a accedir als vostres contactes abans de la versió d'Android 4.1, amb això també vau autoritzar l'accés al registre de trucades i missatges.
+Si vau donar permís a Facebook per a accedir als vostres contactes abans de la versió d’Android 4.1, amb això també vau autoritzar l’accés al registre de trucades i missatges.
 

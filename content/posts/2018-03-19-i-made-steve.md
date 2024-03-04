@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> A la fi del qual l'aplicació de Kogan, anomenada ‘thisismydigitallife’ \[*lamevavidadigital*], demanava permís per a accedir als seus perfils de Facebook. I no només als seus, sinó també als dels seus amics. De mitjana, cada "sembrador" —les persones que havien contestat el test de personalitat, al voltant de 320.000 en total— van donar accés sense saber-ho als perfils d'altres cent seixanta persones, cap de les quals se'n van assabentar ni van tenir motius per a sospitar-ho. 
+> A la fi del qual l’aplicació de Kogan, anomenada ‘thisismydigitallife’ \[*lamevavidadigital*], demanava permís per a accedir als seus perfils de Facebook. I no només als seus, sinó també als dels seus amics. De mitjana, cada "sembrador" —les persones que havien contestat el test de personalitat, al voltant de 320.000 en total— van donar accés sense saber-ho als perfils d’altres cent seixanta persones, cap de les quals se’n van assabentar ni van tenir motius per a sospitar-ho. 
 

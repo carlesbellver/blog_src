@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-El processament predictiu i la naturalesa de l'experiència conscient. Conversa amb Andy Clark.
+El processament predictiu i la naturalesa de l’experiència conscient. Conversa amb Andy Clark.

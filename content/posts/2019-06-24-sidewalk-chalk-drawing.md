@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Els captaires de la Itàlia del segle XVI dibuixaven marededéus a l'exterior de les catedrals per guanyar-se unes monedes. Els pelegrins els anomenaven *madonnari*.
+Els captaires de la Itàlia del segle XVI dibuixaven marededéus a l’exterior de les catedrals per guanyar-se unes monedes. Els pelegrins els anomenaven *madonnari*.

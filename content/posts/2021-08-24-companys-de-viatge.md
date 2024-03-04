@@ -4,7 +4,7 @@ tags = ["citacions"]
 slug = "companys-de-viatge"
 +++
 
-Fan campanyes de foment de la lectura perquè volen *vendre* llibres. Però els molesta que la gent vulga escriure i sempre se n'estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!
+Fan campanyes de foment de la lectura perquè volen *vendre* llibres. Però els molesta que la gent vulga escriure i sempre se n’estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!
 
 > Hi ha una pau meravellosa en no publicar.
 

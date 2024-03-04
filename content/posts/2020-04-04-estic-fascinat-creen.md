@@ -6,7 +6,7 @@ slug = "estic-fascinat-creen"
 
 Estic fascinat. Creen webs falses que simulen fòrums, on fan veure que algú pregunta per un llibre *teu* (que realment no interessa pas a ningú), amb la finalitat de difondre enllaços a alguna d’aquelles pàgines de descàrrega rares i fraudulentes.
 
-L’únic enllaç que funciona és el de la pàgina de descàrrega. Tots els altres —el de la pàgina d'inici del fòrum, els dels perfils dels usuaris, etc.— van a la mateixa pàgina on estàs.
+L’únic enllaç que funciona és el de la pàgina de descàrrega. Tots els altres —el de la pàgina d’inici del fòrum, els dels perfils dels usuaris, etc.— van a la mateixa pàgina on estàs.
 
 Quina inventiva!
 

@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Entrevista a Mariano Fernández Enguita en la revista d'ensenyament de CCOO.
+Entrevista a Mariano Fernández Enguita en la revista d’ensenyament de CCOO.

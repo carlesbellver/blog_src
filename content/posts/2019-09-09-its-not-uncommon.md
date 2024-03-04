@@ -8,4 +8,4 @@ title = "The Epstein scandal at MIT shows the moral bankruptcy of techno-elites"
 x_source = "Evgeny Morozov"
 +++
 
-> No és rar que els intel·lectuals facin d'idiotes útils per als rics i poderosos, però sota la [“tercera cultura”](https://www.edge.org/conversation/john_brockman-the-third-culture) pareix un requisit laboral.
+> No és rar que els intel·lectuals facin d’idiotes útils per als rics i poderosos, però sota la [“tercera cultura”](https://www.edge.org/conversation/john_brockman-the-third-culture) pareix un requisit laboral.

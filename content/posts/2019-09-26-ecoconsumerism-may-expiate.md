@@ -8,4 +8,4 @@ title = "Neoliberalism has conned us into fighting climate change as individuals
 x_source = ""
 +++
 
-Cent companyies són responsables del 71% d'emissions. Fer més verdes les nostres vides individuals pot ser important, però ho serà molt més l'acció política col·lectiva.
+Cent companyies són responsables del 71% d’emissions. Fer més verdes les nostres vides individuals pot ser important, però ho serà molt més l’acció política col·lectiva.

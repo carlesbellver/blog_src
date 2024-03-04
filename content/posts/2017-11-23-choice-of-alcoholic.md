@@ -4,12 +4,12 @@ date = "2017-11-23T09:12:00+00:00"
 slug = "choice-of-alcoholic"
 tags = ["retalls", "drogues"]
 x_url = "http://www.bbc.com/news/health-42050438"
-title = "Choice of alcoholic drink 'determines different moods'"
+title = "Choice of alcoholic drink ’determines different moods’"
 x_source = ""
 +++
 
 
-A partir d'una enquesta en línia anònima:
+A partir d’una enquesta en línia anònima:
 
   - El vi negre pareixia ensopir la gent més que el vi blanc.
   - Era més probable que els enquestats se sentiren relaxats en beure vi negre o cervesa.

@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-“…buscàvem l'aplicació per a prendre notes més simple, més fàcil d'utilitzar i que fos relativament assequible.” La millor: [Google Keep](https://www.google.com/keep/). Bona alternativa: [iA Writer](https://ia.net/writer).
+“…buscàvem l’aplicació per a prendre notes més simple, més fàcil d’utilitzar i que fos relativament assequible.” La millor: [Google Keep](https://www.google.com/keep/). Bona alternativa: [iA Writer](https://ia.net/writer).

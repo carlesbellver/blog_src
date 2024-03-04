@@ -4,7 +4,7 @@ date = "2018-02-10T15:43:00+00:00"
 slug = "sobre-las-portavozas"
 tags = ["retalls"]
 x_url = "http://eldiario.es/zonacritica/Portavozas-femenino-improbable_6_738486187.html"
-title = "Sobre las 'portavozas'"
+title = "Sobre las ’portavozas’"
 x_source = ""
 +++
 

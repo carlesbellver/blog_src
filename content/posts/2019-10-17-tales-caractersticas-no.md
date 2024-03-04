@@ -18,7 +18,7 @@ x_source = "Umberto Eco"
 8. Fortalesa i feblesa dels enemics
 9. Viure per la lluita
 10. Elitisme popular
-11. Culte de l'heroisme
+11. Culte de l’heroisme
 12. Masclisme
 13. Populisme qualitatiu
 14. Neollengua

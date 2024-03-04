@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Facilitar la publicació al blog personal de cadascú… però no lubricar la compartició irreflexiva. Això és el que fa que s'escampin les notícies falses i converteix els tuits plens d'odi en tendències algorítmiques, i per això la seguretat de les comunitats en línia requereix un cert nivell de curació.
+Facilitar la publicació al blog personal de cadascú… però no lubricar la compartició irreflexiva. Això és el que fa que s’escampin les notícies falses i converteix els tuits plens d’odi en tendències algorítmiques, i per això la seguretat de les comunitats en línia requereix un cert nivell de curació.

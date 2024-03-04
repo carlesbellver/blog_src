@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Illa de Wight. Excrements de totes les formes i mides, humans i d'altres animals, del segle XXI i de fa milions d'anys.
+Illa de Wight. Excrements de totes les formes i mides, humans i d’altres animals, del segle XXI i de fa milions d’anys.
 

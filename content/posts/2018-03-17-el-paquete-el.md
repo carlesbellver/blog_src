@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-El Paquete Semanal (“The Weekly Packet”): una xarxa clandestina d'intercanvi de fitxers en persona, que distribueix arreu de Cuba discos durs i memòries flaix plens de materials. Ningú sap ben bé d'on ix ni com circula.
+El Paquete Semanal (“The Weekly Packet”): una xarxa clandestina d’intercanvi de fitxers en persona, que distribueix arreu de Cuba discos durs i memòries flaix plens de materials. Ningú sap ben bé d’on ix ni com circula.
 

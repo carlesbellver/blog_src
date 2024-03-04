@@ -4,7 +4,7 @@ date = "2019-01-04T21:27:00+00:00"
 slug = "las-apps-ms"
 tags = ["retalls"]
 x_url = "https://eldiario.es/tecnologia/populares-Android-envian-Facebook-permiso_0_852865126.html"
-title = "Las 'apps' más populares de Android envían datos a Facebook sin tu permiso"
+title = "Las ’apps’ más populares de Android envían datos a Facebook sin tu permiso"
 x_source = ""
 +++
 

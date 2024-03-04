@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-L'estudi suggereix que les gavines troben terrorífica la mirada humana.
+L’estudi suggereix que les gavines troben terrorífica la mirada humana.

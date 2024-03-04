@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Però les ments suspicaces es preguntaven si Sotheby's va ser agafat completament per sorpresa.
+> Però les ments suspicaces es preguntaven si Sotheby’s va ser agafat completament per sorpresa.
 

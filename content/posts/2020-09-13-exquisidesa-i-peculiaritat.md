@@ -10,5 +10,5 @@ syndication = []
 
 —Manuel Baixauli, en [“Baixauli &amp; Benesiu, paraules creuades”](https://valenciaplaza.com/baixauli-benesiu-paraules-creuades)
 
-No sé si l’argument resulta convincent com a estratègia comercial, i dubte que les editorials el compraren, però això tant se me'n dona. Com a lema m’encanta i li’l manllevaria: *exquisidesa i peculiaritat*. M’agradaria pensar que m’escau, pel que fa a la intenció. Aconseguir-ho, reeixir-hi, seria una altra història.
+No sé si l’argument resulta convincent com a estratègia comercial, i dubte que les editorials el compraren, però això tant se me’n dona. Com a lema m’encanta i li’l manllevaria: *exquisidesa i peculiaritat*. M’agradaria pensar que m’escau, pel que fa a la intenció. Aconseguir-ho, reeixir-hi, seria una altra història.
 

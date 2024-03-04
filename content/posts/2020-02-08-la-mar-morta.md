@@ -17,7 +17,7 @@ O dins del mateix llibre, en la peça que li dona títol:
 
 Malauradament, la referència al tal Zoubichryn no ens serveix de res, ja que pareix ser un autor inventat per Perucho. Una altra de les peces del llibre, "Exercici literari", resulta, potser, geogràficament ambigua, o confusa, ja que s’hi barregen la mar Morta i Alexandreta, o [Iskenderun](https://ca.wikipedia.org/wiki/İskenderun), que és més al nord i a la vora del Mediterrani… Però la referència que em pareix definitiva es troba dins d’un altre llibre, el poemari *Itineraris d’Orient* (Edicions 62, 1985, p. 65):
 
-> Retorno al lloc des d’on Diana veié, per primera vegada, la mar Morta. Les aigües són com mercuri; és difícil banyar-s'hi. Tristos són els paratges d’aquesta mar salada.
+> Retorno al lloc des d’on Diana veié, per primera vegada, la mar Morta. Les aigües són com mercuri; és difícil banyar-s’hi. Tristos són els paratges d’aquesta mar salada.
 
 Amb això, crec que no pot quedar cap dubte respecte a la mar en què pensava Perucho.
 

@@ -1,6 +1,6 @@
 +++
 url = "/2013/04/13/un-escriptor-mascle.html"
-title = "Irving: 'Hemingway és el frau més gran de la història de la literatura nord-americana"
+title = "Irving: ’Hemingway és el frau més gran de la història de la literatura nord-americana"
 date = "2013-04-13T22:00:00+00:00"
 slug = "un-escriptor-mascle"
 tags = ["retalls", "citacions"]

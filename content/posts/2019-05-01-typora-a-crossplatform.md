@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Editor (i lector) Markdown multiplataforma, amb vista d'esquema i importació i exportació integrada via Pandoc. Versions per a macOS, Linux i Windows.
+Editor (i lector) Markdown multiplataforma, amb vista d’esquema i importació i exportació integrada via Pandoc. Versions per a macOS, Linux i Windows.

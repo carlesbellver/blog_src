@@ -5,7 +5,7 @@ date = "2006-05-17T22:00:00+00:00"
 slug = "la-mala-memria"
 +++
 
-Anit, en acabant del partit del Barça, mirava a TV3 unes imatges de la Rambla i barrejava records. L’any 1994 vaig anar un dissabte al Saló del Còmic de Barcelona. Devia ser al començament de maig, la data habitual d'aquest esdeveniment fins no fa molt. Hi vaig tenir l’oportunitat de conèixer personalment Max (*Peter Pank*, *Nosotros somos los muertos,* *Bardín el superrealista*), amb qui ja havia intercanviat un parell de cartes i alguna dedicatòria.
+Anit, en acabant del partit del Barça, mirava a TV3 unes imatges de la Rambla i barrejava records. L’any 1994 vaig anar un dissabte al Saló del Còmic de Barcelona. Devia ser al començament de maig, la data habitual d’aquest esdeveniment fins no fa molt. Hi vaig tenir l’oportunitat de conèixer personalment Max (*Peter Pank*, *Nosotros somos los muertos,* *Bardín el superrealista*), amb qui ja havia intercanviat un parell de cartes i alguna dedicatòria.
 
 Aquell vespre, Max em va presentar un amic seu, un periodista mallorquí que crec que em va dir que escrivia per a La Vanguardia sobre temes culturals. A hores d’ara aquesta persona té un càrrec important —és director de l’Institut Ramon Llull— i ha estat una mica controvertit per unes declaracions en un periòdic anglès. Diuen que va dir que les subvencions al llibre en català han fet que s’imprimeixi qualsevol cosa i que això és contraproduent.
 

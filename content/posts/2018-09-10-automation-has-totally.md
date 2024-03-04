@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> L’automatització substitueix sovint el treball humà, però molt rarament en els darrers seixanta anys ha eliminat una professió completa. Només una de les dues-centes setanta professions detallades que s'enumeren al cens nord-americà de 1950 ha estat eliminada per l'automatització […]: operador d'ascensors.
+> L’automatització substitueix sovint el treball humà, però molt rarament en els darrers seixanta anys ha eliminat una professió completa. Només una de les dues-centes setanta professions detallades que s’enumeren al cens nord-americà de 1950 ha estat eliminada per l’automatització […]: operador d’ascensors.
 

@@ -4,7 +4,7 @@ date = "2019-12-08T06:49:35+00:00"
 slug = "propublica-has-determined"
 tags = ["retalls"]
 x_url = "https://m.slashdot.org/story/364382"
-title = "'Why Are Cops Around the World Using This Outlandish Mind-Reading Tool?'"
+title = "’Why Are Cops Around the World Using This Outlandish Mind-Reading Tool?’"
 x_source = ""
 +++
 

@@ -6,4 +6,4 @@ tags = ["ressenyes"]
 title = "Singularidades de una chica rubia"
 +++
 
-{{< icon book >}} 🎬 *Singularidades de una chica rubia*. La pel·lícula —de 2009, quan el director Manoel de Oliveira complia cent un anys— resulta tan antiquada com el conte d'Eça de Queiroz —de 1873— en què es basa. Però té un aire oníric —de malson atemporal— que podria redimir-la.
+{{< icon book >}} 🎬 *Singularidades de una chica rubia*. La pel·lícula —de 2009, quan el director Manoel de Oliveira complia cent un anys— resulta tan antiquada com el conte d’Eça de Queiroz —de 1873— en què es basa. Però té un aire oníric —de malson atemporal— que podria redimir-la.

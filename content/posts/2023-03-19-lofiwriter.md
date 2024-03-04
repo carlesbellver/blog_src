@@ -7,7 +7,7 @@ syndication = ["https://mastodon.social/@carlesbellver/110051193243202635"]
 image = "/uploads/2023/2023-03-19-lofiwriter.jpg"
 +++
 
-<img src="/uploads/2023/2023-03-19-lofiwriter.jpg" alt="Pintura a l'oli d'un robot escrivint en un quadern. Generada per DALL·E.">
+<img src="/uploads/2023/2023-03-19-lofiwriter.jpg" alt="Pintura a l’oli d’un robot escrivint en un quadern. Generada per DALL·E.">
 
 A última hora i per primera vegada en trenta-dos anys, l’UJI va decidir tancar el campus per [Magdalena](https://ca.m.wikipedia.org/wiki/Festes_de_la_Magdalena) i donar-nos vacances. Una part d’aquestes hores inesperades de lleure les he dedicat a continuar jugant amb l’API de ChatGPT i programar un petit bot ([@lofiwriter](https://mastodon.social/@lofiwriter)) que genera textos amb pretensions literàries.
 

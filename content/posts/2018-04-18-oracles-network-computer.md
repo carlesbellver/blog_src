@@ -4,7 +4,7 @@ date = "2018-04-18T14:31:00+00:00"
 slug = "oracles-network-computer"
 tags = ["retalls"]
 x_url = "https://tedium.co/2018/04/12/larry-ellison-network-computer-history/"
-title = "Oracle's Network Computer: Larry Ellison's Too-Early Idea"
+title = "Oracle’s Network Computer: Larry Ellison’s Too-Early Idea"
 x_source = ""
 +++
 

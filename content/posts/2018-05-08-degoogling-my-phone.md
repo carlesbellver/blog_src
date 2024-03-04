@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-LineageOS, botigues d'aplicacions alternatives, aplicacions lliures, sincronització de fitxers, etc.
+LineageOS, botigues d’aplicacions alternatives, aplicacions lliures, sincronització de fitxers, etc.
 

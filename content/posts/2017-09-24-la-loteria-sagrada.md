@@ -18,5 +18,5 @@ El missatge que el filòsof vienès m’enviava —sens dubte de forma involunt�
 - *Tots els contes* de Pere Calders.
 - Una bona antologia o edició completa de pàgines dominicals dels *Peanuts*.
 - El *Necronomicon* (triaria la traducció d’Olaus Wormius o la de John Dee?).
-- La col·lecció d'anuaris de la Cambra Agrària o del Sindicat de Regants.
+- La col·lecció d’anuaris de la Cambra Agrària o del Sindicat de Regants.
 - La Constitució Espanyola de 1978.

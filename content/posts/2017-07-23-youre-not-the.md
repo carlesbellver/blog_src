@@ -9,7 +9,7 @@ x_source = ""
 +++
 
 
-La història completa d'aquesta citació, que tant es repeteix i que originalment no es referia a Internet, sinó a la televisió. Richard Serra, 1973:
+La història completa d’aquesta citació, que tant es repeteix i que originalment no es referia a Internet, sinó a la televisió. Richard Serra, 1973:
 
 > […] En la difusió comercial, l’espectador paga pel privilegi de ser venut. És el consumidor qui és consumit. Tu ets el producte de la televisió. Ets lliurat a l’anunciant que és el client […]
 

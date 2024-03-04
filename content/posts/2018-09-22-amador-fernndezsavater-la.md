@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-La catàstrofe veritable és que ens relacionem amb el món com a espectadors, enganyats i manipulats, incapaços de pensar i actuar per canviar-lo (Guy Debord), atrapats en falses i diabòliques dicotomies de les quals necessitem escapar (Stengers i Pignarre). “Pensar és l'únic contra-encanteri possible”. I la lluita, l’ocasió per a no viure i morir idiotes.
+La catàstrofe veritable és que ens relacionem amb el món com a espectadors, enganyats i manipulats, incapaços de pensar i actuar per canviar-lo (Guy Debord), atrapats en falses i diabòliques dicotomies de les quals necessitem escapar (Stengers i Pignarre). “Pensar és l’únic contra-encanteri possible”. I la lluita, l’ocasió per a no viure i morir idiotes.

@@ -1,6 +1,6 @@
 +++
 url = "/2013/01/30/notes-per-a.html"
-title = "Notes per a la compra d'un ebook"
+title = "Notes per a la compra d’un ebook"
 date = "2013-01-30T23:00:00+00:00"
 slug = "notes-per-a"
 +++

@@ -4,7 +4,7 @@ date = "2018-03-29T10:27:00+00:00"
 slug = "the-next-cold"
 tags = ["retalls"]
 x_url = "https://www.wired.com/story/opinion-new-data-cold-war/"
-title = "The Next Cold War Is Here, and It's All About Data"
+title = "The Next Cold War Is Here, and It’s All About Data"
 x_source = ""
 +++
 

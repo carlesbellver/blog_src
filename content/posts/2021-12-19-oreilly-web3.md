@@ -3,7 +3,7 @@ date = "2021-12-19T19:28:53+01:00"
 tags = ["retalls"]
 slug = "oreilly-web3"
 x_url = "https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/"
-title = "Why it's too early to get excited about Web3"
+title = "Why it’s too early to get excited about Web3"
 x_source = ""
 +++
 

@@ -5,7 +5,7 @@ date = "2006-05-22T22:00:00+00:00"
 slug = "faccies-i-apotegmes"
 +++
 
-“Eugenesia” és un dels més de cent *Cuentos breves y extraordinarios* reunits per Borges i Bioy l'any 1955:
+“Eugenesia” és un dels més de cent *Cuentos breves y extraordinarios* reunits per Borges i Bioy l’any 1955:
 
 > Una dama de calidad se enamoró con tanto frenesí de un tal señor Dodd, predicador puritano, que rogó a su marido que les permitiera usar de la cama para procrear un ángel o un santo; pero, concedida la venia, el parto fue normal.
 

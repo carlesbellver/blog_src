@@ -9,7 +9,7 @@ x_source = ""
 +++
 
 
-Mitjançant l'[anàlisi de sentiment](https://ca.wikipedia.org/wiki/Anàlisi_de_sentiment) —una tècnica estadística aplicada sovint a missatges de xarxes socials— el Computational Story Lab de la Universitat de Vermont ha minat més de mil set-centes novel·les en anglès per revelar sis tipus bàsics de trames:
+Mitjançant l’[anàlisi de sentiment](https://ca.wikipedia.org/wiki/Anàlisi_de_sentiment) —una tècnica estadística aplicada sovint a missatges de xarxes socials— el Computational Story Lab de la Universitat de Vermont ha minat més de mil set-centes novel·les en anglès per revelar sis tipus bàsics de trames:
 
 1. De pobre a ric: ascens.
 2. De ric a pobre: caiguda.

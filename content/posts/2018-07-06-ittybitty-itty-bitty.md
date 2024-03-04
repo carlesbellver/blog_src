@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Itty bitty sites are contained entirely within their own link. This means they're portable and easy to share. One link can hold about as much as a printed page.
+> Itty bitty sites are contained entirely within their own link. This means they’re portable and easy to share. One link can hold about as much as a printed page.
 

@@ -1,6 +1,6 @@
 +++
 url = "/2004/02/23/lautomtica.html"
-title = "L'automàtica"
+title = "L’automàtica"
 date = "2004-02-23T23:00:00+00:00"
 slug = "lautomtica"
 +++

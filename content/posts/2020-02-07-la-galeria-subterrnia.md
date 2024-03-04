@@ -6,6 +6,6 @@ tags = ["fotos", "UJI"]
 photos = ["/uploads/2020/e645377a12.jpg"]
 +++
 
-La galeria subterrània de l'#UJI no s’acaba mai.
+La galeria subterrània de l’#UJI no s’acaba mai.
 
 <img src="/uploads/2020/e645377a12.jpg" width="600" height="337" alt="" />

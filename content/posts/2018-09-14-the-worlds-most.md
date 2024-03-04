@@ -4,7 +4,7 @@ date = "2018-09-14T16:42:00+00:00"
 slug = "the-worlds-most"
 tags = ["retalls"]
 x_url = "http://www.bbc.com/future/story/20180829-the-worlds-most-prolific-writer-is-a-chinese-algorithm"
-title = "The world's most prolific writer is a Chinese algorithm"
+title = "The world’s most prolific writer is a Chinese algorithm"
 x_source = ""
 +++
 

@@ -11,6 +11,6 @@ x_source = ""
 
 Dues estratègies addicionals per facilitar la transició dels mitjans socials a la Internet social:
 
-  - Fer un ús moderat dels mitjans socials  (*Slow Social Media*): utilitzar-los només per a finalitats precises, accedir-hi amb l'ordinador de tant en tant (no continuament amb el mòbil) i no fer clic a la babalà en enllaços i *likes*.
+  - Fer un ús moderat dels mitjans socials  (*Slow Social Media*): utilitzar-los només per a finalitats precises, accedir-hi amb l’ordinador de tant en tant (no continuament amb el mòbil) i no fer clic a la babalà en enllaços i *likes*.
   - Comunicar-te mitjançant el teu web (*Own Your Own Domain*).
 

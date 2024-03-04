@@ -4,7 +4,7 @@ date = "2018-05-04T08:52:00+00:00"
 slug = "el-spam-cumple"
 tags = ["retalls"]
 x_url = "https://www.eldiario.es/hojaderouter/seguridad/Cuarenta-primer-cabreo-primitivos-internautas_0_767123682.html"
-title = "El 'spam' cumple 40 años: así se cabrearon las primeras víctimas del correo basura"
+title = "El ’spam’ cumple 40 años: así se cabrearon las primeras víctimas del correo basura"
 x_source = ""
 +++
 

@@ -4,7 +4,7 @@ date = "2018-02-12T14:21:00+00:00"
 slug = "lets-talk-about"
 tags = ["retalls"]
 x_url = "https://singularityhub.com/2018/02/05/lets-talk-about-bitcoins-insane-energy-consumption/"
-title = "Let's Talk About Bitcoin's Insane Energy Consumption"
+title = "Let’s Talk About Bitcoin’s Insane Energy Consumption"
 x_source = ""
 +++
 

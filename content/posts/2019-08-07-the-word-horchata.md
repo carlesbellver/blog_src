@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
->… el mot *horchata* \[orxata] prové del llatí *hordeum* (ordi) i *hordeata* (beguda elaborada amb ordi). Partint d’una funció medicinal a l'antiguitat, la beguda va fer un recorregut enrevessat per Europa i a través de l’Atlàntic fins a Amèrica Llatina. Al llarg d’aquest periple, l’orxata es va convertir en tota una família de begudes elaborades amb diversos cereals, fruits secs i llavors.
+>… el mot *horchata* \[orxata] prové del llatí *hordeum* (ordi) i *hordeata* (beguda elaborada amb ordi). Partint d’una funció medicinal a l’antiguitat, la beguda va fer un recorregut enrevessat per Europa i a través de l’Atlàntic fins a Amèrica Llatina. Al llarg d’aquest periple, l’orxata es va convertir en tota una família de begudes elaborades amb diversos cereals, fruits secs i llavors.

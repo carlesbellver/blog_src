@@ -6,4 +6,4 @@ tags = ["ressenyes"]
 title = "La vida a ratos"
 +++
 
-{{< icon book >}} Juan José Millás, *La vida a ratos*: més falsa novel·la que fals diari. Al llarg de cent noranta-quatre setmanes —o capítols—, Millás s'hi autoparodia. Com en les seves columnes, però a l’engròs.
+{{< icon book >}} Juan José Millás, *La vida a ratos*: més falsa novel·la que fals diari. Al llarg de cent noranta-quatre setmanes —o capítols—, Millás s’hi autoparodia. Com en les seves columnes, però a l’engròs.

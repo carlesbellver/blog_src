@@ -14,7 +14,7 @@ Stephen Downes comenta els [12 tips for great speaking](http://www.steve-wheeler
 1. Començar amb un acudit o buscar un punt en comú amb el públic.
 2. Reduir la presentació a imatges?
 3. Llegir o no llegir el text de la presentació.
-4. Moure's o restar quiet. Fer contacte visual amb el públic.
+4. Moure’s o restar quiet. Fer contacte visual amb el públic.
 5. Parlar pausadament i clarament.
 6. Repetir o no repetir els punts clau.
 7. Cenyir-se al temps previst. Assajar o no.

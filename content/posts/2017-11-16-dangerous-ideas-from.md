@@ -8,6 +8,6 @@ title = "3 Dangerous Ideas From Ray Kurzweil"
 x_source = ""
 +++
 
-1. L'estat-nació serà aviat irrellevant.
+1. L’estat-nació serà aviat irrellevant.
 2. Aconseguirem la velocitat d’escapament de la longevitat abans que puguem adonar-nos-en.
 3. La tecnologia ens ajudarà a definir i actualitzar les llibertats humanes.

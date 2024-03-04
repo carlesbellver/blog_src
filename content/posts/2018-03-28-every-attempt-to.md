@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> …tan bon punt intentes mesurar com de bé ho fa la gent, passaran a optimitzar tot allò que mesures, en lloc d'esforçar-se a fer de debò un bon treball.
+> …tan bon punt intentes mesurar com de bé ho fa la gent, passaran a optimitzar tot allò que mesures, en lloc d’esforçar-se a fer de debò un bon treball.

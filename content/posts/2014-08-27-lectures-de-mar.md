@@ -3,7 +3,7 @@ url = "/2014/08/27/lectures-de-mar.html"
 date = "2014-08-27T22:00:00+00:00"
 slug = "lectures-de-mar"
 x_url = "http://www.vilaweb.cat/noticia/4207807/20140828/lectures-mar-muntanya-nit-mil-dos.html"
-title = "Lectures de mar i muntanya: 'La nit mil dos'"
+title = "Lectures de mar i muntanya: ’La nit mil dos’"
 x_source = "VilaWeb"
 +++
 

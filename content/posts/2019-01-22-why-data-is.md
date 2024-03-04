@@ -13,4 +13,4 @@ Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la g
 
 > ‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius. Però les dades sempre són producte de processos cognitius, culturals i institucionals que determinen què es recull i com es recull. En aquest sentit, “dades crues” és en efecte una contradicció en els termes.
 
-Les *dades brutes*, en resum, són una “fantasia tecnocràtica” que busca imposar i imposa una visió del món (la seua) com si fora la bona, l'objectiva, l'única possible.
+Les *dades brutes*, en resum, són una “fantasia tecnocràtica” que busca imposar i imposa una visió del món (la seua) com si fora la bona, l’objectiva, l’única possible.

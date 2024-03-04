@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-*Stuka-Tabletten*, *Hermann-Göring-Pillen* o *Panzerschokolade*: metamfetamina. Hi ha qui li atribueix l'èxit de la invasió de França.
+*Stuka-Tabletten*, *Hermann-Göring-Pillen* o *Panzerschokolade*: metamfetamina. Hi ha qui li atribueix l’èxit de la invasió de França.

@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-> El Banc d'Anglaterra ha basat el disseny en un gravat de 1870, basat al seu torn en un retrat d’Austen suposadament més realista, dibuixat per la seua germana Cassandra. L’esbós inacabat a llapis i aquarel·la, que es pot veure actualment a la National Portrait Gallery de Londres, representa Austen amb bosses als ulls, nas en punta i barbeta retirada.
+> El Banc d’Anglaterra ha basat el disseny en un gravat de 1870, basat al seu torn en un retrat d’Austen suposadament més realista, dibuixat per la seua germana Cassandra. L’esbós inacabat a llapis i aquarel·la, que es pot veure actualment a la National Portrait Gallery de Londres, representa Austen amb bosses als ulls, nas en punta i barbeta retirada.
 >
-> Tanmateix, el retrat imprès en milions de bitllets mostra una versió més bonica, amb les faccions d'Austen suavitzades i idealitzades.
+> Tanmateix, el retrat imprès en milions de bitllets mostra una versió més bonica, amb les faccions d’Austen suavitzades i idealitzades.

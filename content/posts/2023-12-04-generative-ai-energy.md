@@ -8,4 +8,4 @@ x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/111521492548382212"]
 +++
 
-> De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou [estudi](https://arxiv.org/pdf/2311.16863.pdf) realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d'un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.
+> De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou [estudi](https://arxiv.org/pdf/2311.16863.pdf) realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d’un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.

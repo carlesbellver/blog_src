@@ -8,7 +8,7 @@ x_source = ""
 +++
 
 
-Comentaris filtrats dels programadors de l'empresa:
+Comentaris filtrats dels programadors de l’empresa:
 
 > “Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”
 > 

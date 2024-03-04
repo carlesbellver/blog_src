@@ -8,6 +8,6 @@ x_source = "Craig Mod"
 +++
 
 
-La programació com a forma de meditació. Valdria també per a altres formes d'escriptura reglada o [restringida](https://ca.wikipedia.org/wiki/Escriptura_restringida), que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.
+La programació com a forma de meditació. Valdria també per a altres formes d’escriptura reglada o [restringida](https://ca.wikipedia.org/wiki/Escriptura_restringida), que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.
 
 > El codi calma perquè pot proporcionar control en moments en què el món pareix entrar en una espiral. Reductivament, la programació consisteix en petits trencaclosques que cal resoldre. No trencaclosques inerts en taules de saló, sinó trencaclosques que alenen amb una força vital sorprenent. Trencaclosques que fan que passin coses, que fan coses, que automatitzen el tedi o permeten la publicació de paraules arreu del món.

@@ -8,4 +8,4 @@ title = "When Has Writing a Book Ever Not Been an Elitist Pursuit?"
 x_source = ""
 +++
 
-> Tant se val quin període considereu, abans de la invenció de la impremta o després de la màquina d'escriure, crear un llibre ha estat sempre un hobby més que una professió.
+> Tant se val quin període considereu, abans de la invenció de la impremta o després de la màquina d’escriure, crear un llibre ha estat sempre un hobby més que una professió.

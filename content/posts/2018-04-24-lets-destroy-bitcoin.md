@@ -9,7 +9,7 @@ x_source = ""
 +++
 
 
-> Tres maneres d'ensorrar, cooptar o fer irrellevant Bitcoin:
+> Tres maneres d’ensorrar, cooptar o fer irrellevant Bitcoin:
 >
 > 1. Nacionalització
 > 2. Atac sorpresa de Facebook

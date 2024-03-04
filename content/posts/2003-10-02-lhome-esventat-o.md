@@ -1,6 +1,6 @@
 +++
 url = "/2003/10/02/lhome-esventat-o.html"
-title = "L'home esventat o una escletxa en el temps"
+title = "L’home esventat o una escletxa en el temps"
 date = "2003-10-02T22:00:00+00:00"
 slug = "lhome-esventat-o"
 +++

@@ -4,7 +4,7 @@ date = "2018-03-31T19:52:00+00:00"
 slug = "el-titanic-y"
 tags = ["retalls"]
 x_url = "https://www.lamarea.com/2018/03/28/titanic-langostas-historia-cataluna-autonomia-politico/"
-title = "El 'Titanic' y las langostas: una historia sobre Cataluña y la autonomía de lo político"
+title = "El ’Titanic’ y las langostas: una historia sobre Cataluña y la autonomía de lo político"
 x_source = ""
 +++
 

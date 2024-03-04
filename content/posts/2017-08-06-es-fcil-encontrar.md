@@ -9,7 +9,7 @@ x_source = ""
 +++
 
 
-Dos investigadors van fer creure que havien desenvolupat un nou algorisme de *machine learning* capaç de millorar la precisió de la publicitat personalitzada. Però necessitaven dades per entrenar l'algorisme, i diferents empreses del sector els les van oferir gratis. Tres mil milions de registres de cerques i navegació, amb els quals van demostrar que fàcil resulta identificar els usuaris prèviament anonimitzats.
+Dos investigadors van fer creure que havien desenvolupat un nou algorisme de *machine learning* capaç de millorar la precisió de la publicitat personalitzada. Però necessitaven dades per entrenar l’algorisme, i diferents empreses del sector els les van oferir gratis. Tres mil milions de registres de cerques i navegació, amb els quals van demostrar que fàcil resulta identificar els usuaris prèviament anonimitzats.
 
 > La comunicadora Svea Eckert y el experto en análisis de datos Andreas Dewes obtuvieron los datos de búsquedas, supuestamente anónimos, de más de tres millones de teutones. Los estudiaron hasta sacar pistas sobre la vida de sus dueños: desde las preferencias pornográficas de un juez a la medicación utilizada por un político.
 

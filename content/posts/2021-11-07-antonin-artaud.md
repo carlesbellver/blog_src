@@ -7,4 +7,4 @@ slug = "antonin-artaud"
 
 > A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.
 
-<img alt="Coberta del llibre “Carta a los poderes”, d'Antonin Artaud. 40a Fira del Llibre Antic i d'Ocasió a Castelló de la Plana." src="/uploads/2021/2021-11-07-antonin-artaud.jpg">
+<img alt="Coberta del llibre “Carta a los poderes”, d’Antonin Artaud. 40a Fira del Llibre Antic i d’Ocasió a Castelló de la Plana." src="/uploads/2021/2021-11-07-antonin-artaud.jpg">

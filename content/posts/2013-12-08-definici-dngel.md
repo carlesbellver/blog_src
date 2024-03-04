@@ -1,13 +1,13 @@
 +++
 url = "/2013/12/08/definici-dngel.html"
-title = "Definició d'àngel"
+title = "Definició d’àngel"
 date = "2013-12-08T23:00:00+00:00"
 slug = "definici-dngel"
 photos = ["/uploads/2019/9df7696f2e.jpg"]
 tags = ["fotos"]
 +++
 
-<img src="/uploads/2019/9df7696f2e.jpg" alt="Definició d'àngel" />
+<img src="/uploads/2019/9df7696f2e.jpg" alt="Definició d’àngel" />
 
 > A sobrevent, un batre  
 > d’ales, alè al vol,  

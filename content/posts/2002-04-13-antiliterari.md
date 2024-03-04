@@ -1,5 +1,5 @@
 +++
-title = "L'obligació de ser antiliterari"
+title = "L’obligació de ser antiliterari"
 date = "2002-04-13T22:00:00+00:00"
 slug = "antiliterari"
 tags = ["citacions"]

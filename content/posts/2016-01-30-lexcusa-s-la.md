@@ -1,6 +1,6 @@
 +++
 url = "/2016/01/30/lexcusa-s-la.html"
-title = "L'excusa és la manca de temps"
+title = "L’excusa és la manca de temps"
 date = "2016-01-30T23:00:00+00:00"
 slug = "lexcusa-s-la"
 +++

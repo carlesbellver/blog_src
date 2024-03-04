@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Modus operandi: pesca de credencials d'empleats per correu electrònic (*phishing*) → control remot dels seus ordinadors → accés a la xarxa bancària interna i a servidors de caixers.
+Modus operandi: pesca de credencials d’empleats per correu electrònic (*phishing*) → control remot dels seus ordinadors → accés a la xarxa bancària interna i a servidors de caixers.
 

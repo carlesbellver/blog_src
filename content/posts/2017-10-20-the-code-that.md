@@ -8,6 +8,6 @@ title = "The code that took America to the moon was just published to GitHub, an
 x_source = ""
 +++
 
-> Heus ací una visualització de dades molt anys seixanta de la quantitat de codi que es va escriure. Vegeu Margaret Hamilton, directora d'enginyeria del programari del projecte, dreta al costat d'una pila de paper que conté el programari.
+> Heus ací una visualització de dades molt anys seixanta de la quantitat de codi que es va escriure. Vegeu Margaret Hamilton, directora d’enginyeria del programari del projecte, dreta al costat d’una pila de paper que conté el programari.
 
 <img src="https://cms.qz.com/wp-content/uploads/2016/07/margaret_hamilton1.jpg?quality=75&strip=all&w=620&h=788&crop=1">

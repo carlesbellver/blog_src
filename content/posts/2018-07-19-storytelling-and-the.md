@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> El 90 % del que us diuen sobre intel·ligència artificial, cadenes de blocs i automatització no és veritat ara mateix. La intenció és simplement que això ocupe espai a la vostra imaginació, de manera que en el moment adequat se us puga vendre alguna cosa i despistar-vos mentre s'exploten les vostres dades, la vostra privadesa i la vostra seguretat, o directament sou víctimes d'una estafa.
+> El 90 % del que us diuen sobre intel·ligència artificial, cadenes de blocs i automatització no és veritat ara mateix. La intenció és simplement que això ocupe espai a la vostra imaginació, de manera que en el moment adequat se us puga vendre alguna cosa i despistar-vos mentre s’exploten les vostres dades, la vostra privadesa i la vostra seguretat, o directament sou víctimes d’una estafa.

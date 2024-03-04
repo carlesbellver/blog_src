@@ -4,7 +4,7 @@ date = "2018-12-03T12:48:00+00:00"
 slug = "nigerias-buhari-denies"
 tags = ["retalls"]
 x_url = "https://www.reuters.com/article/us-nigeria-politics/nigerias-buhari-denies-dying-and-being-replaced-by-lookalike-idUSKBN1O10RL"
-title = "Nigeria's Buhari denies dying and being replaced by lookalike"
+title = "Nigeria’s Buhari denies dying and being replaced by lookalike"
 x_source = ""
 +++
 

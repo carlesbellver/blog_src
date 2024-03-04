@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Estudiar el llenguatge de la ciència dóna resultats sorprenents: els esquemes dels contes de fades ens ajuden a comprendre l’estructura narrativa dels articles; l’estudi dels temps verbals revela patrons lingüístics comuns en les maneres de donar sentit de la ciència i la mitologia, i el rastreig d'evasives en les citacions ens diu que les afirmacions es difonen més o menys com els rumors.
+> Estudiar el llenguatge de la ciència dóna resultats sorprenents: els esquemes dels contes de fades ens ajuden a comprendre l’estructura narrativa dels articles; l’estudi dels temps verbals revela patrons lingüístics comuns en les maneres de donar sentit de la ciència i la mitologia, i el rastreig d’evasives en les citacions ens diu que les afirmacions es difonen més o menys com els rumors.
 

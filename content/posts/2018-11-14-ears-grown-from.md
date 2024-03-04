@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> Al doctor Andrew Pelling de la University of Ottawa, aquesta idea radical li va venir d’un clàssic de culte de la ciència-ficció titulat *The Little Shop of Horrors* […] Fer créixer una orella humana d'una poma pot parèixer irracional, però la clau de la intuïció de Pelling és que l’interior fibrós d'una poma és sorprenentment similar als microambients de laboratori on se sol fer bioenginyeria de teixits humans.
+> Al doctor Andrew Pelling de la University of Ottawa, aquesta idea radical li va venir d’un clàssic de culte de la ciència-ficció titulat *The Little Shop of Horrors* […] Fer créixer una orella humana d’una poma pot parèixer irracional, però la clau de la intuïció de Pelling és que l’interior fibrós d’una poma és sorprenentment similar als microambients de laboratori on se sol fer bioenginyeria de teixits humans.

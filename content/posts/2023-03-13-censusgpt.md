@@ -23,12 +23,12 @@ def make_default_messages(table_names: List[str]):
         "\n\n"
         "---------------------\n"
         "Use state abbreviations for states."
-        " Table 'crime_by_city' does not have columns 'zip_code' or 'county'."
+        " Table ’crime_by_city’ does not have columns ’zip_code’ or ’county’."
         " Do not use ambiguous column names."
-        " For example, 'city' can be ambiguous because both tables 'acs_census_data' and 'crime_by_city' have a column named 'city'."
+        " For example, ’city’ can be ambiguous because both tables ’acs_census_data’ and ’crime_by_city’ have a column named ’city’."
         " Always specify the table where you are using the column."
-        " If you include a 'city' column in the result table, include a 'state' column too."
-        " If you include a 'county' column in the result table, include a 'state' column too."
+        " If you include a ’city’ column in the result table, include a ’state’ column too."
+        " If you include a ’county’ column in the result table, include a ’state’ column too."
         " Make sure each value in the result table is not null.\n"
       )
     },

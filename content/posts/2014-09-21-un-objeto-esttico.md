@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-*Invasión* (1969), una pel·lícula d'Hugo Santiago Muchnick amb guió de Jorge Luis Borges i Adolfo Bioy Casares.
+*Invasión* (1969), una pel·lícula d’Hugo Santiago Muchnick amb guió de Jorge Luis Borges i Adolfo Bioy Casares.
 

@@ -11,5 +11,5 @@ x_source = ""
 
 <img src="https://images.graph.cool/v1/cj6c28vh912680101ozc2paxj/cjvdjkm9f069c01823na7r4m4/0x0:2953x3776/960x960/vermeer_brieflesendes_maedchen_2019_05_07.jpg" class="img-responsive"> 
 
-> Proves de laboratori revelen que la figura es va tapar desenes d'anys després de la mort del pintor.
+> Proves de laboratori revelen que la figura es va tapar desenes d’anys després de la mort del pintor.
 

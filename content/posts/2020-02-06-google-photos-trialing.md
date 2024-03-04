@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Per 7,99 €, Google t'enviarà a casa deu fotos impreses cada mes, seleccionades automàticament entre les millors (?) que hages fet. No es descarta, però, alguna [sorpresa](https://ww.9to5google.com/2020/02/03/google-photos-video-strangers/). Què podria fallar.
+Per 7,99 €, Google t’enviarà a casa deu fotos impreses cada mes, seleccionades automàticament entre les millors (?) que hages fet. No es descarta, però, alguna [sorpresa](https://ww.9to5google.com/2020/02/03/google-photos-video-strangers/). Què podria fallar.

@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-1. Posar etiqueta de preu a la difusió d'articles disminuirà la circulació de notícies professionals.
+1. Posar etiqueta de preu a la difusió d’articles disminuirà la circulació de notícies professionals.
 2. L’impost dels enllaços perjudicarà les editorials petites, noves i independents.
 

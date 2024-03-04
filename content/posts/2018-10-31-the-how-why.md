@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> Les grans quantitats de dades que estem generant, aviat podrien fer possible la creació d'avatars digitals que continuen vivint després de la nostra mort, destinats a reconfortar els nostres éssers estimats o compartir la nostra experiència amb les generacions futures.
+> Les grans quantitats de dades que estem generant, aviat podrien fer possible la creació d’avatars digitals que continuen vivint després de la nostra mort, destinats a reconfortar els nostres éssers estimats o compartir la nostra experiència amb les generacions futures.

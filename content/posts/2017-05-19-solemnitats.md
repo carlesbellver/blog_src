@@ -7,7 +7,7 @@ slug = "solemnitats"
 
 “Solemne cloenda” (sic) de sengles activitats acadèmiques extraescolars per a estudiantat de secundària. Autoritats i escenaris. Protocol.
 
-Em fa l'efecte que aquesta mena de ritus denoten:
+Em fa l’efecte que aquesta mena de ritus denoten:
 
   1. Complex d’inferioritat davant d’altres pràctiques socials hegemòniques.
   2. Mancances afectives.

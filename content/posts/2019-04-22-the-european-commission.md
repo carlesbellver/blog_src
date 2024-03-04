@@ -9,8 +9,8 @@ x_source = ""
 +++
 
 
-> La Comissió Europea va pagar 360,000 € per un estudi sobre l'impacte de la pirateria en les vendes de música, llibres, videojocs i pel·lícules amb drets de propietat intel·lectual. Però l'UE no va publicar mai l'informe: possiblement perquè determinava que no hi ha cap prova que la pirateria suposi cap problema important.
+> La Comissió Europea va pagar 360,000 € per un estudi sobre l’impacte de la pirateria en les vendes de música, llibres, videojocs i pel·lícules amb drets de propietat intel·lectual. Però l’UE no va publicar mai l’informe: possiblement perquè determinava que no hi ha cap prova que la pirateria suposi cap problema important.
 
-L'informe en format PDF:
+L’informe en format PDF:
 
 📄 [Estimating displacement rates of copyrighted content in the EU — Final Report](https://cdn.netzpolitik.org/wp-upload/2017/09/displacement_study.pdf)

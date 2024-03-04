@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-> …una separació no supervisada, apresa automàticament, d'atributs d'alt nivell (p. ex. posa i identitat quan s'entrena amb cares humanes) i variacions estocàstiques en les imatges generades (p. ex. pigues, cabells).
+> …una separació no supervisada, apresa automàticament, d’atributs d’alt nivell (p. ex. posa i identitat quan s’entrena amb cares humanes) i variacions estocàstiques en les imatges generades (p. ex. pigues, cabells).
 
 Aquest conjunt d’algorismes de Nvidia crea fotoretrats que *pareixen* reals. Si els veiem a Instagram, ens *creurem* que són reals.

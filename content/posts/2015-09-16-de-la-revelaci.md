@@ -25,5 +25,5 @@ Un parell d’anys després, un altre escriptor de ciència-ficció, [Bruce Ster
 
 —Bruce Sterling, [Introduction to The Hacker Crackdown](https://en.wikipedia.org/wiki/The_Hacker_Crackdown), 1992.
 
-Finalment, el 8 de febrer de 1996, Barlow va publicar al web [«A Declaration of the Independence of Cyberspace»](https://en.wikipedia.org/wiki/A_Declaration_of_the_Independence_of_Cyberspace). En català: [«Una declaració d’independència del ciberespai»](https://ca.wikipedia.org/wiki/Una_declaraci%C3%B3_d'independ%C3%A8ncia_del_ciberespai).
+Finalment, el 8 de febrer de 1996, Barlow va publicar al web [«A Declaration of the Independence of Cyberspace»](https://en.wikipedia.org/wiki/A_Declaration_of_the_Independence_of_Cyberspace). En català: [«Una declaració d’independència del ciberespai»](https://ca.wikipedia.org/wiki/Una_declaraci%C3%B3_d’independ%C3%A8ncia_del_ciberespai).
 

@@ -11,4 +11,4 @@ x_source = ""
 
 > Els creadors d’un revolucionari sistema d’intel·ligència artificial que pot redactar notícies i textos de ficció —batejat com “deepfake per a textos”— han pres la decisió inusual de no difondre públicament la seua recerca, per por de possibles usos indeguts.
 
-Resulten sorprenents, sens dubte, les combinacions significatives que pot crear un sistema que no entén els símbols, basant-se *només* en un vastíssim corpus de textos creats per humans i en la força computacional bruta dels ordinadors actuals. Però, comptat i debatut, el to alarmista pareix més aviat una bona operació publicitària d'aquesta empresa finançada per Elon Musk.
+Resulten sorprenents, sens dubte, les combinacions significatives que pot crear un sistema que no entén els símbols, basant-se *només* en un vastíssim corpus de textos creats per humans i en la força computacional bruta dels ordinadors actuals. Però, comptat i debatut, el to alarmista pareix més aviat una bona operació publicitària d’aquesta empresa finançada per Elon Musk.

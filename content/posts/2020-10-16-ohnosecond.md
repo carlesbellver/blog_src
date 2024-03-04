@@ -8,4 +8,4 @@ x_source = ""
 
 +++
 
-> (*humor*) La fracció de temps entre cometre una errada i adonar-se'n (imitació de termes com “nanosegon” i “attosegon”).
+> (*humor*) La fracció de temps entre cometre una errada i adonar-se’n (imitació de termes com “nanosegon” i “attosegon”).

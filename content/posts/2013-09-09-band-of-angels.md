@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> També es posa de manifest la centralitat de l’amor per al cristianisme primitiu; en un moment en què els vells déus podien ser venjatius i la vida dura i curta, viure en Crist era viure en l'amor.
+> També es posa de manifest la centralitat de l’amor per al cristianisme primitiu; en un moment en què els vells déus podien ser venjatius i la vida dura i curta, viure en Crist era viure en l’amor.

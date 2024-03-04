@@ -1,6 +1,6 @@
 +++
 url = "/2007/01/10/lidilli-del-tramvia.html"
-title = "L'idil·li del tramvia"
+title = "L’idil·li del tramvia"
 date = "2007-01-10T23:00:00+00:00"
 slug = "lidilli-del-tramvia"
 +++

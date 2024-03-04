@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-*Casa tomada*. Traducció a l'anglès i comentari.
+*Casa tomada*. Traducció a l’anglès i comentari.
 
 > Aquests dibuixos són particularment interessants perquè no es limiten a una mera traducció de l’espai narrat en un dels possibles plànols de la casa, sinó que realment utilitzen el plànol com a escenari de la narració, convertint-lo en un dels personatges de la història. D’aquesta manera, les il·lustracions representen un antecedent literari i gràfic d’aquella família d’obres on la “posada en escena teatral” forma part de la narració.

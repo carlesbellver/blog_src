@@ -10,7 +10,7 @@ x_source = ""
 
 
 1. Llicències obertes.
-2. Estàndards d'usabilitat i accessibilitat.
+2. Estàndards d’usabilitat i accessibilitat.
 3. Llengües.
 4. Temes culturals.
 5. Costs de suport.

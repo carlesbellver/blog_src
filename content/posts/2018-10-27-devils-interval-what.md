@@ -4,7 +4,7 @@ date = "2018-10-27T07:53:00+00:00"
 slug = "devils-interval-what"
 tags = ["retalls"]
 x_url = "https://qz.com/quartzy/1429949/devils-interval-what-makes-music-sound-scary/"
-title = "Devil's interval: What makes music sound scary?"
+title = "Devil’s interval: What makes music sound scary?"
 x_source = ""
 +++
 

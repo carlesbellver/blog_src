@@ -9,7 +9,7 @@ x_source = "Martin Weller"
 +++
 
 
-> … la disrupció és un [model pobre per a l'educació](http://blog.edtechie.net/uncategorized/what-disruptors-really-want/), i deixa un [mal llegat](http://blog.edtechie.net/innovation/disruptions-legacy/).
+> … la disrupció és un [model pobre per a l’educació](http://blog.edtechie.net/uncategorized/what-disruptors-really-want/), i deixa un [mal llegat](http://blog.edtechie.net/innovation/disruptions-legacy/).
 
-L'educació oberta, en canvi, és un paradigma que promou els valors que volem per a l'educació superior.
+L’educació oberta, en canvi, és un paradigma que promou els valors que volem per a l’educació superior.
 

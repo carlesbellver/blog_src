@@ -6,7 +6,7 @@ slug = "dos-de-tres"
 tags = ["retalls", "citacions"]
 +++
 
-> Crec que es pot prestar tota l'atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.
+> Crec que es pot prestar tota l’atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.
 
 {{< icon link >}} [Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’](http://www.threemonkeysonline.com/als/_lydia_davis_samuel_johnson_is_indignant.html)
 

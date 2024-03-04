@@ -1,6 +1,6 @@
 +++
 url = "/2011/06/07/reivindicaci-de-lamateurisme.html"
-title = "Reivindicació de l'amateurisme"
+title = "Reivindicació de l’amateurisme"
 date = "2011-06-07T22:00:00+00:00"
 slug = "reivindicaci-de-lamateurisme"
 +++

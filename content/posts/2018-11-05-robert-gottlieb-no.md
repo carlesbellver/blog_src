@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Robert Gottlieb va rebutjar *Una conxorxa d'enzes* i no se'n penedeix; si Lauren Bacall no haguera estat set anys més gran que ell haurien eixit junts; Bob Dylan va ser un Nobel merescudíssim; i Salman Rushdie es posava furiós per no res.
+Robert Gottlieb va rebutjar *Una conxorxa d’enzes* i no se’n penedeix; si Lauren Bacall no haguera estat set anys més gran que ell haurien eixit junts; Bob Dylan va ser un Nobel merescudíssim; i Salman Rushdie es posava furiós per no res.

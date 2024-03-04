@@ -11,8 +11,8 @@ x_source = ""
 
 Segons Peter Diamandis, de la Singularity University:
 
-1. Augment de l'abundància global.
-2. Augment de l'abundància de capital.
+1. Augment de l’abundància global.
+2. Augment de l’abundància de capital.
 3. Tothom, i tot, connectats.
 4. Augment de la intel·ligència humana.
 5. Augment de la longevitat humana.

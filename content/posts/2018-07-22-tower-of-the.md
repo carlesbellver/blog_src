@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> …l’Horologion d’Andronikos Kyrrhestes és una elegant torre octogonal de marbre a l'Àgora romana d’Atenes. Amb més de dos mil anys, la torre té vuit costats corresponents als vuit vents principals, un rellotge de sol que indica el temps, un penell que mostra la direcció del vent i un rellotge d’aigua interior que antigament es podia llegir fins i tot en la foscor.
+> …l’Horologion d’Andronikos Kyrrhestes és una elegant torre octogonal de marbre a l’Àgora romana d’Atenes. Amb més de dos mil anys, la torre té vuit costats corresponents als vuit vents principals, un rellotge de sol que indica el temps, un penell que mostra la direcció del vent i un rellotge d’aigua interior que antigament es podia llegir fins i tot en la foscor.
 

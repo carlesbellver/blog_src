@@ -8,6 +8,6 @@ title = "Ironies of automation"
 x_source = ""
 +++
 
-> …quant més automatizem, i més sofisticada fem l’automatització, més dependrem d'operaris humans altament qualificats.
+> …quant més automatizem, i més sofisticada fem l’automatització, més dependrem d’operaris humans altament qualificats.
 
 —[Ironies of automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)

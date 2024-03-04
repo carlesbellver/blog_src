@@ -1,6 +1,6 @@
 +++
 url = "/2013/11/24/lovni-al-damunt.html"
-title = "L'ovni al damunt del Desert de les Palmes"
+title = "L’ovni al damunt del Desert de les Palmes"
 date = "2013-11-24T23:00:00+00:00"
 slug = "lovni-al-damunt"
 +++
