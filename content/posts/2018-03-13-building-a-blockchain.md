@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Persones que aprenen sobre cadenes de blocs muntant-ne una. Però: "Això només és la punta de l’iceberg".
+Persones que aprenen sobre cadenes de blocs muntant-ne una. Però: “Això només és la punta de l’iceberg”.
 

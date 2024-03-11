@@ -10,5 +10,5 @@ tags = ["retalls", "citacions"]
 
 {{< icon link >}} [Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’](http://www.threemonkeysonline.com/als/_lydia_davis_samuel_johnson_is_indignant.html)
 
-Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n’hi ha. Els seus dies pareix que tinguin vint-i-cinc o vint-i-sis hores, o més. Els meus, en canvi, amb prou feines en tenen vint-i-quatre. Això, o gaudeixen d’una secreta màquina del temps: un dispositiu, no per a viatjar-hi, sinó que en fabrica… O el falsifica? Es pot encunyar temps fals?
+Hi ha gent, i això per a mi és un misteri, que trauen temps d’on creuries que no n’hi ha. Els seus dies pareix que tinguen vint-i-cinc o vint-i-sis hores, o més. Els meus, en canvi, amb prou feines arriben a vint-i-quatre. O potser gaudeixen d’una secreta màquina del temps: un dispositiu, no per a viatjar-hi, sinó que en fabrica… O el falsifica? Es pot encunyar temps fals?
 
