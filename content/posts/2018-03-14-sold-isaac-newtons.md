@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> El document detalla un procés de mesos de destil·lacions i addicions, escalfament i refrigeració, que finalitza amb la creació del "secret dels secrets", la pedra filosofal que podria transformar el plom en or.
+> El document detalla un procés de mesos de destil·lacions i addicions, escalfament i refrigeració, que finalitza amb la creació del “secret dels secrets”, la pedra filosofal que podria transformar el plom en or.
 
