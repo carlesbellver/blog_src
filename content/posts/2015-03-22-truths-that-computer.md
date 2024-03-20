@@ -15,6 +15,6 @@ x_source = ""
 > 4. Programar és pensar, no teclejar.
 > 5. Es compta començant des de zero, no des d’un.
 > 6. Es programa millor “en la zona”: un estat mental —plaent— de concentració absoluta en la tasca en el qual tot pareix fàcil.
-> 7. Dormir amb un problema, de fet pot resoldre’l.
+> 7. Dormir amb un problema, de fet, pot resoldre’l.
 > 8. Un pare pot matar els fills si la tasca que se’ls ha assignat ja no és necessària.
 > 9. De la mateixa manera que normalment no us impressionem quan presumim de quant sabem sobre ordinadors, tampoc ens impressioneu quan presumiu del poc que en sabeu.
