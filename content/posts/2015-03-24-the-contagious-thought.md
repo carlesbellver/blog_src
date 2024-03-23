@@ -11,3 +11,4 @@ x_source = ""
 
 Nocebo vs. placebo.
 
+> “L’efecte nocebo mostra el poder del cervell.”
