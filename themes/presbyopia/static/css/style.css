@@ -895,6 +895,21 @@ article iframe {
   display: block;
 }
 
+/* chumby */
+
+div#chumby {
+  margin: 0;
+  padding: 0 1em;
+}
+
+div#chumby img.chumby-display {
+  margin: 0;
+  padding: 0;
+  width: 240px;
+  height: 150px;
+  border-radius: 5px;
+}
+
 /* comments */
 
 .comments {

@@ -29,6 +29,7 @@ paginate = 12
   fediverse = true
   lightbox = true
   stats = true
+  chumby = false
 
 [permalinks]
   posts = "/:year/:month/:day/:slug"
