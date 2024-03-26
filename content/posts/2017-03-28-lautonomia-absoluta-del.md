@@ -9,4 +9,4 @@ slug = "lautonomia-absoluta-del"
 
 —Josep Palàcios, [*Alfabet Terminal*](http://puv.uv.es/alfabet-terminal.html).
 
-Però aquesta mena d’*ornaments* —pròlegs, epílegs, postil·les— són sens dubte les parts més interessants de molts llibres. (L’afirmació de la masculinitat —ni que sigui descafeïnada— seria un altre tema.)
+Però aquesta mena d’*ornaments* —pròlegs, epílegs, postil·les— són sens dubte les parts més interessants de molts llibres. (L’afirmació de la masculinitat —ni que siga descafeïnada— seria un altre tema.)

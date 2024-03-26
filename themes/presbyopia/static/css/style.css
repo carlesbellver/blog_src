@@ -908,6 +908,7 @@ div#chumby img.chumby-display {
   width: 240px;
   height: 150px;
   border-radius: 5px;
+  filter: blur(0.25px) grayscale(50%);
 }
 
 /* comments */
