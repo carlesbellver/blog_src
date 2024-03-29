@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> Setmanes abans que el RGPD entri en vigor, es fa més evident que l’enfocament de la UE serà dominant […] Fins i tot als Estats Units, hi ha senyals de moviments cap a l’adopció d’estàndards més alts per a la protecció de dades.
+> Setmanes abans que el RGPD entre en vigor, es fa més evident que l’enfocament de la UE serà dominant […] Fins i tot als Estats Units, hi ha senyals de moviments cap a l’adopció d’estàndards més alts per a la protecció de dades.

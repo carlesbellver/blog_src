@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> De la mateixa manera que pots escriure el que vulgues a la part de darrere d’un rebut, les cadenes de blocs et permeten escriure dades arbitràries adjuntes a la teva transacció.
+> De la mateixa manera que pots escriure el que vulgues a la part de darrere d’un rebut, les cadenes de blocs et permeten escriure dades arbitràries adjuntes a la teua transacció.
