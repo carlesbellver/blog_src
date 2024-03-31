@@ -4,12 +4,12 @@ description = "Informe secret de la CIA sobre ‘Unicorns’."
 date = "2023-03-30 23:30:05"
 url = "contes/unicorns/report"
 tags = ["contes"]
-image = "uploads/2023/2023-03-31-unicorn-skeleton-1.jpg"
+image = "https://carlesbellver.net/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg"
 googlefonts = ["Special Elite"]
 note = "⚠️ ALERTA: <a href=\"/2023/04/02/tota-la-veritat/\">aquest informe és fals</a>."
 +++
 
-<img src="/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg" alt="Pintura a l'oli de l'esquelet d'un unicorn. Generada per DALL·E.">
+<img src="/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg" alt="Pintura a l’oli de l’esquelet d’un unicorn. Generada per IA.">
 
 **Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.**
 
@@ -29,7 +29,7 @@ Més avall, si us ve de gust, podeu consultar l’informe complet.
 
 ---
 
-<div style="margin: 3em 1em 1em; font-family: 'Special Elite'; font-size: 0.95em;  line-height: 1.75;">
+<div style="margin: 2em 0 1em; font-family: 'Special Elite'; font-size: 0.9em;  line-height: 1.75;">
 
 A set of documents containing 64 texts was intercepted, covering a wide range of topics. Several texts relate to academia and philosophical discussions. However, some texts may pose a risk to national security due to their mention of potential espionage, nuclear experimentation, and possible communication with the dead. Additionally, other texts deal with the creation of languages, mysterious disappearances and strange, occult concepts. Access to these texts should be carefully monitored, and precautions must be taken to prevent unauthorized disclosures, given the potential for some contents to cause social unrest due to their dark and eerie themes.
 

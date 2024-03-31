@@ -7,7 +7,7 @@ syndication = ["https://mastodon.social/@carlesbellver/110128410743507298"]
 image = "/uploads/2023/2023-04-02-script.jpg"
 +++
 
-<img src="/uploads/2023/2023-04-02-script.jpg" alt="Captura de pantalla d’una parts de l’script en llenguatge Python que resumeix pàgines web.">
+<img src="/uploads/2023/2023-04-02-script.jpg" alt="Captura de pantalla d’una part d’un script en llenguatge Python.">
 
 No cal dir que l’[informe de la
 CIA sobre ‘Unicorns’](/contes/unicorns/report) és completament fals. Ficció i més ficció: un divertiment inofensiu.

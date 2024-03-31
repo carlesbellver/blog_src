@@ -8,4 +8,4 @@ tags = ["fotos", "UJI"]
 
 Tiempos modernos, horas serenas y almas interiores. Biblioteca #UJI.
 
-<img src="/uploads/2019/7fb3118d5d.jpg" width="600" height="600" alt="" />
+<img src="/uploads/2019/7fb3118d5d.jpg" width="600" height="600" alt="Fotografia del llom d’alguns llibres antics en posició vertical, presumiblement en una prestatgeria. Es llegeixen els títols següents: “Tiempos modernos” (Vicens Vives), “Horas serenas”, “Manual de las almas interiores”." />
