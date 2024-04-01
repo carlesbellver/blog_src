@@ -8,4 +8,4 @@ title = "How Banksy Authenticates His Work"
 x_source = ""
 +++
 
-Com autentica Banksy les serigrafies que ven per Internet? Sorprenentment (ironia) no utilitza blockchain, sinó que ha creat la seva autoritat central certificadora i un enginyós mecanisme criptogràfic d’allò més analògic.
+Com autentica Banksy les serigrafies que ven per Internet? Sorprenentment (ironia) no utilitza blockchain, sinó que ha creat la seua autoritat central certificadora i un enginyós mecanisme criptogràfic d’allò més analògic.
