@@ -1,6 +1,8 @@
 var MIN_WL = 3;
 var SUMMARY_LENGTGH = 80;
 
+let stopWords = ["a", "abans", "ací", "ah", "així", "això", "al", "aleshores", "algun", "alguna", "algunes", "alguns", "alhora", "allà", "allí", "allò", "als", "altra", "altre", "altres", "amb", "ambdues", "ambdós", "anar", "ans", "apa", "aquell", "aquella", "aquelles", "aquells", "aquest", "aquesta", "aquestes", "aquests", "aquí", "baix", "bastant", "bé", "cada", "cadascuna", "cadascunes", "cadascuns", "cadascú", "com", "contra", "dalt", "de", "del", "dels", "des", "després", "dins", "dintre", "doncs", "durant", "e", "eh", "eixa", "eixe", "eixes", "eixos", "el", "elles", "ells", "els", "em", "en", "encara", "ens", "entre", "era", "erem", "eren", "eres", "es", "esta", "estan", "estat", "estava", "estaven", "este", "estem", "esteu", "estes", "estic", "està", "estàvem", "estàveu", "estos", "et", "etc", "ets", "fa", "faig", "fan", "fas", "fem", "fer", "feu", "fi", "fins", "fora", "gairebé", "ha", "han", "has", "haver", "havia", "he", "hem", "heu", "hi", "ho", "i", "igual", "iguals", "inclòs", "ja", "jo", "la", "les", "li", "llarg", "llavors", "ma", "mal", "malgrat", "mateix", "mateixa", "mateixes", "mateixos", "me", "mentre", "meu", "meua", "meua", "meues", "meus", "meva", "meves", "molt", "molta", "moltes", "molts", "mon", "mons", "més", "ne", "ni", "no", "nogensmenys", "només", "nosaltres", "nostra", "nostre", "nostres", "o", "oh", "oi", "on", "pas", "pel", "pels", "per", "perquè", "però", "poc", "poca", "pocs", "podem", "poden", "poder", "podeu", "poques", "potser", "primer", "propi", "puc", "qual", "quals", "quan", "quant", "que", "quelcom", "qui", "quin", "quina", "quines", "quins", "què", "sa", "sabem", "saben", "saber", "sabeu", "sap", "saps", "semblant", "semblants", "sense", "ser", "ses", "seu", "seua", "seues", "seus", "seva", "seves", "si", "sobre", "sobretot", "soc", "solament", "sols", "som", "son", "sons", "sota", "sou", "sóc", "són", "ta", "tal", "també", "tampoc", "tan", "tant", "tanta", "tantes", "te", "tenim", "tenir", "teniu", "teu", "teua", "teues", "teus", "teva", "teves", "tinc", "ton", "tons", "tot", "tota", "totes", "tots", "un", "una", "unes", "uns", "us", "va", "vaig", "vam", "van", "vas", "vau", "vosaltres", "vostra", "vostre", "vostres", "érem", "éreu", "és", "essent", "últim", "ús"];
+
 const urlParams = new URLSearchParams(window.location.search);
 const q = urlParams.get('q');
 if (q) {
@@ -12,7 +14,12 @@ downloadArchive(q);
 
 // let miniSearch = new MiniSearch({
 //   fields: ['title', 'content_text'], // fields to index for full-text search
-//   storeFields: ['title', 'url'] // fields to return with search results
+//   storeFields: ['title', 'url', 'date_published', 'content_text'], // fields to return with search results
+//   searchOptions: {
+//     boost: { title: 5 },
+//     fuzzy: 0.2
+//   }
+//   processTerm: (term, _fieldName) => stopWords.has(term) ? null : term.toLowerCase()
 // });
 
 function downloadArchive(q) {
@@ -22,7 +29,6 @@ function downloadArchive(q) {
       archive_items = JSON.parse(this.responseText);
       var notice = document.getElementById("srch_notice");
       notice.innerHTML = "";
-      // console.log("Count: " + archive_items.length);
       // miniSearch.addAll(archive_items);
       if (q) {
         runSearch(q);
