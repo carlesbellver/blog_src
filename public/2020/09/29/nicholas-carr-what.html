@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="What is it like to be a smartphone?"/>
-<meta property="og:description" content="Que els sistemes informàtics puguin adquirir consciència, a mesura que augmenta la seva complexitat, és un lloc comú de la ciència ficció (però també d&#39;algunes versions de la neurociència, i d&#39;aquest territori imprecís entre la ciència i la ficció que és l&#39;onada actual de la intel·ligència artificial). No que pensin en el sentit del test de Turing, sinó que tinguin experiències subjectives." />
+<meta property="og:description" content="Que els sistemes informàtics puguen adquirir consciència, a mesura que augmenta la seua complexitat, és un lloc comú de la ciència ficció (però també d’algunes versions de la neurociència i d’aquest territori imprecís entre la ciència i la ficció que és l’onada actual de la intel·ligència artificial). No que pensen en el sentit del test de Turing, sinó que tinguen experiències subjectives." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2020/09/29/nicholas-carr-what.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2020-09-29T17:38:00+00:00" />
 <meta property="article:modified_time" content="2020-09-29T17:38:00+00:00" />
 
 <meta name="twitter:title" content="What is it like to be a smartphone?"/>
-<meta name="twitter:description" content="Que els sistemes informàtics puguin adquirir consciència, a mesura que augmenta la seva complexitat, és un lloc comú de la ciència ficció (però també d&#39;algunes versions de la neurociència, i d&#39;aquest territori imprecís entre la ciència i la ficció que és l&#39;onada actual de la intel·ligència artificial). No que pensin en el sentit del test de Turing, sinó que tinguin experiències subjectives."/>
+<meta name="twitter:description" content="Que els sistemes informàtics puguen adquirir consciència, a mesura que augmenta la seua complexitat, és un lloc comú de la ciència ficció (però també d’algunes versions de la neurociència i d’aquest territori imprecís entre la ciència i la ficció que és l’onada actual de la intel·ligència artificial). No que pensen en el sentit del test de Turing, sinó que tinguen experiències subjectives."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +217,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://www.roughtype.com/?p=8528">What is it like to be a smartphone?</a> — Nicholas Carr</h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://www.roughtype.com/?p=8528">What is it like to be a smartphone?</a> — Nicholas Carr</h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -233,8 +237,8 @@
           
             
           
-          <p>Que els sistemes informàtics puguin adquirir consciència, a mesura que augmenta la seva complexitat, és un lloc comú de la ciència ficció (però també d'<a href="https://en.wikipedia.org/wiki/Integrated_information_theory">algunes versions de la neurociència</a>, i d'aquest territori imprecís entre la ciència i la ficció que és l'onada actual de la intel·ligència artificial). No que <em>pensin</em> en el sentit del test de Turing, sinó que tinguin experiències subjectives. Carr s'inspira en l'article clàssic de Thomas Nagel: <a href="https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F">What Is It Like to Be a Bat?</a> Com seria ser un ratpenat, es preguntava Nagel. Una consciència encarnada en el substrat electrònic d'un telèfon, argüeix Carr, seria tan diferent de la d'un primat superior com nosaltres que potser no ens reconeixeríem mútuament com a éssers conscients.</p>
-<p>Cfr. Wittgenstein: ”Si un lleó pogués parlar, no el podríem entendre&quot;. Perquè la seva vida és massa diferent de la nostra. Doncs imagineu un ratpenat, o un iPhone.</p>
+          <p>Que els sistemes informàtics puguen adquirir consciència, a mesura que augmenta la seua complexitat, és un lloc comú de la ciència ficció (però també d’<a href="https://en.wikipedia.org/wiki/Integrated_information_theory">algunes versions de la neurociència</a> i d’aquest territori imprecís entre la ciència i la ficció que és l’onada actual de la intel·ligència artificial). No que <em>pensen</em> en el sentit del test de Turing, sinó que tinguen experiències subjectives. Carr s’inspira en l’article clàssic de Thomas Nagel: <a href="https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F">What Is It Like to Be a Bat?</a> Com seria ser un ratpenat, es preguntava Nagel: un mamífer amb sentits i sensacions tan distints dels humans. Però una consciència encarnada en el substrat electrònic d’un telèfon, argüeix Carr, seria tan diferent de la d’un primat superior com nosaltres que potser no ens reconeixeríem mútuament com a éssers conscients.</p>
+<p>Cfr. Wittgenstein: ”Si un lleó poguera parlar, no el podríem entendre&quot;. Perquè la seua vida és massa diferent de la nostra. Doncs imagineu un ratpenat, o un iPhone.</p>
 <blockquote>
 <p>Tot això planteja una altra possibilitat. Pot ser que ja estiguem envoltats d’intel·ligències artificials però no tinguem ni idea que existeixen. El seu ésser és invisible per a nosaltres, de la mateixa manera que el nostre n’és per a ells. Som objectes en un mateix espai, però com a éssers habitem universos diferents.</p>
 </blockquote>
@@ -282,14 +286,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

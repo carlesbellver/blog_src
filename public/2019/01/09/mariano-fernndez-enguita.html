@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="La singularidad escolar ya está aquí"/>
-<meta property="og:description" content="És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d&#39;allí s&#39;està traslladant a altres àmbits." />
+<meta property="og:description" content="És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d’allí s’està traslladant a altres àmbits." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2019/01/09/mariano-fernndez-enguita.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2019-01-09T11:47:00+00:00" />
 <meta property="article:modified_time" content="2019-01-09T11:47:00+00:00" />
 
 <meta name="twitter:title" content="La singularidad escolar ya está aquí"/>
-<meta name="twitter:description" content="És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d&#39;allí s&#39;està traslladant a altres àmbits."/>
+<meta name="twitter:description" content="És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d’allí s’està traslladant a altres àmbits."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +217,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://blog.enguita.info/2019/01/la-singularidad-escolar-ya-esta-aqui.html">La singularidad escolar ya está aquí</a> — Mariano Fernández Enguita</h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://blog.enguita.info/2019/01/la-singularidad-escolar-ya-esta-aqui.html">La singularidad escolar ya está aquí</a> — Mariano Fernández Enguita</h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -233,9 +237,9 @@
           
             
           
-          <p>És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d'allí s'està traslladant a altres àmbits.</p>
-<p>Pareix evident que l'educació, fins i tot a l'escola primària, no pot continuar funcionant com si les fonts de coneixement encara fossin escasses. El rol del professorat ha de canviar radicalment —entre altres canvis igualment importants—, però no crec que en el seu estat actual empal·lideixi davant &quot;la més basta de les indagacions possibles&quot; en la Wikipedia o en Google, com afirma Fernández Enguita. En realitat, una indagació <em>basta</em> no sol servir de res, i de fet són pocs els alumnes capaços de polir i afinar les seves cerques per trobar el que necessiten. Això, per a començar, els ho hauria d'ensenyar el professorat O algú: si no existís el professorat, caldria inventar-lo.</p>
-<p>D'altra banda, em fa l'efecte que estem assumint d'una forma excessivament acrítica que molt aviat —“en aquest segle i en aquesta seva primera meitat”— començarà una nova època, “quan la intel·ligència artificial superi la intel·ligència humana i, per tant, ja no depengui d'ella”. De moment, jo diria que la <a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">intel·ligència artificial general</a> és tan lluny com sempre, malgrat els avenços gegantins i espectaculars en <a href="https://en.wikipedia.org/wiki/Weak_AI">aplicacions específiques</a>.</p>
+          <p>És un tema que caldria considerar molt seriosament. El terme ‘singularitat’, manllevat de les matemàtiques i la física, denota el punt o el moment en què les lleis habituals deixen de ser vàlides. Ha esdevingut un lloc comú en la narrativa de la intel·ligència artificial, i des d’allí s’està traslladant a altres àmbits.</p>
+<p>Pareix evident que l’educació, fins i tot en l’escola primària, no pot continuar funcionant com si les fonts de coneixement encara foren escasses. El rol del professorat ha de canviar radicalment —entre d’altres canvis igualment importants—, però no crec que en el seu estat actual empal·lidisca davant “la més basta de les indagacions possibles” en la Wikipedia o en Google, com afirma Fernández Enguita. En realitat, una indagació <em>basta</em> no sol servir de res, i de fet són pocs els alumnes capaços de polir i afinar les seues cerques per trobar el que necessiten. Això, per a començar, els ho hauria d’ensenyar el professorat. O algú: si no existira el professorat, caldria inventar-lo.</p>
+<p>D’altra banda, em fa l’efecte que estem assumint d’una forma excessivament acrítica que molt prompte —“en aquest segle i en aquesta seua primera meitat”— començarà una nova època, “quan la intel·ligència artificial supere la intel·ligència humana i, per tant, ja no depenga d’ella”. De moment, jo diria que la <a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">intel·ligència artificial general</a> és tan lluny com sempre, malgrat els avenços gegantins i espectaculars en <a href="https://en.wikipedia.org/wiki/Weak_AI">aplicacions específiques</a>.</p>
 
 
         
@@ -280,14 +284,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

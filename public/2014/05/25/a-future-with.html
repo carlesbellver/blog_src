@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="A Future With Only 10 Universities"/>
-<meta property="og:description" content="Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per Sebastian Thrun: “En cinquanta anys… només hi haurà al món deu institucions d&#39;educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i big data, etc." />
+<meta property="og:description" content="Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per Sebastian Thrun: “En cinquanta anys… només hi haurà al món deu institucions d’educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i big data, etc." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2014/05/25/a-future-with.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2014-05-25T22:00:00+00:00" />
 <meta property="article:modified_time" content="2014-05-25T22:00:00+00:00" />
 
 <meta name="twitter:title" content="A Future With Only 10 Universities"/>
-<meta name="twitter:description" content="Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per Sebastian Thrun: “En cinquanta anys… només hi haurà al món deu institucions d&#39;educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i big data, etc."/>
+<meta name="twitter:description" content="Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per Sebastian Thrun: “En cinquanta anys… només hi haurà al món deu institucions d’educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i big data, etc."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +217,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://hackeducation.com/2013/10/15/minding-the-future-openva">A Future With Only 10 Universities</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://hackeducation.com/2013/10/15/minding-the-future-openva">A Future With Only 10 Universities</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -233,7 +237,7 @@
           
             
           
-          <p>Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per <a href="https://en.wikipedia.org/wiki/Sebastian_Thrun">Sebastian Thrun</a>: “En cinquanta anys… només hi haurà al món deu institucions d'educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i <em>big data</em>, etc.</p>
+          <p>Audrey Watters imaginava en aquest article del seu blog (octubre de 2013) per quines fases hauríem de passar fins a arribar al futur distòpic predit per <a href="https://en.wikipedia.org/wiki/Sebastian_Thrun">Sebastian Thrun</a>: “En cinquanta anys… només hi haurà al món deu institucions d’educació superior”. Suprimir el finançament de les universitats públiques, reduir l’educació a formació professional sota el dictat de les corporacions, confiar la recerca a la iniciativa privada (amb micromecenatge via Kickstarter per a les humanitats), reemplaçar els experts per algorismes i <em>big data</em>, etc.</p>
 <p>Incloïa també, per a més inri, una llista de les universitats elegides al final dels temps:</p>
 <blockquote>
 <ol>
@@ -243,7 +247,7 @@
 <li>MIT</li>
 <li>Stanford</li>
 <li>Princeton</li>
-<li>The University of <a href="https://es.wikipedia.org/wiki/Pearson_Educaci%C3%B3n">Pearson</a> (adquireix <a href="https://es.wikipedia.org/wiki/Coursera">Coursera</a>, 2016)</li>
+<li>The University of <a href="https://en.wikipedia.org/wiki/Pearson_Education">Pearson</a> (adquireix <a href="https://es.wikipedia.org/wiki/Coursera">Coursera</a>, 2016)</li>
 <li>The University of Google (adquireix <a href="https://es.wikipedia.org/wiki/Udacity">Udacity</a>, 2014)</li>
 <li>The University of <a href="https://es.wikipedia.org/wiki/Walmart">Walmart</a> (adquireix <a href="https://es.wikipedia.org/wiki/Universidad_de_Phoenix">University of Phoenix</a>, 2017)</li>
 <li><a href="https://es.wikipedia.org/wiki/Universidad_Brigham_Young">BYU</a></li>
@@ -251,7 +255,7 @@
 </blockquote>
 <p>Per sort, com deia ella, res d’això és inevitable.</p>
 <blockquote>
-<p>Resistència. Comunitat. Xarxes obertes. Continguts oberts. Compartir. Un espai —en línia o fora de línia— que no sigui dictat per les forces del mercat. Perícia local. Suport local. Aprofitar la tecnologia per connectar l'estudiantat local i la perícia local amb la resta del món. Tenir cura de l'estudiantat. Connexions humanes. Meravella. Serendipitat intel·lectual. Però sobretot resistència. Una visió més forta i cridanera del que hauria de ser un futur de l’educació superior, i la tecnologia, més just, progressiu i accessible. En realitat, és bastant fàcil preveure com seria l’escenari de malson d’una apocalipsi de l’educació superior. És fàcil veure’n senyals en els titulars. Diria que el major repte és tenir una visió del futur de l’educació superior més agosarada i cridanera.</p>
+<p>Resistència. Comunitat. Xarxes obertes. Continguts oberts. Compartir. Un espai —en línia o fora de línia— que no sigui dictat per les forces del mercat. Perícia local. Suport local. Aprofitar la tecnologia per connectar l’estudiantat local i la perícia local amb la resta del món. Tenir cura de l’estudiantat. Connexions humanes. Meravella. Serendipitat intel·lectual. Però sobretot resistència. Una visió més forta i cridanera del que hauria de ser un futur de l’educació superior, i la tecnologia, més just, progressiu i accessible. En realitat, és bastant fàcil preveure com seria l’escenari de malson d’una apocalipsi de l’educació superior. És fàcil veure’n senyals en els titulars. Diria que el major repte és tenir una visió del futur de l’educació superior més agosarada i cridanera.</p>
 </blockquote>
 <p>Amén.</p>
 
@@ -298,14 +302,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

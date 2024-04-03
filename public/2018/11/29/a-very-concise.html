@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,16 +75,16 @@
 
 
 <meta name="og:title" content="A (very) Concise Creative History of Computers"/>
-<meta property="og:description" content="De les cartes d&#39;amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en Westworld (1973). Amb unes reflexions finals sobre l&#39;arqueologia digital:
-La història de la primera pàgina web és típica: publicada originalment l&#39;agost de 1991, es va sobreescriure contínuament fins a març de 1992." />
+<meta property="og:description" content="De les cartes d’amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en Westworld (1973). Amb unes reflexions finals sobre l’arqueologia digital:
+La història de la primera pàgina web és típica: publicada originalment l’agost de 1991, es va sobreescriure contínuament fins a març de 1992." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2018/11/29/a-very-concise.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2018-11-29T14:31:00+00:00" />
 <meta property="article:modified_time" content="2018-11-29T14:31:00+00:00" />
 
 <meta name="twitter:title" content="A (very) Concise Creative History of Computers"/>
-<meta name="twitter:description" content="De les cartes d&#39;amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en Westworld (1973). Amb unes reflexions finals sobre l&#39;arqueologia digital:
-La història de la primera pàgina web és típica: publicada originalment l&#39;agost de 1991, es va sobreescriure contínuament fins a març de 1992."/>
+<meta name="twitter:description" content="De les cartes d’amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en Westworld (1973). Amb unes reflexions finals sobre l’arqueologia digital:
+La història de la primera pàgina web és típica: publicada originalment l’agost de 1991, es va sobreescriure contínuament fins a març de 1992."/>
 
 
 
@@ -108,11 +108,9 @@ La història de la primera pàgina web és típica: publicada originalment l&#39
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ La història de la primera pàgina web és típica: publicada originalment l&#39
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ La història de la primera pàgina web és típica: publicada originalment l&#39
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ La història de la primera pàgina web és típica: publicada originalment l&#39
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ La història de la primera pàgina web és típica: publicada originalment l&#39
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://digital-archaeology.org/a-concise-creative-history-of-computers/">A (very) Concise Creative History of Computers</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://digital-archaeology.org/a-concise-creative-history-of-computers/">A (very) Concise Creative History of Computers</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -235,9 +239,9 @@ La història de la primera pàgina web és típica: publicada originalment l&#39
           
             
           
-          <p>De les cartes d'amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en <em>Westworld</em> (1973). Amb unes reflexions finals sobre l'arqueologia digital:</p>
+          <p>De les cartes d’amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en <em>Westworld</em> (1973). Amb unes reflexions finals sobre l’arqueologia digital:</p>
 <blockquote>
-<p>La història de la primera pàgina web és típica: publicada originalment l'agost de 1991, es va sobreescriure contínuament fins a març de 1992. Mentre que es coneixen quaranta-vuit còpies de la Bíblia de Gutenberg, impreses fa més de cinc-cents anys, no ha sobreviscut cap mostra de la primera pàgina web, ni tan sols una captura de pantalla […] Fins i tot quan s'han conservat el codi i els gràfics d'algun dels primers videojocs, aquests ja no es poden veure en el seu entorn original. Els arcaics ordinadors centrals i les primeres consoles ja no es poden fer funcionar. Aquí podem fer una distinció entre arqueologia i arxivística: l'arqueologia considera el problema de la visualització. Un llibre es mostra per ell mateix, però els gràfics d'ordinador, els videojocs i els llocs web són invisibles sense el programari i el maquinari adequats.</p>
+<p>La història de la primera pàgina web és típica: publicada originalment l’agost de 1991, es va sobreescriure contínuament fins a març de 1992. Mentre que es coneixen quaranta-vuit còpies de la Bíblia de Gutenberg, impreses fa més de cinc-cents anys, no ha sobreviscut cap mostra de la primera pàgina web, ni tan sols una captura de pantalla […] Fins i tot quan s’han conservat el codi i els gràfics d’algun dels primers videojocs, aquests ja no es poden veure en el seu entorn original. Els arcaics ordinadors centrals i les primeres consoles ja no es poden fer funcionar. Aquí podem fer una distinció entre arqueologia i arxivística: l’arqueologia considera el problema de la visualització. Un llibre es mostra per ell mateix, però els gràfics d’ordinador, els videojocs i els llocs web són invisibles sense el programari i el maquinari adequats.</p>
 </blockquote>
 
 
@@ -283,14 +287,17 @@ La història de la primera pàgina web és típica: publicada originalment l&#39
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

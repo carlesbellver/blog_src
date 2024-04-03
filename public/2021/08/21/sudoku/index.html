@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="Les cinc lliçons del Sudoku que ensenyen a resoldre problemes complexos"/>
-<meta property="og:description" content="Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals. Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse. “No pensis, mira!” —Ludwig Wittgenstein. Construeix la teva estratègia sobre la marxa i basa’t en la informació que tens. Com tot art, la intel·ligència no pot obeir a receptes o programes." />
+<meta property="og:description" content="Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals. Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse. “No penses, mira!” —Ludwig Wittgenstein. Construeix la teua estratègia sobre la marxa i basa’t en la informació que tens. Com tot art, la intel·ligència no pot obeir a receptes o programes." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2021/08/21/sudoku/" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2021-08-21T14:12:12+02:00" />
 <meta property="article:modified_time" content="2021-08-21T14:12:12+02:00" />
 
 <meta name="twitter:title" content="Les cinc lliçons del Sudoku que ensenyen a resoldre problemes complexos"/>
-<meta name="twitter:description" content="Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals. Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse. “No pensis, mira!” —Ludwig Wittgenstein. Construeix la teva estratègia sobre la marxa i basa’t en la informació que tens. Com tot art, la intel·ligència no pot obeir a receptes o programes."/>
+<meta name="twitter:description" content="Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals. Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse. “No penses, mira!” —Ludwig Wittgenstein. Construeix la teua estratègia sobre la marxa i basa’t en la informació que tens. Com tot art, la intel·ligència no pot obeir a receptes o programes."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +217,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.vilaweb.cat/noticies/les-cinc-llicons-del-sodoku-que-ensenyen-a-resoldre-problemes-complexos/">Les cinc lliçons del Sudoku que ensenyen a resoldre problemes complexos</a> — Ousama Bouiss</h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.vilaweb.cat/noticies/les-cinc-llicons-del-sodoku-que-ensenyen-a-resoldre-problemes-complexos/">Les cinc lliçons del Sudoku que ensenyen a resoldre problemes complexos</a> — Ousama Bouiss</h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -234,14 +238,14 @@
             
           
           <ol>
-<li><strong>Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals.</strong> Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse.</li>
-<li><strong>“No pensis, mira!”</strong> —Ludwig Wittgenstein.</li>
-<li><strong>Construeix la teva estratègia sobre la marxa i basa’t en la informació que tens.</strong> Com tot art, la intel·ligència no pot obeir a receptes o programes. —Edgar Morin.</li>
-<li><strong>Sigues conscient del teu nivell per a aprendre sense rendir-te.</strong> “Psicològicament, no hi ha veritat sense error rectificat. Una psicologia de l’actitud objectiva és una història dels nostres errors personals.” —Gaston Bachelard.</li>
-<li><strong>Sigues prudent i rigorós per a evitar que els errors s’agreugin</strong>. Humilitat, cautela i rigor.</li>
+<li>Pren-te el temps d’analitzar els coneixements disponibles, la ignorància possible i les incerteses reals. Davant la complexitat, cal subordinar el desig de jutjar al deure de comprendre —Jacques Bouveresse.</li>
+<li>“No penses, mira!” —Ludwig Wittgenstein.</li>
+<li>Construeix la teua estratègia sobre la marxa i basa’t en la informació que tens. Com tot art, la intel·ligència no pot obeir a receptes o programes. —Edgar Morin.</li>
+<li>Sigues conscient del teu nivell per a aprendre sense rendir-te. “Psicològicament, no hi ha veritat sense error rectificat. Una psicologia de l’actitud objectiva és una història dels nostres errors personals.” —Gaston Bachelard.</li>
+<li>Sigues prudent i rigorós per a evitar que els errors s’agreugen. Humilitat, cautela i rigor.</li>
 </ol>
 <blockquote>
-<p>“El concepte de joc és d’un ordre superior al de la seriositat. Perquè la seriositat pretén excloure el joc, mentre que el joc pot incloure la seriositat dins seu.”</p>
+<p>El concepte de joc és d’un ordre superior al de la seriositat. Perquè la seriositat pretén excloure el joc, mentre que el joc pot incloure la seriositat dins seu.</p>
 </blockquote>
 <p>—Joseph Huizinga, <em>Homo Ludens</em>.</p>
 <p>Cfr. Julio Cortázar: <a href="https://carlesbellver.net/2014/03/14/julio-cortzar-jugbamos.html">“jugábamos en serio”</a>.</p>
@@ -289,14 +293,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,7 +75,7 @@
 
 
 <meta name="og:title" content="The Healing Power of JavaScript"/>
-<meta property="og:description" content="La programació com a forma de meditació. Valdria també per a altres formes d&#39;escriptura reglada o restringida, que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.
+<meta property="og:description" content="La programació com a forma de meditació. Valdria també per a altres formes d’escriptura reglada o restringida, que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.
 El codi calma perquè pot proporcionar control en moments en què el món pareix entrar en una espiral." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2021/04/14/healing-power-javascript/" />
@@ -83,7 +83,7 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
 <meta property="article:modified_time" content="2021-04-14T21:04:22+02:00" />
 
 <meta name="twitter:title" content="The Healing Power of JavaScript"/>
-<meta name="twitter:description" content="La programació com a forma de meditació. Valdria també per a altres formes d&#39;escriptura reglada o restringida, que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.
+<meta name="twitter:description" content="La programació com a forma de meditació. Valdria també per a altres formes d’escriptura reglada o restringida, que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.
 El codi calma perquè pot proporcionar control en moments en què el món pareix entrar en una espiral."/>
 
 
@@ -108,11 +108,9 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.wired.com/story/healing-power-javascript-code-programming/">The Healing Power of JavaScript</a> — Craig Mod</h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.wired.com/story/healing-power-javascript-code-programming/">The Healing Power of JavaScript</a> — Craig Mod</h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -235,7 +239,7 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
           
             
           
-          <p>La programació com a forma de meditació. Valdria també per a altres formes d'escriptura reglada o <a href="https://ca.wikipedia.org/wiki/Escriptura_restringida">restringida</a>, que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.</p>
+          <p>La programació com a forma de meditació. Valdria també per a altres formes d’escriptura reglada o <a href="https://ca.wikipedia.org/wiki/Escriptura_restringida">restringida</a>, que en lloc de “fer que passen coses” al món exterior, les gesten al món interior.</p>
 <blockquote>
 <p>El codi calma perquè pot proporcionar control en moments en què el món pareix entrar en una espiral. Reductivament, la programació consisteix en petits trencaclosques que cal resoldre. No trencaclosques inerts en taules de saló, sinó trencaclosques que alenen amb una força vital sorprenent. Trencaclosques que fan que passin coses, que fan coses, que automatitzen el tedi o permeten la publicació de paraules arreu del món.</p>
 </blockquote>
@@ -283,14 +287,17 @@ El codi calma perquè pot proporcionar control en moments en què el món pareix
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

@@ -6,13 +6,56 @@
     <description>La vista cansada (Citacions)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Wed, 14 Jun 2023 18:56:28 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 17:42:29 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/citacions/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       
+      <link>https://carlesbellver.net/2024/03/21/quine/</link>
+      <pubDate>Thu, 21 Mar 2024 17:42:29 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/03/21/quine/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error científic creure el contrari. Però pel que fa a la base epistemològica, els objectes físics i els déus només difereixen en grau i no en espècie. Ambdós tipus d’entitats entren en la nostra concepció només com a postulats culturals. El mite dels objectes físics és epistemològicament superior a la majoria, ja que ha demostrat ser més eficaç que altres mites com a recurs per a bastir una estructura manejable en el flux de l’experiència.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Willard V. O. Quine, “Dos dogmes de l’empirisme”.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;https://carlesbellver.net/uploads/2024/2024-03-21-autor.jpg&#34; alt=&#34;Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.&#34;&gt;
+  &lt;figcaption&gt;L’autor d’aquest blog, rellegint “Two Dogmas of Empiricism” de Willard V. O. Quine en la traducció al castellà de Manuel Sacristán (“Dos dogmas del empirismo“, dins de “Desde un punto de vista lógico”).&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I assure you, an AI didn’t write a terrible “George Carlin” routine</title>
+      <link>https://carlesbellver.net/2024/02/02/botshit/</link>
+      <pubDate>Fri, 02 Feb 2024 14:22:32 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/02/02/botshit/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;…no estem ni de bon tros a punt que una IA puga fer la teua feina, però ja estem molt més enllà del punt en què el teu cap pot ser enganyat i acomiadar-te per reemplaçar-te amb un robot que farà malament la teua feina.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Cory Doctorow&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2024/01/12/ai-muse/</link>
+      <pubDate>Fri, 12 Jan 2024 11:38:38 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/01/12/ai-muse/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;ChatGPT és una musa, no un oracle.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;— &lt;a href=&#34;https://youtu.be/oy7uMpPrGMA&#34;&gt;You Can Build an App in 60 Minutes with ChatGPT - Ep. 5 with Geoffrey Litt - YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Es pura literatura</title>
       <link>https://carlesbellver.net/2023/06/14/ana-maria-shua/</link>
       <pubDate>Wed, 14 Jun 2023 18:56:28 +0200</pubDate>
       
@@ -50,7 +93,7 @@ però els meus dimonis&lt;br&gt;
 són els que m’acompanyen.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—&lt;a href=&#34;https://twitter.com/tombatossalator/status/1333052124347977731&#34;&gt;Albert Garcia Pascual&lt;/a&gt;&lt;/p&gt;
-&lt;img src=&#34;https://carlesbellver.net/uploads/2023/2023-04-23-angels-dimonis.jpg&#34; alt=&#34;Imatge generada per intel·ligència artificial: pintura a l&#39;oli d&#39;un àngel i un dimoni, estil manuscrit medieval&#34;&gt;</description>
+&lt;img src=&#34;https://carlesbellver.net/uploads/2023/2023-04-23-angels-dimonis.jpg&#34; alt=&#34;Imatge generada per intel·ligència artificial: pintura a l’oli d’un àngel i un dimoni, estil manuscrit medieval&#34;&gt;</description>
     </item>
     
     <item>
@@ -74,20 +117,20 @@ són els que m’acompanyen.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2022/12/26/57574/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;M&#39;agradaria tenir una comprensió més perfecta de les coses, però no vull comprar-la tan cara com costa. La meva intenció és passar tranquil·lament, i no laboriosament, el que em queda de vida. Per res em veig trencant-me el cap: no per la ciència, per valuosa que sigui. No busco als llibres res que no sigui donar-me plaer amb una diversió honesta; o si estudio, només hi busco la ciència que tracti del coneixement de mi mateix i que m&#39;instrueixi a morir bé i a viure bé.&lt;/p&gt;
+&lt;p&gt;M’agradaria tenir una comprensió més perfecta de les coses, però no vull comprar-la tan cara com costa. La meua intenció és passar tranquil·lament, i no laboriosament, el que em queda de vida. Per res em veig trencant-me el cap: no per la ciència, per valuosa que siga. No busque als llibres res que no siga donar-me plaer amb una diversió honesta; o si estudie, només hi busque la ciència que tracte del coneixement de mi mateix i que m’instruïsca a morir bé i a viure bé.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Michel de Montaigne, &lt;em&gt;Essais&lt;/em&gt; (1595), llibre II, capítol 10.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>“Fuster en la seua salsa”</title>
       <link>https://carlesbellver.net/2022/05/22/fuster-ciscarista/</link>
       <pubDate>Sun, 22 May 2022 09:35:45 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2022/05/22/fuster-ciscarista/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Naturalment, Fuster era ciscarista, a diferència de molts dels seus seguidors. Les raons són molt naturals: Fuster era molt més intel·ligent i pragmàtic que la majoria dels seus &lt;em&gt;followers&lt;/em&gt;. Ell va entendre de seguida que la Llei d&#39;Ús i Ensenyament del Valencià era revolucionària, el primer estri legal favorable a la llengua des dels Decrets de Nova Planta…&lt;/p&gt;
+&lt;p&gt;Naturalment, Fuster era ciscarista, a diferència de molts dels seus seguidors. Les raons són molt naturals: Fuster era molt més intel·ligent i pragmàtic que la majoria dels seus &lt;em&gt;followers&lt;/em&gt;. Ell va entendre de seguida que la Llei d’Ús i Ensenyament del Valencià era revolucionària, el primer estri legal favorable a la llengua des dels Decrets de Nova Planta…&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Joan Garí, &lt;a href=&#34;http://oficidelector.blogspot.com/2022/05/fuster-en-la-seua-salsa.html&#34;&gt;“Fuster en la seua salsa”&lt;/a&gt; (ressenya del llibre de Salvador Vendrell &lt;a href=&#34;https://www.onadaedicions.com/llibres/producte/A+casa+Joan+Fuster+Les+tertulies+de+Sueca&#34;&gt;&lt;em&gt;A casa Joan Fuster. Les tertúlies de Sueca&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
 </description>
@@ -101,18 +144,18 @@ són els que m’acompanyen.&lt;/p&gt;
       <guid>https://carlesbellver.net/2022/05/15/john-fowles-els-topics/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;—…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?&lt;/p&gt;
-&lt;p&gt;—Crec que ell va dir l&#39;&lt;em&gt;ethos&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;—Perquè l&#39;originalitat és pertorbadora, correcte?&lt;/p&gt;
+&lt;p&gt;—Crec que ell va dir l’&lt;em&gt;ethos&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;—Perquè l’originalitat és pertorbadora, correcte?&lt;/p&gt;
 &lt;p&gt;—Depèn del context.&lt;/p&gt;
 &lt;p&gt;—Com?&lt;/p&gt;
-&lt;p&gt;—Hi ha contextos de classe mitjana on s&#39;espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S&#39;imposa.&lt;/p&gt;
+&lt;p&gt;—Hi ha contextos de classe mitjana on s’espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S’imposa.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—John Fowles, “The Cloud” (&lt;em&gt;The Ebony Tower&lt;/em&gt;).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>Bruce Katz, urbanista de ciutats globals</title>
       <link>https://carlesbellver.net/2022/04/04/gran-ciutat/</link>
       <pubDate>Mon, 04 Apr 2022 08:00:35 +0200</pubDate>
       
@@ -150,7 +193,7 @@ són els que m’acompanyen.&lt;/p&gt;
       <description>&lt;blockquote&gt;
 &lt;p&gt;A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img alt=&#34;Coberta del llibre “Carta a los poderes”, d&#39;Antonin Artaud. 40a Fira del Llibre Antic i d&#39;Ocasió a Castelló de la Plana.&#34; src=&#34;https://carlesbellver.net/uploads/2021/2021-11-07-antonin-artaud.jpg&#34;&gt;
+&lt;img alt=&#34;Coberta del llibre “Carta a los poderes”, d’Antonin Artaud. 40a Fira del Llibre Antic i d’Ocasió a Castelló de la Plana.&#34; src=&#34;https://carlesbellver.net/uploads/2021/2021-11-07-antonin-artaud.jpg&#34;&gt;
 </description>
     </item>
     
@@ -160,7 +203,7 @@ són els que m’acompanyen.&lt;/p&gt;
       <pubDate>Tue, 24 Aug 2021 12:53:14 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2021/08/24/companys-de-viatge/</guid>
-      <description>&lt;p&gt;Fan campanyes de foment de la lectura perquè volen &lt;em&gt;vendre&lt;/em&gt; llibres. Però els molesta que la gent vulga escriure i sempre se n&#39;estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!&lt;/p&gt;
+      <description>&lt;p&gt;Fan campanyes de foment de la lectura perquè volen &lt;em&gt;vendre&lt;/em&gt; llibres. Però els molesta que la gent vulga escriure i sempre se n’estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hi ha una pau meravellosa en no publicar.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -169,15 +212,15 @@ són els que m’acompanyen.&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>“Primo Levi’s Last Moments”</title>
       <link>https://carlesbellver.net/2021/06/28/primo-levi/</link>
       <pubDate>Mon, 28 Jun 2021 21:50:09 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2021/06/28/primo-levi/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;A hores d&#39;ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (&lt;em&gt;Primo Levi&lt;/em&gt;, 2002), persisteixen a creure que sí.&lt;/p&gt;
+&lt;p&gt;A hores d’ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (&lt;em&gt;Primo Levi&lt;/em&gt;, 2002), persisteixen a creure que sí.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Diego Gambetta, &lt;a href=&#34;http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments&#34;&gt;“Primo Levi’s Last Moments”&lt;/a&gt; (&lt;em&gt;postscriptum&lt;/em&gt;, 21 d&#39;abril de 2005)&lt;/p&gt;
+&lt;p&gt;—Diego Gambetta, &lt;a href=&#34;http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments&#34;&gt;“Primo Levi’s Last Moments”&lt;/a&gt; (&lt;em&gt;postscriptum&lt;/em&gt;, 21 d’abril de 2005)&lt;/p&gt;
 &lt;p&gt;En aquest blog: &lt;a href=&#34;https://carlesbellver.net/2004/06/28/els-darrers-moments.html&#34;&gt;“Els darrers moments de Primo Levi”&lt;/a&gt; (28 de juny de 2004).&lt;/p&gt;
 </description>
     </item>
@@ -240,6 +283,11 @@ Tots aquests relats són els millors escrits mai a Castelló.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Manel Garcia Grau (2006) sobre &lt;a href=&#34;https://carlesbellver.net/llibres/lavidacanina/&#34;&gt;&lt;em&gt;La vida canina&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els seus relats —sens dubte, els més reeixits que hagen sortit mai de la ploma d’un autor castellonenc— s’articulen com vertaders mecanismes de rellotgeria, d’acord amb la millor tradició del gènere, i palesen una profunda unitat estilística, una densa trama intertextual, sovint a cavall de diversos gèneres, que es complau a esborrar les fronteres entre la realitat i la ficció i amb els jocs intel·lectuals i les bromes erudites o surrealistes, a la manera de Lovecraft, Borges, Calvino o Perucho.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Josep J. Conill (2010) sobre &lt;a href=&#34;https://carlesbellver.net/llibres/elllibredetopics/&#34;&gt;&lt;em&gt;El llibre de tòpics&lt;/em&gt;&lt;/a&gt; i &lt;a href=&#34;https://carlesbellver.net/llibres/lavidacanina/&#34;&gt;&lt;em&gt;La vida canina&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;a name=&#34;2011.1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Són relats que mantenen, de manera deliberada i eficaç, certa tendència a la insinuació, a la sugestió i a l’evocació, tres propensions característiques del discurs poètic que Bellver conrea en prosa.&lt;/p&gt;
@@ -275,7 +323,7 @@ Tots aquests relats són els millors escrits mai a Castelló.&lt;/p&gt;
       <description>&lt;blockquote&gt;
 &lt;p&gt;Jo vull tornar a viure on l’herba&lt;br&gt;
 no és com aquí pur ornament, joia dels ulls&lt;br&gt;
-que dura l&#39;any sencer.&lt;/p&gt;
+que dura l’any sencer.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Attilio Bertolucci, &lt;a href=&#34;https://www.salze.cat/producte/portam-amb-tu-attilio-bertolucci/&#34;&gt;&lt;em&gt;Porta’m amb tu / Portami con te&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Primer títol —una delícia— de &lt;a href=&#34;https://salze.cat&#34;&gt;Salze&lt;/a&gt;, projecte editorial de Marta Vilardaga i Josep Porcar.&lt;/p&gt;
@@ -311,7 +359,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Who’s Zoomin’ Who?</title>
       <link>https://carlesbellver.net/2020/04/02/laprenentatge-en-lnia.html</link>
       <pubDate>Thu, 02 Apr 2020 19:16:58 +0000</pubDate>
       
@@ -343,33 +391,33 @@ que dura l&#39;any sencer.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2020/01/19/el-gerent-representa.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;El gerent representa en el seu &lt;em&gt;personatge&lt;/em&gt; l&#39;eliminació de la distinció entre relacions socials manipuladores i no manipuladores; el terapeuta representa la mateixa eliminació en l&#39;esfera de la vida personal. El gerent tracta els fins com un fet, fora del seu abast; la seva preocupació és la tècnica, l&#39;eficàcia en la transformació de matèries primeres en productes acabats, mà d&#39;obra no qualificada en mà d&#39;obra qualificada, inversió en beneficis. El terapeuta també tracta els fins com un fet, fora del seu abast; la seva preocupació també és la tècnica, l&#39;eficàcia en la transformació dels símptomes neuròtics en energia dirigida, individus inadaptats en ben adaptats. Ni el gerent ni el terapeuta, en el seu paper de gerent i terapeuta, participen ni són capaços de participar en un debat moral. Es veuen a ells mateixos, i els veuen els que els miren amb els mateixos ulls amb què es miren ells, com a figures incontestades, que pretenen limitar-se als àmbits en què un acord racional és possible; és a dir, per descomptat des del seu punt de vista, l&#39;àmbit dels fets, l&#39;àmbit dels mitjans, l&#39;àmbit de l&#39;eficàcia mesurable.&lt;/p&gt;
+&lt;p&gt;El gerent representa en el seu &lt;em&gt;personatge&lt;/em&gt; l’eliminació de la distinció entre relacions socials manipuladores i no manipuladores; el terapeuta representa la mateixa eliminació en l’esfera de la vida personal. El gerent tracta els fins com un fet, fora del seu abast; la seua preocupació és la tècnica, l’eficàcia en la transformació de matèries primeres en productes acabats, mà d’obra no qualificada en mà d’obra qualificada, inversió en beneficis. El terapeuta també tracta els fins com un fet, fora del seu abast; la seua preocupació també és la tècnica, l’eficàcia en la transformació dels símptomes neuròtics en energia dirigida, individus inadaptats en ben adaptats. Ni el gerent ni el terapeuta, en el seu paper de gerent i terapeuta, participen ni són capaços de participar en un debat moral. Es veuen a ells mateixos, i els veuen els que els miren amb els mateixos ulls amb què es miren ells, com a figures incontestades, que pretenen limitar-se als àmbits en què un acord racional és possible; és a dir, per descomptat des del seu punt de vista, l’àmbit dels fets, l’àmbit dels mitjans, l’àmbit de l’eficàcia mesurable.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Alasdair MacIntyre, &lt;em&gt;After Virtue&lt;/em&gt; (capítol 3).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>Ironies of automation</title>
       <link>https://carlesbellver.net/2020/01/08/the-more-we.html</link>
       <pubDate>Wed, 08 Jan 2020 16:30:50 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2020/01/08/the-more-we.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;…quant més automatizem, i més sofisticada fem l’automatització, més dependrem d&#39;operaris humans altament qualificats.&lt;/p&gt;
+&lt;p&gt;…quant més automatizem, i més sofisticada fem l’automatització, més dependrem d’operaris humans altament qualificats.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—&lt;a href=&#34;https://blog.acolyer.org/2020/01/08/ironies-of-automation/&#34;&gt;Ironies of automation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>L&#39;estil… és allò que fas malament</title>
+      <title>L’estil… és allò que fas malament</title>
       <link>https://carlesbellver.net/2019/12/10/i-know-jerry.html</link>
       <pubDate>Tue, 10 Dec 2019 13:07:09 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2019/12/10/i-know-jerry.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Sé que Jerry Garcia ho va dir una vegada, però sé que molta gent ho havia dit abans que ell, que “l’estil és allò que no pots deixar de fer.” L’estil, en diferents sentits, és allò que fas malament. Perquè la tècnica perfecta estaria completament mancada d’estil. Allò que fa que tothom sàpiga que ets tu qui toca és com t’allunyes d’una tècnica perfecta. Així que després d’haver escrit uns pocs milions de paraules, allò que fa que qualsevol agafi una pàgina, la llegeixi i digui: “Això ho va escriure Neil”, és l’estil, és allò que no pots deixar de fer.&lt;/p&gt;
+&lt;p&gt;Sé que Jerry Garcia ho va dir una vegada, però sé que molta gent ho havia dit abans que ell, que “l’estil és allò que no pots deixar de fer”. L’estil, en diferents sentits, és allò que fas malament. Perquè la tècnica perfecta estaria completament mancada d’estil. Allò que fa que tothom sàpiga que ets tu qui toca és com t’allunyes d’una tècnica perfecta. Així que després d’haver escrit uns pocs milions de paraules, allò que fa que qualsevol agafe una pàgina, la llegisca i diga: “Això ho va escriure Neil”, és l’estil, és allò que no pots deixar de fer.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Neil Gaiman (via &lt;a href=&#34;https://quoteinvestigator.com/2019/12/09/style/&#34;&gt;Quote Investigator&lt;/a&gt;).&lt;/p&gt;
 </description>
@@ -389,20 +437,20 @@ que dura l&#39;any sencer.&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Engels’ Speech at the Grave of Karl Marx. London, March 17, 1883</title>
       <link>https://carlesbellver.net/2019/07/28/just-as-darwin.html</link>
       <pubDate>Sun, 28 Jul 2019 07:43:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2019/07/28/just-as-darwin.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;De la mateixa manera que Darwin va descobrir la llei del desenvolupament de la naturalesa orgànica, així Marx va descobrir la llei del desenvolupament de la història humana: el fet simple, fins ara amagat per un sobrecreixement de la ideologia, que la humanitat ha de menjar, beure, tenir recer i roba, abans que pugui dedicar-se a la política, la ciència, l&#39;art, la religió, etc.; que, per tant, la producció dels mitjans materials immediats i, en conseqüència, el grau de desenvolupament econòmic assolit per un determinat poble o durant una època determinada, constitueixen el fonament sobre el qual les institucions estatals, les concepcions legals, l&#39;art i fins i tot les idees sobre la religió de les persones involucrades han anat evolucionant, i a la llum del qual, per tant, s’han d’explicar, en lloc de fer-ho a la inversa, com fins ara era el cas.&lt;/p&gt;
+&lt;p&gt;De la mateixa manera que Darwin va descobrir la llei del desenvolupament de la naturalesa orgànica, així Marx va descobrir la llei del desenvolupament de la història humana: el fet simple, fins ara amagat per un sobrecreixement de la ideologia, que la humanitat ha de menjar, beure, tenir recer i roba, abans que puga dedicar-se a la política, la ciència, l’art, la religió, etc.; que, per tant, la producció dels mitjans materials immediats i, en conseqüència, el grau de desenvolupament econòmic assolit per un determinat poble o durant una època determinada, constitueixen el fonament sobre el qual les institucions estatals, les concepcions legals, l’art i fins i tot les idees sobre la religió de les persones involucrades han anat evolucionant, i a la llum del qual, per tant, s’han d’explicar, en lloc de fer-ho a la inversa, com fins ara era el cas.&lt;/p&gt;
 &lt;p&gt;Però això no és tot…&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>L’altra gent</title>
       <link>https://carlesbellver.net/2019/06/29/there-is-this.html</link>
       <pubDate>Sat, 29 Jun 2019 18:12:00 +0000</pubDate>
       
@@ -428,7 +476,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>The real reason America is scared of Huawei: internet-connected everything</title>
       <link>https://carlesbellver.net/2019/05/21/the-us-government.html</link>
       <pubDate>Tue, 21 May 2019 05:46:00 +0000</pubDate>
       
@@ -460,9 +508,9 @@ que dura l&#39;any sencer.&lt;/p&gt;
       <guid>https://carlesbellver.net/2019/03/20/094213.html</guid>
       <description>&lt;p&gt;D’una &lt;a href=&#34;https://en.wikiquote.org/wiki/Niels_Bohr&#34;&gt;citació de Niels Bohr&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Que meravellós que hàgim topat amb una paradoxa. Ara tenim alguna esperança de progressar.&lt;/p&gt;
+&lt;p&gt;Que meravellós que hàgem topat amb una paradoxa. Ara tenim alguna esperança de progressar.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img src=&#34;https://carlesbellver.net/uploads/2019/8ef9861470.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://carlesbellver.net/uploads/2019/8ef9861470.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Citació de Niels Bohr en anglès en una pantalla d’un dispositiu electrònic: “Now we have some hope of making progress”.&#34; /&gt;
 </description>
     </item>
     
@@ -473,7 +521,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2019/03/06/162834.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;El terme &lt;em&gt;prospectiva&lt;/em&gt;, inventat per &lt;a href=&#34;https://en.wikipedia.org/wiki/Gaston_Berger&#34;&gt;Gaston Berger&lt;/a&gt;, és l&#39;estudi dels possibles futurs.&lt;/p&gt;
+&lt;p&gt;El terme &lt;em&gt;prospectiva&lt;/em&gt;, inventat per &lt;a href=&#34;https://en.wikipedia.org/wiki/Gaston_Berger&#34;&gt;Gaston Berger&lt;/a&gt;, és l’estudi dels possibles futurs.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -485,7 +533,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2019/01/28/082952.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;El millor llibre que he llegit mai sobre programació i creació d&#39;aplicacions és &lt;em&gt;Lliçons americanes: sis propostes per al pròxim mil·lenni&lt;/em&gt; d&#39;Italo Calvino.&lt;/p&gt;
+&lt;p&gt;El millor llibre que he llegit mai sobre programació i creació d’aplicacions és &lt;em&gt;Lliçons americanes: sis propostes per al pròxim mil·lenni&lt;/em&gt; d’Italo Calvino.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—&lt;a href=&#34;http://inessential.com/2019/01/27/the_best_book_ive_ever_read_on_programmi&#34;&gt;Brent Simmons&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -505,7 +553,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Xavi Ayén: La posibilidad de una vida</title>
       <link>https://carlesbellver.net/2019/01/06/xavi-ayn-la.html</link>
       <pubDate>Sun, 06 Jan 2019 09:06:00 +0000</pubDate>
       
@@ -513,7 +561,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
       <description>&lt;blockquote&gt;
 &lt;p&gt;…si Houellebecq se casa, el amor es siempre posible.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Però Ayén tem que la felicitat conjugal pugui haver afectat la qualitat de la seva darrera novel·la. Que la infelicitat sigui l’única font legítima de l’art és un vell tòpic.&lt;/p&gt;
+&lt;p&gt;Però Ayén tem que la felicitat conjugal puga haver afectat la qualitat de la seua darrera novel·la. Que la infelicitat siga l’única font legítima de l’art és un vell tòpic.&lt;/p&gt;
 </description>
     </item>
     
@@ -531,7 +579,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>E-Learning 3.0 MOOC</title>
       <link>https://carlesbellver.net/2018/11/07/173301.html</link>
       <pubDate>Wed, 07 Nov 2018 16:33:00 +0000</pubDate>
       
@@ -549,9 +597,9 @@ que dura l&#39;any sencer.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2018/10/16/the-second-schrdinger.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Als anys cinquanta, quan estava cada vegada menys implicat en la física de la seva època i tendia més i més a tornar al seu interès anterior per la filosofia índia, acabava invariablement les seves conferències amb un comentari sobre la frase &amp;quot;Atman igual a Brahman&amp;quot;, que ell anomenava, amb un mig somriure, &amp;quot;la segona equació de Schrödinger&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Als anys cinquanta, quan estava cada vegada menys implicat en la física de la seua època i tendia més i més a tornar al seu interès anterior per la filosofia índia, acabava invariablement les seues conferències amb un comentari sobre la frase “Atman igual a Brahman”, que ell anomenava, amb un mig somriure, “la segona equació de Schrödinger”.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Michel Bitbol, &lt;a href=&#34;http://www.academia.edu/29024231/SCHR%C3%96DINGER_AND_INDIAN_PHILOSOPHY&#34;&gt;&amp;quot;Schrödinger and Indian Philosophy&amp;quot;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;—Michel Bitbol, &lt;a href=&#34;http://www.academia.edu/29024231/SCHR%C3%96DINGER_AND_INDIAN_PHILOSOPHY&#34;&gt;“Schrödinger and Indian Philosophy”&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -562,7 +610,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2018/09/27/perdre-la-grcia.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Però existeix la temptació irresistible de descobrir el &lt;em&gt;com&lt;/em&gt;, que consisteix a aprendre el secret mitjançant un mètode lineal, pas a pas, o a expressar-lo en paraules. Com és possible que la gent demani que se li expliqui, per exemple, com es balla, en lloc d’observar, simplement, i fer-ho? Per què una instrucció formal per ensenyar una cosa tan natural com nedar? Per què els éssers humans han de llegir llibres per entendre la copulació? Les mitologies de moltes cultures inclouen, en formes variables, el tema de la pèrdua de l’estat de gràcia i la necessitat consegüent de reemplaçar-lo amb la tecnologia.&lt;/p&gt;
+&lt;p&gt;Però existeix la temptació irresistible de descobrir el &lt;em&gt;com&lt;/em&gt;, que consisteix a aprendre el secret mitjançant un mètode lineal, pas a pas, o a expressar-lo en paraules. Com és possible que la gent demani que se li expliqui, per exemple, com es balla, en lloc d’observar, simplement, i fer-ho? Per què una instrucció formal per ensenyar una cosa tan natural com nadar? Per què els éssers humans han de llegir llibres per entendre la copulació? Les mitologies de moltes cultures inclouen, en formes variables, el tema de la pèrdua de l’estat de gràcia i la necessitat consegüent de reemplaçar-lo amb la tecnologia.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Alan Watts, &lt;em&gt;El camí del Tao&lt;/em&gt;.&lt;/p&gt;
 </description>
@@ -588,14 +636,14 @@ que dura l&#39;any sencer.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2018/09/20/071805.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de l&#39;esbalaïment, i quan Lord Carnarvon, incapaç de restar més temps en suspens, va preguntar ansiosament: &amp;quot;Pots veure alguna cosa?&amp;quot;, les úniques paraules que vaig poder pronunciar van ser: &amp;quot;Sí, coses meravelloses&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de l’esbalaïment, i quan Lord Carnarvon, incapaç de restar més temps en suspens, va preguntar ansiosament: “Podeu veure-hi alguna cosa?”, les úniques paraules que vaig poder pronunciar van ser: “Sí, coses meravelloses”.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/09/c8c114f451ef46c587b40e5030a8d859.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>When Audiences Come To See Authors Lecture, It Is Largely in the Hope That We’ll Be Funnier To Look at Than To Read</title>
       <link>https://carlesbellver.net/2018/07/02/when-audiences-come.html</link>
       <pubDate>Mon, 02 Jul 2018 07:34:00 +0000</pubDate>
       
@@ -613,7 +661,7 @@ que dura l&#39;any sencer.&lt;/p&gt;
       <pubDate>Thu, 28 Jun 2018 20:56:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/06/28/215645.html</guid>
-      <description>&lt;p&gt;Deixe ací anotada la bio que tenia al Twitter, perquè m&#39;agradava, tot i que no em pareixia adequada com a bio de Twitter.&lt;/p&gt;
+      <description>&lt;p&gt;Deixe ací anotada la bio que tenia al Twitter, perquè m’agradava, tot i que no em pareixia adequada com a bio de Twitter.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Future is already here (RF), unevenly distributed (WG) and short-lived (CB). Subject matters: technology, creativity and everything else in heaven and earth, H.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -639,7 +687,7 @@ H = Horatius&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Peter Diamandis on Overcoming Murphy’s Law</title>
       <link>https://carlesbellver.net/2018/05/13/peter-diamandis-on.html</link>
       <pubDate>Sun, 13 May 2018 10:00:00 +0000</pubDate>
       
@@ -666,7 +714,7 @@ H = Horatius&lt;/p&gt;
     </item>
     
     <item>
-      <title>Negociar amb cagarros</title>
+      <title>Charlie Munger compares cryptocurrencies to “turds” and “dementia”</title>
       <link>https://carlesbellver.net/2018/05/09/091420.html</link>
       <pubDate>Wed, 09 May 2018 08:14:00 +0000</pubDate>
       
@@ -684,14 +732,14 @@ H = Horatius&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2018/04/30/philip-k-dick.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Sempre em va fer l’efecte, quan era molt petit, que el meu pare era dues persones, una bona i l’altra dolenta. El pare bo marxa i el dolent el reemplaça. Suposo que molts nens tenen aquesta sensació. Què passaria si fos així? Aquesta història és una altra instància d&#39;una sensació normal, de fet errònia, que d’alguna manera es torna encertada… amb l’angúnia afegida que no ho pots comunicar als altres. Afortunadament, hi ha altres nens a qui contar-ho. Els nens ho entenen: són més savis que els adults…, mmm…, he estat a punt de dir “més savis que els humans”.&lt;/p&gt;
+&lt;p&gt;Sempre em va fer l’efecte, quan era molt petit, que el meu pare era dues persones, una bona i l’altra dolenta. El pare bo marxa i el dolent el reemplaça. Suposo que molts nens tenen aquesta sensació. Què passaria si fos així? Aquesta història és una altra instància d’una sensació normal, de fet errònia, que d’alguna manera es torna encertada… amb l’angúnia afegida que no ho pots comunicar als altres. Afortunadament, hi ha altres nens a qui contar-ho. Els nens ho entenen: són més savis que els adults…, mmm…, he estat a punt de dir “més savis que els humans”.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Philip K. Dick sobre el seu conte &lt;em&gt;“The Father-Thing”&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>The New York Times (1974): J. D. Salinger Speaks About His Silence</title>
       <link>https://carlesbellver.net/2018/04/17/the-new-york.html</link>
       <pubDate>Tue, 17 Apr 2018 20:10:00 +0000</pubDate>
       
@@ -709,20 +757,20 @@ H = Horatius&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2018/03/23/tolkien-sobre-els.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Alguns dels qui han llegit el llibre, o, si més no, n&#39;han escrit ressenyes, l&#39;han trobat avorrit, absurd o digne d&#39;ésser ignorat; i no tinc cap raó per doldre-me&#39;n, ja que la meva opinió de llurs obres, o de la mena d&#39;escriptura que evidentment prefereixen, és similar.&lt;/p&gt;
+&lt;p&gt;Alguns dels qui han llegit el llibre, o, si més no, n’han escrit ressenyes, l’han trobat avorrit, absurd o digne d’ésser ignorat; i no tinc cap raó per doldre-me’n, ja que la meva opinió de llurs obres, o de la mena d’escriptura que evidentment prefereixen, és similar.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—J. R. R. Tolkien, proemi de la segona edició d&#39;&lt;em&gt;El Senyor dels Anells&lt;/em&gt; (traducció de Francesc Parcerisas).&lt;/p&gt;
+&lt;p&gt;—J. R. R. Tolkien, proemi de la segona edició d’&lt;em&gt;El Senyor dels Anells&lt;/em&gt; (traducció de Francesc Parcerisas).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>“Digital’s Cleaving Power and Its Consequences”</title>
       <link>https://carlesbellver.net/2018/03/14/ai-is-about.html</link>
       <pubDate>Wed, 14 Mar 2018 18:15:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/03/14/ai-is-about.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Avui dia, molta gent es pensa que la intel·ligència artificial tracta d&#39;acoblar agència artificial i comportament intel·ligent en nous artefactes. Això és un malentès. La veritat és exactament la contrària: la intel·ligència artificial consisteix a dissociar la resolució de problemes amb èxit de qualsevol necessitat de ser intel·ligent. I és només quan es pot aconseguir aquest desacoblament que la intel·ligència artificial reïx.&lt;/p&gt;
+&lt;p&gt;Avui dia, molta gent es pensa que la intel·ligència artificial tracta d’acoblar agència artificial i comportament intel·ligent en nous artefactes. Això és un malentès. La veritat és exactament la contrària: la intel·ligència artificial consisteix a dissociar la resolució de problemes amb èxit de qualsevol necessitat de ser intel·ligent. I és només quan es pot aconseguir aquest desacoblament que la intel·ligència artificial reïx.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Luciano Floridi, &lt;a href=&#34;https://doi.org/10.1007/s13347-017-0259-1&#34;&gt;“Digital’s Cleaving Power and Its Consequences”&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -735,7 +783,7 @@ H = Horatius&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2018/03/09/102322.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;El sedàs de triar l&#39;arròs va estar molts anys al rebost, quan ja ningú no el feia servir perquè l&#39;arròs ja no es comprava al magatzem al costat del mercat de Sant Antoni amb un saquetet de roba de quadres i ja no calia triar-lo.&lt;/p&gt;
+&lt;p&gt;El sedàs de triar l’arròs va estar molts anys al rebost, quan ja ningú no el feia servir perquè l’arròs ja no es comprava al magatzem al costat del mercat de Sant Antoni amb un saquetet de roba de quadres i ja no calia triar-lo.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Maria Folch, &lt;em&gt;Després vénen els anys&lt;/em&gt;&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/wp-content/uploads/2018/03/f1d867e01d2f4d9fb4365a64d9bc37b9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
@@ -749,9 +797,9 @@ H = Horatius&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2018/03/07/salvador-espriu-i.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Els ambients de la vella Nova Anglaterra —sempre els mateixos— i la seva Sinera, reeixidíssims. I allò de tornar, d&#39;una història a una altra, als mateixos temes, i fins i tot als mateixos éssers fabulosos i a la mateixa bibliografia maleïda, fa molt bonic i enllamineix a llegir-lo.&lt;/p&gt;
+&lt;p&gt;Els ambients de la vella Nova Anglaterra —sempre els mateixos— i la seva Sinera, reeixidíssims. I allò de tornar, d’una història a una altra, als mateixos temes, i fins i tot als mateixos éssers fabulosos i a la mateixa bibliografia maleïda, fa molt bonic i enllamineix a llegir-lo.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Salvador Espriu, sobre els contes d&#39;H. P. Lovecraft, en una carta a Joan Perucho el 24 d&#39;octubre del 1961 (citada en Julià Guillamon, &lt;em&gt;Joan Perucho, cendres i diamants&lt;/em&gt;, p. 314).&lt;/p&gt;
+&lt;p&gt;—Salvador Espriu, sobre els contes d’H. P. Lovecraft, en una carta a Joan Perucho el 24 d’octubre del 1961 (citada en Julià Guillamon, &lt;em&gt;Joan Perucho, cendres i diamants&lt;/em&gt;, p. 314).&lt;/p&gt;
 </description>
     </item>
     
@@ -765,7 +813,7 @@ H = Horatius&lt;/p&gt;
 &lt;p&gt;[89] Com més adaptació menys adaptabilitat.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;— Jorge Wagensberg, &lt;em&gt;Si la natura és la resposta, ¿quina era la pregunta?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Heus ací, en cinc paraules, el nucli de la &lt;a href=&#34;http://opencontent.org/docs/paradox.html&#34;&gt;paradoxa de Wiley&lt;/a&gt; sobre la reusabilitat dels objectes d’aprenentatge. I, a més a més, perfectament generalitzat. De fet, no pareix que Wagensberg estigués pensant en objectes, sinó en subjectes:&lt;/p&gt;
+&lt;p&gt;Heus ací, en cinc paraules, el nucli de la &lt;a href=&#34;http://opencontent.org/docs/paradox.html&#34;&gt;paradoxa de Wiley&lt;/a&gt; sobre la reusabilitat dels objectes d’aprenentatge. I, a més a més, perfectament generalitzat. De fet, no pareix que Wagensberg estiguera pensant en objectes, sinó en subjectes:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[90] Un especialista només té futur en entorns de baixa incertesa.&lt;br&gt;
 […]&lt;br&gt;
@@ -775,12 +823,12 @@ H = Horatius&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Si la natura és la resposta, ¿quina era la pregunta?</title>
       <link>https://carlesbellver.net/2018/02/13/182523.html</link>
       <pubDate>Tue, 13 Feb 2018 17:25:23 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/02/13/182523.html</guid>
-      <description>&lt;p&gt;📖 Llegit: Jorge Wagensberg, &lt;em&gt;Si la natura és la resposta, ¿quina era la pregunta?&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Llegit: Jorge Wagensberg, &lt;em&gt;Si la natura és la resposta, ¿quina era la pregunta?&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Malfio de la idea que no té cabuda en una frase […] Quan una idea no hi cap, en una frase, és que li falta essència i (o) li sobra matís.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -800,7 +848,7 @@ H = Horatius&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Un cel nou i una terra nova, Carles Bellver Torlà (Unaria, 2015)</title>
       <link>https://carlesbellver.net/2018/01/20/114150.html</link>
       <pubDate>Sat, 20 Jan 2018 10:41:00 +0000</pubDate>
       
@@ -813,13 +861,13 @@ H = Horatius&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Everywhere I Go I’m Asked If I Think Universities Stifle Writers. I Think They Don’t Stifle Enough of Them</title>
       <link>https://carlesbellver.net/2018/01/19/everywhere-i-go.html</link>
       <pubDate>Fri, 19 Jan 2018 09:28:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/01/19/everywhere-i-go.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;A tot arreu on vaig, em pregunten si penso que les universitats asfixien els escriptors. Crec que no n&#39;asfixien prou.&lt;/p&gt;
+&lt;p&gt;A tot arreu on vaig, em pregunten si penso que les universitats asfixien els escriptors. Crec que no n’asfixien prou.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Flannery O’Connor, 1960 (font: &lt;a href=&#34;https://quoteinvestigator.com/2018/01/18/stifle/&#34;&gt;Quote Investigator&lt;/a&gt;).&lt;/p&gt;
 </description>
@@ -839,7 +887,7 @@ H = Horatius&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>“No estoy de acuerdo con todo lo que he escrito en mi vida”</title>
       <link>https://carlesbellver.net/2017/12/17/104010.html</link>
       <pubDate>Sun, 17 Dec 2017 09:40:00 +0000</pubDate>
       
@@ -852,20 +900,20 @@ H = Horatius&lt;/p&gt;
     </item>
     
     <item>
-      
+      <title>Wired</title>
       <link>https://carlesbellver.net/2017/12/07/095100.html</link>
       <pubDate>Thu, 07 Dec 2017 08:51:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2017/12/07/095100.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Oh, cadena de blocs, aquest “registre global” descentralitzat que proveeix el marc de treball de criptomonedes com el bitcoin (i també, aparentment, milers de vídeos explicatius, i una quantitat semblant de plans de negoci d&#39;empreses emergents).&lt;/p&gt;
+&lt;p&gt;Oh, cadena de blocs, aquest “registre global” descentralitzat que proveeix el marc de treball de criptomonedes com el bitcoin (i també, aparentment, milers de vídeos explicatius, i una quantitat semblant de plans de negoci d’empreses emergents).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;📎 &lt;a href=&#34;http://www.wired.com/story/everipedia-blockchain/&#34;&gt;Wired&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>Hallan en Burgos un mensaje del siglo XVIII oculto en las nalgas de una talla de un Cristo</title>
       <link>https://carlesbellver.net/2017/11/29/hallan-en-burgos.html</link>
       <pubDate>Wed, 29 Nov 2017 08:52:00 +0000</pubDate>
       
@@ -882,7 +930,7 @@ H = Horatius&lt;/p&gt;
       <pubDate>Sun, 26 Nov 2017 09:46:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2017/11/26/104630.html</guid>
-      <description>&lt;p&gt;Ahir vaig &lt;a href=&#34;https://carlesbellver.net/2017/11/25/175911.html&#34;&gt;parafrasejar els evangelis&lt;/a&gt; (Mateu 7,1-6; Lluc 6,37-42). Aquesta nit, el meu bot m&#39;ha citat Lawrence Durrell per denunciar el predicador que diu que jo porte dins.&lt;/p&gt;
+      <description>&lt;p&gt;Ahir vaig &lt;a href=&#34;https://carlesbellver.net/2017/11/25/175911.html&#34;&gt;parafrasejar els evangelis&lt;/a&gt; (Mateu 7,1-6; Lluc 6,37-42). I aquesta nit, el meu bot m’ha citat Lawrence Durrell per denunciar el predicador que diu que jo porte dins.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dintre teu, en algun lloc, hi ha un desagradable predicador anglicà.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -914,17 +962,17 @@ estás del lado de la sombra.&lt;/p&gt;
 &lt;p&gt;…Darwin debió proponer que el hombre descendería algún día del mono, y no que ya había descendido; pero como buen hombre de ciencia se hacía ilusiones.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Augusto Monterroso, entrevista en &lt;em&gt;Viaje al centro de la fábula&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File%3AThe_evolution_of_man-_a_popular_exposition_of_the_principal_points_of_human_ontogeny_and_phylogene_(1896)_(14595000699).jpg&#34; title=&#34;By Internet Archive Book Images [No restrictions], via Wikimedia Commons&#34;&gt;&lt;img src=&#34;https://carlesbellver.net/uploads/2019/0146ed2874.jpg&#34; alt=&#34;The evolution of man- a popular exposition of the principal points of human ontogeny and phylogene (1896) (14595000699)&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File%3AThe_evolution_of_man-_a_popular_exposition_of_the_principal_points_of_human_ontogeny_and_phylogene_(1896)_(14595000699).jpg&#34; title=&#34;By Internet Archive Book Images [No restrictions], via Wikimedia Commons&#34;&gt;&lt;img src=&#34;https://carlesbellver.net/uploads/2019/0146ed2874_c.jpg&#34; alt=&#34;The evolution of man- a popular exposition of the principal points of human ontogeny and phylogene (1896) (14595000699)&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>You’re Not the Customer; You’re the Product</title>
       <link>https://carlesbellver.net/2017/07/23/youre-not-the.html</link>
       <pubDate>Sun, 23 Jul 2017 16:50:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2017/07/23/youre-not-the.html</guid>
-      <description>&lt;p&gt;La història completa d&#39;aquesta citació, que tant es repeteix i que originalment no es referia a Internet, sinó a la televisió. Richard Serra, 1973:&lt;/p&gt;
+      <description>&lt;p&gt;La història completa d’aquesta citació, que tant es repeteix i que originalment no es referia a Internet, sinó a la televisió. Richard Serra, 1973:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[…] En la difusió comercial, l’espectador paga pel privilegi de ser venut. És el consumidor qui és consumit. Tu ets el producte de la televisió. Ets lliurat a l’anunciant que és el client […]&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -939,7 +987,7 @@ estás del lado de la sombra.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2017/03/08/anna-betty-i.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Les càpsules espacials no eren el sistema més elegant de transport dissenyat per l’home, però resultaven del tot imprescindibles en les tasques de construcció i manteniment en el buit. Normalment les batejaven amb noms de dona, potser perquè les seves personalitats de vegades eren lleugerament impredictibles. El trio de la Discovery eren Anna, Betty i Clara.&lt;/p&gt;
+&lt;p&gt;Les càpsules espacials no eren el sistema més elegant de transport dissenyat per l’home, però resultaven del tot imprescindibles en les tasques de construcció i manteniment en el buit. Normalment les batejaven amb noms de dona, potser perquè les seues personalitats de vegades eren lleugerament impredictibles. El trio de la Discovery eren Anna, Betty i Clara.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Arthur C. Clarke,  &lt;em&gt;2001, una odissea de l’espai&lt;/em&gt; (1968).&lt;/p&gt;
 &lt;p&gt;Açò també ho va encertar Clarke: l’any 2001, i el 2017, continuem sent molt masclistes.&lt;/p&gt;
@@ -967,7 +1015,7 @@ I tots dos, certament, tenen raó, i no en tenen. Els antics són, tanmateix, m�
       <pubDate>Sun, 15 Jan 2017 23:00:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2017/01/15/a-common-case.html</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;Lewis Hine [Public domain]&#34; href=&#34;https://commons.wikimedia.org/wiki/File:A_common_case_of_%22team_work.%22_Smaller_boy,_Joseph_Bishop,_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg&#34;&gt;&lt;img width=&#34;512&#34; alt=&#34;A common case of team work. Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out... - NARA - 523168&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/A_common_case_of_%22team_work.%22_Smaller_boy%2C_Joseph_Bishop%2C_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg/512px-A_common_case_of_%22team_work.%22_Smaller_boy%2C_Joseph_Bishop%2C_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a title=&#34;Lewis Hine [Public domain]&#34; href=&#34;https://commons.wikimedia.org/wiki/File:A_common_case_of_%22team_work.%22_Smaller_boy,_Joseph_Bishop,_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg&#34;&gt;&lt;img style=&#34;width:100%&#34; alt=&#34;A common case of team work. Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out... - NARA - 523168&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/A_common_case_of_%22team_work.%22_Smaller_boy%2C_Joseph_Bishop%2C_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg/512px-A_common_case_of_%22team_work.%22_Smaller_boy%2C_Joseph_Bishop%2C_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A common case of “team work.” Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out and his brother gives him more. Joseph said, “Drunks are me best customers. I sell more’s me bruder does. Dey buy me out so I kin go home.” He sells every afternoon and night. Extra late Saturday night and is at it again at 6 A.M Sunday. Hartford, Conn. 4 March 1909.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -983,7 +1031,7 @@ I tots dos, certament, tenen raó, i no en tenen. Els antics són, tanmateix, m�
       <guid>https://carlesbellver.net/2017/01/06/john-berger-lesperana.html</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;D’aquest món present que coneixen tan bé, no n’esperaven res millor.&lt;/p&gt;
-&lt;p&gt;Saben que no hi ha hagut mai cap hivern sense neu a Anatòlia, cap estiu sense animals morts per la sequera, cap moviment obrer sense repressió. Les utopies només existeixen a les catifes. Però saben també que allò a què han estat sotmesos en la seva vida és intolerable. I anomenar l’intolerable és en si mateix l’esperança.&lt;/p&gt;
+&lt;p&gt;Saben que no hi ha hagut mai cap hivern sense neu a Anatòlia, cap estiu sense animals morts per la sequera, cap moviment obrer sense repressió. Les utopies només existeixen a les catifes. Però saben també que allò a què han estat sotmesos en la seua vida és intolerable. I anomenar l’intolerable és en si mateix l’esperança.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—John Berger, &lt;em&gt;And Our Faces, My Heart, Brief as Photos&lt;/em&gt;.&lt;/p&gt;
 </description>
@@ -1012,7 +1060,7 @@ I tots dos, certament, tenen raó, i no en tenen. Els antics són, tanmateix, m�
 &lt;blockquote&gt;
 &lt;p&gt;El poder tendeix a corrompre, i el poder absolut corromp absolutament. Els grans &lt;em&gt;homes&lt;/em&gt; són quasi sempre &lt;em&gt;homes&lt;/em&gt; malvats.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;La cursiva és meva: després veurem per què. La primera d’aquestes dues frases, que van seguides, és una citació cèlebre. Segurament la continuació, la segona frase, no és tan coneguda. Potser l’autor tampoc, almenys entre nosaltres: &lt;a href=&#34;https://en.wikipedia.org/wiki/John_Dalberg-Acton,_1st_Baron_Acton&#34;&gt;John Dalberg-Acton&lt;/a&gt;, un lord anglès catòlic, escriptor, historiador i polític. Encara es deu saber menys a qui es referia: al Papa Pius IX, pel fet d’haver proclamat com a dogma, en el Concili Vaticà I (1870), la seva pròpia infabil·litat. Lord Acton, podríem dir, se’n feia creus, d’una presumpció tan desmesurada.&lt;/p&gt;
+&lt;p&gt;La cursiva és meua; després veurem per què l’he posada. La primera d’aquestes dues frases, que van seguides, és una citació cèlebre. Segurament la continuació, la segona frase, no és tan coneguda. Potser l’autor tampoc, almenys entre nosaltres: &lt;a href=&#34;https://en.wikipedia.org/wiki/John_Dalberg-Acton,_1st_Baron_Acton&#34;&gt;John Dalberg-Acton&lt;/a&gt;, un lord anglès catòlic (subratllem que era catòlic), escriptor, historiador i polític. Encara es deu saber menys a qui es referia: al Papa Pius IX, pel fet d’haver proclamat com a dogma, en el Concili Vaticà I (1870), la seua pròpia infabil·litat. Lord Acton, podríem dir, se’n feia creus, d’una presumpció tan desmesurada.&lt;/p&gt;
 &lt;p&gt;El cas és que ara llegisc, seguint un enllaç de la Wikipedia, que s’ha publicat un estudi de laboratori que relaciona la corrupció amb els nivells de poder… i de testosterona, l’hormona secretada pels testicles: &lt;a href=&#34;http://dx.doi.org/10.1016/j.leaqua.2014.07.010&#34;&gt;Leader corruption depends on power and testosterone&lt;/a&gt;. Supose que Lord Acton va escriure &lt;em&gt;“men”&lt;/em&gt; (“homes”) com a genèric (i això que en anglès no hi ha gènere). Però pareix que sí que la va encertar, sí.&lt;/p&gt;
 </description>
     </item>
@@ -1064,7 +1112,7 @@ I tots dos, certament, tenen raó, i no en tenen. Els antics són, tanmateix, m�
       
       <guid>https://carlesbellver.net/2016/01/24/matria-de-bretanya.html</guid>
       <description>&lt;img src=&#34;https://www.escriptors.cat/sites/default/files/styles/medium/public/2019-02/5219materiabretanya.g.jpg?itok=lusHxDQO&#34; style=&#34;height: 250px; width: auto;&#34; /&gt;
-&lt;p&gt;📖 Vaig llegir &lt;em&gt;Matèria de Bretanya&lt;/em&gt;, de &lt;a href=&#34;http://www.escriptors.cat/autors/cutillass/pagina.php?id_sec=2781&#34;&gt;Carmelina Sánchez-Cutillas&lt;/a&gt;, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Vaig llegir &lt;em&gt;Matèria de Bretanya&lt;/em&gt;, de &lt;a href=&#34;http://www.escriptors.cat/autors/cutillass/pagina.php?id_sec=2781&#34;&gt;Carmelina Sánchez-Cutillas&lt;/a&gt;, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors.&lt;/p&gt;
 &lt;p&gt;Un llibre fascinant, d’una fama més que justa, premi Octubre-Andròmina de narrativa de 1975 i reeditat moltes vegades. Però no és del llibre que volia escriure ací quatre ratlles. Tampoc no vull desvelar la raó del títol: la referència a la cèlebre &lt;a href=&#34;https://fr.wikipedia.org/wiki/Mati%C3%A8re_de_Bretagne&#34;&gt;matèria de Bretanya&lt;/a&gt; o cicle artúric. Simplement em proposava deixar una nota sobre l’origen d’aquesta denominació, encunyada pel poeta francès &lt;a href=&#34;https://fr.wikipedia.org/wiki/Jean_Bodel&#34;&gt;Jean Bodel&lt;/a&gt;, cap a l’any 1200, al pròleg de la &lt;em&gt;Chanson des Saisnes&lt;/em&gt; (“Cançó dels saxons”), poema èpic sobre la guerra de Carlemany amb els saxons:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Ne sont que .iij. matieres à nul home antandant:&lt;br&gt;
@@ -1083,7 +1131,7 @@ Les contes de Bretagne sont tellement irréels et séduisants!&lt;br&gt;
 Tandis que ceux de Rome sont savants et chargés de signification&lt;br&gt;
 et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;No hi ha més que tres temes, doncs: els de França, els de Bretanya i els de Roma la gran. El realisme modern, el conte fantàstic i el cànon clàssic, podríem dir-ne, en una interpretació actualitzada i personalment esbiaixada. Cadascú pren les seves opcions, segons les seves possibilitats i d’acord amb les seves necessitats. No caldrà dir quina mena de narracions, irreals i seductores, em van captivar a mi quan era jovenet, i em van acostar per l’atzar d’un títol al text de Carmelina. El qual, confesse, he sabut entendre —i apreciar— molt millor ara, passats alguns decennis.&lt;/p&gt;
+&lt;p&gt;No hi ha més que tres temes, doncs: els de França, els de Bretanya i els de Roma la gran. El realisme modern, el conte fantàstic i el cànon clàssic, podríem dir-ne, en una interpretació actualitzada i personalment esbiaixada. Cadascú pren les seues opcions, segons les seues possibilitats i d’acord amb les seues necessitats. No caldrà dir quina mena de narracions, irreals i seductores, em van captivar a mi quan era jovenet, i em van acostar per l’atzar d’un títol al text de Carmelina. El qual, confesse, he sabut entendre —i apreciar— molt millor ara, passats alguns decennis.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/uploads/2019/c9f022d810.jpg&#34; /&gt;
 </description>
     </item>
@@ -1095,7 +1143,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       
       <guid>https://carlesbellver.net/2015/11/24/vigila-quines-histries.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;De manera que si hi havia un tema dominant en “True Detective”, diria que era que, com a éssers humans, no som res més que les històries amb què ens guiem per a viure i per a morir. Per tant, és millor que vigilis quines històries et contes a tu mateix.&lt;/p&gt;
+&lt;p&gt;De manera que si hi havia un tema dominant en &lt;em&gt;True Detective&lt;/em&gt;, diria que era que, com a éssers humans, no som res més que les històries amb què ens guiem per a viure i per a morir. Per tant, és millor que vigiles quines històries et contes a tu mateix.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;— &lt;a href=&#34;http://www.hitfix.com/whats-alan-watching/true-detective-creator-nic-pizzolatto-looks-back-on-season-1&#34;&gt;Nic Pizzolatto&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1163,7 +1211,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       <description>&lt;blockquote&gt;
 &lt;p&gt;…una metáfora que empleó Ellacuría, por última vez, ocho días antes de ser asesinado en San Salvador: “Si el mundo quiere ver como está su salud que se haga un coproanálisis”.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—&lt;a href=&#34;http://elpais.com/diario/2004/02/07/cvalenciana/1076185078_850215.html&#34;&gt;Jon Sobrino pide una mundialización que venga de los pobres de la tierra&lt;/a&gt; (El País, 7/2/2004).&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/link.svg&#34; /&gt; &lt;a href=&#34;http://elpais.com/diario/2004/02/07/cvalenciana/1076185078_850215.html&#34;&gt;Jon Sobrino pide una mundialización que venga de los pobres de la tierra&lt;/a&gt; (El País, 7/2/2004).&lt;/p&gt;
 </description>
     </item>
     
@@ -1290,9 +1338,9 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
 &lt;p&gt;Però per ventura no és la vida un conte de fades el sentit del qual se’ns va escapant a mesura que ens fem grans?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Lawrence Durrell, &lt;em&gt;Clea&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;📖 Cada &lt;em&gt;obra mestra&lt;/em&gt; que llegeixo fa que descregui més en la novel·la. Quin malbaratament de pàgines, a centenars, per a contar tan poc…&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Cada &lt;em&gt;obra mestra&lt;/em&gt; que llegeixo fa que descregui més en la novel·la. Quin malbaratament de pàgines, a centenars, per a contar tan poc…&lt;/p&gt;
 &lt;p&gt;I tanmateix, segurament no havia subratllat mai tants passatges d’un llibre com ara al llarg d’aquest &lt;em&gt;Quartet d’Alexandria&lt;/em&gt;. Gairebé sempre, però, eren frases que més aviat pareixien, algunes, aforismes, d’altres versos solts. Metàfores brillants, imatges que deixen empremta. Quin malbaratament de pàgines, doncs…&lt;/p&gt;
-&lt;p&gt;Molt més interessant que el desenvolupament banal de la història, vaig trobar que n&#39;era el plantejament que se’n feia l’autor, en els —breus— pròlegs, o en l’&lt;a href=&#34;http://www.theparisreview.org/interviews/4720/the-art-of-fiction-no-23-lawrence-durrell&#34;&gt;entrevista&lt;/a&gt; de &lt;em&gt;The Paris Review&lt;/em&gt;: el projecte de narració polièdrica, la inspiració hinduista o relativista.&lt;/p&gt;
+&lt;p&gt;Molt més interessant que el desenvolupament banal de la història, vaig trobar que n’era el plantejament que se’n feia l’autor, en els —breus— pròlegs, o en l’&lt;a href=&#34;http://www.theparisreview.org/interviews/4720/the-art-of-fiction-no-23-lawrence-durrell&#34;&gt;entrevista&lt;/a&gt; de &lt;em&gt;The Paris Review&lt;/em&gt;: el projecte de narració polièdrica, la inspiració hinduista o relativista.&lt;/p&gt;
 &lt;p&gt;No descarte, evidentment, que es tracti d’una mancança meva, una incapacitat per a entendre el &lt;em&gt;format&lt;/em&gt;: la novel·la com a tal. No seria tan estrany. També hi ha persones que no entenen l’òpera, la dansa, o la pintura moderna, per posar tres exemples fàcils. Tot i que, de fet, hagi gaudit moltes altres novel·les, breus i no tan breus. Potser ha estat només el &lt;em&gt;tema&lt;/em&gt; que m’és problemàtic, aquest arcà de l’“amor modern” —en paraules de l’autor—, del qual no dec conèixer prou.&lt;/p&gt;
 </description>
     </item>
@@ -1317,10 +1365,10 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       
       <guid>https://carlesbellver.net/2014/03/13/dos-de-tres.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Crec que es pot prestar tota l&#39;atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.&lt;/p&gt;
+&lt;p&gt;Crec que es pot prestar tota l’atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—&lt;a href=&#34;http://www.threemonkeysonline.com/als/_lydia_davis_samuel_johnson_is_indignant.html&#34;&gt;Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n’hi ha. Els seus dies pareix que tinguin vint-i-cinc o vint-i-sis hores, o més. Els meus, en canvi, amb prou feines en tenen vint-i-quatre. Això, o gaudeixen d’una secreta màquina del temps: un dispositiu, no per a viatjar-hi, sinó que en fabrica… O el falsifica? Es pot encunyar temps fals?&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/link.svg&#34; /&gt; &lt;a href=&#34;http://www.threemonkeysonline.com/als/_lydia_davis_samuel_johnson_is_indignant.html&#34;&gt;Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hi ha gent, i això per a mi és un misteri, que trauen temps d’on creuries que no n’hi ha. Els seus dies pareix que tinguen vint-i-cinc o vint-i-sis hores, o més. Els meus, en canvi, amb prou feines arriben a vint-i-quatre. O potser gaudeixen d’una secreta màquina del temps: un dispositiu, no per a viatjar-hi, sinó que en fabrica… O el falsifica? Es pot encunyar temps fals?&lt;/p&gt;
 </description>
     </item>
     
@@ -1334,24 +1382,24 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
 &lt;p&gt;Yo también envejezco, mamita, mis ojos se cansan mucho (los usé demasiado en esta vida) […]&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Julio Cortázar (&lt;a href=&#34;http://cultura.elpais.com/cultura/2014/02/11/actualidad/1392141836_920724.html&#34;&gt;Autorretrato de Cortázar a lo “Rayuela”, en el 30 aniversario de su muerte&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;Descobrir ahir, el dia que feia trenta anys que va morir Julio Cortázar, qui tant va significar per a mi, que ell ja va utilitzar gairebé la mateixa metàfora o acudit que encapçala aquest blog i que clou &lt;a href=&#34;http://carlesbellver.net/llibres/lanitmildos&#34;&gt;La nit mil dos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Descobrir ahir, el dia que feia trenta anys que va morir Julio Cortázar, qui tant va significar per a mi, que ell ja va utilitzar gairebé la mateixa metàfora o acudit que encapçala aquest blog i que clou &lt;a href=&#34;http://carlesbellver.net/llibres/lanitmildos&#34;&gt;&lt;em&gt;La nit mil dos&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>La prosa només és bona en la mesura que s&#39;apropa a la poesia</title>
+      <title>La prosa només és bona en la mesura que s’apropa a la poesia</title>
       <link>https://carlesbellver.net/2014/02/13/la-prosa-noms.html</link>
       <pubDate>Thu, 13 Feb 2014 23:00:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2014/02/13/la-prosa-noms.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;La prosa només és bona en tant que s&#39;apropa a la condició de la poesia: aquella condició en què no es pot canviar un ritme, ni una partícula de so, sense molestar tota la pàgina.&lt;/p&gt;
+&lt;p&gt;La prosa només és bona en tant que s’apropa a la condició de la poesia: aquella condició en què no es pot canviar un ritme, ni una partícula de so, sense molestar tota la pàgina.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Francine du Plessix Gray, &lt;a href=&#34;http://www.theparisreview.org/interviews/2642/the-art-of-fiction-no-96-francine-du-plessix-gray&#34;&gt;Paris Review - The Art of Fiction No. 96&lt;/a&gt; (Summer 1987, No. 103).&lt;/p&gt;
-&lt;p&gt;Divendres de la setmana passada, en la presentació de &lt;a href=&#34;http://carlesbellver.net/llibres/lanitmildos&#34;&gt;La nit mil dos&lt;/a&gt; a Castelló, pensava justament en aquestes paraules quan vaig dir que “algú ha dit que la prosa només és bona en la mesura en què s’apropa a la poesia, i jo no puc estar-hi més d’acord”.&lt;/p&gt;
+&lt;p&gt;—Francine du Plessix Gray, &lt;a href=&#34;http://www.theparisreview.org/interviews/2642/the-art-of-fiction-no-96-francine-du-plessix-gray&#34;&gt;Paris Review - The Art of Fiction No. 96&lt;/a&gt;, Summer 1987, No. 103.&lt;/p&gt;
+&lt;p&gt;Divendres de la setmana passada, en la presentació de &lt;a href=&#34;http://carlesbellver.net/llibres/lanitmildos&#34;&gt;&lt;em&gt;La nit mil dos&lt;/em&gt;&lt;/a&gt; a Castelló, pensava justament en aquestes paraules quan vaig dir que “algú ha dit que la prosa només és bona en la mesura en què s’apropa a la poesia, i jo no puc estar-hi més d’acord”.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Francine_du_Plessix_Gray&#34;&gt;Francine du Plessix Gray&lt;/a&gt; és una escriptora nordamericana: prosista, no poeta. Va nàixer a Varsòvia, filla del diplomàtic i oficial d’aviació francès &lt;a href=&#34;http://www.ordredelaliberation.fr/fr_compagnon/310.html&#34;&gt;Bertrand Jochaud du Plessix&lt;/a&gt; (abatut l’any 1940 per l’exèrcit franquista, amb tres companys més, prop de Gibraltar) i de Tatiana Iacovleff, russa, que havia tingut abans una breu relació amorosa amb &lt;a href=&#34;http://ca.wikipedia.org/wiki/Vlad%C3%ADmir_Maiakovski&#34;&gt;Vladímir Maiakovski&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Quan era una noia durant la Revolució Russa, [la meva mare] va ajudar a mantenir viva la seva família recitant poesia als soldats soviètics a canvi de trossos de pa. Fins avui, a finals dels anys setanta, té una memòria fenomenal per al vers, i pot recitar de cor centenars de línies de Pushkin, Lermontov i Akhmatova. El seu amor per la poesia ha acolorit la meva vida i potser m’ha convertit en escriptora.&lt;/p&gt;
+&lt;p&gt;Quan era una noia durant la Revolució Russa, [ma mare] va ajudar a mantenir viva la seua família recitant poesia als soldats soviètics a canvi de trossos de pa. Fins avui, a finals dels anys setanta, té una memòria fenomenal per al vers, i pot recitar de cor centenars de línies de Pushkin, Lermontov i Akhmatova. El seu amor per la poesia ha acolorit la meua vida i potser m’ha convertit en escriptora.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1368,7 +1416,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
 &lt;p&gt;S’escriuen massa llibres, es fan massa fotografies. &lt;a href=&#34;http://en.wikipedia.org/wiki/Joan_Fontcuberta&#34;&gt;Joan Fontcuberta&lt;/a&gt;, un artista notable, si no excel·lent (pregunteu a &lt;a href=&#34;http://blogs.elcorreo.com/magonia/2006/06/13/el-cosmonauta-fantasma/&#34;&gt;Iker Jiménez&lt;/a&gt;), a l’UJI: &lt;a href=&#34;http://ujiapps.uji.es/com/voxuji/19/altres/fontcuberta/&#34;&gt;«Dediquem tant de temps a fer fotos que no les contemplem»&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Jo m’estimo més pensar-ho així: una altra màgia a l’abast de tothom. Vaig més amb &lt;a href=&#34;http://ca.wikipedia.org/wiki/Comte_de_Lautr%C3%A9amont&#34;&gt;Isidore Ducasse&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;La poésie doit être faite par tous. Non par un.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;La poésie doit être faite par tous. Non par un.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1387,15 +1435,15 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
     </item>
     
     <item>
-      <title>Future wasn&#39;t created by the Bill Gates of the world</title>
+      <title>Future wasn’t created by the Bill Gates of the world</title>
       <link>https://carlesbellver.net/2014/02/03/future-wasnt-created.html</link>
       <pubDate>Mon, 03 Feb 2014 23:00:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2014/02/03/future-wasnt-created.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;La Internet, el Web, els continguts oberts i l&#39;accés obert, els entorns virtuals d&#39;ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seegers. No ho oblideu mai.&lt;/p&gt;
+&lt;p&gt;La Internet, el Web, els continguts oberts i l’accés obert, els entorns virtuals d’ensenyament/aprenentatge, la pedagogia i els MOOC: tot es va crear dins del sistema públic, ho van crear persones que treballaven per al bé públic, no capitalistes solitaris amb una idea. Aquest futur no el van crear els Bill Gates del món. El van crear els Pete Seegers. No ho oblideu mai.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—&lt;a href=&#34;http://www.downes.ca/post/61708&#34;&gt;Stephen Downes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;—&lt;a href=&#34;http://www.downes.ca/post/61708&#34;&gt;Stephen Downes&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1421,9 +1469,9 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       
       <guid>https://carlesbellver.net/2014/01/09/michel-de-montaigne.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Aquesta idea —escriure sobre un/a mateix/a per crear un mirall en què altres persones reconeguen la seva pròpia humanitat— no ha existit sempre. S’havia d’inventar. I, a diferència de moltes invencions culturals, es pot rastrejar fins a una sola persona: Michel Eyquem de Montaigne […]&lt;/p&gt;
+&lt;p&gt;Aquesta idea —escriure sobre un/a mateix/a per crear un mirall en què altres persones reconeguen la seua pròpia humanitat— no ha existit sempre. S’havia d’inventar. I, a diferència de moltes invencions culturals, es pot rastrejar fins a una sola persona: Michel Eyquem de Montaigne […]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Sarah Bakewell (font: 📎 &lt;a href=&#34;http://www.brainpickings.org/index.php/2014/01/07/how-to-live-montaigne/&#34;&gt;Brain Pickings&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;—Sarah Bakewell (font: &lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/link.svg&#34; /&gt; &lt;a href=&#34;http://www.brainpickings.org/index.php/2014/01/07/how-to-live-montaigne/&#34;&gt;Brain Pickings&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
@@ -1437,7 +1485,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
 &lt;p&gt;At the beginning of blogging I thought everyone would be a blogger. I was wrong. Most people don’t have the impulse to say what they think.&lt;/p&gt;
 &lt;p&gt;So when you meet one, you’ll know it: if they write letters to the editor, or if they volunteered to go to the blackboard when they were students. In my day, we were the kinds of people who started underground newspapers, or who volunteered for the student radio station at college.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Dave Winer, &lt;a href=&#34;http://scripting.com/about.html&#34;&gt;About Scripting News&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;—Dave Winer&lt;/p&gt;
 </description>
     </item>
     
@@ -1474,7 +1522,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       
       <guid>https://carlesbellver.net/2013/11/19/el-paio-pirat.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Fas servir el Word per exemple i acabes entrant entrant en l’esfera mental d’un paio que deu estar pirat i tan ficat en els programes que no sap què volem els de fora.&lt;/p&gt;
+&lt;p&gt;Fas servir el Word per exemple i acabes entrant en l’esfera mental d’un paio que deu estar pirat i tan ficat en els programes que no sap què volem els de fora.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Enric Casasses: &lt;a href=&#34;http://www.vilaweb.cat/noticia/4156951/20131119/enric-casasses-facebook-fitxer-policiac-obert.html&#34;&gt;“Facebook és un fitxer policíac obert!”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;(Recordatori: hi ha vida i escriptura informàtica &lt;a href=&#34;http://www.slideshare.net/carlesbellver/afterword&#34;&gt;més enllà del Word&lt;/a&gt;.)&lt;/p&gt;
@@ -1488,14 +1536,14 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       
       <guid>https://carlesbellver.net/2013/11/13/the-lego-world.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Les seves històries són confabulacions dels seus somnis, de la seva vida fantàstica i de la seva vida real, entrellaçades amb una immensa profunditat i estranyesa i humor negre. Aquesta qualitat, la idea que puguis reordenar el món com un nen reordena els blocs de construcció de marca Lego, es va estendre des de la seva escriptura cap a la seva vida quotidiana.&lt;/p&gt;
+&lt;p&gt;Les seues històries són confabulacions dels seus somnis, de la seua vida fantàstica i de la seua vida real, entrellaçades amb una immensa profunditat i estranyesa i humor negre. Aquesta qualitat, la idea que pots reordenar el món com un xiquet reordena els blocs de construcció de marca Lego, es va estendre des de la seua escriptura cap a la seua vida quotidiana.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Joseph L. Flatley sobre &lt;a href=&#34;http://en.wikipedia.org/wiki/William_S._Burroughs&#34;&gt;William S. Burroughs&lt;/a&gt; (en &lt;a href=&#34;http://www.theverge.com/2013/11/12/4849860/the-cult-of-cthulhu-real-prayer-for-a-fake-tentacle&#34;&gt;The cult of Cthulhu: real prayer for a fake tentacle&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      
+      <title>“Que s’acabi aquesta comèdia de desdoblar en masculí i femení”</title>
       <link>https://carlesbellver.net/2013/10/31/que-sacabi-aquesta.html</link>
       <pubDate>Thu, 31 Oct 2013 23:00:00 +0000</pubDate>
       
@@ -1505,8 +1553,8 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
 &lt;/blockquote&gt;
 &lt;p&gt;—Carme Junyent: &lt;a href=&#34;http://www.vilaweb.cat/noticia/4153027/20131031/carme-junyent-sacabi-comedia-desdoblar-masculi-femeni.html&#34;&gt;“Que s’acabi aquesta comèdia de desdoblar en masculí i femení”&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I jo em dic que la societat no és unitària, no pot ser-ho mai. Que parts de la societat ja van canviant, ja anem canviant. I potser és per això que, amb tota la nostra ignorància i ingenuïtat d’afeccionats a parlar, també volem fer canviar parts del llenguatge. Potser és que aquest canvi de la llengua ja hi és, ja es va fent present, i agrada a alguna gent i a una altra no.&lt;/p&gt;
-&lt;p&gt;Perquè, ens ho ha dir Carme Junyent, o qualsevol altra filòloga —o filòleg—, en quin moment haurà canviat prou la societat perquè sigui justificat canviar el llenguatge? I, en arribar aqueix moment just, la transformació de la gramàtica, “si és que n’hi d’haver cap”, s’esdevindrà metafísicament, o l’haurem feta les persones?&lt;/p&gt;
-&lt;p&gt;Són dubtes que em plantejo en seguir tota aquesta discussió, tan vella com &lt;a href=&#34;https://carlesbellver.net/2009/04/14/estalinistes.html&#34;&gt;Stalin&lt;/a&gt; i molt més, &lt;a href=&#34;https://carlesbellver.net/2016/09/24/sexe-i-gnere.html&#34;&gt;molt més&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Perquè, ens ho ha dir Carme Junyent, o qualsevol altra filòloga —o filòleg—, en quin moment haurà canviat prou la societat perquè siga justificat canviar el llenguatge? I, en arribar aqueix moment just, la transformació de la gramàtica, “si és que n’hi d’haver cap”, s’esdevindrà metafísicament, o l’haurem feta les persones?&lt;/p&gt;
+&lt;p&gt;Són dubtes que em plantege en seguir tota aquesta discussió, tan vella com &lt;a href=&#34;https://carlesbellver.net/2009/04/14/estalinistes.html&#34;&gt;Stalin&lt;/a&gt; i molt més, &lt;a href=&#34;https://carlesbellver.net/2016/09/24/sexe-i-gnere.html&#34;&gt;molt més&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1517,7 +1565,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       
       <guid>https://carlesbellver.net/2013/09/29/there-is-art.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Hi ha l&#39;art, i hi ha artistes. No confonguem ambdues coses.&lt;/p&gt;
+&lt;p&gt;Hi ha l’art, i hi ha artistes. No confonguem ambdues coses.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Joyce Maynard. Font: &lt;a href=&#34;http://explore.noodle.org/post/61672235696/in-the-wake-of-the-new-j-d-salinger-biography&#34;&gt;Explore - In the wake of the new J. D. Salinger biography&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1532,7 +1580,7 @@ et que ceux de France voient chaque jour leur authenticité confirmée!&lt;/p&gt
       <description>&lt;blockquote&gt;
 &lt;p&gt;Vam anomenar &lt;em&gt;proletària&lt;/em&gt; la música que fèiem, conscients del fet que vivíem en una ciutat petita de treballadors de coll blau, geogràficament i culturalment aïllada. Escrivíem i assajàvem en un molí de llana recondicionat, construït a la vora del contaminat riu Chadakoin, que es movia lentament per una part trista i decrèpita de la nostra vila natal.&lt;br&gt;
 […]&lt;br&gt;
-La major part del finançament públic per a les arts de l’era Carter, que havia provocat una certa renaixença local als anys setanta, s&#39;estava morint. Començàvem a percebre el desplaçament del país cap a la dreta al llindar de l’era Reagan-Bush. Anàvem entenent que la recessió de ciutats postindustrials com la nostra podia no ser temporal i que entràvem a la majoria d’edat en un ambient de nostàlgia i decadència. Encara vivíem a casa amb els pares, cap de nosaltres estava en situació de pagar-se l’emancipació.&lt;/p&gt;
+La major part del finançament públic per a les arts de l’era Carter, que havia provocat una certa renaixença local als anys setanta, s’estava morint. Començàvem a percebre el desplaçament del país cap a la dreta al llindar de l’era Reagan-Bush. Anàvem entenent que la recessió de ciutats postindustrials com la nostra podia no ser temporal i que entràvem a la majoria d’edat en un ambient de nostàlgia i decadència. Encara vivíem a casa amb els pares, cap de nosaltres estava en situació de pagar-se l’emancipació.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—&lt;a href=&#34;http://en.wikipedia.org/wiki/Natalie_Merchant&#34;&gt;Natalie Merchant&lt;/a&gt;, el 2004, sobre els primers anys de &lt;a href=&#34;http://en.wikipedia.org/wiki/10,000_Maniacs&#34;&gt;10,000 Maniacs&lt;/a&gt; (&lt;a href=&#34;http://en.wikipedia.org/wiki/Campfire_Songs%3A_The_Popular,_Obscure_and_Unknown_Recordings&#34;&gt;Campfire Songs: The Popular, Obscure and Unknown Recordings&lt;/a&gt;).&lt;/p&gt;
 &lt;iframe style=&#34;margin: 1em 0;&#34; width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/bidRxJq98lY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -1561,7 +1609,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
       <description>&lt;blockquote&gt;
 &lt;p&gt;…the unedited voice of an individual.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—&lt;a href=&#34;http://threads2.scripting.com/2013/june/bloggerVsJournalist&#34;&gt;Blog definition by Dave Winer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;—&lt;a href=&#34;http://scripting.com/davenet/2003/10/08/nineYearsOfDavenet.html#2&#34;&gt;Blog definition by Dave Winer&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1586,9 +1634,9 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
       
       <guid>https://carlesbellver.net/2013/06/06/keep-surrealism-in.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;No mantinguis l’etiqueta de fotògraf surrealista. Fes-te fotoperiodista. Si no, cauràs en el manierisme. Conserva el surrealisme dins del teu petit cor, amic meu. No t’inquietis. Mou-te!&lt;/p&gt;
+&lt;p&gt;No mantingues l’etiqueta de fotògraf surrealista. Fes-te fotoperiodista. Si no, cauràs en el manierisme. Conserva el surrealisme dins del teu petit cor, amic meu. No t’inquietes. Mou-te!&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Robert Capa to Henri Cartier-Bresson (&lt;a href=&#34;http://inmotion.magnumphotos.com/about/history&#34;&gt;History of Magnum&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;—Robert Capa to Henri Cartier-Bresson (&lt;a href=&#34;https://www.magnumphotos.com/about-magnum/history/&#34;&gt;History of Magnum&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
@@ -1619,7 +1667,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
     </item>
     
     <item>
-      <title>Un escriptor mascle sobrevalorat</title>
+      <title>Irving: ’Hemingway és el frau més gran de la història de la literatura nord-americana</title>
       <link>https://carlesbellver.net/2013/04/13/un-escriptor-mascle.html</link>
       <pubDate>Sat, 13 Apr 2013 22:00:00 +0000</pubDate>
       
@@ -1627,7 +1675,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
       <description>&lt;blockquote&gt;
 &lt;p&gt;Sempre he odiat Hemingway, des d’adolescent. M’avergonyia la representació de la seva masculinitat, que era com una broma, i també m’avergonyia com a escriptor. Si només pots escriure frases curtes, dedica’t a la publicitat… Era un escriptor alcohòlic sobrevalorat. I va ser el responsable d’una onada literària d’un munt d’imitadors… Hemingway és el frau més gran de la història de la literatura nord-americana, com a home i com a escriptor.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—&lt;a href=&#34;http://www.vilaweb.cat/noticia/4103052/20130409/irving-hemingway-frau-gran-historia-literatura-nord-americana.html&#34;&gt;Irving: &#39;Hemingway és el frau més gran de la història de la literatura nord-americana&#39;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;—John Irving&lt;/p&gt;
 </description>
     </item>
     
@@ -1640,7 +1688,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
       <description>&lt;blockquote&gt;
 &lt;p&gt;Una manera de minar els monopolis dels mitjans de comunicació social és negar-se a contribuir a l’economia comunicativa en què es basen: no generar senyals explotables, romandre en silenci, i preguntar-se com es podria desenvolupar això com a resposta en comú […] Tenint això en compte, aquest article es demana si es podria generar una política mediàtica basada en les potencialitats del silenci, de parlar en llengües, i de confiar en els recursos del llenguatge metafòric, en lloc d’aprendre a parlar o escriure de maneres més susceptibles de codificar.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Caroline Bassett, &lt;a href=&#34;http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/4617/3420&#34;&gt;Silence, delirium, lies?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;—Caroline Bassett, &lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/link.svg&#34; /&gt; &lt;a href=&#34;http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/4617/3420&#34;&gt;Silence, delirium, lies?&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1651,10 +1699,13 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
       
       <guid>https://carlesbellver.net/2013/03/20/mon-cul-lui.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Si mon cœur est français, mon cul, lui, est international!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Si mon cœur est français, mon cul, lui, est international!&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—&lt;a href=&#34;http://fr.wikipedia.org/wiki/Arletty&#34;&gt;Arletty&lt;/a&gt;, actriu francesa, sobre la seva relació amb &lt;a href=&#34;http://de.wikipedia.org/wiki/Hans-J%C3%BCrgen_Soehring&#34;&gt;Hans Jürgen Soehring&lt;/a&gt;, oficial de la Luftwaffe, durant l’ocupació. Després de la guerra, Soehring va ser cònsol de la RFA a Léopoldville (avui Kinshasa). En un viatge pel riu Congo l’any 1960, el va devorar un cocodril.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.wikipaintings.org/en/moise-kisling/nude-portrait-of-arletty-1933&#34;&gt;&lt;img src=&#34;http://uploads4.wikipaintings.org/images/moise-kisling/nude-portrait-of-arletty-1933.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;—&lt;a href=&#34;http://fr.wikipedia.org/wiki/Arletty&#34;&gt;Arletty&lt;/a&gt;, actriu francesa, sobre la seua relació amb &lt;a href=&#34;http://de.wikipedia.org/wiki/Hans-J%C3%BCrgen_Soehring&#34;&gt;Hans Jürgen Soehring&lt;/a&gt;, oficial de la Luftwaffe, durant l’ocupació. Després de la guerra, Soehring va ser cònsol de la RFA a Léopoldville (avui Kinshasa). En un viatge pel riu Congo l’any 1960, el va devorar un cocodril.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;https://carlesbellver.net/uploads/2013/2013-03-20-moise-kisling-arletty.jpg&#34; alt=&#34;Retrat d’Arletty per Moïse Kisling&#34;&gt;
+  &lt;figcaption&gt;Retrat d’Arletty per &lt;a href=&#34;https://en.wikipedia.org/wiki/Moïse_Kisling&#34;&gt;Moïse Kisling&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -1672,15 +1723,14 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
     </item>
     
     <item>
-      <title>La tecno-maçoneria del TED</title>
+      <title>Beyond televangelism: inside TED’s new gospel</title>
       <link>https://carlesbellver.net/2013/03/10/la-tecnomaoneria-del.html</link>
       <pubDate>Sun, 10 Mar 2013 23:00:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2013/03/10/la-tecnomaoneria-del.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;[…] Les conferències TED són sermons, i les “idees que val la pena difondre” que s’hi sostenen són l’evangeli. Anar a Long Beach (costa 7.500 dòlars) és un viatge exclusiu a la Meca; TEDActive és el primer nivell d’apreciació de segona mà, similar a veure una relíquia religiosa en un estoig de vidre. I aquests vídeos, apreciats pels intel·lectuals i de vegades prou encomanadissos per a fer-se virals entre la població general, són la versió actualitzada del Club 700, l&#39;enormement influent programa de televisió de Pat Robertson que és una pedra angular del tele-evangelisme […]&lt;/p&gt;
+&lt;p&gt;[…] Les conferències TED són sermons, i les “idees que val la pena difondre” que s’hi sostenen són l’evangeli. Anar a Long Beach (costa 7.500 dòlars) és un viatge exclusiu a la Meca; TEDActive és el primer nivell d’apreciació de segona mà, similar a veure una relíquia religiosa en un estoig de vidre. I aquests vídeos, apreciats pels intel·lectuals i de vegades prou encomanadissos per a fer-se virals entre la població general, són la versió actualitzada del Club 700, l’enormement influent programa de televisió de Pat Robertson que és una pedra angular del tele-evangelisme […]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;📎 &lt;a href=&#34;http://www.theverge.com/2013/2/27/4028174/beyond-televangelism-inside-teds-new-gospel&#34;&gt;Beyond televangelism: inside TED’s new gospel&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Amb relació a &lt;a href=&#34;http://en.wikipedia.org/wiki/Sugata_Mitra&#34;&gt;Sugata Mitra&lt;/a&gt; (TED Prize 2013 = un milio de dòlars), recomane també:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://hapgood.us/2013/03/04/an-institution-is-not-an-invention-heretical-thoughts-on-mitra/&#34;&gt;An Institution Is Not an Invention: Heretical Thoughts on Mitra&lt;/a&gt; (Mike Caulfield).&lt;/li&gt;
@@ -1704,23 +1754,23 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
 &lt;blockquote&gt;
 &lt;p&gt;No &lt;em style=&#34;background-color: #999; padding: 3px; color: #fff; font-style: italic; font-weight: bold; border-radius: 25%;&#34;&gt;li&lt;/em&gt; llegiran ton nom amb un bell pànic?&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entengués el vers. I davant d&#39;aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.&lt;/p&gt;
+&lt;p&gt;No cal dir que li vaig pegar moltes voltes, a aquesta disparitat. En el context del poema, per a mi tenia més sentit la primera versió, amb “hi”. “No hi llegiran” vol dir, evidentment, “No llegiran en els meus versos”. A què o a qui, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? No sabria dir-ho. No crec que tinga sentit així, de fet, però aquesta consideració no em pareixia definitiva. Podia ser que jo, simplement, no entenguera el vers. I davant d’aquest dubte, no hauria volgut citar-ne una versió incorrecta o apòcrifa per desconeixement.&lt;/p&gt;
 &lt;p&gt;Mentre hi rumiava, vaig poder comprovar a la Biblioteca de la Universitat Jaume I (vegeu la imatge de dalt i la &lt;a href=&#34;https://cataleg.uji.es/permalink/34CVA_UJI/j35epn/alma991003954729706336&#34;&gt;fitxa&lt;/a&gt; del catàleg) que en l’edició original de 1954 el vers apareix amb “hi”.&lt;/p&gt;
-&lt;p&gt;La solució del problema, finalment, va arribar per un altre cantó, i era d’allò més fàcil: només calia comptar les síl·labes. “Criatura dolcíssima” són tot tercets decasíl·labs, menys, únicament —si fos amb “li”—, aquest verset de la discòrdia, que seria hendecasíl·lab. Per coherència mètrica, doncs, entenc que la versió bona era l’original, amb “hi”. D’altra banda, si fem la cerca amb &lt;a href=&#34;http://books.google.com/&#34;&gt;Google Books&lt;/a&gt;, podem comprovar que la versió amb “li” només apareix en l’edició de 1989 i en alguna antologia posterior. Pareix, doncs, que es tractaria d’una errata introduïda tan recentment i escampada en el Web pàgina a pàgina.&lt;/p&gt;
-&lt;p&gt;Per a tancar aquest apunt, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar la meva conclusió i les raons mètriques i semàntiques que m’hi han portat.&lt;/p&gt;
+&lt;p&gt;La solució del problema, finalment, va arribar per un altre cantó, i era d’allò més fàcil: només calia comptar les síl·labes. “Criatura dolcíssima” són tot tercets decasíl·labs, menys, únicament —si fora amb “li”—, aquest verset de la discòrdia, que seria hendecasíl·lab. Per coherència mètrica, doncs, entenc que la versió bona era l’original, amb “hi”. D’altra banda, si fem la cerca amb &lt;a href=&#34;http://books.google.com/&#34;&gt;Google Books&lt;/a&gt;, podem comprovar que la versió amb “li” només apareix en l’edició de 1989 i en alguna antologia posterior. Pareix, doncs, que es tractaria d’una errata introduïda tan recentment i escampada en el Web pàgina a pàgina.&lt;/p&gt;
+&lt;p&gt;Per a tancar aquest apunt, vull fer constar el meu agraïment a Francesc Pérez Moragón i al catedràtic Vicent Salvador, experts en l’obra de Fuster, que han tingut l’amabilitat de corroborar la meua conclusió i les raons mètriques i semàntiques que m’hi han portat.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>L&#39;aïllament no és permanent</title>
+      <title>L’aïllament no és permanent</title>
       <link>https://carlesbellver.net/2013/01/28/our-isolation-is.html</link>
       <pubDate>Mon, 28 Jan 2013 23:00:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2013/01/28/our-isolation-is.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Quan connectem amb una altra persona, en el sexe o en l&#39;amor (o, més rarament, ambdós) demostrem que el nostre aïllament no és permanent. En la plenitud del temps, tots podem estar vinculats.&lt;/p&gt;
+&lt;p&gt;Quan connectem amb una altra persona, en el sexe o en l’amor (o, més rarament, ambdós) demostrem que el nostre aïllament no és permanent. En la plenitud del temps, tots podem estar vinculats.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;—Dorion Sagan, via 📎 &lt;a href=&#34;http://www.brainpickings.org/index.php/2013/01/25/dorion-sagan-sex/&#34;&gt;Brain Pickings&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;—Dorion Sagan, via &lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/link.svg&#34; /&gt; &lt;a href=&#34;http://www.brainpickings.org/index.php/2013/01/25/dorion-sagan-sex/&#34;&gt;Brain Pickings&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1774,7 +1824,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
       
       <guid>https://carlesbellver.net/2009/08/24/estructures-de-condensaci.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Arkham és, en el sentit precís del terme, una estructura de condensació onírica al voltant de la qual es basteix i s’organitza tot un univers d’indicibles meravelles i horrors blasfems. Arkham i la seva regió són, en la topografia lovecraftiana, la falla per on penetren l&#39;insòlit, l&#39;escandalós, l&#39;inquietant, el morbós, l&#39;immund: al cor del món nord-americà, a una distància ridícula dels grans centres industrials, de les universitats més prestigioses, de les ciutats turístiques —en plena civilització del somriure— Lovecraft instal·la un &lt;em&gt;espai abominable&lt;/em&gt;, on s’exerceixen increïbles maleficis.&lt;/p&gt;
+&lt;p&gt;Arkham és, en el sentit precís del terme, una estructura de condensació onírica al voltant de la qual es basteix i s’organitza tot un univers d’indicibles meravelles i horrors blasfems. Arkham i la seva regió són, en la topografia lovecraftiana, la falla per on penetren l’insòlit, l’escandalós, l’inquietant, el morbós, l’immund: al cor del món nord-americà, a una distància ridícula dels grans centres industrials, de les universitats més prestigioses, de les ciutats turístiques —en plena civilització del somriure— Lovecraft instal·la un &lt;em&gt;espai abominable&lt;/em&gt;, on s’exerceixen increïbles maleficis.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Maurice Lévy, &lt;em&gt;Lovecraft ou du fantastique&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;El concepte és interessant i es podria traslladar. Coneixeu o podeu imaginar altres estructures de condensació onírica més pròximes? Potser prop de casa vostra?&lt;/p&gt;
@@ -1782,7 +1832,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
     </item>
     
     <item>
-      <title>L&#39;esperit modern de la pressa</title>
+      <title>L’esperit modern de la pressa</title>
       <link>https://carlesbellver.net/2007/09/14/lesperit-modern-de.html</link>
       <pubDate>Fri, 14 Sep 2007 22:00:00 +0000</pubDate>
       
@@ -1792,8 +1842,8 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
 &lt;p&gt;Los cuentos que uno escribe no pueden ser muchos. Existen tres, cuatro o cinco temas; algunos dicen que siete. Con ésos debe trabajarse.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Augusto Monterroso, en “Breve, brevísimo” (&lt;em&gt;Literatura y vida&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;De tant en tant, hi ha algú que et pregunta si no has pensat a escriure una novel·la, o contes per a xiquets, o qualsevol altra cosa que, de fet, no hagis escrit. O et retreuen que la teva &lt;em&gt;producció&lt;/em&gt; sigui tan curta, que vagis tan lentament. No has escrit res més? Tot just tres llibres, i tan prims!&lt;/p&gt;
-&lt;p&gt;Però crec que és natural que com a escriptor un vulgui seguir el seu camí i que vulgui portar el seu pas. En vista d’això que deia Monterroso —recordem que la seva obra narrativa completa, d’una qualitat extraordinària, cap dins d’un sol volum— fins i tot tinc la sensació que darrerament, si més no els darrers quinze anys, l’ansietat m’ha fet escriure massa i amb massa presses. M’agradaria encetar en qualsevol moment una fase de calma i lentitud.&lt;/p&gt;
+&lt;p&gt;De tant en tant, hi ha algú que et pregunta si no has pensat a escriure una novel·la, o contes per a xiquets, o qualsevol altra cosa que, de fet, no hages escrit. O et retrauen que la teua &lt;em&gt;producció&lt;/em&gt; siga tan curta, que vages tan lentament. No has escrit res més? Tot just tres llibres, i tan prims!&lt;/p&gt;
+&lt;p&gt;Però crec que és natural que com a escriptor un vulga seguir el seu camí i que vulga portar el seu pas. En vista d’això que deia Monterroso —recordem que la seua obra narrativa completa, d’una qualitat extraordinària, cap dins d’un sol volum— fins i tot tinc la sensació que darrerament, si més no els darrers quinze anys, l’ansietat m’ha fet escriure massa i amb massa presses. M’agradaria encetar en qualsevol moment una fase de calma i lentitud.&lt;/p&gt;
 &lt;p&gt;(“L’esperit modern de la pressa”: un fragment d’una frase que vaig subratllar quan vaig llegir &lt;em&gt;La línia d’ombra&lt;/em&gt; de Joseph Conrad.)&lt;/p&gt;
 </description>
     </item>
@@ -1816,7 +1866,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
     </item>
     
     <item>
-      <title>L&#39;obligació de ser antiliterari</title>
+      <title>L’obligació de ser antiliterari</title>
       <link>https://carlesbellver.net/2002/04/13/antiliterari/</link>
       <pubDate>Sat, 13 Apr 2002 22:00:00 +0000</pubDate>
       
@@ -1835,7 +1885,7 @@ La major part del finançament públic per a les arts de l’era Carter, que hav
       
       <guid>https://carlesbellver.net/2002/03/23/temps/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;No deixa de tenir plena actualitat la famosa pregunta formulada, “en to molt fatigat, propi d&#39;un home molt vell”, per Arthur Cravan a André Gide: “Monsieur Gide, en quin punt del temps ens trobem?”. Gide va contestar, sense segona intenció: “Tres quarts de sis”. Sí, cal fer-ho constar, molt dolenta és la nostra situació respecte al temps.&lt;/p&gt;
+&lt;p&gt;No deixa de tenir plena actualitat la famosa pregunta formulada, “en to molt fatigat, propi d’un home molt vell”, per Arthur Cravan a André Gide: “Monsieur Gide, en quin punt del temps ens trobem?”. Gide va contestar, sense segona intenció: “Tres quarts de sis”. Sí, cal fer-ho constar, molt dolenta és la nostra situació respecte al temps.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—André Breton, prefaci a la reimpressió del &lt;em&gt;Manifest del Surrealisme&lt;/em&gt;, 1929.&lt;/p&gt;
 </description>

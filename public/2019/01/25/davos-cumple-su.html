@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,16 +75,16 @@
 
 
 <meta name="og:title" content="Davos cumple su misión de costumbre: debatir sobre cambios pero para mantener el statu quo económico"/>
-<meta property="og:description" content="«Fa por», diu el responsable d&#39;un fons d&#39;inversions sobre la proposta d&#39;Alexandria Ocasio-Cortez d&#39;elevar el tipus màxim fiscal al 70%.
-Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era del 91%. Al 1970 era el 71% i al 1980 el 70%. Els multimilionaris dels avions privats —aquests dies n&#39;aterraran prop de Davos uns mil cinc-cents— preferirien que no ho sabéssim." />
+<meta property="og:description" content="«Fa por», diu el responsable d’un fons d’inversions sobre la proposta d’Alexandria Ocasio-Cortez d’elevar el tipus màxim fiscal al 70 %.
+Volen que sone extremista, però al 1960, als EUA, el tipus fiscal màxim era del 91 %. Al 1970 era el 71 % i al 1980 el 70 %." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2019/01/25/davos-cumple-su.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2019-01-25T09:07:00+00:00" />
 <meta property="article:modified_time" content="2019-01-25T09:07:00+00:00" />
 
 <meta name="twitter:title" content="Davos cumple su misión de costumbre: debatir sobre cambios pero para mantener el statu quo económico"/>
-<meta name="twitter:description" content="«Fa por», diu el responsable d&#39;un fons d&#39;inversions sobre la proposta d&#39;Alexandria Ocasio-Cortez d&#39;elevar el tipus màxim fiscal al 70%.
-Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era del 91%. Al 1970 era el 71% i al 1980 el 70%. Els multimilionaris dels avions privats —aquests dies n&#39;aterraran prop de Davos uns mil cinc-cents— preferirien que no ho sabéssim."/>
+<meta name="twitter:description" content="«Fa por», diu el responsable d’un fons d’inversions sobre la proposta d’Alexandria Ocasio-Cortez d’elevar el tipus màxim fiscal al 70 %.
+Volen que sone extremista, però al 1960, als EUA, el tipus fiscal màxim era del 91 %. Al 1970 era el 71 % i al 1980 el 70 %."/>
 
 
 
@@ -108,11 +108,9 @@ Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era de
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era de
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era de
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era de
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era de
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.eldiario.es/economia/Davos-desigualdad_0_860214718.html">Davos cumple su misión de costumbre: debatir sobre cambios pero para mantener el statu quo económico</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.eldiario.es/economia/Davos-desigualdad_0_860214718.html">Davos cumple su misión de costumbre: debatir sobre cambios pero para mantener el statu quo económico</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -236,9 +240,9 @@ Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era de
             
           
           <blockquote>
-<p>«Fa por», diu el responsable d'un fons d'inversions sobre la proposta d'Alexandria Ocasio-Cortez d'elevar el tipus màxim fiscal al 70%.</p>
+<p>«Fa por», diu el responsable d’un fons d’inversions sobre la proposta d’Alexandria Ocasio-Cortez d’elevar el tipus màxim fiscal al 70 %.</p>
 </blockquote>
-<p>Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era del 91%. Al 1970 era el 71% i al 1980 el 70%. Els multimilionaris dels avions privats —aquests dies n'aterraran prop de Davos uns mil cinc-cents— preferirien que no ho sabéssim. De la mateixa manera que prefereixen convidar Bolsonaro.</p>
+<p>Volen que sone extremista, però al 1960, als EUA, el tipus fiscal màxim era del 91 %. Al 1970 era el 71 % i al 1980 el 70 %. Els multimilionaris dels avions privats —aquests dies n’aterraran prop de Davos uns mil cinc-cents— preferirien que no ho sabérem. De la mateixa manera que prefereixen convidar Bolsonaro.</p>
 
 
         
@@ -283,14 +287,17 @@ Volen que soni extremista, però al 1960, als EUA, el tipus fiscal màxim era de
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

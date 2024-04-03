@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="Jo també sóc anticanibalista"/>
-<meta property="og:description" content="📖 En “El grup de petició anticanibalista i els tres cavallers”, de Kōbō Abe, els tres cavallers del títol —al primer li falta un braç, al segon una cama, el tercer és cec— són incapaços de comprendre la petició que se’ls planteja. L’únic representant del poble amb qui han accedit a negociar insisteix a suplicar-los que ells, la classe dirigent, no mengin carn humana." />
+<meta property="og:description" content="En “El grup de petició anticanibalista i els tres cavallers”, de Kōbō Abe, els tres cavallers del títol —al primer li falta un braç, al segon una cama, el tercer és cec— són incapaços de comprendre la petició que se’ls planteja. L’únic representant del poble amb qui han accedit a negociar insisteix a suplicar-los que ells, la classe dirigent, no mengin carn humana." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2015/06/12/jo-tamb-sc.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2015-06-12T22:00:00+00:00" />
 <meta property="article:modified_time" content="2015-06-12T22:00:00+00:00" />
 
 <meta name="twitter:title" content="Jo també sóc anticanibalista"/>
-<meta name="twitter:description" content="📖 En “El grup de petició anticanibalista i els tres cavallers”, de Kōbō Abe, els tres cavallers del títol —al primer li falta un braç, al segon una cama, el tercer és cec— són incapaços de comprendre la petició que se’ls planteja. L’únic representant del poble amb qui han accedit a negociar insisteix a suplicar-los que ells, la classe dirigent, no mengin carn humana."/>
+<meta name="twitter:description" content="En “El grup de petició anticanibalista i els tres cavallers”, de Kōbō Abe, els tres cavallers del títol —al primer li falta un braç, al segon una cama, el tercer és cec— són incapaços de comprendre la petició que se’ls planteja. L’únic representant del poble amb qui han accedit a negociar insisteix a suplicar-los que ells, la classe dirigent, no mengin carn humana."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,8 +217,7 @@
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">Jo també sóc anticanibalista</h1>
+      <header class="post-header"><h1 class="post-title">Jo també sóc anticanibalista</h1>
 
       
       
@@ -228,7 +225,7 @@
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -240,7 +237,7 @@
           
             
           
-          <p>📖 En “El grup de petició anticanibalista i els tres cavallers”, de <a href="https://en.wikipedia.org/wiki/Kobo_Abe">Kōbō Abe</a>, els tres cavallers del títol —al primer li falta un braç, al segon una cama, el tercer és cec— són incapaços de comprendre la petició que se’ls planteja. L’únic representant del poble amb qui han accedit a negociar insisteix a suplicar-los que ells, la classe dirigent, no mengin carn humana.</p>
+          <p><img class="icon" src="https://carlesbellver.net/svg.icons/book.svg" /> En “El grup de petició anticanibalista i els tres cavallers”, de <a href="https://en.wikipedia.org/wiki/Kobo_Abe">Kōbō Abe</a>, els tres cavallers del títol —al primer li falta un braç, al segon una cama, el tercer és cec— són incapaços de comprendre la petició que se’ls planteja. L’únic representant del poble amb qui han accedit a negociar insisteix a suplicar-los que ells, la classe dirigent, no mengin carn humana.</p>
 <p>I per què, es pregunten, no haurien de fer-ho? “Les vaques mengen herba”, intenten argumentar planerament, “vostès mengen vaques i nosaltres ens mengem a vostès”. Al cap i a la fi les elits s’han responsabilitzat del benestar de la gent, els han millorat la vida quantitativament i qualitativa i, per tant, qui gosaria negar-los que tenen dret a una mica de la seva carn?</p>
 <p>“Per favor, senyors,”, balbuceja el negociador, visiblement atemorit, “entenguin que és una salvatjada que un home es mengi un altre home.”</p>
 <p>Però el distanciament entre ambdues parts és tan gran que els tres cavallers necessiten imaginar hipòtesis explicatives: potser ara aquests són víctimes d’alguna neurosi, o potser s’han convertit a una religió exòtica, o darrere d’aquest discurs s’amaga algun fosc propòsit…</p>
@@ -289,14 +286,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

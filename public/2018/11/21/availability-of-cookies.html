@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="Availability of cookies during an academic course session affects evaluation of teaching"/>
-<meta property="og:description" content="L&#39;estudiantat va ser assignat aleatòriament a vint grups, deu dels quals tenien accés gratuït a 500 g de galetes de xocolata per cada classe de medicina d’emergència (grup de galetes) i els altres deu no (grup de control). Tots els grups tenien el mateix professorat. El contingut educatiu i els materials eren els mateixos per a tots els grups." />
+<meta property="og:description" content="L’estudiantat va ser assignat aleatòriament a vint grups, deu dels quals tenien accés gratuït a 500 g de galetes de xocolata per cada classe de medicina d’emergència (grup de galetes) i els altres deu no (grup de control). Tots els grups tenien el mateix professorat. El contingut educatiu i els materials eren els mateixos per a tots els grups." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2018/11/21/availability-of-cookies.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2018-11-21T09:29:00+00:00" />
 <meta property="article:modified_time" content="2018-11-21T09:29:00+00:00" />
 
 <meta name="twitter:title" content="Availability of cookies during an academic course session affects evaluation of teaching"/>
-<meta name="twitter:description" content="L&#39;estudiantat va ser assignat aleatòriament a vint grups, deu dels quals tenien accés gratuït a 500 g de galetes de xocolata per cada classe de medicina d’emergència (grup de galetes) i els altres deu no (grup de control). Tots els grups tenien el mateix professorat. El contingut educatiu i els materials eren els mateixos per a tots els grups."/>
+<meta name="twitter:description" content="L’estudiantat va ser assignat aleatòriament a vint grups, deu dels quals tenien accés gratuït a 500 g de galetes de xocolata per cada classe de medicina d’emergència (grup de galetes) i els altres deu no (grup de control). Tots els grups tenien el mateix professorat. El contingut educatiu i els materials eren els mateixos per a tots els grups."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +217,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/medu.13627">Availability of cookies during an academic course session affects evaluation of teaching</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/medu.13627">Availability of cookies during an academic course session affects evaluation of teaching</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -234,7 +238,7 @@
             
           
           <blockquote>
-<p>L'estudiantat va ser assignat aleatòriament a vint grups, deu dels quals tenien accés gratuït a 500 g de galetes de xocolata per cada classe de medicina d’emergència (grup de galetes) i els altres deu no (grup de control). Tots els grups tenien el mateix professorat. El contingut educatiu i els materials eren els mateixos per a tots els grups. En acabar el curs, es va demanar a tot l'estudiantat que contestés un formulari d'avaluació de trenta-vuit preguntes.</p>
+<p>L’estudiantat va ser assignat aleatòriament a vint grups, deu dels quals tenien accés gratuït a 500 g de galetes de xocolata per cada classe de medicina d’emergència (grup de galetes) i els altres deu no (grup de control). Tots els grups tenien el mateix professorat. El contingut educatiu i els materials eren els mateixos per a tots els grups. En acabar el curs, es va demanar a tot l’estudiantat que contestés un formulari d’avaluació de trenta-vuit preguntes.</p>
 </blockquote>
 
 
@@ -280,14 +284,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

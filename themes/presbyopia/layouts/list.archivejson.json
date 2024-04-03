@@ -4,6 +4,7 @@
   {{ range $index, $value := $list }}
     {{- if .Plain }}
       {
+        "id": {{ $index }},
         {{- if .Title }}
         "title": {{ .Title | jsonify }},
         {{- end }}

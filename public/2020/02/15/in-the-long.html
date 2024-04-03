@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,7 +75,7 @@
 
 
 <meta name="og:title" content="Will AI Achieve Consciousness? Wrong Question"/>
-<meta property="og:description" content="A la llarga, una &quot;IA forta&quot;, o intel·ligència artificial general, és possible en principi però no desitjable. L&#39;IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!
+<meta property="og:description" content="A la llarga, una “IA forta”, o intel·ligència artificial general, és possible en principi però no desitjable. L’IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!
 La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que dominen la imaginació popular és encara gran, tot i que molta gent, tant llega com experta, aconsegueix subestimar-la." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2020/02/15/in-the-long.html" />
@@ -83,7 +83,7 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
 <meta property="article:modified_time" content="2020-02-15T07:37:40+00:00" />
 
 <meta name="twitter:title" content="Will AI Achieve Consciousness? Wrong Question"/>
-<meta name="twitter:description" content="A la llarga, una &quot;IA forta&quot;, o intel·ligència artificial general, és possible en principi però no desitjable. L&#39;IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!
+<meta name="twitter:description" content="A la llarga, una “IA forta”, o intel·ligència artificial general, és possible en principi però no desitjable. L’IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!
 La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que dominen la imaginació popular és encara gran, tot i que molta gent, tant llega com experta, aconsegueix subestimar-la."/>
 
 
@@ -108,11 +108,9 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.wired.com/story/will-ai-achieve-consciousness-wrong-question/">Will AI Achieve Consciousness? Wrong Question</a> — Daniel Dennett</h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.wired.com/story/will-ai-achieve-consciousness-wrong-question/">Will AI Achieve Consciousness? Wrong Question</a> — Daniel Dennett</h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -236,7 +240,7 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
             
           
           <blockquote>
-<p>A la llarga, una &quot;IA forta&quot;, o intel·ligència artificial general, és possible en principi però no desitjable. L'IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!</p>
+<p>A la llarga, una “IA forta”, o intel·ligència artificial general, és possible en principi però no desitjable. L’IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!</p>
 <p>La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que dominen la imaginació popular és encara gran, tot i que molta gent, tant llega com experta, aconsegueix subestimar-la.</p>
 </blockquote>
 
@@ -283,14 +287,17 @@ La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que domi
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

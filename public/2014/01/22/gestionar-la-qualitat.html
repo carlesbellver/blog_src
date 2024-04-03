@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="Gestionar la qualitat?"/>
-<meta property="og:description" content="Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passi de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de la destresa”, de l’oportunitat, o de la (in)competència." />
+<meta property="og:description" content="Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passe de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de la destresa”, de l’oportunitat, o de la (in)competència." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2014/01/22/gestionar-la-qualitat.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2014-01-22T23:00:00+00:00" />
 <meta property="article:modified_time" content="2014-01-22T23:00:00+00:00" />
 
 <meta name="twitter:title" content="Gestionar la qualitat?"/>
-<meta name="twitter:description" content="Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passi de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de la destresa”, de l’oportunitat, o de la (in)competència."/>
+<meta name="twitter:description" content="Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passe de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de la destresa”, de l’oportunitat, o de la (in)competència."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,8 +217,7 @@
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">Gestionar la qualitat?</h1>
+      <header class="post-header"><h1 class="post-title">Gestionar la qualitat?</h1>
 
       
       
@@ -228,7 +225,7 @@
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -240,18 +237,18 @@
           
             
           
-          <p>Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passi de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de <em>la</em> destresa”, de l’oportunitat, o de la (in)competència.</p>
+          <p>Això de la “gestió de la qualitat”, per més voltes que li donen —i per més que ens hi obliguen, fins que per fi passe de moda— és un concepte tan absurd i tan ridícul com podrien ser-ho, sense anar més lluny, la “gestió de <em>la</em> destresa”, de l’oportunitat, o de la (in)competència.</p>
 <p>Suposem, en principi, que deuen ser bones intencions. Qui es podria negar a voler <em>fer les coses bé</em>? Exactament això, i poc o res més, significa la paraula “qualitat”. Però després, és clar, vénen els artificis, els intents de precisar el concepte, revestir-lo de rigor teòric, imposar procediments i auditories… i aleshores les coses ja es compliquen.</p>
 <p>Ningú, és clar, no pot estar en contra de millorar la qualitat dels productes o els serveis: de fer les coses com cal i cada dia millor. I en això consisteix la trampa. Perquè, si intentem baixar de les generalitats a les concrecions, creure —o fer creure— que es pot <em>gestionar</em> el fer les coses bé i sobretot que es pot gestionar en abstracte, que millorar la docència és igual que millorar l’elaboració del pa, la fabricació de cotxes o l’extinció d’incendis —productes, serveis i activitats que no tenen res <em>concret</em> en comú—… doncs, en aquest cas, ens estem apropant perillosament al pensament màgic: com que existeix la paraula ‘qualitat’, hi ha d’haver una <em>cosa</em> al darrere que uns experts poden conèixer, dominar i controlar. Xarlatanisme.</p>
 <p>De debò ens hauríem de creure que algú pot saber més que els mestres, pedagogs i inspectors educatius com millorar l’educació? I que en saben més que ningú els que avaluen igual una escola que una fàbrica? Tan necis es creuen que som?</p>
-<p>Per aquest motiu, en els moments dolents pense que només es tractava d’adobar un discurs pseudo-científic que servís per a apuntalar paradetes de venedors d’<a href="http://en.wikipedia.org/wiki/Snake_oil">oli de serp</a> corporatius. Negocis i més negocis a costa de l'erari públic.</p>
-<p>I no m'ho invente jo. Si voleu, podeu començar per ací: 📎 <a href="http://www.ualberta.ca/~yreshef/orga432/critique.htm">Beyond the Gospel: A Critique of TQM and a Few Implementation Pitfalls</a> (Yonatan Reshef, School of Business, University of Alberta). O per la interessant història de l’<a href="https://en.wikipedia.org/wiki/If_Japan_Can..._Why_Can%27t_We%3F">origen</a> del TQM (Total Quality Management), o per les crítiques al famós <a href="http://en.wikipedia.org/wiki/ISO_9000">ISO 9000</a>/9001.</p>
+<p>Per aquest motiu, en els moments dolents pense que només es tractava d’adobar un discurs pseudo-científic que servira per a apuntalar paradetes de venedors d’<a href="http://en.wikipedia.org/wiki/Snake_oil">oli de serp</a> corporatius. Negocis i més negocis a costa de l’erari públic.</p>
+<p>I no m’invente jo aquesa crítica. Si voleu, podeu començar per ací: 📎 <a href="http://www.ualberta.ca/~yreshef/orga432/critique.htm">Beyond the Gospel: A Critique of TQM and a Few Implementation Pitfalls</a> (Yonatan Reshef, School of Business, University of Alberta). O per la interessant història de l’<a href="https://en.wikipedia.org/wiki/If_Japan_Can..._Why_Can%27t_We%3F">origen</a> del TQM (<em>Total Quality Management</em>), o per les crítiques al famós <a href="http://en.wikipedia.org/wiki/ISO_9000">ISO 9000</a>/9001.</p>
 <blockquote>
-<p>L'estàndard es considera especialment propens al fracàs quan una empresa està interessada en la certificació abans que la qualitat […] La certificació per part d'un auditor independent sovint es considera l'àrea problemàtica i, segons Barnes, &quot;s'ha convertit en un vehicle per augmentar els serveis de consultoria&quot;.</p>
+<p>L’estàndard es considera especialment propens al fracàs quan una empresa està interessada en la certificació abans que la qualitat […] La certificació per part d’un auditor independent sovint es considera l’àrea problemàtica i, segons Barnes, “s’ha convertit en un vehicle per augmentar els serveis de consultoria”.</p>
 <p>Abrahamson argumenta que el discurs gerencial vigent, com ara els cercles de qualitat, tendeix a seguir un cicle de vida en forma de corba de campana, possiblement indicant una moda de gestió.</p>
-<p>[…] Pickrell argumenta que els sistemes ISO només avaluen si se segueixen els processos. No avalua com de bons són els processos ni si s'estan mesurant i controlant els paràmetres correctes per garantir la qualitat […]</p>
+<p>[…] Pickrell argumenta que els sistemes ISO només avaluen si se segueixen els processos. No avalua com de bons són els processos ni si s’estan mesurant i controlant els paràmetres correctes per garantir la qualitat […]</p>
 </blockquote>
-<p>O, millor encara, llegiu aquest article de 2010 de la revista Tendencias pedagógicas, núm 15., <a href="http://twitter.com/jordi_a/statuses/425559917190459392">recomanat</a> per Jordi Adell:</p>
+<p>O, millor encara, llegiu aquest article de 2010 de la revista <em>Tendencias pedagógicas</em>, núm 15., <a href="http://twitter.com/jordi_a/statuses/425559917190459392">recomanat</a> per Jordi Adell:</p>
 <p>📎 <a href="http://www.tendenciaspedagogicas.com/Articulos/2010_15_05.pdf">El discurso de la <em>calidad</em> en educación: ¿escuelas ISO 9001/2000?</a> (PDF).</p>
 <blockquote>
 <p>RESUMEN
@@ -300,14 +297,17 @@ Viajando hacia la escuela soñada, en los últimos años nos están desviando re
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

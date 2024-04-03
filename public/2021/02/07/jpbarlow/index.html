@@ -10,14 +10,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>Carles Bellver Torlà :: John Perry Barlow i l&#39;impacte d&#39;Internet</title>
+<title>Carles Bellver Torlà :: John Perry Barlow i l’impacte d’Internet</title>
 <meta name="author" content="Carles Bellver Torlà">
 <meta name="description" content="">
 
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -74,17 +74,15 @@
 
 
 
-<meta name="og:title" content="John Perry Barlow i l&#39;impacte d&#39;Internet"/>
-<meta property="og:description" content="Avui fa tres anys que es va morir John Perry Barlow. Quan començàvem a saber què era això d&#39;Internet, ell era un mite. A Morella, el 1997, vaig tenir l&#39;oportunitat d&#39;escoltar-lo, i de xarrar uns minuts amb ell i la seva acompanyant, en el meu anglès defectuós.
-Una de les coses que intente fer a la meua vida és eliminar els mitjans de difusió." />
+<meta name="og:title" content="John Perry Barlow i l’impacte d’Internet"/>
+<meta property="og:description" content="Avui fa tres anys que es va morir John Perry Barlow. Quan començàvem a saber què era això d’Internet, ell era un mite de les xarxes. A Morella, el 1997, vaig tenir l’oportunitat d’escoltar-lo, i de xarrar uns minuts amb ell i la seua acompanyant, en el meu anglès defectuós." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2021/02/07/jpbarlow/" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2021-02-07T08:55:00+01:00" />
 <meta property="article:modified_time" content="2021-02-07T08:55:00+01:00" />
 
-<meta name="twitter:title" content="John Perry Barlow i l&#39;impacte d&#39;Internet"/>
-<meta name="twitter:description" content="Avui fa tres anys que es va morir John Perry Barlow. Quan començàvem a saber què era això d&#39;Internet, ell era un mite. A Morella, el 1997, vaig tenir l&#39;oportunitat d&#39;escoltar-lo, i de xarrar uns minuts amb ell i la seva acompanyant, en el meu anglès defectuós.
-Una de les coses que intente fer a la meua vida és eliminar els mitjans de difusió."/>
+<meta name="twitter:title" content="John Perry Barlow i l’impacte d’Internet"/>
+<meta name="twitter:description" content="Avui fa tres anys que es va morir John Perry Barlow. Quan començàvem a saber què era això d’Internet, ell era un mite de les xarxes. A Morella, el 1997, vaig tenir l’oportunitat d’escoltar-lo, i de xarrar uns minuts amb ell i la seua acompanyant, en el meu anglès defectuós."/>
 
 
 
@@ -108,11 +106,9 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +127,7 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +175,7 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +208,7 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,8 +217,7 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">John Perry Barlow i l&#39;impacte d&#39;Internet</h1>
+      <header class="post-header"><h1 class="post-title">John Perry Barlow i l’impacte d’Internet</h1>
 
       
       
@@ -230,7 +225,7 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -242,15 +237,15 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
           
             
           
-          <p>Avui fa tres anys que es va morir <a href="https://ca.wikipedia.org/wiki/John_Perry_Barlow">John Perry Barlow</a>. Quan començàvem a saber què era això d'Internet, ell era un mite. A Morella, el 1997, vaig tenir l'oportunitat d'escoltar-lo, i de xarrar uns minuts amb ell i la seva acompanyant, en el meu anglès defectuós.</p>
+          <p>Avui fa tres anys que es va morir <a href="https://ca.wikipedia.org/wiki/John_Perry_Barlow">John Perry Barlow</a>. Quan començàvem a saber què era això d’Internet, ell era un mite de les xarxes. A Morella, el 1997, vaig tenir l’oportunitat d’escoltar-lo, i de xarrar uns minuts amb ell i la seua acompanyant, en el meu anglès defectuós.</p>
 <blockquote>
 <p>Una de les coses que intente fer a la meua vida és eliminar els mitjans de difusió. Vull eliminar tots els mitjans que no escolten ni responen i possibilitar cultures que no surten de Hollywood.</p>
 </blockquote>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qAMQ5tqph2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>Després va resultar que l'organització no havia previst el desplaçament, i el meu germà se'ls va emportar en el seu cotxe a Castelló per agafar el tren.</p>
-<p>Segons el resum de l'any inclòs en un <a href="http://scripting.com/97/12/stories/barlowChristmasSpecial.html">missatge de Nadal</a> de Barlow a les seues amistats, aquell dia havia vingut a Morella des de Copenhaguen, passant per Barcelona, i se n'anava a Nova York passant novament per Barcelona.</p>
+<p>Després va resultar que l’organització no havia previst el desplaçament, i el meu germà se’ls va emportar en el seu cotxe a Castelló per agafar el tren.</p>
+<p>Segons el resum de l’any inclòs en un <a href="http://scripting.com/97/12/stories/barlowChristmasSpecial.html">missatge de Nadal</a> de Barlow a les seues amistats, aquell dia havia vingut a Morella des de Copenhaguen, passant per Barcelona, i se n’anava a Nova York passant novament per Barcelona.</p>
 <blockquote>
-<p>Alguns de vosaltres que esteu familiaritzats amb la meva agenda m'heu suggerit que faci samarretes de la gira, com altres <em>rockers</em> itinerants. El problema és que tota la meva vida s'ha convertit en una gira, i encabir el meu itinerari en l'espai d'una esquena humana requeriria un tipus de lletra més petit del que tenen a mà la majoria d'estampadors.</p>
+<p>Alguns de vosaltres que esteu familiaritzats amb la meua agenda m’heu suggerit que faça samarretes de la gira, com altres <em>rockers</em> itinerants. El problema és que tota la meua vida s’ha convertit en una gira, i encabir el meu itinerari en l’espai d’una esquena humana requeriria un tipus de lletra més petit del que tenen a mà la majoria d’estampadors.</p>
 </blockquote>
 
 
@@ -296,14 +291,17 @@ Una de les coses que intente fer a la meua vida és eliminar els mitjans de difu
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,16 +75,16 @@
 
 
 <meta name="og:title" content="La escuela como fábrica de disparates —ayer y hoy"/>
-<meta property="og:description" content="Fa decennis que una part no desdenyable del professorat d&#39;ensenyament secundari enyora el paradís perdut, que sempre és el de la llei anterior, el d&#39;abans dels darrers mitjans de comunicació, etc.
-Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens (o les que el professorat diu a classe), però hauríem de ser conscients que, abans que hi hagués telèfons mòbils i ESO, la culpa de tan baix nivell es va atribuir a la televisió i a l&#39;EGB." />
+<meta property="og:description" content="Fa decennis que una part no desdenyable del professorat d’ensenyament secundari enyora el paradís perdut, que sempre és el de la llei anterior, el d’abans dels darrers mitjans de comunicació, etc.
+Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens (o les que el professorat diu a classe), però hauríem de ser conscients que, abans que hi haguera telèfons mòbils i ESO, la culpa de tan baix nivell es va atribuir a la televisió i a l’EGB." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2019/03/04/mariano-fernndez-enguita.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2019-03-04T08:36:00+00:00" />
 <meta property="article:modified_time" content="2019-03-04T08:36:00+00:00" />
 
 <meta name="twitter:title" content="La escuela como fábrica de disparates —ayer y hoy"/>
-<meta name="twitter:description" content="Fa decennis que una part no desdenyable del professorat d&#39;ensenyament secundari enyora el paradís perdut, que sempre és el de la llei anterior, el d&#39;abans dels darrers mitjans de comunicació, etc.
-Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens (o les que el professorat diu a classe), però hauríem de ser conscients que, abans que hi hagués telèfons mòbils i ESO, la culpa de tan baix nivell es va atribuir a la televisió i a l&#39;EGB."/>
+<meta name="twitter:description" content="Fa decennis que una part no desdenyable del professorat d’ensenyament secundari enyora el paradís perdut, que sempre és el de la llei anterior, el d’abans dels darrers mitjans de comunicació, etc.
+Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens (o les que el professorat diu a classe), però hauríem de ser conscients que, abans que hi haguera telèfons mòbils i ESO, la culpa de tan baix nivell es va atribuir a la televisió i a l’EGB."/>
 
 
 
@@ -108,11 +108,9 @@ Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens 
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens 
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens 
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens 
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens 
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://blog.enguita.info/2019/03/la-escuela-como-fabrica-de-disparates.html">La escuela como fábrica de disparates —ayer y hoy</a> — Mariano Fernández Enguita</h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://blog.enguita.info/2019/03/la-escuela-como-fabrica-de-disparates.html">La escuela como fábrica de disparates —ayer y hoy</a> — Mariano Fernández Enguita</h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -236,9 +240,9 @@ Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens 
             
           
           <blockquote>
-<p>Fa decennis que una part no desdenyable del professorat d'ensenyament secundari enyora el paradís perdut, que sempre és el de la llei anterior, el d'abans dels darrers mitjans de comunicació, etc.</p>
+<p>Fa decennis que una part no desdenyable del professorat d’ensenyament secundari enyora el paradís perdut, que sempre és el de la llei anterior, el d’abans dels darrers mitjans de comunicació, etc.</p>
 </blockquote>
-<p>Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens (o les que el professorat diu a classe), però hauríem de ser conscients que, abans que hi hagués telèfons mòbils i ESO, la culpa de <em>tan baix nivell</em> es va atribuir a la televisió i a l'EGB. I que, en aquella edat d'or de l'educació, la taxa d'escolarització en la franja de catorze a dinou anys era d'un 20 %.</p>
+<p>Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens (o les que el professorat diu a classe), però hauríem de ser conscients que, abans que hi haguera telèfons mòbils i ESO, la culpa de <em>tan baix nivell</em> es va atribuir a la televisió i a l’EGB. I que, en aquella edat d’or de l’educació, la taxa d’escolarització en la franja de catorze a dinou anys era d’un 20 %.</p>
 
 
         
@@ -283,14 +287,17 @@ Sempre fan riure les barbaritats que alguns estudiants escriuen en els exàmens 
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

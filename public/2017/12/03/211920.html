@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -74,18 +74,18 @@
 
 
 
-<meta name="og:title" content="📖 China Miéville: Octubre. La historia de la revolución rusa.
+<meta name="og:title" content="China Miéville: Octubre. La historia de la revolución rusa.
 Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un cambio hacia el control obrero de la producción y los derechos del campesino sobre la tierra. Derechos iguales para mujeres y hombres en el trabajo y en el matrimonio, el derecho al divorcio, el apoyo a la maternidad."/>
-<meta property="og:description" content="📖 China Miéville: Octubre. La historia de la revolución rusa.
+<meta property="og:description" content="China Miéville: Octubre. La historia de la revolución rusa.
 Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un cambio hacia el control obrero de la producción y los derechos del campesino sobre la tierra. Derechos iguales para mujeres y hombres en el trabajo y en el matrimonio, el derecho al divorcio, el apoyo a la maternidad." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2017/12/03/211920.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2017-12-03T20:19:20+00:00" />
 <meta property="article:modified_time" content="2017-12-03T20:19:20+00:00" />
 
-<meta name="twitter:title" content="📖 China Miéville: Octubre. La historia de la revolución rusa.
+<meta name="twitter:title" content="China Miéville: Octubre. La historia de la revolución rusa.
 Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un cambio hacia el control obrero de la producción y los derechos del campesino sobre la tierra. Derechos iguales para mujeres y hombres en el trabajo y en el matrimonio, el derecho al divorcio, el apoyo a la maternidad."/>
-<meta name="twitter:description" content="📖 China Miéville: Octubre. La historia de la revolución rusa.
+<meta name="twitter:description" content="China Miéville: Octubre. La historia de la revolución rusa.
 Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un cambio hacia el control obrero de la producción y los derechos del campesino sobre la tierra. Derechos iguales para mujeres y hombres en el trabajo y en el matrimonio, el derecho al divorcio, el apoyo a la maternidad."/>
 
 
@@ -110,11 +110,9 @@ Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un camb
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -133,7 +131,7 @@ Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un camb
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -181,7 +179,7 @@ Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un camb
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -214,7 +212,7 @@ Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un camb
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -223,7 +221,15 @@ Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un camb
     
 
 
-            
+      
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -235,7 +241,7 @@ Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un camb
           
             
           
-          <p>📖 China Miéville: <em>Octubre. La historia de la revolución rusa</em>.</p>
+          <p><img class="icon" src="https://carlesbellver.net/svg.icons/book.svg" /> China Miéville: <em>Octubre. La historia de la revolución rusa</em>.</p>
 <blockquote>
 <p>Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un cambio hacia el control obrero de la producción y los derechos del campesino sobre la tierra. Derechos iguales para mujeres y hombres en el trabajo y en el matrimonio, el derecho al divorcio, el apoyo a la maternidad. La despenalización de la homosexualidad: hace cien años. Una aproximación hacia la autodeterminación de las naciones. Educación libre y universal, alfabetización; y con ella, una explosión cultural, una sed de aprendizaje, la multiplicación de universidades y conferencias y escuelas para adultos. Un cambio en el alma, como dijo Lunacharski, así como en la fábrica. Y aunque esos momentos fueran desechados, anulados, o se convirtieran en recuerdos o malos chistes, podría haber sido de otro modo.</p>
 </blockquote>
@@ -281,14 +287,17 @@ Octubre, por un instante, trajo un nuevo tipo de poder. Fugazmente, hubo un camb
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

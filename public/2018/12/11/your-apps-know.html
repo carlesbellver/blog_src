@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret"/>
-<meta property="og:description" content="Diversos tipus d&#39;aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:" />
+<meta property="og:description" content="Diversos tipus d’aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2018/12/11/your-apps-know.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2018-12-11T08:36:00+00:00" />
 <meta property="article:modified_time" content="2018-12-11T08:36:00+00:00" />
 
 <meta name="twitter:title" content="Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret"/>
-<meta name="twitter:description" content="Diversos tipus d&#39;aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:"/>
+<meta name="twitter:description" content="Diversos tipus d’aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:"/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +217,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html">Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html">Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -233,16 +237,16 @@
           
             
           
-          <p>Diversos tipus d'aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:</p>
+          <p>Diversos tipus d’aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:</p>
 <blockquote>
-<p>…els que tenen accés a les dades brutes, inclosos empleats o clients, poden identificar una persona sense el seu consentiment. Poden seguir algú que coneixen, localitzant un telèfon que sol estar a l'adreça d'aquesta persona. O, a l'inrevés, poden vincular un nom a un punt anònim, veient on passa les nits els dispositiu i utilitzant registres públics per esbrinar qui hi viu.</p>
+<p>…els que tenen accés a les dades brutes, inclosos empleats o clients, poden identificar una persona sense el seu consentiment. Poden seguir algú que coneixen, localitzant un telèfon que sol estar a l’adreça d’aquesta persona. O, a l’inrevés, poden vincular un nom a un punt anònim, veient on passa les nits els dispositiu i utilitzant registres públics per esbrinar qui hi viu.</p>
 </blockquote>
-<p>Tot açò és il·legal a Europa —no als EUA—, però caldria que es fes complir la llei! Els nostres mòbils s'han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden <a href="https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html">com fer que les apps deixen de rastrejar la nostra ubicació</a>.</p>
+<p>Tot açò és il·legal a Europa —no als EUA—, però falta que es faça complir la llei. Els nostres mòbils s’han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden <a href="https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html">com fer que les apps deixen de rastrejar la nostra ubicació</a>.</p>
 <ul>
 <li>iPhone: Configuració → Privacitat → Localització</li>
 <li>Android: Configuració → Ubicació</li>
 </ul>
-<p>Un dels problemes d'Android és que no pots impedir que una app accedeixi a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.</p>
+<p>Un dels problemes d’Android és que no pots impedir que una app accedisca a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.</p>
 
 
         
@@ -287,14 +291,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

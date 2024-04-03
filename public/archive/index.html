@@ -18,7 +18,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -31,9 +31,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -57,11 +56,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,13 +75,13 @@
 
 
 
-<meta name="og:title" content="Bloc de notes públic de Carles Bellver Torlà. Retalls, esborranys, experiments. Els meus llibres, també."/>
+<meta name="og:title" content="email: carles@carlesbellver.net fediverse: @carlesbellver@mastodon.social telegram: @carlesbellver RSS"/>
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://carlesbellver.net/" />
-<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="og:updated_time" content="2023-07-15T12:54:23+02:00" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="og:updated_time" content="2024-04-01T16:44:27+02:00" />
 
-<meta name="twitter:title" content="Bloc de notes públic de Carles Bellver Torlà. Retalls, esborranys, experiments. Els meus llibres, també."/>
+<meta name="twitter:title" content="email: carles@carlesbellver.net fediverse: @carlesbellver@mastodon.social telegram: @carlesbellver RSS"/>
 <meta name="twitter:description" content=""/>
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -204,15 +202,8 @@
             
 
   <header class="post-header">
-    <h1 class="post-title p-name"><span id="search_pattern">La vista cansada</span>. <span id="no_hits">1652 pàgines</span></h1>
+    <h1 class="post-title p-name"><span id="search_pattern">La vista cansada</span>. <span id="no_hits">1683 pàgines</span></h1>
   </header>
-  
-    <div class="homepage-content">
-        <p>Bloc de notes públic de <a href="/about/">Carles Bellver Torlà</a>. Retalls, esborranys, experiments. Els meus <a href="/llibres/">llibres</a>, també.</p>
-
-    </div>
-
-<script src="/scripts/search.js"></script>
 
 <form class="search" onSubmit="return false;">
 	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="document.location.href='/archive/?q='+this.value.toLowerCase();">
@@ -220,8 +211,14 @@
 	<input class="reset" role="button" type="reset" value="Reinicia" onClick="document.location.href='/archive/?q='">
 </form>
 
+<script src="/scripts/search.js" defer></script>
+
   <article id="list_results" class="post-list">
-    <p id="srch_notice">S'està carregant l'índex…</p>
+    <p id="srch_notice">S’està carregant l’índex…</p>
+  <noscript>
+    <p>⚠️ No teniu habilitat el Javascript o el vostre navegador no és compatible.
+    <p>Aquesta pàgina utilitza JavaScript per a carregar un índex de les pàgines del lloc i buscar-hi paraules clau.</p>
+    </noscript>
 	
 
         </main>
@@ -236,14 +233,17 @@
           <p>
             
               <a href="/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

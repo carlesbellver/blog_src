@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,16 @@
 
 
 <meta name="og:title" content="YouTube and the music industry are both wrong on Article 13"/>
-<meta property="og:description" content="Julia Reda, eurodiputada pel Partit Pirata d&#39;Alemanya, esciu un nou article sobre els perills de l&#39;infame article 13 de la directiva europea sobre drets d&#39;autor. Considera dos possibles escenaris, ambdós inacceptables: A) que només les &quot;empreses fiables&quot; puguin penjar vídeos (el web com a &quot;televisió per cable 2.0&quot;) i B) que s&#39;acceptin com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar)." />
+<meta property="og:description" content="Julia Reda, eurodiputada pel Partit Pirata d’Alemanya, esciu un nou article sobre els perills de l’infame article 13 de la directiva europea sobre drets d’autor. Considera dos possibles escenaris, ambdós inacceptables:
+Que només les “empreses fiables” puguen penjar vídeos (el web com a &quot;televisió per cable 2.0&quot;). Qe s’accepten com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar)." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2018/11/29/youtube-and-the.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2018-11-29T11:43:00+00:00" />
 <meta property="article:modified_time" content="2018-11-29T11:43:00+00:00" />
 
 <meta name="twitter:title" content="YouTube and the music industry are both wrong on Article 13"/>
-<meta name="twitter:description" content="Julia Reda, eurodiputada pel Partit Pirata d&#39;Alemanya, esciu un nou article sobre els perills de l&#39;infame article 13 de la directiva europea sobre drets d&#39;autor. Considera dos possibles escenaris, ambdós inacceptables: A) que només les &quot;empreses fiables&quot; puguin penjar vídeos (el web com a &quot;televisió per cable 2.0&quot;) i B) que s&#39;acceptin com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar)."/>
+<meta name="twitter:description" content="Julia Reda, eurodiputada pel Partit Pirata d’Alemanya, esciu un nou article sobre els perills de l’infame article 13 de la directiva europea sobre drets d’autor. Considera dos possibles escenaris, ambdós inacceptables:
+Que només les “empreses fiables” puguen penjar vídeos (el web com a &quot;televisió per cable 2.0&quot;). Qe s’accepten com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar)."/>
 
 
 
@@ -106,11 +108,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +129,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +177,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +210,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +219,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://juliareda.eu/2018/11/youtube-article-13/">YouTube and the music industry are both wrong on Article 13</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://juliareda.eu/2018/11/youtube-article-13/">YouTube and the music industry are both wrong on Article 13</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -233,7 +239,12 @@
           
             
           
-          <p><a href="https://ca.wikipedia.org/wiki/Julia_Reda">Julia Reda</a>, eurodiputada pel Partit Pirata d'Alemanya, esciu un nou article sobre els perills de l'infame <a href="https://juliareda.eu/2018/10/copyright-trilogue-positions/#article13">article 13</a> de la directiva europea sobre drets d'autor. Considera dos possibles escenaris, ambdós inacceptables: A) que només les &quot;empreses fiables&quot; puguin penjar vídeos (el web com a &quot;televisió per cable 2.0&quot;) i B) que s'acceptin com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar). En tots dos casos, els principals perjudicats seran els usuaris i creadors individuals.</p>
+          <p><a href="https://ca.wikipedia.org/wiki/Julia_Reda">Julia Reda</a>, eurodiputada pel Partit Pirata d’Alemanya, esciu un nou article sobre els perills de l’infame <a href="https://juliareda.eu/2018/10/copyright-trilogue-positions/#article13">article 13</a> de la directiva europea sobre drets d’autor. Considera dos possibles escenaris, ambdós inacceptables:</p>
+<ol>
+<li>Que només les “empreses fiables” puguen penjar vídeos (el web com a &quot;televisió per cable 2.0&quot;).</li>
+<li>Qe s’accepten com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar).</li>
+</ol>
+<p>En tots dos casos, els principals perjudicats seran els usuaris i creadors individuals.</p>
 
 
         
@@ -278,14 +289,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

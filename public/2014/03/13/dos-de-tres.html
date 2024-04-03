@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,18 +75,18 @@
 
 
 <meta name="og:title" content="Dos de tres, o la màquina del temps"/>
-<meta property="og:description" content="Crec que es pot prestar tota l&#39;atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.
-—Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’
-Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n’hi ha." />
+<meta property="og:description" content="Crec que es pot prestar tota l’atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.
+Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’
+Hi ha gent, i això per a mi és un misteri, que trauen temps d’on creuries que no n’hi ha." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2014/03/13/dos-de-tres.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2014-03-13T23:00:00+00:00" />
 <meta property="article:modified_time" content="2014-03-13T23:00:00+00:00" />
 
 <meta name="twitter:title" content="Dos de tres, o la màquina del temps"/>
-<meta name="twitter:description" content="Crec que es pot prestar tota l&#39;atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.
-—Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’
-Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n’hi ha."/>
+<meta name="twitter:description" content="Crec que es pot prestar tota l’atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.
+Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’
+Hi ha gent, i això per a mi és un misteri, que trauen temps d’on creuries que no n’hi ha."/>
 
 
 
@@ -110,11 +110,9 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -133,7 +131,7 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -181,7 +179,7 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -214,7 +212,7 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -223,8 +221,7 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">Dos de tres, o la màquina del temps</h1>
+      <header class="post-header"><h1 class="post-title">Dos de tres, o la màquina del temps</h1>
 
       
       
@@ -232,7 +229,7 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -245,10 +242,10 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
             
           
           <blockquote>
-<p>Crec que es pot prestar tota l'atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.</p>
+<p>Crec que es pot prestar tota l’atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.</p>
 </blockquote>
-<p>—<a href="http://www.threemonkeysonline.com/als/_lydia_davis_samuel_johnson_is_indignant.html">Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’</a></p>
-<p>Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n’hi ha. Els seus dies pareix que tinguin vint-i-cinc o vint-i-sis hores, o més. Els meus, en canvi, amb prou feines en tenen vint-i-quatre. Això, o gaudeixen d’una secreta màquina del temps: un dispositiu, no per a viatjar-hi, sinó que en fabrica… O el falsifica? Es pot encunyar temps fals?</p>
+<p><img class="icon" src="https://carlesbellver.net/svg.icons/link.svg" /> <a href="http://www.threemonkeysonline.com/als/_lydia_davis_samuel_johnson_is_indignant.html">Interview with Lydia Davis, author of ‘Samuel Johnson is indignant’</a></p>
+<p>Hi ha gent, i això per a mi és un misteri, que trauen temps d’on creuries que no n’hi ha. Els seus dies pareix que tinguen vint-i-cinc o vint-i-sis hores, o més. Els meus, en canvi, amb prou feines arriben a vint-i-quatre. O potser gaudeixen d’una secreta màquina del temps: un dispositiu, no per a viatjar-hi, sinó que en fabrica… O el falsifica? Es pot encunyar temps fals?</p>
 
 
         
@@ -293,14 +290,17 @@ Hi ha gent, per a mi és un misteri, que treuen temps d’on creuries que no n�
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

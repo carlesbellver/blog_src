@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -76,7 +76,7 @@
 
 <meta name="og:title" content="How progressives could still win the 21st century, by Yanis Varoufakis"/>
 <meta property="og:description" content="Després del col·lapse del bloc soviètic el 1991, i del capitalisme financer el 2008, ens trobem en una nova fase en què el capitalisme s’està morint i el socialisme es nega a nàixer.
-Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la majoria de la gent es pot imaginar la fi del món molt més fàcilment que la fi del capitalisme." />
+Estem davant d’una cruïlla històrica, però, com diu el seu amic Zizek, la majoria de la gent es pot imaginar la fi del món molt més fàcilment que la fi del capitalisme." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2020/10/01/how-progressives-could.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2020-10-01T16:20:42+00:00" />
@@ -84,7 +84,7 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
 
 <meta name="twitter:title" content="How progressives could still win the 21st century, by Yanis Varoufakis"/>
 <meta name="twitter:description" content="Després del col·lapse del bloc soviètic el 1991, i del capitalisme financer el 2008, ens trobem en una nova fase en què el capitalisme s’està morint i el socialisme es nega a nàixer.
-Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la majoria de la gent es pot imaginar la fi del món molt més fàcilment que la fi del capitalisme."/>
+Estem davant d’una cruïlla històrica, però, com diu el seu amic Zizek, la majoria de la gent es pot imaginar la fi del món molt més fàcilment que la fi del capitalisme."/>
 
 
 
@@ -108,11 +108,9 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://thecorrespondent.com/722/how-progressives-could-still-win-the-21st-century-by-yanis-varoufakis/796704541468-c88fabf1">How progressives could still win the 21st century, by Yanis Varoufakis</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://thecorrespondent.com/722/how-progressives-could-still-win-the-21st-century-by-yanis-varoufakis/796704541468-c88fabf1">How progressives could still win the 21st century, by Yanis Varoufakis</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -238,7 +242,7 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
           <blockquote>
 <p>Després del col·lapse del bloc soviètic el 1991, i del capitalisme financer el 2008, ens trobem en una nova fase en què el capitalisme s’està morint i el socialisme es nega a nàixer.</p>
 </blockquote>
-<p>Estem davant d'una cruïlla històrica, però, com diu el seu amic Zizek, la majoria de la gent es pot imaginar la fi del món molt més fàcilment que la fi del capitalisme. Sortosament, Varoufakis té més imaginació que la majoria, i una imaginació suficientment concreta en termes econòmics per a esbossar un postcapitalisme que sigui alhora versemblant i esperançador.</p>
+<p>Estem davant d’una cruïlla històrica, però, com diu el seu amic Zizek, la majoria de la gent es pot imaginar la fi del món molt més fàcilment que la fi del capitalisme. Sortosament, Varoufakis té més imaginació que la majoria, i una imaginació suficientment concreta en termes econòmics per a esbossar un postcapitalisme que siga alhora versemblant i esperançador.</p>
 
 
         
@@ -283,14 +287,17 @@ Estem davant d&#39;una cruïlla històrica, però, com diu el seu amic Zizek, la
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

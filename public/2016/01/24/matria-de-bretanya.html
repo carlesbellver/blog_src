@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="Matèria de Bretanya"/>
-<meta property="og:description" content="📖 Vaig llegir Matèria de Bretanya, de Carmelina Sánchez-Cutillas, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors." />
+<meta property="og:description" content="Vaig llegir Matèria de Bretanya, de Carmelina Sánchez-Cutillas, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2016/01/24/matria-de-bretanya.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2016-01-24T23:00:00+00:00" />
 <meta property="article:modified_time" content="2016-01-24T23:00:00+00:00" />
 
 <meta name="twitter:title" content="Matèria de Bretanya"/>
-<meta name="twitter:description" content="📖 Vaig llegir Matèria de Bretanya, de Carmelina Sánchez-Cutillas, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors."/>
+<meta name="twitter:description" content="Vaig llegir Matèria de Bretanya, de Carmelina Sánchez-Cutillas, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,8 +217,7 @@
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">Matèria de Bretanya</h1>
+      <header class="post-header"><h1 class="post-title">Matèria de Bretanya</h1>
 
       
       
@@ -228,7 +225,7 @@
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -241,7 +238,7 @@
             
           
           <img src="https://www.escriptors.cat/sites/default/files/styles/medium/public/2019-02/5219materiabretanya.g.jpg?itok=lusHxDQO" style="height: 250px; width: auto;" />
-<p>📖 Vaig llegir <em>Matèria de Bretanya</em>, de <a href="http://www.escriptors.cat/autors/cutillass/pagina.php?id_sec=2781">Carmelina Sánchez-Cutillas</a>, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors.</p>
+<p><img class="icon" src="https://carlesbellver.net/svg.icons/book.svg" /> Vaig llegir <em>Matèria de Bretanya</em>, de <a href="http://www.escriptors.cat/autors/cutillass/pagina.php?id_sec=2781">Carmelina Sánchez-Cutillas</a>, fa molts anys, potser trenta, quan jo en tenia al voltant de divuit. El vaig traure en préstec a la biblioteca municipal del carrer Major de Castelló i allí l’he tornat a buscar fa uns dies i l’he rellegit. Seria, possiblement, el mateix exemplar de llavors.</p>
 <p>Un llibre fascinant, d’una fama més que justa, premi Octubre-Andròmina de narrativa de 1975 i reeditat moltes vegades. Però no és del llibre que volia escriure ací quatre ratlles. Tampoc no vull desvelar la raó del títol: la referència a la cèlebre <a href="https://fr.wikipedia.org/wiki/Mati%C3%A8re_de_Bretagne">matèria de Bretanya</a> o cicle artúric. Simplement em proposava deixar una nota sobre l’origen d’aquesta denominació, encunyada pel poeta francès <a href="https://fr.wikipedia.org/wiki/Jean_Bodel">Jean Bodel</a>, cap a l’any 1200, al pròleg de la <em>Chanson des Saisnes</em> (“Cançó dels saxons”), poema èpic sobre la guerra de Carlemany amb els saxons:</p>
 <blockquote>
 <p>Ne sont que .iij. matieres à nul home antandant:<br>
@@ -260,7 +257,7 @@ Les contes de Bretagne sont tellement irréels et séduisants!<br>
 Tandis que ceux de Rome sont savants et chargés de signification<br>
 et que ceux de France voient chaque jour leur authenticité confirmée!</p>
 </blockquote>
-<p>No hi ha més que tres temes, doncs: els de França, els de Bretanya i els de Roma la gran. El realisme modern, el conte fantàstic i el cànon clàssic, podríem dir-ne, en una interpretació actualitzada i personalment esbiaixada. Cadascú pren les seves opcions, segons les seves possibilitats i d’acord amb les seves necessitats. No caldrà dir quina mena de narracions, irreals i seductores, em van captivar a mi quan era jovenet, i em van acostar per l’atzar d’un títol al text de Carmelina. El qual, confesse, he sabut entendre —i apreciar— molt millor ara, passats alguns decennis.</p>
+<p>No hi ha més que tres temes, doncs: els de França, els de Bretanya i els de Roma la gran. El realisme modern, el conte fantàstic i el cànon clàssic, podríem dir-ne, en una interpretació actualitzada i personalment esbiaixada. Cadascú pren les seues opcions, segons les seues possibilitats i d’acord amb les seues necessitats. No caldrà dir quina mena de narracions, irreals i seductores, em van captivar a mi quan era jovenet, i em van acostar per l’atzar d’un títol al text de Carmelina. El qual, confesse, he sabut entendre —i apreciar— molt millor ara, passats alguns decennis.</p>
 <img src="https://carlesbellver.net/uploads/2019/c9f022d810.jpg" />
 
 
@@ -306,14 +303,17 @@ et que ceux de France voient chaque jour leur authenticité confirmée!</p>
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

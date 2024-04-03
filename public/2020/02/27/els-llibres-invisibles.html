@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,7 +75,7 @@
 
 
 <meta name="og:title" content="Els llibres invisibles"/>
-<meta property="og:description" content="Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se&#39;m va acudir ensenyar tres llibres amb la intenció d&#39;emmarcar la meva idea de la literatura i les meves aspiracions —la meva ambició— com a escriptor: els contes curts de La muralla china de Kafka, els poemes de Los conjurados de Borges i les proses de Diana i la mar Morta de Joan Perucho." />
+<meta property="og:description" content="Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se’m va acudir ensenyar tres llibres amb la intenció d’emmarcar la meua idea de la literatura i les meues aspiracions —la meua ambició— com a escriptor: els contes curts de La muralla china de Kafka, els poemes de Los conjurados de Borges i les proses de Diana i la mar Morta de Joan Perucho." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2020/02/27/els-llibres-invisibles.html" /><meta property="og:image" content="https://carlesbellver.net/uploads/2020/42d892e469.jpg" />
 <meta property="article:published_time" content="2020-02-27T17:48:00+00:00" />
@@ -84,7 +84,7 @@
 <meta name="twitter:image" content="https://carlesbellver.net/uploads/2020/42d892e469.jpg"/>
 
 <meta name="twitter:title" content="Els llibres invisibles"/>
-<meta name="twitter:description" content="Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se&#39;m va acudir ensenyar tres llibres amb la intenció d&#39;emmarcar la meva idea de la literatura i les meves aspiracions —la meva ambició— com a escriptor: els contes curts de La muralla china de Kafka, els poemes de Los conjurados de Borges i les proses de Diana i la mar Morta de Joan Perucho."/>
+<meta name="twitter:description" content="Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se’m va acudir ensenyar tres llibres amb la intenció d’emmarcar la meua idea de la literatura i les meues aspiracions —la meua ambició— com a escriptor: els contes curts de La muralla china de Kafka, els poemes de Los conjurados de Borges i les proses de Diana i la mar Morta de Joan Perucho."/>
 
 
 
@@ -108,11 +108,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,8 +219,7 @@
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">Els llibres invisibles</h1>
+      <header class="post-header"><h1 class="post-title">Els llibres invisibles</h1>
 
       
       
@@ -230,7 +227,7 @@
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -243,10 +240,10 @@
             
           
           <img src="https://carlesbellver.net/uploads/2020/42d892e469.jpg" width="600" height="600" alt="Joan Perucho: Els homes invisibles (Comanegra, 2020)" />
-<p>Al febrer de 2014, quan vaig presentar <a href="https://carlesbellver.net/llibres/lanitmildos/"><em>La nit mil dos</em></a> a Castelló, se'm va acudir ensenyar tres llibres amb la intenció d'emmarcar la meva idea de la literatura i les meves aspiracions —la meva <a href="https://carlesbellver.net/2018/02/20/103003.html">ambició</a>— com a escriptor: els contes curts de <em>La muralla china</em> de Kafka, els poemes de <em>Los conjurados</em> de Borges i les proses de <em>Diana i la mar Morta</em> de Joan Perucho. Sabia que aquesta no era una de les obres més celebrades de Perucho, i em pareixia —em pareix— que havia estat, fins i tot, menystinguda. A mi, tanmateix, em fascinaven el misteri, l'ambigüitat i l'evocació poètica d'aquell estrany <em>puzzle</em>, que no ho deia tot i suggeria molt. Per això m'alegra tant que s'hagi tornat a reeditar, aquesta vegada amb tota la cura que crec que mereix, i acompanyat d'un altre títol que també es feia difícil de trobar: <em>Cendres i diamants</em> (el meu exemplar, aconseguit mitjançant una llibreria de vell, porta el segell dels Serveis Terriorials de Cultura).</p>
-<p>En <a href="http://comanegra.com/ficcio/599-els-homes-invisibles-joan-perucho.html"><em>Els homes invisibles</em></a> (Comanegra, 2020), s'hi recullen, doncs, formant una sorprenent unitat, el primer Perucho, de 1953, i el darrer, de 1989. Edició a càrrec de Julià Guillamon i Jordi Puig i deliciós epíleg de Marina Espasa. Jo també <a href="https://carlesbellver.net/2015/06/25/230000.html">envege</a>, com ella, qui pugui ara llegir per primera vegada aquestes pàgines extraordinàries.</p>
+<p>Al febrer de 2014, quan vaig presentar <a href="https://carlesbellver.net/llibres/lanitmildos/"><em>La nit mil dos</em></a> a Castelló, se’m va acudir ensenyar tres llibres amb la intenció d’emmarcar la meua idea de la literatura i les meues aspiracions —la meua <a href="https://carlesbellver.net/2018/02/20/103003.html">ambició</a>— com a escriptor: els contes curts de <em>La muralla china</em> de Kafka, els poemes de <em>Los conjurados</em> de Borges i les proses de <em>Diana i la mar Morta</em> de Joan Perucho. Sabia que aquesta no era una de les obres més celebrades de Perucho, i em pareixia —em pareix— que havia estat, fins i tot, menystinguda. A mi, tanmateix, em fascinaven el misteri, l’ambigüitat i l’evocació poètica d’aquell estrany <em>“puzle”</em>, que no ho deia tot i suggeria molt. Per això m’alegra tant que s’haja tornat a reeditar, aquesta vegada amb tota la cura que crec que mereix, i acompanyat d’un altre títol que també es feia difícil de trobar: <em>Cendres i diamants</em> (el meu exemplar, aconseguit mitjançant una llibreria de vell, porta el segell dels Serveis Terriorials de Cultura).</p>
+<p>En <a href="http://comanegra.com/ficcio/599-els-homes-invisibles-joan-perucho.html"><em>Els homes invisibles</em></a> (Comanegra, 2020), s’hi recullen, doncs, formant una sorprenent unitat, el primer Perucho, de 1953, i el darrer, de 1989. L’edició ha anat a càrrec de Julià Guillamon i Jordi Puig, i signa el deliciós epíleg Marina Espasa. Jo també <a href="https://carlesbellver.net/2015/06/25/230000.html">envege</a>, com ella, qui puga ara llegir per primera vegada aquestes pàgines extraordinàries.</p>
 <blockquote>
-<p>I deixa el lector a la vora de l'abisme, perquè acaba de veure l'invisible però també té ganes d'un got de vermut.</p>
+<p>I deixa el lector a la vora de l’abisme, perquè acaba de veure l’invisible però també té ganes d’un got de vermut.</p>
 </blockquote>
 
 
@@ -292,14 +289,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

@@ -10,14 +10,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>Carles Bellver Torlà :: I&#39;m Not The Product, But I Play One On The Internet</title>
+<title>Carles Bellver Torlà :: I’m Not The Product, But I Play One On The Internet</title>
 <meta name="author" content="Carles Bellver Torlà">
 <meta name="description" content="">
 
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -74,17 +74,17 @@
 
 
 
-<meta name="og:title" content="I&#39;m Not The Product, But I Play One On The Internet"/>
+<meta name="og:title" content="I’m Not The Product, But I Play One On The Internet"/>
 <meta property="og:description" content="Lectura obligatòria sobre les confusions i la manipulació darrere del mantra “Si no pagues pel producte, tu ets el producte”.
-Com si només poguéssim ser o client o producte, com si no pagar impliqués no poder queixar-se, com si les companyies a què paguem religiosament ens tractessin d’allò més bé i no comerciessin amb les nostres dades (p." />
+Com si només poguérem ser o client o producte, com si no pagar implicara no poder queixar-se, com si les companyies a què paguem religiosament ens tractaren escrupulosament i no comerciaren mai amb les nostres dades (p." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2013/02/01/im-not-the.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2013-02-01T23:00:00+00:00" />
 <meta property="article:modified_time" content="2013-02-01T23:00:00+00:00" />
 
-<meta name="twitter:title" content="I&#39;m Not The Product, But I Play One On The Internet"/>
+<meta name="twitter:title" content="I’m Not The Product, But I Play One On The Internet"/>
 <meta name="twitter:description" content="Lectura obligatòria sobre les confusions i la manipulació darrere del mantra “Si no pagues pel producte, tu ets el producte”.
-Com si només poguéssim ser o client o producte, com si no pagar impliqués no poder queixar-se, com si les companyies a què paguem religiosament ens tractessin d’allò més bé i no comerciessin amb les nostres dades (p."/>
+Com si només poguérem ser o client o producte, com si no pagar implicara no poder queixar-se, com si les companyies a què paguem religiosament ens tractaren escrupulosament i no comerciaren mai amb les nostres dades (p."/>
 
 
 
@@ -108,11 +108,9 @@ Com si només poguéssim ser o client o producte, com si no pagar impliqués no 
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ Com si només poguéssim ser o client o producte, com si no pagar impliqués no 
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ Com si només poguéssim ser o client o producte, com si no pagar impliqués no 
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ Com si només poguéssim ser o client o producte, com si no pagar impliqués no 
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ Com si només poguéssim ser o client o producte, com si no pagar impliqués no 
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://powazek.com/posts/3229">I&#39;m Not The Product, But I Play One On The Internet</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://powazek.com/posts/3229">I’m Not The Product, But I Play One On The Internet</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -236,8 +240,8 @@ Com si només poguéssim ser o client o producte, com si no pagar impliqués no 
             
           
           <p>Lectura obligatòria sobre les confusions i la manipulació darrere del mantra “Si no pagues pel producte, tu ets el producte”.</p>
-<p>Com si només poguéssim ser o client o producte, com si no pagar impliqués no poder queixar-se, com si les companyies a què paguem religiosament ens tractessin d’allò més bé i no comerciessin amb les nostres dades (p. ex. les dels sectors de l’energia o les comunicacions). Com si estiguéssim obligats a reduir totes les relacions a transaccions comercials.</p>
-<p>En resum: com si fóssim ximplets. Molta ingenuïtat d'una banda —la nostra— i molts estafadors de l'altra.</p>
+<p>Com si només poguérem ser o client o producte, com si no pagar implicara no poder queixar-se, com si les companyies a què paguem religiosament ens tractaren escrupulosament i no comerciaren mai amb les nostres dades (p. ex. les dels sectors de l’energia o les comunicacions). Com si estiguérem obligats a reduir totes les relacions a transaccions comercials.</p>
+<p>En resum: com si fórem ximplets. Molta ingenuïtat d’una banda —la nostra— i molts estafadors de l’altra.</p>
 
 
         
@@ -282,14 +286,17 @@ Com si només poguéssim ser o client o producte, com si no pagar impliqués no 
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

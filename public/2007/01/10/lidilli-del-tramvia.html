@@ -10,14 +10,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>Carles Bellver Torlà :: L&#39;idil·li del tramvia</title>
+<title>Carles Bellver Torlà :: L’idil·li del tramvia</title>
 <meta name="author" content="Carles Bellver Torlà">
 <meta name="description" content="">
 
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -74,17 +74,17 @@
 
 
 
-<meta name="og:title" content="L&#39;idil·li del tramvia"/>
-<meta property="og:description" content="S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobrissin el filó. Recorde, ara, els següents:
-“Una faula”, de Robert Fox, en Sudden Fiction o Ficción súbita (Anagrama). Un noi agafa el metro el primer dia de feina, coneix una noia i el revisor es disposa a casar-los a punt d’arribar a la parada." />
+<meta name="og:title" content="L’idil·li del tramvia"/>
+<meta property="og:description" content="S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobriren el filó. Recorde, ara, els següents:
+“Una faula”, de Robert Fox, en Sudden Fiction o Ficción súbita (Anagrama). Un xic agafa el metro el primer dia de feina, coneix una xica i el revisor es disposa a casar-los a punt d’arribar a la parada." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2007/01/10/lidilli-del-tramvia.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2007-01-10T23:00:00+00:00" />
 <meta property="article:modified_time" content="2007-01-10T23:00:00+00:00" />
 
-<meta name="twitter:title" content="L&#39;idil·li del tramvia"/>
-<meta name="twitter:description" content="S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobrissin el filó. Recorde, ara, els següents:
-“Una faula”, de Robert Fox, en Sudden Fiction o Ficción súbita (Anagrama). Un noi agafa el metro el primer dia de feina, coneix una noia i el revisor es disposa a casar-los a punt d’arribar a la parada."/>
+<meta name="twitter:title" content="L’idil·li del tramvia"/>
+<meta name="twitter:description" content="S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobriren el filó. Recorde, ara, els següents:
+“Una faula”, de Robert Fox, en Sudden Fiction o Ficción súbita (Anagrama). Un xic agafa el metro el primer dia de feina, coneix una xica i el revisor es disposa a casar-los a punt d’arribar a la parada."/>
 
 
 
@@ -108,11 +108,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,8 +219,7 @@
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">L&#39;idil·li del tramvia</h1>
+      <header class="post-header"><h1 class="post-title">L’idil·li del tramvia</h1>
 
       
       
@@ -230,7 +227,7 @@
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -242,14 +239,14 @@
           
             
           
-          <p>S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobrissin el filó. Recorde, ara, els següents:</p>
+          <p>S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobriren el filó. Recorde, ara, els següents:</p>
 <ul>
-<li>“Una faula”, de Robert Fox, en <em>Sudden Fiction</em> o <em>Ficción súbita</em> (Anagrama). Un noi agafa el metro el primer dia de feina, coneix una noia i el revisor es disposa a casar-los a punt d’arribar a la parada.</li>
-<li>“Ómnibus”, de Julio Cortázar, en <em>Bestiario</em> (Alfaguara). El noi i la noia aconsegueixen baixar abans que el trajecte, que ha esdevingut un malson, acabi malament.</li>
-<li>“Idil·li en tramvia”, de Josep Carner, en <em>Contes del noucentisme</em> (Granica). En baixar la noia estrangera i rossa, el narrador s’adona que és coixa, pobreta.</li>
+<li>“Una faula”, de Robert Fox, en <em>Sudden Fiction</em> o <em>Ficción súbita</em> (Anagrama). Un xic agafa el metro el primer dia de feina, coneix una xica i el revisor es disposa a casar-los a punt d’arribar a la parada.</li>
+<li>“Ómnibus”, de Julio Cortázar, en <em>Bestiario</em> (Alfaguara). El xic i la xica aconsegueixen baixar abans que el trajecte, que ha esdevingut un malson, acabe malament.</li>
+<li>“Idil·li en tramvia”, de Josep Carner, en <em>Contes del noucentisme</em> (Granica). En baixar la jove estrangera i rossa, el narrador s’adona que és coixa, pobreta.</li>
 </ul>
-<p>M'ha fet pensar-hi la relació amorosa de les nostres autoritats amb aqueix fals tramvia, que ells es complauen a anomenar emfàticament “transport de via reservada”, o també “bus guiat”, tot i que no pareix que sigui res més que una versió poc actualitzada del vell troleibús que ja va recórrer Castelló el mil nou-cents seixanta i tants.</p>
-<p>Sigui com vulgui, la primera línia anirà des de l’Àgora de la Universitat fins al Parc de Ribalta. Abans, però, caldrà construir un nou pont sobre el Riu Sec, i això retardarà la inauguració almenys fins a setembre. Diuen, tanmateix, que l’avinentesa de les eleccions pot fer convenient que al maig circuli ja “en proves”, encara que s’hagi d’aturar en arribar al riu.</p>
+<p>M’ha fet pensar-hi la relació amorosa de les nostres autoritats amb aqueix fals tramvia, que ells es complauen a anomenar emfàticament “transport de via reservada”, o també “bus guiat”, tot i que no pareix que siga res més que una versió poc actualitzada del vell troleibús que ja va recórrer Castelló el mil nou-cents seixanta i tants.</p>
+<p>Siga com vulga, la primera línia anirà des de l’Àgora de la Universitat fins al Parc de Ribalta. Abans, però, caldrà construir un nou pont sobre el Riu Sec, i això retardarà la inauguració almenys fins a setembre. Diuen, tanmateix, que l’avinentesa de les eleccions pot fer convenient que al maig circule ja “en proves”, encara que s’haja d’aturar en arribar al riu.</p>
 <p>Em represente, doncs, uns viatgers —entre els quals, potser, una parella de nous enamorats— que són amablement convidats a baixar del vehicle en una mena d’atzucac, davant d’un riu sense aigua d’allò més semblant a la fi del món. I aquesta atmosfera grotesca, irreal, em convenç una vegada més que la vida imita l’art. Sens dubte, els guionistes d’alguns polítics d’aquestes contrades són genis no reconeguts de la literatura imaginativa.</p>
 
 
@@ -293,14 +290,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

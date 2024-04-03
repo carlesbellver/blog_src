@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -76,7 +76,7 @@
 
 <meta name="og:title" content="L’autoritat de l’inescrutable: entrevista amb Cathy O’Neil"/>
 <meta property="og:description" content="Ex-analista en el sector financer i autora del llibre Armas de destrucción matemática. Els algoritmes es dissenyen “a mida, en funció dels motius, valors i ideologies dels seus creadors” (o més aviat dels qui paguen als creadors). Per exemple:
-La idea de fer servir algoritmes per classificar la gent com a «no assegurable» és més aviat digna d’una distopia de ciència-ficció barroera, però és el mecanisme bàsic que fa servir la indústria de les assegurances avui en dia." />
+La idea de fer servir algoritmes per classificar la gent com a “no assegurable” és més aviat digna d’una distopia de ciència-ficció barroera, però és el mecanisme bàsic que fa servir la indústria de les assegurances avui en dia." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2019/01/23/lautoritat-de-linescrutable.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2019-01-23T08:55:00+00:00" />
@@ -84,7 +84,7 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
 
 <meta name="twitter:title" content="L’autoritat de l’inescrutable: entrevista amb Cathy O’Neil"/>
 <meta name="twitter:description" content="Ex-analista en el sector financer i autora del llibre Armas de destrucción matemática. Els algoritmes es dissenyen “a mida, en funció dels motius, valors i ideologies dels seus creadors” (o més aviat dels qui paguen als creadors). Per exemple:
-La idea de fer servir algoritmes per classificar la gent com a «no assegurable» és més aviat digna d’una distopia de ciència-ficció barroera, però és el mecanisme bàsic que fa servir la indústria de les assegurances avui en dia."/>
+La idea de fer servir algoritmes per classificar la gent com a “no assegurable” és més aviat digna d’una distopia de ciència-ficció barroera, però és el mecanisme bàsic que fa servir la indústria de les assegurances avui en dia."/>
 
 
 
@@ -108,11 +108,9 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://lab.cccb.org/ca/lautoritat-de-linescrutable-entrevista-amb-cathy-oneil/">L’autoritat de l’inescrutable: entrevista amb Cathy O’Neil</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://lab.cccb.org/ca/lautoritat-de-linescrutable-entrevista-amb-cathy-oneil/">L’autoritat de l’inescrutable: entrevista amb Cathy O’Neil</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -237,9 +241,9 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
           
           <p>Ex-analista en el sector financer i autora del llibre <em>Armas de destrucción matemática</em>. Els algoritmes es dissenyen “a mida, en funció dels motius, valors i ideologies dels seus creadors” (o més aviat dels qui paguen als creadors). Per exemple:</p>
 <blockquote>
-<p>La idea de fer servir algoritmes per classificar la gent com a «no assegurable» és més aviat digna d’una distopia de ciència-ficció barroera, però és el mecanisme bàsic que fa servir la indústria de les assegurances avui en dia.</p>
+<p>La idea de fer servir algoritmes per classificar la gent com a “no assegurable” és més aviat digna d’una distopia de ciència-ficció barroera, però és el mecanisme bàsic que fa servir la indústria de les assegurances avui en dia.</p>
 </blockquote>
-<p>Però la indústria de les assegurances ja procurava triar bé els clients abans que s'inventessin els ordinadors. Com qualsevol altra indústria en un sistema capitalista, busca augmentar els beneficis, no ajudar la gent. Els ordinadors, la capacitat de processar grans quantitats de dades, fan més eficient la tria. L'arrel de la distopia, per tant, rau al sistema, no en el fet d'utilitzar algoritmes. La utopia també necessitarà algoritmes.</p>
+<p>Però la indústria de les assegurances ja procurava triar bé els clients abans que s’inventaren els ordinadors. Com qualsevol altra indústria en un sistema capitalista, busca augmentar els beneficis, no ajudar la gent. Els ordinadors, la capacitat de processar grans quantitats de dades, fan més eficient la tria. L’arrel de la distopia, per tant, rau en el sistema, no en el fet d’utilitzar algoritmes. La utopia també necessitarà algoritmes.</p>
 
 
         
@@ -284,14 +288,17 @@ La idea de fer servir algoritmes per classificar la gent com a «no assegurable�
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

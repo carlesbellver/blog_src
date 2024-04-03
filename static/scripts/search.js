@@ -7,8 +7,13 @@ if (q) {
   document.getElementById('input_search').value = q;
 }
 
-var archive_items = {};
+var archive_items = [];
 downloadArchive(q);
+
+// let miniSearch = new MiniSearch({
+//   fields: ['title', 'content_text'], // fields to index for full-text search
+//   storeFields: ['title', 'url'] // fields to return with search results
+// });
 
 function downloadArchive(q) {
   var xmlhttp = new XMLHttpRequest();
@@ -17,8 +22,11 @@ function downloadArchive(q) {
       archive_items = JSON.parse(this.responseText);
       var notice = document.getElementById("srch_notice");
       notice.innerHTML = "";
+      // console.log("Count: " + archive_items.length);
+      // miniSearch.addAll(archive_items);
       if (q) {
         runSearch(q);
+				// let results = miniSearch.search(q);
       }
       else {
         displayResults(archive_items);

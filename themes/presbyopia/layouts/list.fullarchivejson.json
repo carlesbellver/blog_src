@@ -13,4 +13,4 @@
 			{{- if ne (add $index 1) $len -}},{{- end -}}
 			{{ end -}}
 		{{ end }}
-	]
+]

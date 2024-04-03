@@ -6,12 +6,53 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
-        "id": "/2023/07/14/roman/",
-        "title": "La novel·la de Wittgenstein",
-        "date_published": "2023-07-14T16:35:45+02:00",
-        "url": "/2023/07/14/roman/",
-        "image": "https://carlesbellver.net/uploads/2023/2023-07-13-roman.jpg",
-        "content_text": " Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein.\n"
+        "id": "/2024/03/21/quine/",
+        "date_published": "2024-03-21T17:42:29+01:00",
+        "url": "/2024/03/21/quine/",
+        "image": "https://carlesbellver.net/uploads/2024/2024-03-21-autor.jpg",
+        "content_text": " Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error …"
+    },
+    {
+        "id": "/2024/02/23/75500/",
+        "date_published": "2024-02-23T09:05:15+01:00",
+        "url": "/2024/02/23/75500/",
+        "image": "https://carlesbellver.net/uploads/2024/2024-02-23-75500.jpg",
+        "content_text": "El nostre PA de cada dia.\n"
+    },
+    {
+        "id": "/2024/01/25/05933/",
+        "date_published": "2024-01-25T19:05:51+01:00",
+        "url": "/2024/01/25/05933/",
+        "image": "https://carlesbellver.net/uploads/2024/2024-01-25-05933.jpg",
+        "content_text": "Perdem facultats. O si més no alguna lletra.\n"
+    },
+    {
+        "id": "/2023/12/17/16395/",
+        "date_published": "2023-12-17T13:33:29+01:00",
+        "url": "/2023/12/17/16395/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-12-17-16395.jpg",
+        "content_text": "Operación Ogro.\n"
+    },
+    {
+        "id": "/2023/11/25/placa-del-llibre/",
+        "date_published": "2023-11-25T19:58:57+01:00",
+        "url": "/2023/11/25/placa-del-llibre/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-11-25-placa-del-llibre.jpg",
+        "content_text": "Plaça del Llibre de Castelló.\n"
+    },
+    {
+        "id": "/2023/10/11/nit-mil-dos/",
+        "date_published": "2023-10-11T18:30:26+02:00",
+        "url": "/2023/10/11/nit-mil-dos/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-10-11-nit-mil-dos.jpg",
+        "content_text": "Per circumstàncies del cicle vital dels llibres —i les llibreries—, aquesta setmana he tingut l’ocasió d’aconseguir …"
+    },
+    {
+        "id": "/2023/07/22/49043/",
+        "date_published": "2023-07-22T20:04:25+02:00",
+        "url": "/2023/07/22/49043/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-07-22-49043.jpg",
+        "content_text": "Ascensor parroquial. ↑ cel ↓ infern però sempre amb la màxima comoditat.\n"
     },
     {
         "id": "/2023/06/03/15301/",
@@ -89,7 +130,7 @@
         "date_published": "2022-10-16T17:18:38+02:00",
         "url": "/2022/10/16/domingo-cerrdo/",
         "image": "https://carlesbellver.net/uploads/2022/2022-10-16-domingo-cerrdo.jpg",
-        "content_text": "Diumenge porrc. És un fet ben conegut la mala relació d'algunes persones amb el darrer dia de la setmana.\n"
+        "content_text": "Diumenge porrc. És un fet ben conegut la mala relació d’algunes persones amb el darrer dia de la setmana.\n"
     },
     {
         "id": "/2022/08/23/bombes/",
@@ -110,7 +151,7 @@
         "date_published": "2022-05-06T19:07:01+00:00",
         "url": "/2022/05/06/fusteries/",
         "image": "https://carlesbellver.net/uploads/2022/2022-05-06-fusteries.jpg",
-        "content_text": "📖 Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que …"
+        "content_text": " Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que …"
     },
     {
         "id": "/2022/04/30/far-west/",
@@ -159,7 +200,7 @@
         "date_published": "2022-02-05T20:30:13+01:00",
         "url": "/2022/02/05/correus/",
         "image": "https://carlesbellver.net/uploads/2022/2022-02-05-correus.jpg",
-        "content_text": "L'estranger, Castelló i Espanya. Sense dret a correspondència.\n"
+        "content_text": "L’estranger, Castelló i Espanya. Sense dret a correspondència.\n"
     },
     {
         "id": "/2022/02/04/arameu/",
@@ -180,7 +221,7 @@
         "date_published": "2022-01-17T16:51:33+01:00",
         "url": "/2022/01/17/pastures-uji/",
         "image": "https://carlesbellver.net/uploads/2022/2022-01-17-pastures-uji.jpg",
-        "content_text": "Les pastures de l'#UJI. Descansar en prats deliciosos.\n"
+        "content_text": "Les pastures de l’#UJI. Descansar en prats deliciosos.\n"
     },
     {
         "id": "/2022/01/08/dedans/",
@@ -215,14 +256,14 @@
         "date_published": "2021-12-12T08:13:17+01:00",
         "url": "/2021/12/12/93196/",
         "image": "https://carlesbellver.net/uploads/2021/2021-12-12-93196.jpg",
-        "content_text": "L'última ressaca 🎵\n"
+        "content_text": "L’última ressaca 🎵\n"
     },
     {
         "id": "/2021/11/29/97227/",
         "date_published": "2021-11-29T15:47:08+01:00",
         "url": "/2021/11/29/97227/",
         "image": "https://carlesbellver.net/uploads/2021/2021-11-29-97227.jpg",
-        "content_text": "En companyia d'ànecs.\n"
+        "content_text": "En companyia d’ànecs.\n"
     },
     {
         "id": "/2021/11/20/bon-dia/",
@@ -257,14 +298,14 @@
         "date_published": "2021-11-06T14:02:05+01:00",
         "url": "/2021/11/06/arqueologia-aigua/",
         "image": "https://carlesbellver.net/uploads/2021/2021-11-06-arqueologia-aigua.jpg",
-        "content_text": "Arqueologia de l'aigua.\n"
+        "content_text": "Arqueologia de l’aigua.\n"
     },
     {
         "id": "/2021/11/04/n-est-pas-un-livre/",
         "date_published": "2021-11-04T18:30:00+01:00",
         "url": "/2021/11/04/n-est-pas-un-livre/",
         "image": "https://carlesbellver.net/uploads/2021/2021-11-04-unicorns.png",
-        "content_text": "Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d'aquesta imatge.\n$ unzip …"
+        "content_text": "Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d’aquesta imatge.\n$ unzip …"
     },
     {
         "id": "/2021/11/01/tots-sants/",
@@ -299,14 +340,14 @@
         "date_published": "2021-10-07T20:19:36+02:00",
         "url": "/2021/10/07/cavall/",
         "image": "https://carlesbellver.net/uploads/2021/2021-10-07-cavall.jpg",
-        "content_text": "La cavalleria de l'#UJI.\n"
+        "content_text": "La cavalleria de l’#UJI.\n"
     },
     {
         "id": "/2021/09/15/asia/",
         "date_published": "2021-09-15T19:14:39+02:00",
         "url": "/2021/09/15/asia/",
         "image": "https://carlesbellver.net/uploads/2021/2021-09-15-asia.jpg",
-        "content_text": "Àsia comença a l'avinguda d'Alcora.\n"
+        "content_text": "Àsia comença a l’avinguda d’Alcora.\n"
     },
     {
         "id": "/2021/08/28/vacances/",
@@ -327,14 +368,14 @@
         "date_published": "2021-08-06T10:43:49+02:00",
         "url": "/2021/08/06/selfi-morella-1414/",
         "image": "https://carlesbellver.net/uploads/2021/2021-08-06-selfi-morella-1414.jpg",
-        "content_text": "Sant Vicent Ferrer, Benet XIII i Ferran I d'Aragó. Selfi a Morella, 1414.\n"
+        "content_text": "Sant Vicent Ferrer, Benet XIII i Ferran I d’Aragó. Selfi a Morella, 1414.\n"
     },
     {
         "id": "/2021/08/02/atzucac-unicorn/",
         "date_published": "2021-08-02T20:06:05+02:00",
         "url": "/2021/08/02/atzucac-unicorn/",
         "image": "https://carlesbellver.net/uploads/2021/2021-08-02-atzucac-unicorn.jpg",
-        "content_text": "L'entrada —enreixada— del misteriós atzucac on renillava l'unicorn, en un racó de la plaça de la Pau.\n"
+        "content_text": "L’entrada —enreixada— del misteriós atzucac on renillava l’unicorn, en un racó de la plaça de la Pau.\n"
     },
     {
         "id": "/2021/07/19/27372/",
@@ -348,14 +389,14 @@
         "date_published": "2021-07-11T18:58:26+02:00",
         "url": "/2021/07/11/silence-delirium-lies/",
         "image": "https://carlesbellver.net/uploads/2021/2021-07-11-silence-delirium-lies.jpg",
-        "content_text": "Això podria ser un petit projecte per a les vacances d'agost.\n"
+        "content_text": "Això podria ser un petit projecte per a les vacances d’agost.\n"
     },
     {
         "id": "/2021/06/12/orxata-boisei/",
         "date_published": "2021-06-12T12:17:04+02:00",
         "url": "/2021/06/12/orxata-boisei/",
         "image": "https://carlesbellver.net/uploads/2021/2021-06-12-orxata-boisei.jpg",
-        "content_text": " S'ha suggerit que l'hominini extingit Paranthropus boisei (l’“home trencanous”) subsistia a base de xufes.\n—Cyperus …"
+        "content_text": " S’ha suggerit que l’hominini extingit Paranthropus boisei (l’“home trencanous”) subsistia a base de xufes.\n—Cyperus …"
     },
     {
         "id": "/2021/04/21/un-llibre-efimer/",
@@ -377,7 +418,7 @@
         "date_published": "2021-03-08T19:21:12+00:00",
         "url": "/2021/03/08/27672/",
         "image": "https://carlesbellver.net/uploads/2021/2021-03-08-27628.jpg",
-        "content_text": " Jo vull tornar a viure on l’herba\nno és com aquí pur ornament, joia dels ulls\nque dura l'any sencer.\n—Attilio …"
+        "content_text": " Jo vull tornar a viure on l’herba\nno és com aquí pur ornament, joia dels ulls\nque dura l’any sencer.\n—Attilio …"
     },
     {
         "id": "/2021/02/16/61821/",
@@ -455,21 +496,21 @@
         "date_published": "2020-02-27T17:48:00+00:00",
         "url": "/2020/02/27/els-llibres-invisibles.html",
         "image": "https://carlesbellver.net/uploads/2020/42d892e469.jpg",
-        "content_text": " Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se'm va acudir ensenyar tres llibres amb la intenció …"
+        "content_text": " Al febrer de 2014, quan vaig presentar La nit mil dos a Castelló, se’m va acudir ensenyar tres llibres amb la intenció …"
     },
     {
         "id": "/2020/02/25/carrer-dedicat-a.html",
         "date_published": "2020-02-25T20:15:28+00:00",
         "url": "/2020/02/25/carrer-dedicat-a.html",
         "image": "https://carlesbellver.net/uploads/2020/e8e6f119db.jpg",
-        "content_text": "Carrer dedicat a l'organitzador de la Gran Redada, o intent d'exterminació del poble gitano a Espanya (1749). …"
+        "content_text": "Carrer dedicat a l’organitzador de la Gran Redada, o intent d’exterminació del poble gitano a Espanya (1749). …"
     },
     {
         "id": "/2020/02/07/la-galeria-subterrnia.html",
         "date_published": "2020-02-07T12:33:23+00:00",
         "url": "/2020/02/07/la-galeria-subterrnia.html",
         "image": "https://carlesbellver.net/uploads/2020/e645377a12.jpg",
-        "content_text": "La galeria subterrània de l'#UJI no s'acaba mai.\n"
+        "content_text": "La galeria subterrània de l’#UJI no s’acaba mai.\n"
     },
     {
         "id": "/2020/02/05/organic-ethical-chocolate.html",
@@ -477,14 +518,14 @@
         "date_published": "2020-02-05T18:49:13+00:00",
         "url": "/2020/02/05/organic-ethical-chocolate.html",
         "image": "https://carlesbellver.net/uploads/2020/38cb60c68c.jpg",
-        "content_text": "El berenar d'avui.\n"
+        "content_text": "El berenar d’avui.\n"
     },
     {
         "id": "/2020/02/04/philip-k-dick.html",
         "date_published": "2020-02-04T19:03:00+00:00",
         "url": "/2020/02/04/philip-k-dick.html",
         "image": "https://carlesbellver.net/uploads/2020/a3b9424db8.jpg",
-        "content_text": "Philip K. Dick solia consultar l'I Ching. Jo tinc més tirada a les Oblique Strategies de Brian Eno i Peter Schmidt, de …"
+        "content_text": "Philip K. Dick solia consultar l’I Ching. Jo tinc més tirada a les Oblique Strategies de Brian Eno i Peter Schmidt, de …"
     },
     {
         "id": "/2020/01/26/we-dont-need.html",
@@ -505,7 +546,7 @@
         "date_published": "2019-12-12T08:00:06+00:00",
         "url": "/2019/12/12/unicorns-portada-original.html",
         "image": "https://carlesbellver.net/uploads/2019/76acc58c0b.jpg",
-        "content_text": "📖 Unicorns. La portada original.\n"
+        "content_text": " Unicorns. La portada original.\n"
     },
     {
         "id": "/2019/12/11/ajuntament-de-morella.html",
@@ -540,14 +581,14 @@
         "date_published": "2019-10-12T18:23:44+00:00",
         "url": "/2019/10/12/ciclamen.html",
         "image": "https://carlesbellver.net/uploads/2019/d273c21a72.jpg",
-        "content_text": "Ciclamen\n"
+        "content_text": "Ciclamen.\n"
     },
     {
         "id": "/2019/08/25/desprs-duna-llarga.html",
         "date_published": "2019-08-25T19:03:44+00:00",
         "url": "/2019/08/25/desprs-duna-llarga.html",
         "image": "https://carlesbellver.net/uploads/2019/a511a16dcb.jpg",
-        "content_text": "Després d'una llarga nit de malsons, isc al carrer i em trobe una invasió haradrim sota el sol radiant del migdia. …"
+        "content_text": "Després d’una llarga nit de malsons, isc al carrer i em trobe una invasió haradrim sota el sol radiant del migdia. …"
     },
     {
         "id": "/2019/08/17/keep-calm-and.html",
@@ -624,7 +665,7 @@
         "date_published": "2019-03-20T08:42:00+00:00",
         "url": "/2019/03/20/094213.html",
         "image": "https://carlesbellver.net/uploads/2019/8ef9861470.jpg",
-        "content_text": "D’una citació de Niels Bohr:\nQue meravellós que hàgim topat amb una paradoxa. Ara tenim alguna esperança de progressar.\n"
+        "content_text": "D’una citació de Niels Bohr:\nQue meravellós que hàgem topat amb una paradoxa. Ara tenim alguna esperança de progressar.\n"
     },
     {
         "id": "/2019/02/22/125819.html",
@@ -680,21 +721,21 @@
         "date_published": "2018-12-15T13:20:24+00:00",
         "url": "/2018/12/15/142024.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/12/33b0978138ba46d095c204f2d09766c3.jpg",
-        "content_text": "Cap a l’hivern\n"
+        "content_text": "Cap a l’hivern.\n"
     },
     {
         "id": "/2018/12/13/080231.html",
         "date_published": "2018-12-13T07:02:31+00:00",
         "url": "/2018/12/13/080231.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/12/0dc1a867717d40cbbfc41101bc695e05.jpg",
-        "content_text": "Cinquanta-un\n"
+        "content_text": "Cinquanta-un.\n"
     },
     {
         "id": "/2018/11/28/184618.html",
         "date_published": "2018-11-28T17:46:18+00:00",
         "url": "/2018/11/28/184618.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg",
-        "content_text": "Passeig de l'Albereda de Morella. Monument a Manuel González Martí.\n"
+        "content_text": "Passeig de l’Albereda de Morella. Monument a Manuel González Martí.\n"
     },
     {
         "id": "/2018/11/27/104012.html",
@@ -757,14 +798,14 @@
         "date_published": "2018-10-29T17:14:16+00:00",
         "url": "/2018/10/29/181416.html",
         "image": "https://carlesbellver.net/uploads/2018/2018-10-29-mapa-tresor-uji.jpg",
-        "content_text": "Sota d'un pont, a l'est d'una espessor, al nord-oest d'un arbre remarcable… Aquest circuit d'orientació del campus #UJI …"
+        "content_text": "Davall d’un pont, a l’est d’una espessor, al nord-oest d’un arbre remarcable… Aquest circuit d’orientació del campus …"
     },
     {
         "id": "/2018/09/29/184641.html",
         "date_published": "2018-09-29T17:46:41+00:00",
         "url": "/2018/09/29/184641.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/09/7602ba4b7793456ab744eb47160378ec.jpg",
-        "content_text": "Lleonet de jardí\n"
+        "content_text": "Lleonet de jardí.\n"
     },
     {
         "id": "/2018/09/22/181644.html",
@@ -778,7 +819,7 @@
         "date_published": "2018-09-20T06:18:00+00:00",
         "url": "/2018/09/20/071805.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/09/c8c114f451ef46c587b40e5030a8d859.jpg",
-        "content_text": " Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de l'esbalaïment, i quan …"
+        "content_text": " Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de l’esbalaïment, i quan …"
     },
     {
         "id": "/2018/09/19/171509.html",
@@ -806,7 +847,7 @@
         "date_published": "2018-08-11T18:32:10+00:00",
         "url": "/2018/08/11/193210.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/08/715f871c73c547f1b70bec89433517ab.jpg",
-        "content_text": "📖 Dashiell Hammet, Interrogatorios (Errata naturae). Transcripció de les seves declaracions davant del tribunal que el …"
+        "content_text": " Dashiell Hammet, Interrogatorios (Errata naturae). Transcripció de les seves declaracions davant del tribunal que el va …"
     },
     {
         "id": "/2018/08/03/171609.html",
@@ -855,7 +896,7 @@
         "date_published": "2018-07-05T19:27:33+00:00",
         "url": "/2018/07/05/202733.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/07/3894c17a9ee04eed912a1033c10023d9.jpg",
-        "content_text": "La meva opinió ràpida sobre el Gemini PDA: no és perfecte, però si no existís hauria d’inventar-lo algú (encara que fos …"
+        "content_text": "La meua opinió ràpida sobre el Gemini PDA: no és perfecte, però si no existira hauria d’inventar-lo algú (encara que …"
     },
     {
         "id": "/2018/06/20/224406.html",
@@ -925,7 +966,7 @@
         "date_published": "2018-04-01T18:27:06+00:00",
         "url": "/2018/04/01/192706.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/04/b43f51e5aa34472eb14722c810244bb8.jpg",
-        "content_text": "Peanuts Every Sunday. Tires dominicals 1958-1961. Comprat a l’aeroport de Viena el 28 d'octubre de 2001: viatge de …"
+        "content_text": "Peanuts Every Sunday. Tires dominicals 1958-1961. Comprat a l’aeroport de Viena el 28 d’octubre de 2001: viatge de …"
     },
     {
         "id": "/2018/04/01/091229.html",
@@ -946,14 +987,14 @@
         "date_published": "2018-03-22T18:28:04+00:00",
         "url": "/2018/03/22/192804.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/03/af650aa19fde4e00b16e5da0b7cfa08b.jpg",
-        "content_text": "D’entre els fulls d'un llibre vell, llisca un retall d'una columna de Manuel Vázquez Montalbán. “Algo hemos avanzado”, …"
+        "content_text": "D’entre els fulls d’un llibre vell, llisca un retall d’una columna de Manuel Vázquez Montalbán. “Algo hemos avanzado”, …"
     },
     {
         "id": "/2018/03/19/193034.html",
         "date_published": "2018-03-19T18:30:34+00:00",
         "url": "/2018/03/19/193034.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/03/b854a128add64c67b2f0c6389dc8ae0b.jpg",
-        "content_text": "Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatués “I ❤️ Cthulhu”. Però jo sóc …"
+        "content_text": "Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatuara “I ❤️ Cthulhu”. Però jo …"
     },
     {
         "id": "/2018/03/16/185237.html",
@@ -974,7 +1015,7 @@
         "date_published": "2018-03-09T09:23:00+00:00",
         "url": "/2018/03/09/102322.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/03/f1d867e01d2f4d9fb4365a64d9bc37b9.jpg",
-        "content_text": " El sedàs de triar l'arròs va estar molts anys al rebost, quan ja ningú no el feia servir perquè l'arròs ja no es …"
+        "content_text": " El sedàs de triar l’arròs va estar molts anys al rebost, quan ja ningú no el feia servir perquè l’arròs ja no es …"
     },
     {
         "id": "/2018/02/28/180327.html",
@@ -1009,7 +1050,7 @@
         "date_published": "2018-02-17T11:31:13+00:00",
         "url": "/2018/02/17/123113.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/02/5c674f912477416d8ffcd8ef3eaa212a.jpg",
-        "content_text": "Vantage point. Parc de l'Hospital, València.\n"
+        "content_text": "Vantage point. Parc de l’Hospital, València.\n"
     },
     {
         "id": "/2018/02/12/183911.html",
@@ -1030,7 +1071,7 @@
         "date_published": "2018-01-31T17:25:23+00:00",
         "url": "/2018/01/31/182523.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2018/01/img_5617.jpg",
-        "content_text": "El riu Sec. L'Amazònia de Castelló.\n"
+        "content_text": "El riu Sec. L’Amazònia de Castelló.\n"
     },
     {
         "id": "/2018/01/26/165959.html",
@@ -1086,7 +1127,7 @@
         "date_published": "2017-12-15T16:44:15+00:00",
         "url": "/2017/12/15/174415.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2017/12/442cbb7a77e24111b5c1ed9050ae148c.jpg",
-        "content_text": "“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d'Art Contemporani …"
+        "content_text": "“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d’Art Contemporani …"
     },
     {
         "id": "/2017/12/07/160143.html",
@@ -1114,7 +1155,7 @@
         "date_published": "2017-11-25T10:24:30+00:00",
         "url": "/2017/11/25/112430.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2017/11/92434b956e824f909cfe221f2c888545.jpg",
-        "content_text": "La fórmula magistral de l'homuncle.\n"
+        "content_text": "La fórmula magistral de l’homuncle.\n"
     },
     {
         "id": "/2017/11/19/222620.html",
@@ -1170,7 +1211,7 @@
         "date_published": "2017-09-28T16:29:16+00:00",
         "url": "/2017/09/28/172916.html",
         "image": "https://carlesbellver.net/wp-content/uploads/2017/09/96c120053337459884eeb4e52fafa94f.jpg",
-        "content_text": "Obres de la Facultat de Ciències de la Salut. Per construir cal destruir.\n"
+        "content_text": "Obres de la Facultat de Ciències de la Salut. Per a construir cal destruir.\n"
     },
     {
         "id": "/2017/09/18/185627.html",
@@ -1241,7 +1282,7 @@
         "id": "/2016/05/11/management-folklore-fact/",
         "date_published": "2016-05-11T14:38:37+02:00",
         "url": "/2016/05/11/management-folklore-fact/",
-        "image": "https://carlesbellver.net/uploads/2021/2016-05-11-management-folklore-fact.jpg",
+        "image": "https://carlesbellver.net/uploads/2016/2016-05-11-management-folklore-fact.jpg",
         "content_text": "Una de les feines més misterioses.\n"
     },
     {
@@ -1250,7 +1291,7 @@
         "date_published": "2016-01-27T23:00:00+00:00",
         "url": "/2016/01/27/per-allusions-lapocalipsi.html",
         "image": "https://carlesbellver.net/uploads/2019/37645c09de.jpg",
-        "content_text": "\nVaig demanar a Maria Folch que presentés el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria …"
+        "content_text": "\nVaig demanar a Maria Folch que presentara el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria …"
     },
     {
         "id": "/2014/05/06/pensava-demanarhi-asil.html",
@@ -1269,7 +1310,7 @@
     },
     {
         "id": "/2013/12/08/definici-dngel.html",
-        "title": "Definició d'àngel",
+        "title": "Definició d’àngel",
         "date_published": "2013-12-08T23:00:00+00:00",
         "url": "/2013/12/08/definici-dngel.html",
         "image": "https://carlesbellver.net/uploads/2019/9df7696f2e.jpg",
@@ -1313,7 +1354,7 @@
         "date_published": "2003-06-03T21:00:00+00:00",
         "url": "/2003/06/03/bbedit/",
         "image": "https://carlesbellver.net/uploads/2003/2003-06-03-bbedit-anthology.jpg",
-        "content_text": " Fa quasi deu anys vaig programar un conjunt d'extensions per a BBEdit —el millor editor de textos per a Mac, llavors i …"
+        "content_text": " Fa quasi deu anys vaig programar un conjunt d’extensions per a BBEdit —el millor editor de textos per a Mac, llavors i …"
     },
     {
         "id": "/2003/02/14/correo-euclides/",

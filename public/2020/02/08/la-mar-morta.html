@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,14 +75,14 @@
 
 
 <meta name="og:title" content="La mar Morta de Joan Perucho"/>
-<meta property="og:description" content="Diana i la mar Morta (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l&#39;Any Perucho, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d&#39;altres obres, la mar del títol havia començat a aparèixer en minúscula: Diana i la mar morta." />
+<meta property="og:description" content="Diana i la mar Morta (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l’Any Perucho, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d’altres obres, la mar del títol havia començat a aparèixer en minúscula: Diana i la mar morta." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2020/02/08/la-mar-morta.html" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2020-02-08T13:43:00+00:00" />
 <meta property="article:modified_time" content="2020-02-08T13:43:00+00:00" />
 
 <meta name="twitter:title" content="La mar Morta de Joan Perucho"/>
-<meta name="twitter:description" content="Diana i la mar Morta (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l&#39;Any Perucho, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d&#39;altres obres, la mar del títol havia començat a aparèixer en minúscula: Diana i la mar morta."/>
+<meta name="twitter:description" content="Diana i la mar Morta (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l’Any Perucho, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d’altres obres, la mar del títol havia començat a aparèixer en minúscula: Diana i la mar morta."/>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,8 +217,7 @@
     
 
 
-      <header class="post-header">
-        <h1 class="post-title">La mar Morta de Joan Perucho</h1>
+      <header class="post-header"><h1 class="post-title">La mar Morta de Joan Perucho</h1>
 
       
       
@@ -228,7 +225,7 @@
       
       
 
-      </header>      
+      </header>
             
       <div class="content e-content">
                   
@@ -240,19 +237,20 @@
           
             
           
-          <p><em>Diana i la mar Morta</em> (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l'<a href="https://cultura.gencat.cat/ca/temes/commemoracions/2020/anyjoanperucho/">Any Perucho</a>, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d'altres obres, la mar del títol havia començat a aparèixer en minúscula: <em>Diana i la mar morta</em>. És evident que aquest canvi tipogràfic, que en modifica el sentit, s'hauria d'haver justificat, i no em consta que s'hagi fet. La <a href="https://ca.wikipedia.org/wiki/Mar_Morta">mar Morta</a>, en majúscula, és el cèlebre llac salat entre Cisjordània, Israel i Jordània. En minúscula, tanmateix, seria una mar qualsevol, o la mar en abstracte. Perucho havia utilitzat sempre la majúscula. Per exemple, en el preàmbul de l'edició original:</p>
+          <p><em>Diana i la mar Morta</em> (1953) va ser el primer llibre de prosa de Joan Perucho. He llegit que ara, en ocasió de l’<a href="https://cultura.gencat.cat/ca/temes/commemoracions/2020/anyjoanperucho/">Any Perucho</a>, es tornarà a reeditar molt aviat. No sé per què, en algunes edicions recents, i en fer-ne esment dins d’altres obres, la mar del títol havia començat a aparèixer en minúscula: <em>Diana i la mar morta</em>. És evident que aquest canvi tipogràfic, que en modifica el sentit, s’hauria d’haver justificat, i no em consta que s’haja fet. La <a href="https://ca.wikipedia.org/wiki/Mar_Morta">mar Morta</a>, en majúscula, és el cèlebre llac salat entre Cisjordània, Israel i Jordània. En minúscula, tanmateix, seria una mar qualsevol, o la mar en abstracte. Perucho havia utilitzat sempre la majúscula. Per exemple, en el preàmbul de l’edició original:</p>
 <blockquote>
-<p>Quant al títol, he conservat el de «Diana i la Mar Morta», si bé vaig estar temptat d'afegir-hi la paraula anglesa «puzzle». El meu amic, l'escriptor Salvador Espriu, m'aconsellà de substituir-la per qualsevol altra, per exemple, «mosaic». Finalment, no he tocat res.</p>
+<p>Quant al títol, he conservat el de «Diana i la Mar Morta», si bé vaig estar temptat d’afegir-hi la paraula anglesa <em>«puzzle»</em>. El meu amic, l’escriptor Salvador Espriu, m’aconsellà de substituir-la per qualsevol altra, per exemple, «mosaic». Finalment, no he tocat res.</p>
 </blockquote>
 <p>O dins del mateix llibre, en la peça que li dona títol:</p>
 <blockquote>
 <p>Diana era una noia que estudiava a la Facultat de Lletres de Madrid. Va tenir un flirt amb un jove professor de Geografia. En una ocasió, li va regalar el llibre de Constantin Zoubichryn, <em>La Mar Morta</em>, que l’apassionà enormement i enfortí la seva vocació. El jove professor havia declarat que el seu amor era més fort que la mort. Projectà de fer oposicions a càtedra i casar-se.</p>
 <p>Tinc l’exemplar de <em>La Mar Morta</em> i conec aquests detalls perquè, durant la guerra, els qui estàvem al servei de les armes sabíem coses insospitades.</p>
 </blockquote>
-<p>Una altra d'aquelles peces, &quot;Exercici literari&quot;, resultava, potser, geogràficament ambigua, o confusa, ja que s'hi barrejaven la mar Morta i Alexandreta, o <a href="https://ca.wikipedia.org/wiki/%C4%B0skenderun">Iskenderun</a>, que és més al nord i a la vora del Mediterrani… Però la referència que em pareix definitiva es troba dins del poemari <em>Itineraris d'Orient</em> (Edicions 62, 1985, p. 65):</p>
+<p>Malauradament, la referència al tal Zoubichryn no ens serveix de res, ja que pareix ser un autor inventat per Perucho. Una altra de les peces del llibre, &quot;Exercici literari&quot;, resulta, potser, geogràficament ambigua, o confusa, ja que s’hi barregen la mar Morta i Alexandreta, o <a href="https://ca.wikipedia.org/wiki/%C4%B0skenderun">Iskenderun</a>, que és més al nord i a la vora del Mediterrani… Però la referència que em pareix definitiva es troba dins d’un altre llibre, el poemari <em>Itineraris d’Orient</em> (Edicions 62, 1985, p. 65):</p>
 <blockquote>
-<p>Retorno al lloc des d'on Diana veié, per primera vegada, la mar Morta. Les aigües són com mercuri; és difícil banyar-s'hi. Tristos són els paratges d'aquesta mar salada.</p>
+<p>Retorno al lloc des d’on Diana veié, per primera vegada, la mar Morta. Les aigües són com mercuri; és difícil banyar-s’hi. Tristos són els paratges d’aquesta mar salada.</p>
 </blockquote>
+<p>Amb això, crec que no pot quedar cap dubte respecte a la mar en què pensava Perucho.</p>
 <p><a title="Matson Collection [Public domain]" href="https://commons.wikimedia.org/wiki/File:Floating_in_the_Dead_Sea_LCCN2002706898.jpg"><img alt="Floating in the Dead Sea" src="https://carlesbellver.net/uploads/2020/baa306d540.jpg"></a></p>
 
 
@@ -296,14 +294,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -75,7 +75,7 @@
 
 
 <meta name="og:title" content="Why Data Is Never Raw"/>
-<meta property="og:description" content="Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades.
+<meta property="og:description" content="Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes —o crues, com diríem en anglès—, sinó que sempre, necessàriament, venen cuinades.
 ‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2019/01/22/why-data-is.html" />
@@ -83,7 +83,7 @@
 <meta property="article:modified_time" content="2019-01-22T10:22:00+00:00" />
 
 <meta name="twitter:title" content="Why Data Is Never Raw"/>
-<meta name="twitter:description" content="Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades.
+<meta name="twitter:description" content="Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes —o crues, com diríem en anglès—, sinó que sempre, necessàriament, venen cuinades.
 ‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius."/>
 
 
@@ -108,11 +108,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -131,7 +129,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -179,7 +177,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -212,7 +210,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -221,9 +219,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.thenewatlantis.com/publications/why-data-is-never-raw">Why Data Is Never Raw</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://www.thenewatlantis.com/publications/why-data-is-never-raw">Why Data Is Never Raw</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -235,11 +239,11 @@
           
             
           
-          <p>Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes, o crues, com diríem en anglès, sinó que sempre, necessàriament, venen cuinades.</p>
+          <p>Qualsevol estudiant de filosofia de la ciència ho sap, però la majoria de la gent no estudia filosofia, així que cal insistir-hi: no hi ha dades brutes —o crues, com diríem en anglès—, sinó que sempre, necessàriament, venen cuinades.</p>
 <blockquote>
-<p>‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius. Però les dades sempre són producte de processos cognitius, culturals i institucionals que determinen què es recull i com es recull. En aquest sentit, ‘dades crues’ és en efecte una contradicció en els termes.</p>
+<p>‘Cru’ té la connotació de natural o intacte, mentre que ‘cuinat’ suggereix el resultat de processos cognitius. Però les dades sempre són producte de processos cognitius, culturals i institucionals que determinen què es recull i com es recull. En aquest sentit, “dades crues” és en efecte una contradicció en els termes.</p>
 </blockquote>
-<p>Les <em>dades brutes</em>, en resum, són una “fantasia tecnocràtica” que busca imposar i imposa una visió del món (la seva) com si fos la bona, l'objectiva, l'única possible.</p>
+<p>Les <em>dades brutes</em>, en resum, són una “fantasia tecnocràtica” que busca imposar i imposa una visió del món (la seua) com si fora la bona, l’objectiva, l’única possible.</p>
 
 
         
@@ -284,14 +288,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

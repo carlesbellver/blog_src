@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1712138047" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,9 +30,8 @@
 --menu-color: #eee;
 --menu-bg-color: #212121;
 
---link-color: #cc3333; /* #599ada; */
---link-state-color: #cc3333;
---link-state-border-color: rgba(204, 51, 51, 0.5);
+--link-color: #cc1111;
+--link-state-color: #cc1111;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
@@ -56,11 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1712138047" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1689582944" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1712138047" />
 
-
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1712138047" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1712138047"></script>
 
 
 
@@ -106,11 +106,9 @@
     <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
   </div>
   <div id="quicklinks">
-    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
     
       
-      
-        <a href="https://carlesbellver.net/" title="">Blog</a>
       
         <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
       
@@ -129,7 +127,7 @@
 
 
 
-    <a class="theme-switcher">Tema fosc</a>
+    <a class="theme-switcher">Fosc</a>
 
     <script>
     const STORAGE_KEY = 'user-color-scheme'
@@ -177,7 +175,7 @@
 
     function changeButtonText()
     {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
     }
 
     function switchTheme(e) {
@@ -210,7 +208,7 @@
         
           <li>
           
-            <a href="https://carlesbellver.net/" title="Blog">La vista cansada</a>
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
           
           </li>
         
@@ -219,9 +217,15 @@
     
 
 
-      <header class="post-header">
-          <h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://economia.elpais.com/economia/2015/06/05/actualidad/1433510626_359303.html">La guerra de las universidades contra el ‘copy-paste’</a></h1>
-        </header>      
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="http://economia.elpais.com/economia/2015/06/05/actualidad/1433510626_359303.html">La guerra de las universidades contra el ‘copy-paste’</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
             
       <div class="content e-content">
                   
@@ -235,7 +239,7 @@
           
           <ol>
 <li>Que una prova d’avaluació es pugui superar copiant s’ha de prendre com un senyal que no era una bona prova: no servia per a avaluar l’aprenentatge i per tant no complia la seva funció. Ha estat mal dissenyada i caldria replantejar-se-la. La millor manera de lluitar contra el “copy-paste” és dissenyar proves que no es puguen resoldre copiant.</li>
-<li>El plagi és un concepte eminentment jurídic. Copiar un paràgraf d’un llibre sense citar l’autor/a pot ser un delicte, però reutilitzar part d'un article de la Wikipedia (llicència CC BY-SA) en un treball acadèmic és perfectament lícit i pot ser conforme o no amb els termes de l’avaluació, segons com hagi estat definida.</li>
+<li>El plagi és un concepte eminentment jurídic. Copiar un paràgraf d’un llibre sense citar l’autor/a pot ser un delicte, però reutilitzar part d’un article de la Wikipedia (llicència CC BY-SA) en un treball acadèmic és perfectament lícit i pot ser conforme o no amb els termes de l’avaluació, segons com hagi estat definida.</li>
 <li>El coneixement es construeix sempre sobre el coneixement d’altres. Cal formar l’estudiantat i el professorat en un marc de procediments i de valors que caracteritza la vida acadèmica i que va molt més enllà de no copiar.</li>
 <li>La manera de funcionar dels sistemes informàtics antiplagi pot implicar una violació de la privadesa i dels drets de propietat intel·lectual de l’estudiantat: les seves dades personals i els seus treballs poden ser transferits a empreses comercials per a treure’n profit. Obligar l’estudiantat a signar el consentiment d’aquestes violacions, només perquè el professorat pugui utilitzar el sistema, no sols és dubtosament legal (seria lliure, no forçat, aquest consentiment?) sinó, sobretot, immoral.</li>
 </ol>
@@ -283,14 +287,17 @@
           <p>
             
               <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-              2002 - 2023
+              2002 - 2024
         </p>  
-        </div> 
+        </div>
 
     </div>
 </footer>
 
         
+                
     </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
