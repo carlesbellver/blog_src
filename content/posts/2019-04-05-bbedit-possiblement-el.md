@@ -11,4 +11,4 @@ BBEdit —possiblement el millor editor de textos per a Mac— ha tornat a la Ma
 > In between PowerPC and OpenDoc, there was another development: the emergence of the World Wide Web. *BBEdit* had a plug-in model at the time, and two of our customers —one in the
 UK and one in Spain— independently wrote HTML markup tools. This was 1995, and we had no idea what HTML was, but we could tell that it was going somewhere. So we evaluated the tools, chose a set of them to bundle with BBEdit, and off we went. Little did we know…
 
-Sí, *the one in Spain* era jo. No van triar la meva versió, però igualment vaig tenir els meus [minuts warholians de fama](/2003/06/03/bbedit), en aquells anys en què la Internet era un lloc molt més petit i discret que no pas ara.
+Sí, *the one in Spain* era jo. No van triar la meua versió, però igualment vaig tenir els meus [minuts warholians de fama](/2003/06/03/bbedit), en aquells anys en què la Internet era un lloc molt més petit i discret que no pas ara.
