@@ -51,6 +51,8 @@ function resetSearch() {
 function runSearch(q) {
   if (typeof(q) == "string" && q.length) {
     qq = q.trim(); // .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    var pattern_node = document.getElementById("search_pattern");
+    pattern_node.innerHTML = qq;
     var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
     var results = [];
