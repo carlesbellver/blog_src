@@ -129,34 +129,3 @@ function displayResults(results) {
 		}
   }
 }
-
-function chrCleanup(s) {
-  s = s.replace(/à/g, 'a');
-  s = s.replace(/á/g, 'a');
-  s = s.replace(/è/g, 'e');
-  s = s.replace(/é/g, 'e');
-  s = s.replace(/í/g, 'i');
-  s = s.replace(/ï/g, 'i');
-  s = s.replace(/ò/g, 'o');
-  s = s.replace(/ó/g, 'o');
-  s = s.replace(/ú/g, 'u');
-  s = s.replace(/ü/g, 'u');
-  s = s.replace(/ç/g, 'c');
-  s = s.replace(/ñ/g, 'n');
-  s = s.replace(/À/g, 'A');
-  s = s.replace(/É/g, 'A');
-  s = s.replace(/È/g, 'E');
-  s = s.replace(/É/g, 'E');
-  s = s.replace(/Í/g, 'I');
-  s = s.replace(/Ï/g, 'I');
-  s = s.replace(/Ò/g, 'O');
-  s = s.replace(/Ó/g, 'O');
-  s = s.replace(/Ú/g, 'U');
-  s = s.replace(/Ü/g, 'U');
-  s = s.replace(/Ç/g, 'C');
-  s = s.replace(/Ñ/g, 'N');
-  s = s.replace(/-/g, ' ');
-  s = s.replace(/'/g, ' ');
-  s = s.replace(/’/g, ' ');
-  return s;
-}
