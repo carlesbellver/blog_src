@@ -33,6 +33,8 @@ xmlhttp.onreadystatechange = function() {
 			runSearch(q);
 		}
 		else {
+		  var pattern_node = document.getElementById("search_pattern");
+      pattern_node.innerHTML = "La vista cansada";
 			displayResults(archive);
 		}
 	}
@@ -64,10 +66,9 @@ function runSearch(q) {
       displayResults(results);
     }
     else {
-      var pattern_node = document.getElementById("search_pattern");
-      pattern_node.innerHTML = "La vista cansada";
+      // pattern_node.innerHTML = "La vista cansada";
       var no_hits_node = document.getElementById("no_hits");
-      no_hits_node.innerHTML = "";
+      no_hits_node.innerHTML = ". 0 pàgines";
       results_node.innerHTML = "<p>No s'ha trobat res que hi concordi. Intenteu precisar més la cerca.</p>";
     }
   }
@@ -77,10 +78,10 @@ function displayResults(results) {
   var results_node = document.getElementById("list_results");
   var no_hits_node = document.getElementById("no_hits");
   if (results.length == 1) {
-    no_hits_node.innerHTML = results.length + "&nbsp;pàgina";
+    no_hits_node.innerHTML = ". Una &nbsp;pàgina";
   }
   else {
-    no_hits_node.innerHTML = results.length + "&nbsp;pàgines";
+    no_hits_node.innerHTML = ". " + results.length + "&nbsp;pàgines";
   }
   results_node.innerHTML = "";
   for (let i = 0; i < results.length; i++) {

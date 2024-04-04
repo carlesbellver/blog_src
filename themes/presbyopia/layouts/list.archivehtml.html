@@ -1,7 +1,7 @@
 {{ define "main" }}
 
   <header class="post-header">
-    <h1 class="post-title p-name"><span id="search_pattern">{{ .Site.Title }}</span>. <span id="no_hits">{{ len site.RegularPages }} pàgines</span></h1>
+    <h1 class="post-title p-name"><span id="search_pattern"></span><span id="no_hits"></span></h1>
   </header>
 
 <form class="search" onSubmit="return false;">
@@ -14,7 +14,7 @@
 <script src="/scripts/altsearch.js" defer></script>
 
   <article id="list_results" class="post-list">
-    <p id="srch_notice">S’està carregant l’índex…</p>
+    <p id="srch_notice">Processant l’arxiu…</p>
   <noscript>
     <p>⚠️ No teniu habilitat el Javascript o el vostre navegador no és compatible.
     <p>Aquesta pàgina utilitza JavaScript per a carregar un índex de les pàgines del lloc i buscar-hi paraules clau.</p>
