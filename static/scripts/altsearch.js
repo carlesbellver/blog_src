@@ -1,127 +1,64 @@
 var MIN_WL = 3;
 var SUMMARY_LENGTGH = 80;
 
+let stopWords = new Set(["a", "abans", "ací", "ah", "així", "això", "al", "aleshores", "algun", "alguna", "algunes", "alguns", "alhora", "allà", "allí", "allò", "als", "altra", "altre", "altres", "amb", "ambdues", "ambdós", "anar", "ans", "apa", "aquell", "aquella", "aquelles", "aquells", "aquest", "aquesta", "aquestes", "aquests", "aquí", "baix", "bastant", "bé", "cada", "cadascuna", "cadascunes", "cadascuns", "cadascú", "com", "contra", "dalt", "de", "del", "dels", "des", "després", "dins", "dintre", "doncs", "durant", "e", "eh", "eixa", "eixe", "eixes", "eixos", "el", "elles", "ells", "els", "em", "en", "encara", "ens", "entre", "era", "erem", "eren", "eres", "es", "esta", "estan", "estat", "estava", "estaven", "este", "estem", "esteu", "estes", "estic", "està", "estàvem", "estàveu", "estos", "et", "etc", "ets", "fa", "faig", "fan", "fas", "fem", "fer", "feu", "fi", "fins", "fora", "gairebé", "ha", "han", "has", "haver", "havia", "he", "hem", "heu", "hi", "ho", "i", "igual", "iguals", "inclòs", "ja", "jo", "la", "les", "li", "llarg", "llavors", "ma", "mal", "malgrat", "mateix", "mateixa", "mateixes", "mateixos", "me", "mentre", "meu", "meua", "meua", "meues", "meus", "meva", "meves", "molt", "molta", "moltes", "molts", "mon", "mons", "més", "ne", "ni", "no", "nogensmenys", "només", "nosaltres", "nostra", "nostre", "nostres", "o", "oh", "oi", "on", "pas", "pel", "pels", "per", "perque", "perquè", "però", "poc", "poca", "pocs", "podem", "poden", "poder", "podeu", "poques", "potser", "primer", "propi", "puc", "qual", "quals", "quan", "quant", "que", "quelcom", "qui", "quin", "quina", "quines", "quins", "què", "sa", "sabem", "saben", "saber", "sabeu", "sap", "saps", "semblant", "semblants", "sense", "ser", "ses", "seu", "seua", "seues", "seus", "seva", "seves", "si", "sobre", "sobretot", "soc", "solament", "sols", "som", "son", "sons", "sota", "sou", "sóc", "són", "ta", "tal", "també", "tampoc", "tan", "tant", "tanta", "tantes", "te", "tenim", "tenir", "teniu", "teu", "teua", "teues", "teus", "teva", "teves", "tinc", "ton", "tons", "tot", "tota", "totes", "tots", "un", "una", "unes", "uns", "us", "va", "vaig", "vam", "van", "vas", "vau", "vosaltres", "vostra", "vostre", "vostres", "érem", "éreu", "és", "essent", "últim", "ús"]);
+
 const urlParams = new URLSearchParams(window.location.search);
 const q = urlParams.get('q');
 if (q) {
-  document.getElementById('input_search').value = q;
+  document.getElementById('input_search').value = q.trim();
 }
 
-var archive_items = {};
-downloadArchive(q);
-
-function downloadArchive(q) {
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      archive_items = JSON.parse(this.responseText);
-      var notice = document.getElementById("srch_notice");
-      notice.innerHTML = "";
-      if (q) {
-        runSearch(q);
-      }
-      else {
-        displayResults(archive_items);
-      }
-    }
-  };
-  xmlhttp.open("GET", "/archive/index.json", true);
-  xmlhttp.send();
-}
+var miniSearch;
+var archive = [];
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+	if (this.readyState == 4 && this.status == 200) {
+		archive = JSON.parse(this.responseText);
+		var notice = document.getElementById("srch_notice");
+		notice.innerHTML = "";
+		miniSearch = new MiniSearch({
+			// fields to index for full-text search
+			fields: ['title', 'content_text'],
+			// fields to return with search results
+			storeFields: ['title', 'url', 'date_published', 'tags', 'content_text'],
+			searchOptions: {
+				boost: { title: 5 },
+				fuzzy: 0.2,
+				processTerm: (term, _fieldName) => stopWords.has(term) ? null : term.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+			}
+		});
+		miniSearch.addAll(archive);
+		if (q) {
+			runSearch(q);
+		}
+		else {
+			displayResults(archive);
+		}
+	}
+};
+xmlhttp.open("GET", "/archive/index.json", true);
+xmlhttp.send();
 
 function resetSearch() {
   var pattern_node = document.getElementById("search_pattern");
   pattern_node.innerHTML = "La vista cansada";
   q = "";
   document.location.href='/archive/?q=';
-  displayResults(archive_items);
+  displayResults(archive);
 }
 
 function runSearch(q) {
   if (typeof(q) == "string" && q.length) {
-    var qq = q.trim().toLowerCase();
+    qq = q.trim(); // .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
     var results_node = document.getElementById("list_results");
     results_node.innerHTML = "";
-    var count = 0;
+    var results = [];
     if (qq.length >= MIN_WL && qq.length < 100) {
-      var results = [];
-      var q = chrCleanup(qq);
-      // var q = qq.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-      // https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript
-      var literal = 0;
-      var regExp = /^ *["“”](.+)["“”] *$/g;
-      if (match = regExp.exec(q)){
-        q = literal = match[1];
-      }
-      if (!literal) {
-        var terms = q.split(/[ '’"-]+/);
-        terms_p = [];
-        for (let i = 0; i < terms.length; i++) {
-          if (terms[i].length >= MIN_WL) {
-            terms_p.push(terms[i]);
-          }
-        }
-        if (terms_p.length > 5) {
-          terms_p = terms_p.slice(0, 4);
-        }
-        q = terms_p.join(" ");
-        terms = terms_p;
-      }
-      console.log(q);
-      var pattern_node = document.getElementById("search_pattern");
-      pattern_node.innerHTML = qq;
-      for (var i = 0; i < archive_items.length; i++) {
-        var score = 0;
-        var item = archive_items[i];
-        if (item.title == undefined) {
-          item.title = "";
-        }
-        var title_lower = chrCleanup(item.title).toLowerCase();
-        var tags_lower = chrCleanup(item.tags).toLowerCase();
-        var text_lower = chrCleanup(item.content_text).toLowerCase();
-        if (literal || terms.length > 1) {
-          if (title_lower.includes(q)) {
-            score += 10;
-          }
-          if (tags_lower.includes(q)) {
-              score += 5;
-            }
-          if (text_lower.includes(q)) {
-            score += 1;
-          }
-        }
-        if (!literal) {
-          for (let i = 0; i < terms.length; i++) {
-            if (terms[i].length >= MIN_WL) {
-              /* word boundary + term + 0-2 chars + word boundary */
-              var exp = "\\b" + terms[i] + "[a-z]{0,2}\\b";
-              var re = new RegExp(exp, "gi");
-              if (title_lower.match(re)) {
-                score += 10;
-              }
-              if (tags_lower.match(re)) {
-                score += 5;
-              }
-              mm = text_lower.match(re);
-              if (mm) {
-                score += mm.length;
-              }
-            }
-          }
-        }
-        if (score > 0) {
-          item.score = score;
-          results.push(item);
-          count++;
-          /* console.log(item.url + " " + tags_lower);
-          if (item.tags.includes("fotos")) {
-            console.log("MATCH");
-          } */
-        }
-      }
+      results = miniSearch.search(qq);
     }
-    if (count) {
-      results.sort( function(a, b) { return b["score"] - a["score"] } );
+    if (results.length) {
+      // results.sort( function(a, b) { return b["score"] - a["score"] } );
       displayResults(results);
     }
     else {
@@ -166,6 +103,7 @@ function displayResults(results) {
 				s = s.substr(0, SUMMARY_LENGTGH) + "…";
 			}
 			item_title_node.innerHTML = '';
+			/* Link? */
       if (results[i]["tags"].includes("retalls")) {
         item_title_node.innerHTML = item_title_node.innerHTML + "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
       }
@@ -182,10 +120,6 @@ function displayResults(results) {
 			}
 			else { /* untitled */
 				item_title_node.innerHTML = item_title_node.innerHTML + ' <span class="p-summary">'+s+'</span>';
-        /* Picture?
-			  if (results[i]["tags"].includes("fotos")) {
-					item_title_node.innerHTML = item_title_node.innerHTML + " &#x1F5BC;"
-				} */
         item_title_node.innerHTML = item_title_node.innerHTML + ' <a href="'+results[i]["url"]+'">[+]</a>';
 			}
 			if (item_title_node != null) {
