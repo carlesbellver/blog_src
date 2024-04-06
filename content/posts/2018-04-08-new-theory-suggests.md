@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-La nova “hipòtesi de revenja biòtica” suggereix que els dinosaures van morir per culpa de plantes tòxiques i de la seva incapacitat per a reconèixer-ne el gust.
+La nova “hipòtesi de revenja biòtica” suggereix que els dinosaures van morir per culpa de plantes tòxiques i de la seua incapacitat per a reconèixer-ne el gust.
