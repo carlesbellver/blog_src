@@ -1,11 +1,12 @@
 +++
+title = "Estats d’excepció. Lletres per al rescabalament"
+x_url = "http://elpontdeleslletres.cat/estatsdexcepcio/"
 url = "/2020/04/09/estats-dexcepci-lletres.html"
 date = "2020-04-09T14:55:00+00:00"
 slug = "estats-dexcepci-lletres"
 tags = ["retalls"]
+x_icon = "book"
 +++
-
-{{< icon book >}} [Estats d’excepció. Lletres per al rescabalament](http://elpontdeleslletres.cat/estatsdexcepcio/)
 
 Llibre col·lectiu d’El Pont, en el nostre desè aniversari, bellament escrit, il·lustrat i editat. En PDF, gratis.
 
