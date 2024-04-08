@@ -1,9 +1,10 @@
-const FUZZY = 0.2;
+const FUZZY = 0.1;
 const MAX = 2000;
 const BATCHSIZE = 20;
 const DELAY = 10;
 const MIN_WL = 3;
 const SUMMARY_LENGTGH = 80;
+const BLOG_TITLE = "La vista cansada";
 
 $inputSearch = document.getElementById('input_search');
 $searchPattern = document.getElementById("search_pattern");
@@ -40,7 +41,7 @@ xmlhttp.onreadystatechange = function() {
 			runSearch(q);
 		}
 		else {
-      $searchPattern.innerHTML = "La vista cansada";
+      $searchPattern.innerHTML = BLOG_TITLE;
 			displayResults(archive);
 		}
 	}
@@ -49,7 +50,7 @@ xmlhttp.open("GET", "/archive/index.json", true);
 xmlhttp.send();
 
 function resetSearch() {
-  $searchPattern.innerHTML = "La vista cansada";
+  $searchPattern.innerHTML = BLOG_TITLE;
   q = "";
   document.location.href='/archive/?q=';
   displayResults(archive);
@@ -69,8 +70,11 @@ function runSearch(q) {
       displayResults(results);
     }
     else {
-      $noHits.innerHTML = ". Cap resultat.";
-      $listResults.innerHTML = "<p>No s’ha trobat cap pàgina coincident. Intenteu precisar més la cerca.</p>";
+      $searchPattern.innerHTML = "";
+      $noHits.innerHTML = "Cap resultat";
+      let $noHitsNotice = document.createElement("p");
+      $noHitsNotice.innerHTML = "No s’ha trobat cap pàgina coincident. Intenteu precisar més la cerca.";
+      $listResults.appendChild($noHitsNotice);
     }
   }
 }
@@ -86,7 +90,9 @@ function displayResults(results) {
     $noHits.innerHTML = ". " + results.length + "&nbsp;pàgines";
     if (max > MAX) {
       max = MAX;
-      $listResults.innerHTML = "<p>Només se’n mostren les " + max + " primeres.</p>";
+      let $maxHitsNotice = document.createElement("p");
+      $maxHitsNotice.innerHTML = "Només es mostren les " + max + " primeres pàgines.";
+      $listResults.appendChild($maxHitsNotice);
     }
   }
   
