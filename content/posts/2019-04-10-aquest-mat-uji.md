@@ -8,4 +8,4 @@ tags = ["fotos", "UJI"]
 
 Aquest matí #UJI
 
-<img src="/uploads/2019/0d21468e58.jpg" width="600" height="600" alt="" />
+<img src="/uploads/2019/0d21468e58.jpg" width="600" height="600" alt="Foto de l’ombra del logotip de l’UJI projectada per la llum del sol en una paret." />
