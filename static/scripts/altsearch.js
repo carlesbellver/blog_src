@@ -1,5 +1,5 @@
 const FUZZY = 0.1;
-const MAX = 2000;
+const MAX = 100;
 const BATCHSIZE = 20;
 const DELAY = 10;
 const MIN_WL = 3;
@@ -58,12 +58,23 @@ function resetSearch() {
 
 function runSearch(q) {
   if (typeof(q) == "string" && q.length) {
-    qq = q.trim(); // .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-    $searchPattern.innerHTML = qq;
+    var q = q.trim(); // .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    var literal = false;
+    let regExp = /^ *["“”](.+)["“”] *$/g;
+    if (match = regExp.exec(q)){
+      q = literal = match[1];
+    }
+    $searchPattern.innerHTML = q;
     $listResults.innerHTML = "";
     var results = [];
-    if (qq.length >= MIN_WL && qq.length < 100) {
-      results = miniSearch.search(qq);
+    if (q.length >= MIN_WL && q.length < 100) {
+      let f = FUZZY;
+      let c = 'OR'
+      if (literal) {
+        f = 0;
+        c = 'AND'
+      }
+      results = miniSearch.search(q, { fuzzy: f , combineWith: c });
     }
     if (results.length) {
       // results.sort( function(a, b) { return b["score"] - a["score"] } );
@@ -82,12 +93,13 @@ function runSearch(q) {
 function displayResults(results) {
   // var refTime = (new Date()).getTime();
   $listResults.innerHTML = "";
-  max = results.length;
+  var max = results.length;
   if (results.length == 1) {
     $noHits.innerHTML = ". Una&nbsp;pàgina";
   }
   else {
     $noHits.innerHTML = ". " + results.length + "&nbsp;pàgines";
+    //if (q && max > MAX) {
     if (max > MAX) {
       max = MAX;
       let $maxHitsNotice = document.createElement("p");
@@ -101,12 +113,12 @@ function displayResults(results) {
     function addBatch() {
       const batch = results.slice(idx, idx + batchSize);
       batch.forEach(result => {
-        h_entry_node = buildResultEl(result);
-        container.appendChild(h_entry_node);
+        let $h_entry = buildResultEl(result);
+        container.appendChild($h_entry);
       });
       idx += batchSize;
       // Check if there are more results to add
-      if (idx < results.length) {
+      if (idx < max) {
         setTimeout(addBatch, delay); // Schedule next batch
       }
     }
@@ -117,8 +129,8 @@ function displayResults(results) {
   
 // for (let i = 0; i < max; i++) {
 //   if (results[i]["date_published"].substring(0, 3) != "000" && results[i]["date_published"].substring(0, 3) != "197") {
-//     h_entry_node = buildResultEl(results[i]);
-//		$listResults.appendChild(h_entry_node);
+//     $h_entry = buildResultEl(results[i]);
+//		$listResults.appendChild($h_entry);
 //   }
 // }
  
@@ -127,49 +139,49 @@ function displayResults(results) {
 }
 
 function buildResultEl(r) {
-  var h_entry_node = document.createElement("div");
-  h_entry_node.classList.add("h-entry");
+  var $h_entry = document.createElement("div");
+  $h_entry.classList.add("h-entry");
   if (r["date_published"].substring(0, 3) != "000" && r["date_published"].substring(0, 3) != "197") {
-    var item_date_node = document.createElement("div");
-    item_date_node.classList.add("post-list-item-date");
-    var item_date_link_node = document.createElement("a");
-    item_date_link_node.classList.add("dt-published");
+    var $item_date = document.createElement("div");
+    $item_date.classList.add("post-list-item-date");
+    var $item_date_link = document.createElement("a");
+    $item_date_link.classList.add("dt-published");
     var d = Date.parse(r["date_published"]);
     var date_s = new Date(d).toISOString().substr(0, 10);
-    var date_node = document.createTextNode(date_s);
-    item_date_link_node.appendChild(date_node);
-    item_date_link_node.href = r["url"];
-    item_date_node.appendChild(item_date_link_node);
-    h_entry_node.appendChild(item_date_node);
+    var $date = document.createTextNode(date_s);
+    $item_date_link.appendChild($date);
+    $item_date_link.href = r["url"];
+    $item_date.appendChild($item_date_link);
+    $h_entry.appendChild($item_date);
   }
-  item_title_node = document.createElement("div");
-  item_title_node.classList.add("post-list-item-title");
+  $item_title = document.createElement("div");
+  $item_title.classList.add("post-list-item-title");
   var s = r["content_text"];
   if (s.length > SUMMARY_LENGTGH) {
     s = s.substr(0, SUMMARY_LENGTGH) + "…";
   }
-  item_title_node.innerHTML = '';
+  $item_title.innerHTML = '';
   /* Link? */
   if (r["tags"].includes("retalls")) {
-    item_title_node.innerHTML = item_title_node.innerHTML + "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
+    $item_title.innerHTML += "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
   }
   /* Picture? */
   else if (r["tags"].includes("fotos")) {
-      item_title_node.innerHTML = item_title_node.innerHTML + "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
+      $item_title.innerHTML += "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
   }
   /* Title? */
   if (r["title"] && r["title"].length > 0) {
-    item_title_node.innerHTML = item_title_node.innerHTML + ' <a class="u-url" href="'+r["url"]+'">' + r["title"] + '</a>';
+    $item_title.innerHTML += ' <a class="u-url" href="'+r["url"]+'">' + r["title"] + '</a>';
     if (q && s) {
-      item_title_node.innerHTML = item_title_node.innerHTML + ' <span class="p-summary">'+ s +'</span>';
+      $item_title.innerHTML += ' <span class="p-summary">'+ s +'</span>';
     }
   }
   else { /* untitled */
-    item_title_node.innerHTML = item_title_node.innerHTML + ' <span class="p-summary">'+s+'</span>';
-    item_title_node.innerHTML = item_title_node.innerHTML + ' <a href="'+r["url"]+'">[+]</a>';
+    $item_title.innerHTML += ' <span class="p-summary">'+s+'</span>';
+    $item_title.innerHTML += ' <a href="'+r["url"]+'">[+]</a>';
   }
-  if (item_title_node != null) {
-    h_entry_node.appendChild(item_title_node); 
+  if ($item_title != null) {
+    $h_entry.appendChild($item_title); 
   }
-  return h_entry_node;
+  return $h_entry;
 }
