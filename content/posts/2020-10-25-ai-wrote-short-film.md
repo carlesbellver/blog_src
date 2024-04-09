@@ -10,5 +10,5 @@ x_source = ""
 
 > Segons el futurista de mitjans i cineasta algorítmic Alexis Kirke, hauríem d’acostumar-nos a la idea que els ordinadors tinguen un paper important en els nostres esforços creatius, sobretot a l’hora d’escriure guions de pel·lícules.
 
-1. M’agraden els noms de professions emergents: "futurista de mitjans i cineasta algorítmic".
+1. M’agraden els noms de professions emergents: “futurista de mitjans” i “cineasta algorítmic”.
 2. La majoria de pel·lícules ja pareixien fabricades en sèrie per una màquina.

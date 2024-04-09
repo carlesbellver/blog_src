@@ -7,7 +7,7 @@ title = "Lectures de mar i muntanya: ’La nit mil dos’"
 x_source = "VilaWeb"
 +++
 
-"Potent, singular, desconegut. No canònic. ‘Perifèric’". És normal que el teu editor exageri una mica, no? A veure si en venem un parell d’exemplars més…
+“Potent, singular, desconegut. No canònic. ‘Perifèric’”. És normal que el teu editor exagere una mica, no? A veure si en venem un parell d’exemplars més…
 
 D’altra banda, m’agrada com casa el llibre amb el títol d’aquesta secció de VilaWeb: “Lectures de mar i muntanya”. En [*La nit mil dos*](http://carlesbellver.net/llibres/lanitmildos) hi ha almenys un relat muntanyenc (“La nissaga”) i un altre costaner (“Una comèdia en tres estius”).
 

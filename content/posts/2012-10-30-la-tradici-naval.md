@@ -15,4 +15,4 @@ En català, tanmateix, supose que el mot ens arribà molt més endavant, a trav�
 >  1. *adj.* \[SP] Que es troba en estat d’atordiment a causa dels cops rebuts en un combat de boxa i pròxim a la situació de fora de combat.
 >  2. *adj.* \[LC] *PER EXT. Aquesta nit no he dormit gens i estic grogui. L’última copa de xampany em va deixar grogui, no recordo res. Amb això que m’has dit, m’he quedat grogui.*
 
-Pel que fa a la tradició naval britànica… justament en això consistia en part, exactament en una tercera part, segons la famosa definició atribuïda a Churchill: ["rom, sodomia i assot"](http://www.thisdayinquotes.com/2010/08/rum-sodomy-and-lash-winston-churchills.html).
+Pel que fa a la tradició naval britànica… justament en això consistia en part, exactament en una tercera part, segons la famosa definició atribuïda a Churchill: [“rom, sodomia i assot”](http://www.thisdayinquotes.com/2010/08/rum-sodomy-and-lash-winston-churchills.html).

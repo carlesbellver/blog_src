@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Un [itinerari](http://memoriabcn.cat/llegats_esclavatge/cat/) que recorre les fites urbanes de les "dinàmiques d’esclavització transatlàntiques". Els monuments són resultat d’una època i, sobretot, d’unes elits dirigents. Tampoc no van ser, en el seu moment, exempts de polèmica.
+Un [itinerari](http://memoriabcn.cat/llegats_esclavatge/cat/) que recorre les fites urbanes de les “dinàmiques d’esclavització transatlàntiques”. Els monuments són resultat d’una època i, sobretot, d’unes elits dirigents. Tampoc no van ser, en el seu moment, exempts de polèmica.

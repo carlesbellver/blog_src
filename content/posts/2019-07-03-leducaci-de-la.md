@@ -13,6 +13,6 @@ La Diputació de Castelló va presentar fa unes setmanes un exemplar de [*L’ed
 
 Destaquen els entesos que Vives, humanista, defensava l’educació de *totes* les dones, independenment de llur classe social o aptituds. Una educació, en tot cas, orientada al paper que la societat de l’època els reservava.
 
-> Durant els segles XVI i XVII, l’obra va ser popular tant en les comunitats catòliques com en les protestants. Aquest tractat sobre l’educació femenina es divideix en tres parts: el llibre primer, "Sobre les joves fadrines, el llibre segon, "Sobre les dones casades", i el llibre tercer "Sobre les vídues".
+> Durant els segles XVI i XVII, l’obra va ser popular tant en les comunitats catòliques com en les protestants. Aquest tractat sobre l’educació femenina es divideix en tres parts: el llibre primer, “Sobre les joves fadrines”, el llibre segon, “Sobre les dones casades”, i el llibre tercer “Sobre les vídues”.
 
 El que m’ha cridat l’atenció, des d’un punt de vista estrictament personal i sentimental, és que aquest tresor bibliogràfic —acompanyat, segurament, de molts altres— romangués anys i anys en un escenari per a mi tan familiar: aquell vell casalici gòtic que amenaçava ruïna, davant de la casa dels meus avis materns, en una part del qual van viure un temps els meus oncles —i el meu cosí i les meves cosines— i en un altra sala del qual s’havien celebrat les noces dels meus pares. Hi ha moments en què sospite que tot això, aquests fragments de records que de sobte s’entrellacen amb l’actualitat, em deuen voler dir alguna cosa; i no sé el què.

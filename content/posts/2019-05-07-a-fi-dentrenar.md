@@ -8,4 +8,4 @@ title = "Facebook ’labels’ posts by hand, posing privacy questions"
 x_source = ""
 +++
 
-Per a entrenar la seva "intel·ligència *artificial*" (sic), Facebook té a l’Índia un equip de gent que va revisant milions de missatges i fotos (encara que siguin publicacions privades) i els etiqueta segons una sèrie d’aspectes, incloent "el tema  (menjar, un selfi, un animal?), el moment (una activitat diària o una ocasió especial?), o la intenció de l’autor (planificar una activitat, resultar inspirador, fer un acudit?).
+Per a entrenar la seua “intel·ligència *artificial*” (sic), Facebook té a l’Índia un equip de gent que va revisant milions de missatges i fotos (encara que siguen publicacions privades) i els etiqueta segons una sèrie d’aspectes, incloent el tema  (menjar, un selfi, un animal?), el moment (una activitat diària o una ocasió especial?), o la intenció de l’autor (planificar una activitat, resultar inspirador, fer un acudit?).

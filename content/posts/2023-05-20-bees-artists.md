@@ -8,4 +8,4 @@ x_source = ""
 syndication = ["https://mastodon.social/@carlesbellver/110402218710203926"]
 +++
 
-> La capacitat de memorització de les abelles no es limita a les flors. En un exemple, les abelles eren recompensades cada vegada que visitaven un quadre d’un artista "amb premi” (o Monet o Picasso). Quan se’ls presentaven quadres que no havien vist abans, seguien encertant quin era el pintor que tenia premi, la qual cosa suggereix que poden discriminar estils pictòrics.
+> La capacitat de memorització de les abelles no es limita a les flors. En un exemple, les abelles eren recompensades cada vegada que visitaven un quadre d’un artista “amb premi” (o Monet o Picasso). Quan se’ls presentaven quadres que no havien vist abans, seguien encertant quin era el pintor que tenia premi, la qual cosa suggereix que poden discriminar estils pictòrics.

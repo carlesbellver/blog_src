@@ -16,5 +16,6 @@ template = "llibre"
 
 ## Ressenyes
 
+- [“Lectures de mar i muntanya: ‘La nit mil dos’”](https://www.vilaweb.cat/noticia/4207807/20140828/lectures-mar-muntanya-nit-mil-dos.html) (Vilaweb, 2014)
 - [“Intensitat narrativa”](2014-11-21-caracters-lanitmildos.pdf) (Francesc Pérez i Moragón, *Caràcters* núm. 68, 2014)
 - [“Relat d’una llarga nit farcida d’històries”](https://jqueralt.codeberg.page/lectures/mildos/) (Joan Queralt, 2023)
