@@ -6,11 +6,11 @@ const MIN_WL = 3;
 const SUMMARY_LENGTGH = 80;
 const BLOG_TITLE = "La vista cansada";
 
-$inputSearch = document.getElementById('input_search');
-$searchPattern = document.getElementById("search_pattern");
-$noHits = document.getElementById("no_hits");
-$searchNotice = document.getElementById("srch_notice");
-$listResults = document.getElementById("list_results");
+const $inputSearch = document.getElementById('input_search');
+const $searchPattern = document.getElementById("search_pattern");
+const $noHits = document.getElementById("no_hits");
+const $searchNotice = document.getElementById("srch_notice");
+const $listResults = document.getElementById("list_results");
 
 const urlParams = new URLSearchParams(window.location.search);
 const q = urlParams.get('q');
