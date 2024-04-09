@@ -18,6 +18,6 @@ La inesperada aparició d’un manuscrit que connecta Lovecraft amb l’inventor
 
 ## Ressenyes
 
-- ["L'inquietant i la llengua"](2002-levante-posdata-elllibredetopics.pdf) (Josep A. Mas, Levante).
-- ["Lovecraft a la Plana"](2002-lletres-valencianes-7-elllibredetopics.pdf) (Albert Toldrà, Lletres Valencianes, núm. 7).
-- ["Lovecraft!"](2003-05-15-avui-elllibredetopics.pdf) (Joan Josep Camacho Grau, Avui, 2003-05-15).
+- [“L'inquietant i la llengua”](2002-levante-posdata-elllibredetopics.pdf) (Josep A. Mas, Levante).
+- [“Lovecraft a la Plana”](2002-lletres-valencianes-7-elllibredetopics.pdf) (Albert Toldrà, Lletres Valencianes, núm. 7).
+- [“Lovecraft!”](2003-05-15-avui-elllibredetopics.pdf) (Joan Josep Camacho Grau, Avui, 2003-05-15).

@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Perfils a l’ombra, informació de contactes i l’esgarrifós algoritme PYMK ("persones que potser coneixes").
+Perfils a l’ombra, informació de contactes i l’esgarrifós algoritme PYMK (“persones que potser coneixes”).
 

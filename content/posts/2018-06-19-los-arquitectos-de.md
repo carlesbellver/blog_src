@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> "Si hubiera estado vigente cuando se desarrollaron los protocolos principales de Internet, es poco probable que hoy existiera tal y como lo conocemos."
+> “Si hubiera estado vigente cuando se desarrollaron los protocolos principales de Internet, es poco probable que hoy existiera tal y como lo conocemos.”
 

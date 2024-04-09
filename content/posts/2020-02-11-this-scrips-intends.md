@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> This scrips intends to sync near-automatically via git in "tracking" repositories where a nice history is not as crucial as having one.
+> This scrips intends to sync near-automatically via git in “tracking” repositories where a nice history is not as crucial as having one.
 

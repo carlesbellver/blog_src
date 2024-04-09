@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Weber va suggerir que els algorismes de Facebook són "incomprensibles" i que potser la regulació hauria de considerar fer-los públics.
+> Weber va suggerir que els algorismes de Facebook són “incomprensibles” i que potser la regulació hauria de considerar fer-los públics.
 
