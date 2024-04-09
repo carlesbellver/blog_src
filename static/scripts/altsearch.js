@@ -1,5 +1,5 @@
 const FUZZY = 0.1;
-const MAX = 100;
+const MAX = 2000;
 const BATCHSIZE = 20;
 const DELAY = 10;
 const MIN_WL = 3;
