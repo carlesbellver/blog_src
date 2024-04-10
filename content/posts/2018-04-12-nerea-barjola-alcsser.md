@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Del mismo modo que el relato construido en torno a Jack El Destripador… sirvió para marcar los límites a las mujeres en un momento de transgresión, la narración sobre Alcàsser se utilizó para disciplinar a una generación de mujeres tratando como un suceso lo que es en realidad, dice la autora, “un régimen político”.
+> Del mismo modo que el relato construido en torno a Jack El Destripador […] sirvió para marcar los límites a las mujeres en un momento de transgresión, la narración sobre Alcàsser se utilizó para disciplinar a una generación de mujeres tratando como un suceso lo que es en realidad, dice la autora, “un régimen político”.
 
