@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> “Hi ha una pau meravellosa en no publicar. És tranquil. Calm. Publicar és una terrible invasió de la meva privadesa. M’agrada escriure. M’encanta escriure. Però escric només per a mi mateix i pel meu propi plaer.”
+> “Hi ha una pau meravellosa en no publicar. És tranquil. Calm. Publicar és una terrible invasió de la meua privadesa. M’agrada escriure. M’encanta escriure. Però escric només per a mi mateix i pel meu propi plaer.”
 
