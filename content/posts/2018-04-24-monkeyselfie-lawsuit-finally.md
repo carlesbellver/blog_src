@@ -10,4 +10,3 @@ x_source = ""
 
 
 [Naruto](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) no reuneix les condicions legals per a presentar una reclamació per drets d’autor, ja que un macaco negre de Sulawesi no és una persona. El fotògraf va acceptar donar el 25% dels ingressos futurs a la reserva de Tangkoko.
-

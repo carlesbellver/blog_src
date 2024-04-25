@@ -3,7 +3,7 @@ url = "/2017/04/12/la-meva-prxima.html"
 date = "2017-04-12T22:00:00+00:00"
 slug = "la-meva-prxima"
 tags = ["contes"]
-image = ["/uploads/2014/2014-02-09-hugo-gernsback-isolator.jpg"]
+image = "/uploads/2014/2014-02-09-hugo-gernsback-isolator.jpg"
 +++
 
 <img title="Hugo Gernsback Isolator" src="/uploads/2014/2014-02-09-hugo-gernsback-isolator.jpg" alt="Hugo Gernsback Isolator" />

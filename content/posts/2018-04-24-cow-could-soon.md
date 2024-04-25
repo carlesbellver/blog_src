@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Hi ha un patró molt clar d’extinció segons la mida que segueix la migració d’homínids fora d’Àfrica [...] A Amèrica del Nord, per exemple, la massa corporal mitjana de mamífers terrestres es va reduir de 98 kg a 7,6 kg després d’arribar-hi els humans.
+> Hi ha un patró molt clar d’extinció segons la mida que segueix la migració d’homínids fora d’Àfrica […] A Amèrica del Nord, per exemple, la massa corporal mitjana de mamífers terrestres es va reduir de 98 kg a 7,6 kg després d’arribar-hi els humans.
 
