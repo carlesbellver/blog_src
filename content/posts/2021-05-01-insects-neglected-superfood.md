@@ -8,6 +8,6 @@ x_source = "BBC Future"
 +++
 
 
-> “Superdensos en nutrients, una gran quantitat d’aliment en un paquet molt menut.” Per això, els insectes de granja podrien ajudar a afrontar simultàniament dos dels problemes més grans del món: la inseguretat alimentària i la crisi climàtica
+> “Superdensos en nutrients, una gran quantitat d’aliment en un paquet molt menut.” Per això, els insectes de granja podrien ajudar a afrontar simultàniament dos dels problemes més grans del món: la inseguretat alimentària i la crisi climàtica.
 > 
 > L’agricultura és el principal impulsor de la pèrdua de biodiversitat mundial, i un dels principals contribuents a les emissions de gasos d’efecte hivernacle. “Estem enmig d’una extinció massiva de biodiversitat i en plena crisi climàtica, i, no obstant això, al mateix temps, hem d’alimentar d’alguna manera una població creixent.”

@@ -11,7 +11,7 @@
       {{ end }}
       {{ if gt .ReadingTime 2 }}<li><span class="readingtime"><img class="icon" src="{{ site.BaseURL }}/svg.icons/clock.svg" alt="clock" /> {{ .ReadingTime }} minuts</span></li>{{ end }}
       {{- if or .Params.license (eq .Type "tmp") -}}<li><img class="icon" src="{{ site.BaseURL }}/svg.icons/copyright.svg" alt="copyright" />️ {{ .Site.Params.author }}</li>{{- end}}
-      <li><a href="https://shareopenly.org/share/?url={{ .Permalink }}{{- if .Params.title -}}&text={{- .Params.title -}}{{- end -}}" title="Compartir aquesta pàgina"><img class="icon" src="{{ site.BaseURL }}/svg.icons/share.svg" alt="icona de compartir" />️</a></li>
+      <li><a href="https://shareopenly.org/share/?url={{ .Permalink }}{{- if .Params.title -}}&text={{- .Params.title -}}{{- end -}}" title="Compartir aquesta pàgina"><img class="icon" src="{{ site.BaseURL }}/svg.icons/share.svg" alt="icona de compartir" />️</a> <a href="https://shareopenly.org/share/?url={{ .Permalink }}{{- if .Params.title -}}&text={{- .Params.title -}}{{- end -}}" title="Compartir aquesta pàgina">Compartir</a></li>
     {{ end }}
 </ul>
 
