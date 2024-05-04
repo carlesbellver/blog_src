@@ -6,6 +6,13 @@
 	"feed_url": "http://localhost:1313/feed.json",
 	"items": [
 			{
+				"id": "http://localhost:1313/2024/05/03/46602/",
+				
+				"content_html": "<p>La meua oficina bancària té dos caixers. Avui un no funciona. L’altre sí. El que no funciona em recomana que busque el caixer més pròxim, que segons ell no seria el del costat, a dos pams, sinó un en un altre municipi, a una distància de trenta-quatre quilòmetres. Sent flaquejar per moments la meua fe cibernètica.</p>\n<img alt=\"Pantalla d’un caixer amb el text següent: “El cajero se encuentra fuera de servicio. Para su comodidad, le rogamos acuda a uno de nuestros cajeros más próximos: PZ ESPANA,2. 12591 LA LLOSA”\" src=\"/uploads/2024/2024-05-03-46602.jpg\">\n",
+				"date_published": "2024-05-03T16:30:44+02:00",
+				"url": "http://localhost:1313/2024/05/03/46602/"
+			},
+			{
 				"id": "http://localhost:1313/2024/04/11/48903/",
 				
 				"content_html": "<p>Quan Ausiàs Marc va complir tot just sis anyets (en el seu sisè aniversari, tal com diu la placa commemorativa), a Castelló ja sabíem que seria un gran poeta i quan es moriria, pobret.</p>\n<img alt=\"Placa en una paret d’un carrer. El text diu: “A Ausiàs March (1397-1459), poeta nacional, en el sisè aniversari del seu naixement a Castelló, 3 d’octubre de 19… (els últims dígits de l’any no es llegeixen, però s’entén que és 1997).”\" src=\"/uploads/2024/2024-04-11-48903.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou <a href=\"https://arxiv.org/pdf/2311.16863.pdf\">estudi</a> realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d’un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.</p>\n</blockquote>\n",
 				"date_published": "2023-12-04T11:33:29+01:00",
 				"url": "http://localhost:1313/2023/12/04/generative-ai-energy/"
-			},
-			{
-				"id": "http://localhost:1313/2023/11/25/placa-del-llibre/",
-				
-				"content_html": "<p>Plaça del Llibre de Castelló.</p>\n<img alt=\"\" src=\"/uploads/2023/2023-11-25-placa-del-llibre.jpg\">\n",
-				"date_published": "2023-11-25T19:58:57+01:00",
-				"url": "http://localhost:1313/2023/11/25/placa-del-llibre/"
 			}
 	]
 }

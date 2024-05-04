@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Com ens vigilen milers d’empreses i com ens  analitzen i influeixen en la vida de milers de milions de persones.
+Com ens vigilen milers d’empreses i com ens analitzen i influeixen en la vida de milers de milions de persones.
 
