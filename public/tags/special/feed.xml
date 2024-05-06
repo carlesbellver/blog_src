@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Special on La vista cansada</title>
-    <link>http://localhost:1313/tags/special/</link>
+    <link>http://localhost:61143/tags/special/</link>
     <description>La vista cansada (Special)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
     
-    <atom:link href="http://localhost:1313/tags/special/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61143/tags/special/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cercar</title>
-      <link>http://localhost:1313/search/</link>
+      <link>http://localhost:61143/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/search/</guid>
-      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/scripts/search.css&#34; /&gt;
-&lt;script src=&#34;http://localhost:1313/scripts/search.js&#34; defer&gt;&lt;/script&gt;
+      <guid>http://localhost:61143/search/</guid>
+      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;http://localhost:61143/scripts/search.css&#34; /&gt;
+&lt;script src=&#34;http://localhost:61143/scripts/search.js&#34; defer&gt;&lt;/script&gt;
 &lt;form class=&#34;search&#34; onSubmit=&#34;return false;&#34;&gt;
 	&lt;input class=&#34;field&#34; type=&#34;text&#34; name=&#34;q&#34; id=&#34;input_search&#34; placeholder=&#34;Paraules clau&#34; onChange=&#34;runSearch(this.value());&#34; /&gt;&lt;input class=&#34;submit&#34; type=&#34;submit&#34; value=&#34;cerca&#34; /&gt;
 &lt;/form&gt;
@@ -29,23 +29,23 @@
     
     <item>
       <title>Fotos</title>
-      <link>http://localhost:1313/photos/</link>
+      <link>http://localhost:61143/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/photos/</guid>
-      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/scripts/microgram.css&#34; /&gt;
+      <guid>http://localhost:61143/photos/</guid>
+      <description>&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;http://localhost:61143/scripts/microgram.css&#34; /&gt;
 &lt;div id=&#34;microgram&#34;&gt;
   S&#39;estan carregant les fotos…
 &lt;/div&gt;
-&lt;script src=&#34;http://localhost:1313/scripts/microgram.js&#34;&gt;&lt;/script&gt;</description>
+&lt;script src=&#34;http://localhost:61143/scripts/microgram.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     
     <item>
       <title>Tal dia com avui</title>
-      <link>http://localhost:1313/onthisday/</link>
+      <link>http://localhost:61143/onthisday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/onthisday/</guid>
+      <guid>http://localhost:61143/onthisday/</guid>
       <description>&lt;div id=&#34;onthisday&#34; class=&#34;post-list&#34;&gt;
   &lt;p&gt;S’estan carregant els textos…&lt;/p&gt;
   &lt;noscript&gt;
@@ -53,7 +53,7 @@
     &lt;p&gt;Aquesta pàgina utilitza JavaScript per a carregar un índex d’articles del lloc i seleccionar els que es van publicar tal dia com avui.&lt;/p&gt;
     &lt;/noscript&gt;
 &lt;/div&gt;
-&lt;script src=&#34;http://localhost:1313/scripts/micromemories.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://localhost:61143/scripts/micromemories.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     

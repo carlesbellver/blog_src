@@ -9,3 +9,4 @@ x_source = ""
 +++
 
 
+> La tragedia provocó que el entonces primer ministro de Italia, Matteo Renzi, comparara la situación de los migrantes con el asesinato de los musulmanes bosnios de Srebrenica durante la guerra de los Balcanes. 
