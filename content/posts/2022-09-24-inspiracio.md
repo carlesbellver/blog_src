@@ -1,6 +1,6 @@
 +++
 date = "2022-09-24T13:48:43+02:00"
-tags = []
+tags = ["llengua"]
 slug = "inspiracio"
 x_url = "https://42.carlesbellver.net"
 title = "Inspiració"

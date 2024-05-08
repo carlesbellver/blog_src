@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Morella on La vista cansada</title>
-    <link>http://localhost:61143/tags/morella/</link>
+    <link>http://localhost:55133/tags/morella/</link>
     <description>La vista cansada (Morella)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
     <lastBuildDate>Thu, 05 Jan 2023 13:13:41 +0100</lastBuildDate>
     
-    <atom:link href="http://localhost:61143/tags/morella/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55133/tags/morella/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>panoli</title>
-      <link>http://localhost:61143/2023/01/05/panoli/</link>
+      <link>http://localhost:55133/2023/01/05/panoli/</link>
       <pubDate>Thu, 05 Jan 2023 13:13:41 +0100</pubDate>
       
-      <guid>http://localhost:61143/2023/01/05/panoli/</guid>
+      <guid>http://localhost:55133/2023/01/05/panoli/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Del valenciano &lt;em&gt;panoli&lt;/em&gt;; propiamente ‘fruta de sartén’, contracc. de &lt;em&gt;pa en oli&lt;/em&gt; ‘pan con aceite’, en cat. &lt;em&gt;pa amb oli&lt;/em&gt;.&lt;/p&gt;
 &lt;ol&gt;
@@ -24,49 +24,49 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—RAE&lt;/p&gt;
-&lt;img alt=&#34;Panoli a l’aparador d’una pastisseria&#34; src=&#34;http://localhost:61143/uploads/2023/2023-01-05-panoli.jpg&#34;&gt;
+&lt;img alt=&#34;Panoli a l’aparador d’una pastisseria&#34; src=&#34;http://localhost:55133/uploads/2023/2023-01-05-panoli.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2021/08/28/vacances/</link>
+      <link>http://localhost:55133/2021/08/28/vacances/</link>
       <pubDate>Sat, 28 Aug 2021 15:03:39 +0200</pubDate>
       
-      <guid>http://localhost:61143/2021/08/28/vacances/</guid>
+      <guid>http://localhost:55133/2021/08/28/vacances/</guid>
       <description>&lt;p&gt;Les vacances.&lt;/p&gt;
-&lt;img alt=&#34;Passeig de l’Albereda. Morella&#34; src=&#34;http://localhost:61143/uploads/2021/2021-08-28-vacances.jpg&#34;&gt;
+&lt;img alt=&#34;Passeig de l’Albereda. Morella&#34; src=&#34;http://localhost:55133/uploads/2021/2021-08-28-vacances.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2021/08/15/31193/</link>
+      <link>http://localhost:55133/2021/08/15/31193/</link>
       <pubDate>Sun, 15 Aug 2021 13:35:53 +0000</pubDate>
       
-      <guid>http://localhost:61143/2021/08/15/31193/</guid>
+      <guid>http://localhost:55133/2021/08/15/31193/</guid>
       <description>&lt;p&gt;Gàrgola sufocada. Santa Maria de Morella. 35,9 ºC.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:61143/uploads/2021/2021-08-15-31156.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:55133/uploads/2021/2021-08-15-31156.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2021/08/06/selfi-morella-1414/</link>
+      <link>http://localhost:55133/2021/08/06/selfi-morella-1414/</link>
       <pubDate>Fri, 06 Aug 2021 10:43:49 +0200</pubDate>
       
-      <guid>http://localhost:61143/2021/08/06/selfi-morella-1414/</guid>
+      <guid>http://localhost:55133/2021/08/06/selfi-morella-1414/</guid>
       <description>&lt;p&gt;Sant Vicent Ferrer, Benet XIII i Ferran I d’Aragó. &lt;a href=&#34;https://es.wikipedia.org/wiki/Cisma_de_Occidente#Las_negociaciones_de_Morella&#34;&gt;Selfi a Morella, 1414&lt;/a&gt;.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:61143/uploads/2021/2021-08-06-selfi-morella-1414.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:55133/uploads/2021/2021-08-06-selfi-morella-1414.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       <title>John Perry Barlow i l’impacte d’Internet</title>
-      <link>http://localhost:61143/2021/02/07/jpbarlow/</link>
+      <link>http://localhost:55133/2021/02/07/jpbarlow/</link>
       <pubDate>Sun, 07 Feb 2021 08:55:00 +0100</pubDate>
       
-      <guid>http://localhost:61143/2021/02/07/jpbarlow/</guid>
+      <guid>http://localhost:55133/2021/02/07/jpbarlow/</guid>
       <description>&lt;p&gt;Avui fa tres anys que es va morir &lt;a href=&#34;https://ca.wikipedia.org/wiki/John_Perry_Barlow&#34;&gt;John Perry Barlow&lt;/a&gt;. Quan començàvem a saber què era això d’Internet, ell era un mite de les xarxes. A Morella, el 1997, vaig tenir l’oportunitat d’escoltar-lo, i de xarrar uns minuts amb ell i la seua acompanyant, en el meu anglès defectuós.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Una de les coses que intente fer a la meua vida és eliminar els mitjans de difusió. Vull eliminar tots els mitjans que no escolten ni responen i possibilitar cultures que no surten de Hollywood.&lt;/p&gt;
@@ -82,87 +82,87 @@
     
     <item>
       
-      <link>http://localhost:61143/2019/12/11/ajuntament-de-morella.html</link>
+      <link>http://localhost:55133/2019/12/11/ajuntament-de-morella.html</link>
       <pubDate>Wed, 11 Dec 2019 18:03:17 +0000</pubDate>
       
-      <guid>http://localhost:61143/2019/12/11/ajuntament-de-morella.html</guid>
+      <guid>http://localhost:55133/2019/12/11/ajuntament-de-morella.html</guid>
       <description>&lt;p&gt;Ajuntament de Morella. &lt;a href=&#34;http://arxiu.comarquesnord.cat/2019/03/07/morella-presenta-la-replica-del-timpa-de-la-porta-dels-apostols/&#34;&gt;Rèplica del timpà de la Porta dels Apòstols&lt;/a&gt;, església arxiprestal de Santa Maria la Major. Detall.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:61143/uploads/2019/219dd26117.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:55133/uploads/2019/219dd26117.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2019/08/17/keep-calm-and.html</link>
+      <link>http://localhost:55133/2019/08/17/keep-calm-and.html</link>
       <pubDate>Sat, 17 Aug 2019 10:10:53 +0000</pubDate>
       
-      <guid>http://localhost:61143/2019/08/17/keep-calm-and.html</guid>
+      <guid>http://localhost:55133/2019/08/17/keep-calm-and.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Keep calm and hold on, little &lt;a href=&#34;https://en.wikipedia.org/wiki/Grotesque_%28architecture%29&#34;&gt;babewyn&lt;/a&gt;&lt;/em&gt;. Santa Maria de Morella.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:61143/uploads/2019/7df4271651.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:55133/uploads/2019/7df4271651.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2018/11/28/184618.html</link>
+      <link>http://localhost:55133/2018/11/28/184618.html</link>
       <pubDate>Wed, 28 Nov 2018 17:46:18 +0000</pubDate>
       
-      <guid>http://localhost:61143/2018/11/28/184618.html</guid>
+      <guid>http://localhost:55133/2018/11/28/184618.html</guid>
       <description>&lt;p&gt;Passeig de l’Albereda de Morella. Monument a &lt;a href=&#34;https://ca.wikipedia.org/wiki/Manuel_Gonz%C3%A1lez_Mart%C3%AD&#34;&gt;Manuel González Martí&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:61143/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg&#34; /&gt;
+&lt;img src=&#34;http://localhost:55133/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Morella congrega més de 250 dimonis</title>
-      <link>http://localhost:61143/2017/11/05/115638.html</link>
+      <link>http://localhost:55133/2017/11/05/115638.html</link>
       <pubDate>Sun, 05 Nov 2017 10:56:00 +0000</pubDate>
       
-      <guid>http://localhost:61143/2017/11/05/115638.html</guid>
+      <guid>http://localhost:55133/2017/11/05/115638.html</guid>
       <description>&lt;p&gt;‪Es necessita exorcista amb experiència.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:St._Francis_Borgia_Helping_a_Dying_Impenitent_by_Goya.jpg&#34;&gt;&lt;img src=&#34;http://localhost:61143/wp-content/uploads/2017/11/83c53d03566c4069b13f2c47c49dde32.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:St._Francis_Borgia_Helping_a_Dying_Impenitent_by_Goya.jpg&#34;&gt;&lt;img src=&#34;http://localhost:55133/wp-content/uploads/2017/11/83c53d03566c4069b13f2c47c49dde32.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2017/08/12/172005.html</link>
+      <link>http://localhost:55133/2017/08/12/172005.html</link>
       <pubDate>Sat, 12 Aug 2017 16:20:05 +0000</pubDate>
       
-      <guid>http://localhost:61143/2017/08/12/172005.html</guid>
+      <guid>http://localhost:55133/2017/08/12/172005.html</guid>
       <description>&lt;p&gt;Miles, Miles, Miles 🎶&lt;/p&gt;
-&lt;img src=&#34;http://localhost:61143/wp-content/uploads/2017/08/82b39972180f45f89a89f0124e9c78ab.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
+&lt;img src=&#34;http://localhost:55133/wp-content/uploads/2017/08/82b39972180f45f89a89f0124e9c78ab.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2017/08/11/213307.html</link>
+      <link>http://localhost:55133/2017/08/11/213307.html</link>
       <pubDate>Fri, 11 Aug 2017 20:33:07 +0000</pubDate>
       
-      <guid>http://localhost:61143/2017/08/11/213307.html</guid>
+      <guid>http://localhost:55133/2017/08/11/213307.html</guid>
       <description>&lt;p&gt;Sofà.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:61143/wp-content/uploads/2017/08/a5014d3d56984770abdc9415a75f5785.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
+&lt;img src=&#34;http://localhost:55133/wp-content/uploads/2017/08/a5014d3d56984770abdc9415a75f5785.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:61143/2017/08/05/213302.html</link>
+      <link>http://localhost:55133/2017/08/05/213302.html</link>
       <pubDate>Sat, 05 Aug 2017 20:33:02 +0000</pubDate>
       
-      <guid>http://localhost:61143/2017/08/05/213302.html</guid>
+      <guid>http://localhost:55133/2017/08/05/213302.html</guid>
       <description>&lt;p&gt;Per a començar les festes.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:61143/wp-content/uploads/2017/08/abf90ad17b3b4516aef585b886539e5d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34;&gt;
+&lt;img src=&#34;http://localhost:55133/wp-content/uploads/2017/08/abf90ad17b3b4516aef585b886539e5d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34;&gt;
 </description>
     </item>
     
     <item>
       <title>Your next seafood dinner might come with a QR code</title>
-      <link>http://localhost:61143/2016/08/19/your-next-seafood.html</link>
+      <link>http://localhost:55133/2016/08/19/your-next-seafood.html</link>
       <pubDate>Fri, 19 Aug 2016 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61143/2016/08/19/your-next-seafood.html</guid>
+      <guid>http://localhost:55133/2016/08/19/your-next-seafood.html</guid>
       <description>&lt;p&gt;Llegit en el &lt;em&gt;Daily Brief&lt;/em&gt; de Quartz:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;El pròxim sopar de peix podria incloure un codi QR. Una startup de Massachusetts està etiquetant totes les peces que capturen els seus pescadors i posa la informació en línia perquè els clients puguin verificar l’origen del menjar.&lt;/p&gt;
@@ -173,20 +173,20 @@
     
     <item>
       
-      <link>http://localhost:61143/2012/12/07/070456.html</link>
+      <link>http://localhost:55133/2012/12/07/070456.html</link>
       <pubDate>Fri, 07 Dec 2012 06:04:56 +0000</pubDate>
       
-      <guid>http://localhost:61143/2012/12/07/070456.html</guid>
+      <guid>http://localhost:55133/2012/12/07/070456.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany&#34;&gt;Lord Dunsany&lt;/a&gt; a Morella en la primera guerra carlista? Ho va somniar. Cercava la medalla de Cabrera que li donà una garsa i no la trobava.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Besnét d’un terrorista</title>
-      <link>http://localhost:61143/2006/11/21/besnt-dun-terrorista.html</link>
+      <link>http://localhost:55133/2006/11/21/besnt-dun-terrorista.html</link>
       <pubDate>Tue, 21 Nov 2006 23:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61143/2006/11/21/besnt-dun-terrorista.html</guid>
+      <guid>http://localhost:55133/2006/11/21/besnt-dun-terrorista.html</guid>
       <description>&lt;p&gt;Llegisc al Levante d’avui que l’Ajuntament de Morella ha convidat alguns descendents de Ramon Cabrera a visitar la ciutat, en ocasió del bicentenari del general que se celebra enguany. Un dels que han confirmat la participació als actes és l’escriptor i viatger anglès &lt;a href=&#34;https://en.wikipedia.org/wiki/Simon_Gandolfi&#34;&gt;Simon Gandolfi&lt;/a&gt;. En el seu blog &lt;a href=&#34;http://simongandolfi.blogspot.com/2006_07_09_archive.html#115301195153959632&#34;&gt;feia esment&lt;/a&gt; de la cita el 15 de juliol passat:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Per família, sóc tan britànic com hispànic. El meu besavi, Ramon Cabrera, era un terrorista espanyol. Va transformar la seua banda terrorista en un exèrcit, va guanyar batalles i va esdevenir marquès del Ter, comte de Morella. He de fer una xarrada a Morella el 6 [en realitat és el 8] de desembre en commemoració del seu bicentenari. En fer això, lloaré un terrorista i em convertiré en un criminal d’acord amb les estúpides lleis proposades per l’actual govern britànic i aprovades pel Parlament. Al govern, tristament, li manquen historiadors. La majoria són advocats. Si foren historiadors s’haurien guardat d’enviar les tropes a la guerra a l’Iraq i a l’Afganistan.&lt;/p&gt;
@@ -198,11 +198,11 @@
     
     <item>
       <title>Joan Francesc Mira, Sant Vicent i el miracle de Morella</title>
-      <link>http://localhost:61143/2002/09/29/joan-francesc-mira.html</link>
+      <link>http://localhost:55133/2002/09/29/joan-francesc-mira.html</link>
       <pubDate>Sun, 29 Sep 2002 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61143/2002/09/29/joan-francesc-mira.html</guid>
-      <description>&lt;img src=&#34;http://localhost:61143/uploads/2002/2002-09-29-enajenada.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+      <guid>http://localhost:55133/2002/09/29/joan-francesc-mira.html</guid>
+      <description>&lt;img src=&#34;http://localhost:55133/uploads/2002/2002-09-29-enajenada.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 &lt;p&gt;El Magazine de La Vanguardia de diumenge passat incloïa un article de Joan Francesc Mira titulat “San Vicente Ferrer en el tiempo de los milagros”. Mira hi esbossava breument el perfil del sant com a taumaturg (“autor de meravelles”) i de pas promocionava el seu propi llibre &lt;em&gt;Sant Vicent Ferrer. Vida i llegenda d’un predicador&lt;/em&gt;, premi Nacional de la Crítica.&lt;/p&gt;
 &lt;p&gt;L’enquesta de canonització de Sant Vicent, el 1455, va donar per bons un total de 873 miracles. No sé si un dels més xocants, el que va tenir lloc a Morella, figurava en aquella llista. Supose que sí. A mi, i a tota la classe de primer d’EGB, ens el va contar donya Paquita. Diu que una vegada van convidar a dinar el sant a una casa de la capital dels Ports. La mestressa, en veure que no tenia carn i ofuscada pel compromís, va decidir sacrificar el seu fill, un xiquet menut. El va matar, el va trossejar i el va guisar. Sant Vicent, però, es va ensumar la malifeta i va recompondre immediatament la criatura. Els artistes la representen dreta i nua damunt de la taula del menjador, entre plats i perols. Li mancava un dit, perquè sa mare l’havia mossegat per tastar-ne la tendror.&lt;/p&gt;
 &lt;p&gt;Mira opina, amb raó, que aquesta proesa és difícilment superable. La compara amb guariments i amb altres ressurreccions menys meritòries i conclou que “…no hay duda de que ganaría el premio de honor en cualquier competición universal de milagros.” Crec, tanmateix, que comet una exageració, víctima, potser, d’un excés patriòtic. Un professor tan sabut, d’erudició reconeguda, sens dubte no ignora que aquest miracle és còpia d’un altre anterior atribuït a Sant Nicolau de Bari, qui el va executar, a més a més, per triplicat: els seus beneficiaris van ser tres infants esquarterats per un carnisser. Amb la qual cosa, a dreta llei hauria d’endur-se ell el premi.&lt;/p&gt;

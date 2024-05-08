@@ -1,184 +1,184 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "La vista cansada",
-	"icon": "http://localhost:61143/",
-	"home_page_url": "http://localhost:61143/",
-	"feed_url": "http://localhost:61143/feed.json",
+	"icon": "http://localhost:55133/",
+	"home_page_url": "http://localhost:55133/",
+	"feed_url": "http://localhost:55133/feed.json",
 	"items": [
 			{
-				"id": "http://localhost:61143/2024/05/03/46602/",
+				"id": "http://localhost:55133/2024/05/03/46602/",
 				
 				"content_html": "<p>La meua oficina bancària té dos caixers. Avui un no funciona. L’altre sí. El que no funciona em recomana que busque el caixer més pròxim, que segons ell no seria el del costat, a dos pams, sinó un en un altre municipi, a una distància de trenta-quatre quilòmetres. Sent flaquejar per moments la meua fe cibernètica.</p>\n<img alt=\"Pantalla d’un caixer amb el text següent: “El cajero se encuentra fuera de servicio. Para su comodidad, le rogamos acuda a uno de nuestros cajeros más próximos: PZ ESPANA,2. 12591 LA LLOSA”\" src=\"/uploads/2024/2024-05-03-46602.jpg\">\n",
 				"date_published": "2024-05-03T16:30:44+02:00",
-				"url": "http://localhost:61143/2024/05/03/46602/"
+				"url": "http://localhost:55133/2024/05/03/46602/"
 			},
 			{
-				"id": "http://localhost:61143/2024/04/11/48903/",
+				"id": "http://localhost:55133/2024/04/11/48903/",
 				
 				"content_html": "<p>Quan Ausiàs Marc va complir tot just sis anyets (en el seu sisè aniversari, tal com diu la placa commemorativa), a Castelló ja sabíem que seria un gran poeta i quan es moriria, pobret.</p>\n<img alt=\"Placa en una paret d’un carrer. El text diu: “A Ausiàs March (1397-1459), poeta nacional, en el sisè aniversari del seu naixement a Castelló, 3 d’octubre de 19… (els últims dígits de l’any no es llegeixen, però s’entén que és 1997).”\" src=\"/uploads/2024/2024-04-11-48903.jpg\">\n",
 				"date_published": "2024-04-11T17:24:18+02:00",
-				"url": "http://localhost:61143/2024/04/11/48903/"
+				"url": "http://localhost:55133/2024/04/11/48903/"
 			},
 			{
-				"id": "http://localhost:61143/2024/04/07/amazon-fresh/",
+				"id": "http://localhost:55133/2024/04/07/amazon-fresh/",
 				"title": "Amazon Fresh kills “Just Walk Out” shopping tech —it never really worked",
 				"content_html": "<p>Els supermercats d’Amazon sense caixes ni caixers “Just Walk Out” no funcionaven precisament gràcies a la Intel·ligència Artificial. Mil treballadors revisaven i etiquetaven des de l’Índia les imatges dels productes captades per les càmeres.</p>\n<p>Ja <a href=\"/2018/02/21/philip-k-dick.html\">comentàvem fa uns anys</a> que no vivim en el futur d’Orwell, sinó en el de Philip K. Dick. Un mon ple d’engany, caos i confusió on juga un paper clau una tecnologia que és alhora sofisticada i tramposa.</p>\n<blockquote>\n<p>L’informe diu que Amazon no va reeixir mai a reduir les revisions humanes i que “la dependència d’humans de suport explica en part per què els clients podien trigar hores a rebre els rebuts”.</p>\n</blockquote>\n",
 				"date_published": "2024-04-07T13:13:36+02:00",
-				"url": "http://localhost:61143/2024/04/07/amazon-fresh/"
+				"url": "http://localhost:55133/2024/04/07/amazon-fresh/"
 			},
 			{
-				"id": "http://localhost:61143/2024/04/01/cookie-banner-law/",
+				"id": "http://localhost:55133/2024/04/01/cookie-banner-law/",
 				"title": "There is no EU cookie banner law",
 				"content_html": "<p>El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.</p>\n<p>Però sí que fa obligatori demanar autorització a l’usuari per a qualsevol tractament de dades que comporte identificar-lo, o que puga permetre identificar-lo. Per això seria més prudent desconfiar de totes les pàgines que ens presenten l’avís, ja que estan implicant que volen utilitzar les nostres dades, i ens hauríem de preguntar per a què. La majoria de les vegades, no per a prestar-nos cap servei, sinó per al negoci de la publicitat.</p>\n<p>De fet, la manera més habitual de presentar l’avís pot ser il·legal, moltes vegades, en virtut del mateix RGPD. Com a poc, sempre que se’ns convida a acceptar totes les galetes, no se’ns facilita rebutjar-les o no se’ns informa clarament de l’ús que se’n farà. Perquè el consentiment ha de ser lliure i informat, i això no són, o no haurien de ser, només paraules buides.</p>\n",
 				"date_published": "2024-04-01T16:44:27+02:00",
-				"url": "http://localhost:61143/2024/04/01/cookie-banner-law/"
+				"url": "http://localhost:55133/2024/04/01/cookie-banner-law/"
 			},
 			{
-				"id": "http://localhost:61143/2024/03/21/quine/",
+				"id": "http://localhost:55133/2024/03/21/quine/",
 				
 				"content_html": "<blockquote>\n<p>Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error científic creure el contrari. Però pel que fa a la base epistemològica, els objectes físics i els déus només difereixen en grau i no en espècie. Ambdós tipus d’entitats entren en la nostra concepció només com a postulats culturals. El mite dels objectes físics és epistemològicament superior a la majoria, ja que ha demostrat ser més eficaç que altres mites com a recurs per a bastir una estructura manejable en el flux de l’experiència.</p>\n</blockquote>\n<p>—Willard V. O. Quine, “Dos dogmes de l’empirisme”.</p>\n<figure>\n  <img src=\"/uploads/2024/2024-03-21-autor.jpg\" alt=\"Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.\">\n  <figcaption>L’autor d’aquest blog, rellegint “Two Dogmas of Empiricism” de Willard V. O. Quine en la traducció al castellà de Manuel Sacristán (“Dos dogmas del empirismo“, dins de “Desde un punto de vista lógico”).</figcaption>\n</figure>\n",
 				"date_published": "2024-03-21T17:42:29+01:00",
-				"url": "http://localhost:61143/2024/03/21/quine/"
+				"url": "http://localhost:55133/2024/03/21/quine/"
 			},
 			{
-				"id": "http://localhost:61143/2024/03/21/malick/",
+				"id": "http://localhost:55133/2024/03/21/malick/",
 				"title": "Terrence Malick’s introduction to ‘The Essence Of Reasons’ By Martin Heidegger",
 				"content_html": "<p>Abans de dedicar-se al cinema, <a href=\"https://en.wikipedia.org/wiki/Terrence_Malick\">Terrence Malick</a> —<em>Badlands</em>, <em>The Thin Red Line</em>, <em>The Tree of Life</em>, etc.— va estudiar filosofia. Primer a Harvard i després a Oxford, on pareix que no es va entendre amb el seu tutor, el famós <a href=\"https://en.wikipedia.org/wiki/Gilbert_Ryle\">Gilbert Ryle</a>, autor de la influent obra <em>The Concept of Mind</em>. I per això no va acabar la seua tesi sobre el concepte de món en Kierkegaard, Heidegger i Wittgenstein. És a dir, precisament allò que Manuel Jiménez <a href=\"/2018/02/16/treuren-lentrellat.html\">identificava</a> com un dels temes de fons d’una bona part de la filosofia del segle XX:</p>\n<blockquote>\n<p>En <em>La crisis de las ciencias europeas</em> de Husserl, en <em>Ser y Tiempo</em>de Heidegger, en las <em>Investigaciones filosóficas</em> y en <em>Sobre la certeza</em> de Wittgenstein y en <em>Dos dogmas del empirismo</em> de Quine, de forma inmediata o mediata, damos con algo que es común […]”</p>\n</blockquote>\n<p>Llàstima que Malick no acabara la tesi. Però, almenys, el 1969 va publicar la seua traducció de <em>Vom Wesen des Grundes</em> (<em>The Essence of Reasons</em>) de Martin Heidegger. I a través de l’Internet Archive podem llegir-ne <a href=\"https://archive.org/details/MALICK1969IntroductionCriticalNotesEssenceOfReasons\">la introducció del mateix Malick i les seues notes crítiques</a>, que intenten dilucidar uns quants dels sempre ardus conceptes heideggerians.</p>\n",
 				"date_published": "2024-03-21T17:25:58+01:00",
-				"url": "http://localhost:61143/2024/03/21/malick/"
+				"url": "http://localhost:55133/2024/03/21/malick/"
 			},
 			{
-				"id": "http://localhost:61143/2024/03/13/feromones/",
+				"id": "http://localhost:55133/2024/03/13/feromones/",
 				"title": "Feromonas humanas: ¿de verdad existen?",
 				"content_html": "<p>El terme “feromona” es va utilitzar per primera vegada el 1959, però fins al segle XXI no es va poder identificar aquestes substàncies en mamífers. En els humans, s’han buscat en les glàndules sudorípares axil·lars i en l’arèola mamària.</p>\n<blockquote>\n<p>Si identificáramos la feromona de las glándulas areolares, tal vez podríamos usarla para conseguir más fácilmente el milagro de la lactancia materna. Un interesante reto para la ciencia futura.</p>\n</blockquote>\n",
 				"date_published": "2024-03-13T19:15:05+01:00",
-				"url": "http://localhost:61143/2024/03/13/feromones/"
+				"url": "http://localhost:55133/2024/03/13/feromones/"
 			},
 			{
-				"id": "http://localhost:61143/2024/02/27/flextv/",
+				"id": "http://localhost:55133/2024/02/27/flextv/",
 				"title": "China’s next cultural export could be TikTok-style short soap operas",
 				"content_html": "<p>Telesèries en episodis de dos minuts? Però fa un parell d’anys ens deien que venia una allau de novel·les web per entregues: <a href=\"https://www.protocol.com/china/chinese-web-novels-china\">“China is reinventing the way the world reads”</a>.</p>\n",
 				"date_published": "2024-02-27T22:07:46+01:00",
-				"url": "http://localhost:61143/2024/02/27/flextv/"
+				"url": "http://localhost:55133/2024/02/27/flextv/"
 			},
 			{
-				"id": "http://localhost:61143/2024/02/23/75500/",
+				"id": "http://localhost:55133/2024/02/23/75500/",
 				
 				"content_html": "<p>El nostre PA de cada dia.</p>\n<img alt=\"Foto d’un blíster de medicaments, amb la llegenda “PA”\" src=\"/uploads/2024/2024-02-23-75500.jpg\">\n",
 				"date_published": "2024-02-23T09:05:15+01:00",
-				"url": "http://localhost:61143/2024/02/23/75500/"
+				"url": "http://localhost:55133/2024/02/23/75500/"
 			},
 			{
-				"id": "http://localhost:61143/2024/02/19/algorithm-warfare/",
+				"id": "http://localhost:55133/2024/02/19/algorithm-warfare/",
 				"title": "Algorithm Warfare: How Elon Musk uses Twitter to control brains",
 				"content_html": "<p>L’any 2017, Lakoff va categoritzar l’ús que feia de Twitter Donald Trump en el seu intent de controlar els fluxos d’informació “i controlar així els nostres cervells”. Ara, Elon Musk replica i amplia l’abast d’aquestes mateixes tàctiques des de la seua posició privilegiada d’amo de la plataforma i l’algoritme.</p>\n<ol>\n<li>Enquadrar el marc de discussió a la seua conveniència abans que puguen fer-ho altres.</li>\n<li>Distraure l’atenció amb informació falsa i enganyosa.</li>\n<li>Reorientar les discussions cap a on li interessa.</li>\n<li>Enviar globus sonda per avaluar les reaccions de l’opinió pública.</li>\n</ol>\n<p><a href=\"https://www.theframelab.org/p/algorithm-warfare-how-elon-musk-uses\" title=\"How Elon Musk uses Twitter to control brains\"><img src=\"https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2756d8bc-6566-4b67-a209-6da94062743f_936x1200.jpeg\" alt=\"Infographic: a taxonomy of Trump Tweets by George Lakoff\"></a></p>\n",
 				"date_published": "2024-02-19T19:19:53+01:00",
-				"url": "http://localhost:61143/2024/02/19/algorithm-warfare/"
+				"url": "http://localhost:55133/2024/02/19/algorithm-warfare/"
 			},
 			{
-				"id": "http://localhost:61143/2024/02/14/39544/",
+				"id": "http://localhost:55133/2024/02/14/39544/",
 				"title": "The Berkeley Hotel hostage",
 				"content_html": "<p>L’editorial comptava amb el seu nou llibre, però a Douglas Adams li costava posar-s’hi. Així que l’editor es va tancar amb ell en una suite d’hotel fins que el va enllestir.</p>\n<blockquote>\n<p>Douglas gaudia de ser un escriptor famós, però n’odiava el procediment. Implicava escriure. Ell detestava fer-ho. Era una feina dura i solitària.</p>\n</blockquote>\n",
 				"date_published": "2024-02-14T20:39:37+01:00",
-				"url": "http://localhost:61143/2024/02/14/39544/"
+				"url": "http://localhost:55133/2024/02/14/39544/"
 			},
 			{
-				"id": "http://localhost:61143/2024/02/04/65511/",
+				"id": "http://localhost:55133/2024/02/04/65511/",
 				"title": "Los índices de lectura de los españoles se mantienen estables tras la pandemia y crecen cinco puntos respecto a 2012",
 				"content_html": "<p>Nova edició del <em>Barómetro de Hábitos de Lectura y Compra de Libros en España</em>. Els percentatges de població lectora varien depenent de l’edat, el nivell educatiu i el gènere.</p>\n",
 				"date_published": "2024-02-04T17:52:20+01:00",
-				"url": "http://localhost:61143/2024/02/04/65511/"
+				"url": "http://localhost:55133/2024/02/04/65511/"
 			},
 			{
-				"id": "http://localhost:61143/2024/02/02/botshit/",
+				"id": "http://localhost:55133/2024/02/02/botshit/",
 				"title": "I assure you, an AI didn’t write a terrible “George Carlin” routine",
 				"content_html": "<blockquote>\n<p>…no estem ni de bon tros a punt que una IA puga fer la teua feina, però ja estem molt més enllà del punt en què el teu cap pot ser enganyat i acomiadar-te per reemplaçar-te amb un robot que farà malament la teua feina.</p>\n</blockquote>\n<p>—Cory Doctorow</p>\n",
 				"date_published": "2024-02-02T14:22:32+01:00",
-				"url": "http://localhost:61143/2024/02/02/botshit/"
+				"url": "http://localhost:55133/2024/02/02/botshit/"
 			},
 			{
-				"id": "http://localhost:61143/2024/01/31/arora-goyal/",
+				"id": "http://localhost:55133/2024/01/31/arora-goyal/",
 				"title": "New Theory Suggests Chatbots Can Understand Text",
 				"content_html": "<p>Explicació entenedora de l’<a href=\"https://arxiv.org/abs/2307.15936\">article</a> d’Arora i Goyal. A mesura que s’incrementa la complexitat dels models es perfecciona l’emulació del llenguatge natural, de manera que les proferències (frases) artificials es fan més i més indistingibles d’aquelles que en les persones impliquen la comprensió dels significats.</p>\n<blockquote>\n<p>“El que l’equip ha demostrat teòricament, i ha confirmat empíricament, és que hi ha generalització compositiva, és a dir, que els LLM són capaços de combinar blocs de construcció com mai s’havien combinat abans. Això, per a mi, és l’essència de la creativitat.”</p>\n</blockquote>\n",
 				"date_published": "2024-01-31T15:18:11+01:00",
-				"url": "http://localhost:61143/2024/01/31/arora-goyal/"
+				"url": "http://localhost:55133/2024/01/31/arora-goyal/"
 			},
 			{
-				"id": "http://localhost:61143/2024/01/25/05933/",
+				"id": "http://localhost:55133/2024/01/25/05933/",
 				
 				"content_html": "<p>Perdem facultats. O si més no alguna lletra.</p>\n<img alt=\"Cartell indicatiu de la Facultat de Ciències de la Salut de la Universitat Jaume I de Castelló, on falta la lletra ela en la paraula “Facultat”\" src=\"/uploads/2024/2024-01-25-05933.jpg\">\n",
 				"date_published": "2024-01-25T19:05:51+01:00",
-				"url": "http://localhost:61143/2024/01/25/05933/"
+				"url": "http://localhost:55133/2024/01/25/05933/"
 			},
 			{
-				"id": "http://localhost:61143/2024/01/19/64196/",
+				"id": "http://localhost:55133/2024/01/19/64196/",
 				"title": "6 Tenets of Postplagiarism: Writing in the Age of Artificial Intelligence",
 				"content_html": "<ol>\n<li>La hibridació de l’escriptura humana amb l’IA esdevindrà normal.</li>\n<li>La IA contribuirà a ampliar la creativitat humana.</li>\n<li>Es reduiran les barreres idiomàtiques.</li>\n<li>Les persones podem cedir control a l’IA, però no podem defugir la responsabilitat.</li>\n<li>L’atribució de l’autoria continuarà sent important.</li>\n<li>Les definicions tradicionals de plagi deixaran de ser vàlides i per tant no seran útils.</li>\n</ol>\n",
 				"date_published": "2024-01-19T12:36:56+01:00",
-				"url": "http://localhost:61143/2024/01/19/64196/"
+				"url": "http://localhost:55133/2024/01/19/64196/"
 			},
 			{
-				"id": "http://localhost:61143/2024/01/14/53935/",
+				"id": "http://localhost:55133/2024/01/14/53935/",
 				"title": "ALT redux",
 				"content_html": "<p>Una tipologia de prediccions enfocada a la tecnologia educativa, però generalitzable, potser, a altres àmbits.</p>\n<ol>\n<li>Prediccions de cotxes voladors: fum tecnològic amb objectius propagandístics, però sense base material.</li>\n<li>Extrapolacions estadístiques de tendències actuals: útils, almenys fins que arriba una crisi, un moviment imprevist, un canvi disruptiu, etc.</li>\n<li>Profecies apocalíptiques: basades en sensacions, desitjos o ideologia, més que en dades o fets.</li>\n</ol>\n",
 				"date_published": "2024-01-14T18:39:23+01:00",
-				"url": "http://localhost:61143/2024/01/14/53935/"
+				"url": "http://localhost:55133/2024/01/14/53935/"
 			},
 			{
-				"id": "http://localhost:61143/2024/01/12/ai-muse/",
+				"id": "http://localhost:55133/2024/01/12/ai-muse/",
 				
 				"content_html": "<blockquote>\n<p>ChatGPT és una musa, no un oracle.</p>\n</blockquote>\n<p>— <a href=\"https://youtu.be/oy7uMpPrGMA\">You Can Build an App in 60 Minutes with ChatGPT - Ep. 5 with Geoffrey Litt - YouTube</a></p>\n",
 				"date_published": "2024-01-12T11:38:38+01:00",
-				"url": "http://localhost:61143/2024/01/12/ai-muse/"
+				"url": "http://localhost:55133/2024/01/12/ai-muse/"
 			},
 			{
-				"id": "http://localhost:61143/2024/01/04/51693/",
+				"id": "http://localhost:55133/2024/01/04/51693/",
 				"title": "Tech Billionaires Need to Stop Trying to Make the Science Fiction They Grew Up on Real",
 				"content_html": "<p>Els multimilionaris de Silicon Valley (Musk, Bezos, Thiel, etc.) han adoptat com a full de ruta els relats distòpics de la ciència-ficció de fa cinquanta anys.</p>\n",
 				"date_published": "2024-01-04T08:01:42+01:00",
-				"url": "http://localhost:61143/2024/01/04/51693/"
+				"url": "http://localhost:55133/2024/01/04/51693/"
 			},
 			{
-				"id": "http://localhost:61143/2023/12/22/27075/",
+				"id": "http://localhost:55133/2023/12/22/27075/",
 				
 				"content_html": "<p>Avui fa dia de rellegir <a href=\"https://ciudadseva.com/texto/la-loteria-en-babilonia/\">“La lotería en Babilonia”</a> de J. L. Borges.</p>\n",
 				"date_published": "2023-12-22T07:38:09+01:00",
-				"url": "http://localhost:61143/2023/12/22/27075/"
+				"url": "http://localhost:55133/2023/12/22/27075/"
 			},
 			{
-				"id": "http://localhost:61143/2023/12/20/nou-llibre/",
+				"id": "http://localhost:55133/2023/12/20/nou-llibre/",
 				
 				"content_html": "<p>Aquelles frases que <a href=\"/2020/12/20/pop-art/\">fa tres anys</a> començaven a créixer orgànicament són ara el principi d’un relat molt més llarg, part d’un nou recull que l’any que ve intentaré publicar.</p>\n<img alt=\"Animació de l’evolució d’un document de text al llarg de versions successives\" src=\"/uploads/2020/2020-12-20-pop-art.gif\" style=\"max-height:560px\">\n",
 				"date_published": "2023-12-20T18:35:30+01:00",
-				"url": "http://localhost:61143/2023/12/20/nou-llibre/"
+				"url": "http://localhost:55133/2023/12/20/nou-llibre/"
 			},
 			{
-				"id": "http://localhost:61143/2023/12/17/work-while-sleeping/",
+				"id": "http://localhost:55133/2023/12/17/work-while-sleeping/",
 				"title": "Lucid dream startup says you can work in your sleep",
 				"content_html": "<p>Malsons del capitalisme avançat. Una <em>startup</em> pretén comercialitzar un aparell que indueix somnis lúcids —mitjançant ultrasons— per poder treballar mentre dorms.</p>\n<blockquote>\n<p>La gent passa un terç de la vida dormint. I si els empleats pogueren treballar durant aquest temps… en somnis? Prophetic, una startup finançada per capital risc, fundada a principis d’aquest any, vol ajudar els treballadors a fer-ho. Mitjançant uns auriculars anomenats “Halo”, Prophetic diu que els consumidors poden induir un estat de somni lúcid, que es produeix quan la persona que té un somni és conscient que està dormint. L’objectiu és donar a les persones control sobre els seus somnis, de manera que puguen utilitzar aquest temps de manera productiva. Un CEO podria practicar per a la pròxima reunió, un esportista podria assajar jugades, un dissenyador web podria crear plantilles: “l’únic límit és la imaginació”.</p>\n<p>Funcionarà alliberant feixos d’ultrasons enfocats a una regió del cervell implicada en els somnis lúcids. Els raigs activaran les parts del cervell que controlen la presa de decisions i la consciència. Per crear l’Halo, Prophetic treballa amb el fundador de Card79 Afshin Mehin, que va dissenyar el dispositiu Neuralink N1 per a l’empresa d’implants cerebrals d’Elon Musk.</p>\n</blockquote>\n",
 				"date_published": "2023-12-17T13:52:21+01:00",
-				"url": "http://localhost:61143/2023/12/17/work-while-sleeping/"
+				"url": "http://localhost:55133/2023/12/17/work-while-sleeping/"
 			},
 			{
-				"id": "http://localhost:61143/2023/12/17/16395/",
+				"id": "http://localhost:55133/2023/12/17/16395/",
 				
 				"content_html": "<p>Operación Ogro.</p>\n<img alt=\"Foto d’un periòdic obert damunt d’una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.\" src=\"/uploads/2023/2023-12-17-16395.jpg\">\n",
 				"date_published": "2023-12-17T13:33:29+01:00",
-				"url": "http://localhost:61143/2023/12/17/16395/"
+				"url": "http://localhost:55133/2023/12/17/16395/"
 			},
 			{
-				"id": "http://localhost:61143/2023/12/11/waterloo/",
+				"id": "http://localhost:55133/2023/12/11/waterloo/",
 				"title": "Waterloo, le ossa dei caduti in battaglia usate per raffinare lo zucchero",
 				"content_html": "<blockquote>\n<p>L’enigma es resol ara amb l’estudi de dos historiadors autoritzats, el belga Bernard Wilkin i l’alemany Robin Schäfer, que juntament amb l’arqueòleg britànic Tony Pollard han documentat una veritat sensacional i esgarrifosa: els ossos dels morts a Waterloo van desaparèixer perquè van ser progressivament i il·legalment desenterrats entre 1834 i 1860 per a emprar-los massivament en la indústria sucrera belga com a filtre per a refinar i blanquejar el sucre. Segons els estudiosos, una part dels ossos també es va transformar en adobs.</p>\n</blockquote>\n",
 				"date_published": "2023-12-11T16:35:55+01:00",
-				"url": "http://localhost:61143/2023/12/11/waterloo/"
+				"url": "http://localhost:55133/2023/12/11/waterloo/"
 			},
 			{
-				"id": "http://localhost:61143/2023/12/04/generative-ai-energy/",
+				"id": "http://localhost:55133/2023/12/04/generative-ai-energy/",
 				"title": "Making an image with generative AI uses as much energy as charging your phone",
 				"content_html": "<blockquote>\n<p>De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou <a href=\"https://arxiv.org/pdf/2311.16863.pdf\">estudi</a> realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d’un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.</p>\n</blockquote>\n",
 				"date_published": "2023-12-04T11:33:29+01:00",
-				"url": "http://localhost:61143/2023/12/04/generative-ai-energy/"
+				"url": "http://localhost:55133/2023/12/04/generative-ai-energy/"
 			}
 	]
 }

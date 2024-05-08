@@ -3,7 +3,7 @@ url = "/2016/09/24/sexe-i-gnere.html"
 title = "Sexe i gènere en el llenguatge"
 date = "2016-09-24T22:00:00+00:00"
 slug = "sexe-i-gnere"
-tags = ["retalls"]
+tags = ["retalls", "llengua"]
 x_url = "http://blogs.cccb.org/lab/article_el-que-li-deu-el-genere-a-la-gramatica/"
 +++
 

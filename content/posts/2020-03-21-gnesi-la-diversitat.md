@@ -2,6 +2,7 @@
 url = "/2020/03/21/gnesi-la-diversitat.html"
 date = "2020-03-21T16:38:12+00:00"
 slug = "gnesi-la-diversitat"
+tags = ["llengua"]
 +++
 
 {{< icon book >}} [Gènesi 11, 1–9](https://www.biblija.net/biblija.cgi?m=Gn+11%2C1-9&id24=1&pos=1&set=15&l=ca): la diversitat lingüística és una decisió divina. Resulta tan contradictori oposar-s’hi des de posicions nacionalcatòliques!

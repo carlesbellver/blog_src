@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Una manera fàcil de reciclar un ordinador amb Chromium OS i convertir-lo en un Chromebook. Gratis per a ús personal.
+Una manera fàcil de reciclar un ordinador instal·lant-hi Chromium OS i convertir-lo en un Chromebook. Gratis per a ús personal.

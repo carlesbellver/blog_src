@@ -1,6 +1,6 @@
 +++
 date = "2023-06-07T22:29:13+02:00"
-tags = ["retalls"]
+tags = ["retalls", "llengua"]
 slug = "internet-most-used-languages"
 x_url = "https://restofworld.org/2023/internet-most-used-languages/"
 title = "What languages dominate the internet?"

@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-Quan utilitzeu un caixer automàtic, és probable que la transacció sigui facilitada per un llenguatge de programació que té més de seixanta anys.
+Quan utilitzeu un caixer automàtic, és probable que la transacció siga facilitada per un llenguatge de programació que té més de seixanta anys.
 

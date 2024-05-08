@@ -2,7 +2,7 @@
 title = "Cinc minuts en hongarès"
 date = "2002-02-17T22:00:00+00:00"
 slug = "cinc-minuts"
-tags = ["contes"]
+tags = ["contes", "llengua"]
 +++
 
 Avui, durant el dinar —és diumenge i hi érem tota la família, reunits al voltant de la taula—, he deixat d’entendre el que deien els altres. Em semblava reconèixer vagament les paraules que empraven, però no en copsava el sentit, com si tot d’una haguera oblidat la meua llengua materna. Quan he intentat parlar encara ha estat pitjor: feia basarda sentir, eixint de la meva boca, aquells modismes inintel·ligibles, aparentment estrangers.

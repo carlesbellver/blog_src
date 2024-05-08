@@ -2,7 +2,7 @@
 url = "/2013/10/31/que-sacabi-aquesta.html"
 date = "2013-10-31T23:00:00+00:00"
 slug = "que-sacabi-aquesta"
-tags = ["retalls","citacions"]
+tags = ["retalls", "citacions", "llengua"]
 x_url = "http://www.vilaweb.cat/noticia/4153027/20131031/carme-junyent-sacabi-comedia-desdoblar-masculi-femeni.html"
 title = "“Que s’acabi aquesta comèdia de desdoblar en masculí i femení”"
 x_source = "Carme Junyent"

@@ -3,6 +3,7 @@ url = "/2009/04/14/estalinistes.html"
 title = "Estalinistes"
 date = "2009-04-14T22:00:00+00:00"
 slug = "estalinistes"
+tags = ["llengua"]
 +++
 
 De tant en tant, se senten brams o remucs en defensa de la puresa, la immutabilitat i la neutralitat absoluta de les normes gramaticals. Però, darrerament, quasi sempre sol ser davant d’algun intent d’ús no sexista del llenguatge. Que si aquest substantiu no té ni ha tingut (ni tindrà?) mai gènere, que si no cal i els sembla ridícul, o pesat, explicitar cada vegada la referència a homes i dones per separat, que si el gènere és gramatical i en les persones es diu sexe, etc.

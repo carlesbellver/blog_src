@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> El general Dwight D. Eisenhower… va insistir a utilitzar munició real en lloc de bales de fogueig per tal que els soldats poguessin sentir, veure i fins i tot olorar com era un camp de batalla real.
+> El general Dwight D. Eisenhower… va insistir a utilitzar munició real en lloc de bales de fogueig per tal que els soldats pogueren sentir, veure i fins i tot olorar com era un camp de batalla real.
 

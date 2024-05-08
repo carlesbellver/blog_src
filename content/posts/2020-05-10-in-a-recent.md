@@ -9,7 +9,7 @@ x_source = "Slavoj Zizek"
 +++
 
 
-> Tot això, no indica clarament la necessitat urgent d’una reorganització de l’economia global, que ja no estigui a mercè dels mecanismes del mercat? No parlem ací d’un comunisme d’estil antic, per descomptat, sinó d’un tipus d’organització global que pugui controlar i regular l’economia, així com limitar la sobirania dels estats nació quan calgui. Els països van ser capaços de fer-ho en el context de les guerres del passat, i ara tots ens estem aproximant de fet a un estat de guerra mèdica.
+> Tot això, no indica clarament la necessitat urgent d’una reorganització de l’economia global, que ja no estiga a mercè dels mecanismes del mercat? No parlem ací d’un comunisme d’estil antic, per descomptat, sinó d’un tipus d’organització global que puga controlar i regular l’economia, així com limitar la sobirania dels estats nació quan calga. Els països van ser capaços de fer-ho en el context de les guerres del passat, i ara tots ens estem aproximant de fet a un estat de guerra mèdica.
 > 
 > […]
 > 

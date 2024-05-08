@@ -1,6 +1,6 @@
 +++
 date = "2020-09-16T21:40:00"
-tags = []
+tags = ["llengua"]
 slug = "fins-on-cal-corregir"
 x_url = "https://www.catorze.cat/biblioteca/fins-cal-corregir-72840/"
 title = "Fins on cal corregir?"
