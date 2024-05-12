@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fotos on La vista cansada</title>
-    <link>http://localhost:51874/tags/fotos/</link>
+    <link>http://localhost:1313/tags/fotos/</link>
     <description>La vista cansada (Fotos)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
     <lastBuildDate>Fri, 03 May 2024 16:30:44 +0200</lastBuildDate>
     
-    <atom:link href="http://localhost:51874/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       
-      <link>http://localhost:51874/2024/05/03/46602/</link>
+      <link>http://localhost:1313/2024/05/03/46602/</link>
       <pubDate>Fri, 03 May 2024 16:30:44 +0200</pubDate>
       
-      <guid>http://localhost:51874/2024/05/03/46602/</guid>
+      <guid>http://localhost:1313/2024/05/03/46602/</guid>
       <description>&lt;p&gt;La meua oficina bancària té dos caixers. Avui un no funciona. L’altre sí. El que no funciona em recomana que busque el caixer més pròxim, que segons ell no seria el del costat, a dos pams, sinó un en un altre municipi, a una distància de trenta-quatre quilòmetres. Sent flaquejar per moments la meua fe cibernètica.&lt;/p&gt;
-&lt;img alt=&#34;Pantalla d’un caixer amb el text següent: “El cajero se encuentra fuera de servicio. Para su comodidad, le rogamos acuda a uno de nuestros cajeros más próximos: PZ ESPANA,2. 12591 LA LLOSA”&#34; src=&#34;http://localhost:51874/uploads/2024/2024-05-03-46602.jpg&#34;&gt;
+&lt;img alt=&#34;Pantalla d’un caixer amb el text següent: “El cajero se encuentra fuera de servicio. Para su comodidad, le rogamos acuda a uno de nuestros cajeros más próximos: PZ ESPANA,2. 12591 LA LLOSA”&#34; src=&#34;http://localhost:1313/uploads/2024/2024-05-03-46602.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2024/04/11/48903/</link>
+      <link>http://localhost:1313/2024/04/11/48903/</link>
       <pubDate>Thu, 11 Apr 2024 17:24:18 +0200</pubDate>
       
-      <guid>http://localhost:51874/2024/04/11/48903/</guid>
+      <guid>http://localhost:1313/2024/04/11/48903/</guid>
       <description>&lt;p&gt;Quan Ausiàs Marc va complir tot just sis anyets (en el seu sisè aniversari, tal com diu la placa commemorativa), a Castelló ja sabíem que seria un gran poeta i quan es moriria, pobret.&lt;/p&gt;
-&lt;img alt=&#34;Placa en una paret d’un carrer. El text diu: “A Ausiàs March (1397-1459), poeta nacional, en el sisè aniversari del seu naixement a Castelló, 3 d’octubre de 19… (els últims dígits de l’any no es llegeixen, però s’entén que és 1997).”&#34; src=&#34;http://localhost:51874/uploads/2024/2024-04-11-48903.jpg&#34;&gt;
+&lt;img alt=&#34;Placa en una paret d’un carrer. El text diu: “A Ausiàs March (1397-1459), poeta nacional, en el sisè aniversari del seu naixement a Castelló, 3 d’octubre de 19… (els últims dígits de l’any no es llegeixen, però s’entén que és 1997).”&#34; src=&#34;http://localhost:1313/uploads/2024/2024-04-11-48903.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2024/03/21/quine/</link>
+      <link>http://localhost:1313/2024/03/21/quine/</link>
       <pubDate>Thu, 21 Mar 2024 17:42:29 +0100</pubDate>
       
-      <guid>http://localhost:51874/2024/03/21/quine/</guid>
+      <guid>http://localhost:1313/2024/03/21/quine/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error científic creure el contrari. Però pel que fa a la base epistemològica, els objectes físics i els déus només difereixen en grau i no en espècie. Ambdós tipus d’entitats entren en la nostra concepció només com a postulats culturals. El mite dels objectes físics és epistemològicament superior a la majoria, ja que ha demostrat ser més eficaç que altres mites com a recurs per a bastir una estructura manejable en el flux de l’experiència.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Willard V. O. Quine, “Dos dogmes de l’empirisme”.&lt;/p&gt;
 &lt;figure&gt;
-  &lt;img src=&#34;http://localhost:51874/uploads/2024/2024-03-21-autor.jpg&#34; alt=&#34;Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/2024/2024-03-21-autor.jpg&#34; alt=&#34;Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.&#34;&gt;
   &lt;figcaption&gt;L’autor d’aquest blog, rellegint “Two Dogmas of Empiricism” de Willard V. O. Quine en la traducció al castellà de Manuel Sacristán (“Dos dogmas del empirismo“, dins de “Desde un punto de vista lógico”).&lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
@@ -52,121 +52,121 @@
     
     <item>
       
-      <link>http://localhost:51874/2024/02/23/75500/</link>
+      <link>http://localhost:1313/2024/02/23/75500/</link>
       <pubDate>Fri, 23 Feb 2024 09:05:15 +0100</pubDate>
       
-      <guid>http://localhost:51874/2024/02/23/75500/</guid>
+      <guid>http://localhost:1313/2024/02/23/75500/</guid>
       <description>&lt;p&gt;El nostre PA de cada dia.&lt;/p&gt;
-&lt;img alt=&#34;Foto d’un blíster de medicaments, amb la llegenda “PA”&#34; src=&#34;http://localhost:51874/uploads/2024/2024-02-23-75500.jpg&#34;&gt;
+&lt;img alt=&#34;Foto d’un blíster de medicaments, amb la llegenda “PA”&#34; src=&#34;http://localhost:1313/uploads/2024/2024-02-23-75500.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2024/01/25/05933/</link>
+      <link>http://localhost:1313/2024/01/25/05933/</link>
       <pubDate>Thu, 25 Jan 2024 19:05:51 +0100</pubDate>
       
-      <guid>http://localhost:51874/2024/01/25/05933/</guid>
+      <guid>http://localhost:1313/2024/01/25/05933/</guid>
       <description>&lt;p&gt;Perdem facultats. O si més no alguna lletra.&lt;/p&gt;
-&lt;img alt=&#34;Cartell indicatiu de la Facultat de Ciències de la Salut de la Universitat Jaume I de Castelló, on falta la lletra ela en la paraula “Facultat”&#34; src=&#34;http://localhost:51874/uploads/2024/2024-01-25-05933.jpg&#34;&gt;
+&lt;img alt=&#34;Cartell indicatiu de la Facultat de Ciències de la Salut de la Universitat Jaume I de Castelló, on falta la lletra ela en la paraula “Facultat”&#34; src=&#34;http://localhost:1313/uploads/2024/2024-01-25-05933.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/12/17/16395/</link>
+      <link>http://localhost:1313/2023/12/17/16395/</link>
       <pubDate>Sun, 17 Dec 2023 13:33:29 +0100</pubDate>
       
-      <guid>http://localhost:51874/2023/12/17/16395/</guid>
+      <guid>http://localhost:1313/2023/12/17/16395/</guid>
       <description>&lt;p&gt;Operación Ogro.&lt;/p&gt;
-&lt;img alt=&#34;Foto d’un periòdic obert damunt d’una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.&#34; src=&#34;http://localhost:51874/uploads/2023/2023-12-17-16395.jpg&#34;&gt;
+&lt;img alt=&#34;Foto d’un periòdic obert damunt d’una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.&#34; src=&#34;http://localhost:1313/uploads/2023/2023-12-17-16395.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/11/25/placa-del-llibre/</link>
+      <link>http://localhost:1313/2023/11/25/placa-del-llibre/</link>
       <pubDate>Sat, 25 Nov 2023 19:58:57 +0100</pubDate>
       
-      <guid>http://localhost:51874/2023/11/25/placa-del-llibre/</guid>
+      <guid>http://localhost:1313/2023/11/25/placa-del-llibre/</guid>
       <description>&lt;p&gt;Plaça del Llibre de Castelló.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2023/2023-11-25-placa-del-llibre.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2023/2023-11-25-placa-del-llibre.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/10/11/nit-mil-dos/</link>
+      <link>http://localhost:1313/2023/10/11/nit-mil-dos/</link>
       <pubDate>Wed, 11 Oct 2023 18:30:26 +0200</pubDate>
       
-      <guid>http://localhost:51874/2023/10/11/nit-mil-dos/</guid>
+      <guid>http://localhost:1313/2023/10/11/nit-mil-dos/</guid>
       <description>&lt;p&gt;Per circumstàncies del cicle vital dels llibres —i les llibreries—, aquesta setmana he tingut l’ocasió d’aconseguir dotze exemplars del número dotze de la col·lecció de narrativa de Tria: &lt;a href=&#34;https://carlesbellver.net/llibres/lanitmildos/&#34;&gt;&lt;em&gt;La nit mil dos&lt;/em&gt;&lt;/a&gt;. Una edició totalment descatalogada d’una &lt;a href=&#34;https://ca.wikipedia.org/wiki/Editorial_Tria_Llibres&#34;&gt;editorial&lt;/a&gt; misteriosament desapareguda.&lt;/p&gt;
 &lt;p&gt;En el seu moment, aquest llibret es venia per quinze euros. Si el voleu, ara us el podria fer arribar gratis. Oferta fins acabar existències.&lt;/p&gt;
-&lt;img alt=&#34;Pila d’exemplars del llibre “La nit mil dos” de Carles Bellver Torlà&#34; src=&#34;http://localhost:51874/uploads/2023/2023-10-11-nit-mil-dos.jpg&#34;&gt;
+&lt;img alt=&#34;Pila d’exemplars del llibre “La nit mil dos” de Carles Bellver Torlà&#34; src=&#34;http://localhost:1313/uploads/2023/2023-10-11-nit-mil-dos.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/07/22/49043/</link>
+      <link>http://localhost:1313/2023/07/22/49043/</link>
       <pubDate>Sat, 22 Jul 2023 20:04:25 +0200</pubDate>
       
-      <guid>http://localhost:51874/2023/07/22/49043/</guid>
+      <guid>http://localhost:1313/2023/07/22/49043/</guid>
       <description>&lt;p&gt;Ascensor parroquial. ↑ cel ↓ infern però sempre amb la màxima comoditat.&lt;/p&gt;
-&lt;img alt=&#34;Porta de l’ascensor d’un garatge en un carrer, coberta de grafits de colors. Damunt de la porta, en lletres de motle: “PARROQUIA STA. MARIA”&#34; src=&#34;http://localhost:51874/uploads/2023/2023-07-22-49043.jpg&#34;&gt;
+&lt;img alt=&#34;Porta de l’ascensor d’un garatge en un carrer, coberta de grafits de colors. Damunt de la porta, en lletres de motle: “PARROQUIA STA. MARIA”&#34; src=&#34;http://localhost:1313/uploads/2023/2023-07-22-49043.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/06/03/15301/</link>
+      <link>http://localhost:1313/2023/06/03/15301/</link>
       <pubDate>Sat, 03 Jun 2023 20:01:53 +0200</pubDate>
       
-      <guid>http://localhost:51874/2023/06/03/15301/</guid>
+      <guid>http://localhost:1313/2023/06/03/15301/</guid>
       <description>&lt;p&gt;Sala Sant Miquel. &lt;a href=&#34;https://www.fundacioncajacastellon.es/cambio-de-paradigma-coleccion-juan-redon/&#34;&gt;Canvi de paradigma. Col·lecció Juan Redón&lt;/a&gt;.&lt;/p&gt;
-&lt;img alt=&#34;Foto de la sala d’exposicions Sant Miquel de la Fundació Caixa Castelló.&#34; src=&#34;http://localhost:51874/uploads/2023/2023-06-03-15301.jpg&#34;&gt;
+&lt;img alt=&#34;Foto de la sala d’exposicions Sant Miquel de la Fundació Caixa Castelló.&#34; src=&#34;http://localhost:1313/uploads/2023/2023-06-03-15301.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/04/12/30738/</link>
+      <link>http://localhost:1313/2023/04/12/30738/</link>
       <pubDate>Wed, 12 Apr 2023 22:19:24 +0200</pubDate>
       
-      <guid>http://localhost:51874/2023/04/12/30738/</guid>
+      <guid>http://localhost:1313/2023/04/12/30738/</guid>
       <description>&lt;p&gt;Aquesta nit sent el soroll del mar a l’orella esquerra. Sense cap closca de caragol ni res.&lt;/p&gt;
-&lt;img alt=&#34;Imatge generada per DALLE·2 mitjançant el prompt següent: “An oil painting by Magritte of a man with a seashell head”&#34; src=&#34;http://localhost:51874/uploads/2023/2023-04-12-30738.jpg&#34;&gt;
+&lt;img alt=&#34;Imatge generada per DALLE·2 mitjançant el prompt següent: “An oil painting by Magritte of a man with a seashell head”&#34; src=&#34;http://localhost:1313/uploads/2023/2023-04-12-30738.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/03/25/69506/</link>
+      <link>http://localhost:1313/2023/03/25/69506/</link>
       <pubDate>Sat, 25 Mar 2023 19:38:36 +0100</pubDate>
       
-      <guid>http://localhost:51874/2023/03/25/69506/</guid>
+      <guid>http://localhost:1313/2023/03/25/69506/</guid>
       <description>&lt;p&gt;Avui hem comprat mandarines amb patent israeliana.&lt;/p&gt;
-&lt;img alt=&#34;Foto zenital d’unes mandarines en un bol&#34; src=&#34;http://localhost:51874/uploads/2023/2023-03-25-69506.jpg&#34;&gt;
+&lt;img alt=&#34;Foto zenital d’unes mandarines en un bol&#34; src=&#34;http://localhost:1313/uploads/2023/2023-03-25-69506.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2023/03/24/63432/</link>
+      <link>http://localhost:1313/2023/03/24/63432/</link>
       <pubDate>Fri, 24 Mar 2023 14:10:48 +0100</pubDate>
       
-      <guid>http://localhost:51874/2023/03/24/63432/</guid>
+      <guid>http://localhost:1313/2023/03/24/63432/</guid>
       <description>&lt;p&gt;A 24 de març, unes persones molt amables m’han portat una cistella de Nadal. És la cosa més coherent que m’ha passat avui a l’#UJI.&lt;/p&gt;
-&lt;img alt=&#34;Foto d’una cistella de Nadal damunt de la taula del despatx.&#34; src=&#34;http://localhost:51874/uploads/2023/2023-03-24-63432.jpg&#34;&gt;
+&lt;img alt=&#34;Foto d’una cistella de Nadal damunt de la taula del despatx.&#34; src=&#34;http://localhost:1313/uploads/2023/2023-03-24-63432.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       <title>panoli</title>
-      <link>http://localhost:51874/2023/01/05/panoli/</link>
+      <link>http://localhost:1313/2023/01/05/panoli/</link>
       <pubDate>Thu, 05 Jan 2023 13:13:41 +0100</pubDate>
       
-      <guid>http://localhost:51874/2023/01/05/panoli/</guid>
+      <guid>http://localhost:1313/2023/01/05/panoli/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Del valenciano &lt;em&gt;panoli&lt;/em&gt;; propiamente ‘fruta de sartén’, contracc. de &lt;em&gt;pa en oli&lt;/em&gt; ‘pan con aceite’, en cat. &lt;em&gt;pa amb oli&lt;/em&gt;.&lt;/p&gt;
 &lt;ol&gt;
@@ -174,340 +174,340 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—RAE&lt;/p&gt;
-&lt;img alt=&#34;Panoli a l’aparador d’una pastisseria&#34; src=&#34;http://localhost:51874/uploads/2023/2023-01-05-panoli.jpg&#34;&gt;
+&lt;img alt=&#34;Panoli a l’aparador d’una pastisseria&#34; src=&#34;http://localhost:1313/uploads/2023/2023-01-05-panoli.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/12/31/06424/</link>
+      <link>http://localhost:1313/2022/12/31/06424/</link>
       <pubDate>Sat, 31 Dec 2022 18:07:14 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/12/31/06424/</guid>
+      <guid>http://localhost:1313/2022/12/31/06424/</guid>
       <description>&lt;p&gt;L’any que ve ja toca.&lt;/p&gt;
-&lt;img alt=&#34;Pintura a l’oli d’un ovni sobre un camp, per DALLE·2&#34; src=&#34;http://localhost:51874/uploads/2022/2022-12-31-06424.jpg&#34;&gt;
+&lt;img alt=&#34;Pintura a l’oli d’un ovni sobre un camp, per DALLE·2&#34; src=&#34;http://localhost:1313/uploads/2022/2022-12-31-06424.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/12/22/30256/</link>
+      <link>http://localhost:1313/2022/12/22/30256/</link>
       <pubDate>Thu, 22 Dec 2022 18:31:01 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/12/22/30256/</guid>
+      <guid>http://localhost:1313/2022/12/22/30256/</guid>
       <description>&lt;p&gt;Bon Nadal.&lt;/p&gt;
-&lt;img alt=&#34;Felicitació de Nadal amb una imatge dels Reis d’Orient extreta de l’Atles Català de Cresques Abraham (1375).&#34; src=&#34;http://localhost:51874/uploads/2022/2022-12-22-30256.jpg&#34;&gt;
+&lt;img alt=&#34;Felicitació de Nadal amb una imatge dels Reis d’Orient extreta de l’Atles Català de Cresques Abraham (1375).&#34; src=&#34;http://localhost:1313/uploads/2022/2022-12-22-30256.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/12/13/55/</link>
+      <link>http://localhost:1313/2022/12/13/55/</link>
       <pubDate>Tue, 13 Dec 2022 19:44:14 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/12/13/55/</guid>
-      <description>&lt;p&gt;Avui he fet cinquanta-cinc anys. N’han passat quasi quaranta, per tant, des que els invents del senyor Clive Sinclair em van començar a ensenyar aquesta altra forma d’escriptura —o de màgia: la programació— que &lt;a href=&#34;http://localhost:51874/2021/04/14/healing-power-javascript/&#34;&gt;fa que passen coses&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2022/2022-12-13-55.jpg&#34; alt=&#34;Foto de Carles Bellver Torlà amb una samarreta amb el retol Sinclair ZX Spectrum i el nombre 55 sobreimprès.&#34;&gt;</description>
+      <guid>http://localhost:1313/2022/12/13/55/</guid>
+      <description>&lt;p&gt;Avui he fet cinquanta-cinc anys. N’han passat quasi quaranta, per tant, des que els invents del senyor Clive Sinclair em van començar a ensenyar aquesta altra forma d’escriptura —o de màgia: la programació— que &lt;a href=&#34;http://localhost:1313/2021/04/14/healing-power-javascript/&#34;&gt;fa que passen coses&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2022/2022-12-13-55.jpg&#34; alt=&#34;Foto de Carles Bellver Torlà amb una samarreta amb el retol Sinclair ZX Spectrum i el nombre 55 sobreimprès.&#34;&gt;</description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/12/01/desembre/</link>
+      <link>http://localhost:1313/2022/12/01/desembre/</link>
       <pubDate>Thu, 01 Dec 2022 08:07:45 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/12/01/desembre/</guid>
+      <guid>http://localhost:1313/2022/12/01/desembre/</guid>
       <description>&lt;p&gt;Passem full del calendari. &lt;em&gt;Conditions may apply.&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2022/2022-12-01-desembre.jpg&#34;&gt;</description>
+&lt;img src=&#34;http://localhost:1313/uploads/2022/2022-12-01-desembre.jpg&#34;&gt;</description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/10/16/domingo-cerrdo/</link>
+      <link>http://localhost:1313/2022/10/16/domingo-cerrdo/</link>
       <pubDate>Sun, 16 Oct 2022 17:18:38 +0200</pubDate>
       
-      <guid>http://localhost:51874/2022/10/16/domingo-cerrdo/</guid>
+      <guid>http://localhost:1313/2022/10/16/domingo-cerrdo/</guid>
       <description>&lt;p&gt;Diumenge &lt;em&gt;porrc&lt;/em&gt;. És un fet ben conegut la mala relació d’algunes persones amb el darrer dia de la setmana.&lt;/p&gt;
-&lt;img alt=&#34;Horari penjat a la porta d’un negoci: “Domingo cerrdo”.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-10-16-domingo-cerrdo.jpg&#34;&gt;
+&lt;img alt=&#34;Horari penjat a la porta d’un negoci: “Domingo cerrdo”.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-10-16-domingo-cerrdo.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/08/23/bombes/</link>
+      <link>http://localhost:1313/2022/08/23/bombes/</link>
       <pubDate>Tue, 23 Aug 2022 19:15:33 +0200</pubDate>
       
-      <guid>http://localhost:51874/2022/08/23/bombes/</guid>
+      <guid>http://localhost:1313/2022/08/23/bombes/</guid>
       <description>&lt;p&gt;Refugi antiaeri, plaça Tetuan de Castelló. En la projecció audiovisual, foto de la plaça Emilio Castelar (ara Porta del Sol). La gent corre a amagar-se en sentir les alarmes.&lt;/p&gt;
-&lt;img alt=&#34;Foto d’un túnel del refugi antiaeri de la plaça Tetuán de Castelló.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-08-23-bombes.jpg&#34;&gt;
+&lt;img alt=&#34;Foto d’un túnel del refugi antiaeri de la plaça Tetuán de Castelló.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-08-23-bombes.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/05/08/42/</link>
+      <link>http://localhost:1313/2022/05/08/42/</link>
       <pubDate>Sun, 08 May 2022 09:30:12 +0200</pubDate>
       
-      <guid>http://localhost:51874/2022/05/08/42/</guid>
+      <guid>http://localhost:1313/2022/05/08/42/</guid>
       <description>&lt;p&gt;La resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat.&lt;/p&gt;
-&lt;img alt=&#34;Grafit amb el número 42 en un poal d’escombraries.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-05-08-42.jpg&#34;&gt;
+&lt;img alt=&#34;Grafit amb el número 42 en un poal d’escombraries.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-05-08-42.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/05/06/fusteries/</link>
+      <link>http://localhost:1313/2022/05/06/fusteries/</link>
       <pubDate>Fri, 06 May 2022 19:07:01 +0000</pubDate>
       
-      <guid>http://localhost:51874/2022/05/06/fusteries/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;http://localhost:51874/svg.icons/book.svg&#34; /&gt; Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que trenta anys després participaria en l’homenatge que li retrien els escriptors de Castelló. En una discreta segona fila, evidentment, darrere de figures venerables com Vicent Pitarch, Lluís Meseguer i Toni Royo. Tots tres encarregats de presentar avui divendres, a la Fira del Llibre de Castelló, aquestes &lt;a href=&#34;https://www.elpontdeleslletres.cat/2022/05/11/fusteries-del-pont/&#34;&gt;&lt;em&gt;Fusteries d’El Pont&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2022/2022-05-06-fusteries.jpg&#34; alt=&#34;D’esquerra a dreta, Toni Royo, Vicent Pitarch i Lluís Meseguer en la Fira del Llibre de Castelló.&#34;&gt;
+      <guid>http://localhost:1313/2022/05/06/fusteries/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;http://localhost:1313/svg.icons/book.svg&#34; /&gt; Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que trenta anys després participaria en l’homenatge que li retrien els escriptors de Castelló. En una discreta segona fila, evidentment, darrere de figures venerables com Vicent Pitarch, Lluís Meseguer i Toni Royo. Tots tres encarregats de presentar avui divendres, a la Fira del Llibre de Castelló, aquestes &lt;a href=&#34;https://www.elpontdeleslletres.cat/2022/05/11/fusteries-del-pont/&#34;&gt;&lt;em&gt;Fusteries d’El Pont&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2022/2022-05-06-fusteries.jpg&#34; alt=&#34;D’esquerra a dreta, Toni Royo, Vicent Pitarch i Lluís Meseguer en la Fira del Llibre de Castelló.&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/04/30/far-west/</link>
+      <link>http://localhost:1313/2022/04/30/far-west/</link>
       <pubDate>Sat, 30 Apr 2022 17:55:03 +0200</pubDate>
       
-      <guid>http://localhost:51874/2022/04/30/far-west/</guid>
+      <guid>http://localhost:1313/2022/04/30/far-west/</guid>
       <description>&lt;p&gt;L’extrem occident. &lt;em&gt;Far West&lt;/em&gt;.&lt;/p&gt;
-&lt;img alt=&#34;Un cavallet del Corpus passant pel carrer sota l’atenta mirada d’un transeünt.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-04-30-far-west.jpg&#34;&gt;
+&lt;img alt=&#34;Un cavallet del Corpus passant pel carrer sota l’atenta mirada d’un transeünt.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-04-30-far-west.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/04/01/amor-lliure/</link>
+      <link>http://localhost:1313/2022/04/01/amor-lliure/</link>
       <pubDate>Fri, 01 Apr 2022 19:30:14 +0200</pubDate>
       
-      <guid>http://localhost:51874/2022/04/01/amor-lliure/</guid>
+      <guid>http://localhost:1313/2022/04/01/amor-lliure/</guid>
       <description>&lt;p&gt;L’amor lliure (i feliç).&lt;/p&gt;
-&lt;img alt=&#34;Grafit en una paret: “Be lesbian” i un cor somrient&#34; src=&#34;http://localhost:51874/uploads/2022/2022-04-01-amor-lliure.jpg&#34;&gt;
+&lt;img alt=&#34;Grafit en una paret: “Be lesbian” i un cor somrient&#34; src=&#34;http://localhost:1313/uploads/2022/2022-04-01-amor-lliure.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/02/23/busties-secretes/</link>
+      <link>http://localhost:1313/2022/02/23/busties-secretes/</link>
       <pubDate>Wed, 23 Feb 2022 21:30:14 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/02/23/busties-secretes/</guid>
+      <guid>http://localhost:1313/2022/02/23/busties-secretes/</guid>
       <description>&lt;p&gt;Les organitzacions clandestines utilitzaven sovint bústies secretes per a comunicar-se.&lt;/p&gt;
-&lt;img alt=&#34;Bústia&#34; src=&#34;http://localhost:51874/uploads/2022/2022-02-23-busties-secretes.jpg&#34;&gt;
+&lt;img alt=&#34;Bústia&#34; src=&#34;http://localhost:1313/uploads/2022/2022-02-23-busties-secretes.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/02/22/afterfest/</link>
+      <link>http://localhost:1313/2022/02/22/afterfest/</link>
       <pubDate>Tue, 22 Feb 2022 19:30:14 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/02/22/afterfest/</guid>
+      <guid>http://localhost:1313/2022/02/22/afterfest/</guid>
       <description>&lt;p&gt;Afterfest #UJI&lt;/p&gt;
-&lt;img alt=&#34;Flyer&#34; src=&#34;http://localhost:51874/uploads/2022/2022-02-22-afterfest.jpg&#34;&gt;
+&lt;img alt=&#34;Flyer&#34; src=&#34;http://localhost:1313/uploads/2022/2022-02-22-afterfest.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/02/10/mon-sencer/</link>
+      <link>http://localhost:1313/2022/02/10/mon-sencer/</link>
       <pubDate>Thu, 10 Feb 2022 19:30:12 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/02/10/mon-sencer/</guid>
+      <guid>http://localhost:1313/2022/02/10/mon-sencer/</guid>
       <description>&lt;p&gt;El món sencer a la porta de casa. Carrer Sant Blai #Castelló.&lt;/p&gt;
-&lt;img alt=&#34;Globus terraqüi. Grafit en una porta al carrer.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-02-10-mon-sencer.jpg&#34;&gt;
+&lt;img alt=&#34;Globus terraqüi. Grafit en una porta al carrer.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-02-10-mon-sencer.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/02/09/solsida/</link>
+      <link>http://localhost:1313/2022/02/09/solsida/</link>
       <pubDate>Wed, 09 Feb 2022 20:30:12 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/02/09/solsida/</guid>
+      <guid>http://localhost:1313/2022/02/09/solsida/</guid>
       <description>&lt;p&gt;La solsida. &lt;em&gt;Der Untergang&lt;/em&gt;.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2022/2022-02-09-solsida.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2022/2022-02-09-solsida.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/02/05/correus/</link>
+      <link>http://localhost:1313/2022/02/05/correus/</link>
       <pubDate>Sat, 05 Feb 2022 20:30:13 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/02/05/correus/</guid>
+      <guid>http://localhost:1313/2022/02/05/correus/</guid>
       <description>&lt;p&gt;L’estranger, Castelló i Espanya. Sense dret a correspondència.&lt;/p&gt;
-&lt;img alt=&#34;Bústies clausurades a l’edifici de Correus de Castelló&#34; src=&#34;http://localhost:51874/uploads/2022/2022-02-05-correus.jpg&#34;&gt;
+&lt;img alt=&#34;Bústies clausurades a l’edifici de Correus de Castelló&#34; src=&#34;http://localhost:1313/uploads/2022/2022-02-05-correus.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/02/04/arameu/</link>
+      <link>http://localhost:1313/2022/02/04/arameu/</link>
       <pubDate>Fri, 04 Feb 2022 18:24:45 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/02/04/arameu/</guid>
+      <guid>http://localhost:1313/2022/02/04/arameu/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Belshazzar%27s_feast&#34;&gt;Escrit a la paret&lt;/a&gt; i no en arameu.&lt;/p&gt;
-&lt;img alt=&#34;Adhesiu: “Somos la puta ruina”&#34; src=&#34;http://localhost:51874/uploads/2022/2022-02-04-arameu.jpg&#34;&gt;
+&lt;img alt=&#34;Adhesiu: “Somos la puta ruina”&#34; src=&#34;http://localhost:1313/uploads/2022/2022-02-04-arameu.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/01/20/ia/</link>
+      <link>http://localhost:1313/2022/01/20/ia/</link>
       <pubDate>Thu, 20 Jan 2022 08:48:11 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/01/20/ia/</guid>
+      <guid>http://localhost:1313/2022/01/20/ia/</guid>
       <description>&lt;p&gt;Facultat de Ciències Humanes i Soc&lt;span style=&#34;font-family: sans-serif; font-weight: bold;&#34;&gt;iA&lt;/span&gt;ls #UJI #IA.&lt;/p&gt;
-&lt;img alt=&#34;Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-01-20-ia.jpg&#34;&gt;
+&lt;img alt=&#34;Detall del rètol de la Facultat de Ciències Humanes i Socials, Universitat Jaume I de Castelló.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-01-20-ia.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/01/17/pastures-uji/</link>
+      <link>http://localhost:1313/2022/01/17/pastures-uji/</link>
       <pubDate>Mon, 17 Jan 2022 16:51:33 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/01/17/pastures-uji/</guid>
+      <guid>http://localhost:1313/2022/01/17/pastures-uji/</guid>
       <description>&lt;p&gt;Les pastures de l’#UJI. Descansar en prats deliciosos.&lt;/p&gt;
-&lt;img alt=&#34;Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d’un cavall entres els arbres.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-01-17-pastures-uji.jpg&#34;&gt;
+&lt;img alt=&#34;Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d’un cavall entres els arbres.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-01-17-pastures-uji.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/01/08/dedans/</link>
+      <link>http://localhost:1313/2022/01/08/dedans/</link>
       <pubDate>Sat, 08 Jan 2022 12:45:02 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/01/08/dedans/</guid>
+      <guid>http://localhost:1313/2022/01/08/dedans/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Coextensiu amb el seu exterior, hi ha un interior de les coses.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Coextensif à leur Dehors, il y a un Dedans des Choses.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—&lt;a href=&#34;https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin&#34;&gt;Pierre Teilhard de Chardin&lt;/a&gt;, &lt;em&gt;Le phénomène humain&lt;/em&gt;.&lt;/p&gt;
-&lt;img alt=&#34;Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.&#34; src=&#34;http://localhost:51874/uploads/2022/2022-01-08-dedans.jpg&#34;&gt;
+&lt;img alt=&#34;Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.&#34; src=&#34;http://localhost:1313/uploads/2022/2022-01-08-dedans.jpg&#34;&gt;
 &lt;p&gt;Foto: el rellotge del &lt;a href=&#34;https://mucc.castello.es/seus/el-fadri/&#34;&gt;Fadrí&lt;/a&gt;, des de dins.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2022/01/03/ull-soluble/</link>
+      <link>http://localhost:1313/2022/01/03/ull-soluble/</link>
       <pubDate>Mon, 03 Jan 2022 19:06:02 +0100</pubDate>
       
-      <guid>http://localhost:51874/2022/01/03/ull-soluble/</guid>
+      <guid>http://localhost:1313/2022/01/03/ull-soluble/</guid>
       <description>&lt;p&gt;Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.&lt;/p&gt;
-&lt;img alt=&#34;Rètol de l’Ull Soluble&#34; src=&#34;http://localhost:51874/uploads/2022/2022-01-03-ull-soluble.jpg&#34;&gt;
+&lt;img alt=&#34;Rètol de l’Ull Soluble&#34; src=&#34;http://localhost:1313/uploads/2022/2022-01-03-ull-soluble.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/12/25/venus-willendorf/</link>
+      <link>http://localhost:1313/2021/12/25/venus-willendorf/</link>
       <pubDate>Sat, 25 Dec 2021 09:30:10 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/12/25/venus-willendorf/</guid>
+      <guid>http://localhost:1313/2021/12/25/venus-willendorf/</guid>
       <description>&lt;p&gt;I remember you well in the Natural History Museum in Vienna.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-12-25-venus-willendorf.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-12-25-venus-willendorf.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/12/13/20209/</link>
+      <link>http://localhost:1313/2021/12/13/20209/</link>
       <pubDate>Mon, 13 Dec 2021 19:30:11 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/12/13/20209/</guid>
+      <guid>http://localhost:1313/2021/12/13/20209/</guid>
       <description>&lt;p&gt;2021-1967 = 54&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-12-13-20209.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-12-13-20209.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/12/12/93196/</link>
+      <link>http://localhost:1313/2021/12/12/93196/</link>
       <pubDate>Sun, 12 Dec 2021 08:13:17 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/12/12/93196/</guid>
+      <guid>http://localhost:1313/2021/12/12/93196/</guid>
       <description>&lt;p&gt;L’última ressaca 🎵&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-12-12-93196.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-12-12-93196.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/11/29/97227/</link>
+      <link>http://localhost:1313/2021/11/29/97227/</link>
       <pubDate>Mon, 29 Nov 2021 15:47:08 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/29/97227/</guid>
+      <guid>http://localhost:1313/2021/11/29/97227/</guid>
       <description>&lt;p&gt;En companyia d’ànecs.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2021/2021-11-29-97227.jpg&#34; /&gt;</description>
+&lt;img src=&#34;http://localhost:1313/uploads/2021/2021-11-29-97227.jpg&#34; /&gt;</description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/11/20/bon-dia/</link>
+      <link>http://localhost:1313/2021/11/20/bon-dia/</link>
       <pubDate>Sat, 20 Nov 2021 08:30:25 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/20/bon-dia/</guid>
+      <guid>http://localhost:1313/2021/11/20/bon-dia/</guid>
       <description>&lt;p&gt;Bon dia.&lt;/p&gt;
-&lt;img alt=&#34;Grafit en un contenidor del fem: bon dia&#34; src=&#34;http://localhost:51874/uploads/2021/2021-11-20-bon-dia.jpg&#34;&gt;
+&lt;img alt=&#34;Grafit en un contenidor del fem: bon dia&#34; src=&#34;http://localhost:1313/uploads/2021/2021-11-20-bon-dia.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/11/13/confinament/</link>
+      <link>http://localhost:1313/2021/11/13/confinament/</link>
       <pubDate>Sat, 13 Nov 2021 17:32:42 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/13/confinament/</guid>
+      <guid>http://localhost:1313/2021/11/13/confinament/</guid>
       <description>&lt;p&gt;Confinament estricte.&lt;/p&gt;
-&lt;img alt=&#34;Portes d’una botiga i d’una casa a mig paredar.&#34; src=&#34;http://localhost:51874/uploads/2021/2021-11-13-confinament.jpg&#34;&gt;
+&lt;img alt=&#34;Portes d’una botiga i d’una casa a mig paredar.&#34; src=&#34;http://localhost:1313/uploads/2021/2021-11-13-confinament.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/11/10/pont-segle-xxi/</link>
+      <link>http://localhost:1313/2021/11/10/pont-segle-xxi/</link>
       <pubDate>Wed, 10 Nov 2021 17:31:36 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/10/pont-segle-xxi/</guid>
-      <description>&lt;p&gt;Castelló. Pont del &lt;a href=&#34;http://localhost:51874/2019/08/18/it-was-hell.html&#34;&gt;segle XXI&lt;/a&gt;.&lt;/p&gt;
-&lt;img alt=&#34;Cables d’acer del pont del Segle XXI, Castelló de la Plana&#34; src=&#34;http://localhost:51874/uploads/2021/2021-11-10-pont-segle-xxi.jpg&#34;&gt;</description>
+      <guid>http://localhost:1313/2021/11/10/pont-segle-xxi/</guid>
+      <description>&lt;p&gt;Castelló. Pont del &lt;a href=&#34;http://localhost:1313/2019/08/18/it-was-hell.html&#34;&gt;segle XXI&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Cables d’acer del pont del Segle XXI, Castelló de la Plana&#34; src=&#34;http://localhost:1313/uploads/2021/2021-11-10-pont-segle-xxi.jpg&#34;&gt;</description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/11/07/antonin-artaud/</link>
+      <link>http://localhost:1313/2021/11/07/antonin-artaud/</link>
       <pubDate>Sun, 07 Nov 2021 12:25:28 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/07/antonin-artaud/</guid>
+      <guid>http://localhost:1313/2021/11/07/antonin-artaud/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img alt=&#34;Coberta del llibre “Carta a los poderes”, d’Antonin Artaud. 40a Fira del Llibre Antic i d’Ocasió a Castelló de la Plana.&#34; src=&#34;http://localhost:51874/uploads/2021/2021-11-07-antonin-artaud.jpg&#34;&gt;
+&lt;img alt=&#34;Coberta del llibre “Carta a los poderes”, d’Antonin Artaud. 40a Fira del Llibre Antic i d’Ocasió a Castelló de la Plana.&#34; src=&#34;http://localhost:1313/uploads/2021/2021-11-07-antonin-artaud.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/11/06/arqueologia-aigua/</link>
+      <link>http://localhost:1313/2021/11/06/arqueologia-aigua/</link>
       <pubDate>Sat, 06 Nov 2021 14:02:05 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/06/arqueologia-aigua/</guid>
+      <guid>http://localhost:1313/2021/11/06/arqueologia-aigua/</guid>
       <description>&lt;p&gt;Arqueologia de l’aigua.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-11-06-arqueologia-aigua.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-11-06-arqueologia-aigua.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/11/04/n-est-pas-un-livre/</link>
+      <link>http://localhost:1313/2021/11/04/n-est-pas-un-livre/</link>
       <pubDate>Thu, 04 Nov 2021 18:30:00 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/04/n-est-pas-un-livre/</guid>
+      <guid>http://localhost:1313/2021/11/04/n-est-pas-un-livre/</guid>
       <description>&lt;p&gt;Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d’aquesta imatge.&lt;/p&gt;
-&lt;img alt=&#34;Una imatge en format PNG que conté un fitxer de text&#34; src=&#34;http://localhost:51874/uploads/2021/2021-11-04-unicorns.png&#34;&gt;
+&lt;img alt=&#34;Una imatge en format PNG que conté un fitxer de text&#34; src=&#34;http://localhost:1313/uploads/2021/2021-11-04-unicorns.png&#34;&gt;
 &lt;pre&gt;&lt;code&gt;$ unzip 2021-11-04-unicorns.png
 Archive:  2021-11-04-unicorns.png
 inflating: unicorns.txt
@@ -519,167 +519,167 @@ inflating: unicorns.txt
     
     <item>
       
-      <link>http://localhost:51874/2021/11/01/tots-sants/</link>
+      <link>http://localhost:1313/2021/11/01/tots-sants/</link>
       <pubDate>Mon, 01 Nov 2021 19:37:18 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/11/01/tots-sants/</guid>
+      <guid>http://localhost:1313/2021/11/01/tots-sants/</guid>
       <description>&lt;p&gt;Tots Sants.&lt;/p&gt;
-&lt;img alt=&#34;Plaça de Santa Clara a Castelló&#34; src=&#34;http://localhost:51874/uploads/2021/2021-11-01-tots-sants.jpg&#34;&gt;
+&lt;img alt=&#34;Plaça de Santa Clara a Castelló&#34; src=&#34;http://localhost:1313/uploads/2021/2021-11-01-tots-sants.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/10/24/premi-sambori-uji/</link>
+      <link>http://localhost:1313/2021/10/24/premi-sambori-uji/</link>
       <pubDate>Sun, 24 Oct 2021 18:35:46 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/10/24/premi-sambori-uji/</guid>
+      <guid>http://localhost:1313/2021/10/24/premi-sambori-uji/</guid>
       <description>&lt;p&gt;Premi Sambori #UJI&lt;/p&gt;
-&lt;img alt=&#34;Premi Sambori 2004. Menció d’honor Universitat Jaume I.&#34; src=&#34;http://localhost:51874/uploads/2021/2021-10-24-premi-sambori-uji.jpg&#34;&gt;
+&lt;img alt=&#34;Premi Sambori 2004. Menció d’honor Universitat Jaume I.&#34; src=&#34;http://localhost:1313/uploads/2021/2021-10-24-premi-sambori-uji.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/10/20/eixida/</link>
+      <link>http://localhost:1313/2021/10/20/eixida/</link>
       <pubDate>Wed, 20 Oct 2021 20:38:10 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/10/20/eixida/</guid>
+      <guid>http://localhost:1313/2021/10/20/eixida/</guid>
       <description>&lt;p&gt;Eixida #UJI&lt;/p&gt;
-&lt;img alt=&#34;Eixida ampliació Biblioteca UJI nivell 0&#34; src=&#34;http://localhost:51874/uploads/2021/2021-10-20-eixida.jpg&#34;&gt;
+&lt;img alt=&#34;Eixida ampliació Biblioteca UJI nivell 0&#34; src=&#34;http://localhost:1313/uploads/2021/2021-10-20-eixida.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/10/13/imitation-life/</link>
+      <link>http://localhost:1313/2021/10/13/imitation-life/</link>
       <pubDate>Wed, 13 Oct 2021 18:20:27 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/10/13/imitation-life/</guid>
+      <guid>http://localhost:1313/2021/10/13/imitation-life/</guid>
       <description>&lt;p&gt;Imitació de la vida.&lt;/p&gt;
-&lt;img alt=&#34;Planta artificial&#34; src=&#34;http://localhost:51874/uploads/2021/2021-10-13-imitation-life.jpg&#34;&gt;
+&lt;img alt=&#34;Planta artificial&#34; src=&#34;http://localhost:1313/uploads/2021/2021-10-13-imitation-life.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/10/07/cavall/</link>
+      <link>http://localhost:1313/2021/10/07/cavall/</link>
       <pubDate>Thu, 07 Oct 2021 20:19:36 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/10/07/cavall/</guid>
+      <guid>http://localhost:1313/2021/10/07/cavall/</guid>
       <description>&lt;p&gt;La cavalleria de l’#UJI.&lt;/p&gt;
-&lt;img alt=&#34;Escultura d’un cavall al Jardí dels Sentits de l’UJI&#34; src=&#34;http://localhost:51874/uploads/2021/2021-10-07-cavall.jpg&#34;&gt;
+&lt;img alt=&#34;Escultura d’un cavall al Jardí dels Sentits de l’UJI&#34; src=&#34;http://localhost:1313/uploads/2021/2021-10-07-cavall.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/09/15/asia/</link>
+      <link>http://localhost:1313/2021/09/15/asia/</link>
       <pubDate>Wed, 15 Sep 2021 19:14:39 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/09/15/asia/</guid>
+      <guid>http://localhost:1313/2021/09/15/asia/</guid>
       <description>&lt;p&gt;Àsia comença a l’avinguda d’Alcora.&lt;/p&gt;
-&lt;img alt=&#34;Estatueta del Buddha a l’ampit d’una finestra&#34; src=&#34;http://localhost:51874/uploads/2021/2021-09-15-asia.jpg&#34;&gt;
+&lt;img alt=&#34;Estatueta del Buddha a l’ampit d’una finestra&#34; src=&#34;http://localhost:1313/uploads/2021/2021-09-15-asia.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/08/28/vacances/</link>
+      <link>http://localhost:1313/2021/08/28/vacances/</link>
       <pubDate>Sat, 28 Aug 2021 15:03:39 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/08/28/vacances/</guid>
+      <guid>http://localhost:1313/2021/08/28/vacances/</guid>
       <description>&lt;p&gt;Les vacances.&lt;/p&gt;
-&lt;img alt=&#34;Passeig de l’Albereda. Morella&#34; src=&#34;http://localhost:51874/uploads/2021/2021-08-28-vacances.jpg&#34;&gt;
+&lt;img alt=&#34;Passeig de l’Albereda. Morella&#34; src=&#34;http://localhost:1313/uploads/2021/2021-08-28-vacances.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/08/15/31193/</link>
+      <link>http://localhost:1313/2021/08/15/31193/</link>
       <pubDate>Sun, 15 Aug 2021 13:35:53 +0000</pubDate>
       
-      <guid>http://localhost:51874/2021/08/15/31193/</guid>
+      <guid>http://localhost:1313/2021/08/15/31193/</guid>
       <description>&lt;p&gt;Gàrgola sufocada. Santa Maria de Morella. 35,9 ºC.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-08-15-31156.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-08-15-31156.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/08/06/selfi-morella-1414/</link>
+      <link>http://localhost:1313/2021/08/06/selfi-morella-1414/</link>
       <pubDate>Fri, 06 Aug 2021 10:43:49 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/08/06/selfi-morella-1414/</guid>
+      <guid>http://localhost:1313/2021/08/06/selfi-morella-1414/</guid>
       <description>&lt;p&gt;Sant Vicent Ferrer, Benet XIII i Ferran I d’Aragó. &lt;a href=&#34;https://es.wikipedia.org/wiki/Cisma_de_Occidente#Las_negociaciones_de_Morella&#34;&gt;Selfi a Morella, 1414&lt;/a&gt;.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-08-06-selfi-morella-1414.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-08-06-selfi-morella-1414.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/08/02/atzucac-unicorn/</link>
+      <link>http://localhost:1313/2021/08/02/atzucac-unicorn/</link>
       <pubDate>Mon, 02 Aug 2021 20:06:05 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/08/02/atzucac-unicorn/</guid>
-      <description>&lt;p&gt;L’entrada —enreixada— del &lt;a href=&#34;https://earth.google.com/web/@39.98398425,-0.03642388,26.15542116a,75.43170571d,35y,111.23963128h,11.50659906t,360r&#34;&gt;misteriós atzucac&lt;/a&gt; on &lt;a href=&#34;http://localhost:51874/2017/01/08/202112.html&#34;&gt;renillava l’unicorn&lt;/a&gt;, en un racó de la plaça de la Pau.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-08-02-atzucac-unicorn.jpg&#34;&gt;
+      <guid>http://localhost:1313/2021/08/02/atzucac-unicorn/</guid>
+      <description>&lt;p&gt;L’entrada —enreixada— del &lt;a href=&#34;https://earth.google.com/web/@39.98398425,-0.03642388,26.15542116a,75.43170571d,35y,111.23963128h,11.50659906t,360r&#34;&gt;misteriós atzucac&lt;/a&gt; on &lt;a href=&#34;http://localhost:1313/2017/01/08/202112.html&#34;&gt;renillava l’unicorn&lt;/a&gt;, en un racó de la plaça de la Pau.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-08-02-atzucac-unicorn.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/07/19/27372/</link>
+      <link>http://localhost:1313/2021/07/19/27372/</link>
       <pubDate>Mon, 19 Jul 2021 22:42:52 +0000</pubDate>
       
-      <guid>http://localhost:51874/2021/07/19/27372/</guid>
+      <guid>http://localhost:1313/2021/07/19/27372/</guid>
       <description>&lt;p&gt;Creixent. Carrer de la Lluna, 20:10.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-07-19-27343.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-07-19-27343.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/07/11/silence-delirium-lies/</link>
+      <link>http://localhost:1313/2021/07/11/silence-delirium-lies/</link>
       <pubDate>Sun, 11 Jul 2021 18:58:26 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/07/11/silence-delirium-lies/</guid>
+      <guid>http://localhost:1313/2021/07/11/silence-delirium-lies/</guid>
       <description>&lt;p&gt;Això podria ser un petit projecte per a les vacances d’agost.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-07-11-silence-delirium-lies.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-07-11-silence-delirium-lies.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/06/12/orxata-boisei/</link>
+      <link>http://localhost:1313/2021/06/12/orxata-boisei/</link>
       <pubDate>Sat, 12 Jun 2021 12:17:04 +0200</pubDate>
       
-      <guid>http://localhost:51874/2021/06/12/orxata-boisei/</guid>
+      <guid>http://localhost:1313/2021/06/12/orxata-boisei/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;S’ha suggerit que l’hominini extingit &lt;em&gt;Paranthropus boisei&lt;/em&gt; (l’“home trencanous”) subsistia a base de xufes.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—&lt;a href=&#34;https://en.wikipedia.org/wiki/Cyperus_esculentus&#34;&gt;&lt;em&gt;Cyperus esculentus&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;img alt=&#34;Publicitat Orxata Boisei&#34; src=&#34;http://localhost:51874/uploads/2021/2021-06-12-orxata-boisei.jpg&#34;&gt;
+&lt;img alt=&#34;Publicitat Orxata Boisei&#34; src=&#34;http://localhost:1313/uploads/2021/2021-06-12-orxata-boisei.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/03/27/unicorns/</link>
+      <link>http://localhost:1313/2021/03/27/unicorns/</link>
       <pubDate>Sat, 27 Mar 2021 13:37:16 +0100</pubDate>
       
-      <guid>http://localhost:51874/2021/03/27/unicorns/</guid>
+      <guid>http://localhost:1313/2021/03/27/unicorns/</guid>
       <description>&lt;p&gt;Les edicions digitals d’&lt;a href=&#34;http://carlesbellver.net/contes/unicorns&#34;&gt;Unicorns&lt;/a&gt; venen decorades amb emojis. Un emoji diferent per a cada un dels seixanta-quatre textos. Si alguna vegada s’haguera d’editar en paper, crec que optaria per imatges de la &lt;a href=&#34;https://ca.wikipedia.org/wiki/Cr%C3%B2nica_de_Nuremberg&#34;&gt;&lt;em&gt;Crònica de Nuremberg&lt;/em&gt;&lt;/a&gt;, història universal il·lustrada de 1493. Però això dependria del criteri de l’editorial. Si hi haguera una editorial i tinguera criteri, és clar.&lt;/p&gt;
-&lt;p&gt;&lt;a title=&#34;Unicorns. Improvisacions en 1.024 caràcters&#34; href=&#34;http://carlesbellver.net/contes/unicorns&#34;&gt;&lt;img alt=&#34;Fragment d’Unicorns il·lustrat amb l’emoji d’una tassa de cafè&#34; src=&#34;http://localhost:51874/uploads/2021/2021-03-27-unicorns.jpg&#34; width=&#34;240&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&#34;Unicorns. Improvisacions en 1.024 caràcters&#34; href=&#34;http://carlesbellver.net/contes/unicorns&#34;&gt;&lt;img alt=&#34;Fragment d’Unicorns il·lustrat amb l’emoji d’una tassa de cafè&#34; src=&#34;http://localhost:1313/uploads/2021/2021-03-27-unicorns.jpg&#34; width=&#34;240&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/03/08/27672/</link>
+      <link>http://localhost:1313/2021/03/08/27672/</link>
       <pubDate>Mon, 08 Mar 2021 19:21:12 +0000</pubDate>
       
-      <guid>http://localhost:51874/2021/03/08/27672/</guid>
+      <guid>http://localhost:1313/2021/03/08/27672/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Jo vull tornar a viure on l’herba&lt;br&gt;
 no és com aquí pur ornament, joia dels ulls&lt;br&gt;
@@ -687,130 +687,130 @@ que dura l’any sencer.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Attilio Bertolucci, &lt;a href=&#34;https://www.salze.cat/producte/portam-amb-tu-attilio-bertolucci/&#34;&gt;&lt;em&gt;Porta’m amb tu / Portami con te&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Primer títol —una delícia— de &lt;a href=&#34;https://salze.cat&#34;&gt;Salze&lt;/a&gt;, projecte editorial de Marta Vilardaga i Josep Porcar.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2021/2021-03-08-27628.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2021/2021-03-08-27628.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2021/02/16/61821/</link>
+      <link>http://localhost:1313/2021/02/16/61821/</link>
       <pubDate>Tue, 16 Feb 2021 08:50:21 +0000</pubDate>
       
-      <guid>http://localhost:51874/2021/02/16/61821/</guid>
-      <description>&lt;p&gt;La &lt;a href=&#34;http://localhost:51874/2013/06/12/pourquoi-il-y.html&#34;&gt;pregunta&lt;/a&gt; que em faig molts matins.&lt;/p&gt;
-&lt;img alt=&#34;Un dispositiu electrònic mostra el missatge següent en francès: «Pourquoi il y a plutôt quelque chose que rien?»&#34; src=&#34;http://localhost:51874/uploads/2021/2021-02-16-61785.jpg&#34;&gt;
+      <guid>http://localhost:1313/2021/02/16/61821/</guid>
+      <description>&lt;p&gt;La &lt;a href=&#34;http://localhost:1313/2013/06/12/pourquoi-il-y.html&#34;&gt;pregunta&lt;/a&gt; que em faig molts matins.&lt;/p&gt;
+&lt;img alt=&#34;Un dispositiu electrònic mostra el missatge següent en francès: «Pourquoi il y a plutôt quelque chose que rien?»&#34; src=&#34;http://localhost:1313/uploads/2021/2021-02-16-61785.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/11/27/88218/</link>
+      <link>http://localhost:1313/2020/11/27/88218/</link>
       <pubDate>Fri, 27 Nov 2020 15:43:38 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/11/27/88218/</guid>
+      <guid>http://localhost:1313/2020/11/27/88218/</guid>
       <description>&lt;p&gt;Rectorat #UJI&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2020/2020-11-27-88072.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2020/2020-11-27-88072.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/11/11/18186/</link>
+      <link>http://localhost:1313/2020/11/11/18186/</link>
       <pubDate>Wed, 11 Nov 2020 19:09:46 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/11/11/18186/</guid>
+      <guid>http://localhost:1313/2020/11/11/18186/</guid>
       <description>&lt;p&gt;Carregadors Apple Dalton.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2020/2020-11-11-18133.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2020/2020-11-11-18133.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/11/01/31096/</link>
+      <link>http://localhost:1313/2020/11/01/31096/</link>
       <pubDate>Sun, 01 Nov 2020 12:44:56 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/11/01/31096/</guid>
+      <guid>http://localhost:1313/2020/11/01/31096/</guid>
       <description>&lt;p&gt;El futur passa molt de pressa.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2020/2020-11-01-124407.jpg&#34;&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://localhost:1313/uploads/2020/2020-11-01-124407.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/10/25/175101/</link>
+      <link>http://localhost:1313/2020/10/25/175101/</link>
       <pubDate>Sun, 25 Oct 2020 17:51:01 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/10/25/175101/</guid>
+      <guid>http://localhost:1313/2020/10/25/175101/</guid>
       <description>&lt;p&gt;En estat d’alarma.&lt;/p&gt;
-&lt;img alt=&#34;Senyal d’alerta&#34; src=&#34;http://localhost:51874/uploads/2020/2020-10-25-174909.jpg&#34;&gt;
+&lt;img alt=&#34;Senyal d’alerta&#34; src=&#34;http://localhost:1313/uploads/2020/2020-10-25-174909.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/10/24/203728/</link>
+      <link>http://localhost:1313/2020/10/24/203728/</link>
       <pubDate>Sat, 24 Oct 2020 20:37:28 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/10/24/203728/</guid>
+      <guid>http://localhost:1313/2020/10/24/203728/</guid>
       <description>&lt;p&gt;Ciència ciutadana #UJI. Participació en el projecte &lt;a href=&#34;https://vigilantesdelaire.ibercivis.es/&#34;&gt;Vigilantes del aire&lt;/a&gt;. Aquestes maduixeres mesuren la concentració de metalls pesats.&lt;/p&gt;
-&lt;img alt=&#34;Test amb maduixeres a l’ampit de la finestra del despatx&#34; src=&#34;http://localhost:51874/uploads/2020/2020-10-24-203321.jpg&#34;&gt;
+&lt;img alt=&#34;Test amb maduixeres a l’ampit de la finestra del despatx&#34; src=&#34;http://localhost:1313/uploads/2020/2020-10-24-203321.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/10/14/170449/</link>
+      <link>http://localhost:1313/2020/10/14/170449/</link>
       <pubDate>Wed, 14 Oct 2020 16:30:01 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/10/14/170449/</guid>
+      <guid>http://localhost:1313/2020/10/14/170449/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.uji.es&#34;&gt;Universitat Jaume I&lt;/a&gt; de Castelló. October 14th 16:30 CEST (UTC+2). &lt;a href=&#34;http://micro.blog/discover/adayinthelife&#34;&gt;#adayinthelife&lt;/a&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/qkk95zepbe.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/qkk95zepbe.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/06/16/animalets-aqutics-de.html</link>
+      <link>http://localhost:1313/2020/06/16/animalets-aqutics-de.html</link>
       <pubDate>Tue, 16 Jun 2020 20:05:22 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/06/16/animalets-aqutics-de.html</guid>
+      <guid>http://localhost:1313/2020/06/16/animalets-aqutics-de.html</guid>
       <description>&lt;p&gt;Animalets aquàtics de l’#UJI. Jardí dels Sentits.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/ee8739331a.jpg&#34; width=&#34;600&#34; height=&#34;449&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/ee8739331a.jpg&#34; width=&#34;600&#34; height=&#34;449&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/05/23/publicitat.html</link>
+      <link>http://localhost:1313/2020/05/23/publicitat.html</link>
       <pubDate>Sat, 23 May 2020 20:16:48 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/05/23/publicitat.html</guid>
+      <guid>http://localhost:1313/2020/05/23/publicitat.html</guid>
       <description>&lt;p&gt;PUBLICITAT&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/570ba9d7e6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/570ba9d7e6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/03/23/jo-ja-era.html</link>
+      <link>http://localhost:1313/2020/03/23/jo-ja-era.html</link>
       <pubDate>Mon, 23 Mar 2020 22:06:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/03/23/jo-ja-era.html</guid>
+      <guid>http://localhost:1313/2020/03/23/jo-ja-era.html</guid>
       <description>&lt;p&gt;Jo ja era (una mica) keynesià fa trenta anys.&lt;/p&gt;
 &lt;p&gt;Dit d’una altra manera: &lt;a href=&#34;https://genius.com/Milton-friedman-letter-to-president-augusto-pinochet-annotated&#34;&gt;amb qui s’escrivia Milton Friedman&lt;/a&gt;?&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/6d30dfd080.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/6d30dfd080.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Els llibres invisibles</title>
-      <link>http://localhost:51874/2020/02/27/els-llibres-invisibles.html</link>
+      <link>http://localhost:1313/2020/02/27/els-llibres-invisibles.html</link>
       <pubDate>Thu, 27 Feb 2020 17:48:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/02/27/els-llibres-invisibles.html</guid>
-      <description>&lt;img src=&#34;http://localhost:51874/uploads/2020/42d892e469.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Joan Perucho: Els homes invisibles (Comanegra, 2020)&#34; /&gt;
-&lt;p&gt;Al febrer de 2014, quan vaig presentar &lt;a href=&#34;https://carlesbellver.net/llibres/lanitmildos/&#34;&gt;&lt;em&gt;La nit mil dos&lt;/em&gt;&lt;/a&gt; a Castelló, se’m va acudir ensenyar tres llibres amb la intenció d’emmarcar la meua idea de la literatura i les meues aspiracions —la meua &lt;a href=&#34;http://localhost:51874/2018/02/20/103003.html&#34;&gt;ambició&lt;/a&gt;— com a escriptor: els contes curts de &lt;em&gt;La muralla china&lt;/em&gt; de Kafka, els poemes de &lt;em&gt;Los conjurados&lt;/em&gt; de Borges i les proses de &lt;em&gt;Diana i la mar Morta&lt;/em&gt; de Joan Perucho. Sabia que aquesta no era una de les obres més celebrades de Perucho, i em pareixia —em pareix— que havia estat, fins i tot, menystinguda. A mi, tanmateix, em fascinaven el misteri, l’ambigüitat i l’evocació poètica d’aquell estrany &lt;em&gt;“puzle”&lt;/em&gt;, que no ho deia tot i suggeria molt. Per això m’alegra tant que s’haja tornat a reeditar, aquesta vegada amb tota la cura que crec que mereix, i acompanyat d’un altre títol que també es feia difícil de trobar: &lt;em&gt;Cendres i diamants&lt;/em&gt; (el meu exemplar, aconseguit mitjançant una llibreria de vell, porta el segell dels Serveis Terriorials de Cultura).&lt;/p&gt;
-&lt;p&gt;En &lt;a href=&#34;http://comanegra.com/ficcio/599-els-homes-invisibles-joan-perucho.html&#34;&gt;&lt;em&gt;Els homes invisibles&lt;/em&gt;&lt;/a&gt; (Comanegra, 2020), s’hi recullen, doncs, formant una sorprenent unitat, el primer Perucho, de 1953, i el darrer, de 1989. L’edició ha anat a càrrec de Julià Guillamon i Jordi Puig, i signa el deliciós epíleg Marina Espasa. Jo també &lt;a href=&#34;http://localhost:51874/2015/06/25/230000.html&#34;&gt;envege&lt;/a&gt;, com ella, qui puga ara llegir per primera vegada aquestes pàgines extraordinàries.&lt;/p&gt;
+      <guid>http://localhost:1313/2020/02/27/els-llibres-invisibles.html</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/uploads/2020/42d892e469.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Joan Perucho: Els homes invisibles (Comanegra, 2020)&#34; /&gt;
+&lt;p&gt;Al febrer de 2014, quan vaig presentar &lt;a href=&#34;https://carlesbellver.net/llibres/lanitmildos/&#34;&gt;&lt;em&gt;La nit mil dos&lt;/em&gt;&lt;/a&gt; a Castelló, se’m va acudir ensenyar tres llibres amb la intenció d’emmarcar la meua idea de la literatura i les meues aspiracions —la meua &lt;a href=&#34;http://localhost:1313/2018/02/20/103003.html&#34;&gt;ambició&lt;/a&gt;— com a escriptor: els contes curts de &lt;em&gt;La muralla china&lt;/em&gt; de Kafka, els poemes de &lt;em&gt;Los conjurados&lt;/em&gt; de Borges i les proses de &lt;em&gt;Diana i la mar Morta&lt;/em&gt; de Joan Perucho. Sabia que aquesta no era una de les obres més celebrades de Perucho, i em pareixia —em pareix— que havia estat, fins i tot, menystinguda. A mi, tanmateix, em fascinaven el misteri, l’ambigüitat i l’evocació poètica d’aquell estrany &lt;em&gt;“puzle”&lt;/em&gt;, que no ho deia tot i suggeria molt. Per això m’alegra tant que s’haja tornat a reeditar, aquesta vegada amb tota la cura que crec que mereix, i acompanyat d’un altre títol que també es feia difícil de trobar: &lt;em&gt;Cendres i diamants&lt;/em&gt; (el meu exemplar, aconseguit mitjançant una llibreria de vell, porta el segell dels Serveis Terriorials de Cultura).&lt;/p&gt;
+&lt;p&gt;En &lt;a href=&#34;http://comanegra.com/ficcio/599-els-homes-invisibles-joan-perucho.html&#34;&gt;&lt;em&gt;Els homes invisibles&lt;/em&gt;&lt;/a&gt; (Comanegra, 2020), s’hi recullen, doncs, formant una sorprenent unitat, el primer Perucho, de 1953, i el darrer, de 1989. L’edició ha anat a càrrec de Julià Guillamon i Jordi Puig, i signa el deliciós epíleg Marina Espasa. Jo també &lt;a href=&#34;http://localhost:1313/2015/06/25/230000.html&#34;&gt;envege&lt;/a&gt;, com ella, qui puga ara llegir per primera vegada aquestes pàgines extraordinàries.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I deixa el lector a la vora de l’abisme, perquè acaba de veure l’invisible però també té ganes d’un got de vermut.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -819,143 +819,143 @@ que dura l’any sencer.&lt;/p&gt;
     
     <item>
       
-      <link>http://localhost:51874/2020/02/25/carrer-dedicat-a.html</link>
+      <link>http://localhost:1313/2020/02/25/carrer-dedicat-a.html</link>
       <pubDate>Tue, 25 Feb 2020 20:15:28 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/02/25/carrer-dedicat-a.html</guid>
+      <guid>http://localhost:1313/2020/02/25/carrer-dedicat-a.html</guid>
       <description>&lt;p&gt;Carrer dedicat a l’organitzador de la &lt;a href=&#34;https://es.wikipedia.org/wiki/Gran_Redada&#34;&gt;Gran Redada&lt;/a&gt;, o intent d’exterminació del poble gitano a Espanya (1749). Responsable, l’empresa anunciadora.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/e8e6f119db.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Placa del carrer del Marqués de la Ensenada a Castelló de la Plana.&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/e8e6f119db.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Placa del carrer del Marqués de la Ensenada a Castelló de la Plana.&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/02/07/la-galeria-subterrnia.html</link>
+      <link>http://localhost:1313/2020/02/07/la-galeria-subterrnia.html</link>
       <pubDate>Fri, 07 Feb 2020 12:33:23 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/02/07/la-galeria-subterrnia.html</guid>
+      <guid>http://localhost:1313/2020/02/07/la-galeria-subterrnia.html</guid>
       <description>&lt;p&gt;La galeria subterrània de l’#UJI no s’acaba mai.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/e645377a12.jpg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/e645377a12.jpg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Organic &amp; Ethical Chocolate</title>
-      <link>http://localhost:51874/2020/02/05/organic-ethical-chocolate.html</link>
+      <link>http://localhost:1313/2020/02/05/organic-ethical-chocolate.html</link>
       <pubDate>Wed, 05 Feb 2020 18:49:13 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/02/05/organic-ethical-chocolate.html</guid>
+      <guid>http://localhost:1313/2020/02/05/organic-ethical-chocolate.html</guid>
       <description>&lt;p&gt;El berenar d’avui.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/38cb60c68c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/38cb60c68c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/02/04/philip-k-dick.html</link>
+      <link>http://localhost:1313/2020/02/04/philip-k-dick.html</link>
       <pubDate>Tue, 04 Feb 2020 19:03:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/02/04/philip-k-dick.html</guid>
+      <guid>http://localhost:1313/2020/02/04/philip-k-dick.html</guid>
       <description>&lt;p&gt;Philip K. Dick solia consultar l’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Yijing&#34;&gt;I Ching&lt;/a&gt;. Jo tinc més tirada a les &lt;a href=&#34;https://en.wikipedia.org/wiki/Oblique_Strategies&#34;&gt;Oblique Strategies&lt;/a&gt; de Brian Eno i Peter Schmidt, de manera que he esmerçat alguna estona implementant-les en aquesta &lt;a href=&#34;https://community.arduboy.com/t/oblique-strategies-for-arduboy/8479&#34;&gt;microconsola portàtil&lt;/a&gt;. És com dur a la butxaca un petit oracle.&lt;/p&gt;
 &lt;!-- Philip K. Dick used to query the I Ching. The thing is, I prefer the Oblique Strategies by Brian Eno and Peter Schmidt, so I’ve spent some time implementing them on this handheld microconsole. It’s like carrying on a small oracle. --&gt;
-&lt;img alt=&#34;Arduboy handheld microconsole&#34; style=&#34;width:600px;height:600px;&#34; src=&#34;http://localhost:51874/uploads/2020/a3b9424db8.jpg&#34;&gt;
+&lt;img alt=&#34;Arduboy handheld microconsole&#34; style=&#34;width:600px;height:600px;&#34; src=&#34;http://localhost:1313/uploads/2020/a3b9424db8.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/01/26/we-dont-need.html</link>
+      <link>http://localhost:1313/2020/01/26/we-dont-need.html</link>
       <pubDate>Sun, 26 Jan 2020 17:19:58 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/01/26/we-dont-need.html</guid>
+      <guid>http://localhost:1313/2020/01/26/we-dont-need.html</guid>
       <description>&lt;p&gt;&lt;em&gt;We don’t need no thought control&lt;/em&gt;. M’agrada veure aquest grafit a la façana d’aquell Colegio Nacional, on un dia de novembre de 1975 pareixia que s’acabava el món.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/d67afc64d0.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/d67afc64d0.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2020/01/13/senyalitzaci-anticlerical.html</link>
+      <link>http://localhost:1313/2020/01/13/senyalitzaci-anticlerical.html</link>
       <pubDate>Mon, 13 Jan 2020 17:44:13 +0000</pubDate>
       
-      <guid>http://localhost:51874/2020/01/13/senyalitzaci-anticlerical.html</guid>
+      <guid>http://localhost:1313/2020/01/13/senyalitzaci-anticlerical.html</guid>
       <description>&lt;p&gt;Senyalització anticlerical.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/fc85cc7758.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/fc85cc7758.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/12/12/unicorns-portada-original.html</link>
+      <link>http://localhost:1313/2019/12/12/unicorns-portada-original.html</link>
       <pubDate>Thu, 12 Dec 2019 08:00:06 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/12/12/unicorns-portada-original.html</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;http://localhost:51874/svg.icons/book.svg&#34; /&gt; &lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;Unicorns&lt;/a&gt;. La portada original.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/76acc58c0b.jpg&#34; width=&#34;400&#34; height=&#34;600&#34; alt=&#34;Portada original d’Unicorns, en blanc i negre&#34; /&gt;
+      <guid>http://localhost:1313/2019/12/12/unicorns-portada-original.html</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;http://localhost:1313/svg.icons/book.svg&#34; /&gt; &lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;Unicorns&lt;/a&gt;. La portada original.&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/76acc58c0b.jpg&#34; width=&#34;400&#34; height=&#34;600&#34; alt=&#34;Portada original d’Unicorns, en blanc i negre&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/12/11/ajuntament-de-morella.html</link>
+      <link>http://localhost:1313/2019/12/11/ajuntament-de-morella.html</link>
       <pubDate>Wed, 11 Dec 2019 18:03:17 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/12/11/ajuntament-de-morella.html</guid>
+      <guid>http://localhost:1313/2019/12/11/ajuntament-de-morella.html</guid>
       <description>&lt;p&gt;Ajuntament de Morella. &lt;a href=&#34;http://arxiu.comarquesnord.cat/2019/03/07/morella-presenta-la-replica-del-timpa-de-la-porta-dels-apostols/&#34;&gt;Rèplica del timpà de la Porta dels Apòstols&lt;/a&gt;, església arxiprestal de Santa Maria la Major. Detall.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/219dd26117.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/219dd26117.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/11/16/valncia-plaa-del.html</link>
+      <link>http://localhost:1313/2019/11/16/valncia-plaa-del.html</link>
       <pubDate>Sat, 16 Nov 2019 12:48:44 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/11/16/valncia-plaa-del.html</guid>
+      <guid>http://localhost:1313/2019/11/16/valncia-plaa-del.html</guid>
       <description>&lt;p&gt;València. Plaça del Mercat.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/7a631b362e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/7a631b362e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/10/29/carrer-de-sant.html</link>
+      <link>http://localhost:1313/2019/10/29/carrer-de-sant.html</link>
       <pubDate>Tue, 29 Oct 2019 16:48:03 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/10/29/carrer-de-sant.html</guid>
+      <guid>http://localhost:1313/2019/10/29/carrer-de-sant.html</guid>
       <description>&lt;p&gt;Carrer de Sant Blai, Castelló, Polinèsia exterior.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/8a2f83fc45.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/8a2f83fc45.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/10/24/bon-dia.html</link>
+      <link>http://localhost:1313/2019/10/24/bon-dia.html</link>
       <pubDate>Thu, 24 Oct 2019 06:16:36 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/10/24/bon-dia.html</guid>
+      <guid>http://localhost:1313/2019/10/24/bon-dia.html</guid>
       <description>&lt;p&gt;Bon dia.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/7e6d2b39fe.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Adhesius antifeixistes en un senyal de trànsit&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/7e6d2b39fe.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Adhesius antifeixistes en un senyal de trànsit&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/10/12/ciclamen.html</link>
+      <link>http://localhost:1313/2019/10/12/ciclamen.html</link>
       <pubDate>Sat, 12 Oct 2019 18:23:44 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/10/12/ciclamen.html</guid>
+      <guid>http://localhost:1313/2019/10/12/ciclamen.html</guid>
       <description>&lt;p&gt;Ciclamen.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/d273c21a72.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/d273c21a72.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Nova edició 48K d’Unicorns</title>
-      <link>http://localhost:51874/2019/10/06/nova-edici-k.html</link>
+      <link>http://localhost:1313/2019/10/06/nova-edici-k.html</link>
       <pubDate>Sun, 06 Oct 2019 07:06:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/10/06/nova-edici-k.html</guid>
+      <guid>http://localhost:1313/2019/10/06/nova-edici-k.html</guid>
       <description>&lt;p&gt;Només a Internet. No espereu trobar &lt;a href=&#34;http://carlesbellver.net/contes/unicorns/&#34;&gt;una meravella com aquesta&lt;/a&gt; a les llibreries.&lt;/p&gt;
 &lt;p&gt;Fa una mica menys d’un any, sota el títol &lt;a href=&#34;http://carlesbellver.net/contes/unicorns/&#34;&gt;Unicorns&lt;/a&gt;, vaig publicar quaranta-dues proses amb una extensió exacta de 1.024 caràcters cadascuna. Exercicis d’estil, podríem dir-ne. Llavors en vaig dir improvisacions. El gust per la paradoxa.&lt;/p&gt;
 &lt;p&gt;Ara n’hi he afegit sis més (42 + 6 = 48) que enllace a continuació:&lt;/p&gt;
@@ -965,1122 +965,1122 @@ que dura l’any sencer.&lt;/p&gt;
 &lt;p&gt;(55) &lt;a href=&#34;http://carlesbellver.net/contes/unicorns/unicorns55.html&#34;&gt;Die Grundlosigkeit&lt;/a&gt;. L’absència de fonament. Així als contraforts de l’Himàlaia com arreu de la civilització humana.&lt;/p&gt;
 &lt;p&gt;(60) &lt;a href=&#34;http://carlesbellver.net/contes/unicorns/unicorns60.html&#34;&gt;Acció exterior&lt;/a&gt;. És el català un idioma? Un diàleg constructiu amb el secretari del cònsol.&lt;/p&gt;
 &lt;p&gt;(61) &lt;a href=&#34;http://carlesbellver.net/contes/unicorns/unicorns61.html&#34;&gt;Adéu-siau&lt;/a&gt;. Tot esperant Nebaud a la sala de professorat.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/d6c450421e.jpg&#34; alt=&#34;Foto d’una còpia impresa d’un dels microcontes d’Unicorns: “Darrera defensa”&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/d6c450421e.jpg&#34; alt=&#34;Foto d’una còpia impresa d’un dels microcontes d’Unicorns: “Darrera defensa”&#34; /&gt;
 &lt;p&gt;Vegeu ací una d’aquelles &lt;a href=&#34;http://carlesbellver.net/contes/unicorns/unicorns00.html&#34;&gt;impressions mig esvaïdes&lt;/a&gt; de la ZX Printer. Aquest seria, doncs, l’aspecte original d’un dels microrelats que Ch. B. va teclejar a Arkham, l’estiu de 1992, en un ordinador personal gairebé prehistòric.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/09/27/la-llibertat-delecci.html</link>
+      <link>http://localhost:1313/2019/09/27/la-llibertat-delecci.html</link>
       <pubDate>Fri, 27 Sep 2019 09:59:21 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/09/27/la-llibertat-delecci.html</guid>
+      <guid>http://localhost:1313/2019/09/27/la-llibertat-delecci.html</guid>
       <description>&lt;p&gt;La llibertat d’elecció neoliberal adaptada a l’alimentació col·lectiva.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/8bdb819f75.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/8bdb819f75.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/08/25/desprs-duna-llarga.html</link>
+      <link>http://localhost:1313/2019/08/25/desprs-duna-llarga.html</link>
       <pubDate>Sun, 25 Aug 2019 19:03:44 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/08/25/desprs-duna-llarga.html</guid>
+      <guid>http://localhost:1313/2019/08/25/desprs-duna-llarga.html</guid>
       <description>&lt;p&gt;Després d’una llarga nit de malsons, isc al carrer i em trobe una invasió haradrim sota el sol radiant del migdia. Incapaç de determinar si era despert o continuava dormint, me n’he tornat al llit.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/a511a16dcb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/a511a16dcb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/08/17/keep-calm-and.html</link>
+      <link>http://localhost:1313/2019/08/17/keep-calm-and.html</link>
       <pubDate>Sat, 17 Aug 2019 10:10:53 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/08/17/keep-calm-and.html</guid>
+      <guid>http://localhost:1313/2019/08/17/keep-calm-and.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Keep calm and hold on, little &lt;a href=&#34;https://en.wikipedia.org/wiki/Grotesque_%28architecture%29&#34;&gt;babewyn&lt;/a&gt;&lt;/em&gt;. Santa Maria de Morella.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/7df4271651.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/7df4271651.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/08/15/avui-celebrem-als.html</link>
+      <link>http://localhost:1313/2019/08/15/avui-celebrem-als.html</link>
       <pubDate>Thu, 15 Aug 2019 15:04:42 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/08/15/avui-celebrem-als.html</guid>
+      <guid>http://localhost:1313/2019/08/15/avui-celebrem-als.html</guid>
       <description>&lt;p&gt;Avui celebrem als nostres pobles la rendició del Japó. Però, setanta i tants anys després, encara queden soldats aïllats en lloc remots —jungles i roquerars—, renitents a acceptar el dogma de l’assumpció en cos i ànima de la Mare de Déu. &lt;em&gt;Today, Thursday, is legal holiday.&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/5a8f67be36.jpg&#34; width=&#34;500&#34; height=&#34;411&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/5a8f67be36.jpg&#34; width=&#34;500&#34; height=&#34;411&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/06/30/encotillament-cos-i.html</link>
+      <link>http://localhost:1313/2019/06/30/encotillament-cos-i.html</link>
       <pubDate>Sun, 30 Jun 2019 17:38:29 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/06/30/encotillament-cos-i.html</guid>
+      <guid>http://localhost:1313/2019/06/30/encotillament-cos-i.html</guid>
       <description>&lt;p&gt;Encotillament: cos i ànima. Discos de control i fils de colors.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/c8162808cb.jpg&#34; width=&#34;449&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/c8162808cb.jpg&#34; width=&#34;449&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/06/24/alerta-roja.html</link>
+      <link>http://localhost:1313/2019/06/24/alerta-roja.html</link>
       <pubDate>Mon, 24 Jun 2019 17:04:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/06/24/alerta-roja.html</guid>
+      <guid>http://localhost:1313/2019/06/24/alerta-roja.html</guid>
       <description>&lt;p&gt;Alerta roja.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/d9aeeea503.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/d9aeeea503.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/06/21/vivan-las-cadenas.html</link>
+      <link>http://localhost:1313/2019/06/21/vivan-las-cadenas.html</link>
       <pubDate>Fri, 21 Jun 2019 15:02:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/06/21/vivan-las-cadenas.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://es.wikipedia.org/wiki/%C2%A1Vivan_las_cadenas%21&#34;&gt;“Vivan las cadenas”&lt;/a&gt; és el lema absolutista que no em puc estar d’evocar cada vegada que es diuen &lt;a href=&#34;http://localhost:51874/2018/05/28/things-the-blockchain.html&#34;&gt;meravelles&lt;/a&gt; de la &lt;em&gt;blockchain&lt;/em&gt;. Però crec que valdria igualment per a tants altres artificis tecnològics amb què ens delectem a fermar-nos.&lt;/p&gt;
+      <guid>http://localhost:1313/2019/06/21/vivan-las-cadenas.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://es.wikipedia.org/wiki/%C2%A1Vivan_las_cadenas%21&#34;&gt;“Vivan las cadenas”&lt;/a&gt; és el lema absolutista que no em puc estar d’evocar cada vegada que es diuen &lt;a href=&#34;http://localhost:1313/2018/05/28/things-the-blockchain.html&#34;&gt;meravelles&lt;/a&gt; de la &lt;em&gt;blockchain&lt;/em&gt;. Però crec que valdria igualment per a tants altres artificis tecnològics amb què ens delectem a fermar-nos.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;image&#34; title=&#34;Prométhée enchaîné sur le mont Caucase, Paul Bouré, 1845&#34; href=&#34;https://commons.wikimedia.org/wiki/File:Prometheus_Bound_(Paul_Bour%C3%A9).jpg&#34;&gt;&lt;img alt=&#34;Prométhée enchaîné sur le mont Caucase, Paul Bouré, 1845&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/b/b3/Prometheus_Bound_%28Paul_Bour%C3%A9%29.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/06/01/dissabte.html</link>
+      <link>http://localhost:1313/2019/06/01/dissabte.html</link>
       <pubDate>Sat, 01 Jun 2019 15:05:59 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/06/01/dissabte.html</guid>
+      <guid>http://localhost:1313/2019/06/01/dissabte.html</guid>
       <description>&lt;p&gt;Dissabte.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/7c79eb144f.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/7c79eb144f.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/05/15/no-mestranya-que.html</link>
+      <link>http://localhost:1313/2019/05/15/no-mestranya-que.html</link>
       <pubDate>Wed, 15 May 2019 16:38:37 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/05/15/no-mestranya-que.html</guid>
+      <guid>http://localhost:1313/2019/05/15/no-mestranya-que.html</guid>
       <description>&lt;p&gt;No m’estranya que veient això m’hagin fet pagar tràmits duaners. I que ara jo em senti vigilat.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/fff2c03f24.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/fff2c03f24.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/04/10/aquest-mat-uji.html</link>
+      <link>http://localhost:1313/2019/04/10/aquest-mat-uji.html</link>
       <pubDate>Wed, 10 Apr 2019 16:21:30 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/04/10/aquest-mat-uji.html</guid>
+      <guid>http://localhost:1313/2019/04/10/aquest-mat-uji.html</guid>
       <description>&lt;p&gt;Aquest matí #UJI&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/0d21468e58.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Foto de l’ombra del logotip de l’UJI projectada per la llum del sol en una paret.&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/0d21468e58.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Foto de l’ombra del logotip de l’UJI projectada per la llum del sol en una paret.&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/04/09/have-you-never.html</link>
+      <link>http://localhost:1313/2019/04/09/have-you-never.html</link>
       <pubDate>Tue, 09 Apr 2019 18:19:08 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/04/09/have-you-never.html</guid>
+      <guid>http://localhost:1313/2019/04/09/have-you-never.html</guid>
       <description>&lt;p&gt;Have you never typed &lt;code&gt;crontab -r&lt;/code&gt; (remove) instead of &lt;code&gt;-e&lt;/code&gt; (edit)? Two options too close 😬&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/e06198c0f9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/e06198c0f9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/04/02/tiempos-modernos-horas.html</link>
+      <link>http://localhost:1313/2019/04/02/tiempos-modernos-horas.html</link>
       <pubDate>Tue, 02 Apr 2019 17:35:06 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/04/02/tiempos-modernos-horas.html</guid>
+      <guid>http://localhost:1313/2019/04/02/tiempos-modernos-horas.html</guid>
       <description>&lt;p&gt;Tiempos modernos, horas serenas y almas interiores. Biblioteca #UJI.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/7fb3118d5d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Fotografia del llom d’alguns llibres antics en posició vertical, presumiblement en una prestatgeria. Es llegeixen els títols següents: “Tiempos modernos” (Vicens Vives), “Horas serenas”, “Manual de las almas interiores”.&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/7fb3118d5d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Fotografia del llom d’alguns llibres antics en posició vertical, presumiblement en una prestatgeria. Es llegeixen els títols següents: “Tiempos modernos” (Vicens Vives), “Horas serenas”, “Manual de las almas interiores”.&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/04/02/la-famosainfame-e.html</link>
+      <link>http://localhost:1313/2019/04/02/la-famosainfame-e.html</link>
       <pubDate>Tue, 02 Apr 2019 06:37:04 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/04/02/la-famosainfame-e.html</guid>
+      <guid>http://localhost:1313/2019/04/02/la-famosainfame-e.html</guid>
       <description>&lt;p&gt;La famosa/infame ‘e’ d’Internet.&lt;br&gt;
 &lt;em&gt;The famous/infamous Internet ‘e’&lt;/em&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/b92f7b4be3.jpg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;Il·lustració del manual d’un adaptador Ethernet, amb la ‘e’ del logo d’Internet Explorer representant la xarxa Internet.&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/b92f7b4be3.jpg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;Il·lustració del manual d’un adaptador Ethernet, amb la ‘e’ del logo d’Internet Explorer representant la xarxa Internet.&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/03/31/diumenge-amb-pluja.html</link>
+      <link>http://localhost:1313/2019/03/31/diumenge-amb-pluja.html</link>
       <pubDate>Sun, 31 Mar 2019 15:04:41 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/03/31/diumenge-amb-pluja.html</guid>
+      <guid>http://localhost:1313/2019/03/31/diumenge-amb-pluja.html</guid>
       <description>&lt;p&gt;Diumenge amb pluja persistent.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/7f87d68565.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/7f87d68565.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/03/28/181314.html</link>
+      <link>http://localhost:1313/2019/03/28/181314.html</link>
       <pubDate>Thu, 28 Mar 2019 17:13:14 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/03/28/181314.html</guid>
+      <guid>http://localhost:1313/2019/03/28/181314.html</guid>
       <description>&lt;p&gt;Madrid ens ha agradat, però no ens hi quedarem. Tornem a Castelló. &lt;a href=&#34;https://es.wikipedia.org/wiki/Edificio_Metr%C3%B3polis&#34;&gt;Edifici Metrópolis&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/b945c14312.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/b945c14312.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/03/20/094213.html</link>
+      <link>http://localhost:1313/2019/03/20/094213.html</link>
       <pubDate>Wed, 20 Mar 2019 08:42:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/03/20/094213.html</guid>
+      <guid>http://localhost:1313/2019/03/20/094213.html</guid>
       <description>&lt;p&gt;D’una &lt;a href=&#34;https://en.wikiquote.org/wiki/Niels_Bohr&#34;&gt;citació de Niels Bohr&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Que meravellós que hàgem topat amb una paradoxa. Ara tenim alguna esperança de progressar.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/8ef9861470.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Citació de Niels Bohr en anglès en una pantalla d’un dispositiu electrònic: “Now we have some hope of making progress”.&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/8ef9861470.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Citació de Niels Bohr en anglès en una pantalla d’un dispositiu electrònic: “Now we have some hope of making progress”.&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/02/22/125819.html</link>
+      <link>http://localhost:1313/2019/02/22/125819.html</link>
       <pubDate>Fri, 22 Feb 2019 11:58:19 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/02/22/125819.html</guid>
+      <guid>http://localhost:1313/2019/02/22/125819.html</guid>
       <description>&lt;p&gt;Avui hem intentat pujar al Fadrí, però una granera ens ha barrat el pas.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2019/02/16a48913a25e40f08e0e9b4ca1ce8d00.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2019/02/16a48913a25e40f08e0e9b4ca1ce8d00.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/02/18/142755.html</link>
+      <link>http://localhost:1313/2019/02/18/142755.html</link>
       <pubDate>Mon, 18 Feb 2019 13:27:55 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/02/18/142755.html</guid>
+      <guid>http://localhost:1313/2019/02/18/142755.html</guid>
       <description>&lt;p&gt;El seu regne per un diccionari.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2019/02/7f84aa43b561416fb88d332211642cf6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2019/02/7f84aa43b561416fb88d332211642cf6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/01/31/225743.html</link>
+      <link>http://localhost:1313/2019/01/31/225743.html</link>
       <pubDate>Thu, 31 Jan 2019 21:57:43 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/01/31/225743.html</guid>
+      <guid>http://localhost:1313/2019/01/31/225743.html</guid>
       <description>&lt;p&gt;Qué es la vida. Segunda edición.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2019/01/0e59c194fe0f4acc83819153f8e0d722.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2019/01/0e59c194fe0f4acc83819153f8e0d722.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2019/01/20/101946.html</link>
+      <link>http://localhost:1313/2019/01/20/101946.html</link>
       <pubDate>Sun, 20 Jan 2019 09:19:46 +0000</pubDate>
       
-      <guid>http://localhost:51874/2019/01/20/101946.html</guid>
+      <guid>http://localhost:1313/2019/01/20/101946.html</guid>
       <description>&lt;p&gt;Raspberry Pi amb pantalla de paper electrònic &lt;a href=&#34;https://shop.pimoroni.com/products/inky-what&#34;&gt;Inky wHAT&lt;/a&gt;. Predicció del temps via AEMET (XML). Temperatura: &lt;a href=&#34;https://climacastellon.com&#34;&gt;estació UJI&lt;/a&gt;, &lt;a href=&#34;http://www.morella.net/eltemps/&#34;&gt;observatori Morella&lt;/a&gt;. Icones: &lt;a href=&#34;https://web.archive.org/web/20181202113617/http://adamwhitcroft.com/climacons/&#34;&gt;Climacons&lt;/a&gt;. Titulars de notícies via Europa Press (RSS). Programació: Python.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2019/01/6c1cb2435e574315ac453d3ef425d946.jpg&#34; alt=&#34;Foto Raspberry Pi amb pantalla de paper electrònic Inky wHAT&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2019/01/6c1cb2435e574315ac453d3ef425d946.jpg&#34; alt=&#34;Foto Raspberry Pi amb pantalla de paper electrònic Inky wHAT&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/12/30/124636.html</link>
+      <link>http://localhost:1313/2018/12/30/124636.html</link>
       <pubDate>Sun, 30 Dec 2018 11:46:36 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/12/30/124636.html</guid>
+      <guid>http://localhost:1313/2018/12/30/124636.html</guid>
       <description>&lt;p&gt;Com a molt l’horòscop.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/12/6942cf1f4f7b4988a23f70d86bc61aae.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Titular de premsa: “Qué leen los líderes económicos”&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/12/6942cf1f4f7b4988a23f70d86bc61aae.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Titular de premsa: “Qué leen los líderes económicos”&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/12/18/174346.html</link>
+      <link>http://localhost:1313/2018/12/18/174346.html</link>
       <pubDate>Tue, 18 Dec 2018 16:43:46 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/12/18/174346.html</guid>
+      <guid>http://localhost:1313/2018/12/18/174346.html</guid>
       <description>&lt;p&gt;El puzle europeu a les escombraries.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/12/887216369ad948f2b9937cc3d7055c07.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/12/887216369ad948f2b9937cc3d7055c07.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/12/17/182304.html</link>
+      <link>http://localhost:1313/2018/12/17/182304.html</link>
       <pubDate>Mon, 17 Dec 2018 17:23:04 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/12/17/182304.html</guid>
+      <guid>http://localhost:1313/2018/12/17/182304.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Peephole. Old-style, one-way privacy.&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/12/93b54661b54f404aa4dc13bfc3c28f58.jpg&#34; width=&#34;600&#34; height=&#34;339&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/12/93b54661b54f404aa4dc13bfc3c28f58.jpg&#34; width=&#34;600&#34; height=&#34;339&#34; alt=&#34;&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/12/15/142024.html</link>
+      <link>http://localhost:1313/2018/12/15/142024.html</link>
       <pubDate>Sat, 15 Dec 2018 13:20:24 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/12/15/142024.html</guid>
+      <guid>http://localhost:1313/2018/12/15/142024.html</guid>
       <description>&lt;p&gt;Cap a l’hivern.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/12/33b0978138ba46d095c204f2d09766c3.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/12/33b0978138ba46d095c204f2d09766c3.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/12/13/080231.html</link>
+      <link>http://localhost:1313/2018/12/13/080231.html</link>
       <pubDate>Thu, 13 Dec 2018 07:02:31 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/12/13/080231.html</guid>
+      <guid>http://localhost:1313/2018/12/13/080231.html</guid>
       <description>&lt;p&gt;Cinquanta-un.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/12/0dc1a867717d40cbbfc41101bc695e05.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/12/0dc1a867717d40cbbfc41101bc695e05.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/28/184618.html</link>
+      <link>http://localhost:1313/2018/11/28/184618.html</link>
       <pubDate>Wed, 28 Nov 2018 17:46:18 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/28/184618.html</guid>
+      <guid>http://localhost:1313/2018/11/28/184618.html</guid>
       <description>&lt;p&gt;Passeig de l’Albereda de Morella. Monument a &lt;a href=&#34;https://ca.wikipedia.org/wiki/Manuel_Gonz%C3%A1lez_Mart%C3%AD&#34;&gt;Manuel González Martí&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/283c2fb6f0c84367abf411b3d25ef2b9.jpg&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/27/104012.html</link>
+      <link>http://localhost:1313/2018/11/27/104012.html</link>
       <pubDate>Tue, 27 Nov 2018 09:40:12 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/27/104012.html</guid>
+      <guid>http://localhost:1313/2018/11/27/104012.html</guid>
       <description>&lt;p&gt;Aula Matilde Salvador. Facultat de Ciències Humanes i Socials #UJI.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/07ffdfe1365d4e66a0ec1308951c724b.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/07ffdfe1365d4e66a0ec1308951c724b.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/21/084002.html</link>
+      <link>http://localhost:1313/2018/11/21/084002.html</link>
       <pubDate>Wed, 21 Nov 2018 07:40:02 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/21/084002.html</guid>
+      <guid>http://localhost:1313/2018/11/21/084002.html</guid>
       <description>&lt;p&gt;Bon dia. Facultat de Ciències Jurídiques i Econòmiques #UJI.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/a6764222016f4fe48eca487c4506aad7.jpg&#34; width=&#34;600&#34; height=&#34;469&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/a6764222016f4fe48eca487c4506aad7.jpg&#34; width=&#34;600&#34; height=&#34;469&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/20/083827.html</link>
+      <link>http://localhost:1313/2018/11/20/083827.html</link>
       <pubDate>Tue, 20 Nov 2018 07:38:27 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/20/083827.html</guid>
+      <guid>http://localhost:1313/2018/11/20/083827.html</guid>
       <description>&lt;p&gt;Bon dia. Facultat de Ciències Humanes i Socials #UJI.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/4281dccd4eb544c28425e981832cfc2e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/4281dccd4eb544c28425e981832cfc2e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/17/232134.html</link>
+      <link>http://localhost:1313/2018/11/17/232134.html</link>
       <pubDate>Sat, 17 Nov 2018 22:21:34 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/17/232134.html</guid>
+      <guid>http://localhost:1313/2018/11/17/232134.html</guid>
       <description>&lt;p&gt;Avui hem passejat per València.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/de84410d2a274347b29d8f3ba8b8cd4f.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/de84410d2a274347b29d8f3ba8b8cd4f.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/15/192156.html</link>
+      <link>http://localhost:1313/2018/11/15/192156.html</link>
       <pubDate>Thu, 15 Nov 2018 18:21:56 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/15/192156.html</guid>
+      <guid>http://localhost:1313/2018/11/15/192156.html</guid>
       <description>&lt;p&gt;Per ací passava cada bit.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/aca98dc150244948acdf677fe3c0b1ef.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/aca98dc150244948acdf677fe3c0b1ef.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/14/193838.html</link>
+      <link>http://localhost:1313/2018/11/14/193838.html</link>
       <pubDate>Wed, 14 Nov 2018 18:38:38 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/14/193838.html</guid>
+      <guid>http://localhost:1313/2018/11/14/193838.html</guid>
       <description>&lt;p&gt;Literatura marciano-neerlandesa d’ocasió.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/5fea9b1d7a804c8cad557921a47e9cf6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/5fea9b1d7a804c8cad557921a47e9cf6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/13/204456.html</link>
+      <link>http://localhost:1313/2018/11/13/204456.html</link>
       <pubDate>Tue, 13 Nov 2018 19:44:56 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/13/204456.html</guid>
+      <guid>http://localhost:1313/2018/11/13/204456.html</guid>
       <description>&lt;p&gt;La xarxa. Creixement orgànic.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/3311290a62c0485dbee24952415b6129.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/3311290a62c0485dbee24952415b6129.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/11/12/165240.html</link>
+      <link>http://localhost:1313/2018/11/12/165240.html</link>
       <pubDate>Mon, 12 Nov 2018 15:52:40 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/11/12/165240.html</guid>
+      <guid>http://localhost:1313/2018/11/12/165240.html</guid>
       <description>&lt;p&gt;La planta de la maionesa americana. Empeltada a Castelló.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/11/b6913b809dc64963a61f79adf618244c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/11/b6913b809dc64963a61f79adf618244c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/10/29/181416.html</link>
+      <link>http://localhost:1313/2018/10/29/181416.html</link>
       <pubDate>Mon, 29 Oct 2018 17:14:16 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/10/29/181416.html</guid>
+      <guid>http://localhost:1313/2018/10/29/181416.html</guid>
       <description>&lt;p&gt;Davall d’un pont, a l’est d’una espessor, al nord-oest d’un arbre remarcable… Aquest &lt;a href=&#34;https://web.archive.org/web/20170911215525/https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;circuit d’orientació&lt;/a&gt; del campus #UJI em recorda el mapa de &lt;em&gt;L’illa del tresor&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20170911215525/https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;&lt;img src=&#34;http://localhost:51874/uploads/2018/2018-10-29-mapa-tresor-uji.jpg&#34; alt=&#34;Fragment del mapa d’un circuit d’orientació a l’UJI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20170911215525/https://www.uji.es/serveis/se/ambits/instalacions/zonas/circuito_orientacion/&#34;&gt;&lt;img src=&#34;http://localhost:1313/uploads/2018/2018-10-29-mapa-tresor-uji.jpg&#34; alt=&#34;Fragment del mapa d’un circuit d’orientació a l’UJI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/09/29/184641.html</link>
+      <link>http://localhost:1313/2018/09/29/184641.html</link>
       <pubDate>Sat, 29 Sep 2018 17:46:41 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/09/29/184641.html</guid>
+      <guid>http://localhost:1313/2018/09/29/184641.html</guid>
       <description>&lt;p&gt;Lleonet de jardí.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/09/7602ba4b7793456ab744eb47160378ec.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/09/7602ba4b7793456ab744eb47160378ec.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/09/22/181644.html</link>
+      <link>http://localhost:1313/2018/09/22/181644.html</link>
       <pubDate>Sat, 22 Sep 2018 17:16:44 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/09/22/181644.html</guid>
+      <guid>http://localhost:1313/2018/09/22/181644.html</guid>
       <description>&lt;p&gt;Andy Warhol. Una retrospettiva. Venezia, 1990.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/09/825afcb7fdd94e3da1dffe982312dee5.jpg&#34; width=&#34;600&#34; height=&#34;400&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/09/825afcb7fdd94e3da1dffe982312dee5.jpg&#34; width=&#34;600&#34; height=&#34;400&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/09/20/071805.html</link>
+      <link>http://localhost:1313/2018/09/20/071805.html</link>
       <pubDate>Thu, 20 Sep 2018 06:18:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/09/20/071805.html</guid>
+      <guid>http://localhost:1313/2018/09/20/071805.html</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Per un moment —una eternitat degué semblar als altres al meu costat— em vaig quedar bocabadat de l’esbalaïment, i quan Lord Carnarvon, incapaç de restar més temps en suspens, va preguntar ansiosament: “Podeu veure-hi alguna cosa?”, les úniques paraules que vaig poder pronunciar van ser: “Sí, coses meravelloses”.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/09/c8c114f451ef46c587b40e5030a8d859.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/09/c8c114f451ef46c587b40e5030a8d859.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/09/19/171509.html</link>
+      <link>http://localhost:1313/2018/09/19/171509.html</link>
       <pubDate>Wed, 19 Sep 2018 16:15:09 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/09/19/171509.html</guid>
+      <guid>http://localhost:1313/2018/09/19/171509.html</guid>
       <description>&lt;p&gt;Reformes al conservatori. Reformisme i conservadorisme són complementaris.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/09/hipstamaticphoto-559038919.703162.jpg&#34; class=&#34;size-full wp-image-1289&#34; height=&#34;2313&#34; width=&#34;3084&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/09/hipstamaticphoto-559038919.703162.jpg&#34; class=&#34;size-full wp-image-1289&#34; height=&#34;2313&#34; width=&#34;3084&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/09/12/163110.html</link>
+      <link>http://localhost:1313/2018/09/12/163110.html</link>
       <pubDate>Wed, 12 Sep 2018 15:31:10 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/09/12/163110.html</guid>
+      <guid>http://localhost:1313/2018/09/12/163110.html</guid>
       <description>&lt;p&gt;El problema, per a mi, és que el sentit de la fletxa és correcte.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/09/dd24c1b47d8148efa0860f65d2716f5d.jpg&#34; width=&#34;600&#34; height=&#34;338&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/09/dd24c1b47d8148efa0860f65d2716f5d.jpg&#34; width=&#34;600&#34; height=&#34;338&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/09/10/105507.html</link>
+      <link>http://localhost:1313/2018/09/10/105507.html</link>
       <pubDate>Mon, 10 Sep 2018 09:55:07 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/09/10/105507.html</guid>
+      <guid>http://localhost:1313/2018/09/10/105507.html</guid>
       <description>&lt;p&gt;El començament del curs pot resultar una mica espinós. O, si més no, punxent.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/09/0902e6565b0047d281f5ae5f3f8f767a.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/09/0902e6565b0047d281f5ae5f3f8f767a.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/08/11/193210.html</link>
+      <link>http://localhost:1313/2018/08/11/193210.html</link>
       <pubDate>Sat, 11 Aug 2018 18:32:10 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/08/11/193210.html</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;http://localhost:51874/svg.icons/book.svg&#34; /&gt; Dashiell Hammet, &lt;em&gt;Interrogatorios&lt;/em&gt; (Errata naturae). Transcripció de les seves declaracions davant del tribunal que el va condemnar a sis mesos de presó i davant del Comitè d’Activitats Antiamericanes. Inclou el conte “Sombra en la noche” (“¿Y qué coño crees que quiero ser? ¿Chino?”).&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/08/715f871c73c547f1b70bec89433517ab.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+      <guid>http://localhost:1313/2018/08/11/193210.html</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;http://localhost:1313/svg.icons/book.svg&#34; /&gt; Dashiell Hammet, &lt;em&gt;Interrogatorios&lt;/em&gt; (Errata naturae). Transcripció de les seves declaracions davant del tribunal que el va condemnar a sis mesos de presó i davant del Comitè d’Activitats Antiamericanes. Inclou el conte “Sombra en la noche” (“¿Y qué coño crees que quiero ser? ¿Chino?”).&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/08/715f871c73c547f1b70bec89433517ab.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/08/03/171609.html</link>
+      <link>http://localhost:1313/2018/08/03/171609.html</link>
       <pubDate>Fri, 03 Aug 2018 16:16:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/08/03/171609.html</guid>
+      <guid>http://localhost:1313/2018/08/03/171609.html</guid>
       <description>&lt;p&gt;Art rupestre llevantí. Plaça del Mediterrani, Castelló de la Plana. Senyals del futur.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/08/35e90a3aa9594434b26064cd5c7cb9fd.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/08/35e90a3aa9594434b26064cd5c7cb9fd.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/08/02/093853.html</link>
+      <link>http://localhost:1313/2018/08/02/093853.html</link>
       <pubDate>Thu, 02 Aug 2018 08:38:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/08/02/093853.html</guid>
+      <guid>http://localhost:1313/2018/08/02/093853.html</guid>
       <description>&lt;p&gt;Em vaig perdre el començament.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/08/837ec0ca940f43a4ad74bddf23fe5b25.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/08/837ec0ca940f43a4ad74bddf23fe5b25.jpg&#34; width=&#34;599&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/07/26/215802.html</link>
+      <link>http://localhost:1313/2018/07/26/215802.html</link>
       <pubDate>Thu, 26 Jul 2018 20:58:02 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/07/26/215802.html</guid>
+      <guid>http://localhost:1313/2018/07/26/215802.html</guid>
       <description>&lt;p&gt;Facebook em recorda que avui fa sis anys que vaig publicar aquesta foto. Per a tranquil·litat de tothom, faig constar que al final vam poder eixir d’aquell edifici infaust. En març d’enguany ens van donar allotjament a la Biblioteca de l’#UJI.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/07/7649190200_ebed6cfdab_o.jpg&#34; class=&#34;alignnone size-medium wp-image-1231&#34; width=&#34;300&#34; height=&#34;300&#34; alt=&#34;No exit?&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/07/7649190200_ebed6cfdab_o.jpg&#34; class=&#34;alignnone size-medium wp-image-1231&#34; width=&#34;300&#34; height=&#34;300&#34; alt=&#34;No exit?&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/07/21/123921.html</link>
+      <link>http://localhost:1313/2018/07/21/123921.html</link>
       <pubDate>Sat, 21 Jul 2018 11:39:21 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/07/21/123921.html</guid>
+      <guid>http://localhost:1313/2018/07/21/123921.html</guid>
       <description>&lt;p&gt;Les (dues) cafeteries de la fi del món i l’ase de Buridan, fotògraf.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/07/32d00d0820f94ed687ef271b3fbfb978.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/07/32d00d0820f94ed687ef271b3fbfb978.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/07/13/192428.html</link>
+      <link>http://localhost:1313/2018/07/13/192428.html</link>
       <pubDate>Fri, 13 Jul 2018 18:24:28 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/07/13/192428.html</guid>
+      <guid>http://localhost:1313/2018/07/13/192428.html</guid>
       <description>&lt;p&gt;Refugi antiaeri de la plaça Tetuan de Castelló. La baixada és esborronadora.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/07/753035be075c46f7b6ba827eb30f1cbb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/07/753035be075c46f7b6ba827eb30f1cbb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/07/10/160812.html</link>
+      <link>http://localhost:1313/2018/07/10/160812.html</link>
       <pubDate>Tue, 10 Jul 2018 15:08:12 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/07/10/160812.html</guid>
+      <guid>http://localhost:1313/2018/07/10/160812.html</guid>
       <description>&lt;p&gt;Esquena i escorç de #Bolullés, neopintor de #Castelló #UJI.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/07/e7ffcf03e74740709567a8be55a913d1.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/07/e7ffcf03e74740709567a8be55a913d1.jpg&#34; width=&#34;450&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/07/05/202733.html</link>
+      <link>http://localhost:1313/2018/07/05/202733.html</link>
       <pubDate>Thu, 05 Jul 2018 19:27:33 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/07/05/202733.html</guid>
+      <guid>http://localhost:1313/2018/07/05/202733.html</guid>
       <description>&lt;p&gt;La meua opinió ràpida sobre el &lt;a href=&#34;https://en.wikipedia.org/wiki/Gemini_%28PDA%29&#34;&gt;Gemini PDA&lt;/a&gt;: no és perfecte, però si no existira hauria d’inventar-lo algú (encara que fora una &lt;a href=&#34;https://www.planetcom.co.uk/&#34;&gt;petita companyia anglesa&lt;/a&gt;).&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/07/3894c17a9ee04eed912a1033c10023d9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/07/3894c17a9ee04eed912a1033c10023d9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/06/20/224406.html</link>
+      <link>http://localhost:1313/2018/06/20/224406.html</link>
       <pubDate>Wed, 20 Jun 2018 21:44:06 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/06/20/224406.html</guid>
+      <guid>http://localhost:1313/2018/06/20/224406.html</guid>
       <description>&lt;p&gt;Avui el corrector de l’iPhone m’ha canviat ‘inventar’ per ‘intentar’. Exactament com aquell linotipista a Joan Fuster. I jo m’he sentit transportat.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2018/2018-06-20-224406.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2018/2018-06-20-224406.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/06/12/063731.html</link>
+      <link>http://localhost:1313/2018/06/12/063731.html</link>
       <pubDate>Tue, 12 Jun 2018 05:37:31 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/06/12/063731.html</guid>
+      <guid>http://localhost:1313/2018/06/12/063731.html</guid>
       <description>&lt;p&gt;La veritat es lloga. Postveritat.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/06/6f9cefe46b714d588889836fffdb99de.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/06/6f9cefe46b714d588889836fffdb99de.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/05/26/191143.html</link>
+      <link>http://localhost:1313/2018/05/26/191143.html</link>
       <pubDate>Sat, 26 May 2018 18:11:43 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/05/26/191143.html</guid>
+      <guid>http://localhost:1313/2018/05/26/191143.html</guid>
       <description>&lt;p&gt;País Valencià amunt i avall.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/05/234cefb4a7c149c39856b383b084e38d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/05/234cefb4a7c149c39856b383b084e38d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/05/17/203910.html</link>
+      <link>http://localhost:1313/2018/05/17/203910.html</link>
       <pubDate>Thu, 17 May 2018 19:39:10 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/05/17/203910.html</guid>
+      <guid>http://localhost:1313/2018/05/17/203910.html</guid>
       <description>&lt;p&gt;Amb això m’entretindré els pròxims mesos.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/05/proemi.jpg&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/05/proemi.jpg&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/05/12/211508.html</link>
+      <link>http://localhost:1313/2018/05/12/211508.html</link>
       <pubDate>Sat, 12 May 2018 20:15:08 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/05/12/211508.html</guid>
+      <guid>http://localhost:1313/2018/05/12/211508.html</guid>
       <description>&lt;p&gt;EXIT&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/05/4a063b5f485a434c8ff889f4c6cdf267.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img alt=&#34;Foto d’un vagó de tren o de metro, amb un rètol que diu: “Deixeu eixir/Dejen salir”.&#34; src=&#34;http://localhost:1313/wp-content/uploads/2018/05/4a063b5f485a434c8ff889f4c6cdf267.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/05/01/100752.html</link>
+      <link>http://localhost:1313/2018/05/01/100752.html</link>
       <pubDate>Tue, 01 May 2018 09:07:52 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/05/01/100752.html</guid>
+      <guid>http://localhost:1313/2018/05/01/100752.html</guid>
       <description>&lt;p&gt;Cultura clàssica. Antic altar de Zeus al carrer Ciscar de #Castelló.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/05/10630a86d3e240b295be6f14a4cb4329.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Fotografia d’un carrer on es llegeix la paraula “Zeus” en un logotip imprès en una paret.&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/05/10630a86d3e240b295be6f14a4cb4329.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;Fotografia d’un carrer on es llegeix la paraula “Zeus” en un logotip imprès en una paret.&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/04/21/192856.html</link>
+      <link>http://localhost:1313/2018/04/21/192856.html</link>
       <pubDate>Sat, 21 Apr 2018 18:28:56 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/04/21/192856.html</guid>
+      <guid>http://localhost:1313/2018/04/21/192856.html</guid>
       <description>&lt;p&gt;Màrtir i dandi.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/04/64bebf18e694488cb88db14ee1b62253.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Fotografia d’una façana, amb un rètol de la Universidad Católica de Valencia San Vicente Mártir i, just davall, publicitat d’una botiga de roba amb la imatge d’un model masculí vestit de forma elegant&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/04/64bebf18e694488cb88db14ee1b62253.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Fotografia d’una façana, amb un rètol de la Universidad Católica de Valencia San Vicente Mártir i, just davall, publicitat d’una botiga de roba amb la imatge d’un model masculí vestit de forma elegant&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/04/18/182503.html</link>
+      <link>http://localhost:1313/2018/04/18/182503.html</link>
       <pubDate>Wed, 18 Apr 2018 17:25:03 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/04/18/182503.html</guid>
+      <guid>http://localhost:1313/2018/04/18/182503.html</guid>
       <description>&lt;p&gt;Avui hem encès un monitor vell, per veure si encara funcionava, i se’ns hi ha aparegut un bot rus.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/04/0e70c74541e34ff7a21d7acb2820b67e.jpg&#34; class=&#34;img-responsive&#34; alt=&#34;Foto d’un monitor de tub Sony Trinitron mostrant una paraula en alfabet cirílic i el subtítol “Solaris”.&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/04/0e70c74541e34ff7a21d7acb2820b67e.jpg&#34; class=&#34;img-responsive&#34; alt=&#34;Foto d’un monitor de tub Sony Trinitron mostrant una paraula en alfabet cirílic i el subtítol “Solaris”.&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/04/04/205214.html</link>
+      <link>http://localhost:1313/2018/04/04/205214.html</link>
       <pubDate>Wed, 04 Apr 2018 19:52:14 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/04/04/205214.html</guid>
+      <guid>http://localhost:1313/2018/04/04/205214.html</guid>
       <description>&lt;p&gt;Smiley #pareidolia #UJI&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/04/52f731659fd3421cba2ea26669450324.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/04/52f731659fd3421cba2ea26669450324.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/04/01/192706.html</link>
+      <link>http://localhost:1313/2018/04/01/192706.html</link>
       <pubDate>Sun, 01 Apr 2018 18:27:06 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/04/01/192706.html</guid>
+      <guid>http://localhost:1313/2018/04/01/192706.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Peanuts Every Sunday&lt;/em&gt;. Tires dominicals 1958-1961. Comprat a l’aeroport de Viena el 28 d’octubre de 2001: viatge de noces. Quan era menut tenia uns llençols, cosits per l’àvia Maria Antònia, estampats amb aquests personatges. Humor naïf existencialista que m’acompanya sempre.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/04/b43f51e5aa34472eb14722c810244bb8.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/04/b43f51e5aa34472eb14722c810244bb8.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/04/01/091229.html</link>
+      <link>http://localhost:1313/2018/04/01/091229.html</link>
       <pubDate>Sun, 01 Apr 2018 08:12:29 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/04/01/091229.html</guid>
+      <guid>http://localhost:1313/2018/04/01/091229.html</guid>
       <description>&lt;p&gt;Anit. Primera lluna plena després de l’equinocci de primavera.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/04/517f972e8a554f11b7b703cbda7d6718.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/04/517f972e8a554f11b7b703cbda7d6718.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/03/29/162525.html</link>
+      <link>http://localhost:1313/2018/03/29/162525.html</link>
       <pubDate>Thu, 29 Mar 2018 15:25:25 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/03/29/162525.html</guid>
+      <guid>http://localhost:1313/2018/03/29/162525.html</guid>
       <description>&lt;p&gt;Ens han traslladat a l’edifici de la Biblioteca de l’#UJI i ara, mirant cap amunt, tinc aquesta vista als matins quan entre a treballar.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/03/88c33b7adcff407fb5315f47b8073229.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/03/88c33b7adcff407fb5315f47b8073229.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/03/22/192804.html</link>
+      <link>http://localhost:1313/2018/03/22/192804.html</link>
       <pubDate>Thu, 22 Mar 2018 18:28:04 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/03/22/192804.html</guid>
+      <guid>http://localhost:1313/2018/03/22/192804.html</guid>
       <description>&lt;p&gt;D’entre els fulls d’un llibre vell, llisca un retall d’una columna de Manuel Vázquez Montalbán. “Algo hemos avanzado”, ironitzava ell fa trenta anys.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/03/af650aa19fde4e00b16e5da0b7cfa08b.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/03/af650aa19fde4e00b16e5da0b7cfa08b.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/03/19/193034.html</link>
+      <link>http://localhost:1313/2018/03/19/193034.html</link>
       <pubDate>Mon, 19 Mar 2018 18:30:34 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/03/19/193034.html</guid>
+      <guid>http://localhost:1313/2018/03/19/193034.html</guid>
       <description>&lt;p&gt;Quan vaig publicar aquesta foto en una concorreguda xarxa, algú em va proposar que em tatuara “I ❤️ Cthulhu”. Però jo sóc més de l’&lt;em&gt;altre&lt;/em&gt;, del &lt;a href=&#34;https://ca.wikipedia.org/wiki/Nyarlathotep&#34;&gt;caos reptant&lt;/a&gt;. Afinitats, en tot cas, que no convé esventar impúdicament. Si no és dissimulant-les, per exemple amb un —aparentment— anodí “I ❤️ NY”.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/03/b854a128add64c67b2f0c6389dc8ae0b.jpg&#34; class=&#34;img-responsive&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/03/b854a128add64c67b2f0c6389dc8ae0b.jpg&#34; class=&#34;img-responsive&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/03/16/185237.html</link>
+      <link>http://localhost:1313/2018/03/16/185237.html</link>
       <pubDate>Fri, 16 Mar 2018 17:52:37 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/03/16/185237.html</guid>
+      <guid>http://localhost:1313/2018/03/16/185237.html</guid>
       <description>&lt;p&gt;Miedo.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/03/6293a51e6c8e4e1a96cecaa8080f6f0b.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/03/6293a51e6c8e4e1a96cecaa8080f6f0b.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/03/10/182528.html</link>
+      <link>http://localhost:1313/2018/03/10/182528.html</link>
       <pubDate>Sat, 10 Mar 2018 17:25:28 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/03/10/182528.html</guid>
+      <guid>http://localhost:1313/2018/03/10/182528.html</guid>
       <description>&lt;p&gt;Enguany esperava trobar-hi el símbol del Bitcoin en comptes del dòlar. Però les atraccions de la fira continuen fortament ancorades en el passat.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/03/61e9cd4ad93540bba1da9f1a06dd2cf0.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/03/61e9cd4ad93540bba1da9f1a06dd2cf0.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/03/09/102322.html</link>
+      <link>http://localhost:1313/2018/03/09/102322.html</link>
       <pubDate>Fri, 09 Mar 2018 09:23:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/03/09/102322.html</guid>
+      <guid>http://localhost:1313/2018/03/09/102322.html</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;El sedàs de triar l’arròs va estar molts anys al rebost, quan ja ningú no el feia servir perquè l’arròs ja no es comprava al magatzem al costat del mercat de Sant Antoni amb un saquetet de roba de quadres i ja no calia triar-lo.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—Maria Folch, &lt;em&gt;Després vénen els anys&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/03/f1d867e01d2f4d9fb4365a64d9bc37b9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/03/f1d867e01d2f4d9fb4365a64d9bc37b9.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/02/28/180327.html</link>
+      <link>http://localhost:1313/2018/02/28/180327.html</link>
       <pubDate>Wed, 28 Feb 2018 17:03:27 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/02/28/180327.html</guid>
+      <guid>http://localhost:1313/2018/02/28/180327.html</guid>
       <description>&lt;p&gt;A les finestres d’aquest Edifici d’Investigació apareixen missatges esotèrics escrits en binari. #UJI&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/02/287ca15893de42f1b37066cd5072b3c9.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/02/287ca15893de42f1b37066cd5072b3c9.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/02/24/122512.html</link>
+      <link>http://localhost:1313/2018/02/24/122512.html</link>
       <pubDate>Sat, 24 Feb 2018 11:25:12 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/02/24/122512.html</guid>
+      <guid>http://localhost:1313/2018/02/24/122512.html</guid>
       <description>&lt;p&gt;Universitat d’Alacant, campus de Sant Vicent del Raspeig.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/02/693050d7a6cd47beaade9568034b8db1.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/02/693050d7a6cd47beaade9568034b8db1.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/02/23/175700.html</link>
+      <link>http://localhost:1313/2018/02/23/175700.html</link>
       <pubDate>Fri, 23 Feb 2018 16:57:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/02/23/175700.html</guid>
+      <guid>http://localhost:1313/2018/02/23/175700.html</guid>
       <description>&lt;p&gt;Quan vaig comprar aquesta versió del cub de Rubik, amb cares de senyores i senyors, no imaginava que resultaria tan difícil. Les peces centrals poden quedar girades i això no sabia resoldre-ho. Però ara ja me n’he informat. Només calia aprendre dues seqüències noves. 🙂&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/02/cdfdc2fb28f8463696d3e54291524d64.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/02/cdfdc2fb28f8463696d3e54291524d64.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/02/17/161748.html</link>
+      <link>http://localhost:1313/2018/02/17/161748.html</link>
       <pubDate>Sat, 17 Feb 2018 15:17:48 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/02/17/161748.html</guid>
+      <guid>http://localhost:1313/2018/02/17/161748.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Vanishing point&lt;/em&gt;. Jardí Botànic, València.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/02/107656ee081c4046b110b2b6e87fa621.jpg&#34; height=&#34;600&#34; width=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/02/107656ee081c4046b110b2b6e87fa621.jpg&#34; height=&#34;600&#34; width=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/02/17/123113.html</link>
+      <link>http://localhost:1313/2018/02/17/123113.html</link>
       <pubDate>Sat, 17 Feb 2018 11:31:13 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/02/17/123113.html</guid>
+      <guid>http://localhost:1313/2018/02/17/123113.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Vantage point&lt;/em&gt;. Parc de l’Hospital, València.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/02/5c674f912477416d8ffcd8ef3eaa212a.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/02/5c674f912477416d8ffcd8ef3eaa212a.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/02/12/183911.html</link>
+      <link>http://localhost:1313/2018/02/12/183911.html</link>
       <pubDate>Mon, 12 Feb 2018 17:39:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/02/12/183911.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:51874/2009/08/24/estructures-de-condensaci.html&#34;&gt;Structure de condensation onirique&lt;/a&gt; #UJI&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/02/866b171e79714a968ab09370cbcdd58d.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
+      <guid>http://localhost:1313/2018/02/12/183911.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/2009/08/24/estructures-de-condensaci.html&#34;&gt;Structure de condensation onirique&lt;/a&gt; #UJI&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/02/866b171e79714a968ab09370cbcdd58d.jpg&#34; height=&#34;600&#34; width=&#34;600&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/02/09/210415.html</link>
+      <link>http://localhost:1313/2018/02/09/210415.html</link>
       <pubDate>Fri, 09 Feb 2018 20:04:15 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/02/09/210415.html</guid>
+      <guid>http://localhost:1313/2018/02/09/210415.html</guid>
       <description>&lt;p&gt;Llegibilitat versus meravella. Darreres sopetes bilingües amb Consum.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/02/24dadcaba0cf427baba2530f2188f39b.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/02/24dadcaba0cf427baba2530f2188f39b.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/01/31/182523.html</link>
+      <link>http://localhost:1313/2018/01/31/182523.html</link>
       <pubDate>Wed, 31 Jan 2018 17:25:23 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/01/31/182523.html</guid>
+      <guid>http://localhost:1313/2018/01/31/182523.html</guid>
       <description>&lt;p&gt;El riu Sec. L’Amazònia de Castelló.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/01/img_5617.jpg&#34; class=&#34;wp-image-848 size-full&#34; height=&#34;750&#34; width=&#34;1000&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/01/img_5617.jpg&#34; class=&#34;wp-image-848 size-full&#34; height=&#34;750&#34; width=&#34;1000&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/01/26/165959.html</link>
+      <link>http://localhost:1313/2018/01/26/165959.html</link>
       <pubDate>Fri, 26 Jan 2018 15:59:59 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/01/26/165959.html</guid>
+      <guid>http://localhost:1313/2018/01/26/165959.html</guid>
       <description>&lt;p&gt;Els països aragonesos: &lt;em&gt;“Le royaume d’Aragon avec ses dépendances”&lt;/em&gt;. Exposició &lt;a href=&#34;http://www.uji.es/com/agenda/2017/12/21/exposicio-mapes/&#34;&gt;”De les terres i els dominis del senyor rei d’Aragó”&lt;/a&gt;. Universitat Jaume I. Menador, espai cultural.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/01/eb98bcc054ec43fa83d449d0c83f5f7e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/01/eb98bcc054ec43fa83d449d0c83f5f7e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/01/13/194940.html</link>
+      <link>http://localhost:1313/2018/01/13/194940.html</link>
       <pubDate>Sat, 13 Jan 2018 18:49:40 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/01/13/194940.html</guid>
+      <guid>http://localhost:1313/2018/01/13/194940.html</guid>
       <description>&lt;p&gt;El pensador de Dosaigües.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/01/52472b340efb43a28d349e9d3db8b269.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/01/52472b340efb43a28d349e9d3db8b269.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/01/12/102718.html</link>
+      <link>http://localhost:1313/2018/01/12/102718.html</link>
       <pubDate>Fri, 12 Jan 2018 09:27:18 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/01/12/102718.html</guid>
+      <guid>http://localhost:1313/2018/01/12/102718.html</guid>
       <description>&lt;p&gt;Aquesta cadira és la bona.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/01/541cdf86edfd420d850f95e4f27d53e4.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/01/541cdf86edfd420d850f95e4f27d53e4.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2018/01/09/215648.html</link>
+      <link>http://localhost:1313/2018/01/09/215648.html</link>
       <pubDate>Tue, 09 Jan 2018 20:56:48 +0000</pubDate>
       
-      <guid>http://localhost:51874/2018/01/09/215648.html</guid>
+      <guid>http://localhost:1313/2018/01/09/215648.html</guid>
       <description>&lt;p&gt;Infraestructura bàsica per a un esclat de llum #7.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2018/01/b805331325664db8b77215c78ea80ee3.jpg&#34; height=&#34;600&#34; width=&#34;600&#34; alt=&#34;Fotografia d’um embull de cables en una paret.&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2018/01/b805331325664db8b77215c78ea80ee3.jpg&#34; height=&#34;600&#34; width=&#34;600&#34; alt=&#34;Fotografia d’um embull de cables en una paret.&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/12/27/093115.html</link>
+      <link>http://localhost:1313/2017/12/27/093115.html</link>
       <pubDate>Wed, 27 Dec 2017 08:31:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/12/27/093115.html</guid>
+      <guid>http://localhost:1313/2017/12/27/093115.html</guid>
       <description>&lt;p&gt;Llegit: &lt;a href=&#34;https://www.blackiebooks.org/catalogo/en-tristany-sencongeix/&#34;&gt;En Tristany s’encongeix&lt;/a&gt;, de Florence Parry Heide i Edward Gorey (Blackie Books). Regal de Nadal. Deliciós.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/12/99b59ed6976440499e20754801796dd3.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/12/99b59ed6976440499e20754801796dd3.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/12/22/083709.html</link>
+      <link>http://localhost:1313/2017/12/22/083709.html</link>
       <pubDate>Fri, 22 Dec 2017 07:37:09 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/12/22/083709.html</guid>
+      <guid>http://localhost:1313/2017/12/22/083709.html</guid>
       <description>&lt;ol start=&#34;22&#34;&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/12/3295e0dcc3c8439993b5a71cd7015891.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/12/3295e0dcc3c8439993b5a71cd7015891.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/12/19/180528.html</link>
+      <link>http://localhost:1313/2017/12/19/180528.html</link>
       <pubDate>Tue, 19 Dec 2017 17:05:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/12/19/180528.html</guid>
+      <guid>http://localhost:1313/2017/12/19/180528.html</guid>
       <description>&lt;p&gt;Rellotge Sturmanskie. Com el que portaven els cosmonautes de la &lt;a href=&#34;https://en.wikipedia.org/wiki/Voskhod_1&#34;&gt;Voskhod 1&lt;/a&gt;, primer vol espacial amb més d’un tripulant (n’eren tres, de fet, i portaven roba normal perquè amb l’escafandre no hi haurien cabut, en un espai tan reduït).&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/12/703cfe5501474695bfca405d3151c96e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/12/703cfe5501474695bfca405d3151c96e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/12/15/174415.html</link>
+      <link>http://localhost:1313/2017/12/15/174415.html</link>
       <pubDate>Fri, 15 Dec 2017 16:44:15 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/12/15/174415.html</guid>
+      <guid>http://localhost:1313/2017/12/15/174415.html</guid>
       <description>&lt;p&gt;“Col·lectius fent front a la por: grups artístics espanyols 1945-1975”. Exposició del CIDA del Museu d’Art Contemporani de Vilafamés en la Biblioteca #UJI.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/12/442cbb7a77e24111b5c1ed9050ae148c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/12/442cbb7a77e24111b5c1ed9050ae148c.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/12/07/160143.html</link>
+      <link>http://localhost:1313/2017/12/07/160143.html</link>
       <pubDate>Thu, 07 Dec 2017 15:01:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/12/07/160143.html</guid>
+      <guid>http://localhost:1313/2017/12/07/160143.html</guid>
       <description>&lt;p&gt;Les drassanes del Riu Sec a Castelló.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/12/7efc9f12b28042c9a029709c4f8554ac.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/12/7efc9f12b28042c9a029709c4f8554ac.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/12/03/204219.html</link>
+      <link>http://localhost:1313/2017/12/03/204219.html</link>
       <pubDate>Sun, 03 Dec 2017 19:42:19 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/12/03/204219.html</guid>
+      <guid>http://localhost:1313/2017/12/03/204219.html</guid>
       <description>&lt;p&gt;La ferotge cavalleria de Nadal.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/12/f6015c5eef6443b0bcedbd8ca89520e0.jpg&#34; class=&#34;img-responsive&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/12/f6015c5eef6443b0bcedbd8ca89520e0.jpg&#34; class=&#34;img-responsive&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/11/30/091005.html</link>
+      <link>http://localhost:1313/2017/11/30/091005.html</link>
       <pubDate>Thu, 30 Nov 2017 08:10:05 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/11/30/091005.html</guid>
+      <guid>http://localhost:1313/2017/11/30/091005.html</guid>
       <description>&lt;p&gt;Avui ha tornat a eixir el sol.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/11/89d6149443304aa5bb0cbec119770319.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/11/89d6149443304aa5bb0cbec119770319.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/11/25/112430.html</link>
+      <link>http://localhost:1313/2017/11/25/112430.html</link>
       <pubDate>Sat, 25 Nov 2017 10:24:30 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/11/25/112430.html</guid>
+      <guid>http://localhost:1313/2017/11/25/112430.html</guid>
       <description>&lt;p&gt;La fórmula magistral de l’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Homuncle&#34;&gt;homuncle&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/11/92434b956e824f909cfe221f2c888545.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/11/92434b956e824f909cfe221f2c888545.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/11/19/222620.html</link>
+      <link>http://localhost:1313/2017/11/19/222620.html</link>
       <pubDate>Sun, 19 Nov 2017 21:26:20 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/11/19/222620.html</guid>
+      <guid>http://localhost:1313/2017/11/19/222620.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Open (not so).&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/11/44ad342abbc54de0857ae4adb9558feb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/11/44ad342abbc54de0857ae4adb9558feb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/11/11/123517.html</link>
+      <link>http://localhost:1313/2017/11/11/123517.html</link>
       <pubDate>Sat, 11 Nov 2017 11:35:17 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/11/11/123517.html</guid>
+      <guid>http://localhost:1313/2017/11/11/123517.html</guid>
       <description>&lt;p&gt;Aneguets universitaris d’Alacant–Sant Vicent del Raspeig.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/11/img_5580.jpg&#34; height=&#34;1151&#34; class=&#34;wp-image-583&#34; width=&#34;2048&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/11/img_5580.jpg&#34; height=&#34;1151&#34; class=&#34;wp-image-583&#34; width=&#34;2048&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/10/21/172815.html</link>
+      <link>http://localhost:1313/2017/10/21/172815.html</link>
       <pubDate>Sat, 21 Oct 2017 16:28:15 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/10/21/172815.html</guid>
+      <guid>http://localhost:1313/2017/10/21/172815.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Illegitimi_non_carborundum&#34;&gt;Illegitimi non carborundum/Nolite te bastardes carborundorum&lt;/a&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/10/4af5e2c78bd341ef82721f285d9743a5.jpg&#34; class=&#34;img-responsive&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/10/4af5e2c78bd341ef82721f285d9743a5.jpg&#34; class=&#34;img-responsive&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/10/16/210755.html</link>
+      <link>http://localhost:1313/2017/10/16/210755.html</link>
       <pubDate>Mon, 16 Oct 2017 20:07:55 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/10/16/210755.html</guid>
+      <guid>http://localhost:1313/2017/10/16/210755.html</guid>
       <description>&lt;p&gt;Cuando despertó, el rey todavía estaba allí.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/10/27376b749c51488db303dd461d5fd5ec.jpg&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/10/27376b749c51488db303dd461d5fd5ec.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/10/11/185359.html</link>
+      <link>http://localhost:1313/2017/10/11/185359.html</link>
       <pubDate>Wed, 11 Oct 2017 17:53:59 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/10/11/185359.html</guid>
+      <guid>http://localhost:1313/2017/10/11/185359.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Ceci n’est pas une mandarine.&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/10/7b9834426f8f4dc5884d9e8e2350afd2.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/10/7b9834426f8f4dc5884d9e8e2350afd2.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/10/08/213215.html</link>
+      <link>http://localhost:1313/2017/10/08/213215.html</link>
       <pubDate>Sun, 08 Oct 2017 20:32:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/10/08/213215.html</guid>
+      <guid>http://localhost:1313/2017/10/08/213215.html</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;En cuanto cruzas la calle&lt;br&gt;
 estás del lado de la sombra.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;—&lt;em&gt;Más acá, más allá&lt;/em&gt;, milonga de Juan Ferraris citada por Adolfo Bioy Casares.&lt;/p&gt;
-&lt;img alt=&#34;Calle Oscura en el municipio de La Cuba, provincia de Teruel&#34; src=&#34;http://localhost:51874/wp-content/uploads/2017/10/ebd7ff76cf6c4c19953b5419e08097a6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img alt=&#34;Calle Oscura en el municipio de La Cuba, provincia de Teruel&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/10/ebd7ff76cf6c4c19953b5419e08097a6.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/10/04/185218.html</link>
+      <link>http://localhost:1313/2017/10/04/185218.html</link>
       <pubDate>Wed, 04 Oct 2017 17:52:18 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/10/04/185218.html</guid>
+      <guid>http://localhost:1313/2017/10/04/185218.html</guid>
       <description>&lt;p&gt;Duresa.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/10/cf70e12664f64602a1c00925b047f3e2.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/10/cf70e12664f64602a1c00925b047f3e2.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/09/28/172916.html</link>
+      <link>http://localhost:1313/2017/09/28/172916.html</link>
       <pubDate>Thu, 28 Sep 2017 16:29:16 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/09/28/172916.html</guid>
+      <guid>http://localhost:1313/2017/09/28/172916.html</guid>
       <description>&lt;p&gt;Obres de la Facultat de Ciències de la Salut. Per a construir cal destruir.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/09/96c120053337459884eeb4e52fafa94f.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/09/96c120053337459884eeb4e52fafa94f.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/09/18/185627.html</link>
+      <link>http://localhost:1313/2017/09/18/185627.html</link>
       <pubDate>Mon, 18 Sep 2017 17:56:27 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/09/18/185627.html</guid>
+      <guid>http://localhost:1313/2017/09/18/185627.html</guid>
       <description>&lt;p&gt;España, manual de instrucciones.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/09/dba14b2a85cb4d20a7148a5d15437c27.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/09/dba14b2a85cb4d20a7148a5d15437c27.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/09/08/092753.html</link>
+      <link>http://localhost:1313/2017/09/08/092753.html</link>
       <pubDate>Fri, 08 Sep 2017 08:27:53 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/09/08/092753.html</guid>
+      <guid>http://localhost:1313/2017/09/08/092753.html</guid>
       <description>&lt;p&gt;…30054, 30055.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/09/4e64f6c8df6b4e47a684dbdfafd7c7cb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/09/4e64f6c8df6b4e47a684dbdfafd7c7cb.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/08/12/172005.html</link>
+      <link>http://localhost:1313/2017/08/12/172005.html</link>
       <pubDate>Sat, 12 Aug 2017 16:20:05 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/08/12/172005.html</guid>
+      <guid>http://localhost:1313/2017/08/12/172005.html</guid>
       <description>&lt;p&gt;Miles, Miles, Miles 🎶&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/08/82b39972180f45f89a89f0124e9c78ab.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/08/82b39972180f45f89a89f0124e9c78ab.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/08/11/213307.html</link>
+      <link>http://localhost:1313/2017/08/11/213307.html</link>
       <pubDate>Fri, 11 Aug 2017 20:33:07 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/08/11/213307.html</guid>
+      <guid>http://localhost:1313/2017/08/11/213307.html</guid>
       <description>&lt;p&gt;Sofà.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/08/a5014d3d56984770abdc9415a75f5785.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/08/a5014d3d56984770abdc9415a75f5785.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/08/05/213302.html</link>
+      <link>http://localhost:1313/2017/08/05/213302.html</link>
       <pubDate>Sat, 05 Aug 2017 20:33:02 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/08/05/213302.html</guid>
+      <guid>http://localhost:1313/2017/08/05/213302.html</guid>
       <description>&lt;p&gt;Per a començar les festes.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/08/abf90ad17b3b4516aef585b886539e5d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/08/abf90ad17b3b4516aef585b886539e5d.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34;&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2017/07/09/204722.html</link>
+      <link>http://localhost:1313/2017/07/09/204722.html</link>
       <pubDate>Sun, 09 Jul 2017 19:47:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/07/09/204722.html</guid>
-      <description>&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/07/hipstamaticphoto-521316635.960917-2.jpg&#34; alt=&#34;Església de Sant Agustí de Castelló de la Plana. Escut amb cor travessat per dues fletxes.&#34; /&gt;
+      <guid>http://localhost:1313/2017/07/09/204722.html</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/07/hipstamaticphoto-521316635.960917-2.jpg&#34; alt=&#34;Església de Sant Agustí de Castelló de la Plana. Escut amb cor travessat per dues fletxes.&#34; /&gt;
 &lt;p&gt;Simbologia agustiniana: el cor inflamat de neguit, travessat per les fletxes divines (església de Sant Agustí de Castelló).&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Agustí va obrir les rescloses a través de les quals van afluir des de llavors al pensament europeu les energies masoquistes primàries… Es podria dir que, d’aquesta manera, Agustí va deslligar la filosofia de la seva antiga constitució maníaca i la va col·locar sota el patrocini de la depressió.&lt;/p&gt;
@@ -2091,56 +2091,56 @@ estás del lado de la sombra.&lt;/p&gt;
     
     <item>
       
-      <link>http://localhost:51874/2017/06/30/165852.html</link>
+      <link>http://localhost:1313/2017/06/30/165852.html</link>
       <pubDate>Fri, 30 Jun 2017 15:58:52 +0000</pubDate>
       
-      <guid>http://localhost:51874/2017/06/30/165852.html</guid>
+      <guid>http://localhost:1313/2017/06/30/165852.html</guid>
       <description>&lt;p&gt;Plourà?&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/wp-content/uploads/2017/06/03946ed45b3a4f7f84c953674302649e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/wp-content/uploads/2017/06/03946ed45b3a4f7f84c953674302649e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;height: auto&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Un altre conte xinès</title>
-      <link>http://localhost:51874/2016/11/13/un-altre-conte.html</link>
+      <link>http://localhost:1313/2016/11/13/un-altre-conte.html</link>
       <pubDate>Sun, 13 Nov 2016 23:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2016/11/13/un-altre-conte.html</guid>
+      <guid>http://localhost:1313/2016/11/13/un-altre-conte.html</guid>
       <description>&lt;p&gt;He somniat que contractava uns xinesos per baixar l’UJI del núvol. Ho feien un dia de festa, quan el rector i el gerent estaven despistats. Deixaven la base de dades a la consergeria de serveis centrals, en un USB amb logo personalitzat, i les aplicacions en GitCafé. Aturaven les instàncies d’EC2, etc. I a mi em regalaven un cupó de descompte d’AliExpress.&lt;/p&gt;
 &lt;p&gt;Tot això respectant escrupolosament la legalitat. Ens assessorava un advocat andorrà.&lt;/p&gt;
-&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/carlesbellver/30652528920/in/dateposted-public/&#34; title=&#34;Distorsió&#34;&gt;&lt;img src=&#34;http://localhost:51874/uploads/2019/f2c49a5821.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; alt=&#34;Distorsió&#34; /&gt;&lt;/a&gt;&lt;script async=&#34;&#34; src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/carlesbellver/30652528920/in/dateposted-public/&#34; title=&#34;Distorsió&#34;&gt;&lt;img src=&#34;http://localhost:1313/uploads/2019/f2c49a5821.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; alt=&#34;Distorsió&#34; /&gt;&lt;/a&gt;&lt;script async=&#34;&#34; src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Peanut Underground</title>
-      <link>http://localhost:51874/2016/06/23/the-peanut-underground.html</link>
+      <link>http://localhost:1313/2016/06/23/the-peanut-underground.html</link>
       <pubDate>Thu, 23 Jun 2016 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2016/06/23/the-peanut-underground.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://flic.kr/p/JtCH6T&#34;&gt;&lt;img alt=&#34;The Peanut Underground, by Bill Cawley &amp;amp; Stephen Altobello&#34; src=&#34;http://localhost:51874/uploads/2019/ee82cfa0da.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/2016/06/23/the-peanut-underground.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://flic.kr/p/JtCH6T&#34;&gt;&lt;img alt=&#34;The Peanut Underground, by Bill Cawley &amp;amp; Stephen Altobello&#34; src=&#34;http://localhost:1313/uploads/2019/ee82cfa0da.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;By Bill Cawley &amp;amp; Stephen Altobello. &lt;a href=&#34;https://flic.kr/p/JtCH6T&#34;&gt;Scan&lt;/a&gt; from &lt;em&gt;Les Inrockuptibles&lt;/em&gt; #24, 1990.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2016/05/11/management-folklore-fact/</link>
+      <link>http://localhost:1313/2016/05/11/management-folklore-fact/</link>
       <pubDate>Wed, 11 May 2016 14:38:37 +0200</pubDate>
       
-      <guid>http://localhost:51874/2016/05/11/management-folklore-fact/</guid>
-      <description>&lt;p&gt;Una de les &lt;a href=&#34;http://localhost:51874/2020/01/19/el-gerent-representa.html&#34;&gt;feines&lt;/a&gt; més &lt;a href=&#34;http://localhost:51874/2018/01/29/191857.html&#34;&gt;misterioses&lt;/a&gt;.&lt;/p&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://localhost:51874/uploads/2016/2016-05-11-management-folklore-fact.jpg&#34;&gt;
+      <guid>http://localhost:1313/2016/05/11/management-folklore-fact/</guid>
+      <description>&lt;p&gt;Una de les &lt;a href=&#34;http://localhost:1313/2020/01/19/el-gerent-representa.html&#34;&gt;feines&lt;/a&gt; més &lt;a href=&#34;http://localhost:1313/2018/01/29/191857.html&#34;&gt;misterioses&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Foto d’un article imprès damunt d’una superfície plana. El títol de l’article diu: “The manager’s job: folklore and fact”. A sota: “The classical view says that the manager organizes, coordinates, plans and controls: the facts suggest otherwise“. Autor: Henry Mintzberg.&#34; src=&#34;http://localhost:1313/uploads/2016/2016-05-11-management-folklore-fact.jpg&#34;&gt;
 </description>
     </item>
     
     <item>
       <title>Per al·lusions: l’apocalipsi i València</title>
-      <link>http://localhost:51874/2016/01/27/per-allusions-lapocalipsi.html</link>
+      <link>http://localhost:1313/2016/01/27/per-allusions-lapocalipsi.html</link>
       <pubDate>Wed, 27 Jan 2016 23:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2016/01/27/per-allusions-lapocalipsi.html</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;Se prohíbe ensuciarse&#34; href=&#34;http://www.flickr.com/photos/carlesbellver/12090678396/&#34;&gt;&lt;img alt=&#34;Foto: Se prohíbe ensuciarse&#34; src=&#34;http://localhost:51874/uploads/2019/37645c09de.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/2016/01/27/per-allusions-lapocalipsi.html</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;Se prohíbe ensuciarse&#34; href=&#34;http://www.flickr.com/photos/carlesbellver/12090678396/&#34;&gt;&lt;img alt=&#34;Foto: Se prohíbe ensuciarse&#34; src=&#34;http://localhost:1313/uploads/2019/37645c09de.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Vaig demanar a Maria Folch que &lt;a href=&#34;http://carlesbellver.net/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova/&#34;&gt;presentara&lt;/a&gt; el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria parlar gaire. Tan sols uns pocs minuts, com vaig dir, &lt;em&gt;per al·lusions&lt;/em&gt;. No repetiré ací cada observació que vaig fer, però sí que deixaré constància de dos o tres detalls que m’interessen particularment.&lt;/p&gt;
 &lt;p&gt;Un. Certament, no era cap secret que en “Un cel nou i una terra nova” —el conte que dóna títol al llibre— s’esdevé una mena d’apocalipsi. El relat dels fets, com va assenyalar Maria, comença sota un epígraf que no pot ser més explícit: “Just abans de la fi del món”. Amb la qual cosa tampoc pretenia resultar gens original. No mancàvem de proclames apocalíptiques, mentre jo escrivia. I segurament amb raó. Almenys a mi també m’ho pareixia, que la realitat se’ns estava ensorrant i que ens queia damunt a trossos. I encara m’ho pareix, és clar. No hi ha dia que no ens assabentem d’una altra calamitat. Però era optimista, i per això hi havia una segona part: “Quinze anys després”. És a dir, que s’acabava un món, però tot seguit en començava un altre. Més estrany encara, potser. Nou de trinca.&lt;/p&gt;
 &lt;p&gt;Dos. Hi havia una pregunta ineludible: per què l’acció transcorre a València? Era conscient que se’m podia acusar, fins i tot, de pocavergonya i de traïdor, atesa la meua inclinació a exercir d’escriptor &lt;em&gt;castellonenc&lt;/em&gt;. Però, siguem sincers, si venia l’apocalipsi, on volíem que passara? Recorde que Manuel Vázquez Montalbán, molt irònicament, va advertir alguna vegada que a Barcelona podien estar tranquils, perquè si tiraven la bomba atòmica la tirarien a Madrid, que per això era la capital. Ho va escriure a les pàgines d’El País i se li va enfadar més d’un lector. Eren els anys llunyans de la guerra freda i l’autonomia, però la idea continua sent vàlida. Les coses importants passen als llocs importants. L’apocalipsi de debò, al nostre entorn de país o regne, només podia ocórrer a València. A Castelló, on no tenim més que una &lt;em&gt;subdelegació&lt;/em&gt; del Govern, amb prou feines ens n’assabentaríem per la tele o pel Twitter. Per tant, des del primer moment, vaig tenir clar on era que arribava en tren el narrador, aquest home o homenet de negre en cerca del seu destí de funcionari.&lt;/p&gt;
@@ -2151,33 +2151,33 @@ estás del lado de la sombra.&lt;/p&gt;
     
     <item>
       <title>Pensava demanar-hi asil</title>
-      <link>http://localhost:51874/2014/05/06/pensava-demanarhi-asil.html</link>
+      <link>http://localhost:1313/2014/05/06/pensava-demanarhi-asil.html</link>
       <pubDate>Tue, 06 May 2014 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2014/05/06/pensava-demanarhi-asil.html</guid>
+      <guid>http://localhost:1313/2014/05/06/pensava-demanarhi-asil.html</guid>
       <description>&lt;p&gt;Pensava demanar-hi asil, però a l’últim moment m’ha fet vergonya i només he demanat l’hora. La d’Oslo, vull dir. La mateixa que ací, m’han contestat. M’ha estranyat, i se’m deu haver notat en l’expressió de la cara, perquè llavors el funcionari, un home jove potser en el seu primer destí —alt, els ulls clars i astuts de víking— m’ha volgut explicar que el Consell d’Europa debat crear zones horàries noves, basades en la latitud més que no pas en la distància de Greenwich, aquest costum antic. N’hi hauria tres i prou: una hora nòrdica, una hora central i una altra per als països del sud. Aquesta darrera, la nostra, quinze o vint minuts —com a molt— per davant de l’hora del nord d’Àfrica. Parlava un castellà pulcre, neutre, sense accent. Si de cas, amb uns matisos de posta de sol als fiords en acabar les frases. Ens hem acomiadat molt diplomàticament i he marxat més intranquil que abans.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/carlesbellver/14107932436/&#34;&gt;&lt;img src=&#34;http://localhost:51874/uploads/2019/5ae3e0ccfe.jpg&#34; alt=&#34;Viceconsolat&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/carlesbellver/14107932436/&#34;&gt;&lt;img src=&#34;http://localhost:1313/uploads/2019/5ae3e0ccfe.jpg&#34; alt=&#34;Viceconsolat&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       
-      <link>http://localhost:51874/2013/12/19/tensin-de-muerte.html</link>
+      <link>http://localhost:1313/2013/12/19/tensin-de-muerte.html</link>
       <pubDate>Thu, 19 Dec 2013 23:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2013/12/19/tensin-de-muerte.html</guid>
+      <guid>http://localhost:1313/2013/12/19/tensin-de-muerte.html</guid>
       <description>&lt;p&gt;Tensión de muerte. &lt;em&gt;Sometimes you may feel like that&lt;/em&gt;.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2019/7c080aeb41.jpg&#34; width=&#34;533&#34; height=&#34;533&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2019/7c080aeb41.jpg&#34; width=&#34;533&#34; height=&#34;533&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Definició d’àngel</title>
-      <link>http://localhost:51874/2013/12/08/definici-dngel.html</link>
+      <link>http://localhost:1313/2013/12/08/definici-dngel.html</link>
       <pubDate>Sun, 08 Dec 2013 23:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2013/12/08/definici-dngel.html</guid>
-      <description>&lt;img src=&#34;http://localhost:51874/uploads/2019/9df7696f2e.jpg&#34; alt=&#34;Definició d’àngel&#34; /&gt;
+      <guid>http://localhost:1313/2013/12/08/definici-dngel.html</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/uploads/2019/9df7696f2e.jpg&#34; alt=&#34;Definició d’àngel&#34; /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A sobrevent, un batre&lt;br&gt;
 d’ales, alè al vol,&lt;br&gt;
@@ -2193,22 +2193,22 @@ empelts.&lt;/p&gt;
     
     <item>
       <title>Dessecació</title>
-      <link>http://localhost:51874/2013/05/26/dessecaci.html</link>
+      <link>http://localhost:1313/2013/05/26/dessecaci.html</link>
       <pubDate>Sun, 26 May 2013 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2013/05/26/dessecaci.html</guid>
+      <guid>http://localhost:1313/2013/05/26/dessecaci.html</guid>
       <description>&lt;p&gt;En &lt;em&gt;El otoño del patriarca&lt;/em&gt;, el dictador venia el mar als &lt;em&gt;gringos&lt;/em&gt; per pal·liar l’endeutament. Avui, en passar pel Parc de Ribalta, m’he trobat la bassa dels peixos buida…&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2020/f5a37ff48d.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2020/f5a37ff48d.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Una qüestió de mètrica</title>
-      <link>http://localhost:51874/2013/02/07/una-qesti-de.html</link>
+      <link>http://localhost:1313/2013/02/07/una-qesti-de.html</link>
       <pubDate>Thu, 07 Feb 2013 23:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2013/02/07/una-qesti-de.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/carlesbellver/8452185785/&#34; title=&#34;Criatura dolcíssima by Carles Bellver, on Flickr&#34;&gt;&lt;img src=&#34;http://localhost:51874/uploads/2019/fb9ebfd41f.jpg&#34; alt=&#34;Criatura dolcíssima&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/2013/02/07/una-qesti-de.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/carlesbellver/8452185785/&#34; title=&#34;Criatura dolcíssima by Carles Bellver, on Flickr&#34;&gt;&lt;img src=&#34;http://localhost:1313/uploads/2019/fb9ebfd41f.jpg&#34; alt=&#34;Criatura dolcíssima&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Heus ací la citació amb què he volgut encapçalar el meu &lt;a href=&#34;https://carlesbellver.net/llibres/lanitmildos&#34;&gt;nou llibre&lt;/a&gt;. Un cèlebre vers del cèlebre poema de Joan Fuster &lt;a href=&#34;http://lletra.uoc.edu/especials/folch/fuster.htm&#34;&gt;“Criatura dolcíssima”&lt;/a&gt; (&lt;em&gt;Escrit per al silenci&lt;/em&gt;, 1954):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;No hi llegiran ton nom amb un bell pànic?&lt;/p&gt;
@@ -2226,11 +2226,11 @@ empelts.&lt;/p&gt;
     
     <item>
       <title>La veu de la meva inconsciència</title>
-      <link>http://localhost:51874/2010/12/14/la-veu-de.html</link>
+      <link>http://localhost:1313/2010/12/14/la-veu-de.html</link>
       <pubDate>Tue, 14 Dec 2010 23:00:15 +0000</pubDate>
       
-      <guid>http://localhost:51874/2010/12/14/la-veu-de.html</guid>
-      <description>&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/carlesbellver/4358336295&#34; title=&#34;Moment Cortázar&#34;&gt;&lt;img src=&#34;http://localhost:51874/uploads/2019/fbd0f18097.jpg&#34; alt=&#34;Moment Cortázar&#34; /&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/2010/12/14/la-veu-de.html</guid>
+      <description>&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/carlesbellver/4358336295&#34; title=&#34;Moment Cortázar&#34;&gt;&lt;img src=&#34;http://localhost:1313/uploads/2019/fbd0f18097.jpg&#34; alt=&#34;Moment Cortázar&#34; /&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;Wilbur és un &lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_bot&#34;&gt;bot&lt;/a&gt; nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter &lt;a href=&#34;http://twitter.com/carlesbellver&#34;&gt;@carlesbellver&lt;/a&gt; (abans ho feia en el seu propi: &lt;a href=&#34;http://twitter.com/petitwilbur&#34;&gt;@petitwilbur&lt;/a&gt;). Molt de tant en tant profereix alguna imprecació a l’estil d’&lt;a href=&#34;http://ca.wikipedia.org/wiki/Capit%C3%A0_Haddock&#34;&gt;Archibald Haddock&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Wilbur és el guardià del meu son. No sempre sé per què diu el que diu. Schopenhauer va escriure en alguna ocasió que la vigília i els somnis són fulls d’un mateix llibre. De nit el fullegem sense ordre ni concert.&lt;/p&gt;
 &lt;p&gt;Al matí em desperta amb el pronòstic del temps.&lt;/p&gt;
@@ -2240,24 +2240,24 @@ empelts.&lt;/p&gt;
     
     <item>
       <title>El caragol</title>
-      <link>http://localhost:51874/2004/05/22/el-caragol.html</link>
+      <link>http://localhost:1313/2004/05/22/el-caragol.html</link>
       <pubDate>Sat, 22 May 2004 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2004/05/22/el-caragol.html</guid>
+      <guid>http://localhost:1313/2004/05/22/el-caragol.html</guid>
       <description>&lt;p&gt;L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i redó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.&lt;/p&gt;
 &lt;p&gt;Al cap d’una estona, però, vam observar com treia el cap, les banyes i la panxa. Es va tornar a arrossegar a poc a poc fins al test, es va enfilar amunt cap al verd i finalment es va col·locar si fa no fa en el mateix punt i en la mateixa posició d’abans.&lt;/p&gt;
 &lt;p&gt;Encara hi és.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:51874/uploads/2004/2004-05-22-caragol.jpg&#34; alt=&#34;Caragol i planta&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/2004/2004-05-22-caragol.jpg&#34; alt=&#34;Caragol i planta&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>BBEdit antològic</title>
-      <link>http://localhost:51874/2003/06/03/bbedit/</link>
+      <link>http://localhost:1313/2003/06/03/bbedit/</link>
       <pubDate>Tue, 03 Jun 2003 21:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2003/06/03/bbedit/</guid>
-      <description>&lt;img src=&#34;http://localhost:51874/uploads/2003/2003-06-03-bbedit-anthology.jpg&#34; alt=&#34;Foto del CD-ROM i la carta de Bare Bones&#34; /&gt;
+      <guid>http://localhost:1313/2003/06/03/bbedit/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/uploads/2003/2003-06-03-bbedit-anthology.jpg&#34; alt=&#34;Foto del CD-ROM i la carta de Bare Bones&#34; /&gt;
 &lt;p&gt;Fa quasi deu anys vaig programar un conjunt d’extensions per a &lt;a href=&#34;http://www.barebones.com/products/bbedit/&#34;&gt;BBEdit&lt;/a&gt; —el millor editor de textos per a Mac, llavors i ara— que facilitaven l’edició d’HTML. Més endavant, aquestes extensions, i un altre paquet alternatiu desenvolupat per Lindsay Davies, van ser incloses en la distribució oficial de BBEdit.&lt;/p&gt;
 &lt;p&gt;Ja ho he contat moltes vegades. Tot allò va comportar per a mi uns pocs minuts warholians de fama. El meu nom i el meu programari circulaven per Internet i s’imprimien en llibres i CD-ROMS. Eren els primers temps del Web i tot era nou i interessant. Aquesta setmana, la gent de Bare Bones Software m’han enviat el CD-ROM &lt;a href=&#34;https://web.archive.org/web/20030525212926/http://www.barebones.com/products/bbedit/anthology.shtml&#34;&gt;BBEdit Anthology&lt;/a&gt;, una edició limitada amb totes les versions de BBEdit des de la 2.5. També hi havia una nota d’agraïment signada per Rich Siegel i unes calcomanies.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2273,11 +2273,11 @@ empelts.&lt;/p&gt;
     
     <item>
       <title>Jo passava per allí </title>
-      <link>http://localhost:51874/2002/12/15/catalan-sf-authors/</link>
+      <link>http://localhost:1313/2002/12/15/catalan-sf-authors/</link>
       <pubDate>Sun, 15 Dec 2002 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2002/12/15/catalan-sf-authors/</guid>
-      <description>&lt;img width=&#34;600&#34; height=&#34;300&#34; src=&#34;http://localhost:51874/uploads/2002/2002-12-15-catalan-sf-authors_1.jpg&#34;&gt;
+      <guid>http://localhost:1313/2002/12/15/catalan-sf-authors/</guid>
+      <description>&lt;img width=&#34;600&#34; height=&#34;300&#34; src=&#34;http://localhost:1313/uploads/2002/2002-12-15-catalan-sf-authors_1.jpg&#34;&gt;
 &lt;p&gt;El dia 1 de novembre, just abans de presentar &lt;a href=&#34;https://carlesbellver.net/llibres/elllibredetopics&#34;&gt;&lt;em&gt;El llibre de tòpics&lt;/em&gt;&lt;/a&gt; a la &lt;a href=&#34;http://www.barnacon.com/&#34;&gt;Barnacon&lt;/a&gt;, em van convidar a posar per a una foto amb una sèrie de persones del món de la ciència-ficció catalana. Ara m’he assabentat que la instantània il·lustrarà un article de la revista americana &lt;a href=&#34;http://www.locusmag.com/&#34;&gt;Locus&lt;/a&gt; (“News, Reviews, Resources, and Perspectives of Science Fiction, Fantasy and Horror”).&lt;/p&gt;
 &lt;p&gt;Em sap greu i tot, perquè m’ho vaig passar estupendament, però em sentia una miqueta un intrús en una convenció d’aquell tipus. Probablement m’haurien d’esborrar de la imatge. En tot cas, deixe constància que d’esquerra a dreta som: Toni Segarra, Rosa Fabregat, Carles Bellver Torlà, Antoni Munnè-Jordà, Albert Garcia Pascual, Miquel Barceló, Sebastià Roig, Montse Cerdà, Jordi Solé Camardons i Isidor Bernabé.&lt;/p&gt;
 &lt;p&gt;Per cert, els contertulians de la llista de correu de la &lt;a href=&#34;https://www.sccff.cat&#34;&gt;Societat Catalana de Ciència-Ficció i Fantasia&lt;/a&gt; s’han divertit fent bromes sobre el fet que van quedar tots al costat fosc, menys l’Albert, que hi és a mitges, i jo, que encara sóc al costat lluminós.&lt;/p&gt;
@@ -2286,11 +2286,11 @@ empelts.&lt;/p&gt;
     
     <item>
       <title>Joan Francesc Mira, Sant Vicent i el miracle de Morella</title>
-      <link>http://localhost:51874/2002/09/29/joan-francesc-mira.html</link>
+      <link>http://localhost:1313/2002/09/29/joan-francesc-mira.html</link>
       <pubDate>Sun, 29 Sep 2002 22:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51874/2002/09/29/joan-francesc-mira.html</guid>
-      <description>&lt;img src=&#34;http://localhost:51874/uploads/2002/2002-09-29-enajenada.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
+      <guid>http://localhost:1313/2002/09/29/joan-francesc-mira.html</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/uploads/2002/2002-09-29-enajenada.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;
 &lt;p&gt;El Magazine de La Vanguardia de diumenge passat incloïa un article de Joan Francesc Mira titulat “San Vicente Ferrer en el tiempo de los milagros”. Mira hi esbossava breument el perfil del sant com a taumaturg (“autor de meravelles”) i de pas promocionava el seu propi llibre &lt;em&gt;Sant Vicent Ferrer. Vida i llegenda d’un predicador&lt;/em&gt;, premi Nacional de la Crítica.&lt;/p&gt;
 &lt;p&gt;L’enquesta de canonització de Sant Vicent, el 1455, va donar per bons un total de 873 miracles. No sé si un dels més xocants, el que va tenir lloc a Morella, figurava en aquella llista. Supose que sí. A mi, i a tota la classe de primer d’EGB, ens el va contar donya Paquita. Diu que una vegada van convidar a dinar el sant a una casa de la capital dels Ports. La mestressa, en veure que no tenia carn i ofuscada pel compromís, va decidir sacrificar el seu fill, un xiquet menut. El va matar, el va trossejar i el va guisar. Sant Vicent, però, es va ensumar la malifeta i va recompondre immediatament la criatura. Els artistes la representen dreta i nua damunt de la taula del menjador, entre plats i perols. Li mancava un dit, perquè sa mare l’havia mossegat per tastar-ne la tendror.&lt;/p&gt;
 &lt;p&gt;Mira opina, amb raó, que aquesta proesa és difícilment superable. La compara amb guariments i amb altres ressurreccions menys meritòries i conclou que “…no hay duda de que ganaría el premio de honor en cualquier competición universal de milagros.” Crec, tanmateix, que comet una exageració, víctima, potser, d’un excés patriòtic. Un professor tan sabut, d’erudició reconeguda, sens dubte no ignora que aquest miracle és còpia d’un altre anterior atribuït a Sant Nicolau de Bari, qui el va executar, a més a més, per triplicat: els seus beneficiaris van ser tres infants esquarterats per un carnisser. Amb la qual cosa, a dreta llei hauria d’endur-se ell el premi.&lt;/p&gt;
