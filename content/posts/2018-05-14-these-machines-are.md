@@ -6,7 +6,7 @@ slug = "these-machines-are"
 tags = ["citacions"]
 +++
 
-> Hem inventat computadores per estalviar-nos els problemes de computar. Aquestes màquines no són éssers pensants que pensen per nosaltres, sinó més aviat dispositius que produeixen els resultats dels càlculs sense que *ningú* literalment calculi o pensi […] No ens cal témer que les nostres màquines ens superin pensant —tot i que podríem ben bé témer que ens portin a deixar de pensar per nosaltres mateixos.
+> Hem inventat computadores per estalviar-nos els problemes de computar. Aquestes màquines no són éssers pensants que pensen per nosaltres, sinó més aviat dispositius que produeixen els resultats dels càlculs sense que *ningú* literalment calcule o pense […] No ens cal témer que les nostres màquines ens superen pensant —tot i que podríem ben bé témer que ens porten a deixar de pensar per nosaltres mateixos.
 
 —Peter Hacker sobre Wittgenstein, en Ray Monk and Frederic Raphael (eds.), *The Great Philosophers* (2000).
 
