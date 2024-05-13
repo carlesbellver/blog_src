@@ -121,3 +121,5 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 > Allò ben cert és que mai no trobarem un llibre escrit d’aquesta manera en Bromera, per exemple.
 
 —Josep A. Mas (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
+
+<hr>
