@@ -20,6 +20,8 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <hr>
 
+<a name="2015.1"></a>
+
 > La història és magnífica, magnífica i estranya, instal·la el lector en una inquietud divertida des del començament.
 
 —Maria Folch (2015) sobre [*Un cel nou i una terra nova*](/llibres/uncelnouiunaterranova/).
