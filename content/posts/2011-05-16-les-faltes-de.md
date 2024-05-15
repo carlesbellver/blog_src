@@ -5,7 +5,7 @@ date = "2011-05-16T22:00:00+00:00"
 slug = "les-faltes-de"
 +++
 
-Llegeixo en el blog de la Petite Claudine [“Los ocho crímenes de Giordano Bruno”](http://www.lapetiteclaudine.com/archives/014960.html) i em recordo d’aquesta llista de les faltes comeses per [Teilhard de Chardin](http://es.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin) que la Wikipedia en castellà atribueix al capellà argentí Leonardo Castellani:
+Llegisc en el blog de la Petite Claudine [“Los ocho crímenes de Giordano Bruno”](http://www.lapetiteclaudine.com/archives/014960.html) i em recorde d’aquesta llista de les faltes comeses per [Teilhard de Chardin](http://es.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin) que la Wikipedia en castellà atribueix al capellà argentí Leonardo Castellani:
 
 >  - El transformismo darwiniano dado como verdad cierta.
 >  - La negación de la Parusía o Segunda Venida de Cristo tal como la entiende la Iglesia.

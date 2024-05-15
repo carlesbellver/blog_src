@@ -8,4 +8,4 @@ x_source = ""
 +++
 
 
-> La investigadora i artista Joana Moll ens adverteix: «Ens han fet creure que internet és un núvol que hi ha al cel, quan en realitat són milers de cables i servidors que van per sota terra.» […] Segons el periodista Justin Delépine, un 45 % de la petjada energètica de l’entorn digital es pot explicar per la fabricació dels equips, i el 55 % restant, per l’ús que se’n fa.
+> La investigadora i artista Joana Moll ens adverteix: «Ens han fet creure que Internet és un núvol que hi ha al cel, quan en realitat són milers de cables i servidors que van per sota terra.» […] Segons el periodista Justin Delépine, un 45 % de la petjada energètica de l’entorn digital es pot explicar per la fabricació dels equips, i el 55 % restant, per l’ús que se’n fa.

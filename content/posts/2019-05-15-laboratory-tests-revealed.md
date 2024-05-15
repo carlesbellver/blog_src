@@ -8,8 +8,6 @@ title = "Hidden Cupid resurfaces in one of Vermeer’s best-known works after tw
 x_source = ""
 +++
 
-
-<img src="https://images.graph.cool/v1/cj6c28vh912680101ozc2paxj/cjvdjkm9f069c01823na7r4m4/0x0:2953x3776/960x960/vermeer_brieflesendes_maedchen_2019_05_07.jpg" class="img-responsive"> 
-
 > Proves de laboratori revelen que la figura es va tapar desenes d’anys després de la mort del pintor.
 
+<img src="https://cdn.sanity.io/images/cxgd3urn/production/dc03340fcfeacc64431f9ee37b27559f544d5c73-2953x3776.jpg?w=1920&h=2455&fit=crop&auto=format" class="img-responsive" alt="Fotografia de la pintura mostrant part de la imatge de Cupido restaurada. Autor: Photo: Wolfgang Kreische.">

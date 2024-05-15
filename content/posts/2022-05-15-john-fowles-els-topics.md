@@ -16,6 +16,6 @@ summary = "> —…no hi havia alguna cosa en Roland Barthes sobre els tòpics c
 >
 > —Com?
 > 
-> —Hi ha contextos de classe mitjana on s’espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S’imposa.
+> —Hi ha contextos de classe mitjana on s’espera que un sone original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S’imposa.
 
 —John Fowles, “The Cloud” (*The Ebony Tower*).
