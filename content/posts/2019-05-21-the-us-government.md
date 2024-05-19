@@ -8,4 +8,4 @@ title = "The real reason America is scared of Huawei: internet-connected everyth
 x_source = "MIT Technology Review"
 +++
 
-> El govern dels Estats Units pareix haver decidit que és simplement massa arriscat que una empresa xinesa controli massa infraestructura 5G.
+> El govern dels Estats Units pareix haver decidit que és simplement massa arriscat que una empresa xinesa controle massa infraestructura 5G.
