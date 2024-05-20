@@ -13,4 +13,4 @@ Al cap d’una estona, però, vam observar com treia el cap, les banyes i la pan
 
 Encara hi és.
 
-<img src="/uploads/2004/2004-05-22-caragol.jpg" alt="Caragol i planta" />
+<img src="/uploads/2004/2004-05-22-caragol.jpg" alt="Foto d’un caragol pujant per la tija d’una planta en un test." />
