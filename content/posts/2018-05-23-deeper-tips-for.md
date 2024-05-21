@@ -18,7 +18,7 @@ Stephen Downes comenta els [12 tips for great speaking](http://www.steve-wheeler
 5. Parlar pausadament i clarament.
 6. Repetir o no repetir els punts clau.
 7. Cenyir-se al temps previst. Assajar o no.
-8. Cenyir-se a sola una idea important, tres com a molt?
+8. Cenyir-se a una sola idea important, dos o tres com a molt?
 9. Deixar temps per a preguntar i dialogar al final.
 10. Si no saps la resposta, admet-ho.
 11. Incloure dades de contacte al final.

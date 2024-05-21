@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> Mai convidat a formar part de la Biennal, Banksy ha tornat a convidar-se ell mateix per mostrar -hi la seva obra.
+> Mai convidat a formar part de la Biennal, Banksy ha tornat a convidar-se ell mateix per mostrar-hi la seva obra.
