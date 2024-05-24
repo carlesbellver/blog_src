@@ -9,4 +9,4 @@ photos = ["/uploads/2020/f5a37ff48d.jpg"]
 
 En *El otoño del patriarca*, el dictador venia el mar als *gringos* per pal·liar l’endeutament. Avui, en passar pel Parc de Ribalta, m’he trobat la bassa dels peixos buida…
 
-<img src="/uploads/2020/f5a37ff48d.jpg" width="600" height="800" alt="" />
+<img src="/uploads/2020/f5a37ff48d.jpg" width="600" height="800" alt="Fotografia d’un estany buit envoltat d’arbres, amb operaris dins netejant-lo. Llum rogenca de capvespre." />
