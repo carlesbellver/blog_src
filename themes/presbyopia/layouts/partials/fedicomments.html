@@ -85,14 +85,41 @@
         return response.json();
       })
       .then(function(data) {
+        console.log("Comments: " + data['descendants'].length);
         if(data['descendants'] && Array.isArray(data['descendants']) && data['descendants'].length > 0) {
-            document.getElementById('comments-list').innerHTML = "";
-            render_toots(data['descendants'], id, 0)
+          document.getElementById('comments-list').innerHTML = "";
+          render_toots(data['descendants'], id, 0)
         } else {
           document.getElementById('comments-list').innerHTML = "";
         }
 
         commentsLoaded = true;
+      });
+    loadFavourites();
+    loadBoosts();
+  }
+
+  function loadFavourites() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/favourited_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Favourites: " + data.length);
+      });
+  }
+
+  function loadBoosts() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/reblogged_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Boosts: " + data.length);
       });
   }
 
