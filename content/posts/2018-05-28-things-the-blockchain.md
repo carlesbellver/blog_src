@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-Totes les coses que es resoldran mitjançant les tecnologies de cadena de blocs. Des de la pobresa fins a [Skynet](https://ca.wikipedia.org/wiki/Skynet_%28Terminator%29), passant per “que la gent no es prengui els medicaments”.
+Totes les coses que es resoldran mitjançant les tecnologies de cadena de blocs. Des de la pobresa fins a [Skynet](https://ca.wikipedia.org/wiki/Skynet_%28Terminator%29), passant per “que la gent no es prenga els medicaments”.

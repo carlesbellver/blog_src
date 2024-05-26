@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> «Durant molts anys ha sigut: “Quantes dades podem aconseguir que ens proporcioni la gent enganyant-los?” i “Ja esbrinarem més endavant com utilitzar-les!”… Algunes empreses amb què hem parlat ens diuen: “Feu broma? Si els expliquéssim com estàvem utilitzant les seves dades, no ens les donarien mai.”
+> «Durant molts anys ha sigut: “Quantes dades podem aconseguir que ens proporcione la gent enganyant-los?” i “Ja esbrinarem més endavant com utilitzar-les!”… Algunes empreses amb què hem parlat ens diuen: “Feu broma? Si els explicàrem com estàvem utilitzant les seues dades, no ens les donarien mai.”
