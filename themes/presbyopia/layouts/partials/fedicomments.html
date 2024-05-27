@@ -12,7 +12,7 @@
 
 <div id="comments-list"></div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.5/purify.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="{{ "js/purify.min.js" | absURL }}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
   var host = '{{ .Site.Params.MastodonHost }}';
   var user = '{{ .Site.Params.MastodonUser }}';
@@ -30,6 +30,8 @@
       .replace(/'/g, "&#039;");
   }
 
+  var favouritesLoaded = false;
+  var boostsLoaded = false;
   var commentsLoaded = false;
 
   function toot_active(toot, what) {
@@ -80,10 +82,44 @@
     render_toots(toots, toot.id, depth + 1)
   }
 
-  function loadComments() {
-    if (commentsLoaded) return;
+  function loadReactions() {
+    if (!favouritesLoaded || !boostsLoaded || !commentsLoaded) {
+      document.getElementById("comments-list").innerHTML = "S'estan carregant les reaccions…";
+      if (!favouritesLoaded) loadFavourites();
+      if (!boostsLoaded) loadBoosts();
+      if (!commentsLoaded) loadComments();
+    }
+  }
 
-    document.getElementById("comments-list").innerHTML = "S'estan carregant els comentaris…";
+  function loadFavourites() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/favourited_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Favourites: " + data.length);
+        document.getElementById('favourites_count').innerHTML = data.length;
+        favouritesLoaded = true;
+      });
+  }
+
+  function loadBoosts() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/reblogged_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Boosts: " + data.length);
+        document.getElementById('boosts_count').innerHTML = data.length;
+        boostsLoaded = true;
+      });
+  }
+
+  function loadComments() {
     apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/context';
     console.log(apiUrl);
     fetch(apiUrl)
@@ -102,34 +138,6 @@
           }
         }
         commentsLoaded = true;
-      });
-    loadFavourites();
-    loadBoosts();
-  }
-
-  function loadFavourites() {
-    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/favourited_by';
-    console.log(apiUrl);
-    fetch(apiUrl)
-      .then(function(response) {
-        return response.json();
-      })
-      .then(function(data) {
-        console.log("Favourites: " + data.length);
-        document.getElementById('favourites_count').innerHTML = data.length;
-      });
-  }
-
-  function loadBoosts() {
-    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/reblogged_by';
-    console.log(apiUrl);
-    fetch(apiUrl)
-      .then(function(response) {
-        return response.json();
-      })
-      .then(function(data) {
-        console.log("Boosts: " + data.length);
-        document.getElementById('boosts_count').innerHTML = data.length;
       });
   }
 
@@ -150,7 +158,7 @@
   }
 
   var comments = document.getElementById("comments-list");
-  respondToVisibility(comments, loadComments);
+  respondToVisibility(comments, loadReactions);
 </script>
 
 </div>
