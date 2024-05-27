@@ -4,13 +4,15 @@
 
 <p>Podeu utilitzar Mastodon (o qualsevol altra aplicació compatible amb el Fedivers) per a respondre a <a href="{{ index (.Params.syndication) 0 | safeURL }}">aquest missatge</a>.</p>
 
+<!-- https://danielpecos.com/2022/12/25/mastodon-as-comment-system-for-your-static-blog/ -->
+
 <div id="comments-count">
   <img class="icon" src="{{ site.BaseURL }}/svg.icons/star.svg" alt="star"> <a href="{{ index (.Params.syndication) 0 | safeURL }}"><span id="favourites_count"></span></a>
   <img class="icon" src="{{ site.BaseURL }}/svg.icons/repeat.svg" alt="repeat"> <a href="{{ index (.Params.syndication) 0 | safeURL }}"><span id="boosts_count"></span></a>
   <img class="icon" src="{{ site.BaseURL }}/svg.icons/message-square.svg" alt="message"> <a href="{{ index (.Params.syndication) 0 | safeURL }}"><span id="comments_count"></span></a>
 </div>
 
-<div id="comments-list"></div>
+<div id="comments-list">S’estan carregant les reaccions…</div>
 
 <script src="{{ "js/purify.min.js" | absURL }}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
@@ -33,25 +35,6 @@
   var favouritesLoaded = false;
   var boostsLoaded = false;
   var commentsLoaded = false;
-
-  function toot_active(toot, what) {
-    var count = toot[what+'_count'];
-    return count > 0 ? 'active' : '';
-  }
-
-  function toot_count(toot, what) {
-    var count = toot[what+'_count'];
-    return count > 0 ? count : '';
-  }
-
-  function user_account(account) {
-    var result =`@${account.acct}`;
-    if (account.acct.indexOf('@') === -1) {
-      var domain = new URL(account.url)
-      result += `@${domain.hostname}`
-    }
-    return result;
-  }
 
   function render_toots(toots, in_reply_to, depth) {
     var tootsToRender = toots.filter(toot => toot.in_reply_to_id === in_reply_to);
@@ -78,17 +61,13 @@
         <div class="content">${toot.content}</div>
       </div>`;
     document.getElementById('comments-list').appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
-
     render_toots(toots, toot.id, depth + 1)
   }
 
   function loadReactions() {
-    if (!favouritesLoaded || !boostsLoaded || !commentsLoaded) {
-      document.getElementById("comments-list").innerHTML = "S'estan carregant les reaccions…";
-      if (!favouritesLoaded) loadFavourites();
-      if (!boostsLoaded) loadBoosts();
-      if (!commentsLoaded) loadComments();
-    }
+		if (!favouritesLoaded) loadFavourites();
+		if (!boostsLoaded) loadBoosts();
+		if (!commentsLoaded) loadComments();
   }
 
   function loadFavourites() {
@@ -130,11 +109,9 @@
         if(data['descendants'] && Array.isArray(data['descendants'])) {
           console.log("Comments: " + data['descendants'].length);
           document.getElementById('comments_count').innerHTML = data['descendants'].length;
+          document.getElementById('comments-list').innerHTML = "";
           if( data['descendants'].length > 0) {
-            document.getElementById('comments-list').innerHTML = "";
             render_toots(data['descendants'], id, 0)
-          } else {
-            document.getElementById('comments-list').innerHTML = "";
           }
         }
         commentsLoaded = true;
