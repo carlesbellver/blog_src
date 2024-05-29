@@ -7,7 +7,7 @@
   --font-details: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   --font-bq: Georgia, Cambria, Times, "Times New Roman", serif;
   --font-monospace: "Ubuntu Mono", Monaco, Menlo, monospace;
-  --mastodon-comment-indent: 2em;
+  --mastodon-comment-indent: 1.5em;
 }
 
 html {
@@ -917,7 +917,7 @@ div#chumby img.chumby-display {
   width: 240px;
   height: 150px;
   border-radius: 5px;
-  filter: blur(0.25px) grayscale(50%);
+  filter: blur(0.1px) grayscale(50%);
 }
 
 /* comments */
