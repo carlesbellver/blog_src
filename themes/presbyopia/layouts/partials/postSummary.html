@@ -5,12 +5,13 @@
         {{- if .Params.synurl -}}<a class="u-syndication" href="{{ .Params.synurl }}"></a>{{- end -}}
       </div>
       <div class="post-list-item-title">
-        {{- if .Params.X_url }} <img class="inline" src="{{ site.BaseURL }}svg.icons/link.svg" />
-        {{- else if .Params.Photos }} <img class="inline" src="{{ site.BaseURL }}svg.icons/eye.svg" /> {{ end -}}
+        {{- if .Params.X_url }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/link.svg" /></a>
+        {{- else if .Params.Photos }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/eye.svg" /></a>
+        {{- end -}}
         {{ if .Title }}
           <a href="{{ .Permalink }}" class="u-url" title="Enllaç permanent"><span class="p-name">{{ .Title }}</span> </a>
         {{ else }}
-          <span class="p-summary">{{ .Summary | plainify | truncate 250 }}</span> <a href="{{ .Permalink }}">[+]</a>
+          <span class="p-summary">{{ .Summary | plainify | truncate site.Params.summaryLength }}</span> <a href="{{ .Permalink }}">[+]</a>
         {{ end }}
       </div>
     </div>
