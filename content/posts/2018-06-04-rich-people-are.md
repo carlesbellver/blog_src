@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Els exemplars fòssils que es venen a mans privades es perden per la ciència.
+> Els exemplars fòssils que es venen a mans privades es perden per a la ciència.
 

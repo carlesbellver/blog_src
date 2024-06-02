@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> I si tot el que ens envolta és intel·ligent a la seva manera i nosaltres no som prou intel·ligents per a veure-ho?
+> I si tot el que ens envolta és intel·ligent a la seua manera i nosaltres no en som prou, d’intel·ligents, per a veure-ho?
