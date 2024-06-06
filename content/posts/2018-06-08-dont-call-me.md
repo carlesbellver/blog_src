@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> Cal trobar maneres perquè fins i tot les grans organitzacions se sentin petites.
+> Cal trobar maneres per fer que fins i tot les grans organitzacions se senten petites.
