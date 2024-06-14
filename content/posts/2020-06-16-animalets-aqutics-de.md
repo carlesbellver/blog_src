@@ -8,4 +8,4 @@ photos = ["/uploads/2020/ee8739331a.jpg"]
 
 Animalets aquàtics de l’#UJI. Jardí dels Sentits.
 
-<img src="/uploads/2020/ee8739331a.jpg" width="600" height="449" alt="" />
+<img src="/uploads/2020/ee8739331a.jpg" width="600" height="449" alt="Foto de carpins daurats sota la superfície de l’aigua d’un estany." />
