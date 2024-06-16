@@ -9,6 +9,6 @@ x_source = ""
 +++
 
 
-Reportatge sobre els creients de la terra plana i les seves creences paranoiques. Pel que fa a la NASA:
+Reportatge sobre els creients en la terra plana i les seues idees paranoiques. Pel que fa a la NASA…
 
 > Els astronautes són francmaçons que han jurat secret. Els altres treballadors, els enginyers i els funcionaris, o han estat enganyats o no en volen parlar, per por a perdre la feina. [I en la cúspide són tots satanistes i luciferians.]
