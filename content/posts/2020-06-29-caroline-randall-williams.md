@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> Sóc una dona negra, del Sud, i els meus avanpassats blancs immediats eren tots violadors. La meva mateixa existència és un vestigi de l’esclavitud i de Jim Crow.
+> Sóc una dona negra, del Sud, i els meus avanpassats blancs immediats eren tots violadors. La meua mateixa existència és un vestigi de l’esclavitud i de Jim Crow.
