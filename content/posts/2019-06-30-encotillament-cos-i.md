@@ -8,4 +8,4 @@ photos = ["/uploads/2019/c8162808cb.jpg"]
 
 Encotillament: cos i ànima. Discos de control i fils de colors.
 
-<img src="/uploads/2019/c8162808cb.jpg" width="449" height="600" alt="" />
+<img src="/uploads/2019/c8162808cb.jpg" width="449" height="600" alt="Foto d’un maniquí en una acadèmia de costura.">
