@@ -8,4 +8,4 @@ title = "How a Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic"
 x_source = ""
 +++
 
-Abans que als EUA miressin les cabres de fit a fit.
+Abans que als EUA miraren les cabres de fit a fit.

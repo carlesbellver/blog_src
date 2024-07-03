@@ -11,5 +11,5 @@ x_source = ""
 
 Els tuits haurien de ser efímers.
 
-> Restringint la meva línia de temps només als darrers dies, sento que estic fent servir Twitter com si se suposava que s’havia d’utilitzar: una manera d’unir-se a la conversa i veure què passa al món ara mateix.
+> Restringint la meua línia de temps només als darrers dies, sent que estic fent servir Twitter com se suposava que s’havia d’utilitzar: una manera d’unir-se a la conversa i veure què passa al món ara mateix.
 
