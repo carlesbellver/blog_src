@@ -7,4 +7,4 @@ slug = "silence-delirium-lies"
 
 Això podria ser un petit projecte per a les vacances d’agost.
 
-<img alt="" src="/uploads/2021/2021-07-11-silence-delirium-lies.jpg">
+<img alt="Silence, delirium, lies?" src="/uploads/2021/2021-07-11-silence-delirium-lies.jpg">
