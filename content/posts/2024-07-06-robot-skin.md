@@ -1,4 +1,4 @@
-og+++
++++
 title = "Researchers craft smiling robot face from living human skin cells"
 date = "2024-07-06T20:24:33+02:00"
 tags = ["retalls"]
