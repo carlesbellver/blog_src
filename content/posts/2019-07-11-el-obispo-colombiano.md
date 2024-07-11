@@ -11,4 +11,4 @@ x_source = ""
 
 Rubén Darío Jaramillo Montoya, bisbe de Buenaventura, arruixarà la ciutat amb aigua beneïda per alliberar-la del dimoni (i de crims, tràfic de drogues i pobresa).
 
-Com va deixar anotat Wittgenstein, la màgia expressa un desig i proporciona una certa satisfacció emocional. No implica *creure que funcionarà* en un sentit més factual.
+Com va deixar anotat Wittgenstein, la màgia expressa un desig i proporciona una certa satisfacció emocional. No implica *creure que funcionarà* en cap sentit més factual.
