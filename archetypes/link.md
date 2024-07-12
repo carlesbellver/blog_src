@@ -5,6 +5,6 @@ tags = ["retalls"]
 slug = ""
 x_url = ""
 x_source = ""
-syndication = []
+tootid = ""
 +++
 
