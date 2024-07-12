@@ -5,7 +5,7 @@ slug = "impugnacio"
 x_url = "https://carlesbellver.net/contes/impugnacio"
 title = "Impugnació de Kavafis"
 x_source = ""
-syndication = ["https://mastodon.social/@carlesbellver/110447253421013263"]
+tootid = "110447253421013263"
 +++
 
 > El viatge mai s’acaba, ho hem de saber,  

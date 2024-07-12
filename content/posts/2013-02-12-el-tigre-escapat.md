@@ -1,6 +1,6 @@
 +++
 url = "/2013/02/12/el-tigre-escapat.html"
-title = "El tigre escapat a Castelló era napolità"
+title = "El fals tigre de Castelló era napolità"
 date = "2013-02-12T23:00:00+00:00"
 slug = "el-tigre-escapat"
 tags = ["Castelló"]

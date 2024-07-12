@@ -1004,6 +1004,21 @@ h2.comments-heading {
 .mastodon-comment .status .favourites.active a {
 }
 
+.mastodon-comment .attachments {
+  margin: 0px 0px 0px 10px;
+}
+.mastodon-comment .attachments > * {
+  margin: 0px 10px 0 0;
+}
+.mastodon-comment .attachments img {
+  max-width: 150px;
+}
+.mastodon-comment .attachments video {
+  max-width: 150px;
+}
+.mastodon-comment .attachments audio {
+  max-width: 150px;
+}
 
 /* Other pages */
 .terms {

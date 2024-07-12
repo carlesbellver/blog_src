@@ -5,7 +5,7 @@ tags = ["retalls"]
 slug = "life-is-dormant"
 x_url = "https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/"
 x_source = ""
-syndication = ["https://mastodon.social/@carlesbellver/112664891127683935"]
+tootid = "112664891127683935"
 photos = ["/uploads/2024/2024-06-23-calderon.jpg"]
 +++
 

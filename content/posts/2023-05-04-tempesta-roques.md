@@ -5,7 +5,7 @@ slug = "tempesta-roques"
 x_url = "https://www.elpontdeleslletres.cat/2023/04/24/tempesta/"
 title = "Presentació de LA TEMPESTA CONTRA LES ROQUES. POESIA I MEMÒRIA D’ALBERT GARCIA PASCUAL"
 x_source = ""
-syndication = ["https://mastodon.social/@carlesbellver/110312238767419565"]
+tootid = "110312238767419565"
 +++
 
 {{< ical "/uploads/2023/2023-05-07-invite.ics" >}}

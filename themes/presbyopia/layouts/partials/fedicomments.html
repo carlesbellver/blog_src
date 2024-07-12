@@ -1,4 +1,4 @@
-{{- if .Params.syndication -}}
+{{- if .Params.tootid -}}
 <div class="comments">
 <h2 class="comments-heading">Comentaris?</h2>
 
@@ -18,9 +18,10 @@
 <script type="text/javascript">
   var host = '{{ .Site.Params.MastodonHost }}';
   var user = '{{ .Site.Params.MastodonUser }}';
-  var postUrl = '{{ index (.Params.syndication) 0 | safeURL }}'
+  var id = '{{ .Params.tootid }}';
+  var postUrl = 'https://'+host+'/@'+user+'/'+id;
   console.log(postUrl)
-  var id = postUrl.match(/(\d+)$/)[1];
+  //var id = postUrl.match(/(\d+)$/)[1];
   console.log(id);
 
   function escapeHtml(unsafe) {
@@ -59,6 +60,21 @@
           
         </div>
         <div class="content">${toot.content}</div>
+        <div class="attachments">
+          ${toot.media_attachments.map(attachment => {
+            if (attachment.type === 'image') {
+              return `<a href="${toot.url}" rel="nofollow"><img src="${attachment.preview_url}" alt="${attachment.description}" /></a>`;
+            } else if (attachment.type === 'video') {
+              return `<video controls><source src="${attachment.url}" type="${attachment.mime_type}"></video>`;
+            } else if (attachment.type === 'gifv') {
+              return `<video autoplay loop muted playsinline><source src="${attachment.url}" type="${attachment.mime_type}"></video>`;
+            } else if (attachment.type === 'audio') {
+              return `<audio controls><source src="${attachment.url}" type="${attachment.mime_type}"></audio>`;
+            } else {
+              return `<a href="${toot.url}" rel="nofollow">${attachment.type}</a>`;
+            }
+          }).join('')}
+        </div>
       </div>`;
     document.getElementById('comments-list').appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
     render_toots(toots, toot.id, depth + 1)

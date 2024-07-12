@@ -5,7 +5,7 @@ tags = ["retalls"]
 slug = "cookie-banner-law"
 x_url = "https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law"
 x_source = ""
-syndication = ["https://mastodon.social/@carlesbellver/112196508028860522"]
+tootid = "112196508028860522"
 +++
 
 El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.
