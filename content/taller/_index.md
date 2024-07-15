@@ -14,7 +14,7 @@ Experiments i divagacions entre la tecnologia i la literatura.
   - [*Unicorns*](/contes/unicorns) (improvisacions en 1.024 caràcters) (2018)
   - [Escriure —breument— en temps d'Internet](slides/escriure-internet) (2017)
   - [*After Word(s)*](http://www.slideshare.net/carlesbellver/afterword) (més enllà del processador de textos) (2013)
-  - *Smart tools for smart writers* (2012)
+  - *Smart tools for smart writers* [\[ca\]](/taller/stfsw-summary/ca/)[\[es\]](/taller/stfsw-summary/es/)[\[en\]](/taller/stfsw-summary/en/) (2012)
   - [100% Charles Beauvoir](100x100ChB) (2012)
   - [24 hores Ch. B.](24horesChB) (2009)
   - [Petit Wilbur](/2010/12/14/la-veu-de.html)
