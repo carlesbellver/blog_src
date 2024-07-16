@@ -6,7 +6,6 @@ note = "Inclòs en <a href=\"https://www.elpontdeleslletres.cat/2023/05/09/la-te
 date = "2023-05-28T17:40:00+02:00"
 tags = []
 slug = "impugnacio"
-syndication = []
 image = "/tmp/media/itaca-caront-albert_compressed.jpg"
 +++
 

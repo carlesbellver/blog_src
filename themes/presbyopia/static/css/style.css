@@ -1005,7 +1005,7 @@ h2.comments-heading {
 }
 
 .mastodon-comment .attachments {
-  margin: 0px 0px 0px 10px;
+  margin: 0px 0px 0px 0px;
 }
 .mastodon-comment .attachments > * {
   margin: 0px 10px 0 0;

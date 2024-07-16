@@ -5,7 +5,6 @@ slug = "llegir-o-escriure"
 x_url = "https://www.lrp.cat/lrp-arts/article/2007700-la-mainada-llegeix-menys-en-catala.html?ItemId=4332"
 title = "“La mainada llegeix menys en català”"
 x_source = ""
-syndication = []
 +++
 
 > Fa poc ha sortit una dada que diu que el 54% dels espanyols ha començat a escriure un llibre. I l’índex de lectura diu que un 44% dels espanyols no ha llegit mai cap llibre. Amb aquestes proporcions n’hi deu haver molts que s’han posat a escriure un llibre sense haver-ne llegit mai cap.

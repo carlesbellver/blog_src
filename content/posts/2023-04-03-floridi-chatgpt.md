@@ -5,7 +5,6 @@ slug = "floridi-chatgpt"
 x_url = "https://thephilosophyofinformation.blogspot.com/2023/04/between-rock-and-hard-place-sci-fi.html"
 title = "Luciano Floridi: “Bloquejar ChatGPT és una mesura draconiana. Aprenguem a utilitzar-lo i legislem”"
 x_source = ""
-syndication = []
 +++
 
 Sobre la famosa [carta oberta](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) dels autodeclarats experts en Intel·ligència Artificial:

@@ -2,7 +2,6 @@
     <div class="h-entry">
       <div class="post-list-item-date">
         <a href="{{ .Permalink }}" class="dt-published" title="Enllaç permanent"><span class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05-0700" }}">{{ .Date.Format "2006-01-02" }}</span></a>
-        {{- if .Params.synurl -}}<a class="u-syndication" href="{{ .Params.synurl }}"></a>{{- end -}}
       </div>
       <div class="post-list-item-title">
         {{- if .Params.X_url }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/link.svg" /></a>

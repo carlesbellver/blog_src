@@ -3,7 +3,6 @@ title = "Exquisidesa i peculiaritat"
 date = "2020-09-13T23:13:00"
 tags = []
 slug = "exquisidesa-i-peculiaritat"
-syndication = []
 +++
 
 > Si has de competir amb cultures més grans i amb més poder de difusió, has de fer com aquelles botigues menudes que, malgrat la pressió dels grans supermercats, tenen èxit. Per què? Perquè oferixen el que als altres els manca: exquisidesa i peculiaritat”.

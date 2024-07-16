@@ -2,7 +2,6 @@
 title = "La novel·la de Wittgenstein"
 date = "2023-07-12T00:05:25+02:00"
 tags = ["contes"]
-syndication = []
 image = "/uploads/2023/2023-07-13-roman.jpg"
 description = "Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein."
 +++

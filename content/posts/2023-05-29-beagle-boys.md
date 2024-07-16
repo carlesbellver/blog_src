@@ -2,7 +2,6 @@
 date = "2023-05-29T22:35:52+02:00"
 tags = []
 slug = "beagle-boys"
-syndication = []
 image = "/uploads/2023/2023-05-29-beagle-boys.jpg"
 +++
 

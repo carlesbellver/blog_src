@@ -4,7 +4,6 @@ date = "2010-02-15T22:35:00"
 tags = ["fotos"]
 photos = ["/uploads/2010/2010-02-15-4358336295_4ec9c58fa3_o.jpg"]
 slug = "moment-cortazar"
-syndication = []
 +++
 
 <img src="/uploads/2010/2010-02-15-4358336295_4ec9c58fa3_o.jpg" alt="Foto del llibre de Julio Cortázar “Papeles inesperados” amb un Chumby damunt.">

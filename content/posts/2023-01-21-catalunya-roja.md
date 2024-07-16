@@ -2,7 +2,6 @@
 date = "2023-01-21T13:40:51+01:00"
 tags = ["retalls"]
 slug = "catalunya-roja"
-syndication = []
 x_url = "https://www.lavanguardia.com/opinion/20230121/8698199/catalunya-roja.html"
 title = "Catalunya Roja"
 x_source = ""
