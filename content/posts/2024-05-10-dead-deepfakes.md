@@ -5,7 +5,7 @@ tags = ["retalls"]
 slug = "dead-deepfakes"
 x_url = "https://www.technologyreview.com/2024/05/07/1092116/deepfakes-dead-chinese-business-grief/"
 x_source = ""
-tootid = "112416623852148843"
+fedurl = "https://mastodon.social/@carlesbellver/112416623852148843"
 +++
 
 El dol —i el culte als ancestres— en l’era de la IA. A la Xina, mitja dotzena d’empreses ofereixen el servei a milers de clients.

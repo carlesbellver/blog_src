@@ -5,7 +5,7 @@ slug = "work-while-sleeping"
 x_url = "https://fortune.com/2023/11/30/lucid-dream-startup-prophetic-headset-prepare-meetings-while-sleeping/"
 title = "Lucid dream startup says you can work in your sleep"
 x_source = ""
-tootid = "111595846612337026"
+fedurl = "https://mastodon.social/@carlesbellver/111595846612337026"
 +++
 
 Malsons del capitalisme avançat. Una *startup* pretén comercialitzar un aparell que indueix somnis lúcids —mitjançant ultrasons— per poder treballar mentre dorms.

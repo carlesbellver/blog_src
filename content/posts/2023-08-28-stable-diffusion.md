@@ -5,7 +5,7 @@ slug = "stable-diffusion"
 x_url = "https://sambleckley.com/writing/dont-fire-your-illustrator.html"
 title = "Don’t Fire Your Illustrator"
 x_source = ""
-tootid = "110968094766157624"
+fedurl = "https://mastodon.social/@carlesbellver/110968094766157624"
 +++
 
 Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.

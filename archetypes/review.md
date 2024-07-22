@@ -6,6 +6,6 @@ slug = ""
 x_url = ""
 x_title = ""
 x_source = ""
-tootid = ""
+fedurl = ""
 +++
 

@@ -1,4 +1,4 @@
-{{- if .Params.tootid -}}<ul class="syndication" style="display:none"><li><a class="u-syndication" href="{{ printf "https://%s/@%s/%s" $.Site.Params.MastodonHost $.Site.Params.MastodonUser $.Params.tootid | safeURL }}"></a></li></ul>{{- end -}}
+{{- if .Params.fedurl -}}<ul class="syndication" style="display:none"><li><a class="u-syndication" href="{{ .Params.fedurl | safeURL }}"></a></li></ul>{{- end -}}
 
 <script src="/scripts/webmention.min.js" data-wordcount="30" async ></script>
 <div id="webmentions"></div>

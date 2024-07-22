@@ -3,7 +3,7 @@ title = "The Three-Body Problem"
 date = "2024-05-21T19:38:37+02:00"
 tags = ["ressenyes"]
 slug = "problema-tres-cossos"
-tootid = "112480308968908561"
+fedurl = "https://mastodon.social/@carlesbellver/112480308968908561"
 x_source = ""
 +++
 

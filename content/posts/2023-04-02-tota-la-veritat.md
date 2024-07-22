@@ -3,7 +3,7 @@ title = "Tota la veritat sobre l’informe de la CIA"
 date = "2023-04-02T10:35:25+02:00"
 tags = []
 slug = "tota-la-veritat"
-tootid = "110128410743507298"
+fedurl = "https://mastodon.social/@carlesbellver/110128410743507298"
 image = "/uploads/2023/2023-04-02-script.jpg"
 +++
 

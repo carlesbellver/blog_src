@@ -5,7 +5,7 @@ tags = ["retalls"]
 slug = "robot-skin"
 x_url = "https://arstechnica.com/science/2024/06/researchers-craft-smiling-robot-face-from-living-human-skin-cells/"
 x_source = ""
-tootid = "112740939627293307"
+fedurl = "https://mastodon.social/@carlesbellver/112740939627293307"
 +++
 
 Robots amb pell humana cultivada al laboratori.
