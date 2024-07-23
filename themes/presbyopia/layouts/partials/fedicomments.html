@@ -16,11 +16,11 @@
 
 <script src="{{ "js/purify.min.js" | absURL }}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
-  //var host = '{{ .Site.Params.MastodonHost }}';
-  //var user = '{{ .Site.Params.MastodonUser }}';
+  var host = '{{ .Site.Params.MastodonHost }}';
+  var user = '{{ .Site.Params.MastodonUser }}';
   //var id = '{{ .Params.tootid }}';
   //var postUrl = 'https://'+host+'/@'+user+'/'+id;
-  postUrl = '{{ .Params.fedurl }}'
+  var postUrl = '{{ .Params.fedurl }}'
   console.log(postUrl)
   var id = postUrl.match(/(\d+)$/)[1];
   console.log(id);
