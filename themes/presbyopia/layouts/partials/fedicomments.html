@@ -7,14 +7,14 @@
 <!-- https://danielpecos.com/2022/12/25/mastodon-as-comment-system-for-your-static-blog/ -->
 
 <div id="comments-count">
-  <img class="icon" src="{{ site.BaseURL }}/svg.icons/star.svg" alt="star"> <a href="{{ printf "https://%s/@%s/%s" $.Site.Params.MastodonHost $.Site.Params.MastodonUser $.Params.fedurl | safeURL }}"><span id="favourites_count"></span></a>
-  <img class="icon" src="{{ site.BaseURL }}/svg.icons/repeat.svg" alt="repeat"> <a href="{{ printf "https://%s/@%s/%s" $.Site.Params.MastodonHost $.Site.Params.MastodonUser $.Params.fedurl | safeURL }}"><span id="boosts_count"></span></a>
-  <img class="icon" src="{{ site.BaseURL }}/svg.icons/message-square.svg" alt="message"> <a href="{{ printf "https://%s/@%s/%s" $.Site.Params.MastodonHost $.Site.Params.MastodonUser $.Params.fedurl | safeURL }}"><span id="comments_count"></span></a>
+  <img class="icon" src="{{ site.BaseURL }}/svg.icons/star.svg" alt="star"> <a href="{{ .Params.fedurl | safeURL }}"><span id="favourites_count"></span></a>
+  <img class="icon" src="{{ site.BaseURL }}/svg.icons/repeat.svg" alt="repeat"> <a href="{{ printf .Params.fedurl | safeURL }}"><span id="boosts_count"></span></a>
+  <img class="icon" src="{{ site.BaseURL }}/svg.icons/message-square.svg" alt="message"> <a href="{{ .Params.fedurl | safeURL }}"><span id="comments_count"></span></a>
 </div>
 
 <div id="comments-list">S’estan carregant les reaccions…</div>
 
-<script src="{{ "js/purify.min.js" | absURL }}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="{{ "/js/purify.min.js" | absURL }}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
   //var host = '{{ .Site.Params.MastodonHost }}';
   //var user = '{{ .Site.Params.MastodonUser }}';
