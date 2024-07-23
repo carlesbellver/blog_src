@@ -16,13 +16,19 @@
 
 <script src="{{ "js/purify.min.js" | absURL }}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
-  var host = '{{ .Site.Params.MastodonHost }}';
-  var user = '{{ .Site.Params.MastodonUser }}';
+  //var host = '{{ .Site.Params.MastodonHost }}';
+  //var user = '{{ .Site.Params.MastodonUser }}';
   //var id = '{{ .Params.tootid }}';
   //var postUrl = 'https://'+host+'/@'+user+'/'+id;
   var postUrl = '{{ .Params.fedurl }}'
   console.log(postUrl)
-  var id = postUrl.match(/(\d+)$/)[1];
+  var match = postUrl.match(/^https:\/\/([\w\-\.]+)\/\@(\w+)\/(\d+)/);
+  var host = match[1];
+  var user = match[2];
+  var id = match[3];
+  //var id = postUrl.match(/(\d+)$/)[1];
+  console.log(host);
+  console.log(user);
   console.log(id);
 
   function escapeHtml(unsafe) {
