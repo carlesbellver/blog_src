@@ -50,6 +50,10 @@ summary {
   font-size: 0.8em;
 }
 
+.small a, a.small {
+  text-decoration: none;
+}
+
 .tiny {
   font-family: var(--font-details);
   /* font-size: 13px; */
@@ -152,10 +156,18 @@ blockquote h2, blockquote h3 {
 
 a {
   color: var(--link-color);
+  text-decoration: underline;
+}
+
+/* .content a, .comments a {
+  text-decoration: none;
+} */
+
+a.more {
   text-decoration: none;
 }
 
-.content a, .comments a {
+#comments-count a, #comments-list a {
   text-decoration: none;
 }
 
@@ -164,6 +176,10 @@ a:focus,
 a:active {
   color: var(--link-state-color);
   text-decoration: underline;
+}
+
+a:visited {
+  color: var(--link-state-color);
 }
 
 #onthisday a {
@@ -385,6 +401,13 @@ header nav a {
   margin-left: 10px;
   text-transform: uppercase;
   letter-spacing: 0.01em;
+  color: var(--menu-color);
+  text-decoration: none;
+}
+
+header nav a:visited {
+  color: var(--menu-color);
+  text-decoration: none;
 }
 
 header nav a:first-of-type {
@@ -634,6 +657,7 @@ main article .content:after {
 .post-navigation a {
   color: var(--post-info-color);
   margin-right: 10px;
+  text-decoration: none;
 }
 
 .readingtime {
@@ -1048,6 +1072,7 @@ h2.comments-heading {
   color: var(--pagination-link-color);
   text-transform: uppercase;
   letter-spacing: 0.01em;
+  text-decoration: none;
 }
 
 .pagination-item a:hover, 
@@ -1102,6 +1127,7 @@ ul.language-select > li, ul.footer-menu > li {
 
 footer .copyright a {
   color: var(--foot-color);
+  text-decoration: none;
 }
 
 footer .copyright a:hover,

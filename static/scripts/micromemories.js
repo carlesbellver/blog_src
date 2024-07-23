@@ -36,7 +36,7 @@ function renderPost(post) {
     /* if (post.tags.includes("fotos")) {
       s += " &#x1F5BC;";
     } */
-    ElHTML += ' <span class="p-summary">'+s+'</span> <a href="'+post.url+'">[+]</a>';
+    ElHTML += ' <span class="p-summary">'+s+'</span> <a href="'+post.url+'" class="more">[+]</a>';
   }
   ElHTML += '</div>'
   ElHTML += '</div>'

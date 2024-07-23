@@ -10,7 +10,7 @@
         {{ if .Title }}
           <a href="{{ .Permalink }}" class="u-url" title="Enllaç permanent"><span class="p-name">{{ .Title }}</span> </a>
         {{ else }}
-          <span class="p-summary">{{ .Summary | plainify | truncate site.Params.summaryLength }}</span> <a href="{{ .Permalink }}">[+]</a>
+          <span class="p-summary">{{ .Summary | plainify | truncate site.Params.summaryLength }}</span> <a href="{{ .Permalink }}" class="more">[+]</a>
         {{ end }}
       </div>
     </div>

@@ -178,7 +178,7 @@ function buildResultEl(r) {
   }
   else { /* untitled */
     $item_title.innerHTML += ' <span class="p-summary">'+s+'</span>';
-    $item_title.innerHTML += ' <a href="'+r["url"]+'">[+]</a>';
+    $item_title.innerHTML += ' <a href="'+r["url"]+'" class="more">[+]</a>';
   }
   if ($item_title != null) {
     $h_entry.appendChild($item_title); 
