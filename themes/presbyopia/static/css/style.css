@@ -692,6 +692,7 @@ main article .content:after {
 
 .post-directions a {
   color: var(--post-info-color);
+  text-decoration: none;
 }
 
 article header h1 a {
