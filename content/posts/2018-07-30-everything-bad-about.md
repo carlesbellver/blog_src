@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Facebook és realment malvat. No a propòsit. De manera banal […] Per a Facebook, el món no està format per individus, sinó per connexions entre ells. Els milers de milions de comptes de Facebook no pertanyen a “persones”, sinó a “usuaris”, col·leccions de punts de dades connectats a altres col·leccions de punts de dades d’una vasta Xarxa Social, a fi que programes informàtics els posin en el punt de mira i els monetitzen. Hi ha certes coses que no faries als humans amb la consciència tranquil·la. A les dades, els pots fer el que vulgues.
+> Facebook és realment malvat. No a propòsit. De manera banal […] Per a Facebook, el món no està format per individus, sinó per connexions entre ells. Els milers de milions de comptes de Facebook no pertanyen a “persones”, sinó a “usuaris”, col·leccions de punts de dades connectats a altres col·leccions de punts de dades d’una vasta Xarxa Social, a fi que programes informàtics els posen en el punt de mira i els monetitzen. Hi ha certes coses que no faries als humans amb la consciència tranquil·la. A les dades, els pots fer el que vulgues.
 
