@@ -8,4 +8,4 @@ title = "Project A119: The Secret Plan to Nuke The Moon"
 x_source = ""
 +++
 
-> Els soviètics anaven clarament per davant en la carrera espacial i els EUA buscaven desesperadament alguna cosa que estimulés la seva confiança… Per què no enviar una bomba atòmica a la Lluna i detonar-la-hi, de manera que el món sencer ho veiés?
+> Els soviètics anaven clarament per davant en la carrera espacial i els EUA buscaven desesperadament alguna cosa que estimulara la seua confiança… Per què no enviar una bomba atòmica a la Lluna i detonar-la-hi, de manera que el món sencer ho vera?
