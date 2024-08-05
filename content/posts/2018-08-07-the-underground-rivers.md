@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> El Walbrook, que fluïa obertament pel centre del Londres romà i va ser utilitzat per al transport, es va cobrir amb paviment durant els segles XV i XVI. Els romans tenien un temple i un port a les seves ribes \[…] L’expansió de la ciutat va forçar el soterrament d’un total de vint rius, però es manté llur impacte sobre el paisatge de Londres.
+> El Walbrook, que fluïa obertament pel centre del Londres romà i va ser utilitzat per al transport, es va cobrir amb paviment durant els segles XV i XVI. Els romans tenien un temple i un port a les seues ribes \[…] L’expansió de la ciutat va forçar el soterrament d’un total de vint rius, però es manté llur impacte sobre el paisatge de Londres.
 
