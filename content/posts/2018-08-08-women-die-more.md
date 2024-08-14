@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> Podria haver-hi un biaix sistemàtic que consistiria que els metges masculins no escoltin les queixes dels pacients femenins tan fàcilment com les d’un home, o podria haver-hi un biaix que afavoreixi els homes en la literatura mèdica, provocant diagnòstics equivocats en les dones. També pot ser que les metges dones facin una feina millor que els seus homòlegs masculins.
+> Podria haver-hi un biaix sistemàtic que consistiria que els metges masculins no escolten les queixes dels pacients femenins tan fàcilment com les d’un home, o podria haver-hi un biaix que afavoreix els homes en la literatura mèdica, provocant diagnòstics equivocats en les dones. També pot ser que les metges dones facen una feina millor que els seus homòlegs masculins.
 

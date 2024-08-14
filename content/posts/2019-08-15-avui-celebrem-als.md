@@ -5,6 +5,6 @@ slug = "avui-celebrem-als"
 tags = ["fotos"]
 +++
 
-Avui celebrem als nostres pobles la rendició del Japó. Però, setanta i tants anys després, encara queden soldats aïllats en lloc remots —jungles i roquerars—, renitents a acceptar el dogma de l’assumpció en cos i ànima de la Mare de Déu. *Today, Thursday, is legal holiday.*
+Avui celebrem als nostres pobles la rendició del Japó. Però, setanta i tants anys després, encara queden soldats aïllats en llocs remots —jungles i roquerars—, renitents a acceptar el dogma de l’assumpció en cos i ànima de la Mare de Déu. *Today, Thursday, is legal holiday.*
 
-<img src="/uploads/2019/5a8f67be36.jpg" width="500" height="411" alt="" />
+<img src="/uploads/2019/5a8f67be36.jpg" width="500" height="411" alt="Primera plana del Cincinnati Enquirer, amb el titular “War Ends As Japan Quits“ i el subtítol “Today, Thursday, Are Legal Holidays”.">

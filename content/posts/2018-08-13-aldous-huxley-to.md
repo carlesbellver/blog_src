@@ -9,5 +9,5 @@ x_source = ""
 +++
 
 
-> El que crec és que l’oligarquia dominant trobarà maneres de governar, i de satisfer la seva ànsia de poder, menys àrdues i ineficients, i que s’assemblaran a les que vaig descriure en *Un món feliç*.
+> El que crec és que l’oligarquia dominant trobarà maneres de governar, i de satisfer la seua ànsia de poder, menys àrdues i ineficients, i que s’assemblaran a les que vaig descriure en *Un món feliç*.
 

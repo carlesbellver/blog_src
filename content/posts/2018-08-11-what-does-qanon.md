@@ -9,5 +9,4 @@ x_source = ""
 +++
 
 
-> …la teoria de la conspiració darrere de la teoria de la conspiració és que bromistes d’esquerres, inspirats en la novel·la *Q* de Wu Ming, van crear una identitat falsa a Internet anomenada “Q”. Sota aquesta disfressa, comparteixen notícies falses als fòrums de la dreta alternativa, aconseguint que els usuaris es posin nerviosos amb revelacions implausibles…
-
+> …la teoria de la conspiració darrere de la teoria de la conspiració és que bromistes d’esquerres, inspirats en la novel·la *Q* de Wu Ming, van crear una identitat falsa a Internet anomenada “Q”. Sota aquesta disfressa, compartien notícies falses als fòrums de la dreta alternativa, aconseguint que els usuaris es posaren nerviosos amb revelacions implausibles…
