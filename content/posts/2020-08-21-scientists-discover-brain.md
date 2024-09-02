@@ -2,7 +2,7 @@
 url = "/2020/08/21/scientists-discover-brain.html"
 date = "2020-08-21T08:22:34+00:00"
 slug = "scientists-discover-brain"
-tags = ["retalls"]
+tags = ["retalls", "llengua"]
 x_url = "https://www.inverse.com/innovation/neural-stimulation-language-device"
 title = "Scientists discover brain hack for language learning"
 x_source = ""
