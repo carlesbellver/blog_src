@@ -6,6 +6,6 @@ photos = ["/uploads/2019/a511a16dcb.jpg"]
 tags = ["fotos"]
 +++
 
-Després d’una llarga nit de malsons, isc al carrer i em trobe una invasió haradrim sota el sol radiant del migdia. Incapaç de determinar si era despert o continuava dormint, me n’he tornat al llit.
+Després d’una llarga nit de malsons, isc al carrer i em trobe una invasió *haradrim* sota el sol radiant i punyent del migdia. Incapaç de determinar si estava despert o continuava dormint, me n’he tornat al llit.
 
-<img src="/uploads/2019/a511a16dcb.jpg" width="600" height="600" alt="" />
+<img src="/uploads/2019/a511a16dcb.jpg" width="600" height="600" alt="Foto en vius colors d’una filada de moros desfilant per un carrer estret d’un poble, amb la façana d’una església al fons i una franja de cel blau a sobre." />

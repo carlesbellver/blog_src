@@ -13,6 +13,6 @@ Molt d’acord amb la conclusió. Però tampoc cal exagerar. En l’[estudi d’
 
 Tampoc veig en el [Barómetro de Hábitos de Lectura](https://www.federacioneditores.org/img/documentos/260221-notasprensa.pdf) que un 44 % no haja llegit mai un llibre. La xifra seria bastant inferior, ja que un 68,8 % van llegir llibres en 2020.
 
-En fi, que “una dada” no pareix que siga.
+En fi, que “una dada”, tal com diu, no pareix que siga.
 
 D’altra banda, no he entès mai que moleste tant que la gent vulga escriure. Particularment, per cert, que moleste tant a la gent dels gremis de l’edició, de les llibreries… i de l’escriptura!
