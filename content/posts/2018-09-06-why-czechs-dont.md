@@ -9,4 +9,4 @@ x_source = ""
 +++
 
 
-> Al segle XVII, quan el regne de Bohèmia era sota el domini dels Habsburg, la llengua txeca podria haver desaparegut si no hagués estat pels titelles i una escletxa legal… ja que els titelles eren els únics ens restants que tenien dret a parlar txec en llocs públics.
+> Al segle XVII, quan el regne de Bohèmia era sota el domini dels Habsburg, la llengua txeca podria haver desaparegut si no haguera estat pels titelles i una escletxa legal… ja que els titelles eren els únics ens restants que tenien dret a parlar txec en llocs públics.
