@@ -7,7 +7,9 @@ publishDir = "public"
 uglyurls = false
 summaryLength = 50
 DefaultContentLanguage = "ca"
-paginate = 12
+
+[pagination]
+  pagerSize = 12
 
 [params]
   author = "Carles Bellver Torlà"
@@ -31,6 +33,8 @@ paginate = 12
   lightbox = true
   stats = true
   chumby = false
+  social.facebook = "carlesbellver"
+  social.twitter = "carlesbellver"
 
 [permalinks]
   posts = "/:year/:month/:day/:slug"

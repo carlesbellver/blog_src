@@ -1,6 +1,6 @@
 +++
 title = "Esborranys privats"
-date = "2022-03-22 09:00"
+date = "2022-03-22 09:00:00"
 +++
 
   - [Prefaci](/tmp/fe8444caccd9) de [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/04/24/tempesta/)
