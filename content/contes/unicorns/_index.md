@@ -7,7 +7,9 @@ description = "Improvisacions en 1.024 caràcters."
 image = "/contes/unicorns/cover_medium.jpg"
 +++
 
-<div style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em; line-height: 1.1; text-align: center;"><img src="cover_small.jpg" alt="Portada edició electrònica"  style="" /><p><a href="unicorns_wallpaper_phone.jpg"><img src="unicorns_wallpaper_phone_th.jpg" style="width: 18px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_phone.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla telèfon</a></p><a href="unicorns_wallpaper_desktop.jpg"><img src="unicorns_wallpaper_desktop_th.jpg" style="width: 48px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_desktop.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla ordinador</a></p></div>
+<div style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em; line-height: 1.1; text-align: center;"><img src="cover_small.jpg" alt="Portada edició electrònica"  style="" /><p><a href="unicorns_wallpaper_phone.jpg"><img src="unicorns_wallpaper_phone_th.jpg" style="width: 20px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_phone.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla telèfon</a></p><p><a href="unicorns_wallpaper_desktop.jpg"><img src="unicorns_wallpaper_desktop_th.jpg" style="width: 50px; margin-bottom: 0;"></a><a href="unicorns_wallpaper_desktop.jpg" class="tiny" style="color: var(--font-color);">Fons de pantalla ordinador</a></p><p><a href="https://www.latostadora.com/web/unicorns/17727283" target="_blank"><img src="unicorns_t-shirt.png" style="width: 70px; margin-bottom: 0;" ></a><a href="https://www.latostadora.com/web/unicorns/17727283" target="_blank" class="tiny" style="color: var(--font-color);">T-shirt</a></p></div>
+
+https://www.latostadora.com/web/unicorns/17727283
 
 Seixanta-quatre exercicis d’estil: de la comèdia de costums a la fantasia oriental i l’horror còsmic o psicològic.
 
