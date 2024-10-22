@@ -30,6 +30,7 @@ DefaultContentLanguage = "ca"
   summaryLength = 500
   webmentions = false
   fediverse = true
+  openfreemap = true
   lightbox = true
   stats = true
   chumby = false

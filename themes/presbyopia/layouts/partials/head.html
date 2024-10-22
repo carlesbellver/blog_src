@@ -29,6 +29,11 @@
 
 <link rel="stylesheet" href="{{ "css/poststats.css" | absURL }}?rnd={{ now.Unix }}" />
 
+{{ if .Site.Params.openfreemap -}}
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+{{- end -}}
+
 {{ if .Site.Params.lightbox -}}
 <link rel="stylesheet" href="{{ "css/lightbox.css" | absURL }}?rnd={{ now.Unix }}" />
 <script type="text/javascript" src="{{ "js/lightbox.js" | absURL }}?rnd={{ now.Unix }}"></script>
