@@ -1,7 +1,7 @@
 +++
 title = "Contes de bojos"
 description = "Ressenya de “La vida canina” per Marc Romera. Publicada originalment en el suplement Quadern d’El País, 11 de maig de 2006."
-note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><em>La vida canina</em></a> publicada originalment en el suplement Quadern d’<a href=\"http://elpais.com/diario/2006/05/11/quaderncat/1147308321_850215.html\">El País, 11 de maig de 2006</a>."
+note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><i>La vida canina</i></a> publicada originalment en el suplement <i>Quadern</i> d’<i>El País</i>, <a href=\"http://elpais.com/diario/2006/05/11/quaderncat/1147308321_850215.html\">11 de maig de 2006</a>."
 author = "Marc Romera"
 date = "2006-05-11"
 +++

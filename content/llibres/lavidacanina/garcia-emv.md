@@ -1,7 +1,7 @@
 +++
 title = "Contes de bojos"
 description = "Ressenya de “La vida canina” per Manel Garcia Grau. Publicada originalment en el suplement Posdata de Levante-EMV, 20 de gener de 2006."
-note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><em>La vida canina</em></a> publicada originalment en el suplement Posdata de Levante-EMV, 20 de gener de 2006."
+note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><i>La vida canina</i></a> publicada originalment en el suplement <i>Posdata</i> de <i>Levante-EMV</i>, 20 de gener de 2006."
 author = "Manel Garcia Grau"
 date = "2006-01-20"
 +++ 

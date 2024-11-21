@@ -1,7 +1,7 @@
 +++
 title = "Sota l’epidermis de la realitat"
 description = "Ressenya de “La vida canina” per Vicent Usó. Publicada originalment en el suplement Quaderns d’El Periódico Mediterráneo, 25 de setembre de 2005."
-note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><em>La vida canina</em></a> publicada originalment en el suplement Quaderns d’El Periódico Mediterráneo, 25 de setembre de 2005."
+note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><i>La vida canina</i></a> publicada originalment en el suplement <i>Quaderns</i> d’<i>El Periódico Mediterráneo</i>, 25 de setembre de 2005."
 author = "Vicent Usó"
 date = "2005-09-25"
 +++

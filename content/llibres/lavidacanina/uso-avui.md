@@ -1,7 +1,7 @@
 +++
 title = "Les forces ocultes"
 description = "Ressenya de “La vida canina” per Vicent Usó. Publicada originalment en el suplement Cultura de l’Avui, 23 de novembre de 2005."
-note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><em>La vida canina</em></a> publicada originalment en en el suplement Cultura de l’Avui, 23 de novembre de 2005."
+note = "Ressenya de <a href=\"/llibres/lavidacanina/\"><i>La vida canina</i></a> publicada originalment en en el suplement <i>Cultura</i> de l’<i>Avui</i>, 23 de novembre de 2005."
 author = "Vicent Usó"
 date = "2005-11-23"
 +++
