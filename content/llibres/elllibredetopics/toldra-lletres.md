@@ -1,6 +1,6 @@
 +++
 title = "Lovecraft a la Plana"
-description = "Ressenya d’“El llibre de tòpics” per Albert Toldrà. Publicada originalment en la revista <i>Lletres Valencianes</i>, número 7, primavera de 2002."
+description = "Ressenya d’“El llibre de tòpics” per Albert Toldrà. Publicada originalment en la revista Lletres Valencianes, número 7, primavera de 2002."
 note = "Ressenya d’<a href=\"/llibres/elllibredetopics/\"><i>El llibre de tòpics</i></a> publicada originalment en la revista <a href=\"https://cultura.gva.es/va/web/libro/revista-lletres-valencianes-\"><i>Lletres Valencianes</i></a>, número 7, primavera de 2002."
 author = "Albert Toldrà"
 date = "2002-04-01"

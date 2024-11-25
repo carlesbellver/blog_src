@@ -1,6 +1,6 @@
 +++
 title = "L’inquietant i la llengua"
-description = "Ressenya d’“El llibre de tòpics” per Josep A. Mas. Publicada originalment en el suplement <i>Posdata</i> de Levante-EMV, número 68, estiu de 2014."
+description = "Ressenya d’“El llibre de tòpics” per Josep A. Mas. Publicada originalment en el suplement Posdata de Levante-EMV, número 68, estiu de 2014."
 note = "Ressenya d’<a href=\"/llibres/elllibredetopics/\"><i>El llibre de tòpics</i></a> publicada originalment en el suplement <i>Posdata</i> de <i>Levante-EMV</i>."
 author = "Josep A. Mas"
 date = "2002-09-01"

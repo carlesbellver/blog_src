@@ -1,6 +1,6 @@
 +++
 title = "Lovecraft!"
-description = "Ressenya d’“El llibre de tòpics” per Joan Josep Camacho Grau. Publicada originalment en el suplement <i>Cultura</i> de l’<i>Avui</i>, 15 de maig de 2003."
+description = "Ressenya d’“El llibre de tòpics” per Joan Josep Camacho Grau. Publicada originalment en el suplement Cultura de l’Avui, 15 de maig de 2003."
 note = "Ressenya d’<a href=\"/llibres/elllibredetopics/\"><i>El llibre de tòpics</i></a> publicada originalment en en el suplement <i>Cultura</i> de l’<i>Avui</i>, 15 de maig de 2003."
 author = "Joan Josep Camacho Grau"
 date = "2003-05-15"

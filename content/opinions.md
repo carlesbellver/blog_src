@@ -16,7 +16,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > Carles Bellver, una vegada més amb aquest llibre, acuradament redactat, i amb certa dosi d’humor de fons, resulta certament inquietant.
 
-—Carme Pinyana (2018) sobre [*Un cel nou i una terra nova*](/llibres/uncelnouiunaterranova/).
+[{{< icon link >}}](http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/) Carme Pinyana (2018) sobre [*Un cel nou i una terra nova*](/llibres/uncelnouiunaterranova/).
 
 <hr>
 
@@ -24,7 +24,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > La història és magnífica, magnífica i estranya, instal·la el lector en una inquietud divertida des del començament.
 
-—Maria Folch (2015) sobre [*Un cel nou i una terra nova*](/llibres/uncelnouiunaterranova/).
+[{{< icon link >}}](/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova) Maria Folch (2015) sobre [*Un cel nou i una terra nova*](/llibres/uncelnouiunaterranova/).
 
 <hr>
 
@@ -32,7 +32,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > Amb, com a rerefons, un pòsit de lectures més o menys declarades i, en el centre, un motor de nostàlgia que desencadena el relat de relats.
 
-—Francesc Pérez i Moragón (2014) sobre [*La nit mil dos*](/llibres/lanitmildos/).
+[{{< icon link >}}](/llibres/lanitmildos/perez-moragon-caracters) Francesc Pérez i Moragón (2014) sobre [*La nit mil dos*](/llibres/lanitmildos/).
 
 <hr>
 
@@ -40,7 +40,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > Són relats que mantenen, de manera deliberada i eficaç, certa tendència a la insinuació, a la sugestió i a l’evocació, tres propensions característiques del discurs poètic que Bellver conrea en prosa.
 
-—Josep Porcar (2011) sobre [*Parèntesi*](/llibres/parentesi/).
+[{{< icon link >}}](/llibres/parentesi/josepporcar-homecalendari) Josep Porcar (2011) sobre [*Parèntesi*](/llibres/parentesi/).
 
 <hr>
 
@@ -48,7 +48,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > Això és pitjor que llegir poesia. Hi ha històries que les has de llegir vàries vegades.
 
-—Un lector anònim (2011) sobre [*Parèntesi*](/llibres/parentesi/).
+{{< icon message-square >}} Un lector anònim (2011) sobre [*Parèntesi*](/llibres/parentesi/).
 
 <hr>
 
@@ -56,7 +56,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > Els seus relats —sens dubte, els més reeixits que hagen sortit mai de la ploma d’un autor castellonenc— s’articulen com vertaders mecanismes de rellotgeria, d’acord amb la millor tradició del gènere, i palesen una profunda unitat estilística, una densa trama intertextual, sovint a cavall de diversos gèneres, que es complau a esborrar les fronteres entre la realitat i la ficció i amb els jocs intel·lectuals i les bromes erudites o surrealistes, a la manera de Lovecraft, Borges, Calvino o Perucho.
 
-—Josep J. Conill (2010) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/) i [*La vida canina*](/llibres/lavidacanina/).
+[{{< icon link >}}](/llibres/conill-lletra-ferida) Josep J. Conill (2010) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/) i [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
@@ -64,7 +64,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > I aquesta necessitat de continuar la lectura d’un relat amb la del relat següent és en part deguda a la màgia que Carles Bellver sap imprimir als seus contes i a la capacitat de generar un interès lector sense haver d’arribar a finals conclusius i sorprenents.
 
-—Marc Romera (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
+[{{< icon link >}}](/llibres/lavidacanina/romera-elpais) Marc Romera (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
@@ -72,7 +72,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > …allò que l’autor anomenà com una «poètica del deliri», connectada expressament amb la follia, el tràngol i la incapacitat de comprendre totalment aquest món en què vivim.
 
-—Manel Garcia Grau (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
+[{{< icon link >}}](/llibres/lavidacanina/garcia-emv) Manel Garcia Grau (2006) sobre [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
@@ -80,7 +80,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > …un llibre molt bo amb un grapat de contes excepcionals…
 
-—Blog *El Llibreter* (2005) sobre [*La vida canina*](/llibres/lavidacanina/).
+[{{< icon link >}}](http://llibreter.blogspot.com/2011/08/lhome-del-calendari-reloaded.html) Blog *El Llibreter* (2005) sobre [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
@@ -88,7 +88,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > A partir d’un matís, d’un episodi, Bellver —sense abandonar una prosa escassament procliu als escarafalls— s’aplica a desvetllar-nos que les aparences enganyen, que, sota l’epidermis d’aquesta aparent normalitat, s’amaguen forces ocultes, àmbits misteriosos, secrets insondables.
 
-—Vicent Usó (2005) sobre [*La vida canina*](/llibres/lavidacanina/).
+[{{< icon link >}}](/llibres/lavidacanina/uso-epm) Vicent Usó (2005) sobre [*La vida canina*](/llibres/lavidacanina/).
 
 <hr>
 
@@ -98,7 +98,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 > \[…]  
 > Tots aquests relats són els millors escrits mai a Castelló.
 
-—Lluís Meseguer (2003) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
+[{{< icon link >}}](/llibres/meseguer-castello-literari) Lluís Meseguer (2003) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
 
 <hr>
 
@@ -106,7 +106,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > Bellver colla una volta de caragol del relat fantàstic, per a substituir l’horror de Cthulhu per l’humor absurd.
 
-—Albert Toldrà (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
+[{{< icon link >}}](/llibres/elllibredetopics/toldra-lletres) Albert Toldrà (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
 
 <hr>
 
@@ -114,7 +114,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > El Carles ens recrea un món lovecraftià de haiku.
 
-—Sebastià Roig (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
+[{{< icon link >}}](/llibres/elllibredetopics/barnacon) Sebastià Roig (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
 
 <hr>
 
@@ -122,6 +122,6 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 > Allò ben cert és que mai no trobarem un llibre escrit d’aquesta manera en Bromera, per exemple.
 
-—Josep A. Mas (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
+[{{< icon link >}}](/llibres/elllibredetopics/mas-emv) Josep A. Mas (2002) sobre [*El llibre de tòpics*](/llibres/elllibredetopics/).
 
 <hr>
