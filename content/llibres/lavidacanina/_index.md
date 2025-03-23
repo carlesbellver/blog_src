@@ -9,8 +9,8 @@ template = "llibre"
 
 <img src="/llibres/lavidacanina/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 20px 20px;" />
 
-{{< icon download >}} <span class="small">[EPUB](/files/lavidacanina.epub)</span>
-{{< icon download >}} <span class="small">[PDF](/files/lavidacanina.pdf)</span>
+{{< icon download >}} <span class="small">[EPUB](/files/lavidacanina.epub)</span>
+{{< icon download >}} <span class="small">[PDF](/files/lavidacanina.pdf)</span>
 
 Premi de narrativa Vila d’Almassora 2004.
 

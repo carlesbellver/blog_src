@@ -10,8 +10,8 @@ template = "llibre"
 
 <img src="/llibres/parentesi/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 20px 20px;" />
 
-{{< icon download >}} <span class="small">[EPUB](/files/parentesi.epub)</span>
-{{< icon download >}} <span class="small">[PDF](/files/parentesi.pdf)</span>
+{{< icon download >}} <span class="small">[EPUB](/files/parentesi.epub)</span>
+{{< icon download >}} <span class="small">[PDF](/files/parentesi.pdf)</span>
 
 El 4 de novembre de 2007, Charles Beauvoir escriu a Carles Bellver per encomanar-li la publicació dels seus diaris. Tot i que l’escriptor no se sent obligat, ni de bon tros, a executar l’excèntrica voluntat de Beauvoir, hi farà un cop d’ull, en llegirà les primeres frases i, en un tres i no res, la curiositat el vençerà. Les anotacions s'iniciem el setembre de 2001, quan Beauvoir va marxar de París a Szohôd, capital de la república imaginària de Bordúria, per exercir com a professor visitant en una denominada “Escola d'Alts Estudis”. I acaben el maig de l'any següent, quan va fugir del país a corre-cuita, esglaiat per la situació d'amenaça bèl·lica que s'hi vivia. *Parèntesi* és també el nou llibre de relats de Carles Bellver Torlà, en el qual la potència narrativa del castellonenc —que evoca els noms de Pere Calders, Joan Perucho, H. P. Lovecraft o Boris Vian— arriba a la seva cota més alta. En els contes de Bellver, s’entrellacen elements de realitat i de ficció i es juga constantment amb el caràcter fantàstic dels personatges i de les històries (aquesta vegada unides de manera que el llibre sembli una novel·la, gairebé una *Bildungsroman*). Et convidem a la descoberta d’una de les veus més singulars de la nostra narrativa actual.
 

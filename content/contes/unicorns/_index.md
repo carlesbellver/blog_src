@@ -11,9 +11,9 @@ image = "/contes/unicorns/cover_medium.jpg"
 
 Seixanta-quatre exercicis d’estil: de la comèdia de costums a la fantasia oriental i l’horror còsmic o psicològic.
 
-{{< icon download >}} <span class="small">[EPUB](/files/unicorns.epub)</span>
-{{< icon download >}} <span class="small">[PDF](/files/unicorns.pdf)</span>
-{{< icon email >}} <span class="small">[CORREU](https://po.l0fi.net/?book=0da9489afa)</span>
+{{< icon download >}} <span class="small">[EPUB](/files/unicorns.epub)</span>
+{{< icon download >}} <span class="small">[PDF](/files/unicorns.pdf)</span>
+{{< icon email >}} <span class="small">[CORREU](https://po.l0fi.net/?book=0da9489afa)</span>
 
 [Proemi](unicorns00)
 

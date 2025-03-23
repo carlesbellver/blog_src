@@ -10,10 +10,10 @@ template = "llibre"
 
 <img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 0 1em;" />
 
-{{< icon book >}} <span class="small">[PAPER](https://unariaediciones.com/catalogo/un-cel-nou-i-una-terra-nova/)</span>
-{{< icon download >}} <span class="small">[EPUB](/files/uncelnouiunaterranova.epub)</span>
-{{< icon download >}} <span class="small">[PDF](/files/uncelnouiunaterranova.pdf)</span>
-{{< icon email >}} <span class="small">[CORREU](https://po.l0fi.net/?book=0be99961bc)</span>
+{{< icon book >}} <span class="small">[PAPER](https://unariaediciones.com/catalogo/un-cel-nou-i-una-terra-nova/)</span>
+{{< icon download >}} <span class="small">[EPUB](/files/uncelnouiunaterranova.epub)</span>
+{{< icon download >}} <span class="small">[PDF](/files/uncelnouiunaterranova.pdf)</span>
+{{< icon email >}} <span class="small">[CORREU](https://po.l0fi.net/?book=0be99961bc)</span>
 
 Premi de narrativa breu Josep Pascual Tirado 2015.
 
