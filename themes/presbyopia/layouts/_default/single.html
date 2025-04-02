@@ -33,7 +33,7 @@
             
       <div class="content e-content">
         {{ partial "ht_content.html" . }}
-        {{ if .Params.map }}{{ partial "map_openstreetmap.html" . }}{{ end }}
+        {{ if .Params.map }}{{ partial "map_openfreemap.html" . }}{{ end }}
         {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
       </div>
       
