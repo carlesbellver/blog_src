@@ -4,12 +4,6 @@
       <h1 class="blog-title p-name">{{ .Site.Params.Author }}</h1>
     </header>
   
-    {{ if .Site.Params.Chumby }}
-    <div id="chumby">
-      <img src="https://data.carlesbellver.net/display.jpg" id="chumby-display" class="chumby-display">
-    </div>
-    {{ end }}
-
     <div class="homepage-content">
         {{ .Content }}
     </div>
