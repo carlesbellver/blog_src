@@ -2,7 +2,7 @@
 title = "El llibre de tòpics"
 description = "El llibre de tòpics (Brosquil, 2002)."
 publisher = "Brosquil"
-date = "2002-09-01"
+date = "2002-09-01T22:00:00+01:00"
 image = "/llibres/elllibredetopics/cover_medium.jpg"
 template = "llibre"
 +++

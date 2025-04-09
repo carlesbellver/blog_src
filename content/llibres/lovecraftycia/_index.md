@@ -2,7 +2,7 @@
 title = "Lovecraft y cía"
 description = "Lovecraft y cía. miscelánea de artículos de Carles Bellver Torlà, en su mayoría publicados originalmente en Lovecraft Magazine (2000-2004)."
 publisher = "Autoedición"
-date = "2008-04-01"
+date = "2008-04-01T22:00:00+01:00"
 image = "/llibres/lovecraftycia/cover_medium.jpg"
 template = "llibre"
 +++
