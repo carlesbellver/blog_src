@@ -6,7 +6,7 @@
       <div class="post-list-item-type">
         {{ if .Params.X_url }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/link.svg" /></a>
         {{- else if .Params.Photos }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/eye.svg" /></a>
-        {{- else if in .Params.Tags "citacions" }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/quote.svg" /></a>
+        {{- else if in .Params.Tags "citacions" }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/smartquote.svg" /></a>
         {{- else }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/edit.svg" /></a>
         {{ end -}}
       </div>
