@@ -505,13 +505,29 @@ h1.post-title {
   margin: 0.5em 0;
 }
 
-.post-list div.post-list-item-date {
-  display: inline;
-  margin-right: 0.5em;
+.post-list .post-list-item-date {
+  margin-right: 0.25em;
   white-space: nowrap;
 }
 
-.post-list div.post-list-item-title {
+.post-list .post-list-item-date a {
+  display: inline;
+  text-align: right;
+}
+
+.post-list .post-list-item-type {
+  margin-right: 0.25em;
+  width: 18px;
+  white-space: nowrap;
+}
+
+.post-list .post-list-item-type a img.inline {
+  vertical-align: -3px;
+  width: 18px;
+  height: 18px;
+}
+
+.post-list .post-list-item-title {
   display: inline;
 }
 
@@ -608,26 +624,9 @@ main article .content {
   margin: 10px 0;
 }
 
-/* main article .content {
-  position: relative;
-  margin: 10px 0 40px;
-  background: var(--content-bg-color);
-  border: 1px solid var(--content-bg-color);
-  border-radius: 10px;
-  padding: 20px;
+main article .content p {
+  text-wrap: pretty;
 }
-
-main article .content:after {
-  content: "";
-  display: block;
-  position: absolute;
-  bottom: -25px;
-  left: 20px;
-  width: 0;
-  border-width: 25px 20px 0;
-  border-style: solid;
-  border-color: var(--content-bg-color) transparent;
-} */
 
 .post-navigation {
   background: var(--bg-color);
