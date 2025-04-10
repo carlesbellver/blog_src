@@ -501,11 +501,12 @@ h1.post-title {
 }
 
 .post-list div.h-entry {
-  display: flex;
+  display: block;
   margin: 0.5em 0;
 }
 
 .post-list .post-list-item-date {
+  display: inline;
   margin-right: 0.25em;
   white-space: nowrap;
 }
@@ -516,6 +517,7 @@ h1.post-title {
 }
 
 .post-list .post-list-item-type {
+  display: inline;
   margin-right: 0.25em;
   width: 18px;
   white-space: nowrap;
@@ -528,7 +530,7 @@ h1.post-title {
 }
 
 .post-list .post-list-item-title {
-  display: inline;
+  display: block;
 }
 
 .post-short-list:first-of-type {
@@ -1230,9 +1232,13 @@ input.reset {
   }
 
   .post-list div.post-list-item-date {
-    display: block;
+    display: inline;
   }
-
+  
+  .post-list div.post-list-item-type {
+    display: inline;
+  }
+  
   .post-list div.post-list-item-title {
     display: block;
   }
