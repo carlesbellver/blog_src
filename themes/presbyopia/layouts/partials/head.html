@@ -15,6 +15,15 @@
 <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
 <link rel="apple-touch-icon" href="{{ "favicon.png" | absURL }}">
 
+{{ if .Params.fonts -}}
+<style>
+{{ range $font := .Params.fonts }}
+  @font-face { font-family: '{{- $font -}}'; src: url(/fonts/{{- $font -}}.ttf) }
+{{ end -}}
+</style>
+{{ end -}}
+
+
 {{ if .Params.googlefonts -}}
 <style>
 {{ range $font := .Params.googlefonts }}
