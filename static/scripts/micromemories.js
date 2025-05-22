@@ -1,50 +1,88 @@
-var SUMMARY_LENGTGH = 80;
+var nocontent = 'Sense articles per a aquesta data. Podeu tornar a provar demà.';
+var SUMMARY_LENGTH = 80;
 
-function formatDate(date) {
-    var d = new Date(date),
-        month = '' + (d.getMonth() + 1),
-        day = '' + d.getDate();
-    if (month.length < 2) 
-        month = '0' + month;
-    if (day.length < 2) 
-        day = '0' + day;
-    return [month, day].join('-');
-}
-
-function renderPost(post) {
-  console.log('SHIT');
-  ElHTML = '<div class="h-entry">';
-  var d = Date.parse(post.date_published)
-  var date_iso = new Date(d).toISOString();
-  var date_s = date_iso.substr(0, 10);
-  ElHTML += '<div class="post-list-item-date"><a href="'+post.url+'" class="dt-published"><span="dt-published" datetime="'+date_iso+'">'+date_s+'</span></a></div>';
-  ElHTML += '<div class="post-list-item-title">';
-  if (post.tags.includes("retalls")) {
-    ElHTML += "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
+function buildResultEl(r) {
+  var $h_entry = document.createElement("div");
+  $h_entry.classList.add("h-entry");
+  var $item_date = document.createElement("div");
+  $item_date.classList.add("post-list-item-date");
+  if (r["date_published"].substring(0, 3) != "000" && r["date_published"].substring(0, 3) != "197") {
+    var $item_date_link = document.createElement("a");
+    $item_date_link.classList.add("dt-published");
+    var d = Date.parse(r["date_published"]);
+    var date_s = new Date(d).toISOString().substr(0, 10);
+    /* var $date = document.createTextNode(date_s); */
+    var $date = document.createElement("span");
+    $date.classList.add("dt-published");
+    $date.innerHTML = date_s;
+    $item_date_link.appendChild($date);
+    $item_date_link.href = r["url"];
+    $item_date.appendChild($item_date_link);
   }
-  else if (post.tags.includes("fotos")) {
-    ElHTML += "<img src=\"/svg.icons/eye.svg\" class=\"inline\"> ";
+  $h_entry.appendChild($item_date);
+  var $item_type = document.createElement("div");
+  $item_type.classList.add("post-list-item-type");
+  var $item_type_link = document.createElement("a");
+  $item_type_link.href = r["url"];
+  var $item_type_icon = document.createElement("img");
+  $item_type_icon.classList.add("inline");
+  if (r["tags"].includes("retalls")) {
+    $item_type_icon.src = "/svg.icons/link.svg";
   }
-  if (post.title != undefined && post.title != '') {
-    ElHTML += '<a href="'+post.url+'" class="u-url"><span class="p-name">'+post.title+'</a>';
+  else if (r["tags"].includes("fotos")) {
+    $item_type_icon.src = "/svg.icons/eye.svg";
+  }
+  else if (r["tags"].includes("citacions")) {
+    $item_type_icon.src = "/svg.icons/smartquote.svg";
   }
   else {
-    var s = post.content_text;
-    if (s.length > SUMMARY_LENGTGH) {
-      s = s.substr(0, SUMMARY_LENGTGH) + "…";
-    }
-    /* if (post.tags.includes("fotos")) {
-      s += " &#x1F5BC;";
-    } */
-    ElHTML += ' <span class="p-summary">'+s+'</span> <a href="'+post.url+'" class="more">[+]</a>';
+    $item_type_icon.src = "/svg.icons/edit.svg";
   }
-  ElHTML += '</div>'
-  ElHTML += '</div>'
-  return ElHTML;
-}
-
-function renderNoContent() {
-  return 'Sense articles per a aquesta data. Torneu a provar-ho demà.'
+  $item_type_link.appendChild($item_type_icon);
+  $item_type.appendChild($item_type_link);
+  $h_entry.appendChild($item_type);
+  $item_title = document.createElement("div");
+  $item_title.classList.add("post-list-item-title");
+  var s = r["content_text"];
+  if (s.length > SUMMARY_LENGTH) {
+    s = s.substr(0, SUMMARY_LENGTH) + "…";
+  }
+  if (r["title"] && r["title"].length > 0) {
+    $item_title_link = document.createElement("a");
+    $item_title_link.classList.add("u-url");
+    $item_title_link.href = r["url"];
+    $item_title_link.innerHTML = r["title"];
+    $item_title.appendChild($item_title_link);
+    if (s) {
+      $item_title.appendChild(document.createTextNode(" "));
+      $item_title_summary = document.createElement("span");
+      $item_title_summary.classList.add("p-summary");
+      $item_title_summary.innerHTML = s;
+      $item_title.appendChild($item_title_summary);
+			$item_title.appendChild(document.createTextNode(" "));
+			$item_more = document.createElement("a");
+			$item_more.classList.add("more");
+			$item_more.href = r["url"];
+			$item_more.innerHTML = '[+]';
+			$item_title.appendChild($item_more);
+    }
+  }
+  else { /* untitled */
+    $item_title_summary = document.createElement("span");
+		$item_title_summary.classList.add("p-summary");
+		$item_title_summary.innerHTML = s;
+		$item_title.appendChild($item_title_summary);
+		$item_title.appendChild(document.createTextNode(" "));
+		$item_more = document.createElement("a");
+		$item_more.classList.add("more");
+		$item_more.href = r["url"];
+		$item_more.innerHTML = '[+]';
+		$item_title.appendChild($item_more);
+  }
+  if ($item_title != null) {
+    $h_entry.appendChild($item_title); 
+  }
+  return $h_entry;
 }
 
 var preferredDate = 0;
@@ -56,25 +94,24 @@ if (preferredDate) {
   if (preferredDate == 'tomorrow') {
     var tomorrow = new Date();
     tomorrow.setDate(tomorrow.getDate() + 1);
-    preferredDate = formatDate(tomorrow)
+    preferredDate = new Date(tomorrow).toISOString().substr(5, 5);
   }
   else if (preferredDate == 'aftertomorrow') {
     var aftertomorrow = new Date();
     aftertomorrow.setDate(aftertomorrow.getDate() + 2);
-    preferredDate = formatDate(aftertomorrow)
+    preferredDate = preferredDate = new Date(aftertomorrow).toISOString().substr(5, 5);
   }
   else if (preferredDate == 'yesterday') {
     var yesterday = new Date();
     yesterday.setDate(yesterday.getDate() - 1);
-    preferredDate = formatDate(yesterday)
+    preferredDate = preferredDate = new Date(yesterday).toISOString().substr(5, 5);
   }
 }
 else {
-  var today = new Date();
-  preferredDate = formatDate(today)
+  preferredDate = new Date().toISOString().substr(5, 5);
 }
 
-var container = document.getElementById('onthisday');
+var $onthisday = document.getElementById('onthisday');
 
 var endPoint = '/archive/index.json';
 var xhr = new XMLHttpRequest();
@@ -84,20 +121,19 @@ xhr.send();
 
 xhr.onreadystatechange = function(e) {
   if (xhr.readyState == 4 && xhr.status == 200) {
-    container.innerHTML = ''
-    postList = ''
+    $onthisday.innerHTML = ''
     if (xhr.response.length == 0) {
-      postList = renderNoContent();
+      $onthisday.innerHTML = nocontent;
     } else {
       xhr.response.forEach(function(post) {
         if (post.url.match(/\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\//) && post.date_published.search("-"+preferredDate) != -1) {
-          postList = postList + renderPost(post);
+          // postList = postList + renderPost(post);
+          $onthisday.appendChild(buildResultEl(post))
         }
       });
     }
-  if (postList.length == 0) {
-    postList = renderNoContent();
-  }
-  container.innerHTML = postList;
+		if ($onthisday.childElementCount == 0) {
+			$onthisday.innerHTML = nocontent;
+		}
   }
 }

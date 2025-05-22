@@ -3,7 +3,7 @@ const MAX = 2000;
 const BATCHSIZE = 20;
 const DELAY = 10;
 const MIN_WL = 3;
-const SUMMARY_LENGTGH = 80;
+const SUMMARY_LENGTH = 80;
 const BLOG_TITLE = "La vista cansada";
 
 const $inputSearch = document.getElementById('input_search');
@@ -22,29 +22,29 @@ var miniSearch;
 var archive = [];
 var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
-	if (this.readyState == 4 && this.status == 200) {
-		archive = JSON.parse(this.responseText);
-		$searchNotice.innerHTML = "";
-		miniSearch = new MiniSearch({
-			// fields to index for full-text search
-			fields: ['title', 'content_text'],
-			// fields to return with search results
-			storeFields: ['title', 'url', 'date_published', 'tags', 'content_text'],
-			searchOptions: {
-				boost: { title: 5 },
-				fuzzy: FUZZY,
-				processTerm: (term, _fieldName) => term.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-			}
-		});
-		miniSearch.addAll(archive);
-		if (q) {
-			runSearch(q);
-		}
-		else {
+  if (this.readyState == 4 && this.status == 200) {
+    archive = JSON.parse(this.responseText);
+    $searchNotice.innerHTML = "";
+    miniSearch = new MiniSearch({
+      // fields to index for full-text search
+      fields: ['title', 'content_text'],
+      // fields to return with search results
+      storeFields: ['title', 'url', 'date_published', 'tags', 'content_text'],
+      searchOptions: {
+        boost: { title: 5 },
+        fuzzy: FUZZY,
+        processTerm: (term, _fieldName) => term.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+      }
+    });
+    miniSearch.addAll(archive);
+    if (q) {
+      runSearch(q);
+    }
+    else {
       $searchPattern.innerHTML = BLOG_TITLE;
-			displayResults(archive);
-		}
-	}
+      displayResults(archive);
+    }
+  }
 };
 xmlhttp.open("GET", "/archive/index.json", true);
 xmlhttp.send();
@@ -77,7 +77,7 @@ function runSearch(q) {
       results = miniSearch.search(q, { fuzzy: f , combineWith: c });
     }
     if (results.length) {
-      // results.sort( function(a, b) { return b["score"] - a["score"] } );
+      results.sort( function(a, b) { return b["score"] - a["score"] } );
       displayResults(results);
     }
     else {
@@ -126,59 +126,85 @@ function displayResults(results) {
     addBatch();
   }
   addResultsInBatches($listResults, results, BATCHSIZE, DELAY);
-  
-// for (let i = 0; i < max; i++) {
-//   if (results[i]["date_published"].substring(0, 3) != "000" && results[i]["date_published"].substring(0, 3) != "197") {
-//     $h_entry = buildResultEl(results[i]);
-//		$listResults.appendChild($h_entry);
-//   }
-// }
- 
-  // var lapsedTime = ((new Date()).getTime() - refTime)/1000;
-	// console.log("Display results: " + lapsedTime + "seconds");
 }
 
 function buildResultEl(r) {
   var $h_entry = document.createElement("div");
   $h_entry.classList.add("h-entry");
+  var $item_date = document.createElement("div");
+  $item_date.classList.add("post-list-item-date");
   if (r["date_published"].substring(0, 3) != "000" && r["date_published"].substring(0, 3) != "197") {
-    var $item_date = document.createElement("div");
-    $item_date.classList.add("post-list-item-date");
     var $item_date_link = document.createElement("a");
     $item_date_link.classList.add("dt-published");
     var d = Date.parse(r["date_published"]);
     var date_s = new Date(d).toISOString().substr(0, 10);
-    var $date = document.createTextNode(date_s);
+    /* var $date = document.createTextNode(date_s); */
+    var $date = document.createElement("span");
+    $date.classList.add("dt-published");
+    $date.innerHTML = date_s;
     $item_date_link.appendChild($date);
     $item_date_link.href = r["url"];
     $item_date.appendChild($item_date_link);
-    $h_entry.appendChild($item_date);
   }
+  $h_entry.appendChild($item_date);
+  var $item_type = document.createElement("div");
+  $item_type.classList.add("post-list-item-type");
+  var $item_type_link = document.createElement("a");
+  $item_type_link.href = r["url"];
+  var $item_type_icon = document.createElement("img");
+  $item_type_icon.classList.add("inline");
+  if (r["tags"].includes("retalls")) {
+    $item_type_icon.src = "/svg.icons/link.svg";
+  }
+  else if (r["tags"].includes("fotos")) {
+    $item_type_icon.src = "/svg.icons/eye.svg";
+  }
+  else if (r["tags"].includes("citacions")) {
+    $item_type_icon.src = "/svg.icons/smartquote.svg";
+  }
+  else {
+    $item_type_icon.src = "/svg.icons/edit.svg";
+  }
+  $item_type_link.appendChild($item_type_icon);
+  $item_type.appendChild($item_type_link);
+  $h_entry.appendChild($item_type);
   $item_title = document.createElement("div");
   $item_title.classList.add("post-list-item-title");
   var s = r["content_text"];
-  if (s.length > SUMMARY_LENGTGH) {
-    s = s.substr(0, SUMMARY_LENGTGH) + "…";
+  if (s.length > SUMMARY_LENGTH) {
+    s = s.substr(0, SUMMARY_LENGTH) + "…";
   }
-  $item_title.innerHTML = '';
-  /* Link? */
-  if (r["tags"].includes("retalls")) {
-    $item_title.innerHTML += "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
-  }
-  /* Picture? */
-  else if (r["tags"].includes("fotos")) {
-      $item_title.innerHTML += "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
-  }
-  /* Title? */
   if (r["title"] && r["title"].length > 0) {
-    $item_title.innerHTML += ' <a class="u-url" href="'+r["url"]+'">' + r["title"] + '</a>';
+    $item_title_link = document.createElement("a");
+    $item_title_link.classList.add("u-url");
+    $item_title_link.href = r["url"];
+    $item_title_link.innerHTML = r["title"];
+    $item_title.appendChild($item_title_link);
     if (q && s) {
-      $item_title.innerHTML += ' <span class="p-summary">'+ s +'</span>';
+      $item_title.appendChild(document.createTextNode(" "));
+      $item_title_summary = document.createElement("span");
+      $item_title_summary.classList.add("p-summary");
+      $item_title_summary.innerHTML = s;
+      $item_title.appendChild($item_title_summary);
+    $item_title.appendChild(document.createTextNode(" "));
+    $item_more = document.createElement("a");
+    $item_more.classList.add("more");
+    $item_more.href = r["url"];
+    $item_more.innerHTML = '[+]';
+    $item_title.appendChild($item_more);
     }
   }
   else { /* untitled */
-    $item_title.innerHTML += ' <span class="p-summary">'+s+'</span>';
-    $item_title.innerHTML += ' <a href="'+r["url"]+'" class="more">[+]</a>';
+    $item_title_summary = document.createElement("span");
+    $item_title_summary.classList.add("p-summary");
+    $item_title_summary.innerHTML = s;
+    $item_title.appendChild($item_title_summary);
+    $item_title.appendChild(document.createTextNode(" "));
+    $item_more = document.createElement("a");
+    $item_more.classList.add("more");
+    $item_more.href = r["url"];
+    $item_more.innerHTML = '[+]';
+    $item_title.appendChild($item_more);
   }
   if ($item_title != null) {
     $h_entry.appendChild($item_title); 

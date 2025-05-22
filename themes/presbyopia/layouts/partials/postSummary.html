@@ -3,10 +3,14 @@
       <div class="post-list-item-date">
         <a href="{{ .Permalink }}" class="dt-published" title="Enllaç permanent"><span class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05-0700" }}">{{ .Date.Format "2006-01-02" }}</span></a>
       </div>
-      <div class="post-list-item-title">
-        {{- if .Params.X_url }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/link.svg" /></a>
+      <div class="post-list-item-type">
+        {{ if .Params.X_url }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/link.svg" /></a>
         {{- else if .Params.Photos }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/eye.svg" /></a>
-        {{- end -}}
+        {{- else if in .Params.Tags "citacions" }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/smartquote.svg" /></a>
+        {{- else }}<a href="{{ .Permalink }}"><img class="inline" src="{{ site.BaseURL }}svg.icons/edit.svg" /></a>
+        {{ end -}}
+      </div>
+      <div class="post-list-item-title">
         {{ if .Title }}
           <a href="{{ .Permalink }}" class="u-url" title="Enllaç permanent"><span class="p-name">{{ .Title }}</span> </a>
         {{ else }}

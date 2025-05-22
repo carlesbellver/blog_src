@@ -1,6 +1,7 @@
 +++
 title = "Dos-cents anys d’Edgar Allan Poe"
 description = "Imatges de la presentació i notes per a l’acte d’homenatge de la SCCFF a Edgar Allan Poe. Castelló de la Plana, Llotja del Cànem, 19 de gener de 2009."
+date = "2009-01-19T23:00:00+01:00"
 image = "Poe-01.jpg"
 +++
 

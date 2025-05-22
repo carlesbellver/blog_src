@@ -5,6 +5,7 @@ description = "Experiments i divagacions entre la tecnologia i la literatura."
 
 Experiments i divagacions entre la tecnologia i la literatura.
 
+  - [Llibres per correu](https://po.l0fi.net) (2025)
   - [Samarretes](https://www.latostadora.com/shop/lavistacansada/?shop_trk) (2024)
   - [Lo-fi writer](/2023/03/19/lofiwriter/) (2023)
   - [Inspiració](https://42.carlesbellver.net) (2022)

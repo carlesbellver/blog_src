@@ -1,6 +1,7 @@
 +++
 title = "Escriure —breument— en temps d'Internet"
 description = "Conferència en el Taller d’escriptura creativa de l’UJI. Castelló de la Plana, Llotja del Cànem, 17 de gener de 2017."
+date = "2017-01-17T23:00:00+01:00"
 image = "slide.001.jpg"
 +++
 

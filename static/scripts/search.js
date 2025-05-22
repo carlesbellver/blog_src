@@ -158,6 +158,23 @@ function displayResults(results) {
 			item_date_link_node.appendChild(date_node);
 			item_date_link_node.href = results[i]["url"];
 			item_date_node.appendChild(item_date_link_node);
+			
+			var item_type_link_node = document.createElement("a");
+      if (results[i]["tags"].includes("retalls")) {
+        item_type_link_node.innerHTML = "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
+      }
+			else if (results[i]["tags"].includes("fotos")) {
+					item_type_link_node.innerHTML = "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
+			}
+			else if (results[i]["tags"].includes("citacions")) {
+					item_type_link_node.innerHTML = "<img src=\"/svg.icons/quote.svg\" class=\"inline\">";
+			}
+			else {
+					item_type_link_node.innerHTML = "<img src=\"/svg.icons/edit.svg\" class=\"inline\">";
+			}
+			item_type_link_node.href = results[i]["url"];
+			item_date_node.appendChild(item_type_link_node);
+			
 			h_entry_node.appendChild(item_date_node);
 			item_title_node = document.createElement("div");
 			item_title_node.classList.add("post-list-item-title");
@@ -166,13 +183,6 @@ function displayResults(results) {
 				s = s.substr(0, SUMMARY_LENGTGH) + "…";
 			}
 			item_title_node.innerHTML = '';
-      if (results[i]["tags"].includes("retalls")) {
-        item_title_node.innerHTML = item_title_node.innerHTML + "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
-      }
-      /* Picture? */
-			else if (results[i]["tags"].includes("fotos")) {
-					item_title_node.innerHTML = item_title_node.innerHTML + "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
-			}
 			/* Title? */
 			if (results[i]["title"] && results[i]["title"].length > 0) {
 				item_title_node.innerHTML = item_title_node.innerHTML + ' <a class="u-url" href="'+results[i]["url"]+'">' + results[i]["title"] + '</a>';

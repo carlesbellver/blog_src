@@ -2,15 +2,15 @@
 title = "La vida canina"
 description = "La vida canina. Premi de narrativa Vila d’Almassora 2004 (Brosquil, 2005)."
 publisher = "Brosquil"
-date = 2005
+date = "2005-09-01T22:00:00+01:00"
 image = "/llibres/lavidacanina/cover_medium.jpg"
 template = "llibre"
 +++
 
 <img src="/llibres/lavidacanina/cover_small.jpg" style="max-width: 25%; width: 200px; height: auto; float: right; margin: 0 0 20px 20px;" />
 
-{{< icon download >}} <span class="small">[EPUB](/files/lavidacanina.epub)</span>
-{{< icon download >}} <span class="small">[PDF](/files/lavidacanina.pdf)</span>
+{{< icon download >}} <span class="small">[EPUB](/files/lavidacanina.epub)</span>
+{{< icon download >}} <span class="small">[PDF](/files/lavidacanina.pdf)</span>
 
 Premi de narrativa Vila d’Almassora 2004.
 

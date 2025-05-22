@@ -2,7 +2,7 @@
 license = "by-nc"
 title = "Set somnis d'escriptors i un d'una escriptora"
 description = "Contes inclosos en “Un cel nou i una terra nova”, XVIè premi de narrativa breu Josep Pascual Tirado (Unaria, 2015)."
-date = 2015
+date = "2015-11-20T22:00:00+01:00"
 +++
 
 Contes inclosos en [*Un cel nou i una terra nova*](/llibres/uncelnouiunaterranova/), XVIè premi de narrativa breu Josep Pascual Tirado (Unaria, 2015).

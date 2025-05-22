@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+  <header class="post-header">
+    <h1 class="post-title p-name">{{ .Title }}</h1>
+  </header>
+
+	<article id="onthisday" class="post-list">
+		<p>S’estan carregant els textos…</p>
+		<noscript>
+			<p>⚠️ No teniu habilitat el Javascript o el vostre navegador no és compatible.
+			<p>Aquesta pàgina utilitza JavaScript per a carregar un índex d’articles del lloc i seleccionar els que es van publicar tal dia com avui.</p>
+		</noscript>
+	</article>
+	
+	<script src="/scripts/micromemories.js"></script>
+
+{{ end }}
+

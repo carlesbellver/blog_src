@@ -33,7 +33,6 @@ DefaultContentLanguage = "ca"
   openfreemap = true
   lightbox = false
   stats = true
-  chumby = false
   social.facebook = "carlesbellver"
   social.twitter = "carlesbellver"
 

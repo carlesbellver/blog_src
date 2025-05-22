@@ -5,7 +5,7 @@ date = "2023-03-30 23:30:05"
 url = "contes/unicorns/report"
 tags = ["contes"]
 image = "https://carlesbellver.net/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg"
-googlefonts = ["Special Elite"]
+fonts = ["cuomotype"]
 note = "⚠️ ALERTA: <a href=\"/2023/04/02/tota-la-veritat/\">aquest informe és fals</a>."
 +++
 
@@ -15,9 +15,9 @@ note = "⚠️ ALERTA: <a href=\"/2023/04/02/tota-la-veritat/\">aquest informe �
 
 Junt amb una valoració general d’allò més espaterrant, transcrita a continuació, l’informe inclou una sinopsi de cada conte d’[*Unicorns*](/contes/unicorns/). Al meu parer són resums de molt poca qualitat, gramaticalment deficients i gens perspicaços, possiblement generats mitjançant algun procediment informàtic automatitzat com ara ChatGPT.
 
-> S'ha interceptat un conjunt de documents que consta de seixanta-quatre textos, els quals abasten un ampli ventall de temes. Diversos textos estan relacionats amb el món acadèmic i les discussions filosòfiques. Tanmateix, alguns poden suposar un risc per a la seguretat nacional a causa de la menció de casos potencials d'espionatge, experimentació nuclear i possible comunicació amb els morts. A més, altres textos tracten de la creació de llenguatges, desaparicions misterioses i conceptes estranys i ocults. L'accés a aquests textos s'ha de controlar acuradament i s'han de prendre precaucions per evitar una divulgació no autoritzades, atès que alguns continguts poden causar malestar social pels temes foscos i estranys.
+> S’ha interceptat un conjunt de documents que consta de seixanta-quatre textos, els quals abasten un ampli ventall de temes. Alguns se circumscriuen al món acadèmic i les discussions filosòfiques. Altres, tanmateix, poden representar un risc per a la seguretat nacional per les referències que contenen a casos possibles d’espionatge, experimentació nuclear i comunicació amb els morts. A més a més, altres tracten de la creació de llenguatges, desaparicions misterioses i conceptes ocults i estranys. Es recomana parar molt de compte a controlar l’accés a aquests materials i prendre precaucions per evitar una divulgació no autoritzada, atès que alguns passatges poden causar malestar social.
 > 
-> S'aconsella investigar més a fons, especialment [#24](/contes/unicorns/unicorns24) [#31](/contes/unicorns/unicorns31) [#41](/contes/unicorns/unicorns41) [#60](/contes/unicorns/unicorns60).
+> S'aconsella investigar-hi més a fons, especialment pel que fa als textos núm. [24](/contes/unicorns/unicorns24), [31](/contes/unicorns/unicorns31), [41](/contes/unicorns/unicorns41) i [60](/contes/unicorns/unicorns60).
 
 Algunes preguntes que em veig obligat a plantejar-me:
 
@@ -25,11 +25,11 @@ Algunes preguntes que em veig obligat a plantejar-me:
 2. Hauré de posar un *disclaimer* davant de cadascuna de les meues creacions literàries, tal com ja vaig haver de fer amb la [“Història del *Tombatossals*”](/contes/tombatossals/) quan algunes ànimes càndides la van prendre per informació fidedigna?
 3. Podria explicar açò que cap editorial haja volgut publicar el recull?
 
-Més avall, si us ve de gust, podeu consultar l’informe complet.
+Més avall, si us ve de gust, podeu consultar l’informe complet en la versió original en anglès.
 
 ---
 
-<div style="margin: 2em 0 1em; font-family: 'Special Elite'; font-size: 0.9em;  line-height: 1.75;">
+<div style="margin: 2em 0 1em; font-family: 'cuomotype'; font-size: 0.9em;  line-height: 1.75; text-transform: uppercase;">
 
 A set of documents containing 64 texts was intercepted, covering a wide range of topics. Several texts relate to academia and philosophical discussions. However, some texts may pose a risk to national security due to their mention of potential espionage, nuclear experimentation, and possible communication with the dead. Additionally, other texts deal with the creation of languages, mysterious disappearances and strange, occult concepts. Access to these texts should be carefully monitored, and precautions must be taken to prevent unauthorized disclosures, given the potential for some contents to cause social unrest due to their dark and eerie themes.
 
