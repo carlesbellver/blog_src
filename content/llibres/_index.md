@@ -4,21 +4,31 @@ description = "Informació sobre els llibres de Carles Bellver Torlà."
 image = "llibres.jpg"
 +++
 
-  - [*Unicorns*](/contes/unicorns) (2020)
-  - [*Un cel nou i una terra nova*](uncelnouiunaterranova) (Unaria, 2015)<br>Premi de narrativa breu Josep Pascual Tirado 2015.
-  - [*La nit mil dos*](lanitmildos) (Tria, 2013)
-  - [*Parèntesi*](parentesi) (Tria, 2011)<br>Publicat originalment amb el títol *L'home del calendari*.
-  - [*Lovecraft y cía*](lovecraftycia) (autoedición, 2008)
-  - [*La vida canina*](lavidacanina) (Brosquil, 2005)<br>Premi de narrativa Vila d'Almassora 2004.
-  - [*El llibre de tòpics*](elllibredetopics) (Brosquil, 2002)
-  - *Allò que és meu* (Bullent, 1993)
+{{< icon question >}} [Què han dit dels meus llibres](/opinions)
 
-## Opinions
+<div style="margin: 0;">
 
-- [Què han dit dels meus llibres](/opinions)
+<div style="display: flex; gap: 0 10px; margin: 0;">
 
-## Notes
+<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/llibres/parentesi"><img src="/llibres/parentesi/cover_small.jpg" style="width:140px;"></a></div>
+<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/llibres/lanitmildos"><img src="/llibres/lanitmildos/cover_small.jpg" style="width:140px;"></a></div>
+<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/llibres/uncelnouiunaterranova"><img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="width:140px;"></a></div>
+<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/contes/unicorns"><img src="/contes/unicorns/cover_small.jpg" style="width:140px;"></a></div>
 
-- Les edicions electròniques enllaçades en aquesta pàgina han estat preparades per mi, basant-me en els meus textos originals. He intentat incorporar-hi, sempre que ha estat possible, les correccions lingüístiques introduïdes per les editorials —procés en el qual dec haver-hi afegit noves errades. El resultat final només pot ser, per tant, responsabilitat meua.
-- Podeu baixar els llibres i utilitzar-los lliurement d’acord amb els termes de la llicència de Creative Commons [Reconeixement-NoComercial](http://creativecommons.org/licenses/by-nc/4.0/). És a dir, només els usos que impliquen una transacció econòmica requereixen la meua autorització prèvia, però **sempre** s’ha de reconèixer la meua autoria.
+</div>
 
+<div style="display: flex; gap: 0 10px; margin: 0;">
+
+<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><img src="/llibres/alloqueesmeu/cover_small.jpg" style="width:140px;"></div>
+<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><a href="/llibres/elllibredetopics"><img src="/llibres/elllibredetopics/cover_small.jpg" style="width:140px;"></a></div>
+<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><a href="/llibres/lavidacanina"><img src="/llibres/lavidacanina/cover_small.jpg" style="width:140px;"></a></div>
+<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><a href="/llibres/lovecraftycia"><img src="/llibres/lovecraftycia/cover_small.jpg" style="width:140px;"></a></div>
+
+</div>
+
+</div>
+
+- Les edicions electròniques enllaçades en aquesta pàgina han estat preparades per mi, basant-me en els meus textos originals.
+- Podeu baixar els llibres i utilitzar-los lliurement d’acord amb els termes de la llicència de Creative Commons [Reconeixement-NoComercial](http://creativecommons.org/licenses/by-nc/4.0/).
+- Transcorregut el termini de cessió de drets a les diferents editorials, tots els drets d’aquestes obres em pertanyen a mi com a autor.
+- Qualsevol editorial interessada a publicar o tornar a publicar algun d’aquests llibres pot contactar directament amb mi en la bústia [carles@carlesbellver.net](mailto:carles@carlesbellver.net).
