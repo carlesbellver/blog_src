@@ -6,26 +6,26 @@ image = "llibres.jpg"
 
 {{< icon question >}} [Què han dit dels meus llibres](/opinions)
 
-<div style="margin: 0;">
+<div style="margin: 1em 0;">
+<div style="display:flex;flex-wrap:wrap;gap: 0 10px;margin:0;">
 
-<div style="display: flex; gap: 0 10px; margin: 0;">
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/contes/unicorns"><img src="/contes/unicorns/cover_small.jpg" ></a></div>
 
-<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/llibres/parentesi"><img src="/llibres/parentesi/cover_small.jpg" style="width:140px;"></a></div>
-<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/llibres/lanitmildos"><img src="/llibres/lanitmildos/cover_small.jpg" style="width:140px;"></a></div>
-<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/llibres/uncelnouiunaterranova"><img src="/llibres/uncelnouiunaterranova/cover_small.jpg" style="width:140px;"></a></div>
-<div style="flex: 0 0 140px; margin: 0 auto; text-align: center;"><a href="/contes/unicorns"><img src="/contes/unicorns/cover_small.jpg" style="width:140px;"></a></div>
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/uncelnouiunaterranova"><img src="/llibres/uncelnouiunaterranova/cover_small.jpg"></a></div>
+
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/lanitmildos"><img src="/llibres/lanitmildos/cover_small.jpg"></a></div>
+
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/parentesi"><img src="/llibres/parentesi/cover_small.jpg"></a></div>
+
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/lovecraftycia"><img src="/llibres/lovecraftycia/cover_small.jpg"></a></div>
+
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/lavidacanina"><img src="/llibres/lavidacanina/cover_small.jpg"></a></div>
+
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/elllibredetopics"><img src="/llibres/elllibredetopics/cover_small.jpg"></a></div>
+
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><img src="/llibres/alloqueesmeu/cover_small.jpg"></div>
 
 </div>
-
-<div style="display: flex; gap: 0 10px; margin: 0;">
-
-<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><img src="/llibres/alloqueesmeu/cover_small.jpg" style="width:140px;"></div>
-<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><a href="/llibres/elllibredetopics"><img src="/llibres/elllibredetopics/cover_small.jpg" style="width:140px;"></a></div>
-<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><a href="/llibres/lavidacanina"><img src="/llibres/lavidacanina/cover_small.jpg" style="width:140px;"></a></div>
-<div style="flex: 0 0 auto; margin: 0 auto; text-align: center;"><a href="/llibres/lovecraftycia"><img src="/llibres/lovecraftycia/cover_small.jpg" style="width:140px;"></a></div>
-
-</div>
-
 </div>
 
 - Les edicions electròniques enllaçades en aquesta pàgina han estat preparades per mi, basant-me en els meus textos originals.
