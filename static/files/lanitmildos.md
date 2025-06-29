@@ -112,7 +112,7 @@ L’endemà, a punta de dia, al capdavall d’un sens fi de cigarretes, de molt 
 
 I al cap d’un moment, afegí:
 
-—No la deues vore mai? Em van dir que es casava. Ja era hora. Li deuen penjar ben bé les mamelles.
+—No la deus vore mai? Em van dir que es casava. Ja era hora. Li deuen penjar ben bé les mamelles.
 
 # Diabolus ursinus
 
