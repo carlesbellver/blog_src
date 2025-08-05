@@ -62,7 +62,7 @@
           </div>
           <div class="details">
             <a class="name" href="${toot.account.url}" rel="nofollow">${toot.account.display_name}</a>
-            <a class="date" href="${toot.url}" rel="nofollow">${toot.created_at.substr(0, 10)} ${toot.created_at.substr(11, 8)}</a>
+            <a class="date" href="${toot.account.url}" rel="nofollow" target="_blank">${new Date(toot.created_at).toLocaleDateString()} ${new Date(toot.created_at).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</a>
           </div>
           
         </div>
