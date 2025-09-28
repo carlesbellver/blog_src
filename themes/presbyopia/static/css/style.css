@@ -1245,8 +1245,7 @@ input.reset {
 }
 
 @media (max-width: 840px) {
-  .container {
-  max-width: 90%;
-  margin: 80px auto;
+  .common-header, .container {
+    max-width: 90%;
   }
 }
