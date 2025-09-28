@@ -11,3 +11,4 @@
 - correu: <a rel="me" href="mailto:carles@carlesbellver.net">carles@carlesbellver.net</a>
 - clau pública: <a href="https://keys.openpgp.org/search?q=carles%40carlesbellver.net" style="font-size: 90%;">45BCF9B0E21C041C8644D3E45EF7B9337F4BFF87</a>
 - fedivers: <a rel="me" href="https://mastodon.social/@carlesbellver">@carles@carlesbellver.net</a>
+- missatgeria: <a href="@carlesbellver:matrix.org">@carlesbellver:matrix.org</a>

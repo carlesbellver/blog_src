@@ -75,22 +75,21 @@ summary {
 }
 
 .common-header {
-  width: 100%;
-  position: fixed;
-  top: 0;
-  right: 0;
-  margin: 0;
+  width: 720px;
+  margin: 0 auto;
   background-color: var(--menu-bg-color);
+/*
   border-top: 2px solid #333;
   border-bottom: 1px solid #ccc;
+*/
   color: var(--menu-color);
   font-family: var(--font-header);
   z-index: 10;
 }
 
 .container {
-  max-width: 600px;
-  margin: 75px auto;
+  max-width: 720px;
+  margin: 0 auto;
   padding: 0 10px;
   z-index: 0;
 }
@@ -390,7 +389,7 @@ header a {
 
 header nav {
   display: block;
-  margin: 10px;
+  margin: 20px 0;
   /* font-size: 14px; */
   font-size: 0.7em;
   max-width: 100%;
@@ -398,7 +397,7 @@ header nav {
 }
 
 header nav a {
-  margin-left: 10px;
+  margin-right: 10px;
   text-transform: uppercase;
   letter-spacing: 0.01em;
   color: var(--menu-color);
@@ -480,7 +479,7 @@ header.post-header {
 }
 
 h1.blog-title {
-  margin: 1em 0;
+  margin: 0.5em 0;
   padding: 0;
   font-family: var(--font-heading);
   line-height: 1.2em;
