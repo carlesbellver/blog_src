@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "In memory of Borges"
 date = "2025-10-10T19:42:43+02:00"
 tags = ["fotos", "ressenyes"]
 photos = ["/uploads/2025/2025-10-10-in-memory-of-borges.jpg"]
@@ -7,7 +7,7 @@ slug = "in-memory-of-borges"
 fedurl = "https://mastodon.social/@carlesbellver/115351139990655190"
 +++
 
-*In memory of Borges*. Recull de conferències de l’[Anglo-Argentine Society](https://angloargentinesociety.org.uk), ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.
+{{< icon book >}} *In memory of Borges*. Recull de conferències de l’[Anglo-Argentine Society](https://angloargentinesociety.org.uk), ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.
 
 > El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…
 
