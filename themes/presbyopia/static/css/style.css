@@ -151,6 +151,14 @@ blockquote h2, blockquote h3 {
   border: none;
 }
 
+.source {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: 1em;
+  text-transform: uppercase;
+  color: var(--bq-color);
+}
+
 /* Links */
 
 a {
