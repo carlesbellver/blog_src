@@ -1,5 +1,6 @@
 +++
 title = "The Virgin Suicides"
+x_source = "Jeffrey Eugenides"
 date = "2024-05-12T16:55:55+02:00"
 tags = ["ressenyes", "citacions"]
 slug = "virgin-suicides"
