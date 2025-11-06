@@ -163,14 +163,17 @@ function displayResults(results) {
       if (results[i]["tags"].includes("retalls")) {
         item_type_link_node.innerHTML = "<img src=\"/svg.icons/link.svg\" class=\"inline\"> ";
       }
-			else if (results[i]["tags"].includes("fotos")) {
-					item_type_link_node.innerHTML = "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
+			else if (results[i]["tags"].includes("ressenyes")) {
+					item_type_link_node.innerHTML = "<img src=\"/svg.icons/book.svg\" class=\"inline\">";
 			}
 			else if (results[i]["tags"].includes("citacions")) {
 					item_type_link_node.innerHTML = "<img src=\"/svg.icons/quote.svg\" class=\"inline\">";
 			}
+			else if (results[i]["tags"].includes("fotos")) {
+					item_type_link_node.innerHTML = "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
+			}
 			else {
-					item_type_link_node.innerHTML = "<img src=\"/svg.icons/edit.svg\" class=\"inline\">";
+					item_type_link_node.innerHTML = "<img src=\"/svg.icons/hash.svg\" class=\"inline\">";
 			}
 			item_type_link_node.href = results[i]["url"];
 			item_date_node.appendChild(item_type_link_node);

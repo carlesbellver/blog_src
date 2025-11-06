@@ -156,14 +156,17 @@ function buildResultEl(r) {
   if (r["tags"].includes("retalls")) {
     $item_type_icon.src = "/svg.icons/link.svg";
   }
-  else if (r["tags"].includes("fotos")) {
-    $item_type_icon.src = "/svg.icons/eye.svg";
+  else if (r["tags"].includes("ressenyes")) {
+    $item_type_icon.src = "/svg.icons/book.svg";
   }
   else if (r["tags"].includes("citacions")) {
     $item_type_icon.src = "/svg.icons/smartquote.svg";
   }
+  else if (r["tags"].includes("fotos")) {
+    $item_type_icon.src = "/svg.icons/eye.svg";
+  }
   else {
-    $item_type_icon.src = "/svg.icons/edit.svg";
+    $item_type_icon.src = "/svg.icons/hash.svg";
   }
   $item_type_link.appendChild($item_type_icon);
   $item_type.appendChild($item_type_link);
