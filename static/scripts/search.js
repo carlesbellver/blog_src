@@ -170,7 +170,7 @@ function displayResults(results) {
 					item_type_link_node.innerHTML = "<img src=\"/svg.icons/quote.svg\" class=\"inline\">";
 			}
 			else if (results[i]["tags"].includes("fotos")) {
-					item_type_link_node.innerHTML = "<img src=\"/svg.icons/eye.svg\" class=\"inline\">";
+					item_type_link_node.innerHTML = "<img src=\"/svg.icons/image.svg\" class=\"inline\">";
 			}
 			else {
 					item_type_link_node.innerHTML = "<img src=\"/svg.icons/hash.svg\" class=\"inline\">";

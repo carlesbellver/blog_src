@@ -3,7 +3,7 @@
 
 <div class="small">
   <a href="/llibres">{{< icon book >}}</a> <a href="/llibres">LLIBRES</a>
-  <a href="/photos">{{< icon eye >}}</a> <a href="/photos">FOTOS</a>
+  <a href="/photos">{{< icon image >}}</a> <a href="/photos">FOTOS</a>
   <a href="/archive">{{< icon search >}}</a> <a href="/archive">CERCAR</a>
   <a href="/feed.xml" title="RSS">{{< icon "rss" >}}</a> <a href="/feed.xml" title="RSS">RSS</a>
 </div>

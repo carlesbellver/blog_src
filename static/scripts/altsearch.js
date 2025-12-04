@@ -163,7 +163,7 @@ function buildResultEl(r) {
     $item_type_icon.src = "/svg.icons/smartquote.svg";
   }
   else if (r["tags"].includes("fotos")) {
-    $item_type_icon.src = "/svg.icons/eye.svg";
+    $item_type_icon.src = "/svg.icons/image.svg";
   }
   else {
     $item_type_icon.src = "/svg.icons/hash.svg";
