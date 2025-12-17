@@ -993,10 +993,10 @@ h2.comments-heading {
 
 .mastodon-comment .author .avatar img {
   float: left;
-  margin-right: 0.5em;
+  margin-right: 0.25em;
   min-width: 20px;
   min-height: 20px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .mastodon-comment .author .details {
