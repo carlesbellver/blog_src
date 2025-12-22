@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+    <header class="post-header">
+      <h1 class="blog-title p-name">{{ .Site.Params.Author }}</h1>
+    </header>
+  
+    <div class="homepage-content">
+        {{ .Content }}
+    </div>
+
+  <article class="post-list">
+	{{ $list := where (where site.RegularPages "Type" "in" site.Params.indexSections) ".Title" "!=" "" }}
+	{{ range first site.Params.noPosts $list }}
+    {{ partial "postSummary.html" . }}
+	{{ end }}
+	</article>
+	
+	<div class="pagination">
+	  <span class="pagination-item"><img class="icon" src="/svg.icons/search.svg" /> <a href="/archive">Tots els apunts del blog</a></span>
+	</div>
+
+{{ end }}

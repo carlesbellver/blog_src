@@ -1,0 +1,21 @@
+name = "Hyperopia"
+license = ""
+description = "A minimal Hugo theme"
+homepage = ""
+tags = [
+    "blog", 
+    "responsive",
+    "personal",
+    "minimal", 
+    "clean",
+    "simple", 
+    "light",
+    "dark",
+    "mobile",
+    "fast",
+]
+features = ["blog"]
+
+[author]
+    name = ""
+    homepage = ""

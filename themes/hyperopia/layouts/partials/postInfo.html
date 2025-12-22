@@ -1,0 +1,19 @@
+{{ $dateFormat := "2006-01-02" }}
+{{ if .Site.Params.dateFormat }}
+    {{ $dateFormat = .Site.Params.dateFormat }}
+{{ end }}
+
+<ul class="post-info">
+    {{ if .Params.date }}
+      <li><img class="icon" src="{{ site.BaseURL }}/svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="{{ .RelPermalink }}"><span class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</span></a></li>
+      {{ if .Params.tags }}
+      <li><ul class="post-tags">{{ range $tag := sort (uniq .Params.tags) }}<li><img class="icon" src="{{ site.BaseURL }}/svg.icons/tag.svg" alt="tag" /> {{ if eq $tag "fotos" }}<a href="/photos/">Fotos</a>{{ else }}<a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>{{ end }}</li> {{ end }}</ul></li>
+      {{ end }}
+      {{ if gt .ReadingTime 2 }}<li><span class="readingtime"><img class="icon" src="{{ site.BaseURL }}/svg.icons/clock.svg" alt="clock" /> {{ .ReadingTime }} minuts</span></li>{{ end }}
+      {{- if or .Params.license (eq .Type "tmp") -}}<li><img class="icon" src="{{ site.BaseURL }}/svg.icons/copyright.svg" alt="copyright" />️ {{ .Site.Params.author }}</li>{{- end}}
+      <li><a href="https://shareopenly.org/share/?url={{ .Permalink }}&text={{- if .Params.title -}}{{- .Params.title -}}{{- else -}}{{ .Plain | truncate 40 }}{{- end -}}" title="Compartir aquesta pàgina"><img class="icon" src="{{ site.BaseURL }}/svg.icons/share_openly.svg" alt="icona de compartir" />️</a> <a href="https://shareopenly.org/share/?url={{ .Permalink }}&text={{- if .Params.title -}}{{- .Params.title -}}{{- else -}}{{ .Plain | truncate 40 }}{{- end -}}" title="Compartir aquesta pàgina">Compartir</a></li>
+      <li><a href="mailto:{{ .Site.Params.email }}?subject=Re:%20{{- if .Params.title -}}{{ .Params.title }}{{- else -}}{{ .Plain | truncate 40 }}{{- end -}}&body=%0A%0A{{- .Permalink -}}" title="Contestar a l’autor per correu"><img class="icon" src="{{ site.BaseURL }}/svg.icons/email.svg" alt="icona de correu" />️</a> <a href="mailto:{{ .Site.Params.email }}?subject=Re:%20{{- if .Params.title -}}{{ .Params.title }}{{- else -}}{{ .Plain | truncate 40 }}{{- end -}}&body=%0A%0A{{- .Permalink -}}" title="Contestar a l’autor per correu">Contestar</a></li>
+    {{ end }}
+</ul>
+
+    {{ partial "license.html" . }}

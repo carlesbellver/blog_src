@@ -1,0 +1,6 @@
+          {{ $hashtags := (dict "#UJI" "<a href=\"/tags/uji/\">#UJI</a>" "#Castelló" "<a href=\"/tags/castelló/\">#Castelló</a>" "#Morella" "<a href=\"/tags/morella/\">#Morella</a>") }}
+          {{ $.Scratch.Set "htContent" .Content }}
+          {{ range $k, $v := $hashtags }}
+            {{ $.Scratch.Set "htContent" (replace ($.Scratch.Get "htContent") $k $v) }}
+          {{ end }}
+          {{ $.Scratch.Get "htContent" | safeHTML }}

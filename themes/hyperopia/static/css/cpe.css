@@ -1,0 +1,38 @@
+.index-content, .content {
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+}
+
+#main h1 {
+}
+
+#main h2 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+#main h3 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.index-content ul {
+  list-style-type: disc;
+}
+
+.content blockquote {
+    margin: 1em 0;
+    border-left: 1px solid var(--bq-color);
+    padding: 0 0 0 1em;
+    color: var(--bq-color);
+}
+
+.content blockquote:before {
+    font-size: 100%;
+    color: var(--bq-color);
+    content: "";
+    top: 0;
+    left: -0.5em;
+}

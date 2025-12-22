@@ -1,0 +1,44 @@
+powered:
+  other: "funciona amb"
+
+theme:
+  other: "tema"
+
+readMore:
+  other: "continua"
+
+toNewPosts:
+  other: "posteriors"
+
+toOldPosts:
+  other: "anteriors"
+
+tag:
+  other: "etiqueta"
+
+Tags:
+  other: "Etiquetes"
+
+Posts:
+  other: "Entrades"
+
+category:
+  other: "categoria"
+
+Categories:
+  other: "Categories"
+
+toAllTags:
+  other: "totes les etiquetes"
+
+toAllCategories:
+  other: "totes les categories"
+
+skipToContent:
+  other: "principal"
+
+darkTheme:
+  other: "fosc"
+
+lightTheme:
+  other: "clar"

@@ -1,0 +1,13 @@
+<nav>
+  <div id="quickctrl">
+    <ul id="quicklinks">
+      <li><a class="h-card" rel="me" href="{{ .Site.BaseURL }}">Inici</a>
+      {{ if .Site.Menus.main }}
+        {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | absLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+        {{ end }}
+      {{ end }}
+      <li>{{ partial "themeSwitcher.html" }}</li>
+    </ul>
+  </div>
+</nav>

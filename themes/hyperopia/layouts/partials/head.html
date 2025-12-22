@@ -1,0 +1,92 @@
+<!-- Basic stuff -->
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>{{ .Site.Params.Author }}{{ if (not .IsHome) }} :: {{ if (.Title) }}{{ .Title }}{{ else if (.Params.X_title) }}{{ .Params.X_title }}{{ else if (.Params.date) }}{{ .Params.date | time.Format "2006-01-02 15:04" }}{{ else }}(sense títol){{ end }}{{ end }}</title>
+<meta name="author" content="{{- if .Params.Author }}{{ .Params.Author }}{{ else }}{{ .Site.Params.Author }}{{- end -}}">
+<meta name="description" content="{{ .Description }}">
+
+<meta name="fediverse:creator" content="@{{- .Site.Params.MastodonUser -}}@{{- .Site.Params.MastodonHost -}}">
+
+{{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
+<link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
+<link rel="apple-touch-icon" href="{{ "favicon.png" | absURL }}">
+
+{{ if .Params.fonts -}}
+<style>
+{{ range $font := .Params.fonts }}
+  @font-face { font-family: '{{- $font -}}'; src: url(/fonts/{{- $font -}}.ttf) }
+{{ end -}}
+</style>
+{{ end -}}
+
+
+{{ if .Params.googlefonts -}}
+<style>
+{{ range $font := .Params.googlefonts }}
+@import url('https://fonts.googleapis.com/css2?family={{ $font }}&display=swap');
+{{ end -}}
+</style>
+{{ end -}}
+
+<link rel="stylesheet" href="{{ "css/light.css" | absURL }}?rnd={{ now.Unix }}" />
+{{ partial "cssColors.html" }}
+<link rel="stylesheet" href="{{ "css/style.css" | absURL }}?rnd={{ now.Unix }}" />
+
+<link rel="stylesheet" href="{{ "css/poststats.css" | absURL }}?rnd={{ now.Unix }}" />
+
+{{ if .Site.Params.openfreemap -}}
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+{{- end -}}
+
+{{ if .Site.Params.lightbox -}}
+<link rel="stylesheet" href="{{ "css/lightbox.css" | absURL }}?rnd={{ now.Unix }}" />
+<script type="text/javascript" src="{{ "js/lightbox.js" | absURL }}?rnd={{ now.Unix }}"></script>
+{{- end -}}
+
+{{ range .Site.Params.customCSS -}}
+<link rel="stylesheet" href="{{ . | absURL }}?rnd={{ now.Unix }}">
+{{- end }}
+
+{{ if eq .Section "CPE" }}<link rel="stylesheet" href="{{ "css/cpe.css" | absURL }}?rnd={{ now.Unix }}" />{{- end }}
+
+{{ range .Site.Params.customJS -}}
+<script src="{{ . | absURL }}?rnd={{ now.Unix }}" type="text/javascript" charset="utf-8"></script>
+{{- end }}
+
+
+<!-- IndieWeb -->
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+{{ if .Site.Params.Webmentions -}}
+<!-- Webmentions -->
+<link rel="webmention" href="https://webmention.io/carlesbellver.net/webmention" />
+<link rel="pingback" href="https://webmention.io/carlesbellver.net/xmlrpc" />
+<link rel="stylesheet" href="{{ "/scripts/webmention.css" | absURL }}?rnd={{ now.Unix }}" />
+{{- end }}
+
+{{ partial "opengraph.html" . }}
+{{ partial "twitter_cards.html" . }}
+
+<!-- Article tags -->
+<!-- <meta property="article:published_time" content="">
+<meta property="article:modified_time" content="">
+<meta property="article:tag" content="">
+<meta property="article:publisher" content=""> -->
+{{ with .File }}<meta name="page-source-path" content="{{ .Path }}">{{end }}
+
+{{ partial "head-extra.html" . }}
+
+{{ if .Params.titleIt }}
+<style type="text/css">
+  h1.post-title { font-style: italic; }
+</style>
+{{ end }}

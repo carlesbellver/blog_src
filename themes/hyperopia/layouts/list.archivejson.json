@@ -1,0 +1,19 @@
+[
+  {{- $list := (where site.AllPages "Type" "in" site.Params.indexSections) -}}
+  {{- $len := (len $list) -}}
+  {{ range $index, $value := $list }}
+    {{- if .Plain }}
+      {
+        "id": {{ $index }},
+        {{- if .Title }}
+        "title": {{ .Title | jsonify }},
+        {{- end }}
+        "date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
+        "url": "{{ .Permalink | relURL }}",
+        "tags": "{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}",
+        "content_text": {{ .Plain | truncate 2000 | jsonify }}
+      }
+      {{- if ne (add $index 1) $len -}},{{- end -}}
+    {{ end -}}
+  {{ end }}
+]

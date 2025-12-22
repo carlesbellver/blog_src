@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+  <header class="post-header">
+    <h1 class="post-title p-name"><span id="search_pattern"></span><span id="no_hits"></span></h1>
+  </header>
+
+<form class="search" onSubmit="return false;">
+	<input class="field" type="text" name="q" id="input_search" placeholder="Paraules clau" onChange="document.location.href='/archive/?q='+this.value.toLowerCase();">
+	<input class="submit" role="button" type="submit" value="Busca" onClick="document.location.href='/archive/?q='+document.getElementById('input_search').toLowerCase();">
+	<input class="reset" role="button" type="reset" value="Reinicia" onClick="document.location.href='/archive/?q='">
+</form>
+
+<script src="/scripts/minisearch.js" defer></script>
+<script src="/scripts/altsearch.js" defer></script>
+
+  <article id="list_results" class="post-list">
+    <p id="srch_notice">Espereu un moment…</p>
+  <noscript>
+    <p>⚠️ No teniu habilitat el Javascript o el vostre navegador no és compatible.
+    <p>Aquesta pàgina utilitza JavaScript per a carregar un índex de les pàgines del lloc i buscar-hi paraules clau.</p>
+    </noscript>
+{{/*
+ 	{{ $list := (where site.AllPages "Type" "in" site.Params.mainSections) }}
+	{{ range $list }}
+		{{ if .Plain }}
+      {{ partial "postSummary.html" . }}
+    {{ end }}
+	{{ end }}
+	</article>
+*/}}	
+{{ end }}
+

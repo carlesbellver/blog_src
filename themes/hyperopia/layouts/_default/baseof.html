@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+{{ $dataTheme := "" }}
+{{ if eq site.Params.style "dark-without-switcher" }}
+  {{ $dataTheme = "dark" }}
+{{ end }}
+<html lang="{{ .Site.LanguageCode }}" data-theme="{{ $dataTheme }}">
+<head>
+  {{ block "head" . }}
+    {{ partial "head.html" . }}
+  {{ end }}
+</head>
+<body>
+  <a class="skip-main" href="#main">{{ i18n "skipToContent" | humanize }}</a>
+  <div class="container">
+		<aside class="sidebar"> 
+			{{ block "header" . }}
+			{{ partial "header.html" . }}
+			{{ end }}
+		</aside>
+    <main id="main" class="main" tabindex="-1">
+      <div class="content">
+        {{ block "main" . }}{{ end }}
+      </div>
+			{{ if site.Params.webmentions -}}
+				{{ partial "webmentions.html" . }}
+			{{- end }}
+			{{ if .Site.Params.fediverse -}}
+				{{ partial "fedicomments.html" . }}
+			{{ end -}}
+    </main>
+  </div>
+  {{ if .Site.Params.stats -}}<script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>{{- end }}
+</body>
+</html>

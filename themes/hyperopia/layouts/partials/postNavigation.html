@@ -1,0 +1,16 @@
+    {{ if or (and .Parent .Parent.Name (ne .Parent.Name .Site.Title)) (gt .ReadingTime 4) }}
+      <ul class="post-navigation">
+        {{ if .Parent }}
+          <li>
+          {{ if eq .Parent.Name "Posts" }}
+            <a href="{{ .Site.BaseURL }}" title="Inici">Inici</a>
+          {{ else if eq .Parent.Name "Esborranys privats" }}
+            Esborrany privat
+          {{ else if .Parent.Name }}
+            <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
+          {{ end }}
+          </li>
+        {{ end }}
+        {{ if gt .ReadingTime 4 }}<li><span class="readingtime"><img class="icon" src="{{ site.BaseURL }}/svg.icons/clock.svg" alt="clock" /> {{ .ReadingTime }} minuts</span></li>{{ end }}
+      </ul>
+    {{ end }}

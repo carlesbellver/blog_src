@@ -1,0 +1,55 @@
+{{ define "main" }}
+    
+    <article class="post{{ range $tag := .Params.tags }} {{ $tag }}{{end }} h-entry">
+
+      {{ partial "postNavigation.html" . }}
+
+      {{ if .Title -}}
+      <header class="post-header">
+      
+        {{- if .Params.x_source -}}
+        <p class="source">{{ .Params.x_source }}</p>
+        {{- end -}}
+        
+        {{- if .Params.x_url -}}
+          <h1 class="post-title external"><img src="/svg.icons/{{- if .Params.x_icon -}}{{- .Params.x_icon -}}{{- else -}}link{{- end -}}.svg"> <a href="{{- .Params.x_url -}}">{{ trim .Title  " " }}</a></h1>
+        {{- else -}}
+          <h1 class="post-title">{{ trim .Title  " " }}</h1>
+        {{- end -}}
+      {{- end }}
+
+      {{ if .Params.subtitle -}}
+      <h2 class="subtitle">{{ trim .Params.subtitle " " }}</h2>
+      {{- end }}
+      
+      {{ if .Params.Author -}}
+        <div class="author">
+          {{ .Params.Author }}
+        </div>      
+      {{- end }}
+      
+      {{ if .Params.Note }}
+        <div class="note">
+          {{ .Params.Note | safeHTML }}
+        </div>
+      {{- end }}
+
+      </header>
+            
+      <div class="content e-content">
+        {{ partial "ht_content.html" . }}
+        {{ if .Params.map }}{{ partial "map_mapquest.html" . }}{{ end }}
+        {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
+      </div>
+      
+      {{ partial "postDirections.html" . }}
+      
+      {{ partial "postInfo.html" . }}
+
+    </article>
+    
+    {{ if and (.Site.Params.paginationSinglePost) (ne .Type "page") }}
+        {{ partial "paginationPost.html" . }}
+    {{ end }}
+
+{{ end }}

@@ -1,0 +1,75 @@
+{{ $posts := where site.RegularPages "Type" "in" site.Params.indexSections }}
+
+{{ $titlePostsCount := len ( where $posts ".Params.title" "!=" nil ) }}
+{{ $microPostsCount := len ( where $posts ".Params.title"  "=" nil ) }}
+
+{{ $scratch := newScratch }}
+{{ range $posts }}
+    {{ $scratch.Add "wordcount" .WordCount }}
+{{ end }}
+
+{{ $postCount := len ($posts) }}
+{{ $wordCount := $scratch.Get "wordcount" }}
+{{ $avgPostLength := div $wordCount $postCount }}
+<table class="post-stats-tbl">
+    <tr>
+        <td width="40%">Nombre d'apunts</td>
+        <td width="60%">{{ $postCount }}</td>
+    </tr>
+    <tr>
+		<td>Paraules en total</td>
+		<td>{{ $wordCount }}{{ if gt $wordCount 40000 }} ({{ div $wordCount 40000 }} novel·les){{ end }}</td>
+	</tr>
+    <tr>
+		<td>Mitjana de paraules per apunt</td>
+		<td>{{ $avgPostLength }}</td>
+	</tr>
+    <tr>
+		<td>Apunt més antic</td>
+		<td>
+            {{ range last 1 $posts }}
+                {{ if .Title }}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ .Date.Format "2006-01-02" }}
+				{{ else }}<a href="{{ .Permalink }}">Apunt sense títol</a> {{ .Date.Format "2006-01-02" }} 
+				{{ end }}
+            {{ end }}
+		</td>
+	</tr>
+    <tr>
+		<td>Apunts amb títol</td>
+		<td>{{ $titlePostsCount }}</td>
+	</tr>
+    <tr>
+		<td>Apunts sense títol</td>
+		<td>{{ $microPostsCount }}</td>
+	</tr>
+</table>
+
+{{ $grouped := $posts.GroupByDate "2006" }}
+
+<h2 class="post-stats-hd">Apunts per any</h2>
+<table class="post-stats-tbl">
+    <tr>
+        <td width="20%">Any</td>
+        <td width="30%">Nombre d'apunts</td>
+    </tr>
+    {{ range $grouped }}
+    <tr>
+        <td>{{ .Key }}</td>
+        <td>{{ len (where .Pages "Type" "in" "posts") }}</td>
+    </tr>
+    {{ end }}
+</table>
+
+<h2 class="post-stats-hd">Apunts per etiqueta</h2>
+<table class="post-stats-tbl">
+    <tr>
+        <td width="20%">Etiqueta</td>
+        <td width="30%">Nombre d'apunts</td>
+    </tr>
+    {{ range $key, $taxonomy := .Site.Taxonomies.tags.ByCount }}
+    <tr>
+        <td><a href="/tags/{{ $taxonomy.Name | urlize }}">{{ $taxonomy.Name }}</a></td>
+        <td>{{ $taxonomy.Count }}</td>
+    </tr>
+    {{ end }}
+</table>

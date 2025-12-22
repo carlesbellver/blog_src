@@ -1,0 +1,1 @@
+Hugo theme based on [Anubis](https://github.com/mitrichius/hugo-theme-anubis).
