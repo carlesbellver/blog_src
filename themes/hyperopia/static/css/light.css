@@ -7,11 +7,11 @@
 
     --foot-color: #666;
 
-    --menu-color: #333;
+    --menu-color: #666;
     --menu-bg-color: #fff;
 
-    --link-color:#0000cc;
-    --link-state-color:#990099;
+    --link-color: #991111;
+    --link-state-color: #991111;
 
     --thead-bg-color: lightgrey;
     --table-border-color: lightgrey;
@@ -30,5 +30,5 @@
     --post-info-color: #666;
 
     --switcher-color: #fff;
-    --switcher-bg-color: #333; 
+    --switcher-bg-color: #666; 
 }
