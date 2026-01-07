@@ -2,7 +2,7 @@ baseURL = "https://carlesbellver.net/"
 canonifyURLs = true
 languageCode = "ca-es"
 title = "La vista cansada"
-theme = "presbyopia"
+theme = "hyperopia"
 publishDir = "public"
 uglyurls = false
 summaryLength = 50
@@ -77,6 +77,12 @@ DefaultContentLanguage = "ca"
     name = "Cercar"
     url = "/archive/"
     weight = 7
+
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/feed.xml"
+    weight = 8
 
 [mediaTypes]
   [mediaTypes.'text/markdown']

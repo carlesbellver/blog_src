@@ -7,12 +7,8 @@
       {{ if .Title -}}
       <header class="post-header">
       
-        {{- if .Params.x_source -}}
-        <p class="source">{{ .Params.x_source }}</p>
-        {{- end -}}
-        
         {{- if .Params.x_url -}}
-          <h1 class="post-title external"><a href="{{- .Params.x_url -}}">{{ trim .Title  " " }}</a></h1>
+          <h1 class="post-title external"><a href="{{- .Params.x_url -}}">{{ trim .Title  " " }}</a> <img src="/svg.icons/{{- if .Params.x_icon -}}{{- .Params.x_icon -}}{{- else -}}link{{- end -}}.svg"></h1>
         {{- else -}}
           <h1 class="post-title">{{ trim .Title  " " }}</h1>
         {{- end -}}
@@ -27,7 +23,7 @@
           {{ .Params.Author }}
         </div>      
       {{- end }}
-      
+
       {{ if .Params.Note }}
         <div class="note">
           {{ .Params.Note | safeHTML }}
@@ -41,10 +37,12 @@
         {{ if .Params.map }}{{ partial "map_mapquest.html" . }}{{ end }}
         {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
       </div>
-      
+            
       {{ partial "postDirections.html" . }}
-      
+
       {{ partial "postInfo.html" . }}
+      
+      {{ partial "license.html" . }}
 
     </article>
     

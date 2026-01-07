@@ -5,30 +5,30 @@
 
     --note-bg-color: #eee;
 
-    --foot-color: #666;
+    --foot-color: #333;
 
-    --menu-color: #666;
+    --menu-color: #333;
     --menu-bg-color: #fff;
 
-    --link-color: #991111;
-    --link-state-color: #991111;
+    --link-color: #a00000;
+    --link-state-color: #a00000;
 
     --thead-bg-color: lightgrey;
     --table-border-color: lightgrey;
 
-    --pre-color: #666;
+    --pre-color: #333;
     --pre-bg-color: #f0f0f0;
     
-    --bq-bar-color: #666;
-    --bq-color: #666;
+    --bq-bar-color: #333;
+    --bq-color: #333;
     
     --hr-color: #eee;
 
     --pagination-bg-color: #fafafa;
     --pagination-link-color: #696969;
 
-    --post-info-color: #666;
+    --post-info-color: #333;
 
     --switcher-color: #fff;
-    --switcher-bg-color: #666; 
+    --switcher-bg-color: #333; 
 }

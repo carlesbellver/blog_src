@@ -2,7 +2,7 @@
 
 :root {
   --font: Georgia, Cambria, Times, "Times New Roman", serif;
-  --font-heading: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  --font-heading: Georgia, Cambria, Times, "Times New Roman", serif;
   --font-header: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   --font-details: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
   --font-bq: Georgia, Cambria, Times, "Times New Roman", serif;
@@ -87,8 +87,8 @@ summary {
 
 .sidebar {
   grid-area: sidebar;
-  margin: 0 0;
-  padding: 2em 0;
+  margin: 3.5em 2em 1em 0;
+  padding: 0;
   color: var(--menu-color);
   font-family: var(--font-header);
   line-height: 2;
@@ -100,7 +100,7 @@ summary {
 }
 
 #quickctrl {
-  font-size: 0.7em;
+  font-size: 0.75em;
   text-transform: uppercase;
   text-align: right;
 }
@@ -125,7 +125,16 @@ ul#quicklinks {
     grid-template-columns: 100%;
     grid-template-rows: auto auto;
   }
-
+  .sidebar {
+    margin: 1em;
+    padding: 0;
+  }
+  #quickctrl {
+    text-align: center;
+  }
+  .main {
+    padding: 1em;
+  }
 }
 
 main {
@@ -144,11 +153,28 @@ main {
   padding-left: 0;
 }
 
+.signature {
+  margin: 1em 0;
+  font-family: var(--font-details);
+  font-size: 0.75em;
+  text-transform: uppercase;
+}
+
+.signature a {
+  color: var(--post-info-color);
+  text-decoration: none;
+}
+
+.signature a:visited {
+  color: var(--post-info-color);
+}
+
 /* Headers */
 
 h1, h2, h3 {
   margin: 1em 0;
-  font-family: var(--font-heading);
+  border-bottom: none;
+  font-family: var(--font-details);
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.01em;
@@ -157,27 +183,24 @@ h1, h2, h3 {
 }
 
 h1 {
-  /* font-size: 40px; */
-  font-size: 2em;
+  font-family: var(--font-heading);
+  font-size: 2.5em;
+  line-height: 1.1;
+  font-weight: 800;
+  text-transform: none;
 }
 
 h2 {
-  /* font-size: 30px; */
   font-size: 1.25em;
-  border-bottom: 1px solid #333;
 }
 
 h2.subtitle {
-  /* font-size: 20px; */
   margin-top: -0.5em;
   font-size: 1.25em;
-  border-bottom: none;
 }
 
 h3 {
-  /* font-size: 20px; */
   font-size: 1em;
-  border-bottom: 1px solid #333;
 }
 
 blockquote h2, blockquote h3 {
@@ -187,8 +210,8 @@ blockquote h2, blockquote h3 {
 
 .source {
   margin: 0;
-  font-family: var(--font-heading);
-  font-size: 1em;
+  font-family: var(--font-details);
+  font-size: 0.75em;
   text-transform: uppercase;
   color: var(--bq-color);
 }
@@ -341,7 +364,7 @@ blockquote {
 
 .citacions blockquote:before {
   display: block;
-  margin: -50px 0 -175px -10px;
+  margin: -75px 0 -175px -10px;
   content: "“";
   font-family: var(--font-bq);
   /* font-size: 200px; */
@@ -659,14 +682,14 @@ main article .content p {
 
 .post-directions {
   background: var(--bg-color);
-  margin: 1em 0 2em;
+  margin: 1em 0;
   max-width: 100%;
-  padding: 5px 0;
+  padding: 0;
   font-family: var(--font-details);
   font-size: 0.7em;
   text-transform: uppercase;
-  letter-spacing: 0.01em;
   color: var(--post-info-color);
+  text-align: center;
 }
 
 .post-directions .prev {
@@ -690,6 +713,9 @@ article header h1 a {
 
 article header h1.external {
   font-size: 1.5em;
+  font-family: var(--font-details);
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 article header h1.external a {
@@ -729,13 +755,11 @@ article header h1.external a {
 }
 
 .license {
-  margin: -10px 0 0 0;
+  margin: 1em 0;
   font-family: var(--font-details);
-  /* font-size: 14px; */
-  font-size: 0.7em;
+  font-size: 0.75em;
   color: var(--post-info-color);
   text-transform: uppercase;
-  letter-spacing: 0.01em;
 }
 
 img.icon {
@@ -756,7 +780,7 @@ img.thumbnail {
 }
 
 .license p {
-  margin: 0 0 10px 0;
+  margin: 1em 0;
 }
 
 .license a {
@@ -765,10 +789,10 @@ img.thumbnail {
 
 .post-info {
   margin: 0;
-  padding: 20px 0;
+  padding: 0 0 1em 0;
   font-family: var(--font-details);
   /* font-size: 14px; */
-  font-size: 0.7em;
+  font-size: 0.75em;
   color: var(--post-info-color);
   text-transform: uppercase;
   
@@ -817,11 +841,31 @@ img.thumbnail {
   margin-right: 10px;
 }
 
-.post-tags {
+ul.post-tags {
+  list-style-type: none;
+  margin: 1em 0;
+  padding: 0;
+  font-family: var(--font-details);
+  font-size: 0.75em;
+  text-transform: uppercase;
+}
+
+.post-tags li {
+  display: inline;
+  margin 0 1em 0 0;
 }
 
 .post-tags li:last-child {
   margin: 0;
+}
+
+.post-tags li a {
+  color: var(--post-info-color);
+  text-decoration: none;
+}
+
+.post-tags li a:visited {
+  color: var(--post-info-color);
 }
 
 .reply-by-email {
@@ -834,7 +878,7 @@ article .content img, .index-content img {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 1em auto;
+  margin: 1em 0;
   border-radius: 5px;
 }
 
@@ -934,14 +978,15 @@ div#chumby img.chumby-display {
 /* comments */
 
 .comments {
+  margin: 2em 0 1em;
   font-family: var(--font-details);
   font-size: 0.8em;
 }
 
 h2.comments-heading {
   margin-bottom: 0;
-  border-bottom: 1px solid #999;
   font-size: 1.25em;
+  color: var(--post-info-color);
 }
 
 .mastodon-comment {

@@ -1,14 +1,16 @@
-    {{ if or (and .Parent .Parent.Name (ne .Parent.Name "Posts") (ne .Parent.Name .Site.Title)) (gt .ReadingTime 4) }}
-      <ul class="post-navigation">
-        {{ if .Parent }}
-          <li>
-          {{ if eq .Parent.Name "Esborranys privats" }}
-            Esborrany privat
-          {{ else }}
-            <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
-          {{ end }}
-          </li>
-        {{ end }}
-        {{ if gt .ReadingTime 4 }}<li><span class="readingtime"><img class="icon" src="{{ site.BaseURL }}/svg.icons/clock.svg" alt="clock" /> {{ .ReadingTime }} minuts</span></li>{{ end }}
-      </ul>
-    {{ end }}
+{{ $dateFormat := "2006-01-02" }}
+{{ if .Site.Params.dateFormat }}
+    {{ $dateFormat = .Site.Params.dateFormat }}
+{{ end }}
+
+{{ if and .Parent.Name (ne .Parent.Name "Posts") }}
+<ul class="post-info">
+		<li>
+		{{ if eq .Parent.Name "Esborranys privats" }}
+			<img class="icon" src="{{ site.BaseURL }}/svg.icons/archive.svg" alt="carpeta" /> Esborrany privat
+		{{ else if and .Parent.Name (ne .Parent.Name "Posts") }}
+			<img class="icon" src="{{ site.BaseURL }}/svg.icons/archive.svg" alt="carpeta" /> <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
+		{{ end }}
+		</li>
+</ul>
+{{ end }}

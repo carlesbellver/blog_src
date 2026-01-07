@@ -2,7 +2,7 @@
 title = "La zona d’interès"
 date = "2026-01-05T23:30:45+01:00"
 tags = ["ressenyes"]
-slug = ""
+slug = "zona-interes"
 x_url = ""
 x_source = "Martin Amis"
 fedurl = "https://mastodon.social/@carlesbellver/115844847947567258"
