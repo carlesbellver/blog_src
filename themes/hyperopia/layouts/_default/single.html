@@ -1,6 +1,6 @@
 {{ define "main" }}
     
-    <article class="post{{ range $tag := .Params.tags }} {{ $tag }}{{end }} h-entry">
+    <article class="post{{ if .Params.tags}}{{ range $tag := .Params.tags }} {{ $tag }}{{end }}{{ else }} regular{{ end }} h-entry">
 
       {{ partial "postNavigation.html" . }}
 
@@ -32,7 +32,7 @@
 
       </header>
             
-      <div class="content e-content">
+      <div class="content e-content size_{{ div (.Content | plainify | len) 100 }}">
         {{ partial "ht_content.html" . }}
         {{ if .Params.map }}{{ partial "map_mapquest.html" . }}{{ end }}
         {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}

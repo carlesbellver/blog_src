@@ -134,7 +134,10 @@ ul#quicklinks {
     padding: 0;
   }
   #quickctrl {
-    text-align: center;
+    text-align: left;
+  }
+  ul#quicklinks {
+    margin: 0 1em;
   }
   .main {
     padding: 1em;
@@ -641,6 +644,18 @@ main article .content {
 
 main article .content p {
   text-wrap: pretty;
+}
+
+.regular .size_0 {
+  font-size: 1.75em;
+}
+
+.regular .size_1 {
+  font-size: 1.5em;
+}
+
+.regular .size_2 {
+  font-size: 1.25em;
 }
 
 .post-navigation {
