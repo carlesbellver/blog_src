@@ -3,14 +3,21 @@
     {{ $dateFormat = .Site.Params.dateFormat }}
 {{ end }}
 
-{{ if and .Parent.Name (ne .Parent.Name "Posts") }}
 <ul class="post-info">
-		<li>
+    <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/at.svg" alt="autor" /><a href="/about">{{ site.Params.Handle }}</a></span></li>
+    {{ if and .Params.date (eq .Parent.Name "Posts") }}
+      <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/calendar.svg" alt="calendari" /> <a class="u-url" href="{{ .RelPermalink }}"><span class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</span></a></span></li>
+    {{ end }}
+    {{ if and .Parent.Name (ne .Parent.Name "Posts") }}
+		  <li><span class="nobr">
 		{{ if eq .Parent.Name "Esborranys privats" }}
-			<img class="icon" src="{{ site.BaseURL }}/svg.icons/archive.svg" alt="carpeta" /> Esborrany privat
-		{{ else if and .Parent.Name (ne .Parent.Name "Posts") }}
-			<img class="icon" src="{{ site.BaseURL }}/svg.icons/archive.svg" alt="carpeta" /> <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
+			<img class="icon" src="{{ site.BaseURL }}/svg.icons/archive.svg" alt="carpeta" /> Esborrany privat
+		{{ else }}
+			<img class="icon" src="{{ site.BaseURL }}/svg.icons/archive.svg" alt="carpeta" /> <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
 		{{ end }}
-		</li>
+		{{ end }}
+		  </span></li>
+    {{ if .Params.tags }}
+      {{ range $tag := sort (uniq .Params.tags) }}<li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/tag.svg" alt="Etiqueta" /> {{ if eq $tag "fotos" }}<a href="/photos/">fotos</a>{{ else }}<a href="/tags/{{ $tag | urlize }}">{{- $tag -}}</a>{{ end }}</span></li> {{ end }}
+		{{ end }}
 </ul>
-{{ end }}

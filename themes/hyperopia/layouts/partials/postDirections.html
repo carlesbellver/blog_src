@@ -1,7 +1,7 @@
     {{ if or (.Params.prev) (.Params.next) }}
       <div class="post-directions">
         {{ if .Params.prev }}<span class="prev"><a href="{{ .Params.prev }}" title="anterior"><img class="icon" src="{{ site.BaseURL }}svg.icons/arrow-circle-left.svg" /></a> <a href="{{ .Params.prev }}" title="anterior">anterior</a></span>{{ end }}
-        …
+        <a href="../">…</a>
         {{ if .Params.next }}<span class="next"><a href="{{ .Params.next }}" title="següent">següent</a> <a href="{{ .Params.next }}" title="següent"><img class="icon" src="{{ site.BaseURL }}svg.icons/arrow-circle-right.svg" /></a></span>{{ end }}
       </div>
     {{ end }}

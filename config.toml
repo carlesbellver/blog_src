@@ -13,10 +13,11 @@ DefaultContentLanguage = "ca"
 
 [params]
   author = "Carles Bellver Torlà"
+  description = "Analista de tecnologia educativa. Escriptor amateur."
+  avatar =  "/uploads/ulleres_200.jpg"
   website = "https://carlesbellver.net"
   email = "carles@carlesbellver.net"
-  avatar =  "/uploads/ulleres_200.jpg"
-  description = ""
+  handle = "carlesbellver"
   MastodonUser = "carlesbellver"
   MastodonHost = "mastodon.social"
   TwitterUser = "carlesbellver"

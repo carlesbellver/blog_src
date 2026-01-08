@@ -1,8 +1,8 @@
 {{- if .Params.fedurl -}}
 <div class="comments">
-<h2 class="comments-heading">Comentaris?</h2>
+<h2 class="comments-heading">Comentaris? <a href="{{ .Params.fedurl | safeURL }}"><img class="icon" src="{{ site.BaseURL }}/svg.icons/mastodon.svg" alt="Logo de Mastodon"></a></h2>
 
-<p>Podeu utilitzar Mastodon (o qualsevol altra aplicació compatible amb el Fedivers) per a respondre a <a href="{{ .Params.fedurl | safeURL }}">aquest missatge</a>.</p>
+<p>Podeu utilitzar Mastodon (o qualsevol altra aplicació compatible amb el Fedivers) per a respondre a <a href="{{ .Params.fedurl | safeURL }}">aquest apunt</a>.</p>
 
 <!-- https://danielpecos.com/2022/12/25/mastodon-as-comment-system-for-your-static-blog/ -->
 
@@ -16,17 +16,12 @@
 
 <script src="{{ "/js/purify.min.js" | absURL }}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
-  //var host = '{{ .Site.Params.MastodonHost }}';
-  //var user = '{{ .Site.Params.MastodonUser }}';
-  //var id = '{{ .Params.tootid }}';
-  //var postUrl = 'https://'+host+'/@'+user+'/'+id;
   var postUrl = '{{ .Params.fedurl }}'
   console.log(postUrl)
   var match = postUrl.match(/^https:\/\/([\w\-\.]+)\/\@(\w+)\/(\d+)/);
   var host = match[1];
   var user = match[2];
   var id = match[3];
-  //var id = postUrl.match(/(\d+)$/)[1];
   console.log(host);
   console.log(user);
   console.log(id);

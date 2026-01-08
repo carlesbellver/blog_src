@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+  <ul class="post-info">
+    <li><img class="icon" src="{{ site.BaseURL }}/svg.icons/at.svg" alt="autor" /><a href="/about">{{ site.Params.Handle }}</a></li>
+  </ul>
+
   <article class="post-list">
 	{{ $list := where site.RegularPages "Type" "in" site.Params.indexSections }}
 	{{ range first site.Params.noPosts $list }}
