@@ -11,6 +11,6 @@ fedurl = "https://mastodon.social/@carlesbellver/115074514770397045"
 
 —[Perucho i la maledicció poètica](https://www.catorze.cat/lectura/perucho-i-la-malediccio-poetica_141673_102.html)
 
-Jo no faig literatura sobre la literatura —encara que, superficialment, ho puga parèixer—, sinó literatura sobre la vida. Qui no haja topat mai el dimoni en obrir-se una porta, ja pot donar gràcies de la sort que ha tingut. O fer-ser mirar la seua candidesa: bé que ho sabia, Perucho, això. En canvi, no crec que siga tan comú que un porter s’enamore. Hi ha pocs porters, avui en dia. Un porter seria a hores d’ara quasi tan fantàstic com el dimoni, si més no.
+Jo no faig literatura sobre la literatura —encara que, superficialment, ho puga parèixer—, sinó literatura sobre la vida. Qui no haja topat mai el dimoni en obrir-se una porta, ja pot donar gràcies de la sort que ha tingut. O fer-se mirar la seua candidesa: bé que ho sabia, Perucho, això. En canvi, no crec que siga tan comú que un porter s’enamore. Hi ha pocs porters, avui en dia. Un porter seria a hores d’ara quasi tan fantàstic com el dimoni, si més no.
 
 <img src="/uploads/2025/2025-08-22-nosferatu.jpg" alt="Fotograma de la pel·lícula Nosferatu, de 1922, amb el vampir al llindar d’una porta.">
