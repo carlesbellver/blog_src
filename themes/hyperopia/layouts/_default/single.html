@@ -1,8 +1,9 @@
 {{ define "main" }}
-    
-    <article class="post{{ if .Params.tags}}{{ range $tag := .Params.tags }} {{ $tag }}{{end }}{{ else }} regular{{ end }} h-entry">
 
-      {{ partial "postNavigation.html" . }}
+{{ partial "postNavigation.html" . }}    
+
+    <article class="post{{ if and .Params.tags (gt (len .Params.tags) 0) }}{{ range $tag := .Params.tags }} {{ $tag }}{{end }}{{ else }} regular{{ end }} h-entry">
+
 
       {{ if .Title -}}
       <header class="post-header">

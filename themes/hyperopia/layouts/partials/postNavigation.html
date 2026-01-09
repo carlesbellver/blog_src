@@ -17,7 +17,7 @@
 		{{ end }}
 		{{ end }}
 		  </span></li>
-    {{ if .Params.tags }}
+    {{ if and .Params.tags (gt (len .Params.tags) 0) }}
       {{ range $tag := sort (uniq .Params.tags) }}<li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/tag.svg" alt="Etiqueta" /> {{ if eq $tag "fotos" }}<a href="/photos/">fotos</a>{{ else }}<a href="/tags/{{ $tag | urlize }}">{{- $tag -}}</a>{{ end }}</span></li> {{ end }}
 		{{ end }}
 </ul>
