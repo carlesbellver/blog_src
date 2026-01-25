@@ -996,7 +996,7 @@ div#chumby img.chumby-display {
 .comments {
   margin: 2em 0 1em 0;
   padding: 0 1em 0.5em 1em;
-  background-color: #f5f5f5;
+  background-color: var(--comments-bg-color);
   border-radius: 5px;
   font-family: var(--font-details);
   font-size: 0.8em;
