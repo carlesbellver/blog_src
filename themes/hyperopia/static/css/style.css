@@ -91,7 +91,7 @@ summary {
 
 .sidebar {
   grid-area: sidebar;
-  margin: 3.5em 0 1em 0;
+  margin: 3.5em 1em 1em 0;
   padding: 0;
   color: var(--menu-color);
   font-family: var(--font-header);
