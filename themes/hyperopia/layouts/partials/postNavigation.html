@@ -4,7 +4,6 @@
 {{ end }}
 
 <ul class="post-info">
-    <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/at.svg" alt="autor" /> <a href="{{ site.BaseURL }}">{{ site.Params.Handle }}</a></span></li>
     {{ if and .Params.date (eq .Parent.Name "Posts") }}
       <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/calendar.svg" alt="calendari" /> <a class="u-url" href="{{ .RelPermalink }}"><span class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</span></a></span></li>
     {{ end }}

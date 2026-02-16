@@ -1,13 +1,16 @@
 {{ define "main" }}
 
-{{ partial "postNavigation.html" . }}    
-
     <article class="post{{ if and .Params.tags (gt (len .Params.tags) 0) }}{{ range $tag := .Params.tags }} {{ $tag }}{{end }}{{ else }} regular{{ end }} h-entry">
-
 
       {{ if .Title -}}
       <header class="post-header">
       
+        {{ if .Params.Author -}}
+        <div class="author">
+          {{ .Params.Author }}
+        </div>      
+        {{- end }}
+
         {{- if .Params.x_url -}}
           <h1 class="post-title external"><a href="{{- .Params.x_url -}}">{{ trim .Title  " " }}</a> <a href="{{- .Params.x_url -}}"><img src="/svg.icons/{{- if .Params.x_icon -}}{{- .Params.x_icon -}}{{- else -}}link{{- end -}}.svg"></a></h1>
         {{- else -}}
@@ -18,13 +21,9 @@
       {{ if .Params.subtitle -}}
       <h2 class="subtitle">{{ trim .Params.subtitle " " }}</h2>
       {{- end }}
-      
-      {{ if .Params.Author -}}
-        <div class="author">
-          {{ .Params.Author }}
-        </div>      
-      {{- end }}
 
+      {{ partial "postNavigation.html" . }}
+      
       {{ if .Params.Note }}
         <div class="note">
           {{ .Params.Note | safeHTML }}

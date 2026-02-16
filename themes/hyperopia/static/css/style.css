@@ -79,23 +79,23 @@ summary {
 }
 
 .container {
-  display: grid;
+/*  display: grid;
   grid-template-areas: "sidebar main";
   grid-template-columns: 1fr 4fr;
-  column-gap: 2em;
-  max-width: 800px;
+  column-gap: 2em; */
+  max-width: 720px;
   margin: 0 auto;
   padding: 0;
   z-index: 0;
 }
 
 .sidebar {
-  grid-area: sidebar;
-  margin: 3.5em 1em 1em 0;
+/*  grid-area: sidebar; */
+  margin: 1em 0;
   padding: 0;
   color: var(--menu-color);
   font-family: var(--font-header);
-  line-height: 2;
+/*  line-height: 2; */
 }
 
 .sidebar a, .sidebar a:visited {
@@ -106,7 +106,7 @@ summary {
 #quickctrl {
   font-size: 0.7em;
   text-transform: uppercase;
-  text-align: right;
+/*  text-align: right; */
 }
 
 ul#quicklinks {
@@ -115,32 +115,29 @@ ul#quicklinks {
   list-style-type: none;
 }
 
-.main {
-  grid-area: main;
-  margin: 1em 0;
-  padding: 1em 0;
+ul#quicklinks li {
+  display: inline;
+  margin: 0;
+  padding: 0;
 }
 
-@media (max-width: 600px) {
+ul#quicklinks li:after {
+  content: " · ";
+}
+
+ul#quicklinks li:last-child:after {
+  content: "";
+}
+
+.main {
+/*  grid-area: main; */
+  margin: 1em 0;
+  padding: 0;
+}
+
+@media (max-width: 800px) {
   .container {
-    grid-template-areas:
-      "main"
-      "sidebar";
-    grid-template-columns: 100%;
-    grid-template-rows: auto auto;
-  }
-  .sidebar {
     margin: 1em;
-    padding: 0;
-  }
-  #quickctrl {
-    text-align: left;
-  }
-  ul#quicklinks {
-    margin: 0 1em;
-  }
-  .main {
-    padding: 1em;
   }
 }
 
@@ -202,7 +199,7 @@ h2 {
 }
 
 h2.subtitle {
-  margin-top: -0.5em;
+  margin-top: 1em;
   font-size: 1.25em;
 }
 
@@ -508,7 +505,7 @@ header .note a {
 }
 
 h1.post-title {
-  margin: 0 0 0.5em;
+  margin: 0;
   font-family: var(--font-heading);
 }
 
@@ -647,27 +644,21 @@ main article .content p {
 }
 
 .regular .size_0, .TIL .size_0, .contes .size_0 {
-  font-size: 1.75em;
 }
 
 .regular .size_1, .TIL .size_1, .contes .size_1 {
-  font-size: 1.5em;
 }
 
 .regular .size_2, .TIL .size_2, .contes .size_2 {
-  font-size: 1.25em;
 }
 
 .citacions .size_0 blockquote * {
-  font-size: 1.75em;
 }
 
 .citacions .size_1 blockquote * {
-  font-size: 1.5em;
 }
 
 .citacions .size_2 blockquote * {
-  font-size: 1.25em;
 }
 
 .post-navigation {
@@ -755,7 +746,7 @@ article header h1.external a {
 }
 
 .author {
-  margin: 0 0 1em;
+  margin: 0 0 0.5em 0;
   font-family: var(--font-details);
   font-size: 1em;
   text-transform: uppercase;
@@ -764,7 +755,7 @@ article header h1.external a {
 }
 
 .note {
-  margin: 0 0 1em;
+  margin: 1em 0;
   padding: 0;
   font-family: var(--font-details);
   font-size: 0.7em;
@@ -816,8 +807,8 @@ img.thumbnail {
 }
 
 .post-info {
-  margin: 0;
-  padding: 0 0 1em 0;
+  margin: 1em 0;
+  padding: 0;
   font-family: var(--font-details);
   /* font-size: 14px; */
   font-size: 0.7em;
