@@ -1,0 +1,24 @@
+{{ $dateFormat := "2006-01-02" }}
+{{ if .Site.Params.dateFormat }}
+    {{ $dateFormat = .Site.Params.dateFormat }}
+{{ end }}
+
+          {{ if or (eq .Type "posts") (eq .Type "llibres") (eq .Type "contes") (eq .Type "tmp") }}
+            {{ if and .Params.date (eq .Parent.Name "Posts") }}
+          <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/calendar.svg" alt="calendari" /> <a class="u-url" href="{{ .RelPermalink }}"><span class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</span></a></span></li>
+            {{ end }}
+            {{ if and .Parent.Name (ne .Parent.Name "Posts") }}
+          <li><span class="nobr">
+              {{- if eq .Parent.Name "Esborranys privats" -}}
+            <img class="icon" src="{{ site.BaseURL }}/svg.icons/lock.svg" alt="esborrany privat" /> Esborrany privat
+              {{- else -}}
+            <img class="icon" src="{{ site.BaseURL }}/svg.icons/book.svg" alt="col·lecció" /> <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Name }}</a>
+              {{- end -}}
+            {{- end -}}
+          </span></li>
+            {{ if and .Params.tags (gt (len .Params.tags) 0) }}
+              {{ range $tag := sort (uniq .Params.tags) }}
+          <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/tag.svg" alt="Etiqueta" /> {{ if eq $tag "fotos" }}<a href="/photos/">fotos</a>{{ else }}<a href="/tags/{{ $tag | urlize }}">{{- $tag -}}</a>{{ end }}</span></li>
+              {{ end }}
+            {{ end }}
+          {{ end }}

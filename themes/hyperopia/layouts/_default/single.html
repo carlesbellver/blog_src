@@ -1,51 +1,41 @@
 {{ define "main" }}
 
-    <article class="post{{ if and .Params.tags (gt (len .Params.tags) 0) }}{{ range $tag := .Params.tags }} {{ $tag }}{{end }}{{ else }} regular{{ end }} h-entry">
+	<article class="post{{ if and .Params.tags (gt (len .Params.tags) 0) }}{{ range $tag := .Params.tags }} {{ $tag }}{{end }}{{ else }} regular{{ end }} h-entry">
 
-      {{ if .Title -}}
-      <header class="post-header">
-      
-        {{ if .Params.Author -}}
-        <div class="author">
-          {{ .Params.Author }}
-        </div>      
-        {{- end }}
+		{{ if .Title -}}
+		<header class="post-header">
+		
+			{{ if .Params.Author -}}
+			<div class="author">
+				{{ .Params.Author }}
+			</div>      
+			{{- end }}
 
-        {{- if .Params.x_url -}}
-          <h1 class="post-title external"><a href="{{- .Params.x_url -}}">{{ trim .Title  " " }}</a> <a href="{{- .Params.x_url -}}"><img src="/svg.icons/{{- if .Params.x_icon -}}{{- .Params.x_icon -}}{{- else -}}link{{- end -}}.svg"></a></h1>
-        {{- else -}}
-          <h1 class="post-title">{{ trim .Title  " " }}</h1>
-        {{- end -}}
-      {{- end }}
+			{{- if .Params.x_url -}}
+				<h1 class="post-title external"><a href="{{- .Params.x_url -}}">{{ trim .Title  " " }}</a> <a href="{{- .Params.x_url -}}"><img src="/svg.icons/{{- if .Params.x_icon -}}{{- .Params.x_icon -}}{{- else -}}link{{- end -}}.svg"></a></h1>
+			{{- else -}}
+				<h1 class="post-title">{{ trim .Title  " " }}</h1>
+			{{- end -}}
+		{{- end }}
 
-      {{ if .Params.subtitle -}}
-      <h2 class="subtitle">{{ trim .Params.subtitle " " }}</h2>
-      {{- end }}
+		{{ if .Params.subtitle -}}
+		<h2 class="subtitle">{{ trim .Params.subtitle " " }}</h2>
+		{{- end }}
 
-      {{ partial "postNavigation.html" . }}
-      
-      {{ if .Params.Note }}
-        <div class="note">
-          {{ .Params.Note | safeHTML }}
-        </div>
-      {{- end }}
+		{{ if .Params.Note }}
+			<div class="note">
+				{{ .Params.Note | safeHTML }}
+			</div>
+		{{- end }}
 
-      </header>
-            
-      <div class="content e-content size_{{ div (.Content | plainify | len) 100 }}">
-        {{ partial "ht_content.html" . }}
-        {{ if .Params.map }}{{ partial "map_openfreemap.html" . }}{{ end }}
-        {{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
-      </div>
-            
-      {{ partial "postDirections.html" . }}
-      
-      {{ partial "license.html" . }}
-
-    </article>
-    
-    {{ if and (.Site.Params.paginationSinglePost) (ne .Type "page") }}
-        {{ partial "paginationPost.html" . }}
-    {{ end }}
-
+		</header>
+					
+		<div class="content e-content size_{{ div (.Content | plainify | len) 100 }}">
+			{{ partial "ht_content.html" . }}
+			{{ if .Params.map }}{{ partial "map_openfreemap.html" . }}{{ end }}
+			{{- if .Params.image -}}<img src="{{ .Params.image | absURL }}" class="sn">{{- end }}
+		</div>
+					
+	</article>
+	
 {{ end }}

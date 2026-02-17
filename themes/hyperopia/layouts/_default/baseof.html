@@ -28,6 +28,11 @@
 				{{ partial "fedicomments.html" . }}
 			{{ end -}}
     </main>
+    <footer>
+      {{ block "footer" . }}
+      {{ partial "footer.html" . }}
+      {{ end }}
+    </footer>
   </div>
   {{ if .Site.Params.stats -}}<script data-goatcounter="https://carlesbellver.goatcounter.com/count"
     async src="//gc.zgo.at/count.js"></script>{{- end }}
