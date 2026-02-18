@@ -344,19 +344,16 @@ blockquote {
 }
 
 .citacions blockquote {
+  min-height: 80px;
   border: 0;
-  padding: 0;
+  border-radius: 5px;
+  background: var(--citacions-bg-color) url("/img/blockquote_background.svg") no-repeat right top;
+  background-origin: content-box;
+  padding: 0.5em 1em;
 }
 
-.citacions blockquote:before {
-  display: block;
-  margin: -75px 0 -175px -10px;
-  content: "“";
-  font-family: var(--font-bq);
-  /* font-size: 200px; */
-  font-size: 10em;
-  color: var(--bq-bar-color);
-  z-index: 0;
+.citacions blockquote * {
+  padding-right: 80px;
 }
 
 .citacions blockquote blockquote {
@@ -625,25 +622,13 @@ main article .content p {
   text-wrap: pretty;
 }
 
-.regular .size_0, .TIL .size_0, .contes .size_0 {
-  font-size: 1.33em;
+.regular .size_0, .TIL .size_0, .contes .size_0, .citacions .size_0 {
 }
 
-.regular .size_1, .TIL .size_1, .contes .size_1 {
-  font-size: 1.2em;
+.regular .size_1, .TIL .size_1, .contes .size_1, .citacions .size_1 {
 }
 
-.regular .size_2, .TIL .size_2, .contes .size_2 {
-  font-size: 1.1em;
-}
-
-.citacions .size_0 blockquote * {
-}
-
-.citacions .size_1 blockquote * {
-}
-
-.citacions .size_2 blockquote * {
+.regular .size_2, .TIL .size_2, .contes .size_2, .citacions .size_2 {
 }
 
 .post-navigation {
