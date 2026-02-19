@@ -337,49 +337,17 @@ li { padding-left: 0.2em; }
 /* Blockquote */
 
 blockquote {
+  min-height: 32px;
   margin: 1em 0;
-  border-left: 1px solid var(--bq-bar-color);
-  padding: 0 0 0 10px;
-  color: var(--bq-color);
-}
-
-.citacions blockquote {
-  min-height: 80px;
   border: 0;
   border-radius: 5px;
-  background: var(--citacions-bg-color) url("/img/blockquote_background.svg") no-repeat right top;
+  background: var(--bq-bg-color) url("/svg.icons/smartquote-close.svg") no-repeat right top;
   background-origin: content-box;
   padding: 0.5em 1em;
 }
 
-.citacions blockquote * {
-  padding-right: 80px;
-}
-
-.citacions blockquote blockquote {
-  margin: 1em 0;
-  border-left: 1px solid var(--bq-bar-color);
-  padding: 0 0 0 10px;
-  color: var(--bq-color);
-}
-
-.citacions blockquote blockquote:before {
-  display: none;
-}
-
-.citacions blockquote {
-  font-family: var(--font-bq);
-  /* font-size: 21px; */
-  font-size: 1.1em;
-}
-
-.post-list .citacions blockquote {
-  font-family: var(--font);
-  /* font-size: 17px; */
-  font-size: 0.85em;
-}
-
-.citacions blockquote:before {
+blockquote > :first-child {
+  padding-right: 24px;
 }
 
 blockquote > p {
@@ -392,6 +360,18 @@ blockquote > p:first-of-type {
 
 blockquote > p:last-of-type {
   margin-bottom: 0;
+}
+
+.citacions blockquote {
+  font-size: 1.1em;
+}
+
+blockquote blockquote {
+  margin: 1em 0;
+  padding: 0 48px 0 1em;
+  background-image: none;
+  color: var(--bq-color);
+  font-style: italic;
 }
 
 p {
@@ -908,12 +888,10 @@ article .content figure img {
 }
 
 article .content figure figcaption {
-  width: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 0.5em 0;
   font-family: var(--font-details);
   font-size: 0.7em;
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   letter-spacing: 0.01em;
   color: var(--foot-color);
@@ -921,6 +899,10 @@ article .content figure figcaption {
 
 article .content figure figcaption .ai-disclaimer {
   font-size: 0.875em;
+}
+
+article .content figure figcaption cite {
+  font-style: normal;
 }
 
 article video,
@@ -970,8 +952,9 @@ div#chumby img.chumby-display {
 
 .comments {
   margin: 2em 0 1em 0;
-  padding: 0 1em 0.5em 1em;
-  background-color: var(--comments-bg-color);
+  padding: 1em 1em 0.5em 1em;
+  background: var(--comments-bg-color) url("/svg.icons/mastodon.svg") no-repeat right top;
+  background-origin: content-box;
   border-radius: 5px;
   font-family: var(--font-details);
   font-size: 0.8em;
@@ -979,7 +962,7 @@ div#chumby img.chumby-display {
 
 h2.comments-heading {
   margin: 0;
-  padding: 0.5em 0 0;
+  padding: 0;
   font-size: 1.25em;
   color: var(--post-info-color);
 }
