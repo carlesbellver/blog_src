@@ -46,6 +46,9 @@ DefaultContentLanguage = "ca"
       typographer = false
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
   
 [menu]
 
