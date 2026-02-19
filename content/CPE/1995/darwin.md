@@ -5,8 +5,7 @@ title = "En Charles Darwin i el peixet corredor"
 ![](/uploads/2000/darwin.gif)
 
 > Açò pareix que ens ha acostat, tant en l'espai com en el temps, al gran esdeveniment, el secret dels secrets, és a dir, l'aparició de nous éssers damunt de la Terra.
-
-— Charles Darwin, anotació al seu diari, 1865
+{author="Charles Darwin" caption="Diari (1865)"}
 
 **Charles Robert Darwin** (1809-1882). Savi excèntric anglès. Naturalista. Preferia la companyia dels animals a la dels homes. El seu pare el va obligar a cursar medicina i teologia, però ell perdia el temps caçant i col.leccionant animals, minerals i plantes. Es va traure el títol l'any 1831 gràcies a les classes d' un professor particular.
 

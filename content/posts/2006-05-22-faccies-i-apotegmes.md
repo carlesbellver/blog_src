@@ -8,8 +8,7 @@ slug = "faccies-i-apotegmes"
 *“Eugenesia”* és un dels més de cent *Cuentos breves y extraordinarios* reunits per Borges i Bioy l’any 1955:
 
 > Una dama de calidad se enamoró con tanto frenesí de un tal señor Dodd, predicador puritano, que rogó a su marido que les permitiera usar de la cama para procrear un ángel o un santo; pero, concedida la venia, el parto fue normal.
-
-—Drummond, *Ben Ionsiana* (c. 1618).
+{author="Drummond" caption="*Ben Ionsiana* (c. 1618)"}
 
 El títol, tanmateix —tot i que s’ha mantingut en reculls posteriors, per exemple en *La mano de la hormiga. Los cuentos más breves del mundo y de las literaturas hispánicas*, Universidad de Alcalá de Henares, 1991— va ser, òbviament, una aportació dels il·lustres antologistes. De fet, l’anècdota o miracle invers del predicador i la seua dama enamorada, com moltes altres peces del llibre, no era a l’origen un text independent, sinó tan sols unes frases extretes d’un relat més extens. En aquest cas, es tractava de les notes preses pel poeta escocès [William Drummond](http://en.wikipedia.org/wiki/William_Drummond_of_Hawthornden) quan [Ben Jonson](http://en.wikipedia.org/wiki/Ben_Jonson) va fer cap a sa casa pel Nadal de 1618. Gràcies a l’Internet Archive, que ens dóna accés al [llibre](https://archive.org/details/benjonsonsconver00jonsuoft) complet, podem trobar el seductor mossèn Dod a la secció *“Jeasts and Apothegms”* (facècies i apotegmes). En l’anglès renaixentista de Drummond, la cosa anava així:
 

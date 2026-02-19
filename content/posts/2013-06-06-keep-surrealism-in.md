@@ -7,5 +7,4 @@ tags = ["retalls","citacions"]
 +++
 
 > No mantingues l’etiqueta de fotògraf surrealista. Fes-te fotoperiodista. Si no, cauràs en el manierisme. Conserva el surrealisme dins del teu petit cor, amic meu. No t’inquietes. Mou-te!
-
-—Robert Capa to Henri Cartier-Bresson ([History of Magnum](https://www.magnumphotos.com/about-magnum/history/)).
+{author="Robert Capa" caption="a Henri Cartier-Bresson ([History of Magnum](https://www.magnumphotos.com/about-magnum/history/))"}

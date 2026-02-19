@@ -16,7 +16,6 @@ tags = ["fotos"]
 > A contrallum, venoses  
 > branques, llamps de dol,  
 > empelts.
-
-—Josep Porcar, [Llambreig](http://llambreig.porcar.net).
+{author="Josep Porcar" caption="*Llambreig*" cite="http://llambreig.porcar.net"}
 
 A vosaltres, us ha dedicat mai un poeta una “Definició d’àngel”? Perquè a mi sí.

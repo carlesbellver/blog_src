@@ -7,10 +7,8 @@ tags = ["citacions"]
 +++
 
 > Fins que no estàs ferit no et pots convertir en un home.
-
-—Paul Auster, *Sunset Park*.
+{author="Paul Auster", caption="*Sunset Park*"}
 
 > El sufrimiento enseña, pero sólo si sobrevives; porque lo malo es que el sufrimiento suele matar.
-
-—Ana María Matute, [citada](http://agitaciondesdelaperiferia.blogspot.com/2011/01/ana-maria-matute-literatura-literatura.html) per Alfredo Llopico.
+{author="Ana María Matute" caption="citada per Alfredo Llopico" cite="http://agitaciondesdelaperiferia.blogspot.com/2011/01/ana-maria-matute-literatura-literatura.html"}
 

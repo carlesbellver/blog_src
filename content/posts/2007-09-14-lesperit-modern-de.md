@@ -9,8 +9,7 @@ tags = ["citacions"]
 > Si a uno le gustan las novelas, escribe novelas; si le gustan los cuentos, uno escribe cuentos. Como a mí me ocurre lo último, escribo cuentos. Pero no tantos: seis en nueve años, ocho en doce. Y así.
 > 
 > Los cuentos que uno escribe no pueden ser muchos. Existen tres, cuatro o cinco temas; algunos dicen que siete. Con ésos debe trabajarse.
-
-—Augusto Monterroso, en “Breve, brevísimo” (*Literatura y vida*).
+{author="Augusto Monterroso" caption="“Breve, brevísimo” (*Literatura y vida*)"}
 
 De tant en tant, hi ha algú que et pregunta si no has pensat a escriure una novel·la, o contes per a xiquets, o qualsevol altra cosa que, de fet, no hages escrit. O et retrauen que la teua *producció* siga tan curta, que vages tan lentament. No has escrit res més? Tot just tres llibres, i tan prims!
 

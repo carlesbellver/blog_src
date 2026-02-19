@@ -7,5 +7,4 @@ tags = ["citacions"]
 +++
 
 > Pareixia imaginar, pobra dona, que els francesos resultarien molt similars als marcians.
-
-—H. G. Wells, *The War of the Worlds*
+{author="H. G. Wells" caption="*The War of the Worlds*"}
