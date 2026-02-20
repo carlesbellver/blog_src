@@ -10,5 +10,4 @@ x_source = ""
 
 
 > Puc entendre que els addictes a les conferències vagen a veure exploradors britànics, princeses russes o ballarines balineses, els quals els mostren belles diapositives, tiares o cames. Però és incomprensible que, en un nombre bastant gran, acudisquen a veure un novel·lista o un poeta. És perquè confien que siga encara més divertit de mirar que de llegir?
-
-—Sinclair Lewis
+{author="Sinclair Lewis"}
