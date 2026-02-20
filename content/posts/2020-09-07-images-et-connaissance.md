@@ -12,5 +12,4 @@ title = "Images et connaissance de la licorne"
 > Es publiquen articles, apareixen llibres —p. ex. el magnífic treball de Lise Gotfredsen— i cada vegada em sent menys inclinat a llegir-ho tot, saber-ho tot, analitzar-ho tot. Darrerament, m’he limitat a donar un colp d’ull.
 > 
 > Per tant, he decidit deixar d’actualitzar aquest lloc i mantenir-hi només el text de la meua tesi, a disposició de tothom qui vulga anar més enllà.
-
-—Bruno Faidutti, 17 de setembre de 2000
+{caption="Bruno Faidutti, 17 de setembre de 2000"}

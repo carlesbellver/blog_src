@@ -9,5 +9,4 @@ x_source = "Quote Investigator"
 +++
 
 > “Si alguna cosa pot anar malament, arregleu-la! (A la merda Murphy!)”
-
-—Quote Investigator: [Peter Diamandis on Overcoming Murphy’s Law](https://quoteinvestigator.com/2018/05/11/not-murphy/)
+{caption="Quote Investigator: [Peter Diamandis on Overcoming Murphy’s Law](https://quoteinvestigator.com/2018/05/11/not-murphy/)"}

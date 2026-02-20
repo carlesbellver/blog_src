@@ -7,5 +7,4 @@ tags = ["citacions"]
 +++
 
 > Lo evoco en su gabinete de estudio, como si dijéramos en la torre albarrana de una ciudad, provisto de teléfonos, de telégrafos, de fonógrafos, de aparatos de radiotelefonía, de cinematógrafos, de linternas mágicas, de glosarios, de horarios, de prontuarios, de boletines…
-
-—Carlos Argentino Daneri (1941)
+{caption="Carlos Argentino Daneri (1941)"}

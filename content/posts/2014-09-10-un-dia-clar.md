@@ -6,5 +6,4 @@ tags = ["citacions"]
 +++
 
 > Concís, el mèdium veu un dia clar al cor de pedra de la nit.
-
-—Pere Gimferrer, pròleg a l’*Obra poètica completa* de Joan Perucho.
+{caption="Pere Gimferrer, pròleg a l’*Obra poètica completa* de Joan Perucho"}

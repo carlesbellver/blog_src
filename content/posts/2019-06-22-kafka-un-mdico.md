@@ -7,4 +7,4 @@ tags = ["citacions"]
 
 > Escriure receptes és fácil, però es difícil entendre’s amb la gent en la resta de les coses.
 
-—Kafka (“Un metge rural”) sobre el requisit lingüístic en atenció primària.
+Kafka (“Un metge rural”) sobre el requisit lingüístic en atenció primària.

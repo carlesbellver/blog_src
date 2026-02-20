@@ -6,6 +6,5 @@ tags = ["citacions"]
 +++
 
 > La nitidesa és un concepte burgès.
-
-—Henri Cartier-Bresson a Helmut Newton.
+{caption="Henri Cartier-Bresson a Helmut Newton"}
 
