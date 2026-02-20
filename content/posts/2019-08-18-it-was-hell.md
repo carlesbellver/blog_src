@@ -6,5 +6,4 @@ tags = ["citacions"]
 +++
 
 > Viure en el segle vint-i-u era un infern.
-
-—Philip K. Dick, [“The Exit Door Leads In”](http://sickmyduck.narod.ru/pkd078-0.html) (*Rolling Stone College Papers*, Fall 1979).
+{author="Philip K. Dick" caption="“The Exit Door Leads In” (*Rolling Stone College Papers*, Fall 1979)" cite="http://sickmyduck.narod.ru/pkd078-0.html"}

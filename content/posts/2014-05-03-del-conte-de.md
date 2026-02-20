@@ -7,8 +7,7 @@ tags = ["ressenyes", "citacions"]
 +++
 
 > Però per ventura no és la vida un conte de fades el sentit del qual se’ns va escapant a mesura que ens fem grans?
-
-—Lawrence Durrell, *Clea*.
+{author="Lawrence Durrell" caption="*Clea*"}
 
 {{< icon book >}} Cada *obra mestra* que llegisc fa que descrega més en la novel·la. Quin malbaratament de pàgines, a centenars, per a contar tan poc…
 

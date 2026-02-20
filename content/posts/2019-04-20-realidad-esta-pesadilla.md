@@ -6,5 +6,4 @@ tags = ["citacions"]
 +++
 
 > (¿*realidad* esta pesadilla irreal, esta danza de idiotas al borde del abismo?)
-
-—Julio Cortázar, carta a Roberto Fernández Retamar (10 de mayo de 1967).
+{author="Julio Cortázar" caption="carta a Roberto Fernández Retamar (10 de mayo de 1967)"}

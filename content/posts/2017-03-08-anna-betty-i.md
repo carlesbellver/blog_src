@@ -5,9 +5,8 @@ slug = "anna-betty-i"
 tags = ["citacions"]
 +++
 
->  Les càpsules espacials no eren el sistema més elegant de transport dissenyat per l’home, però resultaven del tot imprescindibles en les tasques de construcció i manteniment en el buit. Normalment les batejaven amb noms de dona, potser perquè les seues personalitats de vegades eren lleugerament impredictibles. El trio de la Discovery eren Anna, Betty i Clara.
-
-—Arthur C. Clarke,  *2001, una odissea de l’espai* (1968).
+> Les càpsules espacials no eren el sistema més elegant de transport dissenyat per l’home, però resultaven del tot imprescindibles en les tasques de construcció i manteniment en el buit. Normalment les batejaven amb noms de dona, potser perquè les seues personalitats de vegades eren lleugerament impredictibles. El trio de la Discovery eren Anna, Betty i Clara.
+{author="Arthur C. Clarke" caption="*2001. Una odissea de l’espai*"}
 
 Açò també ho va encertar Clarke: l’any 2001, i el 2017, continuem sent molt masclistes.
 

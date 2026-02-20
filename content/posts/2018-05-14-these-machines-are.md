@@ -7,8 +7,7 @@ tags = ["citacions"]
 +++
 
 > Hem inventat computadores per estalviar-nos els problemes de computar. Aquestes màquines no són éssers pensants que pensen per nosaltres, sinó més aviat dispositius que produeixen els resultats dels càlculs sense que *ningú* literalment calcule o pense […] No ens cal témer que les nostres màquines ens superen pensant —tot i que podríem ben bé témer que ens porten a deixar de pensar per nosaltres mateixos.
-
-—Peter Hacker sobre Wittgenstein, en Ray Monk and Frederic Raphael (eds.), *The Great Philosophers* (2000).
+{caption="Peter Hacker sobre Wittgenstein, en Ray Monk and Frederic Raphael (eds.), *The Great Philosophers* (2000)."}
 
 Cfr. Luciano Floridi: [“La intel·ligència artificial consisteix a dissociar la resolució de problemes de qualsevol necessitat de ser intel·ligent”](/2018/03/14/ai-is-about.html).
 

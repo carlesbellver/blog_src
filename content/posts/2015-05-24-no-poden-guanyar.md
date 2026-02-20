@@ -6,6 +6,4 @@ tags = ["citacions"]
 +++
 
 > —No poden guanyar eternament! —va dir en Frodo.
-
-—J. R. R. Tolkien, *El senyor dels anells*.
-
+{author="J. R. R. Tolkien" caption="*El senyor dels anells*"}

@@ -7,6 +7,4 @@ tags = ["citacions"]
 +++
 
 > Alguns dels qui han llegit el llibre, o, si més no, n’han escrit ressenyes, l’han trobat avorrit, absurd o digne d’ésser ignorat; i no tinc cap raó per doldre-me’n, ja que la meva opinió de llurs obres, o de la mena d’escriptura que evidentment prefereixen, és similar.
-
-—J. R. R. Tolkien, proemi de la segona edició d’*El Senyor dels Anells* (traducció de Francesc Parcerisas).
-
+{author="J. R. R. Tolkien" caption="proemi de la segona edició d’*El Senyor dels Anells* (traducció de Francesc Parcerisas)"}

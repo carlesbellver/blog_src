@@ -8,7 +8,5 @@ title = "Refugiados: el misterioso coma de los niños en Suecia"
 x_source = ""
 +++
 
-
 > Creo que es una forma de autoprotección. Son como Blancanieves.
-
-—Elisabeth Hultcrantz, Médicos del Mundo.
+{author="Elisabeth Hultcrantz" caption="Médicos del Mundo"}

@@ -6,6 +6,5 @@ tags = ["citacions"]
 +++
 
 > Era un d’aquests vespres esplèndids de primavera que desvetllen el record i el desig.
-
-—John Cheever, “La ràdio monstruosa”.
+{author="John Cheever" caption="*“La ràdio monstruosa”*"}
 

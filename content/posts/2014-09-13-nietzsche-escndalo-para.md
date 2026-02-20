@@ -6,6 +6,5 @@ tags = ["citacions"]
 +++
 
 > Tot i essent un escàndol per als demòcrates i un disbarat per als catedràtics, el nom de Friedrich Nietzsche continua fent bategar fortament els cors d’artistes i revisionistes.
-
-—Peter Sloterdijk, *Temperaments filosòfics*.
+{author="Peter Sloterdijk" caption="*Temperaments filosòfics*"}
 

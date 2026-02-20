@@ -7,5 +7,4 @@ tags = ["citacions"]
 +++
 
 > Als anys cinquanta, quan estava cada vegada menys implicat en la física de la seua època i tendia més i més a tornar al seu interès anterior per la filosofia índia, acabava invariablement les seues conferències amb un comentari sobre la frase “Atman igual a Brahman”, que ell anomenava, amb un mig somriure, “la segona equació de Schrödinger”.
-
-—Michel Bitbol, [“Schrödinger and Indian Philosophy”](http://www.academia.edu/29024231/SCHR%C3%96DINGER_AND_INDIAN_PHILOSOPHY).
+{author="Michel Bitbol" caption="“Schrödinger and Indian Philosophy”" cite="http://www.academia.edu/29024231/SCHR%C3%96DINGER_AND_INDIAN_PHILOSOPHY"}
