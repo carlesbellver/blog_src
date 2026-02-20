@@ -10,7 +10,6 @@ photos = ["/uploads/2023/2023-04-23-angels-dimonis.jpg"]
 > em mostren el camí,  
 > però els meus dimonis  
 > són els que m’acompanyen.
-
-—[Albert Garcia Pascual](https://twitter.com/tombatossalator/status/1333052124347977731)
+{author="Albert Garcia Pascual" cite="https://twitter.com/tombatossalator/status/1333052124347977731"}
 
 <img src="/uploads/2023/2023-04-23-angels-dimonis.jpg" alt="Imatge generada per intel·ligència artificial: pintura a l’oli d’un àngel i un dimoni, estil manuscrit medieval">

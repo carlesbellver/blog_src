@@ -9,5 +9,4 @@ x_source = "OLDaily"
 +++
 
 > Hi ha aquest mite… que la gent no valora les coses si són gratis. De debò? La propera vegada que respireu, digueu-vos-ho a vosaltres mateixos. La propera vegada que feu una amistat, digueu-vos que… Heus ací el quid d’aquesta mena d’arguments: sempre es refereixen *a l’altra gent*.
-
-—[OLDaily](https://www.downes.ca/post/69648)
+{caption="OLDaily" cite="https://www.downes.ca/post/69648"}

@@ -7,6 +7,5 @@ tags = ["citacions"]
 +++
 
 > …va esdevenir de nou un xiquet a la seua ciutat, on la vida era una distant aventura, un rumor, una joia sempre imminent.
-
-—John Updike, “The persistence of desire”.
+{author="John Updike" caption="“The persistence of desire”"}
 

@@ -7,5 +7,4 @@ tags = ["citacions"]
 +++
 
 > La inversemblança de la vida irromp en l’art en forma de fantasia —i així s’hi legitima.
-
-—Josep J. Conill, [Submarins de butxaca](https://www.facebook.com/SubmarinsDeButxaca).
+{author="Josep J. Conill" caption="Submarins de butxaca" cite="https://www.facebook.com/SubmarinsDeButxaca"}

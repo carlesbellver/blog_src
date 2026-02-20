@@ -14,8 +14,7 @@ fedurl = "https://mastodon.social/@carlesbellver/110447253421013263"
 > esgota els somnis.  
 > Tant que sembla que al final  
 > arribar no importa.
-
-—Albert Garcia Pascual, “Ítaca” (*Albes*, 2019)
+{author="Albert Garcia Pascual" caption="“Ítaca” (*Albes*, 2019)"}
 
 Sé que li va fer il·lusió que li diguera que havia impugnat Kavafis, ni més ni menys. I per això el títol de la meua col·laboració en [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/05/09/la-tempesta-contra-les-roques/), el llibre que li vam dedicar des d’El Pont i que ara podeu baixar gratis en formats digitals o comprar en paper a les llibreries de Castelló.
 

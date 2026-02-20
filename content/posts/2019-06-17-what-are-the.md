@@ -10,5 +10,4 @@ x_source = ""
 
 
 > …quines són les conseqüències de criar una generació d’infants cada acció dels quals alimenta una base de dades corporativa?
-
-—Maciej Cegłowski
+{author="Maciej Cegłowski"}

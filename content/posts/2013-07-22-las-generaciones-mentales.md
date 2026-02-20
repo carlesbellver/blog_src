@@ -7,5 +7,4 @@ tags = ["citacions"]
 +++
 
 > De más está decir que las generaciones mentales no siempre corresponden a las del calendario, y a veces las contradicen. Así, Cortázar es nuestra “vanguardia”, y Vargas Llosa, aunque experimenta brillantemente con las formas de la novela, es un tradicionalista.
-
-—Luis Harss, *Los nuestros* (1966).
+{author="Luis Harss" caption="*Los nuestros*"}
