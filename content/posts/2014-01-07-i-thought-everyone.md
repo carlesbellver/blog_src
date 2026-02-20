@@ -11,5 +11,4 @@ x_source = "Dave Winer"
 > At the beginning of blogging I thought everyone would be a blogger. I was wrong. Most people don’t have the impulse to say what they think.
 > 
 > So when you meet one, you’ll know it: if they write letters to the editor, or if they volunteered to go to the blackboard when they were students. In my day, we were the kinds of people who started underground newspapers, or who volunteered for the student radio station at college.
-
-—Dave Winer
+{author="Dave Winer"}

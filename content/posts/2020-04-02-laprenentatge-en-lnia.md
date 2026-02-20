@@ -9,5 +9,4 @@ x_source = "OLDaily"
 +++
 
 > L’aprenentatge en línia hauria de ser ràpid, divertit, boig, no planificat i inspirador.
-
-—[Stephen Downes](https://www.downes.ca/post/70681)
+{author="Stephen Downes" cite="https://www.downes.ca/post/70681"}

@@ -8,5 +8,4 @@ tags = ["retalls"]
 > Quan Twitter va aparèixer, vam decidir que aquest tipus de coses \[microblogging] eren jurisdicció seua: que només eren tuits.
 > 
 > Però, per què hauríem d’estar d’acord que Twitter, o qualsevol empresa, siga propietària de tota una forma d’escriptura per al web?
-
-—[Brent Simmons](https://inessential.com/2019/06/09/short_stuff)
+{author="Brent Simmons" cite="https://inessential.com/2019/06/09/short_stuff"}
