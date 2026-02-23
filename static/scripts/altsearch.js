@@ -76,7 +76,10 @@ function runSearch(q) {
       }
       results = miniSearch.search(q, { fuzzy: f , combineWith: c });
     }
-    if (results.length) {
+    if (results.length == 1) {
+      window.location.href = results[0]["url"];
+    }
+    else if (results.length) {
       results.sort( function(a, b) { return b["score"] - a["score"] } );
       displayResults(results);
     }
@@ -95,7 +98,7 @@ function displayResults(results) {
   $listResults.innerHTML = "";
   var max = results.length;
   if (results.length == 1) {
-    $noHits.innerHTML = ". Una&nbsp;pàgina";
+    $noHits.innerHTML = ". Una&nbsp;pàgina";    
   }
   else {
     $noHits.innerHTML = ". " + results.length + "&nbsp;pàgines";
