@@ -12,11 +12,9 @@ DefaultContentLanguage = "ca"
   pagerSize = 12
 
 [params]
-  author = "Carles Bellver Torlà"
   description = "Analista de tecnologia educativa. Escriptor amateur."
   avatar =  "/uploads/ulleres_200.jpg"
   website = "https://carlesbellver.net"
-  email = "carles@carlesbellver.net"
   handle = "carlesbellver"
   MastodonUser = "carlesbellver"
   MastodonHost = "mastodon.social"
@@ -36,6 +34,9 @@ DefaultContentLanguage = "ca"
   stats = true
   social.facebook = "carlesbellver"
   social.twitter = "carlesbellver"
+  [params.author]
+    name = "Carles Bellver Torlà"
+    email = "carles@carlesbellver.net"
 
 [permalinks]
   posts = "/:year/:month/:day/:slug"
