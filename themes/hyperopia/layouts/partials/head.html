@@ -4,8 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>{{ .Site.Params.Author }}{{ if (not .IsHome) }} :: {{ if (.Title) }}{{ .Title }}{{ else if (.Params.X_title) }}{{ .Params.X_title }}{{ else if (.Params.date) }}{{ .Params.date | time.Format "2006-01-02 15:04" }}{{ else }}(sense títol){{ end }}{{ end }}</title>
-<meta name="author" content="{{- if .Params.Author }}{{ .Params.Author }}{{ else }}{{ .Site.Params.Author }}{{- end -}}">
+<title>{{ .Site.Params.Author.name }}{{ if (not .IsHome) }} :: {{ if (.Title) }}{{ .Title }}{{ else if (.Params.X_title) }}{{ .Params.X_title }}{{ else if (.Params.date) }}{{ .Params.date | time.Format "2006-01-02 15:04" }}{{ else }}(sense títol){{ end }}{{ end }}</title>
+<meta name="author" content="{{- if .Params.Author }}{{ .Params.Author }}{{ else }}{{ .Site.Params.Author.name }}{{- end -}}">
 <meta name="description" content="{{ .Description }}">
 
 <meta name="fediverse:creator" content="@{{- .Site.Params.MastodonUser -}}@{{- .Site.Params.MastodonHost -}}">
