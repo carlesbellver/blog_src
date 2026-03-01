@@ -6,6 +6,4 @@ tags = ["citacions"]
 +++
 
 > Because our ideas are faulty, we have bugs.
-
-—[Frederick Brooks](http://en.wikipedia.org/wiki/Fred_Brooks), *The Mythical Man-Month*.
-
+{author="[Frederick Brooks](http://en.wikipedia.org/wiki/Fred_Brooks)" caption="*The Mythical Man-Month*."}

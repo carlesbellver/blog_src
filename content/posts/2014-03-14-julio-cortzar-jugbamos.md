@@ -7,6 +7,5 @@ tags = ["citacions"]
 +++
 
 > Para empezar, un escritor juega con las palabras pero juega en serio […] Si ustedes se acuerdan de su propia infancia —y creo que todos nos acordamos; aunque la hemos deformado un poco en el recuerdo, de todas maneras nos acordamos de nuestra infancia— estoy seguro que todos ustedes recordarán muy bien que cuando jugábamos, jugábamos en serio.
-
-—Julio Cortázar, *Clases de literatura. Berkeley, 1980*.
+{author="Julio Cortázar" caption="*Clases de literatura. Berkeley, 1980"}
 
