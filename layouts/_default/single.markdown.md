@@ -1,7 +1,5 @@
-+++
-{{ if .Title -}}title = "{{ .Title }}"{{- end }}
-{{ if .Date -}}date = "{{ .Date }}"{{- end }}
-{{ if .Params.tags -}}tags = {{ .Params.tags }}{{- end }}
-+++
+{{- if .Title -}}# {{ .Title }}{{- end }}
+
+{{ if .Date -}}{{ .Date.Format "2006-01-02" }}{{- end }}
 
 {{ .RawContent }}
