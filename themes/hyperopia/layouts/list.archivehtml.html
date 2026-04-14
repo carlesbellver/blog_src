@@ -20,7 +20,7 @@
     <p>Aquesta pàgina utilitza JavaScript per a carregar un índex de les pàgines del lloc i buscar-hi paraules clau.</p>
     </noscript>
 {{/*
- 	{{ $list := (where site.AllPages "Type" "in" site.Params.mainSections) }}
+ 	{{ $list := (where site.Pages "Type" "in" site.Params.mainSections) }}
 	{{ range $list }}
 		{{ if .Plain }}
       {{ partial "postSummary.html" . }}

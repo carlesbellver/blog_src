@@ -1,5 +1,5 @@
 [
-  {{- $list := (where site.AllPages "Type" "in" site.Params.indexSections) -}}
+  {{- $list := (where site.Pages "Type" "in" site.Params.indexSections) -}}
   {{- $len := (len $list) -}}
   {{ range $index, $value := $list }}
     {{- if .Plain }}
