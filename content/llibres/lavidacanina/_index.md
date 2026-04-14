@@ -1,5 +1,6 @@
 +++
 title = "La vida canina"
+subtitle = "2005"
 description = "La vida canina. Premi de narrativa Vila d’Almassora 2004 (Brosquil, 2005)."
 publisher = "Brosquil"
 date = "2005-09-01T22:00:00+01:00"

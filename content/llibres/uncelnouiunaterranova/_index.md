@@ -1,5 +1,6 @@
 +++
 title = "Un cel nou i una terra nova"
+subtitle = "2015"
 description = "Un cel nou i una terra nova, seguit de set somnis d'escriptors i un d'una escriptora. Premi de narrativa breu Josep Pascual Tirado 2015 (Unaria, 2015)."
 publisher = "Unaria"
 publisher_link = "http://www.unariaediciones.com/u/catalogo/un-cel-nou-i-una-terra-nova/"

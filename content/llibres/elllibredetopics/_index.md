@@ -1,5 +1,6 @@
 +++
 title = "El llibre de tòpics"
+subtitle = "2002"
 description = "El llibre de tòpics (Brosquil, 2002)."
 publisher = "Brosquil"
 date = "2002-09-01T22:00:00+01:00"

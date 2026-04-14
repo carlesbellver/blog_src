@@ -6,8 +6,7 @@ image = "llibres.jpg"
 
 {{< icon question >}} [Què han dit dels meus llibres](/opinions)
 
-<div style="margin: 1em 0;">
-<div style="display:flex;flex-wrap:wrap;gap: 0 10px;margin:0;">
+<div style="display:flex;flex-wrap:wrap;gap: 0 10px;margin: 1em 0;">
 
 <div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/contes/unicorns"><img src="/contes/unicorns/cover_small.jpg" ></a></div>
 
@@ -25,7 +24,6 @@ image = "llibres.jpg"
 
 <div style="flex:0 0 140px;margin:0 auto;text-align:center"><img src="/llibres/alloqueesmeu/cover_small.jpg"></div>
 
-</div>
 </div>
 
 - Les edicions electròniques enllaçades en aquesta pàgina han estat preparades per mi, basant-me en els meus textos originals.

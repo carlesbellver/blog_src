@@ -1,5 +1,6 @@
 +++
 title = "La nit mil dos"
+subtitle = "2013"
 description = "La nit mil dos (Tria, 2013)."
 publisher = "Tria"
 date = "2013-03-01T22:00:00+01:00"

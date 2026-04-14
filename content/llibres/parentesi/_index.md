@@ -1,5 +1,6 @@
 +++
 title = "Parèntesi"
+subtitle = "2011"
 description = "Parèntesi. Publicat originalment amb el títol L'home del calendari (Tria, 2011)."
 note = "Publicat originalment amb el títol <i>L'home del calendari</i>."
 publisher = "Tria"
