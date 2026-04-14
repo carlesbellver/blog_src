@@ -2,6 +2,7 @@
 title = "Llibres"
 description = "Informació sobre els llibres de Carles Bellver Torlà."
 image = "llibres.jpg"
+date = "2020-01-01"
 +++
 
 {{< icon question >}} [Què han dit dels meus llibres](/opinions)
