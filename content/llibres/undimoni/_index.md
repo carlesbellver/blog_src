@@ -4,7 +4,7 @@ subtitle = "2026"
 description = "Set contes entre la realitat i la fantasia, irònics i subtils."
 publisher = ""
 publisher_link = ""
-date = "2026-04-22T06:00:00+02:00"
+date = "2026-04-19T09:30:00+02:00"
 image = "/llibres/undimoni/cover_medium.jpg"
 template = "llibre"
 +++

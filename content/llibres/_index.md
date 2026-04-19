@@ -9,6 +9,8 @@ date = "2020-01-01"
 
 <div style="display:flex;flex-wrap:wrap;gap: 0 10px;margin: 1em 0;">
 
+<div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/undimoni"><img src="/llibres/undimoni/cover_small.jpg"></a></div>
+
 <div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/contes/unicorns"><img src="/contes/unicorns/cover_small.jpg" ></a></div>
 
 <div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/uncelnouiunaterranova"><img src="/llibres/uncelnouiunaterranova/cover_small.jpg"></a></div>
@@ -22,8 +24,6 @@ date = "2020-01-01"
 <div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/lavidacanina"><img src="/llibres/lavidacanina/cover_small.jpg"></a></div>
 
 <div style="flex:0 0 140px;margin:0 auto;text-align:center"><a href="/llibres/elllibredetopics"><img src="/llibres/elllibredetopics/cover_small.jpg"></a></div>
-
-<div style="flex:0 0 140px;margin:0 auto;text-align:center"><img src="/llibres/alloqueesmeu/cover_small.jpg"></div>
 
 </div>
 
