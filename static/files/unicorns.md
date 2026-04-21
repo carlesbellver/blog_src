@@ -31,7 +31,7 @@ Il·lustracions dels contes: [Twemoji](https://twemoji.twitter.com)
 
 Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [creativecommons.org](http://creativecommons.org/licenses/by-nc/4.0/).
 
-[carlesbellver.net/unicorns](http://carlesbellver.net/unicorns)
+[carlesbellver.net](http://carlesbellver.net)
 
 # Citació {.untitled}
 
