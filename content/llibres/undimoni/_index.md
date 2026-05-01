@@ -15,3 +15,11 @@ template = "llibre"
 {{< icon download >}} <span class="small">[PDF](/files/undimoni.pdf)</span>
 
 Un escriptor amb problemes, un impostor i una conspiració vaticana. La decadència de les universitats i la promesa d’omnisciència de les dades massives. Una nit de Sant Joan en una casa perfecta al mig d’un estany. Amor i desamor, art modern i psicofonies. Una dona desapareguda, una pitonissa enigmàtica i una coca de xocolate amb llima per a llepar-se’n els dits. La síndrome de Stendhal i un dimoni en pràctiques. Per a acabar, l’epíleg d’una novel·la, misteriosament censurat. Set contes entre la realitat i la fantasia, irònics i subtils.
+
+1. *Rendez-vous*
+2. La pèrdua de la gràcia
+3. La flauta de Pan
+4. *Pop art*
+5. Coca de xocolate amb llima
+6. Un dimoni en pràctiques
+7. L’epíleg
