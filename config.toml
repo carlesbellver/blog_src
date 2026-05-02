@@ -1,12 +1,14 @@
 baseURL = "https://carlesbellver.net/"
 canonifyURLs = true
-languageCode = "ca-es"
 title = "La vista cansada"
 theme = "hyperopia"
 publishDir = "public"
 uglyurls = false
 summaryLength = 50
-DefaultContentLanguage = "ca"
+
+defaultContentLanguage = 'ca'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
 
 [pagination]
   pagerSize = 12
