@@ -10,7 +10,7 @@ image = "/llibres/undimoni/cover_medium.jpg"
 note = "Notes de l’autor sobre els contes d’<a href=\"/llibres/undimoni\"><i>Un dimoni en pràctiques</i></a>."
 +++
 
-En el moment d’escriure aquest llibre no hi ha vols directes de Madrid a Antananarivo. I l’Instituto Cervantes no té cap seu a Madagascar. La major part del conte [“*Rendez-vous*”](../rendezvous) és igualment ficció. Però el [llac artificial d’Anosy](https://en.wikipedia.org/wiki/Lake_Anosy), en forma de cor, és real.
+En el moment d’escriure aquest llibre no hi ha vols directes de Madrid a Antananarivo. I l’Instituto Cervantes no té cap seu a Madagascar. La major part del conte [“*Rendez-vous*”](../rendezvous) és igualment ficció. Però el [llac artificial d’Anosy](https://fr.wikipedia.org/wiki/Lac_Anosy), en forma de cor, és real.
 
 Els noms dels personatges de [“La pèrdua de la gràcia”](../perdua) s’inspiren en la vida de [Sant Agustí](https://ca.wikipedia.org/wiki/Agustí_d%27Hipona). Les referències de l’interludi esotèrico-filosòfic a la meitat del relat són totalment verídiques, excepte, òbviament, l’última, referent al futur del Reglament General de Protecció de Dades de la Unió Europea.
 
