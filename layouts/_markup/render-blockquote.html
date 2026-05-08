@@ -1,26 +1,32 @@
-<figure>
-	<blockquote{{ with .Attributes.cite }} cite="{{ . }}"{{ end }}>
-		{{ .Text }}
-		{{- if or .Attributes.author .Attributes.caption }}
-			<figcaption>
-				{{- if .Attributes.author -}}
-				  {{- if and .Attributes.cite (not .Attributes.caption) -}}
-				    {{ printf "[%s](%s)" .Attributes.author .Attributes.cite | markdownify }}
-				  {{- else -}}
-  				  {{ .Attributes.author | markdownify }}
-				  {{- end -}}
-				{{ end -}}
-				{{- if and .Attributes.author .Attributes.caption }}, {{ end }}
-				{{- if .Attributes.caption }}
-					<cite>
-						{{- if .Attributes.cite }}
-							{{ printf "[%s](%s)" .Attributes.caption .Attributes.cite | markdownify }}
-						{{- else }}
-							{{ .Attributes.caption | markdownify }}
-						{{- end }}
-					</cite>
-				{{- end }}
-			</figcaption>
-		{{- end }}
-	</blockquote>
-</figure>
+{{- if or .Attributes.caption .Attributes.author .Attributes.cite -}}
+	<figure>
+		<blockquote{{ with .Attributes.cite }} cite="{{ . }}"{{ end }}>
+			{{ .Text }}
+			{{- if or .Attributes.author .Attributes.caption }}
+				<figcaption>
+					{{- if .Attributes.author -}}
+						{{- if and .Attributes.cite (not .Attributes.caption) -}}
+							{{ printf "[%s](%s)" .Attributes.author .Attributes.cite | markdownify }}
+						{{- else -}}
+							{{ .Attributes.author | markdownify }}
+						{{- end -}}
+					{{ end -}}
+					{{- if and .Attributes.author .Attributes.caption }}, {{ end }}
+					{{- if .Attributes.caption }}
+						<cite>
+							{{- if .Attributes.cite }}
+								{{ printf "[%s](%s)" .Attributes.caption .Attributes.cite | markdownify }}
+							{{- else }}
+								{{ .Attributes.caption | markdownify }}
+							{{- end }}
+						</cite>
+					{{- end }}
+				</figcaption>
+			{{- end }}
+		</blockquote>
+	</figure>
+{{- else -}}
+  <blockquote>
+    {{ .Text }}
+  </blockquote>
+{{- end -}}

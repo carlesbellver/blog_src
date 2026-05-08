@@ -3,7 +3,7 @@ url = "/2018/02/06/are-blockchain-blocks.html"
 title = "Són les cadenes de blocs els nous registres akàixics?"
 date = "2018-02-06T06:30:00+00:00"
 slug = "are-blockchain-blocks"
-tags = ["retalls"]
+tags = []
 +++
 
 [Wikipedia](https://en.wikipedia.org/wiki/Akashic_records):
