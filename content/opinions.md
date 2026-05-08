@@ -14,7 +14,7 @@ Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que e
 
 <a name="2026.1"></a>
 
-> Podríem considerar l'obra, per tant, una eina de *soft disclosure*…
+> Podríem considerar l’obra, per tant, una eina de *soft disclosure*…
 {caption="[Pau Salas](https://aferlama.net/posts/2026-05-07-dimoni-en-practiques/) (2026) sobre [*Un dimoni en pràctiques*](/llibres/undimoni/)"}
 
 <hr>
