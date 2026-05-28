@@ -10,6 +10,8 @@ defaultContentLanguage = 'ca'
 defaultContentLanguageInSubdir = false
 disableDefaultLanguageRedirect = false
 
+security.allowContent = ['.*']
+
 [pagination]
   pagerSize = 12
 
