@@ -98,10 +98,10 @@ function displayResults(results) {
   $listResults.innerHTML = "";
   var max = results.length;
   if (results.length == 1) {
-    $noHits.innerHTML = ". Una&nbsp;pàgina";    
+    $noHits.innerHTML = "Una&nbsp;pàgina";    
   }
   else {
-    $noHits.innerHTML = ". " + results.length + "&nbsp;pàgines";
+    $noHits.innerHTML = results.length + "&nbsp;pàgines";
     //if (q && max > MAX) {
     if (max > MAX) {
       max = MAX;
