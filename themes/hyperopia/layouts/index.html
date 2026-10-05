@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+  {{ .Content }}
+
   <article class="post-list">
 	{{ $list := where site.RegularPages "Type" "in" site.Params.indexSections }}
 	{{ range first site.Params.noPosts $list }}
@@ -8,7 +10,7 @@
 	</article>
 	
 	<div class="pagination">
-	  <span class="pagination-item"><img class="icon" src="/svg.icons/search.svg" /> <a href="/archive">Tots els apunts del blog</a></span>
+	  <span class="pagination-item"><img class="icon" src="/svg.icons/search.svg" /> <a href="/archive">Totes les pàgines d’aquest web</a></span>
 	</div>
 
 {{ end }}
