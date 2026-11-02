@@ -5,7 +5,7 @@ slug = "about"
 
 Castelló de la Plana, 1967.
 
-- Analista de tecnologia educativa del [Centre d'Educació i Noves Tecnologies](https://cent.uji.es) (CENT) de la [Universitat Jaume I](https://www.uji.es) de [Castelló](https://ca.wikipedia.org/wiki/Castelló_de_la_Plana).
+- Analista de tecnologia educativa al [Centre d'Educació i Noves Tecnologies](https://cent.uji.es) (CENT) de la [Universitat Jaume I](https://www.uji.es) de [Castelló](https://ca.wikipedia.org/wiki/Castelló_de_la_Plana).
 - [Escriptor](https://carlesbellver.net/llibres/) [amateur](/2011/06/07/reivindicaci-de-lamateurisme.html).
 
 ## Contacte

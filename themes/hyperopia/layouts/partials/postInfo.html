@@ -7,6 +7,7 @@
             {{ if and .Params.date (eq .Parent.Name "Posts") }}
           <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/calendar.svg" alt="calendari" /> <a class="u-url" href="{{ .RelPermalink }}"><span class="post-date dt-published">{{ .Params.date.Format $dateFormat }}</span></a></span></li>
             {{ end }}
+          <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/hash.svg" alt="hash" /> <a class="u-url" href="{{ .RelPermalink }}">{{ crypto.MD5 .Content }}</a></span></li>
             {{ if and .Parent.Name (ne .Parent.Name "Posts") }}
           <li><span class="nobr">
               {{- if eq .Parent.Name "Esborranys privats" -}}

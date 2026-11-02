@@ -1,10 +1,10 @@
   /* Basic */
 
 :root {
-  --font: Georgia, Cambria, Times, "Times New Roman", serif;
-  --font-heading: Georgia, Cambria, Times, "Times New Roman", serif;
-  --font-header: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-  --font-details: -apple-system, BlinkMacSystemFont, 'Atkinson Hyperlegible', Ubuntu, "Microsoft Sans Serif", "Segoe UI", Ubuntu, Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
+  --font: "Exo 2", Ubuntu, sans-serif;
+  --font-heading: "Exo 2", Ubuntu, sans-serif;
+  --font-header: "Exo 2", Ubuntu, sans-serif;
+  --font-details: "Exo 2", Ubuntu, sans-serif;
   --font-bq: Georgia, Cambria, Times, "Times New Roman", serif;
   --font-monospace: "Ubuntu Mono", Monaco, Menlo, monospace;
   --mastodon-comment-indent: 1.5em;
@@ -237,6 +237,7 @@ a.more {
 
 #comments-count a, #comments-list a {
   text-decoration: none;
+  color: var(--post-info-color);
 }
 
 #onthisday a:hover, #onthisday a:focus, #onthisday a:active {

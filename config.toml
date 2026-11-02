@@ -33,11 +33,13 @@ security.allowContent = ['.*']
   summaryLength = 100
   webmentions = false
   fediverse = true
-  openfreemap = true
+  mapquest = true
+  openfreemap = false
   lightbox = false
   stats = true
   social.facebook = "carlesbellver"
   social.twitter = "carlesbellver"
+  googlefonts = ["Exo 2"]
   [params.author]
     name = "Carles Bellver Torlà"
     email = "carles@carlesbellver.net"
