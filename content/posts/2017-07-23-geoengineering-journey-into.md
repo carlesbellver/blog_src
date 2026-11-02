@@ -1,11 +1,11 @@
-+++
-url = "/2017/07/23/geoengineering-journey-into.html"
++++url = "/2017/07/23/geoengineering-journey-into.html"
 date = "2017-07-23T08:55:00+00:00"
 slug = "geoengineering-journey-into"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.nature.com/nature/journal/v526/n7571/full/526038a.html"
 title = "Geoengineering: Journey into geopoetry"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

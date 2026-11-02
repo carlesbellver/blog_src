@@ -1,11 +1,11 @@
-+++
-url = "/2019/05/08/when-you-publish.html"
++++url = "/2019/05/08/when-you-publish.html"
 date = "2019-05-08T05:36:00+00:00"
 slug = "when-you-publish"
-tags = ["retalls"]
+tags = []
 x_url = "https://blog.ayjay.org/glitches-brain-farts-errors/"
 title = "glitches, brain farts, errors"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

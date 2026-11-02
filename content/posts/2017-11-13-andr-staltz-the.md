@@ -1,11 +1,11 @@
-+++
-url = "/2017/11/13/andr-staltz-the.html"
++++url = "/2017/11/13/andr-staltz-the.html"
 date = "2017-11-13T13:29:00+00:00"
 slug = "andr-staltz-the"
-tags = ["retalls"]
+tags = []
 x_url = "https://staltz.com/the-web-began-dying-in-2014-heres-how.html"
 title = "André Staltz: The Web began dying in 2014, here’s how"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,8 +1,8 @@
-+++
-date = "2021-11-13T17:32:42+01:00"
-tags = ["fotos", "Castelló"]
++++date = "2021-11-13T17:32:42+01:00"
+tags = ["Castelló"]
 photos = ["/uploads/2021/2021-11-13-confinament.jpg"]
 slug = "confinament"
+categories = ["fotos"]
 +++
 
 Confinament estricte.

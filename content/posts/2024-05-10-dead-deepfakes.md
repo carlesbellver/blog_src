@@ -1,11 +1,11 @@
-+++
-title = "Deepfakes of your dead loved ones are a booming Chinese business"
++++title = "Deepfakes of your dead loved ones are a booming Chinese business"
 date = "2024-05-10T13:37:46+02:00"
-tags = ["retalls"]
+tags = []
 slug = "dead-deepfakes"
 x_url = "https://www.technologyreview.com/2024/05/07/1092116/deepfakes-dead-chinese-business-grief/"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/112416623852148843"
+categories = ["retalls"]
 +++
 
 El dol —i el culte als ancestres— en l’era de la IA. A la Xina, mitja dotzena d’empreses ofereixen el servei a milers de clients.

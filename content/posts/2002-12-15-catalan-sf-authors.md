@@ -1,9 +1,9 @@
-+++
-title = "Jo passava per allí "
++++title = "Jo passava per allí "
 date = "2002-12-15T22:00:00+00:00"
 slug = "catalan-sf-authors"
-tags = ["fotos"]
+tags = []
 photos = ["/uploads/2002/2002-12-15-catalan-sf-authors.jpg"]
+categories = ["fotos"]
 +++
 
 <img width="600" height="300" src="/uploads/2002/2002-12-15-catalan-sf-authors_1.jpg">

@@ -1,8 +1,8 @@
-+++
-url = "/2020/03/23/les-boires-sn.html"
++++url = "/2020/03/23/les-boires-sn.html"
 date = "2020-03-23T17:48:48+00:00"
 slug = "les-boires-sn"
-tags = ["retalls","citacions"]
+tags = []
+categories = ["citacions", "retalls"]
 +++
 
 > Les boires són ben rares.

@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/22/how-black-women.html"
++++url = "/2019/01/22/how-black-women.html"
 date = "2019-01-22T16:22:00+00:00"
 slug = "how-black-women"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.bbc.com/culture/story/20190114-how-black-women-were-whitewashed-by-art"
 title = "How black women were whitewashed by art"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

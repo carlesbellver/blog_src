@@ -1,11 +1,11 @@
-+++
-url = "/2017/10/30/i-forgot-my.html"
++++url = "/2017/10/30/i-forgot-my.html"
 date = "2017-10-30T12:20:00+00:00"
 slug = "i-forgot-my"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/"
 title = "“I Forgot My PIN”: An Epic Tale of Losing $30,000 in Bitcoin"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

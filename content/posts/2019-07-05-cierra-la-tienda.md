@@ -1,11 +1,11 @@
-+++
-url = "/2019/07/05/cierra-la-tienda.html"
++++url = "/2019/07/05/cierra-la-tienda.html"
 date = "2019-07-05T13:36:00+00:00"
 slug = "cierra-la-tienda"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.microsiervos.com/archivo/libros/cierra-tienda-ebooks-microsoft-desaparecen-libros.html"
 title = "Cierra la tienda de ebooks de Microsoft y con ello desaparecerán los libros allí comprados"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

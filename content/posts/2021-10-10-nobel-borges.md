@@ -1,10 +1,10 @@
-+++
-date = "2021-10-10T10:41:31+02:00"
-tags = ["retalls"]
++++date = "2021-10-10T10:41:31+02:00"
+tags = []
 slug = "nobel-borges"
 x_url = "https://www.eldiario.es/cultura/nobel-literatura-no-mejor-escritor-mundo_1_8374262.html"
 title = "¿Por qué (casi) nunca conocemos al Nobel de Literatura?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

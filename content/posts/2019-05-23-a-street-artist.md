@@ -1,11 +1,11 @@
-+++
-url = "/2019/05/23/a-street-artist.html"
++++url = "/2019/05/23/a-street-artist.html"
 date = "2019-05-23T15:16:00+00:00"
 slug = "a-street-artist"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.juxtapoz.com/news/street-art/watch-banksy-s-new-reveal-a-street-artist-in-venice/"
 title = "A Street Artist In Venice"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,10 +1,10 @@
-+++
-title = ""
++++title = ""
 date = "2025-08-22T23:12:45+02:00"
-tags = ["citacions"]
+tags = []
 slug = "perucho-porter-dimoni"
 image = "/uploads/2025/2025-08-22-nosferatu.jpg"
 fedurl = "https://mastodon.social/@carlesbellver/115074514770397045"
+categories = ["citacions"]
 +++
 
 > 13. Jo no faig literatura sobre la vida sinó literatura sobre la literatura. La vida normal m’interessa per viure-la i gaudir-ne, m’agrada menjar, nedar… Però el que realment m’agrada és la poesia, el misteri, tot allò que s’escapa de la realitat immediata. Que el Pedrolo em parlés d’un senyor que era porter i s’enamorava m’és igual, això passa cada dia. El que no passa cada dia és que obris una porta i t’aparegui el dimoni.

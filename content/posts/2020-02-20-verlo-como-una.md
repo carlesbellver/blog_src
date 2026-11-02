@@ -1,11 +1,11 @@
-+++
-url = "/2020/02/20/verlo-como-una.html"
++++url = "/2020/02/20/verlo-como-una.html"
 date = "2020-02-20T06:00:00+00:00"
 slug = "verlo-como-una"
-tags = ["retalls"]
+tags = []
 x_url = "https://la-u.org/del-fuero-a-la-republica-el-surco-del-carlismo/"
 title = "Del Fuero a la República (el surco del carlismo)"
 x_source = "Jorge Dioni"
+categories = ["retalls"]
 +++
 
 

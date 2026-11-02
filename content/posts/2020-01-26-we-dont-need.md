@@ -1,9 +1,9 @@
-+++
-url = "/2020/01/26/we-dont-need.html"
++++url = "/2020/01/26/we-dont-need.html"
 date = "2020-01-26T17:19:58+00:00"
 slug = "we-dont-need"
-tags = ["fotos", "Castelló"]
+tags = ["Castelló"]
 photos = ["/uploads/2020/d67afc64d0.jpg"]
+categories = ["fotos"]
 +++
 
 *We don’t need no thought control*. M’agrada veure aquest grafit a la façana d’aquell Colegio Nacional, on un dia de novembre de 1975 pareixia que s’acabava el món.

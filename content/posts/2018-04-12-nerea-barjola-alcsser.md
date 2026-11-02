@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/12/nerea-barjola-alcsser.html"
++++url = "/2018/04/12/nerea-barjola-alcsser.html"
 date = "2018-04-12T16:52:00+00:00"
 slug = "nerea-barjola-alcsser"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.elsaltodiario.com/violencia-machista/entrevista-nerea-barjola-alcasser-no-deja-de-suceder-unica-forma-pararlo-feminismo"
 title = "Nerea Barjola: “Alcàsser no deja de suceder y la única forma de pararlo es el feminismo”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,10 +1,10 @@
-+++
-url = "/2004/05/22/el-caragol.html"
++++url = "/2004/05/22/el-caragol.html"
 title = "El caragol"
 date = "2004-05-22T22:00:00+00:00"
 slug = "el-caragol"
 photos = ["/uploads/2004/2004-05-22-caragol.jpg"]
-tags = ["fotos"]
+tags = []
+categories = ["fotos"]
 +++
 
 L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i redó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.

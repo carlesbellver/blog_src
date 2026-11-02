@@ -1,10 +1,10 @@
-+++
-date = "2021-09-26T18:15:00+02:00"
++++date = "2021-09-26T18:15:00+02:00"
 slug = "oscar-alzaga"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.elconfidencial.com/espana/2021-09-26/oscar-alzaga-destruccion-archivos-policiales-franquismo_3296108/"
 title = "“La destrucción de los archivos policiales del franquismo fue un disparate de Martín Villa y Suárez”"
 x_source = "Óscar Alzaga"
+categories = ["retalls"]
 +++
 
 

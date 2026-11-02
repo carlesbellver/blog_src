@@ -1,11 +1,11 @@
-+++
-url = "/2020/02/13/its-worth-noting.html"
++++url = "/2020/02/13/its-worth-noting.html"
 date = "2020-02-13T07:53:26+00:00"
 slug = "its-worth-noting"
-tags = ["retalls", "educació"]
+tags = ["educació"]
 x_url = "https://www.edsurge.com/news/2020-02-12-are-algorithmically-generated-term-papers-the-next-big-challenge-to-academic-integrity"
 title = "Are Algorithmically-Generated Term Papers the Next Big Challenge to Academic Integrity?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

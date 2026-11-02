@@ -1,11 +1,11 @@
-+++
-url = "/2019/02/07/the-future-of.html"
++++url = "/2019/02/07/the-future-of.html"
 date = "2019-02-07T08:56:00+00:00"
 slug = "the-future-of"
-tags = ["retalls"]
+tags = []
 x_url = "https://lens.monash.edu/@education/2019/01/09/1369163/the-future-of-edtech-in-schools-just-look-at-what-theyre-doing-in-china"
 title = "The future of EdTech in schools? Just look at what they’re doing in China"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

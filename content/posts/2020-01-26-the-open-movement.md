@@ -1,11 +1,11 @@
-+++
-url = "/2020/01/26/the-open-movement.html"
++++url = "/2020/01/26/the-open-movement.html"
 date = "2020-01-26T08:25:00+00:00"
 slug = "the-open-movement"
-tags = ["retalls"]
+tags = []
 x_url = "https://medium.com/@beewithablog/open-is-cancelled-da7dd6f2aaaf"
 title = "Open is Cancelled"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

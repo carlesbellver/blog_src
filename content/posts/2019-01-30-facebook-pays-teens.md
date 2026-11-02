@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/30/facebook-pays-teens.html"
++++url = "/2019/01/30/facebook-pays-teens.html"
 date = "2019-01-30T07:29:00+00:00"
 slug = "facebook-pays-teens"
-tags = ["retalls"]
+tags = []
 x_url = "https://techcrunch.com/2019/01/29/facebook-project-atlas/"
 title = "Facebook pays teens to install VPN that spies on them"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

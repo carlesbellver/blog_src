@@ -1,11 +1,11 @@
-+++
-url = "/2019/06/24/sidewalk-chalk-drawing.html"
++++url = "/2019/06/24/sidewalk-chalk-drawing.html"
 date = "2019-06-24T09:39:00+00:00"
 slug = "sidewalk-chalk-drawing"
-tags = ["retalls"]
+tags = []
 x_url = "https://qz.com/quartzy/1650194/the-history-of-sidewalk-chalk-drawings/"
 title = "Sidewalk chalk drawing goes back 500 years"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

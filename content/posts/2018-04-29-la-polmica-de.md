@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/29/la-polmica-de.html"
++++url = "/2018/04/29/la-polmica-de.html"
 date = "2018-04-29T07:51:00+00:00"
 slug = "la-polmica-de"
-tags = ["retalls"]
+tags = []
 x_url = "http://ctxt.es/es/20180425/Culturas/19254/lolita-polemica-Vargas-Llosa-Laura-Freixas-feminismo.htm"
 title = "La polémica de ‘Lolita’"
 x_source = "Laura Freixas"
+categories = ["retalls"]
 +++
 
 

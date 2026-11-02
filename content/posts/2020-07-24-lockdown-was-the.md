@@ -1,11 +1,11 @@
-+++
-url = "/2020/07/24/lockdown-was-the.html"
++++url = "/2020/07/24/lockdown-was-the.html"
 date = "2020-07-24T07:52:00+00:00"
 slug = "lockdown-was-the"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.technologyreview.com/2020/07/23/1005574/lockdown-was-the-longest-period-of-quiet-in-human-history/"
 title = "Lockdown was the longest period of quiet in recorded human history"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

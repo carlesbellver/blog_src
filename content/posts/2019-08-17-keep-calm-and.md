@@ -1,9 +1,9 @@
-+++
-url = "/2019/08/17/keep-calm-and.html"
++++url = "/2019/08/17/keep-calm-and.html"
 date = "2019-08-17T10:10:53+00:00"
 slug = "keep-calm-and"
-tags = ["fotos", "Morella"]
+tags = ["Morella"]
 photos = ["/uploads/2019/7df4271651.jpg"]
+categories = ["fotos"]
 +++
 
 *Keep calm and hold on, little [babewyn](https://en.wikipedia.org/wiki/Grotesque_%28architecture%29)*. Santa Maria de Morella.

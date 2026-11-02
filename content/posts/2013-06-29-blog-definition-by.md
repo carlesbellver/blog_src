@@ -1,8 +1,8 @@
-+++
-url = "/2013/06/29/blog-definition-by.html"
++++url = "/2013/06/29/blog-definition-by.html"
 date = "2013-06-29T22:00:00+00:00"
 slug = "blog-definition-by"
-tags = ["retalls", "citacions"]
+tags = []
+categories = ["citacions", "retalls"]
 +++
 
 > …the unedited voice of an individual.

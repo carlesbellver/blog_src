@@ -1,11 +1,11 @@
-+++
-url = "/2020/05/16/one-can-accept.html"
++++url = "/2020/05/16/one-can-accept.html"
 date = "2020-05-16T07:30:59+00:00"
 slug = "one-can-accept"
-tags = ["retalls"]
+tags = []
 x_url = "https://freethoughtblogs.com/pharyngula/2019/12/06/evolutionary-psychology-gets-another-whack/"
 title = "Evolutionary Psychology gets another whack"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/10/precria-universitat-reportatge.html"
++++url = "/2019/01/10/precria-universitat-reportatge.html"
 date = "2019-01-10T13:04:00+00:00"
 slug = "precria-universitat-reportatge"
-tags = ["retalls", "educació"]
+tags = ["educació"]
 x_url = "https://www.eltemps.cat/article/5841/precaria-universitat"
 title = "Precària universitat"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

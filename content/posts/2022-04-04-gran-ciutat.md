@@ -1,10 +1,10 @@
-+++
-date = "2022-04-04T08:00:35+02:00"
-tags = ["retalls", "citacions", "Castelló", "UJI", "educació"]
++++date = "2022-04-04T08:00:35+02:00"
+tags = ["Castelló", "UJI", "educació"]
 slug = "gran-ciutat"
 x_url = "https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html"
 title = "Bruce Katz, urbanista de ciutats globals"
 x_source = ""
+categories = ["citacions", "retalls"]
 +++
 
 Bon dia. Ja ens queda menys: al voltant de cent setanta anys #Castelló #UJI

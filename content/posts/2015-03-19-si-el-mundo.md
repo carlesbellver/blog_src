@@ -1,10 +1,10 @@
-+++
-url = "/2015/03/19/si-el-mundo.html"
++++url = "/2015/03/19/si-el-mundo.html"
 title = "Si el mundo quiere ver como está su salud que se haga un coproanálisis"
 date = "2015-03-19T23:00:00+00:00"
 slug = "si-el-mundo"
-tags = ["retalls", "citacions"]
+tags = []
 x_source = "Jon Sobrino"
+categories = ["citacions", "retalls"]
 +++
 
 > …una metáfora que empleó Ellacuría, por última vez, ocho días antes de ser asesinado en San Salvador: “Si el mundo quiere ver como está su salud que se haga un coproanálisis”.

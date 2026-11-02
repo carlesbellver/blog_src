@@ -1,11 +1,11 @@
-+++
-url = "/2015/06/08/la-guerra-de.html"
++++url = "/2015/06/08/la-guerra-de.html"
 date = "2015-06-08T22:00:00+00:00"
 slug = "la-guerra-de"
-tags = ["retalls", "educació", "copyright"]
+tags = ["educació", "copyright"]
 x_url = "http://economia.elpais.com/economia/2015/06/05/actualidad/1433510626_359303.html"
 title = "La guerra de las universidades contra el ‘copy-paste’"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

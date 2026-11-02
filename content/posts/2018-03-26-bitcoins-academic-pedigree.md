@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/26/bitcoins-academic-pedigree.html"
++++url = "/2018/03/26/bitcoins-academic-pedigree.html"
 date = "2018-03-26T14:25:00+00:00"
 slug = "bitcoins-academic-pedigree"
-tags = ["retalls"]
+tags = []
 x_url = "https://queue.acm.org/detail.cfm?id=3136559"
 title = "Bitcoin’s Academic Pedigree"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

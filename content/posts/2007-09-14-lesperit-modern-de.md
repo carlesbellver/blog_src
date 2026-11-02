@@ -1,9 +1,9 @@
-+++
-url = "/2007/09/14/lesperit-modern-de.html"
++++url = "/2007/09/14/lesperit-modern-de.html"
 title = "L’esperit modern de la pressa"
 date = "2007-09-14T22:00:00+00:00"
 slug = "lesperit-modern-de"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Si a uno le gustan las novelas, escribe novelas; si le gustan los cuentos, uno escribe cuentos. Como a mí me ocurre lo último, escribo cuentos. Pero no tantos: seis en nueve años, ocho en doce. Y así.

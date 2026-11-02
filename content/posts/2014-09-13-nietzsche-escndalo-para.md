@@ -1,8 +1,8 @@
-+++
-url = "/2014/09/13/nietzsche-escndalo-para.html"
++++url = "/2014/09/13/nietzsche-escndalo-para.html"
 date = "2014-09-13T22:00:00+00:00"
 slug = "nietzsche-escndalo-para"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Tot i essent un escàndol per als demòcrates i un disbarat per als catedràtics, el nom de Friedrich Nietzsche continua fent bategar fortament els cors d’artistes i revisionistes.

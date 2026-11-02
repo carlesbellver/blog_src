@@ -1,11 +1,11 @@
-+++
-title = "SETI Editorial: Toilets of the Gods"
++++title = "SETI Editorial: Toilets of the Gods"
 date = "2026-02-15T20:36:20+01:00"
-tags = ["retalls"]
+tags = []
 slug = "toilets-gods"
 x_url = "https://www.setileague.org/editor/clarke2.htm"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/116076337211123443"
+categories = ["retalls"]
 +++
 
 Arthur C. Clarke sobre la possibilitat que fems extraterrestres originaren la vida al nostre planeta.

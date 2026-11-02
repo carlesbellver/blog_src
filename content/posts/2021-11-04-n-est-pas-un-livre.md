@@ -1,8 +1,8 @@
-+++
-date = "2021-11-04T18:30:00+01:00"
-tags = ["fotos"]
++++date = "2021-11-04T18:30:00+01:00"
+tags = []
 slug = "n-est-pas-un-livre"
 photos = ["/uploads/2021/2021-11-04-unicorns.png"]
+categories = ["fotos"]
 +++
 
 Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d’aquesta imatge.

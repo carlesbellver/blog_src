@@ -1,10 +1,10 @@
-+++
-title = ""
++++title = ""
 date = "2026-04-06T13:29:48+02:00"
-tags = ["fotos"]
+tags = ["castelló"]
 photos = ["/uploads/2026/2026-04-06-sant-vicent.jpg"]
 slug = "sant-vicent"
 fedurl = "https://mastodon.social/@carlesbellver/116357528698531012"
+categories = ["fotos"]
 +++
 
 Campanar de l'església de Sant Vicent a Castelló de la Plana.

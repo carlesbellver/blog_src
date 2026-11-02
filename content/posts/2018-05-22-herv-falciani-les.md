@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/22/herv-falciani-les.html"
++++url = "/2018/05/22/herv-falciani-les.html"
 date = "2018-05-22T10:28:00+00:00"
 slug = "herv-falciani-les"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.uji.es/com/noticies/2018/05/2q/herve-falciani/"
 title = "Hervé Falciani: «Les criptomonedes són l’evolució natural dels paradisos fiscals»"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

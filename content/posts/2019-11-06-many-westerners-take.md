@@ -1,11 +1,11 @@
-+++
-url = "/2019/11/06/many-westerners-take.html"
++++url = "/2019/11/06/many-westerners-take.html"
 date = "2019-11-06T16:39:00+00:00"
 slug = "many-westerners-take"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.bbc.com/future/article/20191004-the-peculiar-bathroom-habits-of-westerners"
 title = "The peculiar bathroom habits of Westerners"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

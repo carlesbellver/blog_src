@@ -1,11 +1,11 @@
-+++
-url = "/2019/04/22/the-european-commission.html"
++++url = "/2019/04/22/the-european-commission.html"
 date = "2019-04-22T08:42:00+00:00"
 slug = "the-european-commission"
-tags = ["retalls", "copyright"]
+tags = ["copyright"]
 x_url = "https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537"
 title = "The EU suppressed a 300 page/€360,000 study that found piracy doesn’t harm sales"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,9 +1,9 @@
-+++
-title = "Que entre el cerdo hormiguero"
++++title = "Que entre el cerdo hormiguero"
 date = "2026-08-20T12:06:35+02:00"
-tags = ["ressenyes"]
+tags = []
 slug = "enter-aardvark"
 fedurl = "https://mastodon.social/@carlesbellver/117127249519471969"
+categories = ["ressenyes"]
 +++
 
 {{< icon book >}}

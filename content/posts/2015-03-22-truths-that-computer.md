@@ -1,11 +1,11 @@
-+++
-url = "/2015/03/22/truths-that-computer.html"
++++url = "/2015/03/22/truths-that-computer.html"
 date = "2015-03-22T23:00:00+00:00"
 slug = "truths-that-computer"
-tags = ["retalls"]
+tags = []
 x_url = "http://macleodsawyer.com/2015/03/06/nine-truths-computer-programmers-know-that-most-people-dont/"
 title = "9 Truths Computer Programmers Know That Most People Don’t"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

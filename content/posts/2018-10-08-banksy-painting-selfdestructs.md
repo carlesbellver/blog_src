@@ -1,11 +1,11 @@
-+++
-url = "/2018/10/08/banksy-painting-selfdestructs.html"
++++url = "/2018/10/08/banksy-painting-selfdestructs.html"
 date = "2018-10-08T08:38:00+00:00"
 slug = "banksy-painting-selfdestructs"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.nytimes.com/2018/10/06/arts/design/uk-banksy-painting-sothebys.html"
 title = "Banksy Painting Self-Destructs After Fetching $1.4 Million at Sotheby’s"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

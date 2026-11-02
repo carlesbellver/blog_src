@@ -1,11 +1,11 @@
-+++
-url = "/2018/09/05/google-purchased-bulk.html"
++++url = "/2018/09/05/google-purchased-bulk.html"
 date = "2018-09-05T08:55:00+00:00"
 slug = "google-purchased-bulk"
-tags = ["retalls"]
+tags = []
 x_url = "https://pxlnv.com/linklog/google-mastercard-deal/"
 title = "Google Purchased Bulk Transaction Data from Mastercard to Link Online Ads and Offline Purchases"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

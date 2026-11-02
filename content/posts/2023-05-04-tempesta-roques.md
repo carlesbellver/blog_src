@@ -1,11 +1,11 @@
-+++
-date = "2023-05-04T22:10:05+02:00"
-tags = ["retalls"]
++++date = "2023-05-04T22:10:05+02:00"
+tags = []
 slug = "tempesta-roques"
 x_url = "https://www.elpontdeleslletres.cat/2023/04/24/tempesta/"
 title = "Presentació de LA TEMPESTA CONTRA LES ROQUES. POESIA I MEMÒRIA D’ALBERT GARCIA PASCUAL"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/110312238767419565"
+categories = ["retalls"]
 +++
 
 {{< ical "/uploads/2023/2023-05-07-invite.ics" >}}

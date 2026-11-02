@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/23/lautoritat-de-linescrutable.html"
++++url = "/2019/01/23/lautoritat-de-linescrutable.html"
 date = "2019-01-23T08:55:00+00:00"
 slug = "lautoritat-de-linescrutable"
-tags = ["retalls"]
+tags = []
 x_url = "http://lab.cccb.org/ca/lautoritat-de-linescrutable-entrevista-amb-cathy-oneil/"
 title = "L’autoritat de l’inescrutable: entrevista amb Cathy O’Neil"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

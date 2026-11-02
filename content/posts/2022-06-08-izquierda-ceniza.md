@@ -1,10 +1,10 @@
-+++
-date = "2022-06-05T11:56:33+02:00"
-tags = ["retalls"]
++++date = "2022-06-05T11:56:33+02:00"
+tags = []
 slug = "izquierda-ceniza"
 x_url = "https://ctxt.es/es/20220601/Firmas/39900/"
 title = "La izquierda ceniza"
 x_source = "Ignacio Sánchez-Cuenca"
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2018/10/10/the-surprising-truth.html"
++++url = "/2018/10/10/the-surprising-truth.html"
 date = "2018-10-10T17:42:00+00:00"
 slug = "the-surprising-truth"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.bbc.com/future/story/20180928-the-surprising-truth-about-loneliness"
 title = "The surprising truth about loneliness"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

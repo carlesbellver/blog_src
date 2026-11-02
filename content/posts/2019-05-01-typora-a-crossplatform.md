@@ -1,11 +1,11 @@
-+++
-url = "/2019/05/01/typora-a-crossplatform.html"
++++url = "/2019/05/01/typora-a-crossplatform.html"
 date = "2019-05-01T17:25:00+00:00"
 slug = "typora-a-crossplatform"
-tags = ["retalls"]
+tags = []
 x_url = "https://typora.io/"
 title = "Typora"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

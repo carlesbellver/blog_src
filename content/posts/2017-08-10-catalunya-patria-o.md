@@ -1,11 +1,11 @@
-+++
-url = "/2017/08/10/catalunya-patria-o.html"
++++url = "/2017/08/10/catalunya-patria-o.html"
 date = "2017-08-10T16:24:00+00:00"
 slug = "catalunya-patria-o"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.lavanguardia.com/opinion/20170805/43329802265/catalunya-patria-muerte.html"
 title = "Catalunya: ¿patria o muerte?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-title = "Memòria del pintor Joan Baptista Porcar i Ripollés"
++++title = "Memòria del pintor Joan Baptista Porcar i Ripollés"
 date = "2024-10-13T17:17:50+02:00"
-tags = ["retalls"]
+tags = []
 slug = "memoria-pintor-porcar"
 x_url = "https://www.porcar.net/2024/10/12/memoria-del-pintor-joan-baptista-porcar-i-ripolles/"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/113300768852847363"
+categories = ["retalls"]
 +++
 
 > En conjunt, el país, com és habitual, no n’ha dit res, d’aquest gran pintor del país. I va així, a cada bugada perdem un llençol.  

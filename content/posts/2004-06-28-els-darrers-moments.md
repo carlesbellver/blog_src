@@ -1,9 +1,9 @@
-+++
-url = "/2004/06/28/els-darrers-moments.html"
++++url = "/2004/06/28/els-darrers-moments.html"
 title = "Els darrers moments de Primo Levi"
 date = "2004-06-28T22:00:00+00:00"
 slug = "els-darrers-moments"
-tags = ["retalls"]
+tags = []
+categories = ["retalls"]
 +++
 
 El número de juny de 2004 de la Revista de Occidente publica la reconstrucció de “Los últimos momentos de Primo Levi” realitzada per [Diego Gambetta](http://en.wikipedia.org/wiki/Diego_Gambetta), professor de Sociologia a Oxford.

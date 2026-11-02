@@ -1,11 +1,11 @@
-+++
-url = "/2017/11/07/how-twitter-secretly.html"
++++url = "/2017/11/07/how-twitter-secretly.html"
 date = "2017-11-07T17:56:00+00:00"
 slug = "how-twitter-secretly"
-tags = ["retalls"]
+tags = []
 x_url = "https://theintercept.com/2017/11/06/how-twitter-secretly-benefits-from-bots-and-fake-accounts/"
 title = "How Twitter Secretly Benefits From Bots and Fake Accounts"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

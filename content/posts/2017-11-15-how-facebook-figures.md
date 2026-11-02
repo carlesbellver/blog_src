@@ -1,11 +1,11 @@
-+++
-url = "/2017/11/15/how-facebook-figures.html"
++++url = "/2017/11/15/how-facebook-figures.html"
 date = "2017-11-15T12:29:00+00:00"
 slug = "how-facebook-figures"
-tags = ["retalls"]
+tags = []
 x_url = "https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691"
 title = "How Facebook Figures Out Everyone You’ve Ever Met"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

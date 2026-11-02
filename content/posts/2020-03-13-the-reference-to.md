@@ -1,11 +1,11 @@
-+++
-url = "/2020/03/13/the-reference-to.html"
++++url = "/2020/03/13/the-reference-to.html"
 date = "2020-03-13T18:57:00+00:00"
 slug = "the-reference-to"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.amusingplanet.com/2020/03/the-earliest-depiction-of-jesus-was.html"
 title = "The Earliest Depiction of Jesus Was a Mocking Tribute to Christianity"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

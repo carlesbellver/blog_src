@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/18/chatbots-are-saints.html"
++++url = "/2018/05/18/chatbots-are-saints.html"
 date = "2018-05-18T11:57:00+00:00"
 slug = "chatbots-are-saints"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.roughtype.com/?p=8456"
 title = "Chatbots are saints"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

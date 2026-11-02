@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/23/deeper-tips-for.html"
++++url = "/2018/05/23/deeper-tips-for.html"
 date = "2018-05-23T15:30:00+00:00"
 slug = "deeper-tips-for"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.downes.ca/post/68122"
 title = "12 Deeper Tips for Great Public Speaking"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

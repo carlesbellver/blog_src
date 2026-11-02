@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/10/jaime-miquel-la.html"
++++url = "/2018/05/10/jaime-miquel-la.html"
 date = "2018-05-10T08:45:00+00:00"
 slug = "jaime-miquel-la"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.lavozdegalicia.es/noticia/opinion/2018/05/09/perestroika-necesita-estado/0003_201805G9P12993.htm"
 title = "Jaime Miquel: La perestroika que necesita el Estado"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

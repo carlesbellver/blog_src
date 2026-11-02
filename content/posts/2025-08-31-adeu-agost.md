@@ -1,10 +1,10 @@
-+++
-title = ""
++++title = ""
 date = "2025-08-31T08:32:09+02:00"
-tags = ["fotos", "Morella"]
+tags = ["Morella"]
 photos = ["/uploads/2025/2025-08-31-adeu-agost.jpg"]
 slug = "adeu-agost"
 fedurl = "https://mastodon.social/@carlesbellver/115121970388780912"
+categories = ["fotos"]
 +++
 
 Adeu a l’agost.

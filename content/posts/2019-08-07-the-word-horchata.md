@@ -1,11 +1,11 @@
-+++
-url = "/2019/08/07/the-word-horchata.html"
++++url = "/2019/08/07/the-word-horchata.html"
 date = "2019-08-07T07:34:00+00:00"
 slug = "the-word-horchata"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.atlasobscura.com/articles/history-of-horchata"
 title = "Why Are so Many Different Drinks Called Horchata?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2018/09/18/jaron-lanier-los.html"
++++url = "/2018/09/18/jaron-lanier-los.html"
 date = "2018-09-18T14:11:00+00:00"
 slug = "jaron-lanier-los"
-tags = ["retalls"]
+tags = []
 x_url = "https://elpais.com/cultura/2018/09/13/babelia/1536838060_368784.html"
 title = "Jaron Lanier: “Los monopolios han arruinado Internet”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

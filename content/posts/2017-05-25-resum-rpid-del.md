@@ -1,9 +1,9 @@
-+++
-url = "/2017/05/25/resum-rpid-del.html"
++++url = "/2017/05/25/resum-rpid-del.html"
 title = "Resum ràpid del llibre blanc de la CEOE sobre l’educació"
 date = "2017-05-25T22:00:00+00:00"
 slug = "resum-rpid-del"
-tags = ["retalls", "educació"]
+tags = ["educació"]
+categories = ["retalls"]
 +++
 
 1. Les universitats públiques no haurien de promoure estudis en àrees de coneixement que el president de la patronal ignora i se sent molt a gust ignorant. Tant s’hi val filologia etrusca com metafísica xinesa o modelització matemàtica.

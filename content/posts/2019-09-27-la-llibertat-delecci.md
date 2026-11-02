@@ -1,8 +1,8 @@
-+++
-url = "/2019/09/27/la-llibertat-delecci.html"
++++url = "/2019/09/27/la-llibertat-delecci.html"
 date = "2019-09-27T09:59:21+00:00"
 slug = "la-llibertat-delecci"
-tags = ["fotos", "uji"]
+tags = ["uji"]
+categories = ["fotos"]
 +++
 
 La llibertat d’elecció neoliberal adaptada a l’alimentació col·lectiva.

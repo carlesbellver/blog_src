@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/24/lets-destroy-bitcoin.html"
++++url = "/2018/04/24/lets-destroy-bitcoin.html"
 date = "2018-04-24T09:17:00+00:00"
 slug = "lets-destroy-bitcoin"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.technologyreview.com/s/610809/lets-destroy-bitcoin/"
 title = "Let’s destroy Bitcoin"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

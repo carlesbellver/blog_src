@@ -1,9 +1,9 @@
-+++
-url = "/2014/03/13/dos-de-tres.html"
++++url = "/2014/03/13/dos-de-tres.html"
 title = "Dos de tres, o la màquina del temps"
 date = "2014-03-13T23:00:00+00:00"
 slug = "dos-de-tres"
-tags = ["retalls", "citacions"]
+tags = []
+categories = ["citacions", "retalls"]
 +++
 
 > Crec que es pot prestar tota l’atenció a dues de les tres coses que esmentes: treballar i escriure, família i treball, família i escriure; però no a totes tres alhora.

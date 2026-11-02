@@ -1,9 +1,9 @@
-+++
-url = "/2015/09/16/de-la-revelaci.html"
++++url = "/2015/09/16/de-la-revelaci.html"
 title = "De la revelació, la definició i la independència del ciberespai"
 date = "2015-09-16T22:00:00+00:00"
 slug = "de-la-revelaci"
-tags = ["retalls"]
+tags = []
+categories = ["retalls"]
 +++
 
 <a title="See page for author [Public domain], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AAdolphe_Bitard_-_T%C3%A9l%C3%A9phone.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/1/12/Adolphe_Bitard_-_T%C3%A9l%C3%A9phone.jpg" class="img-responsive"></a>

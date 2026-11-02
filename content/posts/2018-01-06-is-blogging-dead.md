@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/06/is-blogging-dead.html"
++++url = "/2018/01/06/is-blogging-dead.html"
 date = "2018-01-06T10:18:00+00:00"
 slug = "is-blogging-dead"
-tags = ["retalls"]
+tags = []
 x_url = "https://tedium.co/2018/01/01/is-blogging-dead-2018/"
 title = "Is Blogging Dead?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

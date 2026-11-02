@@ -1,11 +1,11 @@
-+++
-url = "/2018/12/11/your-apps-know.html"
++++url = "/2018/12/11/your-apps-know.html"
 date = "2018-12-11T08:36:00+00:00"
 slug = "your-apps-know"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html"
 title = "Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-title = "The 3 AI Use Cases: Gods, Interns, and Cogs"
++++title = "The 3 AI Use Cases: Gods, Interns, and Cogs"
 date = "2024-10-22T10:02:30+02:00"
-tags = ["retalls"]
+tags = []
 slug = "gods-interns-cogs"
 x_url = "https://www.dbreunig.com/2024/10/18/the-3-ai-use-cases-gods-interns-and-cogs.html"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/113350016334438628"
+categories = ["retalls"]
 +++
 
 Un bon intent de classificació, conceptualment útil, dels casos d’ús típics de la Intel·ligència Artificial actual:

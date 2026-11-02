@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/27/complete-axolotl-genome.html"
++++url = "/2019/01/27/complete-axolotl-genome.html"
 date = "2019-01-27T08:23:00+00:00"
 slug = "complete-axolotl-genome"
-tags = ["retalls"]
+tags = []
 x_url = "https://gizmodo.com/complete-axolotl-genome-may-be-a-huge-step-toward-human-1832015926"
 title = "Complete Axolotl Genome Could Pave the Way Toward Human Tissue Regeneration"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

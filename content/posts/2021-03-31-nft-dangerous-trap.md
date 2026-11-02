@@ -1,10 +1,10 @@
-+++
-date = "2021-03-31T15:45:46+02:00"
-tags = ["retalls"]
++++date = "2021-03-31T15:45:46+02:00"
+tags = []
 slug = "nft-dangerous-trap"
 x_url = "https://seths.blog/2021/03/nfts-are-a-dangerous-trap/"
 title = "NFTs are a dangerous trap"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

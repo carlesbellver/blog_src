@@ -1,11 +1,11 @@
-+++
-url = "/2018/02/13/the-simpsons-has.html"
++++url = "/2018/02/13/the-simpsons-has.html"
 date = "2018-02-13T10:05:00+00:00"
 slug = "the-simpsons-has"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.nytimes.com/2018/02/02/arts/television/simpsons-prediction-future.html"
 title = "‘The Simpsons’ Has Predicted a Lot. Most of It Can Be Explained."
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/15/redecentralizing-the-web.html"
++++url = "/2019/01/15/redecentralizing-the-web.html"
 date = "2019-01-15T07:27:00+00:00"
 slug = "redecentralizing-the-web"
-tags = ["retalls"]
+tags = []
 x_url = "https://ruben.verborgh.org/articles/redecentralizing-the-web/"
 title = "Re-decentralizing the Web, for good this time"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2019/02/20/the-technology-behind.html"
++++url = "/2019/02/20/the-technology-behind.html"
 date = "2019-02-20T07:17:00+00:00"
 slug = "the-technology-behind"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/"
 title = "The technology behind OpenAI’s fiction-writing, fake-news-spewing AI, explained"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

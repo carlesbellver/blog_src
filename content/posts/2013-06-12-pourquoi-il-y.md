@@ -1,9 +1,9 @@
-+++
-url = "/2013/06/12/pourquoi-il-y.html"
++++url = "/2013/06/12/pourquoi-il-y.html"
 title = "Pourquoi il y a plutôt quelque chose que rien?"
 date = "2013-06-12T22:00:00+00:00"
 slug = "pourquoi-il-y"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > […] la première question qu’on a droit de faire sera: *pourquoi il y a plutôt quelque chose que rien?* Car le rien est plus simple et plus facile que quelque chose.

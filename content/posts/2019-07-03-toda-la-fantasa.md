@@ -1,11 +1,11 @@
-+++
-url = "/2019/07/03/toda-la-fantasa.html"
++++url = "/2019/07/03/toda-la-fantasa.html"
 date = "2019-07-03T13:53:46+00:00"
 slug = "toda-la-fantasa"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.letraslibres.com/espana-mexico/ciencia-y-tecnologia/entrevista-marta-peirano-facebook-es-un-paraiso-fiscal-la-informacion"
 title = "“Facebook es un paraíso fiscal de la información”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

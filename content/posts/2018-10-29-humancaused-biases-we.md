@@ -1,11 +1,11 @@
-+++
-url = "/2018/10/29/humancaused-biases-we.html"
++++url = "/2018/10/29/humancaused-biases-we.html"
 date = "2018-10-29T09:05:00+00:00"
 slug = "humancaused-biases-we"
-tags = ["retalls"]
+tags = []
 x_url = "https://thenextweb.com/contributors/2018/10/27/4-human-caused-biases-machine-learning/"
 title = "4 human-caused biases we need to fix for machine learning"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

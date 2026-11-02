@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/29/system-fonts-in.html"
++++url = "/2018/03/29/system-fonts-in.html"
 date = "2018-03-29T10:10:00+00:00"
 slug = "system-fonts-in"
-tags = ["retalls"]
+tags = []
 x_url = "https://furbo.org/2018/03/28/system-fonts-in-css/"
 title = "System Fonts in CSS"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

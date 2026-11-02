@@ -1,9 +1,9 @@
-+++
-url = "/2014/01/23/if-you-want.html"
++++url = "/2014/01/23/if-you-want.html"
 title = "If you want to get laid, go to college (Frank Zappa?)"
 date = "2014-01-23T23:00:00+00:00"
 slug = "if-you-want"
-tags = ["retalls","citacions","educació"]
+tags = ["educació"]
+categories = ["citacions", "retalls"]
 +++
 
 > If you want to get laid, go to college; if you want an education, go to the library.

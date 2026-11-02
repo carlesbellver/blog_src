@@ -1,8 +1,8 @@
-+++
-url = "/2017/01/06/john-berger-lesperana.html"
++++url = "/2017/01/06/john-berger-lesperana.html"
 date = "2017-01-06T23:00:00+00:00"
 slug = "john-berger-lesperana"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > D’aquest món present que coneixen tan bé, no n’esperaven res millor.

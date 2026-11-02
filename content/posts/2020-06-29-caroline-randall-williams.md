@@ -1,11 +1,11 @@
-+++
-url = "/2020/06/29/caroline-randall-williams.html"
++++url = "/2020/06/29/caroline-randall-williams.html"
 date = "2020-06-29T18:48:20+00:00"
 slug = "caroline-randall-williams"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.nytimes.com/2020/06/26/opinion/confederate-monuments-racism.html"
 title = "You Want a Confederate Monument? My Body Is a Confederate Monument"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

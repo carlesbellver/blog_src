@@ -1,11 +1,11 @@
-+++
-url = "/2016/02/02/el-aprendizaje-en.html"
++++url = "/2016/02/02/el-aprendizaje-en.html"
 date = "2016-02-02T23:00:00+00:00"
 slug = "el-aprendizaje-en"
-tags = ["retalls"]
+tags = []
 x_url = "http://cent.uji.es/octeto/node/4477"
 title = "El aprendizaje en línea en la encrucijada: automatización o empoderamiento (Tony Bates)"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

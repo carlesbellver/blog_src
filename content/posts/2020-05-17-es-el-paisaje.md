@@ -1,11 +1,11 @@
-+++
-url = "/2020/05/17/es-el-paisaje.html"
++++url = "/2020/05/17/es-el-paisaje.html"
 date = "2020-05-17T06:44:00+00:00"
 slug = "es-el-paisaje"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.lavanguardia.com/lacontra/20200513/481129463088/el-subsol-es-tan-salvatge-i-divers-com-una-selva-tropical.html"
 title = "“El subsol és tan salvatge i divers com una selva tropical”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

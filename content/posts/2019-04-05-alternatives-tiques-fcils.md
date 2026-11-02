@@ -1,11 +1,11 @@
-+++
-url = "/2019/04/05/alternatives-tiques-fcils.html"
++++url = "/2019/04/05/alternatives-tiques-fcils.html"
 date = "2019-04-05T08:15:03+00:00"
 slug = "alternatives-tiques-fcils"
-tags = ["retalls"]
+tags = []
 x_url = "https://switching.social/"
 title = "switching.social"
 x_source = ""
+categories = ["retalls"]
 +++
 
 Alternatives ètiques, fàcils d’utilitzar i respectuoses amb la privacitat per als webs i apps socials més populars: Facebook, Twitter, Instagram, YouTube, WhatsApp, Gmail…

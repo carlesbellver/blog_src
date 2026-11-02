@@ -1,11 +1,11 @@
-+++
-title = "Llibres per correu (i RSS)"
++++title = "Llibres per correu (i RSS)"
 date = "2025-06-28T18:54:11+02:00"
-tags = ["retalls"]
+tags = []
 slug = "llibres-per-correu"
 x_url = "https://po.l0fi.net"
 x_source = ""
 fedurl = ""
+categories = ["retalls"]
 +++
 
 Des de 1992, m’he interessat pel potencial de les eines d’Internet en la creació literària i la creativitat en general. Aquest [prototip](https://po.l0fi.net) de plataforma de distribució de llibres per correu i RSS és el meu [experiment](/taller/) més recent en aquest àmbit. Es podria considerar, potser, un intent de traslladar a les tecnologies digitals del segle XXI els clàssics [fulletons seriats](https://ca.wikipedia.org/wiki/Fulletó_(novel·la)) del XIX. Cadascú es pot subscriure a un llibre en el moment que vulga i començar a rebre un capítol al dia.

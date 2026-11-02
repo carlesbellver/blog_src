@@ -1,11 +1,11 @@
-+++
-url = "/2019/03/17/semantic-line-breaks.html"
++++url = "/2019/03/17/semantic-line-breaks.html"
 date = "2019-03-17T14:49:00+00:00"
 slug = "semantic-line-breaks"
-tags = ["retalls"]
+tags = []
 x_url = "https://sembr.org/"
 title = "Semantic Line Breaks"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

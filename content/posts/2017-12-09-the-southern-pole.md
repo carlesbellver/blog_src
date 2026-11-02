@@ -1,11 +1,11 @@
-+++
-url = "/2017/12/09/the-southern-pole.html"
++++url = "/2017/12/09/the-southern-pole.html"
 date = "2017-12-09T20:12:00+00:00"
 slug = "the-southern-pole"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.amusingplanet.com/2017/12/the-southern-pole-of-inaccessibility.html"
 title = "The Southern Pole of Inaccessibility"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

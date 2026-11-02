@@ -1,11 +1,11 @@
-+++
-url = "/2015/04/08/sir-ken-robinson.html"
++++url = "/2015/04/08/sir-ken-robinson.html"
 date = "2015-04-08T22:00:00+00:00"
 slug = "sir-ken-robinson"
-tags = ["retalls", "educació"]
+tags = ["educació"]
 x_url = "http://donaldclarkplanb.blogspot.com/2015/04/sir-ken-robinson-creative-with-truth.html"
 title = "Sir Ken Robinson: ‘Creative’ with the truth?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

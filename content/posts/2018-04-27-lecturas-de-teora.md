@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/27/lecturas-de-teora.html"
++++url = "/2018/04/27/lecturas-de-teora.html"
 date = "2018-04-27T09:18:00+00:00"
 slug = "lecturas-de-teora"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.hombreencamino.com/en-portada/lecturas-de-teoria-king-kong/"
 title = "Lecturas de «Teoría King Kong»"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

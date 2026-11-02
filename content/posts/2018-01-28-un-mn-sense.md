@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/28/un-mn-sense.html"
++++url = "/2018/01/28/un-mn-sense.html"
 date = "2018-01-28T16:14:00+00:00"
 slug = "un-mn-sense"
-tags = ["retalls"]
+tags = []
 x_url = "http://valenciaplaza.com/un-mon-sense-treball"
 title = "Un món sense treball"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

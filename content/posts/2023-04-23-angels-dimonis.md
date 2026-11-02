@@ -1,9 +1,9 @@
-+++
-date = "2023-04-23T23:30:50+02:00"
-tags = ["citacions"]
++++date = "2023-04-23T23:30:50+02:00"
+tags = []
 slug = "angels-dimonis"
 fedurl = "https://mastodon.social/@carlesbellver/110260144963117351"
 photos = ["/uploads/2023/2023-04-23-angels-dimonis.jpg"]
+categories = ["citacions"]
 +++
 
 > Potser els àngels  

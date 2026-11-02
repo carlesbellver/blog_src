@@ -1,11 +1,11 @@
-+++
-url = "/2013/09/09/band-of-angels.html"
++++url = "/2013/09/09/band-of-angels.html"
 date = "2013-09-09T22:00:00+00:00"
 slug = "band-of-angels"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.theguardian.com/p/3hkgx/tf"
 title = "Band of Angels: The Forgotten World of Early Christian Women by Kate Cooper — review"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

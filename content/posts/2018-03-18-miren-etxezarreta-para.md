@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/18/miren-etxezarreta-para.html"
++++url = "/2018/03/18/miren-etxezarreta-para.html"
 date = "2018-03-18T00:30:00+00:00"
 slug = "miren-etxezarreta-para"
-tags = ["retalls"]
+tags = []
 x_url = "https://eldiario.es/catalunya/economia/sostener-pensiones-reforma-fiscal-integral_0_750675503.html"
 title = "“Para sostener las pensiones hace falta una reforma fiscal integral”"
 x_source = "Miren Etxezarreta"
+categories = ["retalls"]
 +++
 
 

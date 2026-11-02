@@ -1,10 +1,10 @@
-+++
-date = "2022-08-11T19:16:31+02:00"
-tags = ["retalls", "drogues"]
++++date = "2022-08-11T19:16:31+02:00"
+tags = ["drogues"]
 slug = "virtual-reality-psychedelics"
 x_url = "https://www.technologyreview.com/2022/08/06/1056727/vr-virtual-reality-psychedelics-transcendence/"
 title = "Virtual Reality is as good as psychedelics at helping people reach transcendence"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

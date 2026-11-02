@@ -1,11 +1,11 @@
-+++
-title = "Amazon Fresh kills “Just Walk Out” shopping tech —it never really worked"
++++title = "Amazon Fresh kills “Just Walk Out” shopping tech —it never really worked"
 date = "2024-04-07T13:13:36+02:00"
-tags = ["retalls"]
+tags = []
 slug = "amazon-fresh"
 x_url = "https://arstechnica.com/gadgets/2024/04/amazon-ends-ai-powered-store-checkout-which-needed-1000-video-reviewers/"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/112229623630973782"
+categories = ["retalls"]
 +++
 
 Els supermercats d’Amazon sense caixes ni caixers “Just Walk Out” no funcionaven precisament gràcies a la Intel·ligència Artificial. Mil treballadors revisaven i etiquetaven des de l’Índia les imatges dels productes captades per les càmeres.

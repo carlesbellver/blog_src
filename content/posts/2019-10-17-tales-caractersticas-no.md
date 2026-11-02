@@ -1,11 +1,11 @@
-+++
-url = "/2019/10/17/tales-caractersticas-no.html"
++++url = "/2019/10/17/tales-caractersticas-no.html"
 date = "2019-10-17T19:20:39+00:00"
 slug = "tales-caractersticas-no"
-tags = ["retalls"]
+tags = []
 x_url = "https://ctxt.es/es/20190116/Politica/23898/Umberto-Eco-documento-CTXT-fascismo-nazismo-extrema-derecha.htm"
 title = "Los 14 síntomas del fascismo eterno"
 x_source = "Umberto Eco"
+categories = ["retalls"]
 +++
 
 1. Culte de la tradició

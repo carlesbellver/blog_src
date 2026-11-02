@@ -1,8 +1,8 @@
-+++
-url = "/2014/02/09/because-our-ideas.html"
++++url = "/2014/02/09/because-our-ideas.html"
 date = "2014-02-09T23:00:00+00:00"
 slug = "because-our-ideas"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Because our ideas are faulty, we have bugs.

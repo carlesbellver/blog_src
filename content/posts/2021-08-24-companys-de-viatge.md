@@ -1,7 +1,7 @@
-+++
-date = "2021-08-24T12:53:14+02:00"
-tags = ["citacions"]
++++date = "2021-08-24T12:53:14+02:00"
+tags = []
 slug = "companys-de-viatge"
+categories = ["citacions"]
 +++
 
 Fan campanyes de foment de la lectura perquè volen *vendre* llibres. Però els molesta que la gent vulga escriure i sempre se n’estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!

@@ -1,11 +1,11 @@
-+++
-url = "/2014/05/29/the-internet-with.html"
++++url = "/2014/05/29/the-internet-with.html"
 date = "2014-05-29T22:00:00+00:00"
 slug = "the-internet-with"
-tags = ["retalls"]
+tags = []
 x_url = "http://idlewords.com/bt14.htm"
 title = "The Internet With A Human Face"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

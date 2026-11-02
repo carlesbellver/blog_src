@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/06/ittybitty-itty-bitty.html"
++++url = "/2018/07/06/ittybitty-itty-bitty.html"
 date = "2018-07-06T10:38:00+00:00"
 slug = "ittybitty-itty-bitty"
-tags = ["retalls"]
+tags = []
 x_url = "http://about.bitty.site/"
 title = "itty.bitty"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

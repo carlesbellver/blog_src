@@ -1,11 +1,11 @@
-+++
-url = "/2018/12/27/quantum-communication-just.html"
++++url = "/2018/12/27/quantum-communication-just.html"
 date = "2018-12-27T08:21:00+00:00"
 slug = "quantum-communication-just"
-tags = ["retalls"]
+tags = []
 x_url = "https://singularityhub.com/2018/12/26/quantum-communication-just-took-a-great-leap-forward/"
 title = "Quantum Communication Just Took a Great Leap Forward"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

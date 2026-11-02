@@ -1,11 +1,11 @@
-+++
-url = "/2017/12/20/the-hidden-human.html"
++++url = "/2017/12/20/the-hidden-human.html"
 date = "2017-12-20T08:40:00+00:00"
 slug = "the-hidden-human"
-tags = ["retalls"]
+tags = []
 x_url = "https://singularityhub.com/2017/12/19/the-hidden-human-workforce-powering-machine-intelligence/"
 title = "The Hidden Human Workforce Powering Machine Intelligence"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

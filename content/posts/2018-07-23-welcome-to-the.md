@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/23/welcome-to-the.html"
++++url = "/2018/07/23/welcome-to-the.html"
 date = "2018-07-23T09:45:00+00:00"
 slug = "welcome-to-the"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.bbc.com/news/science-environment-44868527"
 title = "Welcome to the Meghalayan Age - a new phase in history"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2019/03/22/those-who-obeyed.html"
++++url = "/2019/03/22/those-who-obeyed.html"
 date = "2019-03-22T20:02:00+00:00"
 slug = "those-who-obeyed"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.spiegel.de/international/interview-with-anthropologist-richard-wrangham-a-1259252.html"
 title = "’Those Who Obeyed the Rules Were Favored by Evolution’"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,10 +1,10 @@
-+++
-date = "2022-02-12T09:05:40+01:00"
-tags = ["retalls"]
++++date = "2022-02-12T09:05:40+01:00"
+tags = []
 slug = "madrid-fascista"
 x_url = "https://www.eldiario.es/sociedad/desconocido-entramado-usaron-fascistas-refugiarse-madrid_1_8727803.html"
 title = "El desconocido entramado que usaron los fascistas para refugiarse en Madrid"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

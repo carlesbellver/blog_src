@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/07/independentismo-no-independentista.html"
++++url = "/2018/07/07/independentismo-no-independentista.html"
 date = "2018-07-07T15:26:00+00:00"
 slug = "independentismo-no-independentista"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.eldiario.es/interferencias/proces-catalunya-estereotipos_6_789931005.html"
 title = "Independentismo no independentista, la complejidad del procés y sus estereotipos"
 x_source = ""
+categories = ["retalls"]
 +++
 
 Amador Fernández-Savater. Entrevista amb Edgar Straehle.

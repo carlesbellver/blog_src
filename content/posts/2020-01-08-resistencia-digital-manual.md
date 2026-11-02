@@ -1,11 +1,11 @@
-+++
-url = "/2020/01/08/resistencia-digital-manual.html"
++++url = "/2020/01/08/resistencia-digital-manual.html"
 date = "2020-01-08T21:35:00+00:00"
 slug = "resistencia-digital-manual"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.criptica.org/blog/resistencia-digital/"
 title = "Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

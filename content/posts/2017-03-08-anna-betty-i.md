@@ -1,8 +1,8 @@
-+++
-url = "/2017/03/08/anna-betty-i.html"
++++url = "/2017/03/08/anna-betty-i.html"
 date = "2017-03-08T23:00:00+00:00"
 slug = "anna-betty-i"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Les càpsules espacials no eren el sistema més elegant de transport dissenyat per l’home, però resultaven del tot imprescindibles en les tasques de construcció i manteniment en el buit. Normalment les batejaven amb noms de dona, potser perquè les seues personalitats de vegades eren lleugerament impredictibles. El trio de la Discovery eren Anna, Betty i Clara.

@@ -1,12 +1,12 @@
-+++
-url = "/2020/02/05/organic-ethical-chocolate.html"
++++url = "/2020/02/05/organic-ethical-chocolate.html"
 date = "2020-02-05T18:49:13+00:00"
 slug = "organic-ethical-chocolate"
-tags = ["retalls", "fotos"]
+tags = []
 photos = ["/uploads/2020/38cb60c68c.jpg"]
 x_url = "https://seedandbean.co.uk/"
 title = "Organic & Ethical Chocolate"
 x_source = ""
+categories = ["fotos", "retalls"]
 +++
 
 El berenar d’avui.

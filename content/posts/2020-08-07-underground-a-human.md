@@ -1,9 +1,9 @@
-+++
-url = "/2020/08/07/underground-a-human.html"
++++url = "/2020/08/07/underground-a-human.html"
 date = "2020-08-07T21:40:00+00:00"
 slug = "underground-a-human"
-tags = ["ressenyes"]
+tags = []
 title = "Underground: A Human History Of The Worlds Beneath Our Feet"
+categories = ["ressenyes"]
 +++
 
 {{< icon book >}} Will Hunt, [*Underground: A Human History Of The Worlds Beneath Our Feet*](https://micro.blog/books/9780812996746)

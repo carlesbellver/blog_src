@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/28/the-man-trying.html"
++++url = "/2018/01/28/the-man-trying.html"
 date = "2018-01-28T16:25:00+00:00"
 slug = "the-man-trying"
-tags = ["retalls"]
+tags = []
 x_url = "https://motherboard.vice.com/en_us/article/a3namk/the-man-trying-to-fix-mount-everests-towering-poop-problem"
 title = "The Man Trying to Fix Mount Everest’s Towering Poop Problem"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

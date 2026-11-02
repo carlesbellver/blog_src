@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/09/mariano-fernndez-enguita.html"
++++url = "/2019/01/09/mariano-fernndez-enguita.html"
 date = "2019-01-09T11:47:00+00:00"
 slug = "mariano-fernndez-enguita"
-tags = ["retalls", "educació"]
+tags = ["educació"]
 x_url = "http://blog.enguita.info/2019/01/la-singularidad-escolar-ya-esta-aqui.html"
 title = "La singularidad escolar ya está aquí"
 x_source = "Mariano Fernández Enguita"
+categories = ["retalls"]
 +++
 
 

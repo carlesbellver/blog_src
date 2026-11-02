@@ -1,11 +1,11 @@
-+++
-url = "/2019/03/23/xavier-roig-moscou.html"
++++url = "/2019/03/23/xavier-roig-moscou.html"
 date = "2019-03-23T10:16:00+00:00"
 slug = "xavier-roig-moscou"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.vilaweb.cat/noticies/entrevista-xavier-roig/"
 title = "Xavier Roig: ’Moscou és una ciutat més segura que Barcelona’"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2018/12/31/how-much-of.html"
++++url = "/2018/12/31/how-much-of.html"
 date = "2018-12-31T09:36:00+00:00"
 slug = "how-much-of"
-tags = ["retalls"]
+tags = []
 x_url = "http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html"
 title = "How Much of the Internet Is Fake?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/08/degoogling-my-phone.html"
++++url = "/2018/05/08/degoogling-my-phone.html"
 date = "2018-05-08T08:52:00+00:00"
 slug = "degoogling-my-phone"
-tags = ["retalls"]
+tags = []
 x_url = "https://piware.de/post/2018-05-01-android-degoogle/"
 title = "De-Googling my phone"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

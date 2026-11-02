@@ -1,7 +1,7 @@
-+++
-date = "2003-03-27T21:00:00+00:00"
++++date = "2003-03-27T21:00:00+00:00"
 slug = "escriptors"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > El conocimiento directo de los escritores es nocivo… En cuanto uno conoce directamente a un escritor al que admiró de lejos, deja de leer sus obras.

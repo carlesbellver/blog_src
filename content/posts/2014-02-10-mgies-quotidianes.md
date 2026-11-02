@@ -1,9 +1,9 @@
-+++
-url = "/2014/02/10/mgies-quotidianes.html"
++++url = "/2014/02/10/mgies-quotidianes.html"
 title = "Màgies quotidianes"
 date = "2014-02-10T23:00:00+00:00"
 slug = "mgies-quotidianes"
-tags = ["retalls", "citacions"]
+tags = []
+categories = ["citacions", "retalls"]
 +++
 
 > «Ens hem convertit en un «homo fotogràficus», ja que tota la població es fotògrafa». La fotografia abans podia ser considerada com un aspecte màgic, ara té un aspecte secular, va afirmar.

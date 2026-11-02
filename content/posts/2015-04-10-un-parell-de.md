@@ -1,9 +1,9 @@
-+++
-url = "/2015/04/10/un-parell-de.html"
++++url = "/2015/04/10/un-parell-de.html"
 title = "Un parell de precisions sobre els emoji"
 date = "2015-04-10T22:00:00+00:00"
 slug = "un-parell-de"
-tags = ["retalls"]
+tags = []
+categories = ["retalls"]
 +++
 
 1. De tant en tant, col·loquialment, se sol vincular els ideogrames [emoji](http://en.wikipedia.org/wiki/Emoji) a WhatsApp, simplement pel fet que aquesta és l’aplicació de xat més popular en el nostre entorn. Però els emoji es van inventar al Japó l’any 1998, per a usar-se en fòrums i pàgines web, molt abans que començaren a circular els telèfons intel·ligents de pantalla tàctil i les primeres aplicacions mòbils de missatgeria instantània. Més endavant, els emoji es van incorporar a [Unicode](http://ca.wikipedia.org/wiki/Unicode), l’estàndard internacional de codificació informàtica de textos en qualsevol idioma, i a hores d’ara, evidentment, no s’utilitzen només dins de Whatsapp, sinó també en aplicacions similars com Google Hangouts o moltes altres. Apple va integrar els emoji en els seus sistemes operatius (OS X i iOS) fa uns quants anys. En els iPhone i iPad apareixen com un teclat addicional que es pot activar a més a més de l’anglès, el català, etc., i per tant es poden utilitzar en qualsevol aplicació. El sistema operatiu Windows de Microsoft integra els emoji a partir de la versió 8. També en les versions més recents d’Android es poden trobar els emoji en la majoria de teclats.

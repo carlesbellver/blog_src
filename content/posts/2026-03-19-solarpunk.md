@@ -1,11 +1,11 @@
-+++
-title = "Solarpunk a gran escala"
++++title = "Solarpunk a gran escala"
 date = "2026-03-19T18:18:10+01:00"
-tags = ["retalls"]
+tags = []
 slug = "solarpunk"
 x_url = "https://enfantsperdidos.com/2026/03/15/solarpunk-a-gran-escala/"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/116257361478738875"
+categories = ["retalls"]
 +++
 
 Tecnoecologia, una nova abundància, esperança, bricolatge i processos —no punts d’arribada— utòpics.

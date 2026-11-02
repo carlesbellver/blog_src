@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/02/ethereums-smart-contracts.html"
++++url = "/2018/03/02/ethereums-smart-contracts.html"
 date = "2018-03-02T09:23:00+00:00"
 slug = "ethereums-smart-contracts"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.technologyreview.com/s/610392/ethereums-smart-contracts-are-full-of-holes/"
 title = "Ethereum’s smart contracts are full of holes"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

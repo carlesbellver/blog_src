@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/12/inside-the-jordan.html"
++++url = "/2018/04/12/inside-the-jordan.html"
 date = "2018-04-12T08:45:00+00:00"
 slug = "inside-the-jordan"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/"
 title = "Inside the Jordan refugee camp that runs on blockchain"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

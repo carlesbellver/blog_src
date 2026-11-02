@@ -1,10 +1,10 @@
-+++
-date = "2022-09-23T14:58:41+02:00"
-tags = ["retalls", "llengua"]
++++date = "2022-09-23T14:58:41+02:00"
+tags = ["llengua"]
 slug = "nietzschea-nietzschia"
 x_url = "https://www.ub.edu/sens-dubte/consultes/nietzschea-o-nietzschia/"
 title = "nietzscheà o nietzschià?"
 x_source = "Sens Dubte"
+categories = ["retalls"]
 +++
 
 

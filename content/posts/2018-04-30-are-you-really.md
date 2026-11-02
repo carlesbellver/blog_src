@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/30/are-you-really.html"
++++url = "/2018/04/30/are-you-really.html"
 date = "2018-04-30T09:49:00+00:00"
 slug = "are-you-really"
-tags = ["retalls"]
+tags = []
 x_url = "https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html"
 title = "Are you really Facebook’s product? The history of a dangerous idea."
 x_source = ""
+categories = ["retalls"]
 +++
 
 

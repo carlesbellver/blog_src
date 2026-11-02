@@ -3,14 +3,13 @@
     {{ $dateFormat = .Site.Params.dateFormat }}
 {{ end }}
 
-      <ul>
-        {{ if eq .Section "CPE" }}
-          <li><a href="{{ site.BaseURL }}cpe/">Contes per a extraterrestres</a> 1993-2000</li>
-        {{ else }}
-          <li><span class="nobr"><img class="icon" src="{{ site.BaseURL }}/svg.icons/at.svg" alt="autor" /> <a href="{{ site.BaseURL }}about/">{{ site.Params.Handle }}</a></span></li>
-          {{ partial "postInfo.html" . }}
-        {{ end }}
-
-        {{ partial "license.html" . }}
-
-      </ul>
+{{ if eq .Section "CPE" }}
+  <ul>
+    <li><a href="{{ site.BaseURL }}cpe/">Contes per a extraterrestres</a> 1993-2000</li>
+  </ul>
+  {{ partial "license.html" . }}
+{{ else }}
+  {{ partial "postTaxonomies.html" . }}
+  {{ partial "postInfo.html" . }}
+  {{ partial "license.html" . }}
+{{ end }}

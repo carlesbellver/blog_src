@@ -1,11 +1,11 @@
-+++
-url = "/2020/05/10/cloudready.html"
++++url = "/2020/05/10/cloudready.html"
 date = "2020-05-10T16:16:23+00:00"
 slug = "cloudready"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.neverware.com/"
 title = "CloudReady"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/12/quieres-un-prstamo.html"
++++url = "/2018/05/12/quieres-un-prstamo.html"
 date = "2018-05-12T13:09:00+00:00"
 slug = "quieres-un-prstamo"
-tags = ["retalls"]
+tags = []
 x_url = "https://eldiario.es/hojaderouter/Quieres-prestamo-Dime-utilizas-moroso_0_769923711.html"
 title = "¿Quieres un préstamo? Dime qué móvil utilizas y sabré si vas a ser moroso"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

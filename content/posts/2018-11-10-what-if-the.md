@@ -1,11 +1,11 @@
-+++
-url = "/2018/11/10/what-if-the.html"
++++url = "/2018/11/10/what-if-the.html"
 date = "2018-11-10T09:26:00+00:00"
 slug = "what-if-the"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.nytimes.com/2018/11/07/magazine/placebo-effect-medicine.html"
 title = "What if the placebo effect isn’t a trick?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

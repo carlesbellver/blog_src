@@ -1,11 +1,11 @@
-+++
-url = "/2018/02/19/ai-the-ziggy.html"
++++url = "/2018/02/19/ai-the-ziggy.html"
 date = "2018-02-19T09:22:00+00:00"
 slug = "ai-the-ziggy"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.roughtype.com/?p=8325"
 title = "AI: the Ziggy Stardust Syndrome"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

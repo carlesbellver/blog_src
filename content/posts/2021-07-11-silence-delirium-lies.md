@@ -1,8 +1,8 @@
-+++
-date = "2021-07-11T18:58:26+02:00"
-tags = ["fotos"]
++++date = "2021-07-11T18:58:26+02:00"
+tags = []
 photos = ["/uploads/2021/2021-07-11-silence-delirium-lies.jpg"]
 slug = "silence-delirium-lies"
+categories = ["fotos"]
 +++
 
 Això podria ser un petit projecte per a les vacances d’agost.

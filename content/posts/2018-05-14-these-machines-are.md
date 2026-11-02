@@ -1,9 +1,9 @@
-+++
-url = "/2018/05/14/these-machines-are.html"
++++url = "/2018/05/14/these-machines-are.html"
 title = " Aquestes màquines no són éssers pensants que pensen per nosaltres"
 date = "2018-05-14T17:50:00+00:00"
 slug = "these-machines-are"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Hem inventat computadores per estalviar-nos els problemes de computar. Aquestes màquines no són éssers pensants que pensen per nosaltres, sinó més aviat dispositius que produeixen els resultats dels càlculs sense que *ningú* literalment calcule o pense […] No ens cal témer que les nostres màquines ens superen pensant —tot i que podríem ben bé témer que ens porten a deixar de pensar per nosaltres mateixos.

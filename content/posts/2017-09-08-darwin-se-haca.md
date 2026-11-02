@@ -1,10 +1,10 @@
-+++
-url = "/2017/09/08/darwin-se-haca.html"
++++url = "/2017/09/08/darwin-se-haca.html"
 title = "Darwin se hacía ilusiones"
 date = "2017-09-08T05:25:00+00:00"
 slug = "darwin-se-haca"
-tags = ["citacions"]
+tags = []
 image = "/uploads/2019/0146ed2874_c.jpg"
+categories = ["citacions"]
 +++
 
 > …Darwin debió proponer que el hombre descendería algún día del mono, y no que ya había descendido; pero como buen hombre de ciencia se hacía ilusiones.

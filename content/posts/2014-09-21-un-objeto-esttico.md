@@ -1,11 +1,11 @@
-+++
-url = "/2014/09/21/un-objeto-esttico.html"
++++url = "/2014/09/21/un-objeto-esttico.html"
 date = "2014-09-21T22:00:00+00:00"
 slug = "un-objeto-esttico"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.pagina12.com.ar/diario/suplementos/espectaculos/9-12352-2008-12-20.html"
 title = "Un objeto estético perfecto"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

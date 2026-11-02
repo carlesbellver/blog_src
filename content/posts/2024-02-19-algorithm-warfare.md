@@ -1,11 +1,11 @@
-+++
-date = "2024-02-19T19:19:53+01:00"
-tags = ["retalls"]
++++date = "2024-02-19T19:19:53+01:00"
+tags = []
 slug = "algorithm-warfare"
 x_url = "https://www.theframelab.org/p/algorithm-warfare-how-elon-musk-uses"
 title = "Algorithm Warfare: How Elon Musk uses Twitter to control brains"
 x_source = "Gil Duran & George Lakoff"
 fedurl = "https://mastodon.social/@carlesbellver/111965457681663702"
+categories = ["retalls"]
 +++
 
 L’any 2017, Lakoff va categoritzar l’ús que feia de Twitter Donald Trump en el seu intent de controlar els fluxos d’informació “i controlar així els nostres cervells”. Ara, Elon Musk replica i amplia l’abast d’aquestes mateixes tàctiques des de la seua posició privilegiada d’amo de la plataforma i l’algoritme.

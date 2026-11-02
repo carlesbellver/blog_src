@@ -1,11 +1,11 @@
-+++
-url = "/2018/02/21/money-laundering-via.html"
++++url = "/2018/02/21/money-laundering-via.html"
 date = "2018-02-21T16:56:00+00:00"
 slug = "money-laundering-via"
-tags = ["retalls"]
+tags = []
 x_url = "https://krebsonsecurity.com/2018/02/money-laundering-via-author-impersonation-on-amazon/"
 title = "Money Laundering Via Author Impersonation on Amazon?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

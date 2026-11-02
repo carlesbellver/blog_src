@@ -1,10 +1,10 @@
-+++
-date = "2021-06-28T21:50:09+02:00"
-tags = ["retalls", "citacions"]
++++date = "2021-06-28T21:50:09+02:00"
+tags = []
 slug = "primo-levi"
 x_url = "http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments"
 title = "“Primo Levi’s Last Moments”"
 x_source = "Diego Gambetta"
+categories = ["citacions", "retalls"]
 +++
 
 > A hores d’ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (*Primo Levi*, 2002), persisteixen a creure que sí.

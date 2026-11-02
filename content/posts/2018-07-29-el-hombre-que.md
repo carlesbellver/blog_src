@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/29/el-hombre-que.html"
++++url = "/2018/07/29/el-hombre-que.html"
 date = "2018-07-29T22:13:00+00:00"
 slug = "el-hombre-que"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.elmundo.es/cronica/2018/07/01/5b367bddca4741a46c8b45d2.html"
 title = "El hombre que enterró a Franco nos explica cómo exhumarlo hoy"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

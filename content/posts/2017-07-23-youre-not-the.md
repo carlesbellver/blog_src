@@ -1,11 +1,11 @@
-+++
-url = "/2017/07/23/youre-not-the.html"
++++url = "/2017/07/23/youre-not-the.html"
 date = "2017-07-23T16:50:00+00:00"
 slug = "youre-not-the"
-tags = ["retalls","citacions"]
+tags = []
 x_url = "http://quoteinvestigator.com/2017/07/16/product/"
 title = "You’re Not the Customer; You’re the Product"
 x_source = ""
+categories = ["citacions", "retalls"]
 +++
 
 
