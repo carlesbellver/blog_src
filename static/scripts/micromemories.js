@@ -33,7 +33,7 @@ function buildResultEl(r) {
     $item_type_icon.src = "/svg.icons/book.svg";
   }
   else if (r["categories"].includes("citacions")) {
-    $item_type_icon.src = "/svg.icons/smartquote.svg";
+    $item_type_icon.src = "/svg.icons/smartquote-close.svg";
   }
   else if (r["categories"].includes("fotos")) {
     $item_type_icon.src = "/svg.icons/image.svg";
