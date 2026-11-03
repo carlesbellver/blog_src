@@ -12,8 +12,8 @@
     --menu-color: #333;
     --menu-bg-color: #fff;
 
-    --link-color: #a00000;
-    --link-state-color: #a00000;
+    --link-color: #003399;
+    --link-state-color: #003399;
 
     --thead-bg-color: lightgrey;
     --table-border-color: lightgrey;
@@ -28,7 +28,7 @@
     --hr-color: #eee;
 
     --pagination-bg-color: #fafafa;
-    --pagination-link-color: #696969;
+    --pagination-link-color: #003399;
 
     --post-info-color: #333;
 
