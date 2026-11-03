@@ -235,7 +235,7 @@ a.more {
   text-decoration: none;
 }
 
-#comments-count a, #comments-list a {
+#comments-count a {
   text-decoration: none;
   color: var(--post-info-color);
 }
