@@ -4,10 +4,10 @@ description = "Analista de tecnologia educativa, Universitat Jaume I de Castell�
 
 # Carles Bellver Torlà
 
+<img class="icon" src="/svg.icons/email.svg" alt="correu"> <a rel="me" href="mailto:carles@carlesbellver.net">carles@carlesbellver.net</a>
+
 - Analista de tecnologia educativa al [Centre d'Educació i Noves Tecnologies](https://cent.uji.es) (CENT) de la [Universitat Jaume I](https://www.uji.es) de [Castelló](https://ca.wikipedia.org/wiki/Castelló_de_la_Plana).
 - [Escriptor](https://carlesbellver.net/llibres/) [amateur](/2011/06/07/reivindicaci-de-lamateurisme.html).
-
-<a rel="me" href="mailto:carles@carlesbellver.net">carles@carlesbellver.net</a>
 
 ## Darrers llibres:
 
