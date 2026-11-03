@@ -2,6 +2,6 @@
 
 {{ if .Params.license }}
   <ul>
-    <li><img class="icon" src="{{ site.BaseURL }}/svg.icons/creativecommons.svg" alt="creative commons" /> <a rel="license" href="http://creativecommons.org/licenses/{{ .Params.license }}/4.0/" title="Consulteu el les condicions de la llicència">Creative Commons</a></li>
+    <li>License: <img class="icon" src="{{ site.BaseURL }}/svg.icons/creativecommons.svg" alt="creative commons" /> <a rel="license" href="http://creativecommons.org/licenses/{{ .Params.license }}/4.0/" title="Consulteu el les condicions de la llicència">Creative Commons {{ .Params.license }}</a></li>
   </ul>
 {{ end }}
