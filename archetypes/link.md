@@ -1,7 +1,8 @@
 +++
 title = ""
 date = "{{ .Date }}"
-tags = ["retalls"]
+categories = ["retalls"]
+tags = []
 slug = ""
 x_url = ""
 x_source = ""
