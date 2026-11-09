@@ -1,11 +1,11 @@
-+++
-url = "/2018/08/05/la-supervivencia-de.html"
++++url = "/2018/08/05/la-supervivencia-de.html"
 date = "2018-08-05T19:15:00+00:00"
 slug = "la-supervivencia-de"
-tags = ["retalls"]
+tags = []
 x_url = "https://ctxt.es/es/20180801/Politica/21062/tecnologia-futuro-ricos-pobres-economia-Douglas-Rushkoff.htm"
 title = "La supervivencia de los más ricos y cómo traman abandonar el barco"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

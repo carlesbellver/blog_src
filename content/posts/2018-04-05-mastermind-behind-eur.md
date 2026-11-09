@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/05/mastermind-behind-eur.html"
++++url = "/2018/04/05/mastermind-behind-eur.html"
 date = "2018-04-05T09:30:00+00:00"
 slug = "mastermind-behind-eur"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain"
 title = "Mastermind behind EUR 1 billion cyber bank robbery arrested in Spain"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

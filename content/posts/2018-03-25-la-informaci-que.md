@@ -1,9 +1,9 @@
-+++
-url = "/2018/03/25/la-informaci-que.html"
++++url = "/2018/03/25/la-informaci-que.html"
 title = "La informació que Facebook diu que té de tu"
 date = "2018-03-25T11:32:00+00:00"
 slug = "la-informaci-que"
-tags = ["retalls"]
+tags = []
+categories = ["retalls"]
 +++
 
 Després de l’[escàndol de Cambridge Analytica](http://www.guerraeterna.com/facebook-y-cambridge-analytica-nos-ofrecen-la-ultima-evolucion-de-la-democracia/), l’última notícia que he llegit sobre les llibertats que Facebook es pren —i ens lleva— és que [ha recollit i mantingut un registre amb les nostres trucades](https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/), en els telèfons amb sistema operatiu Android, mentre tècnicament li ha estat possible (fins que Google ha anat ajustant i endurint els permisos de les aplicacions).

@@ -29,7 +29,7 @@ xmlhttp.onreadystatechange = function() {
       // fields to index for full-text search
       fields: ['title', 'content_text'],
       // fields to return with search results
-      storeFields: ['title', 'url', 'date_published', 'tags', 'content_text'],
+      storeFields: ['title', 'url', 'date_published', 'categories', 'content_text'],
       searchOptions: {
         boost: { title: 5 },
         fuzzy: FUZZY,
@@ -98,10 +98,10 @@ function displayResults(results) {
   $listResults.innerHTML = "";
   var max = results.length;
   if (results.length == 1) {
-    $noHits.innerHTML = ". Una&nbsp;pàgina";    
+    $noHits.innerHTML = "Una&nbsp;pàgina";    
   }
   else {
-    $noHits.innerHTML = ". " + results.length + "&nbsp;pàgines";
+    $noHits.innerHTML = results.length + "&nbsp;pàgines";
     //if (q && max > MAX) {
     if (max > MAX) {
       max = MAX;
@@ -156,16 +156,16 @@ function buildResultEl(r) {
   $item_type_link.href = r["url"];
   var $item_type_icon = document.createElement("img");
   $item_type_icon.classList.add("inline");
-  if (r["tags"].includes("retalls")) {
+  if (r["categories"].includes("retalls")) {
     $item_type_icon.src = "/svg.icons/link.svg";
   }
-  else if (r["tags"].includes("ressenyes")) {
+  else if (r["categories"].includes("ressenyes")) {
     $item_type_icon.src = "/svg.icons/book.svg";
   }
-  else if (r["tags"].includes("citacions")) {
-    $item_type_icon.src = "/svg.icons/smartquote.svg";
+  else if (r["categories"].includes("citacions")) {
+    $item_type_icon.src = "/svg.icons/smartquote-close.svg";
   }
-  else if (r["tags"].includes("fotos")) {
+  else if (r["categories"].includes("fotos")) {
     $item_type_icon.src = "/svg.icons/image.svg";
   }
   else {

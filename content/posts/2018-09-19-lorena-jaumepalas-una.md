@@ -1,11 +1,11 @@
-+++
-url = "/2018/09/19/lorena-jaumepalas-una.html"
++++url = "/2018/09/19/lorena-jaumepalas-una.html"
 date = "2018-09-19T20:25:00+00:00"
 slug = "lorena-jaumepalas-una"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.nobbot.com/destacados/etica-algoritmos-lorena-jaume-palasi/"
 title = "“Una dictadura del algoritmo es una dictadura humana escondida detrás de un velo tecnológico”"
 x_source = "Lorena Jaume-Palasí"
+categories = ["retalls"]
 +++
 
 >  Por mucho que vistamos la estadística de seda, estadística se queda. 

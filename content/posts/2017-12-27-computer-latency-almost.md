@@ -1,11 +1,11 @@
-+++
-url = "/2017/12/27/computer-latency-almost.html"
++++url = "/2017/12/27/computer-latency-almost.html"
 date = "2017-12-27T23:51:00+00:00"
 slug = "computer-latency-almost"
-tags = ["retalls"]
+tags = []
 x_url = "https://danluu.com/input-lag/"
 title = "Computer latency: 1977-2017"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

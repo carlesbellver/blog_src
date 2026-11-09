@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/22/tower-of-the.html"
++++url = "/2018/07/22/tower-of-the.html"
 date = "2018-07-22T12:30:00+00:00"
 slug = "tower-of-the"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.amusingplanet.com/2018/07/tower-of-winds-worlds-first-weather.html"
 title = "Tower of The Winds: The World’s First Weather Station"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

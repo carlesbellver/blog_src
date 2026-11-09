@@ -1,11 +1,11 @@
-+++
-url = "/2018/12/17/first-successful-pigtobaboon.html"
++++url = "/2018/12/17/first-successful-pigtobaboon.html"
 date = "2018-12-17T21:24:00+00:00"
 slug = "first-successful-pigtobaboon"
-tags = ["retalls"]
+tags = []
 x_url = "https://singularityhub.com/2018/12/17/first-successful-pig-to-baboon-heart-transplant-heralds-human-trials/"
 title = "First Successful Pig-to-Baboon Heart Transplant Heralds Human Trials"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

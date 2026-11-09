@@ -1,11 +1,11 @@
-+++
-url = "/2018/10/18/chinese-city-plans.html"
++++url = "/2018/10/18/chinese-city-plans.html"
 date = "2018-10-18T09:11:00+00:00"
 slug = "chinese-city-plans"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.theguardian.com/science/2018/oct/17/chinese-city-plans-to-launch-artificial-moon-to-replace-streetlights"
 title = "Chinese city ’plans to launch artificial moon to replace streetlights’"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

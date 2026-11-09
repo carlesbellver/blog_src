@@ -1,11 +1,11 @@
-+++
-url = "/2017/12/18/japanese-monkeys-are.html"
++++url = "/2017/12/18/japanese-monkeys-are.html"
 date = "2017-12-18T20:38:00+00:00"
 slug = "japanese-monkeys-are"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.npr.org/sections/thetwo-way/2017/12/15/571175252/scientists-say-japanese-monkeys-are-having-sexual-interactions-with-deer"
 title = "Japanese Monkeys Are Having ’Sexual Interactions’ With Deer"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

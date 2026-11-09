@@ -1,10 +1,10 @@
-+++
-url = "/2014/02/13/la-prosa-noms.html"
++++url = "/2014/02/13/la-prosa-noms.html"
 title = "La prosa només és bona en la mesura que s’apropa a la poesia"
 date = "2014-02-13T23:00:00+00:00"
 slug = "la-prosa-noms"
-tags = ["citacions", "retalls"]
+tags = []
 x_source = "Francine du Plessix Gray"
+categories = ["citacions", "retalls"]
 +++
 
 > La prosa només és bona en tant que s’apropa a la condició de la poesia: aquella condició en què no es pot canviar un ritme, ni una partícula de so, sense molestar tota la pàgina.

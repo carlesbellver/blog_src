@@ -1,10 +1,10 @@
-+++
-date = "2022-04-23T10:15:46+02:00"
-tags = ["retalls", "educació"]
++++date = "2022-04-23T10:15:46+02:00"
+tags = ["educació"]
 slug = "video-games"
 x_url = "https://www.insidehighered.com/blogs/higher-ed-gamma/can-video-games-teach"
 title = "Can Video Games Teach?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

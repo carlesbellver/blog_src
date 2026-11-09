@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/11/the-oblique-strategies.html"
++++url = "/2018/01/11/the-oblique-strategies.html"
 date = "2018-01-11T09:21:00+00:00"
 slug = "the-oblique-strategies"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.rtqe.net/ObliqueStrategies/"
 title = "The Oblique Strategies Web Site"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

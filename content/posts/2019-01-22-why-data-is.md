@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/22/why-data-is.html"
++++url = "/2019/01/22/why-data-is.html"
 date = "2019-01-22T10:22:00+00:00"
 slug = "why-data-is"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.thenewatlantis.com/publications/why-data-is-never-raw"
 title = "Why Data Is Never Raw"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

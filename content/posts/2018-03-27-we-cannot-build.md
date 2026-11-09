@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/27/we-cannot-build.html"
++++url = "/2018/03/27/we-cannot-build.html"
 date = "2018-03-27T07:27:00+00:00"
 slug = "we-cannot-build"
-tags = ["retalls"]
+tags = []
 x_url = "https://quoteinvestigator.com/2018/03/26/stomach/"
 title = "We Cannot Build Peace on Empty Stomachs"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

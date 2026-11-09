@@ -1,11 +1,11 @@
-+++
-url = "/2018/06/27/breaking-linear-classifiers.html"
++++url = "/2018/06/27/breaking-linear-classifiers.html"
 date = "2018-06-27T12:59:00+00:00"
 slug = "breaking-linear-classifiers"
-tags = ["retalls"]
+tags = []
 x_url = "http://karpathy.github.io/2015/03/30/breaking-convnets/"
 title = "Breaking Linear Classifiers on ImageNet"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

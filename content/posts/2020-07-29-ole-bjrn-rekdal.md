@@ -1,11 +1,11 @@
-+++
-url = "/2020/07/29/ole-bjrn-rekdal.html"
++++url = "/2020/07/29/ole-bjrn-rekdal.html"
 date = "2020-07-29T14:13:00+00:00"
 slug = "ole-bjrn-rekdal"
-tags = ["retalls"]
+tags = []
 x_url = "https://journals.sagepub.com/doi/full/10.1177/0306312714535679"
 title = "Academic urban legends"
 x_source = "Ole Bjørn Rekdal (2014)"
+categories = ["retalls"]
 +++
 
 La bibliometria com a ídol o fals patró de la veritat: cada vegada que un autor, per mandra o descurança, repeteix una referència sense comprovar-la, està reforçant de manera acrítica l’assumpció de la seua validesa. Però una imprecisió o una mentida no deixen de ser-ho per repetir-les mil vegades.

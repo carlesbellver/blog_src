@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/21/wikipedia-told-youso.html"
++++url = "/2019/01/21/wikipedia-told-youso.html"
 date = "2019-01-21T10:27:00+00:00"
 slug = "wikipedia-told-youso"
-tags = ["retalls"]
+tags = []
 x_url = "http://doug-johnson.squarespace.com/blue-skunk-blog/2019/1/17/wikipedia-told-you-so.html"
 title = "Wikipedia - told you so!"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

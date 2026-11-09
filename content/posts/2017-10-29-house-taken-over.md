@@ -1,11 +1,11 @@
-+++
-url = "/2017/10/29/house-taken-over.html"
++++url = "/2017/10/29/house-taken-over.html"
 date = "2017-10-29T12:02:00+00:00"
 slug = "house-taken-over"
-tags = ["retalls"]
+tags = []
 x_url = "http://socks-studio.com/2013/02/20/house-taken-over-by-julio-cortazar-1944-illustrated-by-juan-fresan-1969/"
 title = "House Taken Over, by Julio Cortázar (1944), illustrated by Juan Fresán (1969)"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

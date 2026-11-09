@@ -1,11 +1,11 @@
-+++
-url = "/2017/12/02/here-are-significant.html"
++++url = "/2017/12/02/here-are-significant.html"
 date = "2017-12-02T07:54:00+00:00"
 slug = "here-are-significant"
-tags = ["retalls"]
+tags = []
 x_url = "https://singularityhub.com/2017/12/01/here-are-4-things-we-can-do-to-combat-climate-change-now/"
 title = "Here Are 4 Significant Things We Can Do to Combat Climate Change Now"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

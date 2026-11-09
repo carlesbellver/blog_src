@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/11/blockchain-development-and.html"
++++url = "/2019/01/11/blockchain-development-and.html"
 date = "2019-01-11T09:05:00+00:00"
 slug = "blockchain-development-and"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.mckinsey.com/industries/financial-services/our-insights/blockchains-occam-problem"
 title = "Blockchain development and the Occam problem"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

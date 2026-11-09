@@ -1,10 +1,10 @@
-+++
-date = "2021-10-22T18:25:38+02:00"
-tags = ["retalls"]
++++date = "2021-10-22T18:25:38+02:00"
+tags = []
 slug = "meteorite-crashes-through-ceiling"
 x_url = "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-meteorite-womans-bed-20211014-24gluwkodfa7rbxth346nv7w5e-story.html"
 title = "Meteorite crashes through ceiling and lands on woman’s bed"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

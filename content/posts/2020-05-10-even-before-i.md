@@ -1,11 +1,11 @@
-+++
-url = "/2020/05/10/even-before-i.html"
++++url = "/2020/05/10/even-before-i.html"
 date = "2020-05-10T16:14:38+00:00"
 slug = "even-before-i"
-tags = ["retalls"]
+tags = []
 x_url = "https://sharpen.page/jtbd/copywriting/too-much-text-what-to-do-about-that-feedback/"
 title = "“Too Much Text”: What to Do About that Feedback"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

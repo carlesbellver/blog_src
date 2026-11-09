@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/28/deanonymizing-tor-your.html"
++++url = "/2018/01/28/deanonymizing-tor-your.html"
 date = "2018-01-28T16:42:00+00:00"
 slug = "deanonymizing-tor-your"
-tags = ["retalls"]
+tags = []
 x_url = "https://m.slashdot.org/story/336649"
 title = "Deanonymizing Tor: Your Bitcoin Transactions May Come Back To Haunt You"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

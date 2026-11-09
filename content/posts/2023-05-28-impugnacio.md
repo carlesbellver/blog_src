@@ -1,11 +1,11 @@
-+++
-date = "2023-05-28T18:14:23+02:00"
-tags = ["retalls"]
++++date = "2023-05-28T18:14:23+02:00"
+tags = []
 slug = "impugnacio"
 x_url = "https://carlesbellver.net/contes/impugnacio"
 title = "Impugnació de Kavafis"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/110447253421013263"
+categories = ["retalls"]
 +++
 
 > El viatge mai s’acaba, ho hem de saber,  

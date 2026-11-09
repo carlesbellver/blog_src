@@ -1,10 +1,10 @@
-+++
-date = "2021-10-27T20:19:36+02:00"
-tags = ["retalls"]
++++date = "2021-10-27T20:19:36+02:00"
+tags = []
 slug = "dune-ms-dos"
 x_url = "https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos"
 title = "The ‘Dune’ Screenplay Was Written in MS-DOS"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

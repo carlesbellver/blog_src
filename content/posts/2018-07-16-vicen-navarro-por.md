@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/16/vicen-navarro-por.html"
++++url = "/2018/07/16/vicen-navarro-por.html"
 date = "2018-07-16T12:34:00+00:00"
 slug = "vicen-navarro-por"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.vnavarro.org/?p=3458"
 title = "Por favor, no insulten a la clase trabajadora"
 x_source = "Vicenç Navarro"
+categories = ["retalls"]
 +++
 
 

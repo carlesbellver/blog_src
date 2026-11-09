@@ -26,16 +26,16 @@ function buildResultEl(r) {
   $item_type_link.href = r["url"];
   var $item_type_icon = document.createElement("img");
   $item_type_icon.classList.add("inline");
-  if (r["tags"].includes("retalls")) {
+  if (r["categories"].includes("retalls")) {
     $item_type_icon.src = "/svg.icons/link.svg";
   }
-  else if (r["tags"].includes("ressenyes")) {
+  else if (r["categories"].includes("ressenyes")) {
     $item_type_icon.src = "/svg.icons/book.svg";
   }
-  else if (r["tags"].includes("citacions")) {
-    $item_type_icon.src = "/svg.icons/smartquote.svg";
+  else if (r["categories"].includes("citacions")) {
+    $item_type_icon.src = "/svg.icons/smartquote-close.svg";
   }
-  else if (r["tags"].includes("fotos")) {
+  else if (r["categories"].includes("fotos")) {
     $item_type_icon.src = "/svg.icons/image.svg";
   }
   else {

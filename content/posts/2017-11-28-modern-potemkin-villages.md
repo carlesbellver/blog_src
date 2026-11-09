@@ -1,11 +1,11 @@
-+++
-url = "/2017/11/28/modern-potemkin-villages.html"
++++url = "/2017/11/28/modern-potemkin-villages.html"
 date = "2017-11-28T11:59:00+00:00"
 slug = "modern-potemkin-villages"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.amusingplanet.com/2017/11/modern-potemkin-villages.html"
 title = "Modern Potemkin Villages"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

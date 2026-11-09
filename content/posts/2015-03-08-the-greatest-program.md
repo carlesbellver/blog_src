@@ -1,11 +1,11 @@
-+++
-url = "/2015/03/08/the-greatest-program.html"
++++url = "/2015/03/08/the-greatest-program.html"
 date = "2015-03-08T23:00:00+00:00"
 slug = "the-greatest-program"
-tags = ["retalls"]
+tags = []
 x_url = "http://thad.frogley.info/archive/the_greatest_program.html"
 title = "The greatest program ever written"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

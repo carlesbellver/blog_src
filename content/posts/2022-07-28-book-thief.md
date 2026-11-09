@@ -1,10 +1,10 @@
-+++
-date = "2022-07-28T20:55:41+02:00"
-tags = ["retalls"]
++++date = "2022-07-28T20:55:41+02:00"
+tags = []
 slug = "book-thief"
 x_url = "https://www.theguardian.com/books/2022/jul/14/alleged-book-thief-filippo-bernardini-may-avoid-trial-in-the-us"
 title = "Alleged book thief Filippo Bernardini may avoid trial in the US"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

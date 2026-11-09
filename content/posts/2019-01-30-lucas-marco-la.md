@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/30/lucas-marco-la.html"
++++url = "/2019/01/30/lucas-marco-la.html"
 date = "2019-01-30T13:15:00+00:00"
 slug = "lucas-marco-la"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.eldiario.es/cv/desolvidador/Lucas-Gestapo-Brigada-Politico-Social_6_858524167.html"
 title = "Lucas Marco: “La Gestapo instruyó y organizó a la Brigada Político Social”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2017/08/08/el-paper-de.html"
++++url = "/2017/08/08/el-paper-de.html"
 date = "2017-08-08T07:56:00+00:00"
 slug = "el-paper-de"
-tags = ["retalls"]
+tags = []
 x_url = "http://blocs.mesvilaweb.cat/xavierdiez/?p=269999"
 title = "El paper de la violència en la Transició"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

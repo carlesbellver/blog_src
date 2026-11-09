@@ -1,11 +1,11 @@
-+++
-url = "/2018/02/21/philip-k-dick.html"
++++url = "/2018/02/21/philip-k-dick.html"
 date = "2018-02-21T12:50:00+00:00"
 slug = "philip-k-dick"
-tags = ["retalls"]
+tags = []
 x_url = "http://bostonreview.net/literature-culture/henry-farrell-philip-k-dick-and-fake-humans"
 title = "Philip K. Dick and the Fake Humans"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

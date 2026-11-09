@@ -1,10 +1,10 @@
-+++
-title = ""
++++title = ""
 date = "2025-07-21T12:15:12+02:00"
-tags = ["fotos", "Castelló"]
+tags = ["Castelló"]
 photos = ["/uploads/2025/2025-07-21-oftalmologia.jpg"]
 slug = "oftalmologia"
 fedurl = "https://mastodon.social/@carlesbellver/114890668777707138"
+categories = ["fotos"]
 +++
 
 Oftalmologia. Hospital General Universitari.

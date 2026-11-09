@@ -1,8 +1,8 @@
-+++
-url = "/2019/08/18/it-was-hell.html"
++++url = "/2019/08/18/it-was-hell.html"
 date = "2019-08-18T11:05:00+00:00"
 slug = "it-was-hell"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Viure en el segle vint-i-u era un infern.

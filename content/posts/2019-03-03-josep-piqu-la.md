@@ -1,11 +1,11 @@
-+++
-url = "/2019/03/03/josep-piqu-la.html"
++++url = "/2019/03/03/josep-piqu-la.html"
 date = "2019-03-03T10:55:00+00:00"
 slug = "josep-piqu-la"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.lavanguardia.com/internacional/20190303/46784747078/josep-pique-pugna-mundial-5g-china-entrevista.html"
 title = "Josep Piqué: “La pugna mundial hoy es quién domina el 5G y China lleva ventaja”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

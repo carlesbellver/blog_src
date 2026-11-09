@@ -1,10 +1,10 @@
-+++
-date = "2021-12-24T13:10:48+01:00"
-tags = ["retalls"]
++++date = "2021-12-24T13:10:48+01:00"
+tags = []
 slug = "automatic-muse"
 x_url = "https://www.roughtype.com/?p=9100"
 title = "The automatic muse"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

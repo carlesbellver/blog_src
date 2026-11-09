@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/31/manuel-vzquez-montalbn.html"
++++url = "/2018/05/31/manuel-vzquez-montalbn.html"
 date = "2018-05-31T16:09:00+00:00"
 slug = "manuel-vzquez-montalbn"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.vespito.net/mvm/manifiesto.html"
 title = "Manifiesto anti-corrupción"
 x_source = "Manuel Vázquez Montalbán"
+categories = ["retalls"]
 +++
 
 

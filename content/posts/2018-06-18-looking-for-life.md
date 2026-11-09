@@ -1,11 +1,11 @@
-+++
-url = "/2018/06/18/looking-for-life.html"
++++url = "/2018/06/18/looking-for-life.html"
 date = "2018-06-18T08:53:00+00:00"
 slug = "looking-for-life"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.newyorker.com/science/elements/looking-for-life-on-a-flat-earth"
 title = "Looking for Life on a Flat Earth"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

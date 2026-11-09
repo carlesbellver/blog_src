@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/12/death-as-entertainment.html"
++++url = "/2018/01/12/death-as-entertainment.html"
 date = "2018-01-12T10:11:00+00:00"
 slug = "death-as-entertainment"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.atlasobscura.com/articles/paris-morgue-public-viewing"
 title = "Death as Entertainment at the Paris Morgue"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

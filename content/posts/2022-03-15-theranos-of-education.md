@@ -1,10 +1,10 @@
-+++
-date = "2022-03-15T10:24:37+01:00"
-tags = ["retalls", "educació"]
++++date = "2022-03-15T10:24:37+01:00"
+tags = ["educació"]
 slug = "theranos-of-education"
 x_url = "https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education"
 title = "Who is the Theranos of Education?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

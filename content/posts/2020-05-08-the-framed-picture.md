@@ -1,11 +1,11 @@
-+++
-url = "/2020/05/08/the-framed-picture.html"
++++url = "/2020/05/08/the-framed-picture.html"
 date = "2020-05-08T11:29:00+00:00"
 slug = "the-framed-picture"
-tags = ["retalls"]
+tags = []
 x_url = "https://apnews.com/dfc62104cbd643cee9bec5a06dfd2518"
 title = "New Banksy art unveiled at hospital to thank doctors, nurses"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

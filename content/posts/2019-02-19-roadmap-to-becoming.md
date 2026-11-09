@@ -1,11 +1,11 @@
-+++
-url = "/2019/02/19/roadmap-to-becoming.html"
++++url = "/2019/02/19/roadmap-to-becoming.html"
 date = "2019-02-19T10:51:00+00:00"
 slug = "roadmap-to-becoming"
-tags = ["retalls"]
+tags = []
 x_url = "https://github.com/LearnSolid/solid-roadmap"
 title = "Roadmap to becoming a SoLiD developer in 2019"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

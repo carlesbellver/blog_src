@@ -1,10 +1,10 @@
-+++
-date = "2020-12-31T11:01:27+01:00"
-tags = ["retalls"]
++++date = "2020-12-31T11:01:27+01:00"
+tags = []
 slug = "mrna-vaccines"
 x_url = "http://www.rationaloptimist.com/blog/mrna-vaccines-could-revolutionise-medicine/"
 title = "Why mRNA vaccines could revolutionise medicine"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

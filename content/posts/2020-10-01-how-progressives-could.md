@@ -1,11 +1,11 @@
-+++
-url = "/2020/10/01/how-progressives-could.html"
++++url = "/2020/10/01/how-progressives-could.html"
 date = "2020-10-01T16:20:42+00:00"
 slug = "how-progressives-could"
-tags = ["retalls"]
+tags = []
 x_url = "https://thecorrespondent.com/722/how-progressives-could-still-win-the-21st-century-by-yanis-varoufakis/796704541468-c88fabf1"
 title = "How progressives could still win the 21st century, by Yanis Varoufakis"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/16/portable-computer-prehistory.html"
++++url = "/2018/03/16/portable-computer-prehistory.html"
 date = "2018-03-16T20:23:00+00:00"
 slug = "portable-computer-prehistory"
-tags = ["retalls"]
+tags = []
 x_url = "https://tedium.co/2018/03/15/early-portable-computer-history/"
 title = "Portable Computer Pre-History: Portable Before Laptops"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

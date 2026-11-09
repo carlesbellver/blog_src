@@ -1,9 +1,9 @@
-+++
-url = "/2011/01/23/pensament-mascul-pensament.html"
++++url = "/2011/01/23/pensament-mascul-pensament.html"
 title = "Pensament masculí, pensament femení"
 date = "2011-01-23T23:00:00+00:00"
 slug = "pensament-mascul-pensament"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Fins que no estàs ferit no et pots convertir en un home.

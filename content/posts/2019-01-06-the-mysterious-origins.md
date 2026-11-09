@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/06/the-mysterious-origins.html"
++++url = "/2019/01/06/the-mysterious-origins.html"
 date = "2019-01-06T21:53:00+00:00"
 slug = "the-mysterious-origins"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.bbc.com/culture/story/20150902-the-mysterious-origins-of-punctuation"
 title = "The mysterious origins of punctuation"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

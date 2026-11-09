@@ -1,11 +1,11 @@
-+++
-url = "/2020/02/11/this-scrips-intends.html"
++++url = "/2020/02/11/this-scrips-intends.html"
 date = "2020-02-11T11:00:00+00:00"
 slug = "this-scrips-intends"
-tags = ["retalls","intl"]
+tags = ["intl"]
 x_url = "https://github.com/simonthum/git-sync"
 title = "GitHub - simonthum/git-sync: Safe and simple one-script git synchronization"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

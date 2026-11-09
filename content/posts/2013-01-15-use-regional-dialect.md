@@ -1,8 +1,8 @@
-+++
-url = "/2013/01/15/use-regional-dialect.html"
++++url = "/2013/01/15/use-regional-dialect.html"
 date = "2013-01-15T23:00:00+00:00"
 slug = "use-regional-dialect"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Use regional dialect, patois, sparingly.

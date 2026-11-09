@@ -1,10 +1,10 @@
-+++
-date = "2023-04-03T14:05:09+02:00"
-tags = ["retalls"]
++++date = "2023-04-03T14:05:09+02:00"
+tags = []
 slug = "floridi-chatgpt"
 x_url = "https://thephilosophyofinformation.blogspot.com/2023/04/between-rock-and-hard-place-sci-fi.html"
 title = "Luciano Floridi: “Bloquejar ChatGPT és una mesura draconiana. Aprenguem a utilitzar-lo i legislem”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 Sobre la famosa [carta oberta](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) dels autodeclarats experts en Intel·ligència Artificial:

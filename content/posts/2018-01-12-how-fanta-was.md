@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/12/how-fanta-was.html"
++++url = "/2018/01/12/how-fanta-was.html"
 date = "2018-01-12T09:09:00+00:00"
 slug = "how-fanta-was"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.atlasobscura.com/articles/fanta-soda-origins-nazi-germany"
 title = "How Fanta Was Created for Nazi Germany"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

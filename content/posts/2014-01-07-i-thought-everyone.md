@@ -1,11 +1,11 @@
-+++
-url = "/2014/01/07/i-thought-everyone.html"
++++url = "/2014/01/07/i-thought-everyone.html"
 title = "I thought everyone would be a blogger"
 date = "2014-01-07T23:00:00+00:00"
 slug = "i-thought-everyone"
-tags = ["citacions", "retalls"]
+tags = []
 x_url = "http://scripting.com/about.html"
 x_source = "Dave Winer"
+categories = ["citacions", "retalls"]
 +++
 
 > At the beginning of blogging I thought everyone would be a blogger. I was wrong. Most people don’t have the impulse to say what they think.

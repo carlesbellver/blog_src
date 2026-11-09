@@ -1,11 +1,11 @@
-+++
-url = "/2018/09/22/amador-fernndezsavater-la.html"
++++url = "/2018/09/22/amador-fernndezsavater-la.html"
 date = "2018-09-22T09:50:00+00:00"
 slug = "amador-fernndezsavater-la"
-tags = ["retalls"]
+tags = []
 x_url = "https://eldiario.es/interferencias/izquierda-pensamiento_6_816878305.html"
 title = "Amador Fernández-Savater: la necesidad de que la gente piense"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

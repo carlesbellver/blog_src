@@ -1,9 +1,9 @@
-+++
-url = "/2018/02/14/adaptaci-i-adaptabilitat.html"
++++url = "/2018/02/14/adaptaci-i-adaptabilitat.html"
 title = "Adaptació i adaptabilitat: especialistes i generalistes"
 date = "2018-02-14T17:58:00+00:00"
 slug = "adaptaci-i-adaptabilitat"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > [89] Com més adaptació menys adaptabilitat.

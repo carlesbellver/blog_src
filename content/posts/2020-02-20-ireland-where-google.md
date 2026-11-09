@@ -1,11 +1,11 @@
-+++
-url = "/2020/02/20/ireland-where-google.html"
++++url = "/2020/02/20/ireland-where-google.html"
 date = "2020-02-20T08:06:04+00:00"
 slug = "ireland-where-google"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.reuters.com/article/us-google-privacy-eu-exclusive-idUSKBN20D2M3"
 title = "Exclusive: Google users in UK to lose EU data protection - sources - Reuters"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

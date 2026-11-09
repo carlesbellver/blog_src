@@ -1,11 +1,11 @@
-+++
-url = "/2018/11/08/dead-brothel-owner.html"
++++url = "/2018/11/08/dead-brothel-owner.html"
 date = "2018-11-08T07:27:00+00:00"
 slug = "dead-brothel-owner"
-tags = ["retalls"]
+tags = []
 x_url = "https://edition.cnn.com/2018/11/07/politics/dennis-hof-brothel-nevada-state-assembly/index.html"
 title = "Dead brothel owner wins Nevada state assembly seat"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

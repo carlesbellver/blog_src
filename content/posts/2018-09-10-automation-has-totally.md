@@ -1,11 +1,11 @@
-+++
-url = "/2018/09/10/automation-has-totally.html"
++++url = "/2018/09/10/automation-has-totally.html"
 date = "2018-09-10T12:03:00+00:00"
 slug = "automation-has-totally"
-tags = ["retalls"]
+tags = []
 x_url = "https://qz.com/932516/over-the-last-60-years-automation-has-totally-eliminated-just-one-us-occupation/"
 title = "Automation has totally eliminated just one job since 1950"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

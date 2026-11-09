@@ -1,11 +1,11 @@
-+++
-url = "/2017/08/10/keyboards-are-overrated.html"
++++url = "/2017/08/10/keyboards-are-overrated.html"
 date = "2017-08-10T16:25:00+00:00"
 slug = "keyboards-are-overrated"
-tags = ["retalls"]
+tags = []
 x_url = "https://qz.com/1037057/keyboards-are-overrated-cursive-is-back-and-its-making-us-smarter/"
 title = "Keyboards are overrated. Cursive is back and it’s making us smarter"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

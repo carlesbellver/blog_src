@@ -1,11 +1,11 @@
-+++
-url = "/2019/05/17/h-m-enzensberger.html"
++++url = "/2019/05/17/h-m-enzensberger.html"
 date = "2019-05-17T14:30:08+00:00"
 slug = "h-m-enzensberger"
-tags = ["retalls"]
+tags = []
 x_url = "https://elpais.com/diario/1989/12/26/opinion/630630005_850215.html"
 title = "Los héroes de la retirada"
 x_source = ""
+categories = ["retalls"]
 +++
 
 H. M. Enzensberger, 1989: Jruschov, Jaruzelski, Suárez…

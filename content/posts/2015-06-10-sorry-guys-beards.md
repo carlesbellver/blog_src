@@ -1,11 +1,11 @@
-+++
-url = "/2015/06/10/sorry-guys-beards.html"
++++url = "/2015/06/10/sorry-guys-beards.html"
 date = "2015-06-10T22:00:00+00:00"
 slug = "sorry-guys-beards"
-tags = ["retalls"]
+tags = []
 x_url = "http://mashable.com/2015/06/10/yuccie-beards/"
 title = "Sorry guys, beards are over"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

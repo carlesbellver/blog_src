@@ -1,11 +1,11 @@
-+++
-url = "/2019/11/05/bbc-news-the.html"
++++url = "/2019/11/05/bbc-news-the.html"
 date = "2019-11-05T12:40:00+00:00"
 slug = "bbc-news-the"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.bbc.com/news/av/world-africa-50126963/the-kenyan-ghost-writers-doing-lazy-western-students-work"
 title = "The ghost writers helping ’lazy’ Western students"
 x_source = "BBC News"
+categories = ["retalls"]
 +++
 
 

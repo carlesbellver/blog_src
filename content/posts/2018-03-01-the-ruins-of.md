@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/01/the-ruins-of.html"
++++url = "/2018/03/01/the-ruins-of.html"
 date = "2018-03-01T10:25:00+00:00"
 slug = "the-ruins-of"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.amusingplanet.com/2018/03/the-ruins-of-st-pauls-church-macau.html"
 title = "The Ruins of St. Paul’s Church, Macau "
 x_source = ""
+categories = ["retalls"]
 +++
 
 

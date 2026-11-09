@@ -1,11 +1,11 @@
-+++
-title = "Researchers craft smiling robot face from living human skin cells"
++++title = "Researchers craft smiling robot face from living human skin cells"
 date = "2024-07-06T20:24:33+02:00"
-tags = ["retalls"]
+tags = []
 slug = "robot-skin"
 x_url = "https://arstechnica.com/science/2024/06/researchers-craft-smiling-robot-face-from-living-human-skin-cells/"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/112740939627293307"
+categories = ["retalls"]
 +++
 
 Robots amb pell humana cultivada al laboratori.

@@ -1,10 +1,10 @@
-+++
-date = "2021-01-05T07:19:30+01:00"
-tags = ["retalls"]
++++date = "2021-01-05T07:19:30+01:00"
+tags = []
 slug = "carme-valls"
 x_url = "https://www.vilaweb.cat/noticies/carme-valls-dones-medicina-entrevista/"
 title = "Carme Valls: “Ara per tenir orgasmes et donen un antidepressiu cada dia”"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

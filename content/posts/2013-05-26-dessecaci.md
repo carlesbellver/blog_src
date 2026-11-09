@@ -1,10 +1,10 @@
-+++
-url = "/2013/05/26/dessecaci.html"
++++url = "/2013/05/26/dessecaci.html"
 title = "Dessecació"
 date = "2013-05-26T22:00:00+00:00"
 slug = "dessecaci"
-tags = ["fotos"]
+tags = []
 photos = ["/uploads/2020/f5a37ff48d.jpg"]
+categories = ["fotos"]
 +++
 
 En *El otoño del patriarca*, el dictador venia el mar als *gringos* per pal·liar l’endeutament. Avui, en passar pel Parc de Ribalta, m’he trobat la bassa dels peixos buida…

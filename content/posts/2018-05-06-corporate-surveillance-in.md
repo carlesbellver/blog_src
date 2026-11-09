@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/06/corporate-surveillance-in.html"
++++url = "/2018/05/06/corporate-surveillance-in.html"
 date = "2018-05-06T18:14:00+00:00"
 slug = "corporate-surveillance-in"
-tags = ["retalls"]
+tags = []
 x_url = "http://crackedlabs.org/en/corporate-surveillance"
 title = "Corporate Surveillance in Everyday Life"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

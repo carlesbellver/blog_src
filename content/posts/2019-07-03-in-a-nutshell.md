@@ -1,11 +1,11 @@
-+++
-url = "/2019/07/03/in-a-nutshell.html"
++++url = "/2019/07/03/in-a-nutshell.html"
 date = "2019-07-03T13:58:00+00:00"
 slug = "in-a-nutshell"
-tags = ["retalls"]
+tags = []
 x_url = "https://davidyat.es/2019/06/24/indieweb/"
 title = "Untangling the IndieWeb"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

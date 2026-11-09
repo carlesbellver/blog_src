@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/18/national-poo-museum.html"
++++url = "/2018/01/18/national-poo-museum.html"
 date = "2018-01-18T13:08:00+00:00"
 slug = "national-poo-museum"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.atlasobscura.com/places/national-poo-museum"
 title = "National Poo Museum – Sandown, England"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

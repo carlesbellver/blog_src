@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/26/aquell-ms-de.html"
++++url = "/2018/04/26/aquell-ms-de.html"
 date = "2018-04-26T08:39:00+00:00"
 slug = "aquell-ms-de"
-tags = ["retalls"]
+tags = []
 x_url = "https://blocs.mesvilaweb.cat/xavierdiez/?p=270262"
 title = "Aquell 1986"
 x_source = "Xavier Diez"
+categories = ["retalls"]
 +++
 
 

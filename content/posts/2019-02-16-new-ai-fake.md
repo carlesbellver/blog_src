@@ -1,11 +1,11 @@
-+++
-url = "/2019/02/16/new-ai-fake.html"
++++url = "/2019/02/16/new-ai-fake.html"
 date = "2019-02-16T18:46:00+00:00"
 slug = "new-ai-fake"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction"
 title = "New AI fake text generator may be too dangerous to release, say creators"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

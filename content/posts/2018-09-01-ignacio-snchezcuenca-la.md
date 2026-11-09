@@ -1,11 +1,11 @@
-+++
-url = "/2018/09/01/ignacio-snchezcuenca-la.html"
++++url = "/2018/09/01/ignacio-snchezcuenca-la.html"
 date = "2018-09-01T12:21:00+00:00"
 slug = "ignacio-snchezcuenca-la"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.lavanguardia.com/opinion/20180901/451549851881/posverdad-suprema.html"
 title = "Ignacio Sánchez-Cuenca: La posverdad suprema"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

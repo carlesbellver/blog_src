@@ -1,11 +1,11 @@
-+++
-url = "/2018/10/15/pythonblockchainapp-tutorial-for.html"
++++url = "/2018/10/15/pythonblockchainapp-tutorial-for.html"
 date = "2018-10-15T08:31:00+00:00"
 slug = "pythonblockchainapp-tutorial-for"
-tags = ["retalls"]
+tags = []
 x_url = "https://github.com/satwikkansal/python_blockchain_app"
 title = "python_blockchain_app"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

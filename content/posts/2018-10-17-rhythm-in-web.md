@@ -1,11 +1,11 @@
-+++
-url = "/2018/10/17/rhythm-in-web.html"
++++url = "/2018/10/17/rhythm-in-web.html"
 date = "2018-10-17T17:38:00+00:00"
 slug = "rhythm-in-web"
-tags = ["retalls"]
+tags = []
 x_url = "https://betterwebtype.com/rhythm-in-web-typography"
 title = "Rhythm in Web Typography"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

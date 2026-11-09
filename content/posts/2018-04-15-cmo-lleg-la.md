@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/15/cmo-lleg-la.html"
++++url = "/2018/04/15/cmo-lleg-la.html"
 date = "2018-04-15T20:07:00+00:00"
 slug = "cmo-lleg-la"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.bbc.com/mundo/noticias-39281394"
 title = "Cómo llegó la Biblia del Diablo al Gabinete de las Maravillas del excéntrico emperador Rodolfo II"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

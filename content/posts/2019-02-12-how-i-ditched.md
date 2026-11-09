@@ -1,11 +1,11 @@
-+++
-url = "/2019/02/12/how-i-ditched.html"
++++url = "/2019/02/12/how-i-ditched.html"
 date = "2019-02-12T15:39:00+00:00"
 slug = "how-i-ditched"
-tags = ["retalls"]
+tags = []
 x_url = "https://vickylai.com/verbose/how-i-ditched-wordpress-and-set-up-my-custom-domain-https-site-for-almost-free/"
 title = "How I ditched WordPress and set up my custom domain HTTPS site for (almost) free"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

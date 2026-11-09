@@ -1,7 +1,8 @@
 +++
 title = ""
 date = "{{ .Date }}"
-tags = ["fotos"]
+categories = ["fotos"]
+tags = []
 photos = []
 slug = ""
 fedurl = ""

@@ -1,11 +1,11 @@
-+++
-url = "/2017/12/28/quote-investigator-the.html"
++++url = "/2017/12/28/quote-investigator-the.html"
 date = "2017-12-28T10:07:00+00:00"
 slug = "quote-investigator-the"
-tags = ["retalls"]
+tags = []
 x_url = "https://quoteinvestigator.com/2017/12/27/plural/"
 title = "The Plural of Anecdote Is Not Data"
 x_source = "Quote Investigator"
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2019/02/17/the-cloud-is.html"
++++url = "/2019/02/17/the-cloud-is.html"
 date = "2019-02-17T07:48:00+00:00"
 slug = "the-cloud-is"
-tags = ["retalls"]
+tags = []
 x_url = "https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/"
 title = "The Cloud Is Just Someone Else’s Computer"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

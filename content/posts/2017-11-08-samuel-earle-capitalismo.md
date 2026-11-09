@@ -1,11 +1,11 @@
-+++
-url = "/2017/11/08/samuel-earle-capitalismo.html"
++++url = "/2017/11/08/samuel-earle-capitalismo.html"
 date = "2017-11-08T08:20:00+00:00"
 slug = "samuel-earle-capitalismo"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.sinpermiso.info/textos/capitalismo-vs-privacidad"
 title = "Capitalismo vs. Privacidad"
 x_source = "Samuel Earle"
+categories = ["retalls"]
 +++
 
 

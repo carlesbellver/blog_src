@@ -1,10 +1,10 @@
-+++
-url = "/2013/01/28/our-isolation-is.html"
++++url = "/2013/01/28/our-isolation-is.html"
 title = "L’aïllament no és permanent"
 date = "2013-01-28T23:00:00+00:00"
 slug = "our-isolation-is"
-tags = ["retalls", "citacions"]
+tags = []
 x_source = "Dorion Sagan"
+categories = ["citacions", "retalls"]
 +++
 
 > Quan connectem amb una altra persona, en el sexe o en l’amor (o, més rarament, ambdós) demostrem que el nostre aïllament no és permanent. En la plenitud del temps, tots podem estar vinculats.

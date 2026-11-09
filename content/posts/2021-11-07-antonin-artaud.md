@@ -1,8 +1,8 @@
-+++
-date = "2021-11-07T12:25:28+01:00"
-tags = ["fotos", "citacions"]
++++date = "2021-11-07T12:25:28+01:00"
+tags = []
 photos = ["/uploads/2021/2021-11-07-antonin-artaud.jpg"]
 slug = "antonin-artaud"
+categories = ["citacions", "fotos"]
 +++
 
 > A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.

@@ -1,11 +1,11 @@
-+++
-title = "There is no EU cookie banner law"
++++title = "There is no EU cookie banner law"
 date = "2024-04-01T16:44:27+02:00"
-tags = ["retalls"]
+tags = []
 slug = "cookie-banner-law"
 x_url = "https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/112196508028860522"
+categories = ["retalls"]
 +++
 
 El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.

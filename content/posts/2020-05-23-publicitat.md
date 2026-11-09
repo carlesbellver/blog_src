@@ -1,9 +1,9 @@
-+++
-url = "/2020/05/23/publicitat.html"
++++url = "/2020/05/23/publicitat.html"
 date = "2020-05-23T20:16:48+00:00"
 slug = "publicitat"
-tags = ["fotos", "Castelló"]
+tags = ["Castelló"]
 photos = ["/uploads/2020/570ba9d7e6.jpg"]
+categories = ["fotos"]
 +++
 
 PUBLICITAT

@@ -1,11 +1,11 @@
-+++
-url = "/2017/08/10/no-facebook-did.html"
++++url = "/2017/08/10/no-facebook-did.html"
 date = "2017-08-10T16:31:00+00:00"
 slug = "no-facebook-did"
-tags = ["retalls"]
+tags = []
 x_url = "https://gizmodo.com/no-facebook-did-not-panic-and-shut-down-an-ai-program-1797414922"
 title = "No, Facebook Did Not Panic and Shut Down an AI Program That Was Getting Dangerously Smart"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

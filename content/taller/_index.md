@@ -8,7 +8,7 @@ Experiments i divagacions entre la tecnologia i la literatura.
   - [Llibres per correu](https://po.l0fi.net) (2025)
   - [Samarretes](https://www.latostadora.com/shop/lavistacansada/?shop_trk) (2024)
   - [Lo-fi writer](/2023/03/19/lofiwriter/) (2023)
-  - [Inspiració](https://42.carlesbellver.net) (2022)
+  - [Inspiració](https://inspira.l0fi.net/) (2022)
   - [Sant Jordi digital](/2022/04/22/sant-jordi/) (2022)
   - [(no)nft](https://notnft.carlesbellver.net/) (2022)
   - [unicorns.png](/2021/11/04/n-est-pas-un-livre/) (un llibre dins d'una imatge en format PNG) (2021)

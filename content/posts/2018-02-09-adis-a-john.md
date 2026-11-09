@@ -1,11 +1,11 @@
-+++
-url = "/2018/02/09/adis-a-john.html"
++++url = "/2018/02/09/adis-a-john.html"
 date = "2018-02-09T22:52:00+00:00"
 slug = "adis-a-john"
-tags = ["retalls"]
+tags = []
 x_url = "http://eldiario.es/cultura/John-Perry-Barlow_0_738076647.html"
 title = "Adiós a John Perry Barlow, el primer activista de los derechos civiles online"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

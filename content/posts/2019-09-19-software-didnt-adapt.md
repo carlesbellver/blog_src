@@ -1,11 +1,11 @@
-+++
-url = "/2019/09/19/software-didnt-adapt.html"
++++url = "/2019/09/19/software-didnt-adapt.html"
 date = "2019-09-19T10:22:00+00:00"
 slug = "software-didnt-adapt"
-tags = ["retalls"]
+tags = []
 x_url = "https://tante.cc/2019/09/06/on-ai-replacing-jobs-and-humans/"
 title = "On “AI” replacing jobs and humans"
 x_source = ""
+categories = ["retalls"]
 +++
 
 > El programari no es va adaptar al món. Vam adaptar el món al programari […] Per tal que aquests sistemes funcionen, els processos s’han de simplificar, s’ha d’eliminar la complexitat. Això, sovint, té un cost.

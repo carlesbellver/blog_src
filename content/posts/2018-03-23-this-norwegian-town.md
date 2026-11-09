@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/23/this-norwegian-town.html"
++++url = "/2018/03/23/this-norwegian-town.html"
 date = "2018-03-23T14:48:00+00:00"
 slug = "this-norwegian-town"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.geek.com/culture/this-norwegian-town-hasnt-buried-a-body-since-1950-1734832/?source"
 title = "This Norwegian Town Hasn’t Buried a Body Since 1950"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

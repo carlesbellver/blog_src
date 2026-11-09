@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/04/cuando-las-palabras.html"
++++url = "/2019/01/04/cuando-las-palabras.html"
 date = "2019-01-04T23:01:00+00:00"
 slug = "cuando-las-palabras"
-tags = ["retalls"]
+tags = []
 x_url = "https://elpais.com/elpais/2018/12/13/ciencia/1544704324_116932.amp.html"
 title = "Cuando las palabras médicas las carga el diablo"
 x_source = ""
+categories = ["retalls"]
 +++ 
 
 

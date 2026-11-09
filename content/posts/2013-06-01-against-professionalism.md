@@ -1,9 +1,9 @@
-+++
-url = "/2013/06/01/against-professionalism.html"
++++url = "/2013/06/01/against-professionalism.html"
 title = "Contra la professionalització"
 date = "2013-06-01T22:00:00+00:00"
 slug = "against-professionalism"
-tags = ["retalls", "citacions"]
+tags = []
+categories = ["citacions", "retalls"]
 +++
 
 > *There is no such thing as professionalism in writing.*

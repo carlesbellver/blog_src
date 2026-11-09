@@ -1,11 +1,11 @@
-+++
-url = "/2020/03/02/fallece-el-poeta.html"
++++url = "/2020/03/02/fallece-el-poeta.html"
 date = "2020-03-02T17:06:00+00:00"
 slug = "fallece-el-poeta"
-tags = ["retalls"]
+tags = []
 x_url = "https://elpais.com/cultura/2020/03/01/actualidad/1583097905_798631.html"
 title = "Fallece el poeta nicaragüense Ernesto Cardenal, figura clave de la Teología de la Liberación"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

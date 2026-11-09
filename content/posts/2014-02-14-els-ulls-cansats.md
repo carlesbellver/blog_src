@@ -1,9 +1,9 @@
-+++
-url = "/2014/02/14/els-ulls-cansats.html"
++++url = "/2014/02/14/els-ulls-cansats.html"
 title = "Els ulls cansats de Julio Cortázar"
 date = "2014-02-14T23:00:00+00:00"
 slug = "els-ulls-cansats"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Yo también envejezco, mamita, mis ojos se cansan mucho (los usé demasiado en esta vida) […]

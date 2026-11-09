@@ -1,11 +1,11 @@
-+++
-url = "/2017/10/24/how-money-became.html"
++++url = "/2017/10/24/how-money-became.html"
 date = "2017-10-24T12:25:00+00:00"
 slug = "how-money-became"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.theatlantic.com/business/archive/2017/10/money-measure-everything-pricing-progress/543345/"
 title = "How Money Became the Measure of Everything"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

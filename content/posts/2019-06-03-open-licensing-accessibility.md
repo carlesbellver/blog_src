@@ -1,11 +1,11 @@
-+++
-url = "/2019/06/03/open-licensing-accessibility.html"
++++url = "/2019/06/03/open-licensing-accessibility.html"
 date = "2019-06-03T11:44:00+00:00"
 slug = "open-licensing-accessibility"
-tags = ["retalls", "educació"]
+tags = ["educació"]
 x_url = "https://firstmonday.org/ojs/index.php/fm/article/view/9180"
 title = "Open enough? Eight factors to consider when transitioning from closed to open resources and courses"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

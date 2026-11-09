@@ -1,9 +1,9 @@
-+++
-url = "/2013/12/19/tensin-de-muerte.html"
++++url = "/2013/12/19/tensin-de-muerte.html"
 date = "2013-12-19T23:00:00+00:00"
 slug = "tensin-de-muerte"
-tags = ["fotos"]
+tags = []
 photos = ["/uploads/2019/7c080aeb41.jpg"]
+categories = ["fotos"]
 +++
 
 Tensión de muerte. *Sometimes you may feel like that*.

@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/14/sold-isaac-newtons.html"
++++url = "/2018/03/14/sold-isaac-newtons.html"
 date = "2018-03-14T10:35:00+00:00"
 slug = "sold-isaac-newtons"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.atlasobscura.com/articles/newton-studied-alchemy-philosophers-stone"
 title = "Sold: Isaac Newton’s Notes on the Philosopher’s Stone"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

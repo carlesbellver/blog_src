@@ -1,9 +1,9 @@
-+++
-url = "/2013/07/29/natalie-merchant-we.html"
++++url = "/2013/07/29/natalie-merchant-we.html"
 title = "Natalie Merchant i la música proletària"
 date = "2013-07-29T22:00:00+00:00"
 slug = "natalie-merchant-we"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Vam anomenar *proletària* la música que fèiem, conscients del fet que vivíem en una ciutat petita de treballadors de coll blau, geogràficament i culturalment aïllada. Escrivíem i assajàvem en un molí de llana recondicionat, construït a la vora del contaminat riu Chadakoin, que es movia lentament per una part trista i decrèpita de la nostra vila natal.  

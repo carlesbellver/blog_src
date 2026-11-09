@@ -1,11 +1,11 @@
-+++
-url = "/2019/03/10/code-hidden-in.html"
++++url = "/2019/03/10/code-hidden-in.html"
 date = "2019-03-10T07:55:00+00:00"
 slug = "code-hidden-in"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.newscientist.com/article/mg23230990-700-in-search-of-the-very-first-coded-symbols/"
 title = "Code hidden in Stone Age art may be the root of human writing"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,11 +1,11 @@
-+++
-url = "/2020/06/10/ibm-says-it.html"
++++url = "/2020/06/10/ibm-says-it.html"
 date = "2020-06-10T10:08:00+00:00"
 slug = "ibm-says-it"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.technologyreview.com/2020/06/09/1002947/ibm-says-it-is-no-longer-working-on-face-recognition-because-its-used-for-racial-profiling/"
 title = "IBM says it is no longer working on face recognition because it’s used for racial profiling"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

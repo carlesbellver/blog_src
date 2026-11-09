@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/03/cory-doctorow-zucks.html"
++++url = "/2018/07/03/cory-doctorow-zucks.html"
 date = "2018-07-03T18:35:00+00:00"
 slug = "cory-doctorow-zucks"
-tags = ["retalls"]
+tags = []
 x_url = "http://locusmag.com/2018/07/cory-doctorow-zucks-empire-of-oily-rags/"
 title = "Cory Doctorow: Zuck’s Empire of Oily Rags"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

@@ -1,10 +1,10 @@
-+++
-date = "2023-02-23T09:44:05+01:00"
-tags = ["retalls"]
++++date = "2023-02-23T09:44:05+01:00"
+tags = []
 slug = "stephen-wolfram-chatgpt"
 x_url = "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
 title = "What Is ChatGPT Doing… and Why Does It Work?"
 x_source = "Stephen Wolfram"
+categories = ["retalls"]
 +++
 
 > El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una “continuació raonable” del text, on per raonable entenem el que es podria esperar que algú escriga després de veure el que la gent ha escrit en milers de milions de pàgines web.

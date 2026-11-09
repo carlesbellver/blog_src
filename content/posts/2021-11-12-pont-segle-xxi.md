@@ -1,9 +1,9 @@
-+++
-date = "2021-11-10T17:31:36+01:00"
-tags = ["fotos", "Castelló"]
++++date = "2021-11-10T17:31:36+01:00"
+tags = ["Castelló"]
 photos = ["/uploads/2021/2021-11-10-pont-segle-xxi.jpg"]
 slug = "pont-segle-xxi"
 map = [39.9908027, -0.0579481]
+categories = ["fotos"]
 +++
 
 Castelló. Pont del [segle XXI](/2019/08/18/it-was-hell.html).

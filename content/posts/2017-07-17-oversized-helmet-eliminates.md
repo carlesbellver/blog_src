@@ -1,11 +1,11 @@
-+++
-url = "/2017/07/17/oversized-helmet-eliminates.html"
++++url = "/2017/07/17/oversized-helmet-eliminates.html"
 date = "2017-07-17T13:10:00+00:00"
 slug = "oversized-helmet-eliminates"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.cnet.com/news/helmfon-noise-isolating-helmet-hochu-rayu-work/"
 title = "Slip your head into a huge noise-isolating helmet"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

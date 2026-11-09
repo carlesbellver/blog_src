@@ -1,11 +1,11 @@
-+++
-url = "/2019/11/30/a-tool-that.html"
++++url = "/2019/11/30/a-tool-that.html"
 date = "2019-11-30T12:46:33+00:00"
 slug = "a-tool-that"
-tags = ["retalls"]
+tags = []
 x_url = "https://whocanuse.com/"
 title = "Who Can Use"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

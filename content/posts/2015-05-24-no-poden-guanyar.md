@@ -1,8 +1,8 @@
-+++
-url = "/2015/05/24/no-poden-guanyar.html"
++++url = "/2015/05/24/no-poden-guanyar.html"
 date = "2015-05-24T22:00:00+00:00"
 slug = "no-poden-guanyar"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > —No poden guanyar eternament! —va dir en Frodo.

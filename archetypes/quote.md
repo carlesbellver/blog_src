@@ -1,7 +1,8 @@
 +++
 title = ""
 date = "{{ .Date }}"
-tags = ["citacions"]
+categories = ["citacions"]
+tags = []
 slug = ""
 fedurl = ""
 +++

@@ -1,9 +1,9 @@
-+++
-url = "/2016/03/12/lord-acton-en.html"
++++url = "/2016/03/12/lord-acton-en.html"
 title = "Lord Acton al laboratori: poder, corrupció i testosterona"
 date = "2016-03-12T23:00:00+00:00"
 slug = "lord-acton-en"
-tags = ["retalls","citacions"]
+tags = []
+categories = ["citacions", "retalls"]
 +++
 
 <a href="https://commons.wikimedia.org/wiki/File%3APicture_of_John_Dalberg-Acton,_1st_Baron_Acton.jpg#/media/File:Picture_of_John_Dalberg-Acton,_1st_Baron_Acton.jpg"><img src="/uploads/2019/2618d98add.jpg" alt="Foto: John Dalberg-Acton, 1st Baron Acton" title="John Dalberg-Acton, 1st Baron Acton" /></a>

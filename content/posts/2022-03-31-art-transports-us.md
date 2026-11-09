@@ -1,10 +1,10 @@
-+++
-date = "2022-03-31T20:07:23+02:00"
-tags = ["retalls"]
++++date = "2022-03-31T20:07:23+02:00"
+tags = []
 slug = "art-transports-us"
 x_url = "https://psyche.co/ideas/when-art-transports-us-where-do-we-actually-go"
 title = "When art transports us, where do we actually go?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

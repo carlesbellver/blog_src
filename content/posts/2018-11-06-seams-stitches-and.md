@@ -1,11 +1,11 @@
-+++
-url = "/2018/11/06/seams-stitches-and.html"
++++url = "/2018/11/06/seams-stitches-and.html"
 date = "2018-11-06T14:10:00+00:00"
 slug = "seams-stitches-and"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.baldurbjarnason.com/2018/11/03/seams-stitches-and-the-decline-of-the-mac/"
 title = "Seams, Stitches, And The Decline Of The Mac"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

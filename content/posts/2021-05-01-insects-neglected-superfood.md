@@ -1,10 +1,10 @@
-+++
-date = "2021-05-01T10:12:06+02:00"
-tags = ["retalls"]
++++date = "2021-05-01T10:12:06+02:00"
+tags = []
 slug = "insects-neglected-superfood"
 x_url = "https://www.bbc.com/future/article/20210420-the-protein-rich-superfood-most-europeans-wont-eat"
 title = "A neglected protein-rich ’superfood’"
 x_source = "BBC Future"
+categories = ["retalls"]
 +++
 
 

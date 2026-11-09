@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/05/what-has-happened.html"
++++url = "/2019/01/05/what-has-happened.html"
 date = "2019-01-05T10:21:00+00:00"
 slug = "what-has-happened"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.bbc.com/news/magazine-16909592"
 title = "What has happened to Nasa’s missing Moon rocks?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

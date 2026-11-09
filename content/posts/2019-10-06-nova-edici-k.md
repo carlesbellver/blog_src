@@ -1,9 +1,9 @@
-+++
-url = "/2019/10/06/nova-edici-k.html"
++++url = "/2019/10/06/nova-edici-k.html"
 title = "Nova edició 48K d’Unicorns"
 date = "2019-10-06T07:06:00+00:00"
 slug = "nova-edici-k"
-tags = ["contes","fotos"]
+tags = ["contes"]
+categories = ["fotos"]
 +++
 
 Només a Internet. No espereu trobar [una meravella com aquesta](http://carlesbellver.net/contes/unicorns/) a les llibreries.

@@ -1,11 +1,11 @@
-+++
-url = "/2018/12/14/perhaps-you-would.html"
++++url = "/2018/12/14/perhaps-you-would.html"
 date = "2018-12-14T07:26:00+00:00"
 slug = "perhaps-you-would"
-tags = ["retalls"]
+tags = []
 x_url = "https://qz.com/1494831/penguin-infested-pebble-island-in-the-falklands-is-up-for-sale/"
 title = "Perhaps you would like to own your own Falkland Island, complete with penguins"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

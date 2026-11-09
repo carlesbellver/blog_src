@@ -1,11 +1,11 @@
-+++
-title = "A Grand Unified Theory of the AI Hype Cycle"
++++title = "A Grand Unified Theory of the AI Hype Cycle"
 date = "2024-05-24T13:26:11+02:00"
-tags = ["retalls"]
+tags = []
 slug = "ai-hype-cycle"
 x_url = "https://blog.glyph.im/2024/05/grand-unified-ai-hype.html"
 x_source = ""
 fedurl = "https://mastodon.social/@carlesbellver/112495831226458058"
+categories = ["retalls"]
 +++
 
 Un patró que s’ha repetit periòdicament des de 1950. Avanços científico-tècnics prometedors que requereixen potència informàtica extra i condueixen a inflar la bombolla de la IA, fins que aquesta inevitablement es desinfla. Com a resultat, una gran frustració i al mateix temps aplicacions reals, útils, més restringides del que es deia. La IA general continua tan lluny com sempre.

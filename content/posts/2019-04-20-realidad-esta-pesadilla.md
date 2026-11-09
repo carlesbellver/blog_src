@@ -1,8 +1,8 @@
-+++
-url = "/2019/04/20/realidad-esta-pesadilla.html"
++++url = "/2019/04/20/realidad-esta-pesadilla.html"
 date = "2019-04-20T17:21:00+00:00"
 slug = "realidad-esta-pesadilla"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > (¿*realidad* esta pesadilla irreal, esta danza de idiotas al borde del abismo?)

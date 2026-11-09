@@ -1,11 +1,11 @@
-+++
-url = "/2020/06/22/manton-reece-fixing.html"
++++url = "/2020/06/22/manton-reece-fixing.html"
 date = "2020-06-22T14:43:01+00:00"
 slug = "manton-reece-fixing"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.manton.org/2020/06/22/fixing-the-app.html"
 title = "Fixing the App Store for developers"
 x_source = "Manton Reece"
+categories = ["retalls"]
 +++
 
 

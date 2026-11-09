@@ -1,9 +1,9 @@
-+++
-url = "/2006/08/22/pneumtica.html"
++++url = "/2006/08/22/pneumtica.html"
 title = "Pneumàtica"
 date = "2006-08-22T22:00:00+00:00"
 slug = "pneumtica"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > A cadascú li plau l’olor dels seus pets.

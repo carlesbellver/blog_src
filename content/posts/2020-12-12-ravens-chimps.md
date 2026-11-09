@@ -1,10 +1,10 @@
-+++
-date = "2020-12-12T13:30:42+01:00"
-tags = ["retalls"]
++++date = "2020-12-12T13:30:42+01:00"
+tags = []
 slug = "ravens-chimps"
 x_url = "https://www.scientificamerican.com/article/young-ravens-rival-adult-chimps-in-a-big-test-of-general-intelligence/"
 title = "Young Ravens Rival Adult Chimps in a Big Test of General Intelligence"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

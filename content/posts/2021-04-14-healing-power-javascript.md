@@ -1,10 +1,10 @@
-+++
-date = "2021-04-14T21:04:22+02:00"
++++date = "2021-04-14T21:04:22+02:00"
 slug = "healing-power-javascript"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.wired.com/story/healing-power-javascript-code-programming/"
 title = "The Healing Power of JavaScript"
 x_source = "Craig Mod"
+categories = ["retalls"]
 +++
 
 

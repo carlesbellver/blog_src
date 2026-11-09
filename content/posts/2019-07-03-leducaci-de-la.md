@@ -1,11 +1,11 @@
-+++
-url = "/2019/07/03/leducaci-de-la.html"
++++url = "/2019/07/03/leducaci-de-la.html"
 date = "2019-07-03T15:39:00+00:00"
 slug = "leducaci-de-la"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.dipcas.es/va/actualidad/diputaci-troba-un-llibre-de-lluis-vives-del-segle-xvi-entre-els-seus-fons-documentals"
 title = "Diputació troba un llibre de Lluis Vives del segle XVI entre els seus fons documentals"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

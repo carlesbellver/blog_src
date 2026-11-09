@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/25/jack-el-destripador.html"
++++url = "/2018/03/25/jack-el-destripador.html"
 date = "2018-03-25T15:31:00+00:00"
 slug = "jack-el-destripador"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.lavanguardia.com/local/madrid/20180325/441905258231/jack-el-destripador-lavapies-madrid.html"
 title = "Jack el Destripador en Lavapiés"
 x_source = "Pedro Vallín"
+categories = ["retalls"]
 +++
 
 

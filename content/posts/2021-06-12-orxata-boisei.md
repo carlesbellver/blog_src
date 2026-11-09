@@ -1,8 +1,8 @@
-+++
-date = "2021-06-12T12:17:04+02:00"
-tags = ["fotos"]
++++date = "2021-06-12T12:17:04+02:00"
+tags = []
 photos = ["/uploads/2021/2021-06-12-orxata-boisei.jpg"]
 slug = "orxata-boisei"
+categories = ["fotos"]
 +++
 
 > S’ha suggerit que l’hominini extingit *Paranthropus boisei* (l’“home trencanous”) subsistia a base de xufes.

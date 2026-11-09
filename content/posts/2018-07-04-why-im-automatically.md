@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/04/why-im-automatically.html"
++++url = "/2018/07/04/why-im-automatically.html"
 date = "2018-07-04T09:50:00+00:00"
 slug = "why-im-automatically"
-tags = ["retalls"]
+tags = []
 x_url = "https://vickylai.com/verbose/delete-old-tweets-ephemeral/"
 title = "Why I’m automatically deleting my old tweets"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

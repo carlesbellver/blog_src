@@ -1,9 +1,9 @@
-+++
-url = "/2015/01/23/parlar-sense-entendre.html"
++++url = "/2015/01/23/parlar-sense-entendre.html"
 title = "Parlar sense entendre"
 date = "2015-01-23T23:00:00+00:00"
 slug = "parlar-sense-entendre"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > —Els ho puc descriure en italià, en anglès i en alemany —diu Anselmo—. El francès, malauradament, el llegisc, però no el parle. L’espanyol, el parle, però no l’entenc.

@@ -5,7 +5,8 @@ url = "opinions"
 description = "Què han dit dels meus llibres algunes de les poques persones que els han llegit."
 date = "2021-04-23T22:00:00+00:00"
 image = "/uploads/ulleres.jpg"
-tags = ["citacions"]
+tags = [""]
+categories = ["citacions"]
 +++
 
 Què han dit dels meus [llibres](/llibres/) algunes de les poques persones que els han llegit.

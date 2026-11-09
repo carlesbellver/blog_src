@@ -1,11 +1,11 @@
-+++
-url = "/2018/08/04/londons-secret-nuclear.html"
++++url = "/2018/08/04/londons-secret-nuclear.html"
 date = "2018-08-04T18:11:00+00:00"
 slug = "londons-secret-nuclear"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.amusingplanet.com/2018/07/londons-secret-nuclear-reactor.html"
 title = "London’s Secret Nuclear Reactor"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

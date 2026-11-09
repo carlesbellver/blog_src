@@ -1,11 +1,11 @@
-+++
-url = "/2018/09/22/the-landlocked-navy.html"
++++url = "/2018/09/22/the-landlocked-navy.html"
 date = "2018-09-22T08:22:00+00:00"
 slug = "the-landlocked-navy"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.amusingplanet.com/2018/09/the-landlocked-navy-of-mongolia.html"
 title = "The Landlocked Navy of Mongolia"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

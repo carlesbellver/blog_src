@@ -1,10 +1,10 @@
-+++
-url = "/2020/09/07/images-et-connaissance.html"
++++url = "/2020/09/07/images-et-connaissance.html"
 date = "2020-09-07T18:22:00+00:00"
 slug = "images-et-connaissance"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.faidutti.com/unicorn/unicorn.htm"
 title = "Images et connaissance de la licorne"
+categories = ["retalls"]
 +++
 
 > Fa deu anys que visc amb unicorns. I gràcies a la meua tesi, que pareix que em va convertir en l’especialista mundial en aquest animal, fa cinc anys que mantinc aquest lloc web, la qual cosa ha implicat afegir-hi regularment nous enllaços i imatges. Deu anys, cinc anys: arriba un moment en què et canses de tot, inclús de les coses més frívoles.

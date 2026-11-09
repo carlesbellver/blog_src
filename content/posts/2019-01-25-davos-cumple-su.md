@@ -1,11 +1,11 @@
-+++
-url = "/2019/01/25/davos-cumple-su.html"
++++url = "/2019/01/25/davos-cumple-su.html"
 date = "2019-01-25T09:07:00+00:00"
 slug = "davos-cumple-su"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.eldiario.es/economia/Davos-desigualdad_0_860214718.html"
 title = "Davos cumple su misión de costumbre: debatir sobre cambios pero para mantener el statu quo económico"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

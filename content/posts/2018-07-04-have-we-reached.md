@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/04/have-we-reached.html"
++++url = "/2018/07/04/have-we-reached.html"
 date = "2018-07-04T07:58:00+00:00"
 slug = "have-we-reached"
-tags = ["retalls"]
+tags = []
 x_url = "https://singularityhub.com/2018/07/03/have-we-reached-the-limit-of-human-longevity-new-study-says-no/"
 title = "Have We Reached the Limit of Human Longevity? New Study Says No"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

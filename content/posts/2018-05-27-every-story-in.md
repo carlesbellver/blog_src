@@ -1,11 +1,11 @@
-+++
-url = "/2018/05/27/every-story-in.html"
++++url = "/2018/05/27/every-story-in.html"
 date = "2018-05-27T21:07:00+00:00"
 slug = "every-story-in"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.bbc.com/culture/story/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots"
 title = "Every story in the world has one of these six basic plots"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

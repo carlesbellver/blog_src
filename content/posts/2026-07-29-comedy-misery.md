@@ -1,9 +1,9 @@
-+++
-title = ""
++++title = ""
 date = "2026-07-29T08:37:00+02:00"
-tags = ["citacions"]
+tags = []
 slug = "comedy-misery"
 fedurl = "https://mastodon.social/@carlesbellver/117001894537711025"
+categories = ["citacions"]
 +++
 
 > La vida és absurda i majoritàriament còmica. Quan la comèdia falla, el que resta és misèria, no tragèdia.

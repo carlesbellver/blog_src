@@ -1,9 +1,9 @@
-+++
-url = "/2017/01/15/a-common-case.html"
++++url = "/2017/01/15/a-common-case.html"
 title = "A common case of team work"
 date = "2017-01-15T23:00:00+00:00"
 slug = "a-common-case"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 <a title="Lewis Hine [Public domain]" href="https://commons.wikimedia.org/wiki/File:A_common_case_of_%22team_work.%22_Smaller_boy,_Joseph_Bishop,_goes_into_saloons_and_sells_his_last_paper._Then_comes_out..._-_NARA_-_523168.jpg"><img alt="A common case of team work. Smaller boy, Joseph Bishop, goes into saloons and sells his last paper. Then comes out... - NARA - 523168" src="/uploads/2017/2017-01-15-a-common-case.jpg"></a>

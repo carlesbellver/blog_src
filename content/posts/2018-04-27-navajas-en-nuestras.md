@@ -1,11 +1,11 @@
-+++
-url = "/2018/04/27/navajas-en-nuestras.html"
++++url = "/2018/04/27/navajas-en-nuestras.html"
 date = "2018-04-27T10:25:00+00:00"
 slug = "navajas-en-nuestras"
-tags = ["retalls"]
+tags = []
 x_url = "https://www.eldiario.es/barbijaputa/barbijaputa-navajas-manada-sanfermines-violaciones-sentencia_6_765083517.html"
 title = "Navajas en nuestras manos"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

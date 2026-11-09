@@ -1,9 +1,9 @@
-+++
-url = "/2012/10/30/la-tradici-naval.html"
++++url = "/2012/10/30/la-tradici-naval.html"
 title = "La tradició naval britànica i l’etimologia de la ressaca"
 date = "2012-10-30T23:00:00+00:00"
 slug = "la-tradici-naval"
-tags = ["retalls", "drogues"]
+tags = ["drogues"]
+categories = ["retalls"]
 +++
 
 Una altra descoberta deguda al blog [Brain Pickings](http://www.brainpickings.org/index.php/2012/10/29/the-etymology-of-hangover/) de Maria Popova. L’etimologia de la paraula *groggy*/grogui ens trasllada a la tradició naval britànica del segle XVIII. L’almirall [Edward Vernon](http://en.wikipedia.org/wiki/Edward_Vernon) (1684-1757) era conegut pels seus homes com “Old Grog”, per la seua jaqueta de *grogram*, del francès *gros graine*. L’any 1740, Vernon va ordenar rebaixar la ració diària de rom que rebien els mariners: amb aigua, amb cervesa, o amb suc de taronja, segons les versions. En honor d’ell, el combinat resultant va ser anomenat popularment “grog”, i dels seus efectes quan no es consumia amb moderació, rebaixat i tot, començaren a dir-ne estar *groggy*.

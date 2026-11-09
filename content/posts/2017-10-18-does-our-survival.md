@@ -1,11 +1,11 @@
-+++
-url = "/2017/10/18/does-our-survival.html"
++++url = "/2017/10/18/does-our-survival.html"
 date = "2017-10-18T15:17:00+00:00"
 slug = "does-our-survival"
-tags = ["retalls"]
+tags = []
 x_url = "https://singularityhub.com/2017/10/11/do-we-need-relentless-exponential-growth-to-survive/"
 title = "Does Our Survival Depend on Relentless Exponential Growth?"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

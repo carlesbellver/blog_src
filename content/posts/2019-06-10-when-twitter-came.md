@@ -1,8 +1,8 @@
-+++
-url = "/2019/06/10/when-twitter-came.html"
++++url = "/2019/06/10/when-twitter-came.html"
 date = "2019-06-10T08:27:00+00:00"
 slug = "when-twitter-came"
-tags = ["retalls"]
+tags = []
+categories = ["retalls"]
 +++
 
 > Quan Twitter va aparèixer, vam decidir que aquest tipus de coses \[microblogging] eren jurisdicció seua: que només eren tuits.

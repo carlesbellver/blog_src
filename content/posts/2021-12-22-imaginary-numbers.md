@@ -1,10 +1,10 @@
-+++
-date = "2021-12-22T15:28:23+01:00"
-tags = ["retalls"]
++++date = "2021-12-22T15:28:23+01:00"
+tags = []
 slug = "imaginary-numbers"
 x_url = "https://www.livescience.com/imaginary-numbers-needed-to-describe-reality"
 title = "Imaginary numbers could be needed to describe reality, new studies find"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

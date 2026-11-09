@@ -1,11 +1,11 @@
-+++
-url = "/2019/08/21/these-tools-are.html"
++++url = "/2019/08/21/these-tools-are.html"
 date = "2019-08-21T08:55:00+00:00"
 slug = "these-tools-are"
-tags = ["retalls", "educació"]
+tags = ["educació"]
 x_url = "https://www.vice.com/en_us/article/pa7dj9/flawed-algorithms-are-grading-millions-of-students-essays"
 title = "Flawed Algorithms Are Grading Millions of Students’ Essays"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

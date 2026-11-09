@@ -1,11 +1,11 @@
-+++
-title = "Quote Origin: I Don’t Think I’ve Really Seen an Anti-War Film. Every Film About War Ends Up Being Pro-War"
++++title = "Quote Origin: I Don’t Think I’ve Really Seen an Anti-War Film. Every Film About War Ends Up Being Pro-War"
 date = "2025-04-14T19:30:00+02:00"
-tags = ["retalls"]
+tags = []
 slug = "antiwar-film"
 x_url = "https://quoteinvestigator.com/2025/04/12/antiwar-film/"
 x_source = ""
 fedurl = ""
+categories = ["retalls"]
 +++
 
 François Truffaut:

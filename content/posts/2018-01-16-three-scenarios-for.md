@@ -1,11 +1,11 @@
-+++
-url = "/2018/01/16/three-scenarios-for.html"
++++url = "/2018/01/16/three-scenarios-for.html"
 date = "2018-01-16T08:53:00+00:00"
 slug = "three-scenarios-for"
-tags = ["retalls"]
+tags = []
 x_url = "https://twitter.com/nicolas_colin/status/951421093222510592"
 title = "Three scenarios for the new age"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

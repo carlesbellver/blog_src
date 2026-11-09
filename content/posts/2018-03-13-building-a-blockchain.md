@@ -1,11 +1,11 @@
-+++
-url = "/2018/03/13/building-a-blockchain.html"
++++url = "/2018/03/13/building-a-blockchain.html"
 date = "2018-03-13T08:58:00+00:00"
 slug = "building-a-blockchain"
-tags = ["retalls"]
+tags = []
 x_url = "https://halfanhour.blogspot.com.es/2018/03/building-blockchain.html"
 title = "Building a Blockchain"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

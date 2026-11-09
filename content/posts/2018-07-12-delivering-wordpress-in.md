@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/12/delivering-wordpress-in.html"
++++url = "/2018/07/12/delivering-wordpress-in.html"
 date = "2018-07-12T17:16:00+00:00"
 slug = "delivering-wordpress-in"
-tags = ["retalls"]
+tags = []
 x_url = "https://css-tricks.com/delivering-wordpress-in-7kb/"
 title = "Delivering WordPress in 7KB"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

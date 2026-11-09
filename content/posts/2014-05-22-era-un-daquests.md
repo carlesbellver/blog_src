@@ -1,8 +1,8 @@
-+++
-url = "/2014/05/22/era-un-daquests.html"
++++url = "/2014/05/22/era-un-daquests.html"
 date = "2014-05-22T22:00:00+00:00"
 slug = "era-un-daquests"
-tags = ["citacions"]
+tags = []
+categories = ["citacions"]
 +++
 
 > Era un d’aquests vespres esplèndids de primavera que desvetllen el record i el desig.

@@ -1,11 +1,11 @@
-+++
-url = "/2018/07/08/when-jeanpaul-sartre.html"
++++url = "/2018/07/08/when-jeanpaul-sartre.html"
 date = "2018-07-08T22:27:00+00:00"
 slug = "when-jeanpaul-sartre"
-tags = ["retalls"]
+tags = []
 x_url = "http://www.openculture.com/2018/07/jean-paul-sartre-bad-mescaline-trip-hallucinated-years-followed-crabs.html"
 title = "When Jean-Paul Sartre Had a Bad Mescaline Trip and Then Hallucinated, for Years, That He Was Being Followed by Crabs"
 x_source = ""
+categories = ["retalls"]
 +++
 
 

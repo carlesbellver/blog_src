@@ -1,11 +1,11 @@
-+++
-url = "/2017/07/04/paddington-bear-was.html"
++++url = "/2017/07/04/paddington-bear-was.html"
 date = "2017-07-04T15:36:00+00:00"
 slug = "paddington-bear-was"
-tags = ["retalls"]
+tags = []
 x_url = "http://tinyletter.com/audreywatters/letters/hewn-no-220"
 title = "Paddington Bear was a refugee"
 x_source = "Audrey Watters"
+categories = ["retalls"]
 +++
 
 

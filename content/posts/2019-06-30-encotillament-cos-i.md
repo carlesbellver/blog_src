@@ -1,9 +1,9 @@
-+++
-url = "/2019/06/30/encotillament-cos-i.html"
++++url = "/2019/06/30/encotillament-cos-i.html"
 date = "2019-06-30T17:38:29+00:00"
 slug = "encotillament-cos-i"
-tags = ["fotos"]
+tags = []
 photos = ["/uploads/2019/c8162808cb.jpg"]
+categories = ["fotos"]
 +++
 
 Encotillament: cos i ànima. Discos de control i fils de colors.

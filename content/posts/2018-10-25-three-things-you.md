@@ -1,11 +1,11 @@
-+++
-url = "/2018/10/25/three-things-you.html"
++++url = "/2018/10/25/three-things-you.html"
 date = "2018-10-25T11:50:00+00:00"
 slug = "three-things-you"
-tags = ["retalls"]
+tags = []
 x_url = "https://opencontent.org/blog/archives/5735"
 title = "Three Things You May Misunderstand About the Creative Commons Licenses"
 x_source = ""
+categories = ["retalls"]
 +++
 
 
